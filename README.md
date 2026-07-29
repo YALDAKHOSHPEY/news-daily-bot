@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 19:30:17
+**Last Update:** 2026-07-29 20:33:58
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple should be ashamed of its hostile App Store rating system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/7/14.html">https://lapcatsoftware.com/articles/2026/7/14.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49098803">https://news.ycombinator.com/item?id=49098803</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/7/14.html](https://lapcatsoftware.com/articles/2026/7/14.html)
-
----
-
-### 2. The Scientific Literature Is Poisonous to LLMs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reinvent.science/p/the-scientific-literature-is-poisonous">https://www.reinvent.science/p/the-scientific-literature-is-poisonous</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49098728">https://news.ycombinator.com/item?id=49098728</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.reinvent.science/p/the-scientific-literature-is-poisonous](https://www.reinvent.science/p/the-scientific-literature-is-poisonous)
-
----
-
-### 3. Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cesium.com/events/cesium-developer-conference/2026/">https://cesium.com/events/cesium-developer-conference/2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49098599">https://news.ycombinator.com/item?id=49098599</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://cesium.com/events/cesium-developer-conference/2026/](https://cesium.com/events/cesium-developer-conference/2026/)
-
----
-
-### 4. More than half of England in drought, Environment Agency declares
+### 1. More than half of England in drought, Environment Agency declares
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 5. Burnham doesn't rule out tax rises to fix social care
+### 2. Burnham doesn't rule out tax rises to fix social care
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The prime minister holds cross-party talks as he speeds up review of social care
 
 ---
 
-### 6. Serial killer given whole life orders for murders of two men as police investigate four more deaths
+### 3. Serial killer given whole life orders for murders of two men as police investigate four more deaths
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Police are reviewing four unexplained deaths at a homeless shelter where James D
 
 ---
 
-### 7. Why Saudi Arabia holds the key to Palestinian statehood
+### 4. Is the world at risk of another energy shock?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.
+Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss)
 
 ---
 
-### 8. Indian student in Russia says he’s been wrongly charged over Bihar protests
+### 5. Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.
+Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves &#039;people&#039;s game&#039; further from fans.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss)
 
 ---
 
-### 9. US and Israeli leaders expected ‘swift outcome’ in Iran
+### 6. Trump says US to deliver ‘beating’ to Iran after bases again targeted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.
+US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 7. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Typhoon Dolphin
+### 8. Typhoon Dolphin
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 9. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 
