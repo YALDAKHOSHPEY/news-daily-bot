@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 23:20:37
+**Last Update:** 2026-07-29 23:38:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101852">https://news.ycombinator.com/item?id=49101852</a></p>
-<p>Points: 21</p>
-<p># Comments: 0</p>
+<p>Points: 57</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models](https://www.kimi.com/code/docs/en/kimi-code/models)
 
 ---
 
-### 2. How much can you delegate to agents?
+### 2. Balcony Solar: $1.74/watt direct plug-in solar
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.brightsaver.org/balcony-solar-kits">https://www.brightsaver.org/balcony-solar-kits</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101849">https://news.ycombinator.com/item?id=49101849</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.brightsaver.org/balcony-solar-kits](https://www.brightsaver.org/balcony-solar-kits)
+
+---
+
+### 3. How much can you delegate to agents?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.posthog.com/p/agent-autonomy">https://newsletter.posthog.com/p/agent-autonomy</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101655">https://news.ycombinator.com/item?id=49101655</a></p>
-<p>Points: 6</p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://newsletter.posthog.com/p/agent-autonomy](https://newsletter.posthog.com/p/agent-autonomy)
-
----
-
-### 3. Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/commodification-and-circularity/">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101529">https://news.ycombinator.com/item?id=49101529</a></p>
-<p>Points: 8</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.emergingtrajectories.com/lh/commodification-and-circularity/](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 
 ---
 
