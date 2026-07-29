@@ -26,18 +26,223 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install requests feedparser
 
       - name: Fetch news from multiple sources
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: |
-          python scripts/fetch_news.py
+          python << 'EOF'
+          import json
+          import requests
+          import feedparser
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          import os
+
+          tz = ZoneInfo("Asia/Tehran")
+          now = datetime.now(tz)
+          date_str = now.strftime("%Y-%m-%d")
+          time_str = now.strftime("%H-%M")
+
+          all_news = []
+
+          API_KEY = os.environ.get("NEWS_API_KEY", "")
+          categories = ["technology", "science", "health", "business", "entertainment", "sports"]
+
+          for category in categories:
+              if API_KEY:
+                  try:
+                      url = f"https://newsapi.org/v2/top-headlines?country=us&category={category}&apiKey={API_KEY}&pageSize=2"
+                      response = requests.get(url, timeout=10)
+                      data = response.json()
+                      if data.get("status") == "ok":
+                          for article in data.get("articles", []):
+                              all_news.append({
+                                  "source": "NewsAPI",
+                                  "category": category,
+                                  "title": article.get("title", "No title"),
+                                  "description": article.get("description", ""),
+                                  "url": article.get("url", "#"),
+                                  "published": article.get("publishedAt", ""),
+                                  "fetched": now.isoformat(timespec="seconds")
+                              })
+                  except Exception as e:
+                      print(f"NewsAPI {category} error: {e}")
+
+          try:
+              hn_data = feedparser.parse("https://hnrss.org/frontpage?count=5")
+              for entry in hn_data.entries[:3]:
+                  all_news.append({
+                      "source": "Hacker News",
+                      "category": "technology",
+                      "title": entry.get("title", "No title"),
+                      "description": entry.get("summary", ""),
+                      "url": entry.get("link", "#"),
+                      "published": entry.get("published", ""),
+                      "fetched": now.isoformat(timespec="seconds")
+                  })
+          except Exception as e:
+              print(f"Hacker News error: {e}")
+
+          try:
+              reuters_data = feedparser.parse("https://feeds.reuters.com/Reuters/worldNews")
+              for entry in reuters_data.entries[:3]:
+                  all_news.append({
+                      "source": "Reuters",
+                      "category": "world",
+                      "title": entry.get("title", "No title"),
+                      "description": entry.get("summary", ""),
+                      "url": entry.get("link", "#"),
+                      "published": entry.get("published", ""),
+                      "fetched": now.isoformat(timespec="seconds")
+                  })
+          except Exception as e:
+              print(f"Reuters error: {e}")
+
+          try:
+              bbc_data = feedparser.parse("http://feeds.bbci.co.uk/news/rss.xml")
+              for entry in bbc_data.entries[:3]:
+                  all_news.append({
+                      "source": "BBC",
+                      "category": "world",
+                      "title": entry.get("title", "No title"),
+                      "description": entry.get("summary", ""),
+                      "url": entry.get("link", "#"),
+                      "published": entry.get("published", ""),
+                      "fetched": now.isoformat(timespec="seconds")
+                  })
+          except Exception as e:
+              print(f"BBC error: {e}")
+
+          try:
+              aj_data = feedparser.parse("https://www.aljazeera.com/xml/rss/all.xml")
+              for entry in aj_data.entries[:3]:
+                  all_news.append({
+                      "source": "Al Jazeera",
+                      "category": "world",
+                      "title": entry.get("title", "No title"),
+                      "description": entry.get("summary", ""),
+                      "url": entry.get("link", "#"),
+                      "published": entry.get("published", ""),
+                      "fetched": now.isoformat(timespec="seconds")
+                  })
+          except Exception as e:
+              print(f"Al Jazeera error: {e}")
+
+          try:
+              crypto_response = requests.get("https://api.coingecko.com/api/v3/news", timeout=10)
+              crypto_data = crypto_response.json()
+              for article in crypto_data.get("data", [])[:3]:
+                  all_news.append({
+                      "source": "CoinGecko",
+                      "category": "crypto",
+                      "title": article.get("title", "No title"),
+                      "description": article.get("description", ""),
+                      "url": article.get("url", "#"),
+                      "published": article.get("created_at", ""),
+                      "fetched": now.isoformat(timespec="seconds")
+                  })
+          except Exception as e:
+              print(f"CoinGecko error: {e}")
+
+          try:
+              nasa_response = requests.get("https://eonet.gsfc.nasa.gov/api/v3/events?limit=5", timeout=10)
+              nasa_data = nasa_response.json()
+              for event in nasa_data.get("events", [])[:3]:
+                  all_news.append({
+                      "source": "NASA",
+                      "category": "nature",
+                      "title": event.get("title", "No title"),
+                      "description": "Natural event: " + str(event.get("categories", [{}])[0].get("title", "Unknown")),
+                      "url": event.get("link", "#"),
+                      "published": event.get("geometry", [{}])[0].get("date", ""),
+                      "fetched": now.isoformat(timespec="seconds")
+                  })
+          except Exception as e:
+              print(f"NASA error: {e}")
+
+          os.makedirs(f"news/{date_str}", exist_ok=True)
+          filename = f"news/{date_str}/{time_str}.json"
+
+          news_data = {
+              "update_time": now.isoformat(timespec="seconds"),
+              "timezone": "Asia/Tehran",
+              "total_news": len(all_news),
+              "sources_used": list(set([n["source"] for n in all_news])),
+              "news": all_news
+          }
+
+          with open(filename, "w", encoding="utf8") as f:
+              json.dump(news_data, f, indent=4, ensure_ascii=False)
+
+          readme_lines = []
+          readme_lines.append("# 📰 Daily News Bot - 48+ Commits Daily")
+          readme_lines.append("")
+          readme_lines.append("**Last Update:** " + now.strftime("%Y-%m-%d %H:%M:%S"))
+          readme_lines.append("")
+          readme_lines.append("**Total News:** " + str(len(all_news)))
+          readme_lines.append("")
+          readme_lines.append("**Sources:** " + ", ".join(set([n["source"] for n in all_news])))
+          readme_lines.append("")
+          readme_lines.append("---")
+          readme_lines.append("")
+          readme_lines.append("## 📰 Latest News")
+          readme_lines.append("")
+
+          for i, news in enumerate(all_news, 1):
+              readme_lines.append("### " + str(i) + ". " + news["title"])
+              readme_lines.append("")
+              readme_lines.append("**Source:** " + news["source"])
+              readme_lines.append("")
+              readme_lines.append("**Category:** " + news["category"])
+              readme_lines.append("")
+              if news["description"] and news["description"] != "":
+                  readme_lines.append("**Description:**")
+                  readme_lines.append(news["description"])
+                  readme_lines.append("")
+              readme_lines.append("🔗 **Read more:** [" + news["url"] + "](" + news["url"] + ")")
+              readme_lines.append("")
+              readme_lines.append("---")
+              readme_lines.append("")
+
+          readme_lines.append("")
+          readme_lines.append("**Built with ❤️ by GitHub Actions**")
+
+          readme_text = "\n".join(readme_lines)
+
+          with open("README.md", "w", encoding="utf8") as f:
+              f.write(readme_text)
+
+          log_entry = now.isoformat(timespec="seconds") + " | " + str(len(all_news)) + " news"
+          with open("commit-log.txt", "a", encoding="utf8") as f:
+              f.write(log_entry + "\n")
+
+          os.makedirs("stats", exist_ok=True)
+          stats_file = "stats/" + date_str + ".json"
+          try:
+              with open(stats_file, "r", encoding="utf8") as f:
+                  stats = json.load(f)
+          except FileNotFoundError:
+              stats = {"date": date_str, "commits": [], "total_news": 0}
+
+          stats["commits"].append({
+              "time": time_str,
+              "news_count": len(all_news),
+              "sources": list(set([n["source"] for n in all_news]))
+          })
+          stats["total_news"] += len(all_news)
+
+          with open(stats_file, "w", encoding="utf8") as f:
+              json.dump(stats, f, indent=4, ensure_ascii=False)
+
+          print("Saved " + str(len(all_news)) + " news items")
+          EOF
 
       - name: Commit and Push
         run: |
-          git config user.name "VIDAKHOSHPEY22"
-          git config user.email "vidatwin18@gmail.com"
+          git config user.name "YALDAKHOSHPEY"
+          git config user.email "missyaldatw@gmail.com"
 
           git add .
 
