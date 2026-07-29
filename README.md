@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 02:59:46
+**Last Update:** 2026-07-30 03:22:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://archive.org/details/mancomputerbyjoh0000john">https://archive.org/details/mancomputerbyjoh0000john</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104140">https://news.ycombinator.com/item?id=49104140</a></p>
-<p>Points: 5</p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://archive.org/details/mancomputerbyjoh0000john](https://archive.org/details/mancomputerbyjoh0000john)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://llm2human.pages.dev/">https://llm2human.pages.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104117">https://news.ycombinator.com/item?id=49104117</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 9</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://llm2human.pages.dev/](https://llm2human.pages.dev/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world">https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103910">https://news.ycombinator.com/item?id=49103910</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
 
@@ -71,7 +71,20 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 5. Moment police officers set foot in 'horror scene' funeral home
+### 5. How the UK's extreme heat is shifting the conversation about air-con
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Moment police officers set foot in 'horror scene' funeral home
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 6. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 7. Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
+The Department of Justice has issued separate filings in support of Trump&#039;s case to toss the defamation award.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss)
 
 ---
 
-### 7. Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’
+### 8. Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in prote
 
 ---
 
-### 8. Sam Altman meets lawmakers on back of OpenAI agents hacking companies
+### 9. Sam Altman meets lawmakers on back of OpenAI agents hacking companies
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in prote
 US President Donald Trump says he is considering &#039;AI controls&#039; following OpenAI&#039;s disclosure.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss)
-
----
-
-### 9. Is FIFA selling parts of the World Cup to private investors?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss)
 
 ---
 
