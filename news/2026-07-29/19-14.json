@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T19:14:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple should be ashamed of its hostile App Store rating system",
+            "description": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/7/14.html\">https://lapcatsoftware.com/articles/2026/7/14.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098803\">https://news.ycombinator.com/item?id=49098803</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://lapcatsoftware.com/articles/2026/7/14.html",
+            "published": "Wed, 29 Jul 2026 15:29:37 +0000",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Scientific Literature Is Poisonous to LLMs",
+            "description": "<p>Article URL: <a href=\"https://www.reinvent.science/p/the-scientific-literature-is-poisonous\">https://www.reinvent.science/p/the-scientific-literature-is-poisonous</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098728\">https://news.ycombinator.com/item?id=49098728</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://www.reinvent.science/p/the-scientific-literature-is-poisonous",
+            "published": "Wed, 29 Jul 2026 15:23:38 +0000",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+            "description": "<p>Article URL: <a href=\"https://cesium.com/events/cesium-developer-conference/2026/\">https://cesium.com/events/cesium-developer-conference/2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098599\">https://news.ycombinator.com/item?id=49098599</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://cesium.com/events/cesium-developer-conference/2026/",
+            "published": "Wed, 29 Jul 2026 15:13:25 +0000",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham doesn't rule out tax rises to fix social care",
+            "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:13:12 GMT",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
+            "description": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+            "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:56:48 GMT",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Saudi Arabia holds the key to Palestinian statehood",
+            "description": "Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.",
+            "url": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:39:57 +0000",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
+            "description": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:33:24 +0000",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+            "description": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:27:45 +0000",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T19:14:02+03:30"
+        }
+    ]
+}
