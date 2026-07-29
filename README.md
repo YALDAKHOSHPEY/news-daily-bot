@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 02:19:38
+**Last Update:** 2026-07-30 02:59:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than half of England in drought, Environment Agency declares
+### 1. Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://archive.org/details/mancomputerbyjoh0000john">https://archive.org/details/mancomputerbyjoh0000john</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104140">https://news.ycombinator.com/item?id=49104140</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://archive.org/details/mancomputerbyjoh0000john](https://archive.org/details/mancomputerbyjoh0000john)
+
+---
+
+### 2. LLM Honeypot
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://llm2human.pages.dev/">https://llm2human.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104117">https://news.ycombinator.com/item?id=49104117</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://llm2human.pages.dev/](https://llm2human.pages.dev/)
+
+---
+
+### 3. GitHub is the wrong shape for this new world
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world">https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103910">https://news.ycombinator.com/item?id=49103910</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
+
+---
+
+### 4. More than half of England in drought, Environment Agency declares
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 2. Moment police officers set foot in 'horror scene' funeral home
+### 5. Moment police officers set foot in 'horror scene' funeral home
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 3. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 6. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 4. Sam Altman meets lawmakers on back of OpenAI agents hacking companies
+### 7. Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss)
+
+---
+
+### 8. Sam Altman meets lawmakers on back of OpenAI agents hacking companies
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ US President Donald Trump says he is considering &#039;AI controls&#039; followi
 
 ---
 
-### 5. Is FIFA selling parts of the World Cup to private investors?
+### 9. Is FIFA selling parts of the World Cup to private investors?
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ This week FIFA announced plans to form a new subsidiary company to run part of t
 
 ---
 
-### 6. Myanmar court sentences activists to 37 years over election protest
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss)
-
----
-
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Super Typhoon Dolphin
+### 11. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 
