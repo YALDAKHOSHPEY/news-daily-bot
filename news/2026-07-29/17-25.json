@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T17:25:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.25398\">https://arxiv.org/abs/2607.25398</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096969\">https://news.ycombinator.com/item?id=49096969</a></p>\n<p>Points: 33</p>\n<p># Comments: 10</p>",
+            "url": "https://arxiv.org/abs/2607.25398",
+            "published": "Wed, 29 Jul 2026 13:01:57 +0000",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "After the AI Crash",
+            "description": "<p>Article URL: <a href=\"https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/\">https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096953\">https://news.ycombinator.com/item?id=49096953</a></p>\n<p>Points: 28</p>\n<p># Comments: 14</p>",
+            "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+            "published": "Wed, 29 Jul 2026 13:00:39 +0000",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+            "description": "<p>Article URL: <a href=\"https://github.com/SerhiiKorniienko/bullshit-detector\">https://github.com/SerhiiKorniienko/bullshit-detector</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096917\">https://news.ycombinator.com/item?id=49096917</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+            "published": "Wed, 29 Jul 2026 12:58:27 +0000",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England officially in drought, Environment Agency says",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 12:55:03 GMT",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial killer given whole-life order for murdering two men",
+            "description": "Triple killer James Desborough had stayed in the same homeless shelter, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 13:48:44 GMT",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 05:00:07 GMT",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How are AI models able to autonomously hack others?",
+            "description": "The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 13:19:04 +0000",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
+            "description": "FIFA&#039;s president lobbies for latest proposal for investment in football&#039;s governing body, which has met with criticism.",
+            "url": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 13:15:22 +0000",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US bans imports of new Chinese robots over security concerns",
+            "description": "The action is part of a wider US effort to reduce reliance on Chinese technology.",
+            "url": "https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 13:12:43 +0000",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T17:25:35+03:30"
+        }
+    ]
+}

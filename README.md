@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 15:56:12
+**Last Update:** 2026-07-29 17:25:35
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Document-borne AI worms can self-propagate through Copilot for Word
+### 1. Handbook.md shows that long policy documents do not reliably govern agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096188">https://news.ycombinator.com/item?id=49096188</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.25398">https://arxiv.org/abs/2607.25398</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096969">https://news.ycombinator.com/item?id=49096969</a></p>
+<p>Points: 33</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+🔗 **Read more:** [https://arxiv.org/abs/2607.25398](https://arxiv.org/abs/2607.25398)
 
 ---
 
-### 2. They Stole Your Attention
+### 2. After the AI Crash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://moai.studio/blog/posts/they-stole-your-attention.html">https://moai.studio/blog/posts/they-stole-your-attention.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096043">https://news.ycombinator.com/item?id=49096043</a></p>
-<p>Points: 17</p>
+<p>Article URL: <a href="https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/">https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096953">https://news.ycombinator.com/item?id=49096953</a></p>
+<p>Points: 28</p>
 <p># Comments: 14</p>
 
-🔗 **Read more:** [https://moai.studio/blog/posts/they-stole-your-attention.html](https://moai.studio/blog/posts/they-stole-your-attention.html)
+🔗 **Read more:** [https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 
 ---
 
-### 3. KOReader
+### 3. Show HN: Bullshit Detector – agent skills that fact-check videos and articles
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://koreader.rocks/">https://koreader.rocks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095865">https://news.ycombinator.com/item?id=49095865</a></p>
-<p>Points: 67</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://github.com/SerhiiKorniienko/bullshit-detector">https://github.com/SerhiiKorniienko/bullshit-detector</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096917">https://news.ycombinator.com/item?id=49096917</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://koreader.rocks/](https://koreader.rocks/)
+🔗 **Read more:** [https://github.com/SerhiiKorniienko/bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector)
 
 ---
 
@@ -65,13 +65,26 @@
 **Category:** world
 
 **Description:**
-Scorching temperatures and very low levels of rain have seen droughts declared across much of England.
+The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
+### 5. Serial killer given whole-life order for murdering two men
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Triple killer James Desborough had stayed in the same homeless shelter, police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 6. Boy, 7, dies after beach tragedy that killed mum and daughter
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. American, Asian confederations blindsided by FIFA’s World Cup plan
+### 7. How are AI models able to autonomously hack others?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Americas governing body &#039;deeply concerned&#039; by lack of due process in FIFA private investment plan, AFC &#039;disappointed&#039;.
+The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss)
 
 ---
 
-### 8. Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?
+### 8. Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.
+FIFA&#039;s president lobbies for latest proposal for investment in football&#039;s governing body, which has met with criticism.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss)
 
 ---
 
-### 9. Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?
+### 9. US bans imports of new Chinese robots over security concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.
+The action is part of a wider US effort to reduce reliance on Chinese technology.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/us-bans-imports-of-new-chinese-robots-over-security-concerns?traffic_source=rss)
 
 ---
 
