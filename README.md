@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 20:27:53
+**Last Update:** 2026-07-30 20:44:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pgtestdb's template cloning approach to testing is fast
+### 1. Rise Reforming (YC S26) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111687">https://news.ycombinator.com/item?id=49111687</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112683">https://news.ycombinator.com/item?id=49112683</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
+🔗 **Read more:** [https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
 
 ---
 
-### 2. Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
+### 2. How Olinia Turns Mexico's EV Ambition into Reality
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111305">https://news.ycombinator.com/item?id=49111305</a></p>
-<p>Points: 48</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle">https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112368">https://news.ycombinator.com/item?id=49112368</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
+🔗 **Read more:** [https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
 
 ---
 
-### 3. Gemini Robotics 2 brings whole body intelligence to robots
+### 3. Toot.community Is Shutting Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111237">https://news.ycombinator.com/item?id=49111237</a></p>
-<p>Points: 178</p>
-<p># Comments: 138</p>
+<p>Article URL: <a href="https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2">https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112327">https://news.ycombinator.com/item?id=49112327</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+🔗 **Read more:** [https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
 
 ---
 
