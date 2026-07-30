@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 07:57:28
+**Last Update:** 2026-07-30 08:17:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
-<p>Points: 46</p>
-<p># Comments: 33</p>
+<p>Points: 54</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
@@ -97,7 +97,33 @@ Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the econo
 
 ---
 
-### 7. ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
+### 7. Evo Morales defiant after new Bolivia arrest warrant
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bolivia&#039;s former president is being investigated &#039;for armed uprising&#039; against the state, among other things.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss)
+
+---
+
+### 8. Rescue operation in Argentina to free more than 100 snow-trapped tourists
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Emergency services have rescued more than 100 tourists, trapped by a snowstorm in Argentina.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/rescue-operation-in-argentina-to-free-more-than-100-snow-trapped-tourists?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/rescue-operation-in-argentina-to-free-more-than-100-snow-trapped-tourists?traffic_source=rss)
+
+---
+
+### 9. ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the econo
 Japanese PM Takaichi says &#039;race against time&#039; to rescue those trapped in the mall and others affected by the quake.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss)
-
----
-
-### 8. US launches another round of attacks on Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Targets across southern Iran hit, including on strategic Qeshm Island.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss)
-
----
-
-### 9. Israeli strikes leave buildings burning in Gaza City
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss)
 
 ---
 
