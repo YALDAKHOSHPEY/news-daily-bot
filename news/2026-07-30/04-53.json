@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-30T04:53:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the UK's extreme heat is shifting the conversation about air-con",
+            "description": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 23:33:01 GMT",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police to take no further action against Polanski over guillotine re-post",
+            "description": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
+            "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 19:53:48 GMT",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+            "description": "Decision follows long-running feud between Trump and UN group.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 00:26:49 +0000",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+            "description": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 00:23:13 +0000",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+            "description": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 00:00:00 +0000",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T04:53:20+03:30"
+        }
+    ]
+}

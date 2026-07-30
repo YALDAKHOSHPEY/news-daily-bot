@@ -1,65 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 04:25:10
+**Last Update:** 2026-07-30 04:53:20
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: A local merge queue for parallel Claude Code agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.<p>So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104747">https://news.ycombinator.com/item?id=49104747</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue)
-
----
-
-### 2. The Productivity Mirage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://frantic.im/mirage/">https://frantic.im/mirage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104335">https://news.ycombinator.com/item?id=49104335</a></p>
-<p>Points: 25</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://frantic.im/mirage/](https://frantic.im/mirage/)
-
----
-
-### 3. Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://archive.org/details/mancomputerbyjoh0000john">https://archive.org/details/mancomputerbyjoh0000john</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104140">https://news.ycombinator.com/item?id=49104140</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://archive.org/details/mancomputerbyjoh0000john](https://archive.org/details/mancomputerbyjoh0000john)
-
----
-
-### 4. More than half of England in drought, Environment Agency declares
+### 1. More than half of England in drought, Environment Agency declares
 
 **Source:** BBC
 
@@ -72,7 +23,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 5. How the UK's extreme heat is shifting the conversation about air-con
+### 2. How the UK's extreme heat is shifting the conversation about air-con
 
 **Source:** BBC
 
@@ -85,7 +36,7 @@ Should we embrace air conditioning despite its costs and consequences, and how m
 
 ---
 
-### 6. Police to take no further action against Polanski over guillotine re-post
+### 3. Police to take no further action against Polanski over guillotine re-post
 
 **Source:** BBC
 
@@ -98,7 +49,7 @@ The Green Party leader has said he made an "inadvertent mistake" when he shared 
 
 ---
 
-### 7. Trump cuts WHO off from Gavi vaccine alliance funding
+### 4. Trump cuts WHO off from Gavi vaccine alliance funding
 
 **Source:** Al Jazeera
 
@@ -111,7 +62,7 @@ Decision follows long-running feud between Trump and UN group.
 
 ---
 
-### 8. Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning
+### 5. Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning
 
 **Source:** Al Jazeera
 
@@ -124,7 +75,7 @@ Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’
 
 ---
 
-### 9. Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan
+### 6. Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan
 
 **Source:** Al Jazeera
 
@@ -137,7 +88,7 @@ Threat comes as Iranian media report that four Iranians were killed in joint US-
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 7. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -150,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Super Typhoon Dolphin
+### 8. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -163,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 9. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 
