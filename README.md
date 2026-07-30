@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 18:32:03
+**Last Update:** 2026-07-30 20:27:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thousands evacuated in Crete as Europe battles wildfires
+### 1. Pgtestdb's template cloning approach to testing is fast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111687">https://news.ycombinator.com/item?id=49111687</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
+
+---
+
+### 2. Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111305">https://news.ycombinator.com/item?id=49111305</a></p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
+
+---
+
+### 3. Gemini Robotics 2 brings whole body intelligence to robots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111237">https://news.ycombinator.com/item?id=49111237</a></p>
+<p>Points: 178</p>
+<p># Comments: 138</p>
+
+🔗 **Read more:** [https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+
+---
+
+### 4. European nations to boycott World Cup if Fifa goes ahead with investment plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Thousands evacuated in Crete as wildfires threaten tourist resorts
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 2. Drought declared across whole of Wales as conditions 'deteriorate'
+### 6. Drought declared across whole of Wales as conditions 'deteriorate'
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ Wales is on course for its driest July on record in almost 190 years.
 
 ---
 
-### 3. Bank holds interest rates but says it is ready to raise them if Iran war escalates
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Police arrest dozens at London rally supporting Palestine Action
+### 7. ‘To play God’: Cuba’s healthcare system collapses under US pressure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The protest is the first in support of the proscribed group since Andy Burnham became prime minister.
+As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss)
 
 ---
 
-### 5. El Salvador sentences gang members to 1,000 years in prison
+### 8. In Their Own Hands: Ghana’s Drug Vigilantes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-El Salvador sentences gang members to 1,000 years in prison
+Citizen vigilantes patrol Ghana&#039;s streets, fighting an opioid crisis. We meet those taking the law into their own hands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss)
 
 ---
 
-### 6. ‘Go back to your own country’: NZ foreign minister faces backlash
+### 9. NATO jets scramble as Russian missile detonates in Poland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.
+The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Super Typhoon Dolphin
+### 11. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 
