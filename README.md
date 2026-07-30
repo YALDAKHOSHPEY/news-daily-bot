@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 00:25:15
+**Last Update:** 2026-07-31 01:29:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Points: 65</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 403</p>
-<p># Comments: 245</p>
+<p>Points: 527</p>
+<p># Comments: 312</p>
 
 🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 76</p>
-<p># Comments: 8</p>
+<p>Points: 87</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
@@ -97,42 +97,42 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Security camera shows ‘Russian missile’ exploding in Poland
+### 7. Will Saudi Arabia be dragged further into the war in Iran?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Security camera video shows the moment a suspected Russian missile exploded inside Poland.
+Anger in Iraq after US-Saudi strikes on paramilitary group with ties to Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss)
 
 ---
 
-### 8. Father of Georgia Apalachee school shooter sentenced to 15 years in prison
+### 8. Prague Zoo keeps polar bears cool with ice amid heatwave
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.
+Keepers at Prague Zoo used tonnes of ice to provide much relief to animals as Europe grappled with scorching heat.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss)
 
 ---
 
-### 9. US authorities probe cyberattack on water systems in Minnesota
+### 9. UN launches hunt for next chief amid rising challenges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.
+Antonio Guterres’s successor will be tasked with revitalising an organisation in crisis and facing pressure to reform.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/un-launches-hunt-for-next-chief-amid-rising-challenges?traffic_source=rss)
 
 ---
 
