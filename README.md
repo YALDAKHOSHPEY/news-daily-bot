@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 04:53:20
+**Last Update:** 2026-07-30 07:57:28
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than half of England in drought, Environment Agency declares
+### 1. NSF pilots 4-year PhDs with industry research placements
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
+<p>Points: 46</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+
+---
+
+### 2. Kuna: Decompiler Development in the Age of Coding Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
+
+---
+
+### 3. Flume Water Monitor 915 MHz Security Is Pretty Good
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://waveformsecurity.com/blog/flume/">https://waveformsecurity.com/blog/flume/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105136">https://news.ycombinator.com/item?id=49105136</a></p>
+<p>Points: 23</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://waveformsecurity.com/blog/flume/](https://waveformsecurity.com/blog/flume/)
+
+---
+
+### 4. US launches 'heavy' strikes on Iran after attempted attack on American troops
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.
+The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. How the UK's extreme heat is shifting the conversation about air-con
+### 5. Saudi Arabia's dilemma as it tries to stay out of US-Iran war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?
+The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Police to take no further action against Polanski over guillotine re-post
+### 6. Burnham says nuclear sub investment will protect UK and boost jobs
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Green Party leader has said he made an "inadvertent mistake" when he shared the image with his social media followers.
+Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Trump cuts WHO off from Gavi vaccine alliance funding
+### 7. ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Decision follows long-running feud between Trump and UN group.
+Japanese PM Takaichi says &#039;race against time&#039; to rescue those trapped in the mall and others affected by the quake.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss)
 
 ---
 
-### 5. Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning
+### 8. US launches another round of attacks on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.
+Targets across southern Iran hit, including on strategic Qeshm Island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss)
 
 ---
 
-### 6. Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan
+### 9. Israeli strikes leave buildings burning in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.
+Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Super Typhoon Dolphin
+### 11. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 
