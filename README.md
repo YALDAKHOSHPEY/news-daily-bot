@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 15:39:54
+**Last Update:** 2026-07-30 15:53:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -71,29 +71,29 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 5. Joe Root returns as England Test cricket captain with Stephen Fleming named head coach
+### 5. Thousands evacuated in Crete as European wildfires continue to rage
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.
+Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Israel building new land barriers in Gaza and displacing families
+### 6. Prison recalls up 28% in England and Wales, new figures reveal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.
+There has been a large rise in the number of offenders being recalled to prisons in England and Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
