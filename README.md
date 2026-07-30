@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 13:27:08
+**Last Update:** 2026-07-30 13:42:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://getapps.cafe/blog/why-the-future-is-local-app">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105924">https://news.ycombinator.com/item?id=49105924</a></p>
-<p>Points: 25</p>
-<p># Comments: 24</p>
+<p>Points: 30</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://getapps.cafe/blog/why-the-future-is-local-app](https://getapps.cafe/blog/why-the-future-is-local-app)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 34</p>
+<p>Points: 39</p>
 <p># Comments: 10</p>
 
 🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
-<p>Points: 122</p>
-<p># Comments: 22</p>
+<p>Points: 125</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
 
@@ -97,7 +97,20 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Apartheid wealth cannot buy silence on Gaza
+### 7. From Toronto to Damascus: Syrians return home aiming to rebuild country
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss)
+
+---
+
+### 8. Apartheid wealth cannot buy silence on Gaza
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ South African universities must resist donors who use financial power to impose 
 
 ---
 
-### 8. Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges
+### 9. Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ South African universities must resist donors who use financial power to impose 
 US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss)
-
----
-
-### 9. South Africa’s le Clos breaks Commonwealth Games medal record
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-South Africa took bronze in the men’s 4x100 medley relay for Chad le Clos&#039;s record 21st Commonwealth Games medal.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss)
 
 ---
 
