@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 22:38:56
+**Last Update:** 2026-07-31 00:10:20
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. UEFA and its national associations will not participate in FIFA competitions
+### 1. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+
+---
+
+### 2. UEFA and its national associations will not participate in FIFA competitions
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 58</p>
-<p># Comments: 10</p>
+<p>Points: 371</p>
+<p># Comments: 221</p>
 
 🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 
 ---
 
-### 2. Postgres Queues Actually Scale
+### 3. Making Postgres queues scale
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Points: 63</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
-
----
-
-### 3. So you want to use plants to reduce CO₂
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
 
 ---
 
@@ -71,7 +71,20 @@ Uefa says "the World Cup is not for sale" after its 55 member associations vote 
 
 ---
 
-### 5. Thousands evacuated in Crete as wildfires threaten tourist resorts
+### 5. Suffolk wildfire still growing and unpredictable, says fire service
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Thousands evacuated in Crete as wildfires threaten tourist resorts
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 6. Drought declared across whole of Wales as conditions 'deteriorate'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Wales is on course for its driest July on record in almost 190 years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Spain’s Ceuta declares emergency over surge in migrant arrivals
+### 7. Security camera shows ‘Russian missile’ exploding in Poland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
+Security camera video shows the moment a suspected Russian missile exploded inside Poland.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/security-camera-shows-russian-missile-exploding-in-poland?traffic_source=rss)
 
 ---
 
-### 8. Turtle rescued from rubble a month after Venezuela earthquake
+### 8. Father of Georgia Apalachee school shooter sentenced to 15 years in prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
+Colin Gray, 55, was convicted of second-degree murder after his son Colt carried out a school shooting that killed four.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss)
 
 ---
 
-### 9. Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
+### 9. US authorities probe cyberattack on water systems in Minnesota
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Viral cricket scandal sees &#039;Clicky Ponting&#039; suspended from UK team
+A cyberattack targeted more than 30 water facilities in the Midwestern US state earlier this week.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss)
 
 ---
 
