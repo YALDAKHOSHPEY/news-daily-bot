@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 20:44:32
+**Last Update:** 2026-07-30 22:23:16
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rise Reforming (YC S26) Is Hiring
+### 1. Postgres Queues Actually Scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112683">https://news.ycombinator.com/item?id=49112683</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
+🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
 ---
 
-### 2. How Olinia Turns Mexico's EV Ambition into Reality
+### 2. So you want to use plants to reduce CO₂
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle">https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112368">https://news.ycombinator.com/item?id=49112368</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
+🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
 
 ---
 
-### 3. Toot.community Is Shutting Down
+### 3. Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2">https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112327">https://news.ycombinator.com/item?id=49112327</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113543">https://news.ycombinator.com/item?id=49113543</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
+🔗 **Read more:** [https://github.com/yashmahajan10/llm-differential-privacy-gateway](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.
+Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss)
 
@@ -97,46 +97,46 @@ Wales is on course for its driest July on record in almost 190 years.
 
 ---
 
-### 7. ‘To play God’: Cuba’s healthcare system collapses under US pressure
+### 7. Spain’s Ceuta declares emergency over surge in migrant arrivals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.
+More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss)
 
 ---
 
-### 8. In Their Own Hands: Ghana’s Drug Vigilantes
+### 8. Turtle rescued from rubble a month after Venezuela earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Citizen vigilantes patrol Ghana&#039;s streets, fighting an opioid crisis. We meet those taking the law into their own hands.
+A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
 
-🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/7/30/in-their-own-hands-ghanas-drug-vigilantes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss)
 
 ---
 
-### 9. NATO jets scramble as Russian missile detonates in Poland
+### 9. Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.
+Viral cricket scandal sees &#039;Clicky Ponting&#039; suspended from UK team
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -145,24 +145,11 @@ The growing series of NATO airspace violations is raising concern that Russia&#0
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
 
 ---
 
-### 11. Super Typhoon Dolphin
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776)
-
----
-
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
