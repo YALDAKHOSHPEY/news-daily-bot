@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 08:17:36
+**Last Update:** 2026-07-30 10:40:32
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. NSF pilots 4-year PhDs with industry research placements
+### 1. EU now fears US interference in European elections
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/">https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49106643">https://news.ycombinator.com/item?id=49106643</a></p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/](https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/)
+
+---
+
+### 2. 1,741 "informed" consents with one click? GDPR complaint filed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed">https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49106384">https://news.ycombinator.com/item?id=49106384</a></p>
+<p>Points: 92</p>
+<p># Comments: 39</p>
+
+🔗 **Read more:** [https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+
+---
+
+### 3. NSF pilots 4-year PhDs with industry research placements
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
-<p>Points: 54</p>
-<p># Comments: 42</p>
+<p>Points: 66</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
-
----
-
-### 2. Kuna: Decompiler Development in the Age of Coding Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
-
----
-
-### 3. Flume Water Monitor 915 MHz Security Is Pretty Good
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://waveformsecurity.com/blog/flume/">https://waveformsecurity.com/blog/flume/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105136">https://news.ycombinator.com/item?id=49105136</a></p>
-<p>Points: 23</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://waveformsecurity.com/blog/flume/](https://waveformsecurity.com/blog/flume/)
 
 ---
 
@@ -65,74 +65,74 @@
 **Category:** world
 
 **Description:**
-The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.
+After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Saudi Arabia's dilemma as it tries to stay out of US-Iran war
+### 5. Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.
+After another day of record-breaking temperatures for some parts of England, a cold front is moving in.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham says nuclear sub investment will protect UK and boost jobs
+### 6. How the UK's extreme heat is shifting the conversation about air-con
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.
+Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Evo Morales defiant after new Bolivia arrest warrant
+### 7. In the waters off Malaysia, Iranian oil sales continue despite blockade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bolivia&#039;s former president is being investigated &#039;for armed uprising&#039; against the state, among other things.
+A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss)
 
 ---
 
-### 8. Rescue operation in Argentina to free more than 100 snow-trapped tourists
+### 8. Messi returns to MLS training 10 days after World Cup final heartbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Emergency services have rescued more than 100 tourists, trapped by a snowstorm in Argentina.
+Lionel Messi returns to Inter Miami after Argentina&#039;s World Cup final defeat by Spain, which led to retirement rumours.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/rescue-operation-in-argentina-to-free-more-than-100-snow-trapped-tourists?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/rescue-operation-in-argentina-to-free-more-than-100-snow-trapped-tourists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss)
 
 ---
 
-### 9. ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
+### 9. Storm apologize after co-owner berates teen girls for support of Cunningham
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japanese PM Takaichi says &#039;race against time&#039; to rescue those trapped in the mall and others affected by the quake.
+WNBA basketball team Seattle Storm apologize after co-owner berates girls with &#039;thank you&#039; sign for Sophie Cunningham.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss)
 
 ---
 
