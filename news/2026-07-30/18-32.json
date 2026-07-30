@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-30T18:32:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as Europe battles wildfires",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 12:46:16 GMT",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+            "description": "Wales is on course for its driest July on record in almost 190 years.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:15:09 GMT",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+            "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:01:19 GMT",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police arrest dozens at London rally supporting Palestine Action",
+            "description": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 14:22:02 +0000",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Salvador sentences gang members to 1,000 years in prison",
+            "description": "El Salvador sentences gang members to 1,000 years in prison",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 14:07:49 +0000",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Go back to your own country’: NZ foreign minister faces backlash",
+            "description": "New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 13:51:52 +0000",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T18:32:03+03:30"
+        }
+    ]
+}
