@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 02:03:42
+**Last Update:** 2026-07-31 02:37:38
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
+### 1. I flagged two research papers for fake authors and both were accepted as orals
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116721">https://news.ycombinator.com/item?id=49116721</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://geospatialml.com/posts/reviewing-ai-slop/](https://geospatialml.com/posts/reviewing-ai-slop/)
+
+---
+
+### 2. Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://rune.build/blog/rune-1-1-release">https://rune.build/blog/rune-1-1-release</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116272">https://news.ycombinator.com/item?id=49116272</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://rune.build/blog/rune-1-1-release](https://rune.build/blog/rune-1-1-release)
 
 ---
 
-### 2. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+### 3. Saber-toothed cats became inbred–and struggled to move–before they went extinct
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
-<p>Points: 86</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116074">https://news.ycombinator.com/item?id=49116074</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
-
----
-
-### 3. UEFA and its national associations will not participate in FIFA competitions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 581</p>
-<p># Comments: 336</p>
-
-🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+🔗 **Read more:** [https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
 
 ---
 
@@ -97,7 +97,20 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
+### 7. Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+This is a breaking news story.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss)
+
+---
+
+### 8. Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Zoox will launch its commercial robotaxi service in Las Vegas after receiving fe
 
 ---
 
-### 8. Why is US GDP growth slowing, and how can it be reversed?
+### 9. Why is US GDP growth slowing, and how can it be reversed?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Zoox will launch its commercial robotaxi service in Las Vegas after receiving fe
 Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss)
-
----
-
-### 9. French teen fined in Singapore over ‘straw licking’ stunt
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss)
 
 ---
 

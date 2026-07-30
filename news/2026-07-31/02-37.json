@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T02:37:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I flagged two research papers for fake authors and both were accepted as orals",
+            "description": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+            "published": "Thu, 30 Jul 2026 22:33:11 +0000",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+            "description": "<p>Article URL: <a href=\"https://rune.build/blog/rune-1-1-release\">https://rune.build/blog/rune-1-1-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116272\">https://news.ycombinator.com/item?id=49116272</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://rune.build/blog/rune-1-1-release",
+            "published": "Thu, 30 Jul 2026 21:47:31 +0000",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116074\">https://news.ycombinator.com/item?id=49116074</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+            "published": "Thu, 30 Jul 2026 21:31:03 +0000",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+            "description": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+            "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 18:50:57 GMT",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:04:53 GMT",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 22:34:19 +0000",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
+            "description": "Zoox will launch its commercial robotaxi service in Las Vegas after receiving federal clearance.",
+            "url": "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 22:14:12 +0000",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is US GDP growth slowing, and how can it be reversed?",
+            "description": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.",
+            "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 21:39:37 +0000",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T02:37:38+03:30"
+        }
+    ]
+}
