@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 22:23:16
+**Last Update:** 2026-07-30 22:38:56
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Postgres Queues Actually Scale
+### 1. UEFA and its national associations will not participate in FIFA competitions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
+<p>Points: 58</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+
+---
+
+### 2. Postgres Queues Actually Scale
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 9</p>
+<p>Points: 16</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
 ---
 
-### 2. So you want to use plants to reduce CO₂
+### 3. So you want to use plants to reduce CO₂
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
-
----
-
-### 3. Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113543">https://news.ycombinator.com/item?id=49113543</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/yashmahajan10/llm-differential-privacy-gateway](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 
 ---
 
