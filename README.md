@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 10:56:50
+**Last Update:** 2026-07-30 13:27:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub
+### 1. Why the future is local app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Deepender25/Edge-Drop">https://github.com/Deepender25/Edge-Drop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49106529">https://news.ycombinator.com/item?id=49106529</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://getapps.cafe/blog/why-the-future-is-local-app">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105924">https://news.ycombinator.com/item?id=49105924</a></p>
+<p>Points: 25</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://github.com/Deepender25/Edge-Drop](https://github.com/Deepender25/Edge-Drop)
-
----
-
-### 2. NSF pilots 4-year PhDs with industry research placements
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
-<p>Points: 66</p>
-<p># Comments: 71</p>
-
-🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+🔗 **Read more:** [https://getapps.cafe/blog/why-the-future-is-local-app](https://getapps.cafe/blog/why-the-future-is-local-app)
 
 ---
 
-### 3. Kuna: Decompiler Development in the Age of Coding Agents
+### 2. Kuna: Decompiler Development in the Age of Coding Agents
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Points: 34</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
+
+---
+
+### 3. Logic for Programmers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
+<p>Points: 122</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
 
 ---
 
@@ -71,68 +71,68 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 5. Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas
+### 5. How the UK's extreme heat is shifting the conversation about air-con
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-After another day of record-breaking temperatures for some parts of England, a cold front is moving in.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How the UK's extreme heat is shifting the conversation about air-con
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?
+Should we embrace air conditioning despite its costs and consequences?
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. In the waters off Malaysia, Iranian oil sales continue despite blockade
+### 6. Thousands evacuated in Crete as European wildfires continue to rage
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.
+Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Messi returns to MLS training 10 days after World Cup final heartbreak
+### 7. Apartheid wealth cannot buy silence on Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lionel Messi returns to Inter Miami after Argentina&#039;s World Cup final defeat by Spain, which led to retirement rumours.
+South African universities must resist donors who use financial power to impose political obedience.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss)
 
 ---
 
-### 9. Storm apologize after co-owner berates teen girls for support of Cunningham
+### 8. Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-WNBA basketball team Seattle Storm apologize after co-owner berates girls with &#039;thank you&#039; sign for Sophie Cunningham.
+US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss)
+
+---
+
+### 9. South Africa’s le Clos breaks Commonwealth Games medal record
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+South Africa took bronze in the men’s 4x100 medley relay for Chad le Clos&#039;s record 21st Commonwealth Games medal.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss)
 
 ---
 
