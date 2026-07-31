@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 16:41:50
+**Last Update:** 2026-07-31 17:09:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122105">https://news.ycombinator.com/item?id=49122105</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://hughhowey.com/the-end-of-an-era/">https://hughhowey.com/the-end-of-an-era/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49121980">https://news.ycombinator.com/item?id=49121980</a></p>
-<p>Points: 87</p>
-<p># Comments: 70</p>
+<p>Points: 147</p>
+<p># Comments: 142</p>
 
 🔗 **Read more:** [https://hughhowey.com/the-end-of-an-era/](https://hughhowey.com/the-end-of-an-era/)
 
 ---
 
-### 4. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
+### 4. Police fear further victims in funeral home case
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police say they cannot reassure any families who used Legacy Independent Funeral Directors.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qykzqxw5qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qykzqxw5qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The estimated number of arrivals is more than 70% of the population of the city,
 
 ---
 
-### 5. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
+### 6. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fif
 
 ---
 
-### 6. Southport killer charged with prison attacks and possessing weapon
+### 7. Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.
+Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss](https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss)
 
 ---
 
-### 7. Palestinians in Gaza react to latest ceasefire deal
+### 8. FIFA World Cup plan: Infantino tackles UEFA and global game – all to know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino&#039;s private investment plan.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss)
+
+---
+
+### 9. Palestinians in Gaza react to latest ceasefire deal
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May a
 ‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss)
-
----
-
-### 8. The waiting game: Gaza’s CT scan shortage causing worries and worse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza suffering from health crisis caused by a shortage of CT scan machines, leading to worsening medical issues for many.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss](https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss)
-
----
-
-### 9. Approval for China’s mega embassy in London was lawful, UK court rules
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss)
 
 ---
 
