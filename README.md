@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 19:24:17
+**Last Update:** 2026-07-31 20:48:34
 
 **Total News:** 12
 
@@ -10,55 +10,55 @@
 
 ## 📰 Latest News
 
-### 1. New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key
+### 1. Miso (YC S16) is hiring for U.S. expansion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/">https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124409">https://news.ycombinator.com/item?id=49124409</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125785">https://news.ycombinator.com/item?id=49125785</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
 
 ---
 
-### 2. Is AI Reasoning Right for the Wrong Reasons?
+### 2. Online Friends Are Real Friends
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/">https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124358">https://news.ycombinator.com/item?id=49124358</a></p>
-<p>Points: 31</p>
+<p>Article URL: <a href="https://toska.bearblog.dev/re-online-friends-are-real-friends/">https://toska.bearblog.dev/re-online-friends-are-real-friends/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124917">https://news.ycombinator.com/item?id=49124917</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://toska.bearblog.dev/re-online-friends-are-real-friends/](https://toska.bearblog.dev/re-online-friends-are-real-friends/)
+
+---
+
+### 3. Big Food vs. the People
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124858">https://news.ycombinator.com/item?id=49124858</a></p>
+<p>Points: 35</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+🔗 **Read more:** [https://www.lighthousereports.com/investigation/big-food-vs-the-people/](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
 
 ---
 
-### 3. Elevators
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://john.fun/elevators">https://john.fun/elevators</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124218">https://news.ycombinator.com/item?id=49124218</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://john.fun/elevators](https://john.fun/elevators)
-
----
-
-### 4. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
+### 4. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ Spain's prime minister described the situation as an "attack" on its North Afric
 
 ---
 
-### 5. Disgraced funeral boss who failed to bury bodies jailed for 20 years
+### 5. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.
+Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
+### 6. 'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fifa as criticism grows of the controversial investment plan.
+Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The promise I made to Ismail al-Ghoul
+### 7. Western allies warn North Korean IT workers funding nuclear arsenal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.
+Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss)
 
 ---
 
-### 8. World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
+### 8. DR Congo Ebola epidemic becomes world’s second largest outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.
+Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss)
 
 ---
 
-### 9. Police chief resigns days after deadly shooting in US city of Seattle
+### 9. Three-year roadmap proposed for Hamas disarmament in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
+Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss)
 
 ---
 
