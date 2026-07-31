@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 02:37:38
+**Last Update:** 2026-07-31 04:30:33
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I flagged two research papers for fake authors and both were accepted as orals
+### 1. The AI Aesthetic
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117099">https://news.ycombinator.com/item?id=49117099</a></p>
+<p>Points: 44</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://blog.jim-nielsen.com/2026/ai-aesthetic/](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+
+---
+
+### 2. Investigating three real-world incidents in our cybersecurity evaluations
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116922">https://news.ycombinator.com/item?id=49116922</a></p>
+<p>Points: 74</p>
+<p># Comments: 62</p>
+
+🔗 **Read more:** [https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+
+---
+
+### 3. I flagged two research papers for fake authors and both were accepted as orals
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116721">https://news.ycombinator.com/item?id=49116721</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 58</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://geospatialml.com/posts/reviewing-ai-slop/](https://geospatialml.com/posts/reviewing-ai-slop/)
-
----
-
-### 2. Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rune.build/blog/rune-1-1-release">https://rune.build/blog/rune-1-1-release</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116272">https://news.ycombinator.com/item?id=49116272</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://rune.build/blog/rune-1-1-release](https://rune.build/blog/rune-1-1-release)
-
----
-
-### 3. Saber-toothed cats became inbred–and struggled to move–before they went extinct
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116074">https://news.ycombinator.com/item?id=49116074</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
 
 ---
 
@@ -84,55 +84,55 @@ Firefighters expect to be at the scene on the Suffolk coast for another 48 hours
 
 ---
 
-### 6. Thousands evacuated in Crete as wildfires threaten tourist resorts
+### 6. Andy Burnham to give regional mayors share of income tax
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
+The prime minister says the move will give power to "every postcode" but critics say the plans lack detail.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza
+### 7. US Escalation with Iran is ‘pointless’, warns former US diplomat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss)
 
 ---
 
-### 8. Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
+### 8. Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zoox will launch its commercial robotaxi service in Las Vegas after receiving federal clearance.
+Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss)
 
 ---
 
-### 9. Why is US GDP growth slowing, and how can it be reversed?
+### 9. Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.
+US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss)
 
 ---
 
