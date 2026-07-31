@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 20:48:34
+**Last Update:** 2026-07-31 21:30:10
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -26,19 +26,19 @@
 
 ---
 
-### 2. Online Friends Are Real Friends
+### 2. Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://toska.bearblog.dev/re-online-friends-are-real-friends/">https://toska.bearblog.dev/re-online-friends-are-real-friends/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124917">https://news.ycombinator.com/item?id=49124917</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125034">https://news.ycombinator.com/item?id=49125034</a></p>
+<p>Points: 30</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://toska.bearblog.dev/re-online-friends-are-real-friends/](https://toska.bearblog.dev/re-online-friends-are-real-friends/)
+🔗 **Read more:** [https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124858">https://news.ycombinator.com/item?id=49124858</a></p>
-<p>Points: 35</p>
-<p># Comments: 3</p>
+<p>Points: 72</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.lighthousereports.com/investigation/big-food-vs-the-people/](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Spain's prime minister described the situation as an "attack" on its North African territory and said all illegal migrants would be returned to Morocco.
+Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Western allies warn North Korean IT workers funding nuclear arsenal
+### 7. FIFA COO Lamour says staff deceived over Infantino’s World Cup plan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss)
+
+---
+
+### 8. Western allies warn North Korean IT workers funding nuclear arsenal
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pyongyang accused of using hard currency earned by AI-assisted workers to power 
 
 ---
 
-### 8. DR Congo Ebola epidemic becomes world’s second largest outbreak
+### 9. DR Congo Ebola epidemic becomes world’s second largest outbreak
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pyongyang accused of using hard currency earned by AI-assisted workers to power 
 Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss)
-
----
-
-### 9. Three-year roadmap proposed for Hamas disarmament in Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss)
 
 ---
 
