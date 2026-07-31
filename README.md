@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 04:30:33
+**Last Update:** 2026-07-31 05:20:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117099">https://news.ycombinator.com/item?id=49117099</a></p>
-<p>Points: 44</p>
-<p># Comments: 25</p>
+<p>Points: 104</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://blog.jim-nielsen.com/2026/ai-aesthetic/](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116922">https://news.ycombinator.com/item?id=49116922</a></p>
-<p>Points: 74</p>
-<p># Comments: 62</p>
+<p>Points: 87</p>
+<p># Comments: 77</p>
 
 🔗 **Read more:** [https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
 
@@ -51,40 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116721">https://news.ycombinator.com/item?id=49116721</a></p>
-<p>Points: 58</p>
-<p># Comments: 21</p>
+<p>Points: 84</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://geospatialml.com/posts/reviewing-ai-slop/](https://geospatialml.com/posts/reviewing-ai-slop/)
 
 ---
 
-### 4. European nations to boycott World Cup if Fifa goes ahead with investment plan
+### 4. Is Infantino finished? Could Uefa boycott World Cup? What happens now?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.
+It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Suffolk wildfire still growing and unpredictable, says fire service
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Andy Burnham to give regional mayors share of income tax
+### 5. Andy Burnham to give regional mayors share of income tax
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The prime minister says the move will give power to "every postcode" but critics
 
 ---
 
-### 7. US Escalation with Iran is ‘pointless’, warns former US diplomat
+### 6. Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.
+An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually
+### 7. Spain deploys military to Ceuta after deadly migrant surge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.
+Spain has deployed its military to Ceuta after thousands of migrants overwhelmed police barricades.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss)
 
 ---
 
-### 9. Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
+### 8. Nepal’s PM urges calm as three people killed after Hindu-Muslim unrest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
+Three dead in violence in Nepal, as authorities enforce curfews and pledge to restore &#039;peace and unity&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss)
+
+---
+
+### 9. London protesters march through streets in solidarity with Azad Kashmir
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Protesters in London marched from Hyde Park towards the Pakistan High Commission on Thursday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss)
 
 ---
 

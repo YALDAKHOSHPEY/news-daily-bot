@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T05:20:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Aesthetic",
+            "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-aesthetic/\">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117099\">https://news.ycombinator.com/item?id=49117099</a></p>\n<p>Points: 104</p>\n<p># Comments: 56</p>",
+            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+            "published": "Thu, 30 Jul 2026 23:22:16 +0000",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116922\">https://news.ycombinator.com/item?id=49116922</a></p>\n<p>Points: 87</p>\n<p># Comments: 77</p>",
+            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+            "published": "Thu, 30 Jul 2026 23:00:51 +0000",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I flagged two research papers for fake authors and both were accepted as orals",
+            "description": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 84</p>\n<p># Comments: 31</p>",
+            "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+            "published": "Thu, 30 Jul 2026 22:33:11 +0000",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
+            "description": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 21:40:21 GMT",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to give regional mayors share of income tax",
+            "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 21:32:09 GMT",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche",
+            "description": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+            "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 00:52:54 GMT",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain deploys military to Ceuta after deadly migrant surge",
+            "description": "Spain has deployed its military to Ceuta after thousands of migrants overwhelmed police barricades.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-deploys-military-to-ceuta-after-deadly-migrant-surge?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 01:29:12 +0000",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal’s PM urges calm as three people killed after Hindu-Muslim unrest",
+            "description": "Three dead in violence in Nepal, as authorities enforce curfews and pledge to restore &#039;peace and unity&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/nepals-pm-urges-calm-as-three-people-killed-after-hindu-muslim-unrest?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 01:13:31 +0000",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "London protesters march through streets in solidarity with Azad Kashmir",
+            "description": "Protesters in London marched from Hyde Park towards the Pakistan High Commission on Thursday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 01:05:18 +0000",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T05:20:22+03:30"
+        }
+    ]
+}
