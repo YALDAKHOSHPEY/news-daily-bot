@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 21:30:10
+**Last Update:** 2026-07-31 22:37:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Miso (YC S16) is hiring for U.S. expansion
+### 1. Orca-Bench: How Ready Are Language Model Agents for Oncall?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125785">https://news.ycombinator.com/item?id=49125785</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.28545">https://arxiv.org/abs/2607.28545</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126943">https://news.ycombinator.com/item?id=49126943</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2607.28545](https://arxiv.org/abs/2607.28545)
+
+---
+
+### 2. Termixer (TUI DJ Mixer)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/l00sed/termixer">https://github.com/l00sed/termixer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126883">https://news.ycombinator.com/item?id=49126883</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/l00sed/termixer](https://github.com/l00sed/termixer)
+
+---
+
+### 3. How to Survive an Infestation of Toxic Caterpillars
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars">https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126700">https://news.ycombinator.com/item?id=49126700</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
-
----
-
-### 2. Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125034">https://news.ycombinator.com/item?id=49125034</a></p>
-<p>Points: 30</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
-
----
-
-### 3. Big Food vs. the People
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124858">https://news.ycombinator.com/item?id=49124858</a></p>
-<p>Points: 72</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.lighthousereports.com/investigation/big-food-vs-the-people/](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+🔗 **Read more:** [https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars](https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars)
 
 ---
 
@@ -97,42 +97,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. FIFA COO Lamour says staff deceived over Infantino’s World Cup plan
+### 7. Syrian lawyer takes on ex-Assad official in landmark trial
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.
+Syrian lawyer takes on ex-Assad official in landmark trial
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss)
 
 ---
 
-### 8. Western allies warn North Korean IT workers funding nuclear arsenal
+### 8. Why is Israel arming illegal settlers?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
+As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss)
 
 ---
 
-### 9. DR Congo Ebola epidemic becomes world’s second largest outbreak
+### 9. New York sues Kalshi, says its prediction markets are ‘illegal gambling’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.
+New York is one of many states with cases against Kalshi and others in dispute with Trump gov&#039;t on who gets to regulate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss)
 
 ---
 
