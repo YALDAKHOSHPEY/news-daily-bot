@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-31T08:55:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa says 'nobody selling football' as it presses ahead with investment plan",
+            "description": "Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 04:17:06 GMT",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to give regional mayors share of income tax",
+            "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 21:32:09 GMT",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+            "description": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 05:07:08 GMT",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Families sleep in cars after homes destroyed in Japan earthquake",
+            "description": "Residents in southwestern Japan have had to resort to sleeping in their cars for shelter, after a recent 6.8 magnitude.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 04:59:39 +0000",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘First somewhat optimistic day’ in France since fire outbreak says prefect",
+            "description": "Fire-ravaged southwestern France experienced its ‘first somewhat optimistic day’ since wildfires broke out.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/first-somewhat-optimistic-day-in-france-since-fire-outbreak-says-prefect?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 04:35:01 +0000",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
+            "description": "Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 04:34:04 +0000",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T08:55:23+03:30"
+        }
+    ]
+}

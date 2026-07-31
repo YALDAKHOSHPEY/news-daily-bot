@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 08:23:19
+**Last Update:** 2026-07-31 08:55:23
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI trade now runs on borrowed money, and the lenders are repricing it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://greyswansignals.com/?theme=dark">https://greyswansignals.com/?theme=dark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118933">https://news.ycombinator.com/item?id=49118933</a></p>
-<p>Points: 23</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://greyswansignals.com/?theme=dark](https://greyswansignals.com/?theme=dark)
-
----
-
-### 2. The Session You Cannot take with you
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earendil.com/posts/session-portability/">https://earendil.com/posts/session-portability/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118781">https://news.ycombinator.com/item?id=49118781</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://earendil.com/posts/session-portability/](https://earendil.com/posts/session-portability/)
-
----
-
-### 3. The bond market isn't buying what Fed Chair Warsh is selling
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/">https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118696">https://news.ycombinator.com/item?id=49118696</a></p>
-<p>Points: 47</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
-
----
-
-### 4. Fifa says 'nobody selling football' as it presses ahead with investment plan
+### 1. Fifa says 'nobody selling football' as it presses ahead with investment plan
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Football's governing body plans to continue the consultation process after Uefa 
 
 ---
 
-### 5. Andy Burnham to give regional mayors share of income tax
+### 2. Andy Burnham to give regional mayors share of income tax
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The prime minister says the move will give power to "every postcode" but critics
 
 ---
 
-### 6. Crews tackling Suffolk wildfire say they are in better position
+### 3. Satellite images show impact of heatwaves and drought on UK landscape
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Suffolk Fire and Rescue Service says "the situation appears to be stabilising" but at least 12 fire engines will remain on scene.
+BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Southern Lebanese towns near Beaufort Castle hit by Israeli strikes
+### 4. Families sleep in cars after homes destroyed in Japan earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.
+Residents in southwestern Japan have had to resort to sleeping in their cars for shelter, after a recent 6.8 magnitude.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/families-sleep-in-cars-after-homes-destroyed-in-japan-earthquake?traffic_source=rss)
 
 ---
 
-### 8. Death toll from Japan earthquake climbs to 34
+### 5. ‘First somewhat optimistic day’ in France since fire outbreak says prefect
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The magnitude 7.1 quake has killed 34 people and left six more seriously injured.
+Fire-ravaged southwestern France experienced its ‘first somewhat optimistic day’ since wildfires broke out.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/first-somewhat-optimistic-day-in-france-since-fire-outbreak-says-prefect?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/first-somewhat-optimistic-day-in-france-since-fire-outbreak-says-prefect?traffic_source=rss)
 
 ---
 
-### 9. After OpenAI disclosure, Anthropic says Claude also hacked outside systems
+### 6. Iran holds funeral for Revolutionary Guard members reportedly killed in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
+Residents gathered in the northwestern Iranian for the funeral of IRGC members killed in what Iran says was a US strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
