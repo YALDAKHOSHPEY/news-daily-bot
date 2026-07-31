@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 01:04:54
+**Last Update:** 2026-08-01 01:26:32
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Will 'Watch Everything Burn' When AI Bubble Bursts
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/">https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128539">https://news.ycombinator.com/item?id=49128539</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
-
----
-
-### 2. Loops (YC W22) Is Hiring a Product Educator
+### 1. Loops (YC W22) Is Hiring a Product Educator
 
 **Source:** Hacker News
 
@@ -42,7 +26,7 @@
 
 ---
 
-### 3. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
+### 2. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
 
 **Source:** Hacker News
 
@@ -51,10 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
+
+---
+
+### 3. Predictive Speculative KV Replication for Bursty LLM Inference
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
 ---
 
