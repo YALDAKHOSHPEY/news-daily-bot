@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 01:26:32
+**Last Update:** 2026-08-01 02:24:11
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -35,27 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 16</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
-### 3. Predictive Speculative KV Replication for Bursty LLM Inference
+### 3. Show HN: How to build and self-host a code review agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
+<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
+🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
 
 ---
 
@@ -98,81 +98,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Children face higher threat of US deportation as legal support deal expires
+### 7. Israeli settlers vandalise Palestinian cemetery in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.
+Israeli settlers vandalise Palestinian cemetery in West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Cambridge students on why they protested at graduation ceremony
+### 8. US Senate’s Fauci hearing renews COVID origin debate but reveals little
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several Cambridge students protested during their graduation ceremonies
+Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss)
 
 ---
 
-### 9. Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
+### 9. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
+Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 11. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss)
 
 ---
 
