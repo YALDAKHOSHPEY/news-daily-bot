@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 02:58:20
+**Last Update:** 2026-08-01 03:23:17
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Points: 22</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
@@ -52,14 +52,27 @@
 <p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
-<p>Points: 15</p>
+<p>Points: 17</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
 ---
 
-### 4. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 4. Fifa scraps controversial World Cup investment plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 **Source:** BBC
 
@@ -72,7 +85,7 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 5. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
+### 6. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
 
 **Source:** BBC
 
@@ -82,19 +95,6 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Fifa executive says staff 'deceived' by Infantino plans
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
