@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 17:55:19
+**Last Update:** 2026-08-01 19:04:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. RipGrep musl binaries occasionally segfault during very-large searches
+### 1. A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134694">https://news.ycombinator.com/item?id=49134694</a></p>
+<p>Points: 78</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
+
+---
+
+### 2. The Art of 64-bit Assembly
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nostarch.com/art-64-bit-assembly-v2">https://nostarch.com/art-64-bit-assembly-v2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134599">https://news.ycombinator.com/item?id=49134599</a></p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nostarch.com/art-64-bit-assembly-v2](https://nostarch.com/art-64-bit-assembly-v2)
+
+---
+
+### 3. RipGrep musl binaries occasionally segfault during very-large searches
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
-<p>Points: 85</p>
-<p># Comments: 40</p>
+<p>Points: 123</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
-
----
-
-### 2. Astro Loop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pubdeer.com/">https://pubdeer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133777">https://news.ycombinator.com/item?id=49133777</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://pubdeer.com/](https://pubdeer.com/)
-
----
-
-### 3. Kontigo (YC S24) Is Hiring
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133655">https://news.ycombinator.com/item?id=49133655</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 
 ---
 
@@ -97,7 +97,20 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Israeli strike destroys Gaza hospital warehouse
+### 7. India cracks down on protesters accused of ‘abusing’ Modi
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss)
+
+---
+
+### 8. Israeli strike destroys Gaza hospital warehouse
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyr
 
 ---
 
-### 8. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
+### 9. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyr
 Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s fallout.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss)
-
----
-
-### 9. Is Spain being punished?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss)
 
 ---
 
