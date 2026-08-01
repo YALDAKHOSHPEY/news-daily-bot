@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 01:13:54
+**Last Update:** 2026-08-02 01:54:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The 14 Steps it takes to open my office door with a new phone
+### 1. YC founder asks desperate job seekers to tattoo themselves for an interview
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://shub.club/writings/2026/august/14-steps-to-open-a-door/">https://shub.club/writings/2026/august/14-steps-to-open-a-door/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138731">https://news.ycombinator.com/item?id=49138731</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/">https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138443">https://news.ycombinator.com/item?id=49138443</a></p>
+<p>Points: 47</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://shub.club/writings/2026/august/14-steps-to-open-a-door/](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
+🔗 **Read more:** [https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
 
 ---
 
-### 2. Diátaxis
+### 2. Seedance 2.5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138302">https://news.ycombinator.com/item?id=49138302</a></p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+
+---
+
+### 3. Diátaxis
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
-<p>Points: 47</p>
-<p># Comments: 7</p>
+<p>Points: 67</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
-
----
-
-### 3. The Silicon Valley Founder Meat Grinder
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/">https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138045">https://news.ycombinator.com/item?id=49138045</a></p>
-<p>Points: 85</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 
 ---
 
@@ -71,16 +71,16 @@ There have been tense exchanges between Spain and other EU states over the influ
 
 ---
 
-### 5. Call for 'full review' as pressure grows on Infantino
+### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.
+The pressure is building on Gianni Infantino. Can he survive as Fifa president?
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Al Jazeera reports from Ceuta as migrants leave the enclave
+### 7. Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss)
+
+---
+
+### 8. Al Jazeera reports from Ceuta as migrants leave the enclave
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Spain says “virtually all” of the estimated 60,000 migrants who stormed its 
 
 ---
 
-### 8. Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
+### 9. Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Spain says “virtually all” of the estimated 60,000 migrants who stormed its 
 Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss)
-
----
-
-### 9. Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss)
 
 ---
 
