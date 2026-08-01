@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 13:44:11
+**Last Update:** 2026-08-01 13:56:34
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 64</p>
-<p># Comments: 19</p>
+<p>Points: 73</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
 
 ---
 
-### 2. How to Do Great Work
+### 2. EU will mandate labels on authentic-looking AI content starting August 2
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/">https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132341">https://news.ycombinator.com/item?id=49132341</a></p>
+<p>Points: 18</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/](https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/)
+
+---
+
+### 3. How to Do Great Work
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 9</p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
-
----
-
-### 3. AI doesn't generate working products, that's still your job
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
@@ -71,7 +71,20 @@ Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fa
 
 ---
 
-### 5. Sir John Curtice: The "Burnham bounce" is real but it's not massive
+### 5. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Sir John Curtice: The "Burnham bounce" is real but it's not massive
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fa
 The governing party's poll ratings have improved but they're only just ahead of Reform
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
