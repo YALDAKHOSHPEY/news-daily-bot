@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 17:34:17
+**Last Update:** 2026-08-01 17:55:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
-<p>Points: 70</p>
-<p># Comments: 26</p>
+<p>Points: 85</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://pubdeer.com/">https://pubdeer.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133777">https://news.ycombinator.com/item?id=49133777</a></p>
-<p>Points: 3</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://pubdeer.com/](https://pubdeer.com/)
@@ -91,13 +91,39 @@ Italy has temporarily suspended the Schengen arrangement with Spain as Prime Min
 **Category:** world
 
 **Description:**
-The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
+The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Is Spain being punished?
+### 7. Israeli strike destroys Gaza hospital warehouse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss)
+
+---
+
+### 8. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s fallout.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss)
+
+---
+
+### 9. Is Spain being punished?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Nepali-born climber was known for scaling the world's 14 highest peaks in ju
 In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss)
-
----
-
-### 8. Children run marathon to spotlight Gaza’s growing orphan crises
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Children run marathon to spotlight Gaza&#039;s growing orphan crisis
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss)
-
----
-
-### 9. Most Australian teens still online three months after under-16 ban
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss)
 
 ---
 
