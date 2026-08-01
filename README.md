@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 08:48:08
+**Last Update:** 2026-08-01 11:10:51
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What Liberal Arts Education Is for (2024)
+### 1. Ten Ways NAS Is Getting Enshitified
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131367">https://news.ycombinator.com/item?id=49131367</a></p>
+<p>Points: 37</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
+
+---
+
+### 2. What Liberal Arts Education Is for (2024)
 
 **Source:** Hacker News
 
@@ -19,72 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131034">https://news.ycombinator.com/item?id=49131034</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 34</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://innig.net/teaching/liberal-arts-manifesto](https://innig.net/teaching/liberal-arts-manifesto)
 
 ---
 
-### 2. About 100 firefighters are convicted of arson, every year
+### 3. The development pipeline is a production system
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/">https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130853">https://news.ycombinator.com/item?id=49130853</a></p>
-<p>Points: 13</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
+<p>Points: 64</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/](https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/)
-
----
-
-### 3. BMW Spider-Man in-car advertising
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising">https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130756">https://news.ycombinator.com/item?id=49130756</a></p>
-<p>Points: 122</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
+🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 
 ---
 
-### 4. Fifa scraps controversial World Cup investment plan
+### 4. Fifa scraps World Cup investment plan after outcry
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.
+Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had "created divisions" and would not go ahead.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
+### 5. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
