@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 03:23:17
+**Last Update:** 2026-08-01 04:32:45
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 22</p>
-<p># Comments: 13</p>
+<p>Points: 27</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
@@ -52,8 +52,8 @@
 <p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
@@ -85,55 +85,55 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 6. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
+### 6. What triggered the mass migrant crossings into Ceuta?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.
+An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli settlers vandalise Palestinian cemetery in West Bank
+### 7. Trump administration to dismiss Reflecting Pool charges against David Hearn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers vandalise Palestinian cemetery in West Bank
+US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of &#039;botched installation&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss)
 
 ---
 
-### 8. US Senate’s Fauci hearing renews COVID origin debate but reveals little
+### 8. Iran war live: Trump threatens strikes, Iran says it has a plan to respond
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
+An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss)
 
 ---
 
-### 9. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
+### 9. FIFA’s Infantino scraps controversial World Cup private investment plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
+FIFA and its President Gianni Infantino faced fierce backlash from across football to plans to sell stake in World Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss)
 
 ---
 
