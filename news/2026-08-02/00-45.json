@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T00:45:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Diátaxis",
+            "description": "<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138188\">https://news.ycombinator.com/item?id=49138188</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://diataxis.fr/",
+            "published": "Sat, 01 Aug 2026 20:33:27 +0000",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Silicon Valley Founder Meat Grinder",
+            "description": "<p>Article URL: <a href=\"https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/\">https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138045\">https://news.ycombinator.com/item?id=49138045</a></p>\n<p>Points: 47</p>\n<p># Comments: 9</p>",
+            "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+            "published": "Sat, 01 Aug 2026 20:20:58 +0000",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+            "description": "<p>Article URL: <a href=\"https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose\">https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137904\">https://news.ycombinator.com/item?id=49137904</a></p>\n<p>Points: 31</p>\n<p># Comments: 18</p>",
+            "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+            "published": "Sat, 01 Aug 2026 20:07:39 +0000",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+            "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+            "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Call for 'full review' as pressure grows on Infantino",
+            "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+            "description": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 20:38:41 +0000",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Greece battles raging wildfires as flames appear to ease in France",
+            "description": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 20:24:19 +0000",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
+            "description": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 20:10:01 +0000",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T00:45:01+03:30"
+        }
+    ]
+}

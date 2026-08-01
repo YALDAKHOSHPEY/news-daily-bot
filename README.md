@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 23:35:03
+**Last Update:** 2026-08-02 00:45:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Top amputation surgeon had own legs removed due to fetish. Were patients safe?
+### 1. Diátaxis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions">https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137808">https://news.ycombinator.com/item?id=49137808</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
+🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
 
 ---
 
-### 2. Google News is just Forrest Gump's shrimp boat now
+### 2. The Silicon Valley Founder Meat Grinder
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now">https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137681">https://news.ycombinator.com/item?id=49137681</a></p>
-<p>Points: 3</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/">https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138045">https://news.ycombinator.com/item?id=49138045</a></p>
+<p>Points: 47</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
+🔗 **Read more:** [https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 
 ---
 
-### 3. Postmortem for Kernel Soundness Bug #14576
+### 3. Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137060">https://news.ycombinator.com/item?id=49137060</a></p>
-<p>Points: 53</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose">https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137904">https://news.ycombinator.com/item?id=49137904</a></p>
+<p>Points: 31</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+🔗 **Read more:** [https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 
 ---
 
-### 4. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+### 4. EU calls emergency meeting to discuss Ceuta migrant crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
+There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Trump denounces Justice Department decision to drop Reflecting Pool charges
+### 7. Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.
+Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss)
 
 ---
 
-### 8. Palestinian children among those detained in Israeli West Bank raids
+### 8. Greece battles raging wildfires as flames appear to ease in France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
+French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss)
 
 ---
 
-### 9. At least three killed in explosion near cafe in Russia’s Moscow
+### 9. Record-breaking climber Nirmal Purja among those killed in avalanche
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
+14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss)
 
 ---
 
