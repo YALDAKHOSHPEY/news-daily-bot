@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 15:25:42
+**Last Update:** 2026-08-01 16:28:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. RamenHaus
+### 1. RipGrep musl binaries occasionally segfault during very-large searches
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 104</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
+🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
 
 ---
 
-### 2. How to Do Great Work (2023)
+### 2. Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 35</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://freeaipromptgen.com/">https://freeaipromptgen.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133672">https://news.ycombinator.com/item?id=49133672</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
+🔗 **Read more:** [https://freeaipromptgen.com/](https://freeaipromptgen.com/)
 
 ---
 
-### 3. AI doesn't generate working products, that's still your job
+### 3. Kontigo (YC S24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 155</p>
-<p># Comments: 129</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133655">https://news.ycombinator.com/item?id=49133655</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 
 ---
 
@@ -84,55 +84,55 @@ Italy has temporarily suspended the Schengen arrangement with Spain as Prime Min
 
 ---
 
-### 6. Sir John Curtice: The "Burnham bounce" is real but it's not massive
+### 6. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The governing party's poll ratings have improved but they're only just ahead of Reform
+The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Vanishing forests: Why is the Philippines failing at reforestation?
+### 7. Iran warns against ‘fire of war’ amid US strike threats on energy sites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
+Iranian media say retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss)
 
 ---
 
-### 8. Spain says migrants in Ceuta have returned to Morocco
+### 8. Sde Teiman walkout lays bare an Israeli military running out of trust
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
+Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss)
 
 ---
 
-### 9. Trump mimics sound of Patriot missile interceptions
+### 9. FIFA World Cup crisis: Who could replace Infantino as president?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
+Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss)
 
 ---
 
