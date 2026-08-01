@@ -1,29 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 19:22:16
+**Last Update:** 2026-08-01 20:17:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Uefa has 'lost confidence' in Infantino's Fifa leadership
+### 1. Pgtestdb's template cloning approach to testing is fast
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-The governing body of European football says Fifa president Gianni Infantino has "failed to deliver" on promises he made when elected 10 years ago.
+<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135546">https://news.ycombinator.com/item?id=49135546</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
 
 ---
 
-### 2. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+### 2. Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html">https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135507">https://news.ycombinator.com/item?id=49135507</a></p>
+<p>Points: 33</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+
+---
+
+### 3. Indexing the Data Lake for Online Point Queries
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries">https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135383">https://news.ycombinator.com/item?id=49135383</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
+
+---
+
+### 4. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -36,7 +71,20 @@ Italy has temporarily suspended the Schengen arrangement with Spain as Prime Min
 
 ---
 
-### 3. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
+### 5. Call for 'full review' as pressure grows on Infantino
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 4. India cracks down on protesters accused of ‘abusing’ Modi
+### 7. Moroccan rapper Mehdi El Youbi temporarily released from prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
+The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss)
 
 ---
 
-### 5. Israeli strike destroys Gaza hospital warehouse
+### 8. Israeli strikes kill four across Gaza, destroy medical supply warehouse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.
+Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss)
 
 ---
 
-### 6. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
+### 9. At least 11 wounded by Colombia car bomb days before presidential election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s fallout.
+President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
