@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 01:54:42
+**Last Update:** 2026-08-02 02:13:41
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. YC founder asks desperate job seekers to tattoo themselves for an interview
+### 1. From MIT: AI financial advice is surprisingly good
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/">https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138443">https://news.ycombinator.com/item?id=49138443</a></p>
-<p>Points: 47</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions">https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139102">https://news.ycombinator.com/item?id=49139102</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
+🔗 **Read more:** [https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138302">https://news.ycombinator.com/item?id=49138302</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Points: 45</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
-<p>Points: 67</p>
-<p># Comments: 9</p>
+<p>Points: 85</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
 
