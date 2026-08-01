@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 20:59:22
+**Last Update:** 2026-08-01 21:22:17
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/stalkermustang/status/2083485500250198453">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136236">https://news.ycombinator.com/item?id=49136236</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://twitter.com/stalkermustang/status/2083485500250198453](https://twitter.com/stalkermustang/status/2083485500250198453)
 
 ---
 
-### 2. Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html">https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136104">https://news.ycombinator.com/item?id=49136104</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)
-
----
-
-### 3. I ♥ RSS – A directory of people who love RSS
+### 2. I ♥ RSS – A directory of people who love RSS
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
-<p>Points: 38</p>
-<p># Comments: 23</p>
+<p>Points: 62</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
+
+---
+
+### 3. Kaisel – Routes as Values. Dart 3 Native Router for Flutter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://kaisel.dev/](https://kaisel.dev/)
 
 ---
 
