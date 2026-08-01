@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 19:04:48
+**Last Update:** 2026-08-01 19:22:16
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134694">https://news.ycombinator.com/item?id=49134694</a></p>
-<p>Points: 78</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
-
----
-
-### 2. The Art of 64-bit Assembly
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nostarch.com/art-64-bit-assembly-v2">https://nostarch.com/art-64-bit-assembly-v2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134599">https://news.ycombinator.com/item?id=49134599</a></p>
-<p>Points: 27</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://nostarch.com/art-64-bit-assembly-v2](https://nostarch.com/art-64-bit-assembly-v2)
-
----
-
-### 3. RipGrep musl binaries occasionally segfault during very-large searches
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
-<p>Points: 123</p>
-<p># Comments: 74</p>
-
-🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
-
----
-
-### 4. Uefa has 'lost confidence' in Infantino's Fifa leadership
+### 1. Uefa has 'lost confidence' in Infantino's Fifa leadership
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The governing body of European football says Fifa president Gianni Infantino has
 
 ---
 
-### 5. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+### 2. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Italy has temporarily suspended the Schengen arrangement with Spain as Prime Min
 
 ---
 
-### 6. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
+### 3. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. India cracks down on protesters accused of ‘abusing’ Modi
+### 4. India cracks down on protesters accused of ‘abusing’ Modi
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Police cases, social media takedowns and online abuse have followed many who too
 
 ---
 
-### 8. Israeli strike destroys Gaza hospital warehouse
+### 5. Israeli strike destroys Gaza hospital warehouse
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyr
 
 ---
 
-### 9. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
+### 6. Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ Backlash to FIFA&#039;s private investment plan for World Cups and events was hu
 
 ---
 
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
