@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 16:28:17
+**Last Update:** 2026-08-01 17:34:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Points: 70</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
 
 ---
 
-### 2. Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool
+### 2. Astro Loop
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://freeaipromptgen.com/">https://freeaipromptgen.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133672">https://news.ycombinator.com/item?id=49133672</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://pubdeer.com/">https://pubdeer.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133777">https://news.ycombinator.com/item?id=49133777</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://freeaipromptgen.com/](https://freeaipromptgen.com/)
+🔗 **Read more:** [https://pubdeer.com/](https://pubdeer.com/)
 
 ---
 
@@ -97,42 +97,42 @@ The Nepali-born climber was known for scaling the world's 14 highest peaks in ju
 
 ---
 
-### 7. Iran warns against ‘fire of war’ amid US strike threats on energy sites
+### 7. Is Spain being punished?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian media say retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
+In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss)
 
 ---
 
-### 8. Sde Teiman walkout lays bare an Israeli military running out of trust
+### 8. Children run marathon to spotlight Gaza’s growing orphan crises
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.
+Children run marathon to spotlight Gaza&#039;s growing orphan crisis
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss)
 
 ---
 
-### 9. FIFA World Cup crisis: Who could replace Infantino as president?
+### 9. Most Australian teens still online three months after under-16 ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
+The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss)
 
 ---
 
