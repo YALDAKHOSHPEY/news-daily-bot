@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 00:45:01
+**Last Update:** 2026-08-02 01:13:54
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Diátaxis
+### 1. The 14 Steps it takes to open my office door with a new phone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://shub.club/writings/2026/august/14-steps-to-open-a-door/">https://shub.club/writings/2026/august/14-steps-to-open-a-door/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138731">https://news.ycombinator.com/item?id=49138731</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://shub.club/writings/2026/august/14-steps-to-open-a-door/](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
+
+---
+
+### 2. Diátaxis
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Points: 47</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
 
 ---
 
-### 2. The Silicon Valley Founder Meat Grinder
+### 3. The Silicon Valley Founder Meat Grinder
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/">https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138045">https://news.ycombinator.com/item?id=49138045</a></p>
-<p>Points: 47</p>
-<p># Comments: 9</p>
+<p>Points: 85</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
-
----
-
-### 3. Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose">https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137904">https://news.ycombinator.com/item?id=49137904</a></p>
-<p>Points: 31</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 
 ---
 
@@ -97,7 +97,33 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
+### 7. Al Jazeera reports from Ceuta as migrants leave the enclave
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss)
+
+---
+
+### 8. Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss)
+
+---
+
+### 9. Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss)
-
----
-
-### 8. Greece battles raging wildfires as flames appear to ease in France
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss)
-
----
-
-### 9. Record-breaking climber Nirmal Purja among those killed in avalanche
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss)
 
 ---
 
