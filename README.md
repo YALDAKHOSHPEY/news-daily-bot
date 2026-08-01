@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 08:16:30
+**Last Update:** 2026-08-01 08:48:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. BMW Spider-Man in-car advertising
+### 1. What Liberal Arts Education Is for (2024)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131034">https://news.ycombinator.com/item?id=49131034</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://innig.net/teaching/liberal-arts-manifesto](https://innig.net/teaching/liberal-arts-manifesto)
+
+---
+
+### 2. About 100 firefighters are convicted of arson, every year
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/">https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130853">https://news.ycombinator.com/item?id=49130853</a></p>
+<p>Points: 13</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/](https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/)
+
+---
+
+### 3. BMW Spider-Man in-car advertising
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising">https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130756">https://news.ycombinator.com/item?id=49130756</a></p>
-<p>Points: 82</p>
-<p># Comments: 30</p>
+<p>Points: 122</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising)
-
----
-
-### 2. The development pipeline is a production system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
-<p>Points: 33</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
-
----
-
-### 3. What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://minimaxh3.art/blog/what-is-minimax-h3">https://minimaxh3.art/blog/what-is-minimax-h3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130723">https://news.ycombinator.com/item?id=49130723</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://minimaxh3.art/blog/what-is-minimax-h3](https://minimaxh3.art/blog/what-is-minimax-h3)
 
 ---
 
@@ -97,7 +97,33 @@ Labour's Bev Craig secures nearly double the number of votes won by Reform UK's 
 
 ---
 
-### 7. Peru’s ex-president Humala released after conviction overturned
+### 7. Protesters detained at rally in support of Pakistan-administered Kashmir
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss)
+
+---
+
+### 8. US drops charges against Olympian for damage to Reflecting Pool
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US Department of Justice has moved to dismiss its case against Olympian David Hearn.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss)
+
+---
+
+### 9. Peru’s ex-president Humala released after conviction overturned
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Labour's Bev Craig secures nearly double the number of votes won by Reform UK's 
 Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss)
-
----
-
-### 8. Yemen’s Houthis deny plan to charge ships transiting Red Sea
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthis say Red Sea route remains free to use, pushing back on report of new shipping fees.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss)
-
----
-
-### 9. Is Israel really ready to withdraw from Gaza?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss)
 
 ---
 
