@@ -1,32 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 21:22:17
+**Last Update:** 2026-08-01 21:59:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Assessment of open AI math results
+### 1. Tesla Spyware
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/stalkermustang/status/2083485500250198453">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136236">https://news.ycombinator.com/item?id=49136236</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://ma.tt/2026/07/tesla-spyware/">https://ma.tt/2026/07/tesla-spyware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136134">https://news.ycombinator.com/item?id=49136134</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/stalkermustang/status/2083485500250198453](https://twitter.com/stalkermustang/status/2083485500250198453)
+🔗 **Read more:** [https://ma.tt/2026/07/tesla-spyware/](https://ma.tt/2026/07/tesla-spyware/)
 
 ---
 
-### 2. I ♥ RSS – A directory of people who love RSS
+### 2. A directory of people who love RSS
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
-<p>Points: 62</p>
-<p># Comments: 31</p>
+<p>Points: 106</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>
-<p>Points: 15</p>
+<p>Points: 22</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://kaisel.dev/](https://kaisel.dev/)
@@ -97,42 +97,42 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
+### 7. ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
+More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss)
 
 ---
 
-### 8. Moroccan rapper Mehdi El Youbi temporarily released from prison
+### 8. Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.
+The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss)
 
 ---
 
-### 9. Israeli strikes kill four across Gaza, destroy medical supply warehouse
+### 9. At least 9 people killed in Russian missile attacks on Kyiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.
+At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss)
 
 ---
 
