@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 21:59:02
+**Last Update:** 2026-08-01 22:23:29
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -97,7 +97,20 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
+### 7. At least three killed in explosion near cafe in Russia’s Moscow
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss)
+
+---
+
+### 8. ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ More than 58,000 children have lost one or both parents by Israel&#039;s war, hi
 
 ---
 
-### 8. Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
+### 9. Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ More than 58,000 children have lost one or both parents by Israel&#039;s war, hi
 The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss)
-
----
-
-### 9. At least 9 people killed in Russian missile attacks on Kyiv
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss)
 
 ---
 
