@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 11:10:51
+**Last Update:** 2026-08-01 11:32:58
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ten Ways NAS Is Getting Enshitified
+### 1. Ten advances in mathematics and theoretical computer science
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/ten-advances-in-mathematics/">https://openai.com/index/ten-advances-in-mathematics/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132058">https://news.ycombinator.com/item?id=49132058</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://openai.com/index/ten-advances-in-mathematics/](https://openai.com/index/ten-advances-in-mathematics/)
+
+---
+
+### 2. Ten Ways NAS Is Getting Enshitified
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131367">https://news.ycombinator.com/item?id=49131367</a></p>
-<p>Points: 37</p>
-<p># Comments: 27</p>
+<p>Points: 46</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
 
 ---
 
-### 2. What Liberal Arts Education Is for (2024)
+### 3. What liberal arts education is for (2024)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131034">https://news.ycombinator.com/item?id=49131034</a></p>
-<p>Points: 34</p>
-<p># Comments: 33</p>
+<p>Points: 38</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://innig.net/teaching/liberal-arts-manifesto](https://innig.net/teaching/liberal-arts-manifesto)
-
----
-
-### 3. The development pipeline is a production system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
-<p>Points: 64</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 
 ---
 
@@ -97,7 +97,20 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 7. Protesters detained at rally in support of Pakistan-administered Kashmir
+### 7. FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss)
+
+---
+
+### 8. Protesters detained at rally in support of Pakistan-administered Kashmir
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Police detained several protesters in Lahore, Pakistan as they rallied in solida
 
 ---
 
-### 8. US drops charges against Olympian for damage to Reflecting Pool
+### 9. US drops charges against Olympian for damage to Reflecting Pool
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Police detained several protesters in Lahore, Pakistan as they rallied in solida
 The US Department of Justice has moved to dismiss its case against Olympian David Hearn.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss)
-
----
-
-### 9. Peru’s ex-president Humala released after conviction overturned
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss)
 
 ---
 

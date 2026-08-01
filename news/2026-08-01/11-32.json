@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T11:32:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ten advances in mathematics and theoretical computer science",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132058\">https://news.ycombinator.com/item?id=49132058</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/ten-advances-in-mathematics/",
+            "published": "Sat, 01 Aug 2026 07:37:44 +0000",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ten Ways NAS Is Getting Enshitified",
+            "description": "<p>Article URL: <a href=\"https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/\">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49131367\">https://news.ycombinator.com/item?id=49131367</a></p>\n<p>Points: 46</p>\n<p># Comments: 36</p>",
+            "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+            "published": "Sat, 01 Aug 2026 05:38:16 +0000",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What liberal arts education is for (2024)",
+            "description": "<p>Article URL: <a href=\"https://innig.net/teaching/liberal-arts-manifesto\">https://innig.net/teaching/liberal-arts-manifesto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49131034\">https://news.ycombinator.com/item?id=49131034</a></p>\n<p>Points: 38</p>\n<p># Comments: 38</p>",
+            "url": "https://innig.net/teaching/liberal-arts-manifesto",
+            "published": "Sat, 01 Aug 2026 04:28:13 +0000",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa scraps World Cup investment plan after outcry",
+            "description": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 05:42:31 GMT",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
+            "description": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
+            "url": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 22:53:54 GMT",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+            "description": "Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.",
+            "url": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 07:33:33 +0000",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters detained at rally in support of Pakistan-administered Kashmir",
+            "description": "Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 04:39:22 +0000",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US drops charges against Olympian for damage to Reflecting Pool",
+            "description": "The US Department of Justice has moved to dismiss its case against Olympian David Hearn.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 04:36:10 +0000",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T11:32:58+03:30"
+        }
+    ]
+}
