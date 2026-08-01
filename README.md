@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 20:17:52
+**Last Update:** 2026-08-01 20:59:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pgtestdb's template cloning approach to testing is fast
+### 1. Assessment of open AI math results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135546">https://news.ycombinator.com/item?id=49135546</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
-
----
-
-### 2. Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html">https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135507">https://news.ycombinator.com/item?id=49135507</a></p>
-<p>Points: 33</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
-
----
-
-### 3. Indexing the Data Lake for Online Point Queries
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries">https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135383">https://news.ycombinator.com/item?id=49135383</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://twitter.com/stalkermustang/status/2083485500250198453">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136236">https://news.ycombinator.com/item?id=49136236</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
+🔗 **Read more:** [https://twitter.com/stalkermustang/status/2083485500250198453](https://twitter.com/stalkermustang/status/2083485500250198453)
+
+---
+
+### 2. Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html">https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136104">https://news.ycombinator.com/item?id=49136104</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)
+
+---
+
+### 3. I ♥ RSS – A directory of people who love RSS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
+<p>Points: 38</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
 
 ---
 
@@ -97,7 +97,20 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Moroccan rapper Mehdi El Youbi temporarily released from prison
+### 7. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss)
+
+---
+
+### 8. Moroccan rapper Mehdi El Youbi temporarily released from prison
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The outspoken artist was detained in mid-July for ‘insulting a constitutional 
 
 ---
 
-### 8. Israeli strikes kill four across Gaza, destroy medical supply warehouse
+### 9. Israeli strikes kill four across Gaza, destroy medical supply warehouse
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The outspoken artist was detained in mid-July for ‘insulting a constitutional 
 Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss)
-
----
-
-### 9. At least 11 wounded by Colombia car bomb days before presidential election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss)
 
 ---
 
