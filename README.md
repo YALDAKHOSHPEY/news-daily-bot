@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 22:01:31
+**Last Update:** 2026-08-02 22:24:15
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harvesting SSH Credentials: Insights from My Honeypot Network
+### 1. Welcome to Agents Week
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cloudflare.com/agents-week-welcome/">https://blog.cloudflare.com/agents-week-welcome/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146982">https://news.ycombinator.com/item?id=49146982</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://blog.cloudflare.com/agents-week-welcome/](https://blog.cloudflare.com/agents-week-welcome/)
+
+---
+
+### 2. Harvesting SSH Credentials: Insights from My Honeypot Network
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146605">https://news.ycombinator.com/item?id=49146605</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
-
----
-
-### 2. The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594">https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146372">https://news.ycombinator.com/item?id=49146372</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594](https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594)
 
 ---
 
@@ -52,8 +52,8 @@
 <p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Points: 30</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
 
@@ -98,42 +98,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Fetus found among the ruins of a deadly Israeli strike on Gaza
+### 7. Two helicopters collide mid-air while tackling wildfires in Greece
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.
+Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss)
 
 ---
 
-### 8. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
+### 8. Ukrainian drone attacks kill eight in response to Russian missiles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.
+Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss)
 
 ---
 
-### 9. ‘Iran war participation trophy’ mocking Trump appears in New York
+### 9. ‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
+Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss)
 
 ---
 
