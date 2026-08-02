@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 17:35:50
+**Last Update:** 2026-08-02 17:56:55
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Has the New Cocaine Arrived?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144273">https://news.ycombinator.com/item?id=49144273</a></p>
-<p>Points: 42</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
-
----
-
-### 2. Twenty Years of RISC OS Open
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 40</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
-
----
-
-### 3. F*: A general-purpose proof-oriented programming language
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
-
----
-
-### 4. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 1. Trump cancels Iran strikes subject to deal being made 'rapidly'
 
 **Source:** BBC
 
@@ -71,20 +23,20 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. Continued drought could cause shortage of some foods, farmers' union head says
+### 2. Prolonged drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.
+NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. The shadowy gang recruiting teenage hitmen to kill across Europe
+### 3. The shadowy gang recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers
+### 4. Firefighting helicopters collide near Athens as Greece battles wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poor road infrastructure is exacerbating Yemen&#039;s water crisis, leading to hardships for thousands in Taiz governorate.
+Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss)
 
 ---
 
-### 8. South Korea has hottest day on record amid extreme weather globally
+### 5. Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Scientists say the climate crisis driven by human activity is making heatwaves more frequent.
+Deadly ferry fire leaves dozens missing in Indonesia&#039;s Java Sea
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss)
 
 ---
 
-### 9. At least five dead, 41 missing after ferry catches fire off Indonesia
+### 6. No breakthrough on Strait of Hormuz as Trump halts attack on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.
+Iran says Trump&#039;s comment on pullback from threatened strikes made &#039;within the context of psychological operations&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
