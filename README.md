@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 11:13:00
+**Last Update:** 2026-08-02 11:34:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+### 1. Australia's social media ban has failed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/">https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141877">https://news.ycombinator.com/item?id=49141877</a></p>
+<p>Points: 13</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)
+
+---
+
+### 2. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
-<p>Points: 107</p>
-<p># Comments: 12</p>
+<p>Points: 110</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
 
 ---
 
-### 2. MkLinux and the pimped-out Apple Workgroup Server 9150
+### 3. MkLinux and the pimped-out Apple Workgroup Server 9150
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 2</p>
 
 🔗 **Read more:** [http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-
----
-
-### 3. Linux desktop market share has hit over 10% in North America
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/">https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140696">https://news.ycombinator.com/item?id=49140696</a></p>
-<p>Points: 157</p>
-<p># Comments: 65</p>
-
-🔗 **Read more:** [https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
 
 ---
 
