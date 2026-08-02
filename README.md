@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 16:27:49
+**Last Update:** 2026-08-02 17:35:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Twenty Years of RISC OS Open
+### 1. Has the New Cocaine Arrived?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144273">https://news.ycombinator.com/item?id=49144273</a></p>
+<p>Points: 42</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
+
+---
+
+### 2. Twenty Years of RISC OS Open
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 40</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 
 ---
 
-### 2. An internal OpenAI Astra model solved 10 major open math and CS problems
+### 3. F*: A general-purpose proof-oriented programming language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/polynoamial/status/2083467194663571701">https://twitter.com/polynoamial/status/2083467194663571701</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143688">https://news.ycombinator.com/item?id=49143688</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://twitter.com/polynoamial/status/2083467194663571701](https://twitter.com/polynoamial/status/2083467194663571701)
-
----
-
-### 3. Great Question (YC W21) Is Hiring Senior Demand Gen Manager
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143683">https://news.ycombinator.com/item?id=49143683</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
+🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
 
 ---
 
@@ -71,7 +71,7 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. Continued drought could cause shortage of certain foods, head of farmers' union says
+### 5. Continued drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. South Korea has hottest day on record amid extreme weather globally
+### 7. Yemen’s crumbling roads mean an arduous quest for water for Taiz villagers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Poor road infrastructure is exacerbating Yemen&#039;s water crisis, leading to hardships for thousands in Taiz governorate.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss)
+
+---
+
+### 8. South Korea has hottest day on record amid extreme weather globally
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Scientists say the climate crisis driven by human activity is making heatwaves m
 
 ---
 
-### 8. At least five dead, 41 missing after ferry catches fire off Indonesia
+### 9. At least five dead, 41 missing after ferry catches fire off Indonesia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Scientists say the climate crisis driven by human activity is making heatwaves m
 The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss)
-
----
-
-### 9. Why has the EU called an emergency meeting on Spain migrant surge?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In joint letter, 22 member states call for &#039;strengthening of external borders&#039; after nearly 60,000 migrants enter Ceuta.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss)
 
 ---
 
