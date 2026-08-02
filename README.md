@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 08:18:54
+**Last Update:** 2026-08-02 08:47:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]
+### 1. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://philarchive.org/archive/NIEWTCv17">https://philarchive.org/archive/NIEWTCv17</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140869">https://news.ycombinator.com/item?id=49140869</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
+<p>Points: 17</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://philarchive.org/archive/NIEWTCv17](https://philarchive.org/archive/NIEWTCv17)
+🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
 
 ---
 
-### 2. MkLinux and the pimped-out Apple Workgroup Server 9150
+### 2. Don't credit the LLM
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://isaacsu.com/2026/08/dont-credit-the-llm/">https://isaacsu.com/2026/08/dont-credit-the-llm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141008">https://news.ycombinator.com/item?id=49141008</a></p>
+<p>Points: 11</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://isaacsu.com/2026/08/dont-credit-the-llm/](https://isaacsu.com/2026/08/dont-credit-the-llm/)
+
+---
+
+### 3. MkLinux and the pimped-out Apple Workgroup Server 9150
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140702">https://news.ycombinator.com/item?id=49140702</a></p>
-<p>Points: 22</p>
+<p>Points: 32</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-
----
-
-### 3. Linux desktop market share has hit over 10% in North America
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/">https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140696">https://news.ycombinator.com/item?id=49140696</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
 
 ---
 
@@ -97,7 +97,20 @@ There have been tense exchanges between Spain and other EU states over the influ
 
 ---
 
-### 7. Why isn’t anyone challenging Infantino for FIFA’s top job?
+### 7. Three dead including female bomber in Moscow restaurant attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss)
+
+---
+
+### 8. Why isn’t anyone challenging Infantino for FIFA’s top job?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in
 
 ---
 
-### 8. How Virunga Park protects people and gorillas from Ebola in eastern DRC
+### 9. How Virunga Park protects people and gorillas from Ebola in eastern DRC
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in
 Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss)
-
----
-
-### 9. Trump cancels Iran strike, says ‘deal perimeters’ reached
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss)
 
 ---
 
