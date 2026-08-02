@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 00:53:10
+**Last Update:** 2026-08-03 01:14:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bubble Memory
+### 1. WireguardTCP: WireGuard over TCP
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wireguardtcp.net/">https://wireguardtcp.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148335">https://news.ycombinator.com/item?id=49148335</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://wireguardtcp.net/](https://wireguardtcp.net/)
+
+---
+
+### 2. Bubble Memory
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust
+### 3. Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust
 
 **Source:** Hacker News
 
@@ -44,26 +60,10 @@
 └──────┴────────────────┴───────┴──────┴──────────┴─────────┘<p>Repo: <a href="https://github.com/0xchasercat/draco/" rel="nofollow">https://github.com/0xchasercat/draco/</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148163">https://news.ycombinator.com/item?id=49148163</a></p>
-<p>Points: 5</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/0xchasercat/draco/](https://github.com/0xchasercat/draco/)
-
----
-
-### 3. AI Mania: From Tulips to Tokens
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://seanhelvey.com/tools-and-their-tools/">https://seanhelvey.com/tools-and-their-tools/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148159">https://news.ycombinator.com/item?id=49148159</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://seanhelvey.com/tools-and-their-tools/](https://seanhelvey.com/tools-and-their-tools/)
 
 ---
 
@@ -106,7 +106,20 @@ The man was arrested on suspicion of manslaughter, as well as robbery and weapon
 
 ---
 
-### 7. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
+### 7. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss)
+
+---
+
+### 8. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
 
 **Source:** Al Jazeera
 
@@ -119,7 +132,7 @@ UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot
 
 ---
 
-### 8. Venezuela and the Dominican Republic say they will work to restore ties
+### 9. Venezuela and the Dominican Republic say they will work to restore ties
 
 **Source:** Al Jazeera
 
@@ -129,19 +142,6 @@ UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot
 Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss)
-
----
-
-### 9. Is Washington dictating the agenda for talks in Venezuela?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss)
 
 ---
 
