@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 01:54:38
+**Last Update:** 2026-08-03 02:14:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Mania: From Tulips to Tokens
+### 1. Californians' data deletion requests, DROP, become enforceable Aug. 1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seanhelvey.com/tools-and-their-tools/">https://seanhelvey.com/tools-and-their-tools/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148159">https://news.ycombinator.com/item?id=49148159</a></p>
-<p>Points: 39</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/">https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148987">https://news.ycombinator.com/item?id=49148987</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://seanhelvey.com/tools-and-their-tools/](https://seanhelvey.com/tools-and-their-tools/)
+🔗 **Read more:** [https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148128">https://news.ycombinator.com/item?id=49148128</a></p>
-<p>Points: 44</p>
-<p># Comments: 20</p>
+<p>Points: 58</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
 
@@ -52,7 +52,7 @@
 <p>I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (<a href="https://github.com/samhenrigold/LidAngleSensor" rel="nofollow">https://github.com/samhenrigold/LidAngleSensor</a>) but for the Framework 12 on Linux, so you can make your hinge sound rusty</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148048">https://news.ycombinator.com/item?id=49148048</a></p>
-<p>Points: 16</p>
+<p>Points: 21</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/ArcaEge/creakwork12](https://github.com/ArcaEge/creakwork12)
