@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 03:18:12
+**Last Update:** 2026-08-02 04:34:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stop fucking around with database commits and transactions
+### 1. RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc10015.html">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139711">https://news.ycombinator.com/item?id=49139711</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.rfc-editor.org/rfc/rfc10015.html](https://www.rfc-editor.org/rfc/rfc10015.html)
+
+---
+
+### 2. A stray commit buried multiple levels deep cost me months
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139562">https://news.ycombinator.com/item?id=49139562</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 27</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.droppedasbaby.com/posts/db-commits/](https://www.droppedasbaby.com/posts/db-commits/)
 
 ---
 
-### 2. Unraveling the mysteries of habit formation
+### 3. Unraveling the mysteries of habit formation
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139383">https://news.ycombinator.com/item?id=49139383</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
+<p>Points: 23</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.kyoto-u.ac.jp/en/research-news/2026-07-28](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
-
----
-
-### 3. Morph (YC S23) Is Hiring Member of Technical Stuff
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139352">https://news.ycombinator.com/item?id=49139352</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 
 ---
 
@@ -71,7 +71,20 @@ There have been tense exchanges between Spain and other EU states over the influ
 
 ---
 
-### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
+### 5. How Spain's migrant crisis created a political storm - whipped up by social media
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The pressure is building on Gianni Infantino. Can he survive as Fifa president?
 
 ---
 
-### 6. Young guns for hire - the teenage hitmen recruited to kill across Europe
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?
+### 7. Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.
+Iran&#039;s Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss)
 
 ---
 
-### 8. Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
+### 8. Singapore bans UK band Massive Attack over Palestinian flag
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
+Singapore barred two members of British band Massive Attack from re-entering the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss)
 
 ---
 
-### 9. US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks
+### 9. New York Times reveals Trump administration subpoena over North Korea story
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.
+The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss)
 
 ---
 
