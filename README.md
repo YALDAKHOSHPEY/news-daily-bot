@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 02:14:37
+**Last Update:** 2026-08-03 02:56:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/">https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148987">https://news.ycombinator.com/item?id=49148987</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
 
 ---
 
-### 2. EU Age Verification Project Mandates Hardware-Bound Attestation
+### 2. Flock – Chilling Effects: Long Island's Emerging Open-Air Prison
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.11971.com/">https://www.11971.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148541">https://news.ycombinator.com/item?id=49148541</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.11971.com/](https://www.11971.com/)
+
+---
+
+### 3. EU Age Verification Project Mandates Hardware-Bound Attestation
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148128">https://news.ycombinator.com/item?id=49148128</a></p>
-<p>Points: 58</p>
-<p># Comments: 23</p>
+<p>Points: 89</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
-
----
-
-### 3. Show HN: Make your Framework 12 sound like a creaky door
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (<a href="https://github.com/samhenrigold/LidAngleSensor" rel="nofollow">https://github.com/samhenrigold/LidAngleSensor</a>) but for the Framework 12 on Linux, so you can make your hinge sound rusty</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148048">https://news.ycombinator.com/item?id=49148048</a></p>
-<p>Points: 21</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://github.com/ArcaEge/creakwork12](https://github.com/ArcaEge/creakwork12)
 
 ---
 
@@ -85,20 +84,33 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 6. Ariana Grande pulls out of musical for break from 'endless' scrutiny
+### 6. Ariana Grande to take a break from public life amid 'endless' scrutiny
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US singer, 33, will "step back from visibility" at the end of her world tour, her representative says.
+The US singer, 33, will "step back from visibility" at the end of her world tour next month, her representative says.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Wildfires force mass evacuations across the Pacific Northwest
+### 7. Sudan army drone attack on Darfur kills 35, rights group says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss)
+
+---
+
+### 8. Wildfires force mass evacuations across the Pacific Northwest
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Fast-moving wildfires are forcing evacuations across Washington State, US and ne
 
 ---
 
-### 8. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+### 9. Local volunteers help rebuild destroyed Christian monastery in Lebanon
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Fast-moving wildfires are forcing evacuations across Washington State, US and ne
 Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss)
-
----
-
-### 9. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot; in tackling small boat crossings the Channel.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss)
 
 ---
 
