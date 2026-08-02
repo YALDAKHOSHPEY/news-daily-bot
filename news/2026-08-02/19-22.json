@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-02T19:22:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Rant About “Technology” (2005)",
+            "description": "<p>Article URL: <a href=\"https://www.ursulakleguin.com/a-rant-about-technology\">https://www.ursulakleguin.com/a-rant-about-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145201\">https://news.ycombinator.com/item?id=49145201</a></p>\n<p>Points: 71</p>\n<p># Comments: 20</p>",
+            "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+            "published": "Sun, 02 Aug 2026 14:51:18 +0000",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Twenty Years of RISC OS Open",
+            "description": "<p>Article URL: <a href=\"https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143967\">https://news.ycombinator.com/item?id=49143967</a></p>\n<p>Points: 75</p>\n<p># Comments: 11</p>",
+            "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+            "published": "Sun, 02 Aug 2026 12:36:07 +0000",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "F*: A general-purpose proof-oriented programming language",
+            "description": "<p>Article URL: <a href=\"https://fstar-lang.org/\">https://fstar-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143925\">https://news.ycombinator.com/item?id=49143925</a></p>\n<p>Points: 56</p>\n<p># Comments: 17</p>",
+            "url": "https://fstar-lang.org/",
+            "published": "Sun, 02 Aug 2026 12:31:16 +0000",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers shoot Palestinian child during farm raid",
+            "description": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 15:36:28 +0000",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How to end the ‘Hormuz war’",
+            "description": "The least bad option for the US is to let the MoU Article 5 play out.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 15:33:20 +0000",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainian farmers use temporary storage to revive grain exports",
+            "description": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 15:14:26 +0000",
+            "fetched": "2026-08-02T19:22:38+03:30"
+        }
+    ]
+}

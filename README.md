@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 19:05:13
+**Last Update:** 2026-08-02 19:22:38
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ursula K. Le Guin: A Rant About "Technology" (2005)
+### 1. A Rant About “Technology” (2005)
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.ursulakleguin.com/a-rant-about-technology">https://www.ursulakleguin.com/a-rant-about-technology</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145201">https://news.ycombinator.com/item?id=49145201</a></p>
-<p>Points: 53</p>
-<p># Comments: 13</p>
+<p>Points: 71</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.ursulakleguin.com/a-rant-about-technology](https://www.ursulakleguin.com/a-rant-about-technology)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 69</p>
+<p>Points: 75</p>
 <p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 47</p>
-<p># Comments: 13</p>
+<p>Points: 56</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
 
@@ -97,7 +97,33 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 7. Ukrainian farmers use temporary storage to revive grain exports
+### 7. Israeli settlers shoot Palestinian child during farm raid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss)
+
+---
+
+### 8. How to end the ‘Hormuz war’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The least bad option for the US is to let the MoU Article 5 play out.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss)
+
+---
+
+### 9. Ukrainian farmers use temporary storage to revive grain exports
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss)
-
----
-
-### 8. Heatwave forces nuclear shutdown in Hungary
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss)
-
----
-
-### 9. Tanks, troops and space
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 11. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
