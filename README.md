@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 23:35:21
+**Last Update:** 2026-08-02 23:56:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. EU rules on AI models become enforceable. What's going to change?
+### 1. My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://frogs.vaguespac.es/">https://frogs.vaguespac.es/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147622">https://news.ycombinator.com/item?id=49147622</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://frogs.vaguespac.es/](https://frogs.vaguespac.es/)
+
+---
+
+### 2. EU rules on AI models become enforceable. What's going to change?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147606">https://news.ycombinator.com/item?id=49147606</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
 
 ---
 
-### 2. German carmakers flood jobs market with managers after wielding axe
+### 3. German carmakers flood jobs market with managers after wielding axe
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147478">https://news.ycombinator.com/item?id=49147478</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
-
----
-
-### 3. 'Crush this lady': how eBay harassment campaign led to $56M payout
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2">https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147435">https://news.ycombinator.com/item?id=49147435</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
 
 ---
 
@@ -97,42 +97,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Body of climber Nirmal Purja, six others recovered after Pakistan avalanche
+### 7. Is Washington dictating the agenda for talks in Venezuela?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.
+Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss)
 
 ---
 
-### 8. Most Americans say Trump has gone too far on US immigration: Poll
+### 8. How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.
+Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss)
 
 ---
 
-### 9. Iran says negotiations with Oman over Strait of Hormuz in final stages
+### 9. Israelis attack Armenian monastery in Jerusalem’s Old City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.
+Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss)
 
 ---
 
