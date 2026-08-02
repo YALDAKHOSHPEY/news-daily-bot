@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 05:18:04
+**Last Update:** 2026-08-02 08:18:54
 
 **Total News:** 12
 
@@ -10,81 +10,68 @@
 
 ## 📰 Latest News
 
-### 1. RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
+### 1. OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc10015.html">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139711">https://news.ycombinator.com/item?id=49139711</a></p>
-<p>Points: 18</p>
+<p>Article URL: <a href="https://philarchive.org/archive/NIEWTCv17">https://philarchive.org/archive/NIEWTCv17</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140869">https://news.ycombinator.com/item?id=49140869</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://philarchive.org/archive/NIEWTCv17](https://philarchive.org/archive/NIEWTCv17)
+
+---
+
+### 2. MkLinux and the pimped-out Apple Workgroup Server 9150
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140702">https://news.ycombinator.com/item?id=49140702</a></p>
+<p>Points: 22</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.rfc-editor.org/rfc/rfc10015.html](https://www.rfc-editor.org/rfc/rfc10015.html)
+🔗 **Read more:** [http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 
 ---
 
-### 2. A stray commit buried multiple levels deep cost me months
+### 3. Linux desktop market share has hit over 10% in North America
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139562">https://news.ycombinator.com/item?id=49139562</a></p>
-<p>Points: 30</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/">https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140696">https://news.ycombinator.com/item?id=49140696</a></p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.droppedasbaby.com/posts/db-commits/](https://www.droppedasbaby.com/posts/db-commits/)
-
----
-
-### 3. Unraveling the mysteries of habit formation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139383">https://news.ycombinator.com/item?id=49139383</a></p>
-<p>Points: 32</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.kyoto-u.ac.jp/en/research-news/2026-07-28](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
+🔗 **Read more:** [https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
 
 ---
 
-### 4. EU calls emergency meeting to discuss Ceuta migrant crossings
+### 4. Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
+The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The pressure is building on Gianni Infantino. Can he survive as Fifa president?
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Young guns for hire - the teenage hitmen recruited to kill across Europe
+### 5. Young guns for hire - the teenage hitmen recruited to kill across Europe
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. Gunman kills several at Idaho fast-food restaurant
+### 6. EU calls emergency meeting to discuss Ceuta migrant crossings
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Multiple deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.
+There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Hungary plans to shut down only nuclear power plant amid drought
+### 7. Why isn’t anyone challenging Infantino for FIFA’s top job?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.
+FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’
+### 8. How Virunga Park protects people and gorillas from Ebola in eastern DRC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.
+Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss)
+
+---
+
+### 9. Trump cancels Iran strike, says ‘deal perimeters’ reached
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss)
 
 ---
 
