@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 02:56:35
+**Last Update:** 2026-08-03 03:19:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Californians' data deletion requests, DROP, become enforceable Aug. 1
+### 1. Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/">https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148987">https://news.ycombinator.com/item?id=49148987</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/pg83/shitty">https://github.com/pg83/shitty</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149326">https://news.ycombinator.com/item?id=49149326</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+🔗 **Read more:** [https://github.com/pg83/shitty](https://github.com/pg83/shitty)
 
 ---
 
-### 2. Flock – Chilling Effects: Long Island's Emerging Open-Air Prison
+### 2. AI poster wins Ohio State Fair contest
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.11971.com/">https://www.11971.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148541">https://news.ycombinator.com/item?id=49148541</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.ohiostatefair.com/p/get-involved/arts/poster-contest">https://www.ohiostatefair.com/p/get-involved/arts/poster-contest</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149188">https://news.ycombinator.com/item?id=49149188</a></p>
+<p>Points: 46</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://www.ohiostatefair.com/p/get-involved/arts/poster-contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+
+---
+
+### 3. The Computational Theory of Mind (2015)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://plato.stanford.edu/entries/computational-mind/">https://plato.stanford.edu/entries/computational-mind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149125">https://news.ycombinator.com/item?id=49149125</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.11971.com/](https://www.11971.com/)
-
----
-
-### 3. EU Age Verification Project Mandates Hardware-Bound Attestation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148128">https://news.ycombinator.com/item?id=49148128</a></p>
-<p>Points: 89</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
+🔗 **Read more:** [https://plato.stanford.edu/entries/computational-mind/](https://plato.stanford.edu/entries/computational-mind/)
 
 ---
 
@@ -97,7 +97,20 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Sudan army drone attack on Darfur kills 35, rights group says
+### 7. Brazil’s Lula launches fourth-term bid, focuses on national sovereignty
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Lula seeks to use Bolsonaro family ties with Trump to cast election as fight against submission to foreign interests.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss)
+
+---
+
+### 8. Sudan army drone attack on Darfur kills 35, rights group says
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Tens of thousands of people have been killed in the ongoing war between army chi
 
 ---
 
-### 8. Wildfires force mass evacuations across the Pacific Northwest
+### 9. Wildfires force mass evacuations across the Pacific Northwest
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Tens of thousands of people have been killed in the ongoing war between army chi
 Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss)
-
----
-
-### 9. Local volunteers help rebuild destroyed Christian monastery in Lebanon
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss)
 
 ---
 
