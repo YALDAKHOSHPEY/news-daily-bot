@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 08:47:07
+**Last Update:** 2026-08-02 11:13:00
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
-<p>Points: 17</p>
-<p># Comments: 0</p>
+<p>Points: 107</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
 
 ---
 
-### 2. Don't credit the LLM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://isaacsu.com/2026/08/dont-credit-the-llm/">https://isaacsu.com/2026/08/dont-credit-the-llm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141008">https://news.ycombinator.com/item?id=49141008</a></p>
-<p>Points: 11</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://isaacsu.com/2026/08/dont-credit-the-llm/](https://isaacsu.com/2026/08/dont-credit-the-llm/)
-
----
-
-### 3. MkLinux and the pimped-out Apple Workgroup Server 9150
+### 2. MkLinux and the pimped-out Apple Workgroup Server 9150
 
 **Source:** Hacker News
 
@@ -51,27 +35,56 @@
 **Description:**
 <p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140702">https://news.ycombinator.com/item?id=49140702</a></p>
-<p>Points: 32</p>
-<p># Comments: 1</p>
+<p>Points: 45</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 
 ---
 
-### 4. Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal
+### 3. Linux desktop market share has hit over 10% in North America
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/">https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140696">https://news.ycombinator.com/item?id=49140696</a></p>
+<p>Points: 157</p>
+<p># Comments: 65</p>
+
+🔗 **Read more:** [https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
+
+---
+
+### 4. Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.
+The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Young guns for hire - the teenage hitmen recruited to kill across Europe
+### 5. Three killed after bomb detonated at Moscow restaurant, state media say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Young guns for hire - the teenage hitmen recruited to kill across Europe
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 6. EU calls emergency meeting to discuss Ceuta migrant crossings
+### 7. At least three dead in Idaho shopping mall mass shooting
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
+Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss)
 
 ---
 
-### 7. Three dead including female bomber in Moscow restaurant attack
+### 8. Gaza students overcome Israel’s genocide to mark Tawjihi results
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss)
+
+---
+
+### 9. Three dead including female bomber in Moscow restaurant attack
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ There have been tense exchanges between Spain and other EU states over the influ
 At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss)
-
----
-
-### 8. Why isn’t anyone challenging Infantino for FIFA’s top job?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss)
-
----
-
-### 9. How Virunga Park protects people and gorillas from Ebola in eastern DRC
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss)
 
 ---
 
