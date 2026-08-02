@@ -216,7 +216,15 @@
                 "Al Jazeera",
                 "BBC"
             ]
+        },
+        {
+            "time": "21-00",
+            "news_count": 6,
+            "sources": [
+                "BBC",
+                "Al Jazeera"
+            ]
         }
     ],
-    "total_news": 252
+    "total_news": 258
 }

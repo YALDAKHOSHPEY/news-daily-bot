@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 20:16:13
+**Last Update:** 2026-08-02 21:00:09
 
-**Total News:** 9
+**Total News:** 6
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera
 
 ---
 
@@ -23,14 +23,14 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 2. Man admits killing Scottish woman found in suitcase, Greek police say
+### 2. Man admits transporting Scottish woman's body in suitcase, Greek police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.
+The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss)
 
@@ -49,81 +49,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 4. Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war
+### 4. ‘Iran war participation trophy’ mocking Trump appears in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president halted strikes after earlier threatening Iran with unprecedented force.
+A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss)
 
 ---
 
-### 5. Israeli settlers shoot Palestinian child during farm raid
+### 5. Deadly floods and landslide hit India’s Kerala
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.
+At least two people have been killed and eight injured after torrential rain triggered flooding
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss)
 
 ---
 
-### 6. How to end the ‘Hormuz war’
+### 6. Suicide bomber kills 14 outside police station in Pakistan’s Swat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The least bad option for the US is to let the MoU Article 5 play out.
+Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss)
-
----
-
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 8. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss)
 
 ---
 

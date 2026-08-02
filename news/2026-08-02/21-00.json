@@ -1,0 +1,65 @@
+{
+    "update_time": "2026-08-02T21:00:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 6,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 16:45:03 GMT",
+            "fetched": "2026-08-02T21:00:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+            "fetched": "2026-08-02T21:00:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T21:00:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+            "description": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 17:06:30 +0000",
+            "fetched": "2026-08-02T21:00:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly floods and landslide hit India’s Kerala",
+            "description": "At least two people have been killed and eight injured after torrential rain triggered flooding",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 16:55:39 +0000",
+            "fetched": "2026-08-02T21:00:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+            "description": "Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 16:40:44 +0000",
+            "fetched": "2026-08-02T21:00:09+03:30"
+        }
+    ]
+}
