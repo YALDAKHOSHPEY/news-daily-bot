@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 13:43:02
+**Last Update:** 2026-08-02 13:55:10
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The time filter in Google Search broke a few days ago
+### 1. Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/syncular/syncular">https://github.com/syncular/syncular</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142794">https://news.ycombinator.com/item?id=49142794</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/syncular/syncular](https://github.com/syncular/syncular)
+
+---
+
+### 2. Show HN: Bor – Open-source policy management for Linux desktops
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I'd love feedback on the architecture, policy model, and whether this is something you'd consider for managing Linux workstations.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142569">https://news.ycombinator.com/item?id=49142569</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://getbor.dev/blog/2026-08-02-bor-v080-release/](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
+
+---
+
+### 3. The time filter in Google Search broke a few days ago
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://mastodon.online/@mwichary/117023736804129342">https://mastodon.online/@mwichary/117023736804129342</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142458">https://news.ycombinator.com/item?id=49142458</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://mastodon.online/@mwichary/117023736804129342](https://mastodon.online/@mwichary/117023736804129342)
-
----
-
-### 2. I don't recommend Tailwind CSS
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141891">https://news.ycombinator.com/item?id=49141891</a></p>
-<p>Points: 81</p>
-<p># Comments: 73</p>
-
-🔗 **Read more:** [https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
-
----
-
-### 3. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
-<p>Points: 129</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
 
 ---
 
@@ -71,7 +72,7 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. How a shadowy gang is recruiting teenage hitmen to kill across Europe
+### 5. The shadowy gang recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -97,7 +98,33 @@ Security officials said a woman tried to enter the restaurant with explosives bu
 
 ---
 
-### 7. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
+### 7. Residents of Spain’s Ceuta shut down far-right anti-migrant rally
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss)
+
+---
+
+### 8. A quiet day in Harare after Zimbabwe’s shutdown call
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A heavy security presence and cautious businesses reflected tensions over constitutional changes.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss)
+
+---
+
+### 9. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
 
 **Source:** Al Jazeera
 
@@ -107,71 +134,6 @@ Security officials said a woman tried to enter the restaurant with explosives bu
 Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss)
-
----
-
-### 8. How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss)
-
----
-
-### 9. Trump ‘cancels attack on Iran’ saying deal is near
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 11. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 

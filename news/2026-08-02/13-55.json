@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-02T13:55:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+            "description": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/syncular/syncular",
+            "published": "Sun, 02 Aug 2026 09:48:08 +0000",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+            "description": "<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I'd love feedback on the architecture, policy model, and whether this is something you'd consider for managing Linux workstations.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142569\">https://news.ycombinator.com/item?id=49142569</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+            "published": "Sun, 02 Aug 2026 09:06:33 +0000",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The time filter in Google Search broke a few days ago",
+            "description": "<p>Article URL: <a href=\"https://mastodon.online/@mwichary/117023736804129342\">https://mastodon.online/@mwichary/117023736804129342</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142458\">https://news.ycombinator.com/item?id=49142458</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://mastodon.online/@mwichary/117023736804129342",
+            "published": "Sun, 02 Aug 2026 08:48:53 +0000",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 09:10:51 GMT",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+            "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+            "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 05:40:42 GMT",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Residents of Spain’s Ceuta shut down far-right anti-migrant rally",
+            "description": "Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 09:55:06 +0000",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A quiet day in Harare after Zimbabwe’s shutdown call",
+            "description": "A heavy security presence and cautious businesses reflected tensions over constitutional changes.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 09:50:48 +0000",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+            "description": "Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?",
+            "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 09:43:10 +0000",
+            "fetched": "2026-08-02T13:55:10+03:30"
+        }
+    ]
+}
