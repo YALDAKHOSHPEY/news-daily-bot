@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 19:22:38
+**Last Update:** 2026-08-02 20:16:13
 
 **Total News:** 9
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Rant About “Technology” (2005)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ursulakleguin.com/a-rant-about-technology">https://www.ursulakleguin.com/a-rant-about-technology</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145201">https://news.ycombinator.com/item?id=49145201</a></p>
-<p>Points: 71</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.ursulakleguin.com/a-rant-about-technology](https://www.ursulakleguin.com/a-rant-about-technology)
-
----
-
-### 2. Twenty Years of RISC OS Open
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 75</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
-
----
-
-### 3. F*: A general-purpose proof-oriented programming language
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 56</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
-
----
-
-### 4. Prolonged drought could cause shortage of some foods, farmers' union head says
+### 1. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
+The prime minister says enforcement is increased but there also need to be more safe routes into the UK.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Man admits killing Scottish woman found in suitcase, Greek police say
+### 2. Man admits killing Scottish woman found in suitcase, Greek police say
 
 **Source:** BBC
 
@@ -84,20 +36,33 @@ The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as
 
 ---
 
-### 6. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 3. Prolonged drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli settlers shoot Palestinian child during farm raid
+### 4. Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president halted strikes after earlier threatening Iran with unprecedented force.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss)
+
+---
+
+### 5. Israeli settlers shoot Palestinian child during farm raid
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by
 
 ---
 
-### 8. How to end the ‘Hormuz war’
+### 6. How to end the ‘Hormuz war’
 
 **Source:** Al Jazeera
 
@@ -123,16 +88,42 @@ The least bad option for the US is to let the MoU Article 5 play out.
 
 ---
 
-### 9. Ukrainian farmers use temporary storage to revive grain exports
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 8. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
