@@ -1,16 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 21:00:09
+**Last Update:** 2026-08-02 21:23:02
 
-**Total News:** 6
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Burnham pledges to be 'relentless' in curbing small boat crossings
+### 1. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
+
+---
+
+### 2. Pushes to arch AUR are suspendended right now.
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146238">https://news.ycombinator.com/item?id=49146238</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
+
+---
+
+### 3. Linux Desktop Market Share Surpasses 10% in North America
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/">https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146122">https://news.ycombinator.com/item?id=49146122</a></p>
+<p>Points: 22</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/](https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/)
+
+---
+
+### 4. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
@@ -23,7 +72,7 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 2. Man admits transporting Scottish woman's body in suitcase, Greek police say
+### 5. Man admits transporting Scottish woman's body in suitcase, Greek police say
 
 **Source:** BBC
 
@@ -36,7 +85,7 @@ The man was arrested on suspicion of manslaughter, as well as robbery and weapon
 
 ---
 
-### 3. Prolonged drought could cause shortage of some foods, farmers' union head says
+### 6. Prolonged drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
@@ -49,7 +98,20 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 4. ‘Iran war participation trophy’ mocking Trump appears in New York
+### 7. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss)
+
+---
+
+### 8. ‘Iran war participation trophy’ mocking Trump appears in New York
 
 **Source:** Al Jazeera
 
@@ -62,7 +124,7 @@ A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war 
 
 ---
 
-### 5. Deadly floods and landslide hit India’s Kerala
+### 9. Deadly floods and landslide hit India’s Kerala
 
 **Source:** Al Jazeera
 
@@ -75,16 +137,42 @@ At least two people have been killed and eight injured after torrential rain tri
 
 ---
 
-### 6. Suicide bomber kills 14 outside police station in Pakistan’s Swat
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 11. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
