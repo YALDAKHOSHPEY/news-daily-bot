@@ -1,69 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 01:14:12
+**Last Update:** 2026-08-03 01:54:38
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. WireguardTCP: WireGuard over TCP
+### 1. AI Mania: From Tulips to Tokens
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wireguardtcp.net/">https://wireguardtcp.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148335">https://news.ycombinator.com/item?id=49148335</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://seanhelvey.com/tools-and-their-tools/">https://seanhelvey.com/tools-and-their-tools/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148159">https://news.ycombinator.com/item?id=49148159</a></p>
+<p>Points: 39</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://wireguardtcp.net/](https://wireguardtcp.net/)
+🔗 **Read more:** [https://seanhelvey.com/tools-and-their-tools/](https://seanhelvey.com/tools-and-their-tools/)
 
 ---
 
-### 2. Bubble Memory
+### 2. EU Age Verification Project Mandates Hardware-Bound Attestation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Bubble_memory">https://en.wikipedia.org/wiki/Bubble_memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148176">https://news.ycombinator.com/item?id=49148176</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148128">https://news.ycombinator.com/item?id=49148128</a></p>
+<p>Points: 44</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Bubble_memory](https://en.wikipedia.org/wiki/Bubble_memory)
+🔗 **Read more:** [https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
 
 ---
 
-### 3. Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust
+### 3. Show HN: Make your Framework 12 sound like a creaky door
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare.<p>I built Draco to fix this. It’s a fast, single-binary web scraper written in Rust. You point it at a URL, and it spits out perfectly clean Markdown or structured JSON for LLMs.<p>The secret sauce is that it doesn't just boot a browser for every request. It uses a tiered escalation engine:<p>Tier 1 (Stealth Fetch): Draco uses a custom TLS/JA4 fingerprint to perfectly mimic a real browser's network signature at the packet level. It turns out a lot of anti-bot walls will let you right through if your handshake looks correct. In my benchmarks against sites like Cloudflare and Target, Playwright ate ~500MB of RAM and timed out. Draco bypassed them in under a second using just 20MB of RAM.<p>Tier 2 (V8 Isolate): If it hits a React/Next.js SPA that needs rendering, Draco boots an in-process V8 engine in single-digit milliseconds. It hydrates the DOM and intercepts the hidden JSON APIs the page is calling—giving you the raw data without the overhead of a graphical browser.<p>Tier 3 (Real Browser): If it hits an absolute wall, it seamlessly falls back to detecting and driving a real browser on your machine.<p>I also built in all the tooling to make it a complete drop-in replacement for the hosted services:<p>Daemon Mode: Run draco serve and you get a persistent HTTP server with a Firecrawl-compatible REST API. You can swap out your API keys and self-host immediately.<p>Built-in MCP Server: It natively exposes a Model Context Protocol server so you can plug it directly into Claude Desktop or your AI agents.<p>Web Search: Built-in parallel multi-engine web search (bypassing the need for a Google Search API key).<p>Interact Mode: Drive a page statefully like a devtools console, persisting cookies across navigations(for LLM's mainly).<p>It’s completely open source (MIT/Apache-2.0). I just wanted to put this out there for anyone tired of fighting headless Chromium or paying per-page scraping costs. Grab the binary and throw a difficult URL at it.<p>Note that it's still a WIP so there might be some unexpected breakages of uncommon sites but for the most part its quite capable, it can handle cf-protected sites and heavy SPA's while everything else fails partially or completely while taking longer or more resources. (tested on example.com, hackernews, cloudflare, glassdoor, bluff.com, target.com, stake.com and thrill.com)<p>┏━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━┳━━━━━━┳━━━━━━━━━━┳━━━━━━━━━┓
-┃ Rank ┃ Tool           ┃ Score ┃ Pass ┃ Avg Time ┃ Avg RAM ┃
-┡━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━╇━━━━━━╇━━━━━━━━━━╇━━━━━━━━━┩
-│  #1  │ Draco          │ 769.7 │ 8/8  │     3.45 │  216.50 │
-│  #2  │ Obscura        │ 384.5 │ 4/8  │     2.68 │   87.59 │
-│  #3  │ BrowserOxide   │ 373.4 │ 4/8  │     6.42 │  105.95 │
-│  #4  │ Playwright     │ 342.2 │ 4/8  │     1.71 │  535.07 │
-│  #5  │ Bouncy         │ 196.6 │ 2/8  │     0.59 │   19.38 │
-└──────┴────────────────┴───────┴──────┴──────────┴─────────┘<p>Repo: <a href="https://github.com/0xchasercat/draco/" rel="nofollow">https://github.com/0xchasercat/draco/</a></p>
+<p>I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (<a href="https://github.com/samhenrigold/LidAngleSensor" rel="nofollow">https://github.com/samhenrigold/LidAngleSensor</a>) but for the Framework 12 on Linux, so you can make your hinge sound rusty</p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148163">https://news.ycombinator.com/item?id=49148163</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49148048">https://news.ycombinator.com/item?id=49148048</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/0xchasercat/draco/](https://github.com/0xchasercat/draco/)
+🔗 **Read more:** [https://github.com/ArcaEge/creakwork12](https://github.com/ArcaEge/creakwork12)
 
 ---
 
@@ -93,20 +85,33 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 6. Man admits transporting Scottish woman's body in suitcase, Greek police say
+### 6. Ariana Grande pulls out of musical for break from 'endless' scrutiny
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.
+The US singer, 33, will "step back from visibility" at the end of her world tour, her representative says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+### 7. Wildfires force mass evacuations across the Pacific Northwest
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss)
+
+---
+
+### 8. Local volunteers help rebuild destroyed Christian monastery in Lebanon
 
 **Source:** Al Jazeera
 
@@ -119,7 +124,7 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 
 ---
 
-### 8. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
+### 9. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
 
 **Source:** Al Jazeera
 
@@ -129,19 +134,6 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot; in tackling small boat crossings the Channel.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss)
-
----
-
-### 9. Venezuela and the Dominican Republic say they will work to restore ties
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss)
 
 ---
 
