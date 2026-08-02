@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 22:24:15
+**Last Update:** 2026-08-02 23:35:21
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Welcome to Agents Week
+### 1. EU rules on AI models become enforceable. What's going to change?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/agents-week-welcome/">https://blog.cloudflare.com/agents-week-welcome/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146982">https://news.ycombinator.com/item?id=49146982</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147606">https://news.ycombinator.com/item?id=49147606</a></p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/agents-week-welcome/](https://blog.cloudflare.com/agents-week-welcome/)
+🔗 **Read more:** [https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
 
 ---
 
-### 2. Harvesting SSH Credentials: Insights from My Honeypot Network
+### 2. German carmakers flood jobs market with managers after wielding axe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146605">https://news.ycombinator.com/item?id=49146605</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147478">https://news.ycombinator.com/item?id=49147478</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
+🔗 **Read more:** [https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
 
 ---
 
-### 3. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
+### 3. 'Crush this lady': how eBay harassment campaign led to $56M payout
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
-<p>Points: 30</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2">https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147435">https://news.ycombinator.com/item?id=49147435</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
+🔗 **Read more:** [https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
 
 ---
 
@@ -98,42 +97,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Two helicopters collide mid-air while tackling wildfires in Greece
+### 7. Body of climber Nirmal Purja, six others recovered after Pakistan avalanche
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
+Search for remains of three last climbers continues on Broad Peak, days after avalanche killed all 10 mountaineers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss)
 
 ---
 
-### 8. Ukrainian drone attacks kill eight in response to Russian missiles
+### 8. Most Americans say Trump has gone too far on US immigration: Poll
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.
+Half of Americans say Trump has gone too far on deportations, though most Republicans still support his approach.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss)
 
 ---
 
-### 9. ‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran
+### 9. Iran says negotiations with Oman over Strait of Hormuz in final stages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.
+Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss)
 
 ---
 
