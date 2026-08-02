@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 11:34:36
+**Last Update:** 2026-08-02 13:43:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Australia's social media ban has failed
+### 1. The time filter in Google Search broke a few days ago
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/">https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141877">https://news.ycombinator.com/item?id=49141877</a></p>
-<p>Points: 13</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://mastodon.online/@mwichary/117023736804129342">https://mastodon.online/@mwichary/117023736804129342</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142458">https://news.ycombinator.com/item?id=49142458</a></p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)
+🔗 **Read more:** [https://mastodon.online/@mwichary/117023736804129342](https://mastodon.online/@mwichary/117023736804129342)
 
 ---
 
-### 2. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+### 2. I don't recommend Tailwind CSS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141891">https://news.ycombinator.com/item?id=49141891</a></p>
+<p>Points: 81</p>
+<p># Comments: 73</p>
+
+🔗 **Read more:** [https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
+
+---
+
+### 3. Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wafer.ai/blog/kimi-k3-mi355x">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49141073">https://news.ycombinator.com/item?id=49141073</a></p>
-<p>Points: 110</p>
-<p># Comments: 18</p>
+<p>Points: 129</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.wafer.ai/blog/kimi-k3-mi355x](https://www.wafer.ai/blog/kimi-k3-mi355x)
 
 ---
 
-### 3. MkLinux and the pimped-out Apple Workgroup Server 9150
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49140702">https://news.ycombinator.com/item?id=49140702</a></p>
-<p>Points: 45</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-
----
-
-### 4. Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'
+### 4. Trump cancels Iran strikes subject to deal being made 'rapidly'
 
 **Source:** BBC
 
@@ -71,20 +71,7 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. Three killed after bomb detonated at Moscow restaurant, state media say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Young guns for hire - the teenage hitmen recruited to kill across Europe
+### 5. How a shadowy gang is recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. At least three dead in Idaho shopping mall mass shooting
+### 6. Three killed after bomb detonated at Moscow restaurant, state media say
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.
+Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Gaza students overcome Israel’s genocide to mark Tawjihi results
+### 7. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.
+Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss)
 
 ---
 
-### 9. Three dead including female bomber in Moscow restaurant attack
+### 8. How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.
+Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss)
+
+---
+
+### 9. Trump ‘cancels attack on Iran’ saying deal is near
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss)
 
 ---
 
