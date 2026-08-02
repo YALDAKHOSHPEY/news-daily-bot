@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 15:23:28
+**Last Update:** 2026-08-02 16:27:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Wikimedia Foundation refuses union recognition, hires union-busting law firm
+### 1. Twenty Years of RISC OS Open
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143414">https://news.ycombinator.com/item?id=49143414</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
+🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 
 ---
 
-### 2. Generative AI floods and dilutes the market for books
+### 2. An internal OpenAI Astra model solved 10 major open math and CS problems
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.20349">https://arxiv.org/abs/2607.20349</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143289">https://news.ycombinator.com/item?id=49143289</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://twitter.com/polynoamial/status/2083467194663571701">https://twitter.com/polynoamial/status/2083467194663571701</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143688">https://news.ycombinator.com/item?id=49143688</a></p>
+<p>Points: 22</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2607.20349](https://arxiv.org/abs/2607.20349)
+🔗 **Read more:** [https://twitter.com/polynoamial/status/2083467194663571701](https://twitter.com/polynoamial/status/2083467194663571701)
 
 ---
 
-### 3. US Treasury undertakes historic intervention in yen market
+### 3. Great Question (YC W21) Is Hiring Senior Demand Gen Manager
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8">https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143188">https://news.ycombinator.com/item?id=49143188</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143683">https://news.ycombinator.com/item?id=49143683</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8)
+🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
 
 ---
 
@@ -71,7 +71,20 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. The shadowy gang recruiting teenage hitmen to kill across Europe
+### 5. Continued drought could cause shortage of certain foods, head of farmers' union says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. The shadowy gang recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 6. Body of mountaineer Nirmal Purja recovered after Pakistan avalanche
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Indigenous groups oppose Milei plan to open Argentina to foreign buyers
+### 7. South Korea has hottest day on record amid extreme weather globally
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.
+Scientists say the climate crisis driven by human activity is making heatwaves more frequent.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss)
 
 ---
 
-### 8. Ben-Gvir mocks Palestinian detainee over prison conditions
+### 8. At least five dead, 41 missing after ferry catches fire off Indonesia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ben-Gvir mocks Palestinian detainee over prison conditions
+The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss)
 
 ---
 
-### 9. From Sudan to Spain: Between war and home | Al Jazeera Originals
+### 9. Why has the EU called an emergency meeting on Spain migrant surge?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
+In joint letter, 22 member states call for &#039;strengthening of external borders&#039; after nearly 60,000 migrants enter Ceuta.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss)
 
 ---
 
