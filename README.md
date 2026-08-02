@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 15:09:43
+**Last Update:** 2026-08-02 15:23:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Is the Industrial Revolution a good precedent for explosive growth today?
+### 1. Wikimedia Foundation refuses union recognition, hires union-busting law firm
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143053">https://news.ycombinator.com/item?id=49143053</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143414">https://news.ycombinator.com/item?id=49143414</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
 
 ---
 
-### 2. Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge
+### 2. Generative AI floods and dilutes the market for books
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://publicdomainreview.org/essay/ars-notoria/">https://publicdomainreview.org/essay/ars-notoria/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143001">https://news.ycombinator.com/item?id=49143001</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.20349">https://arxiv.org/abs/2607.20349</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143289">https://news.ycombinator.com/item?id=49143289</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://publicdomainreview.org/essay/ars-notoria/](https://publicdomainreview.org/essay/ars-notoria/)
+🔗 **Read more:** [https://arxiv.org/abs/2607.20349](https://arxiv.org/abs/2607.20349)
 
 ---
 
-### 3. Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+### 3. US Treasury undertakes historic intervention in yen market
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/syncular/syncular">https://github.com/syncular/syncular</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49142794">https://news.ycombinator.com/item?id=49142794</a></p>
-<p>Points: 16</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8">https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143188">https://news.ycombinator.com/item?id=49143188</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://github.com/syncular/syncular](https://github.com/syncular/syncular)
+🔗 **Read more:** [https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8)
 
 ---
 
@@ -97,42 +97,42 @@ The renowned climber was known for scaling the world's 14 highest peaks in just 
 
 ---
 
-### 7. Israeli soldiers jailed over Sde Teiman walkout
+### 7. Indigenous groups oppose Milei plan to open Argentina to foreign buyers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fourteen Israeli soldiers have been sentenced to military prison after leading an unauthorised walkout from Sde Teiman.
+Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss)
 
 ---
 
-### 8. FIFA boss Infantino’s position looks unacceptable: European Leagues head
+### 8. Ben-Gvir mocks Palestinian detainee over prison conditions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Claudius Schafer says there can be &#039;only one consequence&#039; to Infantino&#039;s actions over his World Cup privatisation plan.
+Ben-Gvir mocks Palestinian detainee over prison conditions
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss)
 
 ---
 
-### 9. Residents of Spain’s Ceuta shut down far-right anti-migrant rally
+### 9. From Sudan to Spain: Between war and home | Al Jazeera Originals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally.
+A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss)
 
 ---
 
