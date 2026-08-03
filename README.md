@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 19:30:07
+**Last Update:** 2026-08-03 21:16:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days
+### 1. Ask HN: Claude multisession
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/">https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49157128">https://news.ycombinator.com/item?id=49157128</a></p>
-<p>Points: 42</p>
-<p># Comments: 2</p>
+<p>How you handle claude many sessions from terminal, sometimes i'm getting confused</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158580">https://news.ycombinator.com/item?id=49158580</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49158580](https://news.ycombinator.com/item?id=49158580)
 
 ---
 
-### 2. Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop
+### 2. Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first">https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49156650">https://news.ycombinator.com/item?id=49156650</a></p>
-<p>Points: 53</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158474">https://news.ycombinator.com/item?id=49158474</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
+🔗 **Read more:** [https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 
 ---
 
-### 3. Why does Mail app contact iCloud when sending a non-iCloud email?
+### 3. SearXNG in Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/2.html">https://lapcatsoftware.com/articles/2026/8/2.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49156299">https://news.ycombinator.com/item?id=49156299</a></p>
-<p>Points: 31</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/MikeLuu99/searxng-rust">https://github.com/MikeLuu99/searxng-rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158141">https://news.ycombinator.com/item?id=49158141</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/2.html](https://lapcatsoftware.com/articles/2026/8/2.html)
+🔗 **Read more:** [https://github.com/MikeLuu99/searxng-rust](https://github.com/MikeLuu99/searxng-rust)
 
 ---
 
@@ -84,55 +85,55 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 6. BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir
+### 6. France hits out at Reform UK plan to return migrants using Navy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
+It comes after the party said it would override French objections to return migrants to France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How Israel and the European far right tried to exploit Ceuta
+### 7. New illegal Israeli outpost spotted in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.
+Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Australia’s under-16 social media ban failing, study shows: What it means
+### 8. Uncertainty on Iranians’ minds as Trump fluctuates on war and talk
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australia&#039;s internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.
+Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss)
 
 ---
 
-### 9. Tigray refugees flee into Sudan after deadly violence on Ethiopia border
+### 9. Inside the Palestine Action protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.
+After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T21:16:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Claude multisession",
+            "description": "<p>How you handle claude many sessions from terminal, sometimes i'm getting confused</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158580\">https://news.ycombinator.com/item?id=49158580</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://news.ycombinator.com/item?id=49158580",
+            "published": "Mon, 03 Aug 2026 17:08:45 +0000",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+            "description": "<p>Article URL: <a href=\"https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158474\">https://news.ycombinator.com/item?id=49158474</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+            "published": "Mon, 03 Aug 2026 17:02:10 +0000",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SearXNG in Rust",
+            "description": "<p>Article URL: <a href=\"https://github.com/MikeLuu99/searxng-rust\">https://github.com/MikeLuu99/searxng-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158141\">https://news.ycombinator.com/item?id=49158141</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/MikeLuu99/searxng-rust",
+            "published": "Mon, 03 Aug 2026 16:41:40 +0000",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "English FA set to withdraw support for Fifa president Infantino",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+            "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 17:41:27 GMT",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France hits out at Reform UK plan to return migrants using Navy",
+            "description": "It comes after the party said it would override French objections to return migrants to France.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 16:48:58 GMT",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New illegal Israeli outpost spotted in occupied West Bank",
+            "description": "Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 17:07:37 +0000",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+            "description": "Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 16:33:08 +0000",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside the Palestine Action protests",
+            "description": "After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 16:30:56 +0000",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T21:16:46+03:30"
+        }
+    ]
+}
