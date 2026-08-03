@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-03T05:20:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 00:11:18 GMT",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+            "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 01:03:31 GMT",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+            "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+            "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 23:15:14 GMT",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan and US confirm rare joint intervention to prop up yen",
+            "description": "US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.",
+            "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 01:34:19 +0000",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+            "description": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 00:18:50 +0000",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+            "description": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 00:00:15 +0000",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T05:20:29+03:30"
+        }
+    ]
+}

@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 04:34:40
+**Last Update:** 2026-08-03 05:20:29
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Book Corners won't sync contributions back to OpenStreetMap
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149746">https://news.ycombinator.com/item?id=49149746</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
-
----
-
-### 2. Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pg83/shitty">https://github.com/pg83/shitty</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149326">https://news.ycombinator.com/item?id=49149326</a></p>
-<p>Points: 70</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://github.com/pg83/shitty](https://github.com/pg83/shitty)
-
----
-
-### 3. The Computational Theory of Mind (2015)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://plato.stanford.edu/entries/computational-mind/">https://plato.stanford.edu/entries/computational-mind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149125">https://news.ycombinator.com/item?id=49149125</a></p>
-<p>Points: 23</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://plato.stanford.edu/entries/computational-mind/](https://plato.stanford.edu/entries/computational-mind/)
-
----
-
-### 4. Trump suggests new talks with Iran to begin on Monday
+### 1. Trump suggests new talks with Iran to begin on Monday
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Tehran has not responded to the suggestion that new talks are imminent. Trump ha
 
 ---
 
-### 5. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
+### 2. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ One Danish and one Greek national died in the incident, while a British pilot an
 
 ---
 
-### 6. Ariana Grande to take a break from public life amid 'endless' scrutiny
+### 3. Ariana Grande to take a break from public life amid 'endless' scrutiny
 
 **Source:** BBC
 
@@ -97,7 +49,20 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
+### 4. Japan and US confirm rare joint intervention to prop up yen
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss)
+
+---
+
+### 5. Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ Footage shows blast victims hurried into a hospital in northwestern Pakistan, af
 
 ---
 
-### 8. Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
+### 6. Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ US President Donald Trump says an agreement with Iran is imminent, with negotiat
 
 ---
 
-### 9. Trump says new round of Iran talks will begin Monday
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president says Gulf allies and Tehran urged him to delay planned strikes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
