@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 08:27:41
+**Last Update:** 2026-08-03 09:01:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28271">https://arxiv.org/abs/2607.28271</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150773">https://news.ycombinator.com/item?id=49150773</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28271](https://arxiv.org/abs/2607.28271)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda">https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150561">https://news.ycombinator.com/item?id=49150561</a></p>
-<p>Points: 23</p>
-<p># Comments: 3</p>
+<p>Points: 58</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8">https://qwen.ai/blog?id=qwen3.8</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150470">https://news.ycombinator.com/item?id=49150470</a></p>
-<p>Points: 224</p>
-<p># Comments: 85</p>
+<p>Points: 260</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8](https://qwen.ai/blog?id=qwen3.8)
 
@@ -84,16 +84,16 @@ The BBC gains unique access to Rawalakot, scene of violent clashes between secur
 
 ---
 
-### 6. Ariana Grande to take a break from public life amid 'endless' scrutiny
+### 6. How parents and pupils took on 'cruel', 'authoritarian' schools - and won
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US singer, 33, will "step back from visibility" at the end of her world tour next month, her representative says.
+Discipline at an academy trust went too far - parents, pupils and former teachers tell BBC Panorama.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss)
 
 ---
 
