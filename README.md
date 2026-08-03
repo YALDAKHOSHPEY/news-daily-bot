@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 16:10:58
+**Last Update:** 2026-08-03 16:19:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -97,7 +97,20 @@ The BBC gains unique access to Rawalakot, scene of violent clashes between secur
 
 ---
 
-### 7. Who will shape post-war Iran?
+### 7. Protests, boycott cast shadow on Pakistan-administered Kashmir election
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Second round in regional elections held amid deadly clashes and heightened tensions over demands for electoral reforms.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/protests-boycott-cast-shadow-on-pakistan-administered-kashmir-election?traffic_source=rss)
+
+---
+
+### 8. Who will shape post-war Iran?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ There are competing narratives in Tehran for its post-war recovery.
 
 ---
 
-### 8. Palestine’s new ambassador to Spain calls for deeper friendship
+### 9. Palestine’s new ambassador to Spain calls for deeper friendship
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ There are competing narratives in Tehran for its post-war recovery.
 Palestine&#039;s new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss)
-
----
-
-### 9. Pakistan-administered Kashmir elections and protests – all you need to know
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss)
 
 ---
 
