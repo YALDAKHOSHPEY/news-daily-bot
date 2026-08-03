@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 00:24:32
+**Last Update:** 2026-08-04 01:06:48
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. DDoS against Norwegian government IT infrastructure – status
+### 1. LLMs reward expertise
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.seangoedecke.com/llms-reward-expertise/">https://www.seangoedecke.com/llms-reward-expertise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161518">https://news.ycombinator.com/item?id=49161518</a></p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.seangoedecke.com/llms-reward-expertise/](https://www.seangoedecke.com/llms-reward-expertise/)
+
+---
+
+### 2. AI's debt binge can't last, hidden borrowing reaches $1.65T
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/">https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160699">https://news.ycombinator.com/item?id=49160699</a></p>
+<p>Points: 62</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+
+---
+
+### 3. DDoS against Norwegian government IT infrastructure – status
 
 **Source:** Hacker News
 
@@ -19,46 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://status.digdir.no/incidents/d7hvqmf2yr3l">https://status.digdir.no/incidents/d7hvqmf2yr3l</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160631">https://news.ycombinator.com/item?id=49160631</a></p>
-<p>Points: 55</p>
-<p># Comments: 21</p>
+<p>Points: 66</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://status.digdir.no/incidents/d7hvqmf2yr3l](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 
 ---
 
-### 2. The Dunning-Kruger effect is probably not real
+### 4. Rapists and child sex offenders to be barred from early release scheme
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real">https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160437">https://news.ycombinator.com/item?id=49160437</a></p>
-<p>Points: 43</p>
-<p># Comments: 42</p>
+The widow of PC Andrew Harper says it is "disgusting" her husband's killers remain eligible for the scheme in England and Wales.
 
-🔗 **Read more:** [https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. ZX Spectrum System Tour: Sound
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49159676">https://news.ycombinator.com/item?id=49159676</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
-
----
-
-### 4. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
+### 5. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Three children were killed when the drone crashed at a popular resort on the Bla
 
 ---
 
-### 5. Infantino opponents threaten 'non co-operation' with Fifa
+### 6. Infantino opponents threaten 'non co-operation' with Fifa
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The English Football Association is set to join Wales in withdrawing backing for
 
 ---
 
-### 6. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Hundreds of migrant minors stranded in Ceuta after border crisis
+### 7. Migrants await asylum in Ceuta amid hunger and thirst
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.
+Migrants rushed to receive water and beverages in Ceuta, Spain, where many have spent days on a beach awaiting asylum.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss)
 
 ---
 
-### 8. Survivors reach port after deadly Indonesia ferry fire
+### 8. Will Israel withdraw from Gaza if Hamas disarms?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Survivors reach port after deadly Indonesia ferry fire
+Israel says it has doubts about the Palestinian group laying down its weapons.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss)
 
 ---
 
-### 9. Clergy members arrested while protesting at Senate office
+### 9. El-Sayed, Stevens face off in Michigan Democratic Senate primary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.
+Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss)
 
 ---
 
