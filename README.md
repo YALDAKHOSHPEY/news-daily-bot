@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 12:51:13
+**Last Update:** 2026-08-03 16:10:58
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. English FA set to withdraw support for Fifa president Infantino
+### 1. The AI bubble is popping; we just don't know it yet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004">https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154601">https://news.ycombinator.com/item?id=49154601</a></p>
+<p>Points: 31</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
+
+---
+
+### 2. Critical CVE issued for hallucinated SQLite vulnerability
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154332">https://news.ycombinator.com/item?id=49154332</a></p>
+<p>Points: 148</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+
+---
+
+### 3. 9front "This Was Supposed to Be Fun" Released
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://9front.org/releases/2026/08/02/0/">https://9front.org/releases/2026/08/02/0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154249">https://news.ycombinator.com/item?id=49154249</a></p>
+<p>Points: 23</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://9front.org/releases/2026/08/02/0/](https://9front.org/releases/2026/08/02/0/)
+
+---
+
+### 4. English FA set to withdraw support for Fifa president Infantino
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The English Football Association is set to join Wales in withdrawing backing for
 
 ---
 
-### 2. Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body
+### 5. Mother has ground-breaking surgery while pregnant to treat baby
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ Theo became the first British baby to be operated on in the womb to correct comp
 
 ---
 
-### 3. Trump suggests new talks with Iran to begin on Monday
+### 6. BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.
+The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. ‘US backs off from Iran before markets open on weekdays’
+### 7. Who will shape post-war Iran?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘US backs off from Iran before markets open on weekdays’
+There are competing narratives in Tehran for its post-war recovery.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/us-backs-off-from-iran-before-markets-open-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/us-backs-off-from-iran-before-markets-open-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss)
 
 ---
 
-### 5. Michael Thorbjornsen wins first PGA Tour title at Rocket Classic
+### 8. Palestine’s new ambassador to Spain calls for deeper friendship
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thorbjornsen, who joined the Tour as a rookie in 2025, is widely considered one of the rising stars of US golf.
+Palestine&#039;s new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss)
 
 ---
 
-### 6. Spanish farmer finds donkeys alive after wildfires destroy her property
+### 9. Pakistan-administered Kashmir elections and protests – all you need to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spanish farmer finds donkeys alive after wildfires destroy her property
+Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
