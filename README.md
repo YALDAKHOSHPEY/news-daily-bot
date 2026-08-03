@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 01:06:48
+**Last Update:** 2026-08-04 01:28:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/llms-reward-expertise/">https://www.seangoedecke.com/llms-reward-expertise/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161518">https://news.ycombinator.com/item?id=49161518</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
+<p>Points: 103</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/llms-reward-expertise/](https://www.seangoedecke.com/llms-reward-expertise/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/">https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160699">https://news.ycombinator.com/item?id=49160699</a></p>
-<p>Points: 62</p>
-<p># Comments: 27</p>
+<p>Points: 83</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://status.digdir.no/incidents/d7hvqmf2yr3l">https://status.digdir.no/incidents/d7hvqmf2yr3l</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160631">https://news.ycombinator.com/item?id=49160631</a></p>
-<p>Points: 66</p>
-<p># Comments: 38</p>
+<p>Points: 70</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://status.digdir.no/incidents/d7hvqmf2yr3l](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 
