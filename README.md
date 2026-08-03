@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 23:37:55
+**Last Update:** 2026-08-04 00:24:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. ZX Spectrum System Tour: Sound
+### 1. DDoS against Norwegian government IT infrastructure – status
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://status.digdir.no/incidents/d7hvqmf2yr3l">https://status.digdir.no/incidents/d7hvqmf2yr3l</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160631">https://news.ycombinator.com/item?id=49160631</a></p>
+<p>Points: 55</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://status.digdir.no/incidents/d7hvqmf2yr3l](https://status.digdir.no/incidents/d7hvqmf2yr3l)
+
+---
+
+### 2. The Dunning-Kruger effect is probably not real
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real">https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160437">https://news.ycombinator.com/item?id=49160437</a></p>
+<p>Points: 43</p>
+<p># Comments: 42</p>
+
+🔗 **Read more:** [https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+
+---
+
+### 3. ZX Spectrum System Tour: Sound
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49159676">https://news.ycombinator.com/item?id=49159676</a></p>
-<p>Points: 4</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
-
----
-
-### 2. The Billable Usage API: programmatic cost visibility for Cloudflare
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158714">https://news.ycombinator.com/item?id=49158714</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/billable-usage-api/](https://blog.cloudflare.com/billable-usage-api/)
-
----
-
-### 3. Smaller, faster, safer: running Kimi and GLM at scale
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158581">https://news.ycombinator.com/item?id=49158581</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/smaller-faster-safer-models/](https://blog.cloudflare.com/smaller-faster-safer-models/)
 
 ---
 
@@ -97,42 +97,42 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 7. Bomb disposal underway in Le Porge after wildfires unearth WWII shells
+### 7. Hundreds of migrant minors stranded in Ceuta after border crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
+Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss)
 
 ---
 
-### 8. US announces first two deaths from cyclospora outbreak
+### 8. Survivors reach port after deadly Indonesia ferry fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.
+Survivors reach port after deadly Indonesia ferry fire
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss)
 
 ---
 
-### 9. Can Netanyahu survive Israel’s most consequential election?
+### 9. Clergy members arrested while protesting at Senate office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.
+Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss)
 
 ---
 
