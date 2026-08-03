@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 21:44:36
+**Last Update:** 2026-08-03 22:48:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158714">https://news.ycombinator.com/item?id=49158714</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/billable-usage-api/](https://blog.cloudflare.com/billable-usage-api/)
 
 ---
 
-### 2. Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
+### 2. Smaller, faster, safer: running Kimi and GLM at scale
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158581">https://news.ycombinator.com/item?id=49158581</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://blog.cloudflare.com/smaller-faster-safer-models/](https://blog.cloudflare.com/smaller-faster-safer-models/)
+
+---
+
+### 3. Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158474">https://news.ycombinator.com/item?id=49158474</a></p>
-<p>Points: 29</p>
-<p># Comments: 4</p>
+<p>Points: 63</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-
----
-
-### 3. SearXNG in Rust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/MikeLuu99/searxng-rust">https://github.com/MikeLuu99/searxng-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158141">https://news.ycombinator.com/item?id=49158141</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/MikeLuu99/searxng-rust](https://github.com/MikeLuu99/searxng-rust)
 
 ---
 
@@ -71,7 +71,7 @@ Three children were killed when the drone crashed at a popular resort on the Bla
 
 ---
 
-### 5. English FA set to withdraw support for Fifa president Infantino
+### 5. Infantino opponents threaten 'non co-operation' with Fifa
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 7. Republicans say they will back Blanche after US Justice Department order
+### 7. US announces first two deaths from cyclospora outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.
+Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss)
 
 ---
 
-### 8. Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
+### 8. Can Netanyahu survive Israel’s most consequential election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump demands &quot;Total Surrender&quot; amid escalating naval blockade in the crucial Strait of Hormuz.
+Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss)
 
 ---
 
-### 9. New illegal Israeli outpost spotted in occupied West Bank
+### 9. Israel top court hears challenge to UNRWA ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.
+Israel&#039;s highest court heard a constitutional challenge to legislation banning UNRWA&#039;s operations in Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss)
 
 ---
 
