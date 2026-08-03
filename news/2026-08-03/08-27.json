@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T08:27:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI migrated legacy COBOL programs to Java, bugs included",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28271\">https://arxiv.org/abs/2607.28271</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150773\">https://news.ycombinator.com/item?id=49150773</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2607.28271",
+            "published": "Mon, 03 Aug 2026 03:06:12 +0000",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+            "description": "<p>Article URL: <a href=\"https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda\">https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150561\">https://news.ycombinator.com/item?id=49150561</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+            "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+            "published": "Mon, 03 Aug 2026 02:30:30 +0000",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+            "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 224</p>\n<p># Comments: 85</p>",
+            "url": "https://qwen.ai/blog?id=qwen3.8",
+            "published": "Mon, 03 Aug 2026 02:16:09 +0000",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 00:11:18 GMT",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 03:32:21 GMT",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+            "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+            "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 23:15:14 GMT",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Grid failure plunges Cuba into nationwide blackout",
+            "description": "Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 04:35:39 +0000",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+            "description": "A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 03:26:08 +0000",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+            "description": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 03:17:33 +0000",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22A",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736",
+            "published": "2011-08-30T00:00:00Z",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-03T08:27:41+03:30"
+        }
+    ]
+}

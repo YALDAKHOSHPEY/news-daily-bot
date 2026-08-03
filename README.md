@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 05:20:29
+**Last Update:** 2026-08-03 08:27:41
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Trump suggests new talks with Iran to begin on Monday
+### 1. AI migrated legacy COBOL programs to Java, bugs included
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2607.28271">https://arxiv.org/abs/2607.28271</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150773">https://news.ycombinator.com/item?id=49150773</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2607.28271](https://arxiv.org/abs/2607.28271)
+
+---
+
+### 2. OpenAI's super PAC is funding AI-generated news site attacking industry critics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda">https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150561">https://news.ycombinator.com/item?id=49150561</a></p>
+<p>Points: 23</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
+
+---
+
+### 3. Qwen3.8-Max: A New Bar for Coding and Cowork
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8">https://qwen.ai/blog?id=qwen3.8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150470">https://news.ycombinator.com/item?id=49150470</a></p>
+<p>Points: 224</p>
+<p># Comments: 85</p>
+
+🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8](https://qwen.ai/blog?id=qwen3.8)
+
+---
+
+### 4. Trump suggests new talks with Iran to begin on Monday
 
 **Source:** BBC
 
@@ -23,20 +71,20 @@ Tehran has not responded to the suggestion that new talks are imminent. Trump ha
 
 ---
 
-### 2. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
+### 5. 'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
+The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Ariana Grande to take a break from public life amid 'endless' scrutiny
+### 6. Ariana Grande to take a break from public life amid 'endless' scrutiny
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 4. Japan and US confirm rare joint intervention to prop up yen
+### 7. Grid failure plunges Cuba into nationwide blackout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says helping to bolster the Japanese currency is a sign of friendship.
+Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss)
 
 ---
 
-### 5. Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
+### 8. Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.
+A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss)
 
 ---
 
-### 6. Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
+### 9. Trump pauses ‘massive attack’ on Iran, says new talks to begin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.
+US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,29 +149,29 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Iceberg B22A
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736)
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Iceberg C39
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
 
 ---
 
