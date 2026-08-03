@@ -1,29 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 21:16:46
+**Last Update:** 2026-08-03 21:44:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Claude multisession
+### 1. The Billable Usage API: programmatic cost visibility for Cloudflare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>How you handle claude many sessions from terminal, sometimes i'm getting confused</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158580">https://news.ycombinator.com/item?id=49158580</a></p>
+<p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158714">https://news.ycombinator.com/item?id=49158714</a></p>
 <p>Points: 5</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49158580](https://news.ycombinator.com/item?id=49158580)
+🔗 **Read more:** [https://blog.cloudflare.com/billable-usage-api/](https://blog.cloudflare.com/billable-usage-api/)
 
 ---
 
@@ -36,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158474">https://news.ycombinator.com/item?id=49158474</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 29</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 
@@ -52,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/MikeLuu99/searxng-rust">https://github.com/MikeLuu99/searxng-rust</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158141">https://news.ycombinator.com/item?id=49158141</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/MikeLuu99/searxng-rust](https://github.com/MikeLuu99/searxng-rust)
 
 ---
 
-### 4. English FA set to withdraw support for Fifa president Infantino
+### 4. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Three children were killed when the drone crashed at a popular resort on the Black Sea.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. English FA set to withdraw support for Fifa president Infantino
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ The English Football Association is set to join Wales in withdrawing backing for
 
 ---
 
-### 5. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
+### 6. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
 
 **Source:** BBC
 
@@ -85,20 +97,33 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 6. France hits out at Reform UK plan to return migrants using Navy
+### 7. Republicans say they will back Blanche after US Justice Department order
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It comes after the party said it would override French objections to return migrants to France.
+Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss)
 
 ---
 
-### 7. New illegal Israeli outpost spotted in occupied West Bank
+### 8. Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump demands &quot;Total Surrender&quot; amid escalating naval blockade in the crucial Strait of Hormuz.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss)
+
+---
+
+### 9. New illegal Israeli outpost spotted in occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ It comes after the party said it would override French objections to return migr
 Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss)
-
----
-
-### 8. Uncertainty on Iranians’ minds as Trump fluctuates on war and talk
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iranians feeling pressure amid US president&#039;s on-again, off-again comments on conflict and negotiations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss)
-
----
-
-### 9. Inside the Palestine Action protests
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss)
 
 ---
 
