@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 22:48:22
+**Last Update:** 2026-08-03 23:37:55
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Billable Usage API: programmatic cost visibility for Cloudflare
+### 1. ZX Spectrum System Tour: Sound
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49159676">https://news.ycombinator.com/item?id=49159676</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+
+---
+
+### 2. The Billable Usage API: programmatic cost visibility for Cloudflare
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158714">https://news.ycombinator.com/item?id=49158714</a></p>
-<p>Points: 16</p>
-<p># Comments: 2</p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/billable-usage-api/](https://blog.cloudflare.com/billable-usage-api/)
 
 ---
 
-### 2. Smaller, faster, safer: running Kimi and GLM at scale
+### 3. Smaller, faster, safer: running Kimi and GLM at scale
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158581">https://news.ycombinator.com/item?id=49158581</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/smaller-faster-safer-models/](https://blog.cloudflare.com/smaller-faster-safer-models/)
-
----
-
-### 3. Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158474">https://news.ycombinator.com/item?id=49158474</a></p>
-<p>Points: 63</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 
 ---
 
@@ -97,7 +97,20 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 7. US announces first two deaths from cyclospora outbreak
+### 7. Bomb disposal underway in Le Porge after wildfires unearth WWII shells
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss)
+
+---
+
+### 8. US announces first two deaths from cyclospora outbreak
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Authorities in the Midwestern state of Michigan say that two people who died had
 
 ---
 
-### 8. Can Netanyahu survive Israel’s most consequential election?
+### 9. Can Netanyahu survive Israel’s most consequential election?
 
 **Source:** Al Jazeera
 
@@ -123,20 +136,7 @@ Israelis head to the polls in October for the country&#039;s first election sinc
 
 ---
 
-### 9. Israel top court hears challenge to UNRWA ban
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel&#039;s highest court heard a constitutional challenge to legislation banning UNRWA&#039;s operations in Israel.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Israel&#039;s highest court heard a constitutional challenge to legislation bann
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 
