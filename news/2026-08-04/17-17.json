@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-04T17:17:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Xbox goes down. You can't play games you own on disc",
+            "description": "<p>Article URL: <a href=\"https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167448\">https://news.ycombinator.com/item?id=49167448</a></p>\n<p>Points: 148</p>\n<p># Comments: 142</p>",
+            "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+            "published": "Tue, 04 Aug 2026 12:01:02 +0000",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Roame (YC S23) Is Hiring Lead Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167444\">https://news.ycombinator.com/item?id=49167444</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+            "published": "Tue, 04 Aug 2026 12:00:51 +0000",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Buckminster Fuller: everything I know",
+            "description": "<p>Article URL: <a href=\"https://www.bfi.org/about-fuller/everything-i-know/\">https://www.bfi.org/about-fuller/everything-i-know/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167147\">https://news.ycombinator.com/item?id=49167147</a></p>\n<p>Points: 37</p>\n<p># Comments: 14</p>",
+            "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+            "published": "Tue, 04 Aug 2026 11:33:32 +0000",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 150 migrants rescued after boat catches fire in Channel",
+            "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 11:19:08 GMT",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prison overcrowding crisis limits ability to cut early releases, minister says",
+            "description": "Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family \"devastated\".",
+            "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 12:51:49 GMT",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 12:19:50 GMT",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Twelve years after ISIL’s massacres, thousands of Yazidis seek justice",
+            "description": "Iraq’s Yazidi community marked 12 years since ISIL’s assault on Sinjar, which the UN recognised as genocide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/twelve-years-after-isils-massacres-thousands-of-yazidis-seek-justice?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 12:58:09 +0000",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 150 people rescued in English Channel after boat catches fire",
+            "description": "Rescue boats from both France and the UK took part in the operation to evacuate passengers from the stricken vessel.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 12:47:59 +0000",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six years after Beirut blast, families fight for truth",
+            "description": "The tragedy remains an open wound, with grieving families fighting for accountability.",
+            "url": "https://www.aljazeera.com/features/2026/8/4/six-years-after-beirut-blast-families-fight-for-truth?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 12:43:43 +0000",
+            "fetched": "2026-08-04T17:17:56+03:30"
+        }
+    ]
+}
