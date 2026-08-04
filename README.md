@@ -1,78 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 19:36:33
+**Last Update:** 2026-08-04 20:40:48
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Simple algorithm and color space to generate diverse skin tones
+### 1. Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170165">https://news.ycombinator.com/item?id=49170165</a></p>
-<p>Points: 40</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171650">https://news.ycombinator.com/item?id=49171650</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://toneyalexander.github.io/inclusive-color-space/](https://toneyalexander.github.io/inclusive-color-space/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
 
 ---
 
-### 2. Online ad giant Adform was hacked, proving once again why ad blockers are needed
+### 2. Webb telescope finds signs of ancient disaster for Neptune's moons
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/">https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170001">https://news.ycombinator.com/item?id=49170001</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171172">https://news.ycombinator.com/item?id=49171172</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
+🔗 **Read more:** [https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
 
 ---
 
-### 3. Agent skills that bring team coding standards to Claude Code and Codex
+### 3. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tikalk/adlc-team-skills">https://github.com/tikalk/adlc-team-skills</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49169640">https://news.ycombinator.com/item?id=49169640</a></p>
-<p>Points: 45</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2602.16763">https://arxiv.org/abs/2602.16763</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170915">https://news.ycombinator.com/item?id=49170915</a></p>
+<p>Points: 21</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills)
+🔗 **Read more:** [https://arxiv.org/abs/2602.16763](https://arxiv.org/abs/2602.16763)
 
 ---
 
-### 4. More than 150 migrants rescued after boat catches fire in Channel
+### 4. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.
+Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. More than 170 migrants rescued after boat catches fire in Channel
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+### 6. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 6. Oil prices fall on hopes Strait of Hormuz could reopen
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Qatar says indirect talks continue to reopen Strait of Hormuz
+### 7. EU offers emergency aid to Spain to strengthen Ceuta border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.
+EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss)
 
 ---
 
-### 8. Drone appears to stalk man before exploding
+### 8. Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.
+Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss)
 
 ---
 
-### 9. Photos: Thousands in Gaza City join mass funeral for 112 Palestinians
+### 9. UEFA’s threatened legal action against Infantino and FIFA: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.
+What UEFA&#039;s legal letter to FIFA could mean for its president Gianni Infantino after World Cup private investment plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss)
 
 ---
 
