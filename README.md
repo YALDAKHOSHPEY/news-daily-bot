@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 07:15:46
+**Last Update:** 2026-08-04 07:27:28
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
-<p>Points: 54</p>
-<p># Comments: 22</p>
+<p>Points: 57</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 67</p>
-<p># Comments: 37</p>
+<p>Points: 68</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
-<p>Points: 26</p>
+<p>Points: 27</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
@@ -97,20 +97,7 @@ Ursula von der Leyen has called for action ahead of an urgent EU interior minist
 
 ---
 
-### 7. Pochettino agrees to coach men’s US Soccer through 2030 World Cup
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss)
-
----
-
-### 8. Salvadoran man dies in ICE custody at New Jersey detention centre
+### 7. Salvadoran man dies in ICE custody at New Jersey detention centre
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ Second Delaney Hall detainee death in eight months prompts calls to close facili
 
 ---
 
-### 9. US stocks near record high, oil falls as Trump claims Iran talks under way
+### 8. US stocks near record high, oil falls as Trump claims Iran talks under way
 
 **Source:** Al Jazeera
 
@@ -136,42 +123,16 @@ Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer confli
 
 ---
 
-### 10. Wildfire Middle Coulee, Chouteau, Montana
+### 9. Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
 
-**Source:** NASA
+**Source:** Al Jazeera
 
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
+**Category:** world
 
 **Description:**
-Natural event: Wildfires
+Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss)
 
 ---
 
