@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 20:40:48
+**Last Update:** 2026-08-04 21:52:20
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
+### 1. Gaza's Deadly Soil
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171650">https://news.ycombinator.com/item?id=49171650</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/">https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172567">https://news.ycombinator.com/item?id=49172567</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/](https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/)
+
+---
+
+### 2. Show HN: cMCP, deny an AI agent's tool call and get a signed receipt
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/agentrust-io/cmcp">https://github.com/agentrust-io/cmcp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172545">https://news.ycombinator.com/item?id=49172545</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
+🔗 **Read more:** [https://github.com/agentrust-io/cmcp](https://github.com/agentrust-io/cmcp)
 
 ---
 
-### 2. Webb telescope finds signs of ancient disaster for Neptune's moons
+### 3. The Judgment Reservoir
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171172">https://news.ycombinator.com/item?id=49171172</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://shannph.com/writing/the-judgment-reservoir/">https://shannph.com/writing/the-judgment-reservoir/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172540">https://news.ycombinator.com/item?id=49172540</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
-
----
-
-### 3. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2602.16763">https://arxiv.org/abs/2602.16763</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170915">https://news.ycombinator.com/item?id=49170915</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2602.16763](https://arxiv.org/abs/2602.16763)
+🔗 **Read more:** [https://shannph.com/writing/the-judgment-reservoir/](https://shannph.com/writing/the-judgment-reservoir/)
 
 ---
 
@@ -97,42 +97,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. EU offers emergency aid to Spain to strengthen Ceuta border
+### 7. Three lionesses die in Tokyo zoo as heatwave scorches East Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
+A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss)
 
 ---
 
-### 8. Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title
+### 8. Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.
+Fallout from failed FIFA World Cup selloff continues, as Jordan FA president joins list of Gianni Infantino detractors.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss)
 
 ---
 
-### 9. UEFA’s threatened legal action against Infantino and FIFA: What we know
+### 9. Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What UEFA&#039;s legal letter to FIFA could mean for its president Gianni Infantino after World Cup private investment plan.
+Brazil&#039;s Vinicius has been linked to Arsenal and Manchester United, but heaps praise on new Real coach Jose Mourinho.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss)
 
 ---
 
