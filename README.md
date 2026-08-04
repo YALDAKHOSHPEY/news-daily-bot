@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 03:37:03
+**Last Update:** 2026-08-04 07:15:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Windows XP 2002 for the Itanium: Unbridled rage
+### 1. There Will Come Soft Rains (1950) [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
+<p>Points: 54</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+
+---
+
+### 2. Windows XP 2002 for the Itanium: Unbridled rage
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
+<p>Points: 67</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 
 ---
 
-### 2. ZX Spectrum System Tour: Text Mode
+### 3. ZX Spectrum System Tour: Text Mode
 
 **Source:** Hacker News
 
@@ -35,104 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
-<p>Points: 12</p>
+<p>Points: 26</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 
 ---
 
-### 3. LLMs reward expertise
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.seangoedecke.com/llms-reward-expertise/">https://www.seangoedecke.com/llms-reward-expertise/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161518">https://news.ycombinator.com/item?id=49161518</a></p>
-<p>Points: 316</p>
-<p># Comments: 135</p>
-
-🔗 **Read more:** [https://www.seangoedecke.com/llms-reward-expertise/](https://www.seangoedecke.com/llms-reward-expertise/)
-
----
-
-### 4. Rapists and child sex offenders to be barred from early release scheme
+### 4. PC Harper's mother 'devastated' his killers set for early release under revised plans
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The widow of PC Andrew Harper says it is "disgusting" her husband's killers remain eligible for the scheme in England and Wales.
+Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach
+### 5. Breast cancer checks missing most women under 50 who are at risk, says study
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three children were killed when the drone crashed at a popular resort on the Black Sea.
+Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Infantino opponents threaten 'non co-operation' with Fifa
+### 6. EU calls for stronger borders after Ceuta migrant crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.
+Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Death toll from Venezuela earthquakes passes 6,000
+### 7. Pochettino agrees to coach men’s US Soccer through 2030 World Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.
+Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss)
 
 ---
 
-### 8. Petrol prices strain US households as oil giants Chevron, Exxon profits soar
+### 8. Salvadoran man dies in ICE custody at New Jersey detention centre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Low-income US households are hit hardest, spending more than 10 percent of monthly income on petrol as prices rise.
+Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss)
 
 ---
 
-### 9. From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics
+### 9. US stocks near record high, oil falls as Trump claims Iran talks under way
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.
+Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss)
 
 ---
 
