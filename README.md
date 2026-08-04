@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 21:52:20
+**Last Update:** 2026-08-04 22:34:04
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gaza's Deadly Soil
+### 1. Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/">https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172567">https://news.ycombinator.com/item?id=49172567</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>We are Rui and Michael and we’re building EdotEnv (<a href="https://edotenv.com" rel="nofollow">https://edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features/ models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent's feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href="https://edotenv.com/?tab=blog" rel="nofollow">https://edotenv.com/?tab=blog</a><p>Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert.<p>We open sourced a sample task repository: <a href="https://github.com/MMcollab-dotcom/feature-engineering" rel="nofollow">https://github.com/MMcollab-dotcom/feature-engineering</a>. We plan to sell continuously improving envs to AI labs/researchers/enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general.<p>We'd love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172936">https://news.ycombinator.com/item?id=49172936</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/](https://www.nybooks.com/online/2026/07/22/gazas-deadly-soil/)
+🔗 **Read more:** [https://edotenv.com/](https://edotenv.com/)
 
 ---
 
-### 2. Show HN: cMCP, deny an AI agent's tool call and get a signed receipt
+### 2. Security Is Hard, Y'all
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/agentrust-io/cmcp">https://github.com/agentrust-io/cmcp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172545">https://news.ycombinator.com/item?id=49172545</a></p>
+<p>Article URL: <a href="https://textslashplain.com/2026/08/04/security-is-hard-yall/">https://textslashplain.com/2026/08/04/security-is-hard-yall/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172834">https://news.ycombinator.com/item?id=49172834</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://textslashplain.com/2026/08/04/security-is-hard-yall/](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
+
+---
+
+### 3. Blackmail Fail (2013)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gwern.net/blackmail">https://gwern.net/blackmail</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172597">https://news.ycombinator.com/item?id=49172597</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/agentrust-io/cmcp](https://github.com/agentrust-io/cmcp)
-
----
-
-### 3. The Judgment Reservoir
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://shannph.com/writing/the-judgment-reservoir/">https://shannph.com/writing/the-judgment-reservoir/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172540">https://news.ycombinator.com/item?id=49172540</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://shannph.com/writing/the-judgment-reservoir/](https://shannph.com/writing/the-judgment-reservoir/)
+🔗 **Read more:** [https://gwern.net/blackmail](https://gwern.net/blackmail)
 
 ---
 
@@ -97,42 +98,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. Three lionesses die in Tokyo zoo as heatwave scorches East Asia
+### 7. Mass funeral held for 112 members of two Palestinian families
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.
+Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss)
 
 ---
 
-### 8. Jordan FA chief accuses FIFA’s Infantino of ‘blackmail’ over endorsement
+### 8. ‘Maximum use’: Iran boosts military strength during ceasefire with US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fallout from failed FIFA World Cup selloff continues, as Jordan FA president joins list of Gianni Infantino detractors.
+IRGC spokesman Hossein Mohebbi said last month that Iran&#039;s missile production rate increased during the ceasefire.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/jordan-fa-chief-accuses-fifas-infantino-of-blackmail-over-endorsement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss)
 
 ---
 
-### 9. Real Madrid: Vinicius Junior drops huge future hint amid Arsenal interest
+### 9. Rubio: Progress made to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s Vinicius has been linked to Arsenal and Manchester United, but heaps praise on new Real coach Jose Mourinho.
+Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/real-madrid-vinicius-junior-drops-huge-future-hint-amid-arsenal-interest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss)
 
 ---
 
