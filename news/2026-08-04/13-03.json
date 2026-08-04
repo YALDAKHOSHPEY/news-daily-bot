@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T13:03:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CollectWise (YC F24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165170\">https://news.ycombinator.com/item?id=49165170</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+            "published": "Tue, 04 Aug 2026 07:01:26 +0000",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harness Engineering for Self-Improvement",
+            "description": "<p>Article URL: <a href=\"https://lilianweng.github.io/posts/2026-07-04-harness/\">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164896\">https://news.ycombinator.com/item?id=49164896</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>",
+            "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+            "published": "Tue, 04 Aug 2026 06:17:54 +0000",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There Will Come Soft Rains (1950) [pdf]",
+            "description": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 156</p>\n<p># Comments: 56</p>",
+            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+            "published": "Mon, 03 Aug 2026 23:24:53 +0000",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+            "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump challenged by cold reality from top allies",
+            "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+            "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 09:11:39 GMT",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "There's a reason child vaccination rates are falling - and it's not social media",
+            "description": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+            "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 23:10:05 GMT",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cars burn in reported settler attack in occupied West Bank",
+            "description": "Cars burn in reported settler attack in occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 08:51:47 +0000",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "We demand accountability for the Beirut blast",
+            "description": "Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 08:51:46 +0000",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA confirm legal letter served to FIFA after Infantino World Cup plan",
+            "description": "UEFA confirm to Al Jazeera a preservation letter is with FIFA following failed Gianni Infantino-led World Cup sell-off.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 08:37:44 +0000",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T13:03:16+03:30"
+        }
+    ]
+}
