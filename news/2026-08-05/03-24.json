@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-05T03:24:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to drop briefly ahead of next UK heatwave",
+            "description": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+            "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 23:14:49 GMT",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 21:55:17 GMT",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+            "description": "Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:27:13 +0000",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+            "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:24:43 +0000",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk’s SpaceX reports losses but less than expected",
+            "description": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
+            "url": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 22:02:09 +0000",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T03:24:16+03:30"
+        }
+    ]
+}

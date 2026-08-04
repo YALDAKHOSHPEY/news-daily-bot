@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 02:03:54
+**Last Update:** 2026-08-05 03:24:16
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/">https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175826">https://news.ycombinator.com/item?id=49175826</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
-
----
-
-### 2. Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf">https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175717">https://news.ycombinator.com/item?id=49175717</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
-
----
-
-### 3. Third-party cyber evaluations involving OpenAI models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175248">https://news.ycombinator.com/item?id=49175248</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
-
----
-
-### 4. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
+### 1. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
 
 **Source:** BBC
 
@@ -71,33 +23,59 @@ Ukraine said the video - showing a terrified civilian being hounded by a remotel
 
 ---
 
-### 5. More than 170 migrants rescued after boat catches fire in Channel
+### 2. Temperatures to drop briefly ahead of next UK heatwave
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.
+Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+### 3. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.
+A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Elon Musk’s SpaceX reports losses but less than expected
+### 4. Sri Lanka shuts schools as floods and mudslides kill 7
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss)
+
+---
+
+### 5. Russia strikes Ukrainian capital Kyiv with ballistic missiles
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss)
+
+---
+
+### 6. Elon Musk’s SpaceX reports losses but less than expected
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ Revenue was up more than 90 percent from the same period a year ago, beating ana
 
 ---
 
-### 8. How the far right weaponised the Ceuta crisis
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss)
-
----
-
-### 9. Funeral for family killed in US strike on Iran’s Qeshm Island
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
+### 7. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Antelope Creek, Elko, Nevada
+### 8. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Bluegill, Miami-Dade, Florida
+### 9. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 
