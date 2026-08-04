@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 13:03:16
+**Last Update:** 2026-08-04 13:36:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. CollectWise (YC F24) Is Hiring
+### 1. FFmpeg 9.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165170">https://news.ycombinator.com/item?id=49165170</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166202">https://news.ycombinator.com/item?id=49166202</a></p>
+<p>Points: 63</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer)
+🔗 **Read more:** [https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 
 ---
 
-### 2. Harness Engineering for Self-Improvement
+### 2. Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lilianweng.github.io/posts/2026-07-04-harness/">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164896">https://news.ycombinator.com/item?id=49164896</a></p>
-<p>Points: 33</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166182">https://news.ycombinator.com/item?id=49166182</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://lilianweng.github.io/posts/2026-07-04-harness/](https://lilianweng.github.io/posts/2026-07-04-harness/)
+🔗 **Read more:** [https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
 
 ---
 
-### 3. There Will Come Soft Rains (1950) [pdf]
+### 3. You don't need React: creating a minimal UI library in Vanilla JavaScript
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
-<p>Points: 156</p>
-<p># Comments: 56</p>
+<p>Article URL: <a href="https://pedroth.github.io/?p=post/NoNeedReact">https://pedroth.github.io/?p=post/NoNeedReact</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165665">https://news.ycombinator.com/item?id=49165665</a></p>
+<p>Points: 24</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+🔗 **Read more:** [https://pedroth.github.io/?p=post/NoNeedReact](https://pedroth.github.io/?p=post/NoNeedReact)
 
 ---
 
@@ -123,14 +123,14 @@ Six years after the explosion, the domestic investigation is complete, but an in
 
 ---
 
-### 9. UEFA confirm legal letter served to FIFA after Infantino World Cup plan
+### 9. UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA confirm to Al Jazeera a preservation letter is with FIFA following failed Gianni Infantino-led World Cup sell-off.
+UEFA tells Al Jazeera a preservation letter is with FIFA following a failed Gianni Infantino-led World Cup sell-off.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss)
 
