@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 09:54:11
+**Last Update:** 2026-08-04 10:37:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/apple-is-getting-this-wrong/">https://openai.com/index/apple-is-getting-this-wrong/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164649">https://news.ycombinator.com/item?id=49164649</a></p>
-<p>Points: 47</p>
-<p># Comments: 23</p>
+<p>Points: 86</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://openai.com/index/apple-is-getting-this-wrong/](https://openai.com/index/apple-is-getting-this-wrong/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163380">https://news.ycombinator.com/item?id=49163380</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162787">https://news.ycombinator.com/item?id=49162787</a></p>
-<p>Points: 25</p>
-<p># Comments: 16</p>
+<p>Points: 27</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 
