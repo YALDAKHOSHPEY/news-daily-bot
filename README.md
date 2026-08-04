@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 18:27:45
+**Last Update:** 2026-08-04 19:36:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Agent skills that bring team coding standards to Claude Code and Codex
+### 1. Show HN: Simple algorithm and color space to generate diverse skin tones
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170165">https://news.ycombinator.com/item?id=49170165</a></p>
+<p>Points: 40</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://toneyalexander.github.io/inclusive-color-space/](https://toneyalexander.github.io/inclusive-color-space/)
+
+---
+
+### 2. Online ad giant Adform was hacked, proving once again why ad blockers are needed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/">https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49170001">https://news.ycombinator.com/item?id=49170001</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
+
+---
+
+### 3. Agent skills that bring team coding standards to Claude Code and Codex
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/tikalk/adlc-team-skills">https://github.com/tikalk/adlc-team-skills</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49169640">https://news.ycombinator.com/item?id=49169640</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 45</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://github.com/tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills)
-
----
-
-### 2. Xbox goes down. You can't play games you own on disc
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167448">https://news.ycombinator.com/item?id=49167448</a></p>
-<p>Points: 263</p>
-<p># Comments: 269</p>
-
-🔗 **Read more:** [https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
-
----
-
-### 3. Roame (YC S23) Is Hiring Lead Engineer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167444">https://news.ycombinator.com/item?id=49167444</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
 
 ---
 
@@ -84,55 +85,55 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 6. Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'
+### 6. Oil prices fall on hopes Strait of Hormuz could reopen
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was "absolutely necessary".
+US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Beirut port blast anniversary overshadowed by new wave of destruction
+### 7. Qatar says indirect talks continue to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.
+Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss)
 
 ---
 
-### 8. FIFA denies Infantino sought Trump backing after failed World Cup selloff
+### 8. Drone appears to stalk man before exploding
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA refutes report that its President Gianni Infantino sought Donald Trump&#039;s backing after failed World Cup selloff.
+A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss)
 
 ---
 
-### 9. Why are oil companies posting record profits amid Iran war disruption?
+### 9. Photos: Thousands in Gaza City join mass funeral for 112 Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.
+Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss](https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss)
 
 ---
 

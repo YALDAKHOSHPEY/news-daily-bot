@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T19:36:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+            "description": "<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170165\">https://news.ycombinator.com/item?id=49170165</a></p>\n<p>Points: 40</p>\n<p># Comments: 4</p>",
+            "url": "https://toneyalexander.github.io/inclusive-color-space/",
+            "published": "Tue, 04 Aug 2026 15:16:22 +0000",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+            "description": "<p>Article URL: <a href=\"https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/\">https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170001\">https://news.ycombinator.com/item?id=49170001</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
+            "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+            "published": "Tue, 04 Aug 2026 15:05:33 +0000",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+            "description": "<p>Article URL: <a href=\"https://github.com/tikalk/adlc-team-skills\">https://github.com/tikalk/adlc-team-skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49169640\">https://news.ycombinator.com/item?id=49169640</a></p>\n<p>Points: 45</p>\n<p># Comments: 16</p>",
+            "url": "https://github.com/tikalk/adlc-team-skills",
+            "published": "Tue, 04 Aug 2026 14:38:31 +0000",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 150 migrants rescued after boat catches fire in Channel",
+            "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 14:37:42 GMT",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 12:19:50 GMT",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+            "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 15:33:03 GMT",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar says indirect talks continue to reopen Strait of Hormuz",
+            "description": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 15:34:40 +0000",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Drone appears to stalk man before exploding",
+            "description": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 15:11:51 +0000",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
+            "description": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:51:51 +0000",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T19:36:33+03:30"
+        }
+    ]
+}
