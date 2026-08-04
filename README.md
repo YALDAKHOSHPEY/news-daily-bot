@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 22:34:04
+**Last Update:** 2026-08-04 23:48:10
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
+### 1. Stephen Wolfram's Wife Has Died
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49173165">https://news.ycombinator.com/item?id=49173165</a></p>
+<p>Points: 150</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
+
+---
+
+### 2. Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
 
 **Source:** Hacker News
 
@@ -20,42 +36,26 @@
 <p>We are Rui and Michael and we’re building EdotEnv (<a href="https://edotenv.com" rel="nofollow">https://edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features/ models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent's feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href="https://edotenv.com/?tab=blog" rel="nofollow">https://edotenv.com/?tab=blog</a><p>Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert.<p>We open sourced a sample task repository: <a href="https://github.com/MMcollab-dotcom/feature-engineering" rel="nofollow">https://github.com/MMcollab-dotcom/feature-engineering</a>. We plan to sell continuously improving envs to AI labs/researchers/enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general.<p>We'd love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172936">https://news.ycombinator.com/item?id=49172936</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://edotenv.com/](https://edotenv.com/)
 
 ---
 
-### 2. Security Is Hard, Y'all
+### 3. Waymo – Dallas Open to All
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://textslashplain.com/2026/08/04/security-is-hard-yall/">https://textslashplain.com/2026/08/04/security-is-hard-yall/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172834">https://news.ycombinator.com/item?id=49172834</a></p>
-<p>Points: 29</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://waymo.com/blog/shorts/dallas-open-to-all/">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172836">https://news.ycombinator.com/item?id=49172836</a></p>
+<p>Points: 72</p>
+<p># Comments: 67</p>
 
-🔗 **Read more:** [https://textslashplain.com/2026/08/04/security-is-hard-yall/](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
-
----
-
-### 3. Blackmail Fail (2013)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gwern.net/blackmail">https://gwern.net/blackmail</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172597">https://news.ycombinator.com/item?id=49172597</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://gwern.net/blackmail](https://gwern.net/blackmail)
+🔗 **Read more:** [https://waymo.com/blog/shorts/dallas-open-to-all/](https://waymo.com/blog/shorts/dallas-open-to-all/)
 
 ---
 
@@ -98,81 +98,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. Mass funeral held for 112 members of two Palestinian families
+### 7. Evacuations ordered as Guatemala volcano erupts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.
+Guatemala’s Fuego volcano erupted Monday, triggering an orange alert and evacuations near the deadly 2018 eruption site.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss)
 
 ---
 
-### 8. ‘Maximum use’: Iran boosts military strength during ceasefire with US
+### 8. Red Cross urges international aid as Sudan crisis deepens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IRGC spokesman Hossein Mohebbi said last month that Iran&#039;s missile production rate increased during the ceasefire.
+Charity warns that shrinking humanitarian support could threaten efforts to support communities trying to rebuild lives.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss)
 
 ---
 
-### 9. Rubio: Progress made to reopen Strait of Hormuz
+### 9. Telegram says Apple suspension followed content norms violation by one user
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.
+Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss)
 
 ---
 
