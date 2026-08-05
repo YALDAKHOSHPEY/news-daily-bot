@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 03:24:16
+**Last Update:** 2026-08-05 04:22:33
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
+### 1. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
+
+---
+
+### 2. Bugtraq Is Back
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+
+---
+
+### 3. Flowise Is Shutting Down
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://flowiseai.com/sunset">https://flowiseai.com/sunset</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176920">https://news.ycombinator.com/item?id=49176920</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://flowiseai.com/sunset](https://flowiseai.com/sunset)
+
+---
+
+### 4. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Ukraine said the video - showing a terrified civilian being hounded by a remotel
 
 ---
 
-### 2. Temperatures to drop briefly ahead of next UK heatwave
+### 5. Temperatures to drop briefly ahead of next UK heatwave
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Temperatures and humidity are set to drop but, as Matt Taylor reports, respite f
 
 ---
 
-### 3. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ A terminally-ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 4. Sri Lanka shuts schools as floods and mudslides kill 7
+### 7. Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss)
+
+---
+
+### 8. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss)
+
+---
+
+### 9. Sri Lanka shuts schools as floods and mudslides kill 7
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Torrential rains and flooding have damaged 129 houses and forced the evacuation 
 
 ---
 
-### 5. Russia strikes Ukrainian capital Kyiv with ballistic missiles
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss)
-
----
-
-### 6. Elon Musk’s SpaceX reports losses but less than expected
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss)
-
----
-
-### 7. Wildfire Middle Coulee, Chouteau, Montana
+### 10. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Antelope Creek, Elko, Nevada
+### 11. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Bluegill, Miami-Dade, Florida
+### 12. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 
