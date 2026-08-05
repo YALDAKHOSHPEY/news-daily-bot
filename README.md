@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 05:09:43
+**Last Update:** 2026-08-05 08:08:01
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+### 1. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
+
+---
+
+### 2. Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/">https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177301">https://news.ycombinator.com/item?id=49177301</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/](https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/)
+
+---
+
+### 3. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
 
 **Source:** Hacker News
 
@@ -19,72 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 45</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
 
 ---
 
-### 2. Bugtraq Is Back
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
-
----
-
-### 3. Flowise Is Shutting Down
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://flowiseai.com/sunset">https://flowiseai.com/sunset</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176920">https://news.ycombinator.com/item?id=49176920</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://flowiseai.com/sunset](https://flowiseai.com/sunset)
-
----
-
-### 4. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
+### 4. Burnham 'looking into' conducting Epstein inquiry, says victims minister
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.
+Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Temperatures to drop briefly ahead of next UK heatwave
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 5. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
 
 **Source:** BBC
 
@@ -97,81 +84,55 @@ A terminally-ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 7. Ukrainian man chased by exploding drone recounts his terror
+### 6. Temperatures to drop briefly ahead of next UK heatwave
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Bolivia sends troops to stop Brazilian gang violence along border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.
+Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
+### 8. North Korea’s Kim Yo Jong issues military threat over Japan missile test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.
+The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss)
 
 ---
 
-### 9. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+### 9. Protesters demand answers from ICE after second man dies at Delaney Hall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.
+Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss)
 
 ---
 
