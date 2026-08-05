@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T22:43:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zed DeltaDB",
+            "description": "<p>Article URL: <a href=\"https://zed.dev/deltadb\">https://zed.dev/deltadb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187256\">https://news.ycombinator.com/item?id=49187256</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://zed.dev/deltadb",
+            "published": "Wed, 05 Aug 2026 18:52:54 +0000",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Born Against, or why hobby programming communities are against LLM usage",
+            "description": "<p>Article URL: <a href=\"https://blog.fogus.me/llm/born-against.html\">https://blog.fogus.me/llm/born-against.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187061\">https://news.ycombinator.com/item?id=49187061</a></p>\n<p>Points: 24</p>\n<p># Comments: 10</p>",
+            "url": "https://blog.fogus.me/llm/born-against.html",
+            "published": "Wed, 05 Aug 2026 18:37:49 +0000",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show\">https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49186766\">https://news.ycombinator.com/item?id=49186766</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+            "published": "Wed, 05 Aug 2026 18:19:10 +0000",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 19:01:34 GMT",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman arrested after four stabbed in central London",
+            "description": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+            "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 14:50:09 GMT",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+            "description": "Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 18:40:06 +0000",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US law enforcement reports deadly mass shooting in North Carolina",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 18:25:07 +0000",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is the conflict between Russia and Ukraine deepening?",
+            "description": "The war sees a surge in attacks by both sides with little diplomatic movement.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 18:16:03 +0000",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T22:43:55+03:30"
+        }
+    ]
+}
