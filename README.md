@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 20:48:57
+**Last Update:** 2026-08-05 21:30:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod
+### 1. AI is a bubble, just like dot-com
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html">https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49185880">https://news.ycombinator.com/item?id=49185880</a></p>
+<p>Points: 12</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html](https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html)
+
+---
+
+### 2. Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.<p>When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have.<p>All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause.<p>Here is the link to the video that explains this: <a href="https://www.youtube.com/watch?v=ivV7I--ta5c" rel="nofollow">https://www.youtube.com/watch?v=ivV7I--ta5c</a><p>Agents write most of our code now. This shrinks the useful context engineers need to debug AI written code, a problem not helped by the limited telemetry added in the same code by AI.<p>So when something breaks in prod, the first instinct for an engineer is to open logs or throw them to your agents. But if the line you are looking for is not there, agents will start guessing the root cause on non-existent data, forcing you to add a log, and redeploy.<p>This analysis-inference loop of agents with existing data does not come cheap, burning a lot of tokens. And the add log, redeploy cycle is so slow and painful that it makes engineers hate on-call.<p>Our approach lets agents capture telemetry on-demand at the exact moment and point of failure, killing the log-redeploy cycle and getting the most accurate RCA while burning fewer tokens.<p>The obvious problem is making it work on a running service. You can't pause a live service the way you'd pause a debugger on your laptop. Getting the value out of a running process safely, without pausing a thread or slowing the host is the challenge.We are making this happen.<p>Before this I ran engineering at a 100 member team. Then Karan and I spent three years on HyperTest which was a testing tool.<p>At HyperTest, we turned production traffic into integration tests using OpenTelemetry. That was production instrumentation too. The hard parts of pulling real runtime state out of a running service without breaking it, were the hard parts we learnt to put together.<p>We learnt some other lessons the hard way too. HyperTest tried to prevent bugs with better tests, and adoption was a fight every time. Calls kept getting cancelled because teams were firefighting production. Testing was hygiene. Broken prod was hair on fire. This made us see where priorities lie.<p>This seeded the idea of building a truly autonomous on-call agent i.e. one that takes an alert, probes, diagnoses and fixes it in a few minutes. But this is how it works as of now:<p>You talk to your coding agent the way you already do. Tell it what's wrong: "checkout returns 200 but some users are seeing their order fail, find out why." It locates the line in your local code, connects to us over MCP, and drops a probe on that line in the running service. The probe is read-only and sits dormant until real traffic hits. When hit, it captures the local variables at every frame of the call stack at that exact moment. It hands them to the agent, which diagnoses with real data.<p>There are two pieces. An SDK that runs inside your service, and an MCP server your coding agent talks to. The SDK is what makes setting probes (virtual breakpoints, log or metric) possible without a redeploy. In Node and Python it hooks in-process. In Java it attaches as a JVM agent, instrumenting at the bytecode level. Either way the service keeps running and serving traffic. Nothing pauses.<p>When your agent wants to look at a line, it calls the MCP server, which tells the SDK to place a probe there. When a request hits the line, the SDK captures what the probe asked for, sanitizes it in-process, and streams it back to the agent via the MCP.<p>This can run inside prod, so a probe can read any value sitting in that variable. We ensure redaction happens in-process, inside your own container's memory. This is before anything goes on the wire. Keys like password, token, authorization, ssn and credit card are redacted by default and you add your own.<p>Also the probes read but never write, and if you want no captured state to ever leave your network you can self host the server, broker, and even the database in your infra.<p>On overhead: when idle, the SDK adds negligible memory and effectively nothing to throughput and response time. Probes only cost anything while actively capturing. Also captures are bounded. A separate monitor watches in real time and pulls every active probe if overhead ever spikes.<p>Every log-and-trace tool hands the agent data that already exists and asks it to reason backward to what probably happened. We think it is more useful to give agents eyes and ears into the running code, so they capture what they need when they need it, right at the point of failure.<p>This seems like the simplest and fastest way to debug prod incidents.<p>We’d love the community to try this in any environment to debug any known or unknown issue by just chatting with your coding agent. And let us know what more features you need to make this a truly autonomous on-call agent<p>Supported platforms: NodeJs, Java, Python.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49185389">https://news.ycombinator.com/item?id=49185389</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 13</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.hyperprobe.co](https://www.hyperprobe.co)
 
 ---
 
-### 2. Discovery Loop
+### 3. Discovery Loop
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.discoveryloop.com/">https://www.discoveryloop.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184960">https://news.ycombinator.com/item?id=49184960</a></p>
-<p>Points: 78</p>
-<p># Comments: 18</p>
+<p>Points: 183</p>
+<p># Comments: 73</p>
 
 🔗 **Read more:** [https://www.discoveryloop.com/](https://www.discoveryloop.com/)
-
----
-
-### 3. Jeff Dean Leaving Google
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/JeffDean/status/2085034604172603724">https://twitter.com/JeffDean/status/2085034604172603724</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184879">https://news.ycombinator.com/item?id=49184879</a></p>
-<p>Points: 34</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://twitter.com/JeffDean/status/2085034604172603724](https://twitter.com/JeffDean/status/2085034604172603724)
 
 ---
 
@@ -98,7 +98,33 @@ A 35-year old man has appeared in court charged with the murder of Minnie Merrim
 
 ---
 
-### 7. Russia kills 17 in ballistic missile attacks around Kyiv
+### 7. At least one Lebanese person, two Israeli soldiers killed in south Lebanon
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss)
+
+---
+
+### 8. LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An agreement with an unnamed investor is approved by the LIV Golf board to replace Saudi Arabia deal.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss)
+
+---
+
+### 9. Russia kills 17 in ballistic missile attacks around Kyiv
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ A 35-year old man has appeared in court charged with the murder of Minnie Merrim
 At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss)
-
----
-
-### 8. Pope Leo XIV to visit Peru, Argentina and Uruguay in November
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The pontiff’s first Latin America trip will take him back to Peru, where he spent decades as a missionary and bishop.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss)
-
----
-
-### 9. Puerto Rican cities hit with water rationing measures during record drought
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss)
 
 ---
 
