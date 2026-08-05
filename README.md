@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 00:26:41
+**Last Update:** 2026-08-06 01:11:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm switching my phone from Android to Linux
+### 1. Nvidia's Vera Whitepaper Has a Thread Loose
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://runarcn.no/android-to-linux/">https://runarcn.no/android-to-linux/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49188022">https://news.ycombinator.com/item?id=49188022</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189234">https://news.ycombinator.com/item?id=49189234</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+
+---
+
+### 2. Prime Agent: A self-improving RLM agent
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075">https://news.ycombinator.com/item?id=49189075</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent](https://www.primeintellect.ai/blog/prime-agent)
+
+---
+
+### 3. OpenAI says my prepaid credits were consumed, refuses to show any record
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233">https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49188980">https://news.ycombinator.com/item?id=49188980</a></p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://runarcn.no/android-to-linux/](https://runarcn.no/android-to-linux/)
-
----
-
-### 2. Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/">https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187977">https://news.ycombinator.com/item?id=49187977</a></p>
-<p>Points: 67</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
-
----
-
-### 3. Muse Code and Muse Spark 1.2
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187575">https://news.ycombinator.com/item?id=49187575</a></p>
-<p>Points: 72</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+🔗 **Read more:** [https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233](https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233)
 
 ---
 
@@ -97,42 +97,42 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. SpaceX shares slide on the heels of first quarterly report
+### 7. El-Sayed wins Michigan Democratic Senate primary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.
+Abdul el-Sayed has won Michigan’s Democratic senate primary
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss)
 
 ---
 
-### 8. Sheikh Hasina says she will return to Bangladesh in December
+### 8. US announces more than $100m in rewards for eight Jalisco cartel leaders
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.
+The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss)
 
 ---
 
-### 9. New Mexico sues US Justice Department for impeding Epstein probe
+### 9. Iran says Hormuz talks with Oman in ‘final’ stages as route approved
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.
+The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss)
 
 ---
 
