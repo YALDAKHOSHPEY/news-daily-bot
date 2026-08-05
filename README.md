@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 04:22:33
+**Last Update:** 2026-08-05 05:09:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://flowiseai.com/sunset">https://flowiseai.com/sunset</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176920">https://news.ycombinator.com/item?id=49176920</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://flowiseai.com/sunset](https://flowiseai.com/sunset)
 
@@ -97,7 +97,20 @@ A terminally-ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 7. Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
+### 7. Ukrainian man chased by exploding drone recounts his terror
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran says talks with Oman are proceeding &#039;positively&#039; as US officials 
 
 ---
 
-### 8. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+### 9. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran says talks with Oman are proceeding &#039;positively&#039; as US officials 
 An official has indicated that the visa revocation does not mean Brazil&#039;s ambassador will be expelled from the US.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss)
-
----
-
-### 9. Sri Lanka shuts schools as floods and mudslides kill 7
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss)
 
 ---
 
