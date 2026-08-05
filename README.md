@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 13:54:48
+**Last Update:** 2026-08-05 14:27:17
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180535">https://news.ycombinator.com/item?id=49180535</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
+<p>Points: 24</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://calpaterson.com/helsinki-hn.html">https://calpaterson.com/helsinki-hn.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180407">https://news.ycombinator.com/item?id=49180407</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 37</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://calpaterson.com/helsinki-hn.html](https://calpaterson.com/helsinki-hn.html)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 42</p>
+<p>Points: 46</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
@@ -97,81 +97,42 @@ A terminally ill patient was offered the drugs by a stair lift salesman claiming
 
 ---
 
-### 7. South Africa’s le Clos says home destroyed during Commonwealth record run
+### 7. Israeli raid deepens fears across West Bank refugee camps
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Olympic swimming champion Chad le Clos says his home was destroyed in a fire while he was at the Commonwealth Games.
+Israeli raid deepens fears across West Bank refugee camps
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss)
 
 ---
 
-### 8. Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors
+### 8. India’s severe monsoon season causes more than 100 deaths since July
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.
+Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss)
 
 ---
 
-### 9. Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect
+### 9. How Israeli restrictions on Palestinians’ movement break up the West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.
+While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss)
 
 ---
 
