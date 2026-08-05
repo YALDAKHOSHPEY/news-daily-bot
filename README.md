@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 11:29:54
+**Last Update:** 2026-08-05 13:54:48
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rust-lang/rust is adopting an LLM policy
+### 1. The software group Palantir paid just £2M in corporation tax in the UK in 2024
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49179039">https://news.ycombinator.com/item?id=49179039</a></p>
-<p>Points: 42</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180535">https://news.ycombinator.com/item?id=49180535</a></p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
 
 ---
 
-### 2. Zero-Mem: Zero-Token Memory Operations for LLM Agents
+### 2. Helsinki Hacker News Meetup
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://calpaterson.com/helsinki-hn.html">https://calpaterson.com/helsinki-hn.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180407">https://news.ycombinator.com/item?id=49180407</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://calpaterson.com/helsinki-hn.html](https://calpaterson.com/helsinki-hn.html)
+
+---
+
+### 3. Zero-Mem: Zero-Token Memory Operations for LLM Agents
 
 **Source:** Hacker News
 
@@ -35,104 +51,127 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
 
 ---
 
-### 3. An SLM trained on $8 ESP32-S3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
-
----
-
-### 4. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 4. Police chief considers joining legal action over PC Harper killers' early release
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russian strike kills at least 17 as Zelensky says interceptors could have saved lives
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The head of Kyiv's military administration said Russia is "once again massively attacking" the region around the city.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Temperatures to drop briefly ahead of potential new UK heatwave
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why the Trump administration is helping support Japan’s weakening yen
+### 7. South Africa’s le Clos says home destroyed during Commonwealth record run
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington and Tokyo&#039;s rare coordinated intervention aims to avoid spillover to global financial system.
+Olympic swimming champion Chad le Clos says his home was destroyed in a fire while he was at the Commonwealth Games.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss)
 
 ---
 
-### 8. Pakistan and Uganda athletes ‘missing’ after Commonwealth Games
+### 8. Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK police looking into reports of &#039;missing&#039; athletes who didn&#039;t return home after Commonwealth Games closing ceremony.
+Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss)
 
 ---
 
-### 9. Nigeria cannot build safe schools in unsafe communities
+### 9. Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Safe Schools Initiative will keep falling short until the lack of security beyond school grounds is confronted.
+Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss)
+
+---
+
+### 10. Wildfire Middle Coulee, Chouteau, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+
+---
+
+### 11. Wildfire Antelope Creek, Elko, Nevada
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 12. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 

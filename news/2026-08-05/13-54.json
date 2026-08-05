@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T13:54:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices\">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180535\">https://news.ycombinator.com/item?id=49180535</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+            "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+            "published": "Wed, 05 Aug 2026 09:36:17 +0000",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Helsinki Hacker News Meetup",
+            "description": "<p>Article URL: <a href=\"https://calpaterson.com/helsinki-hn.html\">https://calpaterson.com/helsinki-hn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180407\">https://news.ycombinator.com/item?id=49180407</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://calpaterson.com/helsinki-hn.html",
+            "published": "Wed, 05 Aug 2026 09:15:33 +0000",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 42</p>\n<p># Comments: 9</p>",
+            "url": "https://arxiv.org/abs/2607.29377",
+            "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chief considers joining legal action over PC Harper killers' early release",
+            "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:02:25 GMT",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 10:21:03 GMT",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 05:07:27 GMT",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Africa’s le Clos says home destroyed during Commonwealth record run",
+            "description": "Olympic swimming champion Chad le Clos says his home was destroyed in a fire while he was at the Commonwealth Games.",
+            "url": "https://www.aljazeera.com/sports/2026/8/5/south-africas-le-clos-says-home-destroyed-during-commonwealth-record-run?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 09:53:33 +0000",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+            "description": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 09:16:39 +0000",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+            "description": "Former Bangladeshi prime minister is likely to announce her return from exile in India despite facing the death penalty.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 09:16:06 +0000",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T13:54:48+03:30"
+        }
+    ]
+}
