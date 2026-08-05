@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 02:57:24
+**Last Update:** 2026-08-06 03:18:27
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 81</p>
-<p># Comments: 19</p>
+<p>Points: 90</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189234">https://news.ycombinator.com/item?id=49189234</a></p>
-<p>Points: 49</p>
-<p># Comments: 4</p>
+<p>Points: 57</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075">https://news.ycombinator.com/item?id=49189075</a></p>
-<p>Points: 62</p>
-<p># Comments: 8</p>
+<p>Points: 69</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -84,16 +84,16 @@ Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on ta
 
 ---
 
-### 6. Woman arrested after four stabbed in central London
+### 6. University of Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.
+Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
 
 ---
 
