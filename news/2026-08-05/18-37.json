@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T18:37:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Aristotle quotes on virtue, knowledge, and happiness",
+            "description": "<p>Article URL: <a href=\"https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/\">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183115\">https://news.ycombinator.com/item?id=49183115</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+            "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+            "published": "Wed, 05 Aug 2026 14:06:39 +0000",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+            "description": "<p>Article URL: <a href=\"https://www.vocab.top/\">https://www.vocab.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183110\">https://news.ycombinator.com/item?id=49183110</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://www.vocab.top/",
+            "published": "Wed, 05 Aug 2026 14:06:20 +0000",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+            "description": "<p>Article URL: <a href=\"https://rubinobservatory.org/news/rubin-new-window-cosmos-field\">https://rubinobservatory.org/news/rubin-new-window-cosmos-field</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183079\">https://news.ycombinator.com/item?id=49183079</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+            "published": "Wed, 05 Aug 2026 14:04:10 +0000",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+            "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 14:50:09 GMT",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
+            "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+            "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:24:18 GMT",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 13:37:55 GMT",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+            "description": "An airport employee spotted the object carrying what authorities described as &#039;an unknown explosive device&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 14:40:32 +0000",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Demolition complicates the search for bodies after Venezuela’s earthquakes",
+            "description": "Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?",
+            "url": "https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 14:31:05 +0000",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+            "description": "A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 14:08:46 +0000",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T18:37:30+03:30"
+        }
+    ]
+}
