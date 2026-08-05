@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 08:08:01
+**Last Update:** 2026-08-05 08:25:10
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+### 1. The auto industry is building for a past that's never coming back
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/">https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178317">https://news.ycombinator.com/item?id=49178317</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/](https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/)
+
+---
+
+### 2. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Points: 48</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
 
 ---
 
-### 2. Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s
+### 3. Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/">https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177301">https://news.ycombinator.com/item?id=49177301</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/](https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/)
-
----
-
-### 3. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 45</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
 
 ---
 
@@ -97,7 +97,33 @@ Temperatures and humidity are set to drop but, as Matt Taylor reports, respite f
 
 ---
 
-### 7. Bolivia sends troops to stop Brazilian gang violence along border
+### 7. Explosions across Kyiv as Russian missiles strike Ukraine’s capital
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss)
+
+---
+
+### 8. Has a US court just set the grounds for another January 6 insurrection?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss)
+
+---
+
+### 9. Bolivia sends troops to stop Brazilian gang violence along border
 
 **Source:** Al Jazeera
 
@@ -110,29 +136,42 @@ Footage shows some of the more than 200 Bolivian police and military officers pa
 
 ---
 
-### 8. North Korea’s Kim Yo Jong issues military threat over Japan missile test
+### 10. Wildfire Middle Coulee, Chouteau, Montana
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
 
 ---
 
-### 9. Protesters demand answers from ICE after second man dies at Delaney Hall
+### 11. Wildfire Antelope Creek, Elko, Nevada
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 12. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 
