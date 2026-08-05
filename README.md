@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 08:25:10
+**Last Update:** 2026-08-05 11:02:10
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The auto industry is building for a past that's never coming back
+### 1. Rust-lang/rust is adopting an LLM policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/">https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178317">https://news.ycombinator.com/item?id=49178317</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49179039">https://news.ycombinator.com/item?id=49179039</a></p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/](https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/)
+🔗 **Read more:** [https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 
 ---
 
-### 2. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+### 2. Zero-Mem: Zero-Token Memory Operations for LLM Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
-<p>Points: 48</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
-
----
-
-### 3. Gallium: Why the US Cannot Produce Precision Missiles and Fully-Functional F-35s
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/">https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177301">https://news.ycombinator.com/item?id=49177301</a></p>
-<p>Points: 19</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
+<p>Points: 14</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/](https://sonar21.com/the-galling-gallium-chokehold-why-the-us-cannot-produce-precision-missiles-and-fully-functional-f-35s/)
+🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
 
 ---
 
-### 4. Burnham 'looking into' conducting Epstein inquiry, says victims minister
+### 3. An SLM trained on $8 ESP32-S3
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
+
+---
+
+### 4. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham 'looking into' conducting Epstein inquiry, says victims minister
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when
 
 ---
 
-### 5. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 6. Russian ballistic missile strike on Kyiv kills at least 17
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+The head of Kyiv's military administration says Russia is "once again massively attacking" the region around the city.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Temperatures to drop briefly ahead of next UK heatwave
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Explosions across Kyiv as Russian missiles strike Ukraine’s capital
+### 7. Why the Trump administration is helping support Japan’s weakening yen
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.
+Washington and Tokyo&#039;s rare coordinated intervention aims to avoid spillover to global financial system.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss)
 
 ---
 
-### 8. Has a US court just set the grounds for another January 6 insurrection?
+### 8. Pakistan and Uganda athletes ‘missing’ after Commonwealth Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.
+UK police looking into reports of &#039;missing&#039; athletes who didn&#039;t return home after Commonwealth Games closing ceremony.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss)
 
 ---
 
-### 9. Bolivia sends troops to stop Brazilian gang violence along border
+### 9. Nigeria cannot build safe schools in unsafe communities
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
+The Safe Schools Initiative will keep falling short until the lack of security beyond school grounds is confronted.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss)
 
 ---
 
