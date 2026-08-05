@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 18:37:30
+**Last Update:** 2026-08-05 19:05:46
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Aristotle quotes on virtue, knowledge, and happiness
+### 1. Cloudflare OS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/">https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49183115">https://news.ycombinator.com/item?id=49183115</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://os.cloudflare.app/">https://os.cloudflare.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184083">https://news.ycombinator.com/item?id=49184083</a></p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
+🔗 **Read more:** [https://os.cloudflare.app/](https://os.cloudflare.app/)
 
 ---
 
-### 2. Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words
+### 2. Google Assistant is going away on Mobile Devices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vocab.top/">https://www.vocab.top/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49183110">https://news.ycombinator.com/item?id=49183110</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png">https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184041">https://news.ycombinator.com/item?id=49184041</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.vocab.top/](https://www.vocab.top/)
+🔗 **Read more:** [https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png](https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png)
 
 ---
 
-### 3. Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field
+### 3. Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rubinobservatory.org/news/rubin-new-window-cosmos-field">https://rubinobservatory.org/news/rubin-new-window-cosmos-field</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49183079">https://news.ycombinator.com/item?id=49183079</a></p>
+<p>Article URL: <a href="https://knock-knock.net/blog/citigroup-idaho-build-a-bear/">https://knock-knock.net/blog/citigroup-idaho-build-a-bear/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49183953">https://news.ycombinator.com/item?id=49183953</a></p>
 <p>Points: 8</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://rubinobservatory.org/news/rubin-new-window-cosmos-field](https://rubinobservatory.org/news/rubin-new-window-cosmos-field)
+🔗 **Read more:** [https://knock-knock.net/blog/citigroup-idaho-build-a-bear/](https://knock-knock.net/blog/citigroup-idaho-build-a-bear/)
 
 ---
 
@@ -97,7 +97,20 @@ Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected t
 
 ---
 
-### 7. Germany investigates explosive device attached to drone at Leipzig airport
+### 7. War on Iran: US-Iran deal edges closer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A deal between the US and Iran could be signed within 48 hours, according to US officials.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss)
+
+---
+
+### 8. Germany investigates explosive device attached to drone at Leipzig airport
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ An airport employee spotted the object carrying what authorities described as &#
 
 ---
 
-### 8. Demolition complicates the search for bodies after Venezuela’s earthquakes
+### 9. Demolition complicates the search for bodies after Venezuela’s earthquakes
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ An airport employee spotted the object carrying what authorities described as &#
 Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?
 
 🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss)
-
----
-
-### 9. Gaza father opens play center to restore childhood amid Israeli attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss)
 
 ---
 
