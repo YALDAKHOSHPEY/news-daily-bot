@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 22:43:55
+**Last Update:** 2026-08-05 23:33:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zed DeltaDB
+### 1. Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://zed.dev/deltadb">https://zed.dev/deltadb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187256">https://news.ycombinator.com/item?id=49187256</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/">https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187977">https://news.ycombinator.com/item?id=49187977</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://zed.dev/deltadb](https://zed.dev/deltadb)
+🔗 **Read more:** [https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 
 ---
 
-### 2. Born Against, or why hobby programming communities are against LLM usage
+### 2. Muse Code and Muse Spark 1.2
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.fogus.me/llm/born-against.html">https://blog.fogus.me/llm/born-against.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187061">https://news.ycombinator.com/item?id=49187061</a></p>
-<p>Points: 24</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187575">https://news.ycombinator.com/item?id=49187575</a></p>
+<p>Points: 34</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://blog.fogus.me/llm/born-against.html](https://blog.fogus.me/llm/born-against.html)
+🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 
 ---
 
-### 3. Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show
+### 3. Sula: A Gemini protocol server written in Scryer Prolog
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show">https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49186766">https://news.ycombinator.com/item?id=49186766</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://sagredo.dev/projects/sula/">https://sagredo.dev/projects/sula/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187259">https://news.ycombinator.com/item?id=49187259</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show](https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show)
+🔗 **Read more:** [https://sagredo.dev/projects/sula/](https://sagredo.dev/projects/sula/)
 
 ---
 
@@ -84,20 +84,33 @@ A woman is arrested after four men are stabbed in central London, the Metropolit
 
 ---
 
-### 6. Family 'devastated' by death of girl, 9, as man charged with murder
+### 6. University of Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.
+Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk
+### 7. Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss)
+
+---
+
+### 8. Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Authorities are screening 5,000 refugees as rights groups warn they remain at ri
 
 ---
 
-### 8. US law enforcement reports deadly mass shooting in North Carolina
+### 9. US authorities report deadly mass shooting in Prospect Hill, North Carolina
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Authorities are screening 5,000 refugees as rights groups warn they remain at ri
 This is a breaking news story.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss)
-
----
-
-### 9. Is the conflict between Russia and Ukraine deepening?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The war sees a surge in attacks by both sides with little diplomatic movement.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss)
 
 ---
 
