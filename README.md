@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 08:08:22
+**Last Update:** 2026-08-06 08:25:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Governments are making a dangerous bet on the AI boom
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom">https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192160">https://news.ycombinator.com/item?id=49192160</a></p>
-<p>Points: 40</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom](https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom)
-
----
-
-### 2. Nashville uses eminent domain to block data center near zoo
+### 1. Nashville uses eminent domain to block data center near zoo
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191624">https://news.ycombinator.com/item?id=49191624</a></p>
-<p>Points: 120</p>
-<p># Comments: 107</p>
+<p>Points: 123</p>
+<p># Comments: 110</p>
 
 🔗 **Read more:** [https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 
 ---
 
-### 3. LLMs won't break symmetric crypto
+### 2. LLMs won't break symmetric crypto
 
 **Source:** Hacker News
 
@@ -52,9 +36,25 @@
 <p>Article URL: <a href="https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto">https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191365">https://news.ycombinator.com/item?id=49191365</a></p>
 <p>Points: 59</p>
-<p># Comments: 61</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+
+---
+
+### 3. The title cards in Blade Runner are amazing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
+<p>Points: 192</p>
+<p># Comments: 85</p>
+
+🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
 ---
 
