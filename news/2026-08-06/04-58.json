@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-06T04:58:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The title cards in Blade Runner are amazing",
+            "description": "<p>Article URL: <a href=\"https://randsinrepose.com/archives/blade-runner-title-cards/\">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189287\">https://news.ycombinator.com/item?id=49189287</a></p>\n<p>Points: 129</p>\n<p># Comments: 53</p>",
+            "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+            "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189234\">https://news.ycombinator.com/item?id=49189234</a></p>\n<p>Points: 80</p>\n<p># Comments: 9</p>",
+            "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+            "published": "Wed, 05 Aug 2026 21:24:45 +0000",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'll be stepping back from leading product for X",
+            "description": "<p><a href=\"https://xcancel.com/nikitabier/status/2085105586966827343/\" rel=\"nofollow\">https://xcancel.com/nikitabier/status/2085105586966827343/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189113\">https://news.ycombinator.com/item?id=49189113</a></p>\n<p>Points: 53</p>\n<p># Comments: 67</p>",
+            "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+            "published": "Wed, 05 Aug 2026 21:15:40 +0000",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 20:12:17 GMT",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "University of Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 00:36:23 GMT",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+            "description": "Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 00:40:28 +0000",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
+            "description": "Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 00:31:07 +0000",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
+            "description": "New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 00:01:24 +0000",
+            "fetched": "2026-08-06T04:58:25+03:30"
+        }
+    ]
+}
