@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-06T14:28:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I love about Django",
+            "description": "<p>Article URL: <a href=\"https://buttondown.com/blog/what-i-love-about-django\">https://buttondown.com/blog/what-i-love-about-django</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193673\">https://news.ycombinator.com/item?id=49193673</a></p>\n<p>Points: 71</p>\n<p># Comments: 48</p>",
+            "url": "https://buttondown.com/blog/what-i-love-about-django",
+            "published": "Thu, 06 Aug 2026 07:34:06 +0000",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Let's all meet up in the Y2K",
+            "description": "<p>Article URL: <a href=\"https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/\">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193314\">https://news.ycombinator.com/item?id=49193314</a></p>\n<p>Points: 56</p>\n<p># Comments: 24</p>",
+            "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+            "published": "Thu, 06 Aug 2026 06:43:38 +0000",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Crime Pays but Botany Doesn't",
+            "description": "<p>Article URL: <a href=\"https://www.crimepaysbutbotanydoesnt.com/reading-list\">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49192566\">https://news.ycombinator.com/item?id=49192566</a></p>\n<p>Points: 245</p>\n<p># Comments: 97</p>",
+            "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+            "published": "Thu, 06 Aug 2026 04:46:35 +0000",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+            "description": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+            "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 05:00:09 GMT",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 06:28:03 GMT",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Majority of England's rivers and lakes fail new environmental review",
+            "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+            "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 10:00:06 GMT",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cambridge professor Jason Arday quits amid plagiarism allegations",
+            "description": "The scholar announced his resignation amid a new investigation into his qualifications.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 10:24:59 +0000",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+            "description": "US officials say they would not accept any arrangement on the waterway that would leave Iran in control.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 10:20:57 +0000",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
+            "description": "SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 10:13:26 +0000",
+            "fetched": "2026-08-06T14:28:55+03:30"
+        }
+    ]
+}

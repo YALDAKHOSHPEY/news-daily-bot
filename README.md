@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 13:57:13
+**Last Update:** 2026-08-06 14:28:55
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 61</p>
-<p># Comments: 41</p>
+<p>Points: 71</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 43</p>
-<p># Comments: 22</p>
+<p>Points: 56</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 213</p>
-<p># Comments: 83</p>
+<p>Points: 245</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 
@@ -84,94 +84,55 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 6. Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show
+### 6. Majority of England's rivers and lakes fail new environmental review
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.
+A comprehensive assessment of England's waterways is the first in six years and shows little improvement.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. South Korea police raid football association over Hong appointment process
+### 7. Cambridge professor Jason Arday quits amid plagiarism allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack of proper interview process previously alleged.
+The scholar announced his resignation amid a new investigation into his qualifications.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss)
 
 ---
 
-### 8. Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site
+### 8. Hormuz deal ‘close’: What’s the latest on each side’s positions?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.
+US officials say they would not accept any arrangement on the waterway that would leave Iran in control.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss)
 
 ---
 
-### 9. US-Israel war on Iran upends Europe’s summer holiday travel patterns
+### 9. Uganda football star Owori killed, weeks after death of rugby’s Gongodyo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.
+SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss)
 
 ---
 
