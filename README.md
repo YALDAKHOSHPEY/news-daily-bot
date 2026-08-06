@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 14:28:55
+**Last Update:** 2026-08-06 16:20:23
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What I love about Django
+### 1. Show HN: Skyline Co-op is like SimTower, but built around democratic socialism
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I've been rebuilding old games with Claude. While creating a modern take on SimTower and having election news on TV in the background, I had the idea to build the economy of the game around democratic socialism instead of capitalism.<p>Instead of a real estate tycoon, you are an elected steward of the building, held responsible by the Assembly. Homes are allocated off a waitlist, dues are set on a sliding scale, and you face outside pressures from neighboring capitalist landlords.<p>The crown jewel is attracting a large grant to establish an observatory at the top of your tower, attracting scientists. To get there, you must make sure the people are fed, housed, healthy, and entertained. If the Assembly doesn't have confidence in your abilities, you get voted out.<p>It kinda works, and the potential failures in the game are pretty unique. I'd be interested to hear HN's take. An entire SimCity clone based on a different economy like this could be fun.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195297">https://news.ycombinator.com/item?id=49195297</a></p>
+<p>Points: 5</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://intergalacticrobots.app/skyline-coop/](https://intergalacticrobots.app/skyline-coop/)
+
+---
+
+### 2. Mario Meets Pareto
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.mayerowitz.io/blog/mario-meets-pareto">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195231">https://news.ycombinator.com/item?id=49195231</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.mayerowitz.io/blog/mario-meets-pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+
+---
+
+### 3. What I love about Django
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 71</p>
-<p># Comments: 48</p>
+<p>Points: 103</p>
+<p># Comments: 85</p>
 
 🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
-
----
-
-### 2. Let's all meet up in the Y2K
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 56</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
-
----
-
-### 3. Crime Pays but Botany Doesn't
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 245</p>
-<p># Comments: 97</p>
-
-🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 
 ---
 
@@ -71,20 +72,7 @@ They say the incidents happened at the Army Foundation College in Harrogate when
 
 ---
 
-### 5. Cambridge professor at centre of plagiarism row resigns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Majority of England's rivers and lakes fail new environmental review
+### 5. Majority of England's rivers and lakes fail new environmental review
 
 **Source:** BBC
 
@@ -97,42 +85,94 @@ A comprehensive assessment of England's waterways is the first in six years and 
 
 ---
 
-### 7. Cambridge professor Jason Arday quits amid plagiarism allegations
+### 6. Cambridge professor at centre of plagiarism row resigns
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The scholar announced his resignation amid a new investigation into his qualifications.
+Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Hormuz deal ‘close’: What’s the latest on each side’s positions?
+### 7. Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US officials say they would not accept any arrangement on the waterway that would leave Iran in control.
+Islamabad seeks economic backing while balancing new defence commitments and a volatile regional security landscape.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss)
 
 ---
 
-### 9. Uganda football star Owori killed, weeks after death of rugby’s Gongodyo
+### 8. Myanmar leader visits Thailand in bid to bolster international legitimacy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-SC Villa captain and Ugandan international David Owori was found unconscious by passers-by, but later pronounced dead.
+Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss)
+
+---
+
+### 9. Video: Wildfires in Washington state force thousands to evacuate homes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Wildfires in Washington state and California have damaged over a thousand structures.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss)
+
+---
+
+### 10. Wildfire Middle Coulee, Chouteau, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+
+---
+
+### 11. Wildfire Antelope Creek, Elko, Nevada
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 12. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 

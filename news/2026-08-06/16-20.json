@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T16:20:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
+            "description": "<p>I've been rebuilding old games with Claude. While creating a modern take on SimTower and having election news on TV in the background, I had the idea to build the economy of the game around democratic socialism instead of capitalism.<p>Instead of a real estate tycoon, you are an elected steward of the building, held responsible by the Assembly. Homes are allocated off a waitlist, dues are set on a sliding scale, and you face outside pressures from neighboring capitalist landlords.<p>The crown jewel is attracting a large grant to establish an observatory at the top of your tower, attracting scientists. To get there, you must make sure the people are fed, housed, healthy, and entertained. If the Assembly doesn't have confidence in your abilities, you get voted out.<p>It kinda works, and the potential failures in the game are pretty unique. I'd be interested to hear HN's take. An entire SimCity clone based on a different economy like this could be fun.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195297\">https://news.ycombinator.com/item?id=49195297</a></p>\n<p>Points: 5</p>\n<p># Comments: 6</p>",
+            "url": "https://intergalacticrobots.app/skyline-coop/",
+            "published": "Thu, 06 Aug 2026 11:37:43 +0000",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mario Meets Pareto",
+            "description": "<p>Article URL: <a href=\"https://www.mayerowitz.io/blog/mario-meets-pareto\">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195231\">https://news.ycombinator.com/item?id=49195231</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+            "published": "Thu, 06 Aug 2026 11:24:53 +0000",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I love about Django",
+            "description": "<p>Article URL: <a href=\"https://buttondown.com/blog/what-i-love-about-django\">https://buttondown.com/blog/what-i-love-about-django</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193673\">https://news.ycombinator.com/item?id=49193673</a></p>\n<p>Points: 103</p>\n<p># Comments: 85</p>",
+            "url": "https://buttondown.com/blog/what-i-love-about-django",
+            "published": "Thu, 06 Aug 2026 07:34:06 +0000",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+            "description": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+            "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 05:00:09 GMT",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Majority of England's rivers and lakes fail new environmental review",
+            "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+            "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 10:00:06 GMT",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 06:28:03 GMT",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
+            "description": "Islamabad seeks economic backing while balancing new defence commitments and a volatile regional security landscape.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/why-is-pakistan-pm-shehbaz-sharif-visiting-saudi-arabia-amid-gulf-tensions?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 12:27:17 +0000",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
+            "description": "Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 12:04:36 +0000",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
+            "description": "Wildfires in Washington state and California have damaged over a thousand structures.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 11:59:30 +0000",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T16:20:23+03:30"
+        }
+    ]
+}
