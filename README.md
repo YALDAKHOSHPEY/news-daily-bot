@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 11:29:12
+**Last Update:** 2026-08-06 13:57:13
 
-**Total News:** 6
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 1. What I love about Django
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
+<p>Points: 61</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
+
+---
+
+### 2. Let's all meet up in the Y2K
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
+<p>Points: 43</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+
+---
+
+### 3. Crime Pays but Botany Doesn't
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
+<p>Points: 213</p>
+<p># Comments: 83</p>
+
+🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+
+---
+
+### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ They say the incidents happened at the Army Foundation College in Harrogate when
 
 ---
 
-### 2. Cambridge professor at centre of plagiarism row resigns
+### 5. Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -36,55 +84,94 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 3. Infantino sorry for errors but stays Fifa president
+### 6. Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
+Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
+### 7. South Korea police raid football association over Hong appointment process
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.
+Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack of proper interview process previously alleged.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss)
 
 ---
 
-### 5. Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout
+### 8. Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.
+More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss)
 
 ---
 
-### 6. Messi scores his first goals since World Cup as Inter Miami beat San Luis
+### 9. US-Israel war on Iran upends Europe’s summer holiday travel patterns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.
+Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss)
+
+---
+
+### 10. Wildfire Middle Coulee, Chouteau, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+
+---
+
+### 11. Wildfire Antelope Creek, Elko, Nevada
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 12. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 
