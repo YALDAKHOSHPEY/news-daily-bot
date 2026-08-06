@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T18:36:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Former Federal Prosecutors to Senate: Stop Confirming Election Deniers as Judges",
+            "description": "<p>Article URL: <a href=\"https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/\">https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49197127\">https://news.ycombinator.com/item?id=49197127</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/",
+            "published": "Thu, 06 Aug 2026 14:25:07 +0000",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Degrees of Wealth",
+            "description": "<p>Article URL: <a href=\"https://jaapgrolleman.com/degrees-of-wealth/\">https://jaapgrolleman.com/degrees-of-wealth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49197109\">https://news.ycombinator.com/item?id=49197109</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://jaapgrolleman.com/degrees-of-wealth/",
+            "published": "Thu, 06 Aug 2026 14:23:57 +0000",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek planning to significantly raise prices",
+            "description": "<p>Article URL: <a href=\"https://platform.deepseek.com/usage\">https://platform.deepseek.com/usage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49197005\">https://news.ycombinator.com/item?id=49197005</a></p>\n<p>Points: 35</p>\n<p># Comments: 21</p>",
+            "url": "https://platform.deepseek.com/usage",
+            "published": "Thu, 06 Aug 2026 14:16:15 +0000",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham orders review of grooming gang early releases",
+            "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 13:56:53 GMT",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+            "description": "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 12:51:39 GMT",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Majority of England's rivers and lakes fail new environmental review",
+            "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+            "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 10:00:06 GMT",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid sign Ivory Coast’s Yan Diomande from RP Leipzig",
+            "description": "The Bundesliga young player of the season in 2025/26 reportedly signed for record fee on deal until 2033.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:47:40 +0000",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA says FIFA boycott remains despite Infantino World Cup selloff U-turn",
+            "description": "European football&#039;s governing body says FIFA has not met conditions to end the boycott of their return to global game.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/uefa-say-fifa-boycott-remains-after-infantino-world-cup-plan-fallout?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:40:55 +0000",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+            "description": "Human Rights Watch, Amnesty say Israel seemingly targeted and killed the Lebanese journalist, obstructed rescuers.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/rights-groups-call-israels-killing-of-journalist-amal-khalil-a-war-crime?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:28:33 +0000",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-06T18:36:43+03:30"
+        }
+    ]
+}
