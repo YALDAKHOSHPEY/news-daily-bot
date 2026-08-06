@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 16:20:23
+**Last Update:** 2026-08-06 16:38:18
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -20,8 +20,8 @@
 <p>I've been rebuilding old games with Claude. While creating a modern take on SimTower and having election news on TV in the background, I had the idea to build the economy of the game around democratic socialism instead of capitalism.<p>Instead of a real estate tycoon, you are an elected steward of the building, held responsible by the Assembly. Homes are allocated off a waitlist, dues are set on a sliding scale, and you face outside pressures from neighboring capitalist landlords.<p>The crown jewel is attracting a large grant to establish an observatory at the top of your tower, attracting scientists. To get there, you must make sure the people are fed, housed, healthy, and entertained. If the Assembly doesn't have confidence in your abilities, you get voted out.<p>It kinda works, and the potential failures in the game are pretty unique. I'd be interested to hear HN's take. An entire SimCity clone based on a different economy like this could be fun.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195297">https://news.ycombinator.com/item?id=49195297</a></p>
-<p>Points: 5</p>
-<p># Comments: 6</p>
+<p>Points: 21</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://intergalacticrobots.app/skyline-coop/](https://intergalacticrobots.app/skyline-coop/)
 
@@ -36,39 +36,39 @@
 **Description:**
 <p>Article URL: <a href="https://www.mayerowitz.io/blog/mario-meets-pareto">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195231">https://news.ycombinator.com/item?id=49195231</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Points: 55</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.mayerowitz.io/blog/mario-meets-pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 
 ---
 
-### 3. What I love about Django
+### 3. Let's all meet up in the Y2K
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 103</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
+<p>Points: 88</p>
+<p># Comments: 61</p>
 
-🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
+🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 
 ---
 
-### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 4. Calls for inquiry into Army training college for teenagers after reports of rape and abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.
+Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,7 +98,20 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?
+### 7. Deadliest form of malnutrition has reached critical levels in Afghanistan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Child wasting, the deadliest form of malnutrition, has reached critical levels in a third of Afghanistan&#039;s provinces.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/deadliest-form-of-child-malnutrition-has-reached-critical-levels-in-afghani?traffic_source=rss)
+
+---
+
+### 8. Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Islamabad seeks economic backing while balancing new defence commitments and a v
 
 ---
 
-### 8. Myanmar leader visits Thailand in bid to bolster international legitimacy
+### 9. Myanmar leader visits Thailand in bid to bolster international legitimacy
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Islamabad seeks economic backing while balancing new defence commitments and a v
 Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss)
-
----
-
-### 9. Video: Wildfires in Washington state force thousands to evacuate homes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Wildfires in Washington state and California have damaged over a thousand structures.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss)
 
 ---
 
