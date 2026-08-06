@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 03:18:27
+**Last Update:** 2026-08-06 04:20:42
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 90</p>
-<p># Comments: 22</p>
+<p>Points: 123</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
@@ -35,26 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189234">https://news.ycombinator.com/item?id=49189234</a></p>
-<p>Points: 57</p>
-<p># Comments: 6</p>
+<p>Points: 74</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
 
 ---
 
-### 3. Prime Agent: A self-improving RLM agent
+### 3. I'll be stepping back from leading product for X
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075">https://news.ycombinator.com/item?id=49189075</a></p>
-<p>Points: 69</p>
-<p># Comments: 10</p>
+<p><a href="https://xcancel.com/nikitabier/status/2085105586966827343/" rel="nofollow">https://xcancel.com/nikitabier/status/2085105586966827343/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189113">https://news.ycombinator.com/item?id=49189113</a></p>
+<p>Points: 42</p>
+<p># Comments: 58</p>
 
-🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent](https://www.primeintellect.ai/blog/prime-agent)
+🔗 **Read more:** [https://twitter.com/nikitabier/status/2085105586966827343/](https://twitter.com/nikitabier/status/2085105586966827343/)
 
 ---
 
@@ -97,42 +98,42 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. FIFA pledges to defend Infantino after World Cup rights plan collapses
+### 7. Meta’s AI model follows rivals in revealing hacks of outside systems
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.
+Meta joins OpenAI and Anthropic in disclosing AI hacking during cybersecurity testing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss)
 
 ---
 
-### 8. Erica Schwartz confirmed as new CDC chief amid US agency turmoil
+### 8. FAA says Trump’s Marine One briefly flew too close to passenger jet
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.
+Air traffic controllers had failed to pause commercial flights during Marine One’s departure, sources say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss)
 
 ---
 
-### 9. Israeli occupation destroys farmland and lives in southern Syria
+### 9. Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli occupation destroys farmland and lives in southern Syria
+New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss)
 
 ---
 
