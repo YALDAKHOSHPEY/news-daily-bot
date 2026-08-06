@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 08:25:33
+**Last Update:** 2026-08-06 11:03:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nashville uses eminent domain to block data center near zoo
+### 1. Crime Pays but Botany Doesn't
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
+<p>Points: 88</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+
+---
+
+### 2. Show HN: Wallfacer – A terminal session manager for Claude Code, and more
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycombinator.com/item?id=49192219</a></p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://github.com/pradipta/wallfacer](https://github.com/pradipta/wallfacer)
+
+---
+
+### 3. Nashville uses eminent domain to block data center near zoo
 
 **Source:** Hacker News
 
@@ -19,59 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191624">https://news.ycombinator.com/item?id=49191624</a></p>
-<p>Points: 123</p>
-<p># Comments: 110</p>
+<p>Points: 219</p>
+<p># Comments: 239</p>
 
 🔗 **Read more:** [https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 
 ---
 
-### 2. LLMs won't break symmetric crypto
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto">https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191365">https://news.ycombinator.com/item?id=49191365</a></p>
-<p>Points: 59</p>
-<p># Comments: 62</p>
-
-🔗 **Read more:** [https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
-
----
-
-### 3. The title cards in Blade Runner are amazing
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 192</p>
-<p># Comments: 85</p>
-
-🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
-
----
-
-### 4. Infantino sorry for errors but stays Fifa president
+### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but "sincerely apologises" for errors made in his controversial private investment plans.
+They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. University of Cambridge professor at centre of plagiarism row resigns
+### 5. Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 6. Families express anger over jailed funeral boss's letter
+### 6. Infantino sorry for errors but stays Fifa president
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.
+Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win
+### 7. Messi scores his first goals since World Cup as Inter Miami beat San Luis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed, calling him a ‘hater of Jews.&#039;
+Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss)
 
 ---
 
-### 8. Could the Iran war derail Donald Trump’s legacy?
+### 8. Pakistan beat West Indies to end 8 away Test losing streak and draw series
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.
+Pakistan win first away Test in three years, beating West Indies by eight wickets in Trinidad to draw two Test series.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss)
 
 ---
 
-### 9. Trump administration refunds $100bn in tariffs struck down by Supreme Court
+### 9. A US proposal for missile defense that’s been tried before
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes after the US Supreme Court struck down many of Trump&#039;s sweeping levies in February.
+What is a Golden Dome, and why does Donald Trump want one?
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss)
 
 ---
 
