@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 11:03:18
+**Last Update:** 2026-08-06 11:29:12
 
-**Total News:** 12
+**Total News:** 6
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Crime Pays but Botany Doesn't
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 88</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-
----
-
-### 2. Show HN: Wallfacer – A terminal session manager for Claude Code, and more
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycombinator.com/item?id=49192219</a></p>
-<p>Points: 15</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://github.com/pradipta/wallfacer](https://github.com/pradipta/wallfacer)
-
----
-
-### 3. Nashville uses eminent domain to block data center near zoo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191624">https://news.ycombinator.com/item?id=49191624</a></p>
-<p>Points: 219</p>
-<p># Comments: 239</p>
-
-🔗 **Read more:** [https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-
----
-
-### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 1. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ They say the incidents happened at the Army Foundation College in Harrogate when
 
 ---
 
-### 5. Cambridge professor at centre of plagiarism row resigns
+### 2. Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 6. Infantino sorry for errors but stays Fifa president
+### 3. Infantino sorry for errors but stays Fifa president
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ Gianni Infantino will remain Fifa president after receiving backing from senior 
 
 ---
 
-### 7. Messi scores his first goals since World Cup as Inter Miami beat San Luis
+### 4. Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukraine officials say three people killed in Kharkiv region and three in Sumy, as Russia says it intercepted 605 drones.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss)
+
+---
+
+### 5. Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former Bangladesh captain Shakib Al Hasan&#039;s home attacked after joining former Prime Minister Sheikh Hasina’s event.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/ex-bangladesh-cricket-captain-shakibs-home-petrol-bombed-in-hasina-fallout?traffic_source=rss)
+
+---
+
+### 6. Messi scores his first goals since World Cup as Inter Miami beat San Luis
 
 **Source:** Al Jazeera
 
@@ -107,71 +85,6 @@ Gianni Infantino will remain Fifa president after receiving backing from senior 
 Lionel Messi scores his first goals since Argentina&#039;s World Cup final defeat to Spain, as Miami win 4-2 in Leagues Cup.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/messi-scores-his-first-goals-since-world-cup-as-inter-miami-beat-san-luis?traffic_source=rss)
-
----
-
-### 8. Pakistan beat West Indies to end 8 away Test losing streak and draw series
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pakistan win first away Test in three years, beating West Indies by eight wickets in Trinidad to draw two Test series.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss)
-
----
-
-### 9. A US proposal for missile defense that’s been tried before
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-What is a Golden Dome, and why does Donald Trump want one?
-
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 

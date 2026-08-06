@@ -98,7 +98,15 @@
                 "BBC",
                 "Al Jazeera"
             ]
+        },
+        {
+            "time": "11-29",
+            "news_count": 6,
+            "sources": [
+                "BBC",
+                "Al Jazeera"
+            ]
         }
     ],
-    "total_news": 114
+    "total_news": 120
 }
