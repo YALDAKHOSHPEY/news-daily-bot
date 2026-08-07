@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 02:32:38
+**Last Update:** 2026-08-08 02:54:45
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
-<p>Points: 57</p>
-<p># Comments: 29</p>
+<p>Points: 68</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 
 ---
 
-### 2. App Store Rejection of the Week: Dark Hours
+### 2. Lost my phone at the office. Claude suggested tracking Bluetooth signal strength
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/un1c0rnioz/status/2084686552299634805">https://twitter.com/un1c0rnioz/status/2084686552299634805</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215786">https://news.ycombinator.com/item?id=49215786</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://twitter.com/un1c0rnioz/status/2084686552299634805](https://twitter.com/un1c0rnioz/status/2084686552299634805)
+
+---
+
+### 3. App Store Rejection of the Week: Dark Hours
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 217</p>
-<p># Comments: 117</p>
+<p>Points: 238</p>
+<p># Comments: 128</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
-
----
-
-### 3. Psychological Warfare in Reverse Engineering (2015)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 37</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
 
 ---
 
