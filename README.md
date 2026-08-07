@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 14:44:12
+**Last Update:** 2026-08-07 15:07:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -58,16 +58,16 @@
 
 ---
 
-### 4. I was standing in front of my teacher when she was shot, Thai pupil says
+### 4. Academics call for independent inquiry into Jason Arday's Cambridge appointment
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "marking its own homework".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know
+### 7. Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tensions between the Houthis and Saudi Arabia have increased since the US-Israel war on Iran began.
+Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss)
 
 ---
 
-### 8. Central Europe sees record temperatures as heatwave continues
+### 8. Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
+The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss)
 
 ---
 
-### 9. Saudi Pro League’s England international Toney charged with assault
+### 9. Why Trump is caught in an ‘escalation trap’ with Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
+University of Chicago Professor Robert Pape explains why US President Trump is caught in an ‘escalation trap’ with Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss)
 
 ---
 
