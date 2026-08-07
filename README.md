@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 09:34:15
+**Last Update:** 2026-08-07 10:11:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 32</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 2. Anthropic CEO reportedly worried new hires only care about money
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html">https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206115">https://news.ycombinator.com/item?id=49206115</a></p>
-<p>Points: 20</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html](https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html)
-
----
-
-### 3. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
+### 2. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 146</p>
-<p># Comments: 89</p>
+<p>Points: 161</p>
+<p># Comments: 104</p>
 
 🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+
+---
+
+### 3. Welcoming the Nepalese Government to Have I Been Pwned
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49203105">https://news.ycombinator.com/item?id=49203105</a></p>
+<p>Points: 133</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 
 ---
 
@@ -97,7 +97,20 @@ The ruling is in addition to $375m in fines Meta was already ordered to pay in t
 
 ---
 
-### 7. Bodies of climbers killed in avalanche retrieved from Broad Peak
+### 7. ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss)
+
+---
+
+### 8. Bodies of climbers killed in avalanche retrieved from Broad Peak
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A search team has retrieved the remains of renowned climber Nirmal Purja and sev
 
 ---
 
-### 8. Mexico deploys troops to secure avocado region after US halts imports
+### 9. Mexico deploys troops to secure avocado region after US halts imports
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A search team has retrieved the remains of renowned climber Nirmal Purja and sev
 Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss)
-
----
-
-### 9. Record-high heat soars through South Korea
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss)
 
 ---
 
