@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 20:11:12
+**Last Update:** 2026-08-07 20:44:06
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
+### 1. Tax cuts for the wealthy only benefit the rich (2023)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
-<p>Points: 92</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics">https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213097">https://news.ycombinator.com/item?id=49213097</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
+🔗 **Read more:** [https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 
 ---
 
-### 2. Software is about people, not code (2020)
+### 2. Responding to the next frontier of critical cyber capabilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
-<p>Points: 30</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213029">https://news.ycombinator.com/item?id=49213029</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
+🔗 **Read more:** [https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
 
 ---
 
-### 3. 99% of My Website Traffic Is Bots
+### 3. The AI Billboards Are Killing SF
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
-<p>Points: 165</p>
-<p># Comments: 145</p>
+<p>Article URL: <a href="https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/">https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49212928">https://news.ycombinator.com/item?id=49212928</a></p>
+<p>Points: 20</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+🔗 **Read more:** [https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
 
 ---
 
@@ -97,42 +97,42 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. Italy vows to maintain border checks despite Spain’s countermeasures threat
+### 7. Hun Manet is refining Cambodia’s authoritarian model
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Madrid warns of &#039;proportional measures&#039; if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.
+The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss)
 
 ---
 
-### 8. Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
+### 8. War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
+Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss)
 
 ---
 
-### 9. Two civilians killed in Houthi strike on Marib, says Yemen’s government
+### 9. US labour market sheds jobs in July as labour force participation slumps
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.
+US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss)
 
 ---
 
