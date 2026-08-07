@@ -39,7 +39,16 @@
                 "Hacker News",
                 "NASA"
             ]
+        },
+        {
+            "time": "08-17",
+            "news_count": 9,
+            "sources": [
+                "Hacker News",
+                "BBC",
+                "NASA"
+            ]
         }
     ],
-    "total_news": 45
+    "total_news": 54
 }
