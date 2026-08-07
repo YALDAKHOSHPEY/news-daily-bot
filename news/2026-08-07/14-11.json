@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T14:11:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Framework discloses data breach via Metabase 0-day",
+            "description": "<p>Article URL: <a href=\"https://community.frame.work/t/framework-data-breach-discussion/83939\">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206130\">https://news.ycombinator.com/item?id=49206130</a></p>\n<p>Points: 87</p>\n<p># Comments: 30</p>",
+            "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+            "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+            "description": "<p>Article URL: <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204546\">https://news.ycombinator.com/item?id=49204546</a></p>\n<p>Points: 60</p>\n<p># Comments: 80</p>",
+            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+            "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+            "description": "<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 303</p>\n<p># Comments: 197</p>",
+            "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+            "published": "Fri, 07 Aug 2026 00:06:28 +0000",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+            "description": "The student says she had to climb over a school fence to flee the shooting which killed five teachers.",
+            "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 10:18:43 GMT",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+            "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 08:35:00 GMT",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+            "description": "The 30-year-old former Brentford striker is due to appear in court next month.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 09:30:30 GMT",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+            "description": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 10:00:56 +0000",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Several killed after student opens fire inside Thailand school",
+            "description": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 09:13:48 +0000",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The other classroom: Returning to sacred knowledge",
+            "description": "Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 08:41:06 +0000",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T14:11:54+03:30"
+        }
+    ]
+}

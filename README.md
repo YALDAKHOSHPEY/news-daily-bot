@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 13:53:38
+**Last Update:** 2026-08-07 14:11:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 2027 memory capacity is reportedly sold out
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
-<p>Points: 65</p>
-<p># Comments: 42</p>
-
-🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
-
----
-
-### 2. Framework discloses data breach via Metabase 0-day
+### 1. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 81</p>
+<p>Points: 87</p>
 <p># Comments: 30</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
+### 2. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
 
 **Source:** Hacker News
 
@@ -58,7 +42,24 @@
 
 ---
 
-### 4. Thai pupil describes harrowing moment teacher was shot in front of her
+### 3. New Mexico court orders Meta to pay $567m over harms to children’s mental health
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/" rel="nofollow">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href="https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta" rel="nofollow">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href="https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/" rel="nofollow">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href="https://www.bbc.com/news/articles/cd7lz3wr2rlo" rel="nofollow">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7" rel="nofollow">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
+<p>Points: 303</p>
+<p># Comments: 197</p>
+
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+
+---
+
+### 4. I was standing in front of my teacher when she was shot, Thai pupil says
 
 **Source:** BBC
 
