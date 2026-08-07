@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 19:13:34
+**Last Update:** 2026-08-07 19:43:57
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Another Corner of the Internet Has Been Ruined
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.freeformatter.com/">https://www.freeformatter.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211758">https://news.ycombinator.com/item?id=49211758</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.freeformatter.com/](https://www.freeformatter.com/)
-
----
-
-### 2. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
+### 1. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
-<p>Points: 33</p>
-<p># Comments: 5</p>
+<p>Points: 67</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
 
 ---
 
-### 3. Software is about people, not code
+### 2. Software is about people, not code
 
 **Source:** Hacker News
 
@@ -51,27 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
+<p>Points: 28</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 
 ---
 
-### 4. Serial sex offender guilty of murdering two women and raping third
+### 3. 99% of My Website Traffic Is Bots
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+<p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
+<p>Points: 131</p>
+<p># Comments: 105</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
 
 ---
 
-### 5. How police let a registered sex offender murder and attack women
+### 4. How police let a registered sex offender murder and attack women
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ Simon Levy was a serial sex offender who was being monitored by the Metropolitan
 Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Serial sex offender guilty of murdering two women and raping third
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
