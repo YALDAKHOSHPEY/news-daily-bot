@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 11:36:15
+**Last Update:** 2026-08-07 12:03:14
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Framework discloses data breach via Metabase 0-day
+### 1. I won't read LLM authored fiction
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction">https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207146">https://news.ycombinator.com/item?id=49207146</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction](https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction)
+
+---
+
+### 2. Artificial Intelligence used to design new viruses
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c5y3j3ngevmo">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206642">https://news.ycombinator.com/item?id=49206642</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y3j3ngevmo](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
+
+---
+
+### 3. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 61</p>
-<p># Comments: 14</p>
+<p>Points: 68</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
-
----
-
-### 2. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 54</p>
-<p># Comments: 70</p>
-
-🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-
----
-
-### 3. New Mexico court orders Meta to pay $567m over harms to children’s mental health
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/" rel="nofollow">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href="https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta" rel="nofollow">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href="https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/" rel="nofollow">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href="https://www.bbc.com/news/articles/cd7lz3wr2rlo" rel="nofollow">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7" rel="nofollow">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 196</p>
-<p># Comments: 121</p>
-
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 
 ---
 
@@ -79,7 +78,7 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 **Category:** world
 
 **Description:**
-The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.
+The arrests follow disturbances linked to anti-immigration protests in the market town.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
 
@@ -98,7 +97,33 @@ The ruling is in addition to $375m in fines Meta was already ordered to pay in t
 
 ---
 
-### 7. ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
+### 7. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss)
+
+---
+
+### 8. Earthquake strikes as doctors perform surgery
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss)
+
+---
+
+### 9. ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The ruling is in addition to $375m in fines Meta was already ordered to pay in t
 Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss)
-
----
-
-### 8. Bodies of climbers killed in avalanche retrieved from Broad Peak
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss)
-
----
-
-### 9. Mexico deploys troops to secure avocado region after US halts imports
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss)
 
 ---
 
