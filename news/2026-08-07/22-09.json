@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T22:09:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
+            "description": "<p>Article URL: <a href=\"https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57\">https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214306\">https://news.ycombinator.com/item?id=49214306</a></p>\n<p>Points: 36</p>\n<p># Comments: 6</p>",
+            "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
+            "published": "Fri, 07 Aug 2026 18:15:33 +0000",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Assembly Hall of Shame",
+            "description": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/asm-hall-of-shame\">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214098\">https://news.ycombinator.com/item?id=49214098</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+            "published": "Fri, 07 Aug 2026 18:01:30 +0000",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The End of No Code",
+            "description": "<p>Article URL: <a href=\"https://blog.exe.dev/the-end-of-no-code\">https://blog.exe.dev/the-end-of-no-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214065\">https://news.ycombinator.com/item?id=49214065</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.exe.dev/the-end-of-no-code",
+            "published": "Fri, 07 Aug 2026 17:59:19 +0000",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How police left a registered sex offender free to murder and attack women",
+            "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 17:12:27 GMT",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial sex offender guilty of murdering two women and raping third",
+            "description": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 16:46:50 GMT",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 17:09:32 GMT",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
+            "description": "Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 18:00:05 +0000",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Delhi on red alert as heavy rains pound the city",
+            "description": "Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 17:19:06 +0000",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+            "description": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 17:07:29 +0000",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T22:09:19+03:30"
+        }
+    ]
+}

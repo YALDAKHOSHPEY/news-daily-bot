@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 21:38:38
+**Last Update:** 2026-08-07 22:09:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Oracle bans AI-generated code from OpenJDK
+### 1. ICE will release body cam video only when seen in the agency's 'best interests'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213754">https://news.ycombinator.com/item?id=49213754</a></p>
-<p>Points: 22</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57">https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214306">https://news.ycombinator.com/item?id=49214306</a></p>
+<p>Points: 36</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+🔗 **Read more:** [https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
 
 ---
 
-### 2. Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years
+### 2. Assembly Hall of Shame
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225">https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213367">https://news.ycombinator.com/item?id=49213367</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/asm-hall-of-shame">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214098">https://news.ycombinator.com/item?id=49214098</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 
 ---
 
-### 3. Tax cuts for the wealthy only benefit the rich (2023)
+### 3. The End of No Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics">https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213097">https://news.ycombinator.com/item?id=49213097</a></p>
-<p>Points: 116</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://blog.exe.dev/the-end-of-no-code">https://blog.exe.dev/the-end-of-no-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214065">https://news.ycombinator.com/item?id=49214065</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+🔗 **Read more:** [https://blog.exe.dev/the-end-of-no-code](https://blog.exe.dev/the-end-of-no-code)
 
 ---
 
