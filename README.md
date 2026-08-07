@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 15:07:41
+**Last Update:** 2026-08-07 15:35:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US strikes $1.2B deal to pay German firm to halt offshore wind projects
+### 1. The Gargantuan Lie That Is Collapsing the Climate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208686">https://news.ycombinator.com/item?id=49208686</a></p>
+<p>Points: 49</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+
+---
+
+### 2. US strikes $1.2B deal to pay German firm to halt offshore wind projects
 
 **Source:** Hacker News
 
@@ -19,42 +35,33 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
-<p>Points: 74</p>
-<p># Comments: 38</p>
+<p>Points: 226</p>
+<p># Comments: 185</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 
 ---
 
-### 2. Framework discloses data breach via Metabase 0-day
+### 3. Show HN: Certo – An open source platform to deliver Open Badges
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 93</p>
-<p># Comments: 31</p>
+<p>Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.<p>It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentials portable, machine-verifiable, and vendor-independent.<p>It is designed to be:<p>- Self-hosted: run it inside your own infrastructure, air-gapped network, or sovereign cloud
+- Standards-compliant: credentials it issues work with any OB3/VC-compatible system
+- API-first: everything the UI can do, the API can do
+- Exportable: your data is always yours, in open formats
+- Extensible: a small, stable core with a plugin interface for everything else<p>A demo is available at <a href="https://certo.schroedinger-hat.org/" rel="nofollow">https://certo.schroedinger-hat.org/</a> which we're using for Schrödinger Hat[3] conferences, workshops, partner communities.<p>I'll be around if you have any questions. Feel free to give a feedback on the project.<p>[1] <a href="https://www.imsglobal.org/spec/ob/v3p0" rel="nofollow">https://www.imsglobal.org/spec/ob/v3p0</a>
+[2] <a href="https://www.w3.org/TR/vc-data-model/" rel="nofollow">https://www.w3.org/TR/vc-data-model/</a>
+[3] <a href="https://schroedinger-hat.org/" rel="nofollow">https://schroedinger-hat.org/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207793">https://news.ycombinator.com/item?id=49207793</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
-
----
-
-### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 60</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+🔗 **Read more:** [https://github.com/schroedinger-Hat/certo](https://github.com/schroedinger-Hat/certo)
 
 ---
 
@@ -97,42 +104,44 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing
+### 7. First school for robots opens in China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say
+&quot;Our main goal is to empower robots&#039; brains.&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss)
+China has launched its first robot school.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss)
 
 ---
 
-### 8. Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil
+### 8. Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.
+Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss)
 
 ---
 
-### 9. Why Trump is caught in an ‘escalation trap’ with Iran
+### 9. Northern Ethiopia’s shifting alliances explained
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-University of Chicago Professor Robert Pape explains why US President Trump is caught in an ‘escalation trap’ with Iran.
+The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss)
 
 ---
 
