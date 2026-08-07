@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 10:11:50
+**Last Update:** 2026-08-07 11:36:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,42 +19,43 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 32</p>
-<p># Comments: 5</p>
+<p>Points: 61</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 2. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
+### 2. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 161</p>
-<p># Comments: 104</p>
+<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
+<p>Points: 54</p>
+<p># Comments: 70</p>
 
-🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
+🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
-### 3. Welcoming the Nepalese Government to Have I Been Pwned
+### 3. New Mexico court orders Meta to pay $567m over harms to children’s mental health
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49203105">https://news.ycombinator.com/item?id=49203105</a></p>
-<p>Points: 133</p>
-<p># Comments: 21</p>
+<p><a href="https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/" rel="nofollow">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href="https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta" rel="nofollow">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href="https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/" rel="nofollow">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href="https://www.bbc.com/news/articles/cd7lz3wr2rlo" rel="nofollow">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7" rel="nofollow">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
+<p>Points: 196</p>
+<p># Comments: 121</p>
 
-🔗 **Read more:** [https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 
 ---
 
