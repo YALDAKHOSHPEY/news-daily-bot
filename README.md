@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 13:20:40
+**Last Update:** 2026-08-07 13:53:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
-<p>Points: 51</p>
-<p># Comments: 20</p>
+<p>Points: 65</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 78</p>
+<p>Points: 81</p>
 <p># Comments: 30</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
@@ -52,13 +52,26 @@
 <p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
 <p>Points: 60</p>
-<p># Comments: 79</p>
+<p># Comments: 80</p>
 
 🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
-### 4. Officer who led PC Harper investigation 'appalled' killers could be released early
+### 4. Thai pupil describes harrowing moment teacher was shot in front of her
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Officer who led PC Harper investigation 'appalled' killers could be released early
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 5. England footballer Ivan Toney charged with assault at Soho nightclub
+### 6. England footballer Ivan Toney charged with assault at Soho nightclub
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 6. Arrests in Norfolk town as disorder continues for third night
+### 7. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The arrests follow disturbances linked to anti-immigration protests in the market town.
+The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss)
 
 ---
 
-### 7. Several killed after student opens fire inside Thailand school
+### 8. Several killed after student opens fire inside Thailand school
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ At least eight people were killed and 15 others injured after a student opened f
 
 ---
 
-### 8. The other classroom: Returning to sacred knowledge
+### 9. The other classroom: Returning to sacred knowledge
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ At least eight people were killed and 15 others injured after a student opened f
 Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss)
-
----
-
-### 9. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss)
 
 ---
 
