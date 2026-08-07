@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 17:34:51
+**Last Update:** 2026-08-07 18:45:17
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI psychosis is the new leadership blind spot
+### 1. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots">https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210077">https://news.ycombinator.com/item?id=49210077</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
 
 ---
 
-### 2. The web server deployment model breaks at hobby scale
+### 2. Software is about people, not code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://w.on-t.work/web-deployment-model">https://w.on-t.work/web-deployment-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209921">https://news.ycombinator.com/item?id=49209921</a></p>
-<p>Points: 19</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://w.on-t.work/web-deployment-model](https://w.on-t.work/web-deployment-model)
-
----
-
-### 3. Radical Study Suggests Life on Earth Arose Twice
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice">https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209572">https://news.ycombinator.com/item?id=49209572</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
+🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 
 ---
 
-### 4. Serial sex offender guilty of double murder and rape
+### 3. 99% of My Website Traffic Is Bots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
+<p>Points: 29</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+
+---
+
+### 4. Serial sex offender guilty of murdering two women and raping third
 
 **Source:** BBC
 
@@ -71,7 +71,20 @@ Simon Levy was a serial sex offender who was being monitored by the Metropolitan
 
 ---
 
-### 5. Cambridge to review process for hiring senior academics after Jason Arday resignation
+### 5. How police let a registered sex offender murder and attack women
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Cambridge to review process for hiring senior academics after Jason Arday resignation
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 6. Officer who led PC Harper investigation 'appalled' killers could be released early
+### 7. Two civilians killed in Houthi strike on Marib, says Yemen’s government
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.
+Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss)
 
 ---
 
-### 7. Diego Maradona bloated, bedridden and resigned before death, says masseur
+### 8. Imade
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss)
+
+---
+
+### 9. Diego Maradona bloated, bedridden and resigned before death, says masseur
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss)
-
----
-
-### 8. Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pact will &#039;reshape security architecture&#039; of the region, experts say.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss)
-
----
-
-### 9. Russia drops record number of glide bombs on Ukraine as casualties pile up
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Moscow&#039;s troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss)
 
 ---
 
