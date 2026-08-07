@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 15:35:37
+**Last Update:** 2026-08-07 16:09:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208686">https://news.ycombinator.com/item?id=49208686</a></p>
-<p>Points: 49</p>
-<p># Comments: 13</p>
+<p>Points: 101</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
-<p>Points: 226</p>
-<p># Comments: 185</p>
+<p>Points: 311</p>
+<p># Comments: 277</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 
@@ -58,7 +58,7 @@
 [3] <a href="https://schroedinger-hat.org/" rel="nofollow">https://schroedinger-hat.org/</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207793">https://news.ycombinator.com/item?id=49207793</a></p>
-<p>Points: 3</p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/schroedinger-Hat/certo](https://github.com/schroedinger-Hat/certo)
@@ -104,7 +104,33 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. First school for robots opens in China
+### 7. Iran’s grip on trade is a potent weapon, but it has an expiry date
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss)
+
+---
+
+### 8. Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss)
+
+---
+
+### 9. First school for robots opens in China
 
 **Source:** Al Jazeera
 
@@ -116,32 +142,6 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 China has launched its first robot school.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss)
-
----
-
-### 8. Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss)
-
----
-
-### 9. Northern Ethiopia’s shifting alliances explained
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss)
 
 ---
 
