@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 23:34:09
+**Last Update:** 2026-08-07 23:59:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 57</p>
-<p># Comments: 14</p>
+<p>Points: 81</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 4</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=49214770</a></p>
-<p>Points: 28</p>
-<p># Comments: 7</p>
+<p>Points: 32</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://ancientlibrary.net/](https://ancientlibrary.net/)
 
@@ -97,7 +97,20 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
+### 7. Contaminated water putting Gaza families at risk
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss)
+
+---
+
+### 8. DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ ICRC facilitates first known transfer of detainees between Congolese government 
 
 ---
 
-### 8. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
+### 9. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ ICRC facilitates first known transfer of detainees between Congolese government 
 Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss)
-
----
-
-### 9. Inside the results: How redistricting shaped Tennessee’s primary election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss)
 
 ---
 
