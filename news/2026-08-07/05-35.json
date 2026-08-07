@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-07T05:35:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands of rail passengers hit by power failure disruption",
+            "description": "An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 22:35:54 GMT",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 00:54:03 GMT",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+            "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 01:57:02 GMT",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+            "description": "Official says plane was irregularly cleared for departure before crash that killed 62 people outside Sao Paulo.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 01:17:13 +0000",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police in Argentina use tear gas to stop protesters",
+            "description": "Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 01:02:56 +0000",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Do you know who owns the media you watch?",
+            "description": "Today, a total of 6 companies own 90% of the American media market.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/do-you-know-who-owns-the-media-you-watch?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 00:28:50 +0000",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T05:35:53+03:30"
+        }
+    ]
+}
