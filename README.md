@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 22:09:19
+**Last Update:** 2026-08-07 22:56:22
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ICE will release body cam video only when seen in the agency's 'best interests'
+### 1. App Store Rejection of the Week: Dark Hours
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57">https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214306">https://news.ycombinator.com/item?id=49214306</a></p>
-<p>Points: 36</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
-
----
-
-### 2. Assembly Hall of Shame
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/xoreaxeaxeax/asm-hall-of-shame">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214098">https://news.ycombinator.com/item?id=49214098</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
+<p>Points: 15</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
 ---
 
-### 3. The End of No Code
+### 2. Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.exe.dev/the-end-of-no-code">https://blog.exe.dev/the-end-of-no-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214065">https://news.ycombinator.com/item?id=49214065</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=49214770</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://ancientlibrary.net/](https://ancientlibrary.net/)
+
+---
+
+### 3. Databricks drove down AI coding spend 70%
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214468">https://news.ycombinator.com/item?id=49214468</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.exe.dev/the-end-of-no-code](https://blog.exe.dev/the-end-of-no-code)
+🔗 **Read more:** [https://www.databricks.com/blog/managing-ai-coding-costs-scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -78,7 +78,7 @@ Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, seni
 **Category:** world
 
 **Description:**
-Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. Inside the results: How redistricting shaped Tennessee’s primary election
+### 7. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss)
+
+---
+
+### 8. Inside the results: How redistricting shaped Tennessee’s primary election
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted 
 
 ---
 
-### 8. New Delhi on red alert as heavy rains pound the city
+### 9. New Delhi on red alert as heavy rains pound the city
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted 
 Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss)
-
----
-
-### 9. Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,20 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire BUZZARD, Kern, California
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
-
----
-
-### 12. Wildfire Bare, Sublette, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
 
 ---
 
