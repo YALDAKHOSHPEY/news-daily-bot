@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 08:40:37
+**Last Update:** 2026-08-07 09:34:15
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware
+### 1. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://socket.dev/blog/ai-agent-open-source-malware">https://socket.dev/blog/ai-agent-open-source-malware</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49205790">https://news.ycombinator.com/item?id=49205790</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://socket.dev/blog/ai-agent-open-source-malware](https://socket.dev/blog/ai-agent-open-source-malware)
+🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 2. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
+### 2. Anthropic CEO reportedly worried new hires only care about money
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html">https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206115">https://news.ycombinator.com/item?id=49206115</a></p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html](https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html)
+
+---
+
+### 3. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 132</p>
-<p># Comments: 76</p>
+<p>Points: 146</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
 
 ---
 
-### 3. Hackers Stalked Me by Hijacking a Smartwatch for Kids
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/">https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204060">https://news.ycombinator.com/item?id=49204060</a></p>
-<p>Points: 45</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
-
----
-
-### 4. Meta fined $567m in largest child safety ruling against social media giant
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Former officer says he's 'appalled' PC Harper's killers could be released early
+### 4. Officer who led PC Harper investigation 'appalled' killers could be released early
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 6. Trump denies US weapons shortage and says information 'leakers' being 'hunted down'
+### 5. Arrests in Norfolk town as disorder continues for third night
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.
+The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Turkiye’s Erdogan visits Saudi Arabia: What to expect
+### 6. Meta fined $567m in largest child safety ruling against social media giant
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Bodies of climbers killed in avalanche retrieved from Broad Peak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.
+A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss)
 
 ---
 
-### 8. One killed, four injured in Thailand school shooting, officials say
+### 8. Mexico deploys troops to secure avocado region after US halts imports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities say the gunman, a student, killed a teacher before taking his own life at a school northwest of Bangkok.
+Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss)
 
 ---
 
-### 9. Anti-Muslim US Congressman Andy Ogles loses Republican primary
+### 9. Record-high heat soars through South Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump&#039;s endorsement fails to save Tennessee legislator who recently said &#039;Muslims don&#039;t belong in American society&#039;.
+A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss)
 
 ---
 
