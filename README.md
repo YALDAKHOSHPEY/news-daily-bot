@@ -1,71 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 16:09:07
+**Last Update:** 2026-08-07 17:16:24
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Gargantuan Lie That Is Collapsing the Climate
+### 1. The web server deployment model breaks at hobby scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208686">https://news.ycombinator.com/item?id=49208686</a></p>
-<p>Points: 101</p>
-<p># Comments: 74</p>
+<p>Article URL: <a href="https://w.on-t.work/web-deployment-model">https://w.on-t.work/web-deployment-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209921">https://news.ycombinator.com/item?id=49209921</a></p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+🔗 **Read more:** [https://w.on-t.work/web-deployment-model](https://w.on-t.work/web-deployment-model)
 
 ---
 
-### 2. US strikes $1.2B deal to pay German firm to halt offshore wind projects
+### 2. Radical Study Suggests Life on Earth Arose Twice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
-<p>Points: 311</p>
-<p># Comments: 277</p>
+<p>Article URL: <a href="https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice">https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209572">https://news.ycombinator.com/item?id=49209572</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+🔗 **Read more:** [https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
 
 ---
 
-### 3. Show HN: Certo – An open source platform to deliver Open Badges
+### 3. U.S. economy lost 23,000 jobs in July, a sudden reversal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.<p>It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentials portable, machine-verifiable, and vendor-independent.<p>It is designed to be:<p>- Self-hosted: run it inside your own infrastructure, air-gapped network, or sovereign cloud
-- Standards-compliant: credentials it issues work with any OB3/VC-compatible system
-- API-first: everything the UI can do, the API can do
-- Exportable: your data is always yours, in open formats
-- Extensible: a small, stable core with a plugin interface for everything else<p>A demo is available at <a href="https://certo.schroedinger-hat.org/" rel="nofollow">https://certo.schroedinger-hat.org/</a> which we're using for Schrödinger Hat[3] conferences, workshops, partner communities.<p>I'll be around if you have any questions. Feel free to give a feedback on the project.<p>[1] <a href="https://www.imsglobal.org/spec/ob/v3p0" rel="nofollow">https://www.imsglobal.org/spec/ob/v3p0</a>
-[2] <a href="https://www.w3.org/TR/vc-data-model/" rel="nofollow">https://www.w3.org/TR/vc-data-model/</a>
-[3] <a href="https://schroedinger-hat.org/" rel="nofollow">https://schroedinger-hat.org/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207793">https://news.ycombinator.com/item?id=49207793</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138">https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209546">https://news.ycombinator.com/item?id=49209546</a></p>
+<p>Points: 54</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://github.com/schroedinger-Hat/certo](https://github.com/schroedinger-Hat/certo)
+🔗 **Read more:** [https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)
 
 ---
 
-### 4. Academics call for independent inquiry into Jason Arday's Cambridge appointment
+### 4. Jason Arday's Cambridge appointment to be part of wider senior hiring review
 
 **Source:** BBC
 
@@ -104,44 +97,42 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Iran’s grip on trade is a potent weapon, but it has an expiry date
+### 7. Russia drops record number of glide bombs on Ukraine as casualties pile up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
+Moscow&#039;s troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss)
 
 ---
 
-### 8. Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know
+### 8. Armenian Apostolic Church leader faces trial as feud with PM deepens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How does FIFA presidency stand? Norway wants resignation, but Argentina and Mexico join Africa in Gianni Infantino camp.
+Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss)
 
 ---
 
-### 9. First school for robots opens in China
+### 9. Saudi Arabia, Turkiye and Pakistan sign joint defence pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&quot;Our main goal is to empower robots&#039; brains.&quot;
+The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.
 
-China has launched its first robot school.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss)
 
 ---
 
