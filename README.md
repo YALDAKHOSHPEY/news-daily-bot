@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 02:54:45
+**Last Update:** 2026-08-08 03:25:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Water system controllers don't belong on the internet, says ex-NSA chief
+### 1. U.S. Department of Energy Launches the Genesis Open Models Initiative
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinator.com/item?id=49216946</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://genesisopenmodels.anl.gov/](https://genesisopenmodels.anl.gov/)
+
+---
+
+### 2. Water system controllers don't belong on the internet, says ex-NSA chief
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
-<p>Points: 68</p>
-<p># Comments: 38</p>
+<p>Points: 94</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
-
----
-
-### 2. Lost my phone at the office. Claude suggested tracking Bluetooth signal strength
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/un1c0rnioz/status/2084686552299634805">https://twitter.com/un1c0rnioz/status/2084686552299634805</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215786">https://news.ycombinator.com/item?id=49215786</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://twitter.com/un1c0rnioz/status/2084686552299634805](https://twitter.com/un1c0rnioz/status/2084686552299634805)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 238</p>
-<p># Comments: 128</p>
+<p>Points: 254</p>
+<p># Comments: 146</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
@@ -97,42 +97,42 @@ No arrests were made at the time and the investigation was closed.
 
 ---
 
-### 7. Democrats gain momentum in pivotal US Senate and governor’s races in Texas
+### 7. Donald Trump renews effort to fire Federal Reserve governor Lisa Cook
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-James Talarico leads Ken Paxton in the Texas Senate race, signalling a potential shift in the Republican stronghold.
+US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss)
 
 ---
 
-### 8. US appeals court halts White House ballroom construction
+### 8. ICC body urges Chad and Venezuela to reverse course on withdrawal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.
+International court&#039;s oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss)
 
 ---
 
-### 9. South Koreans beat the heat with ‘silent disco’ pool party
+### 9. Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.
+The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss)
 
 ---
 
