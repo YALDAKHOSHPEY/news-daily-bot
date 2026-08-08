@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 14:49:46
+**Last Update:** 2026-08-08 15:21:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 8</p>
-<p># Comments: 8</p>
+<p>Points: 11</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 39</p>
-<p># Comments: 21</p>
+<p>Points: 77</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220339">https://news.ycombinator.com/item?id=49220339</a></p>
-<p>Points: 16</p>
-<p># Comments: 8</p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
 
@@ -133,6 +133,45 @@ Israel is trapped in a cycle it created.
 US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss)
+
+---
+
+### 10. Wildfire Wrights Spring, Klamath, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
