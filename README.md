@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 17:07:47
+**Last Update:** 2026-08-08 17:34:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The CPU is back: Rethinking the CPU-GPU split for LLM inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference">https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221089">https://news.ycombinator.com/item?id=49221089</a></p>
-<p>Points: 38</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
-
----
-
-### 2. Now we have a timeline of the OpenAI accidental attack against Hugging Face
+### 1. Now we have a timeline of the OpenAI accidental attack against Hugging Face
 
 **Source:** Hacker News
 
@@ -35,10 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
-<p>Points: 69</p>
-<p># Comments: 84</p>
+<p>Points: 84</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
+
+---
+
+### 2. Microsoft Edge is about to lock out older ad blockers, just like Chrome did
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3">https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220392">https://news.ycombinator.com/item?id=49220392</a></p>
+<p>Points: 21</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 126</p>
-<p># Comments: 120</p>
+<p>Points: 139</p>
+<p># Comments: 144</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Ivory Coast’s ‘talking drum’ returns to home village after 110 years
+### 7. Iran deliberates Hormuz arrangement amid uncertain prospects with US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss)
+
+---
+
+### 8. Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss)
+
+---
+
+### 9. Ivory Coast’s ‘talking drum’ returns to home village after 110 years
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 Ivory Coast&#039;s &#039;talking drum&#039; returns to home village after 110 years
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss)
-
----
-
-### 8. Drones spotted in Bulgaria and Germany raise concerns of Russian escalation
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The drone incidents in Europe have ignited fears that Moscow&#039;s war on Kyiv is now entangling NATO nations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss)
-
----
-
-### 9. Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police bodycam and CCTV catches Idaho mall shooting as it unfolds
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss)
 
 ---
 
