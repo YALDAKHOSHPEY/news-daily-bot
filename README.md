@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 01:47:18
+**Last Update:** 2026-08-09 02:24:23
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 32</p>
-<p># Comments: 12</p>
+<p>Points: 43</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225676">https://news.ycombinator.com/item?id=49225676</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225139">https://news.ycombinator.com/item?id=49225139</a></p>
-<p>Points: 44</p>
-<p># Comments: 7</p>
+<p>Points: 52</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 
@@ -84,20 +84,33 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 6. Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt
+### 6. Fifa criticises campaign to oust president Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-How we tracked down "The Spider" who was once one of the most-feared men in Syria.
+Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Will Pakistan-Saudi-Turkiye defence pact change US strategy?
+### 7. Car bomb attack rattles Colombia after inauguration of hardline president
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss)
+
+---
+
+### 8. Will Pakistan-Saudi-Turkiye defence pact change US strategy?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Some experts say the deal precipitates a larger strategic shift in Middle East w
 
 ---
 
-### 8. Trump’s Former Lawyer Is Now Attorney General
+### 9. Trump’s Former Lawyer Is Now Attorney General
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Some experts say the deal precipitates a larger strategic shift in Middle East w
 Todd Blanche, President Trump’s former lawyer, is now US attorney general.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss)
-
----
-
-### 9. What are the challenges facing the Mecca agreement?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss)
 
 ---
 
