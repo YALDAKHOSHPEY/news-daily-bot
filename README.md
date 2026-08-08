@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 07:19:28
+**Last Update:** 2026-08-08 07:34:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -98,7 +98,20 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. US Senate passes Russia sanctions that could hurt India and China
+### 7. Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss)
+
+---
+
+### 8. US Senate passes Russia sanctions that could hurt India and China
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ The US Senate approved its strongest move against Russia under Trump.
 
 ---
 
-### 8. Submerged Indonesian village re-emerges as drought lowers water levels
+### 9. Submerged Indonesian village re-emerges as drought lowers water levels
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ The US Senate approved its strongest move against Russia under Trump.
 Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss)
-
----
-
-### 9. US courts clear way for deportations of South Sudan, Myanmar nationals
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss)
 
 ---
 
