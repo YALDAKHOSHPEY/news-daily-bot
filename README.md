@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 11:10:01
+**Last Update:** 2026-08-08 11:36:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)
+### 1. Hardware backdoors in some x86 CPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.harperflow.io/dead-internet">https://www.harperflow.io/dead-internet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219418">https://news.ycombinator.com/item?id=49219418</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/rosenbridge">https://github.com/xoreaxeaxeax/rosenbridge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219508">https://news.ycombinator.com/item?id=49219508</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.harperflow.io/dead-internet](https://www.harperflow.io/dead-internet)
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 48</p>
+<p>Points: 54</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 196</p>
-<p># Comments: 35</p>
+<p>Points: 210</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
