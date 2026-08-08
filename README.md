@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 19:49:42
+**Last Update:** 2026-08-08 20:30:19
 
 **Total News:** 12
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/">https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221947">https://news.ycombinator.com/item?id=49221947</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
 
 ---
 
-### 2. Don't use your phone while you poop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nate.spot/no-phone-while-poop/">https://nate.spot/no-phone-while-poop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221939">https://news.ycombinator.com/item?id=49221939</a></p>
-<p>Points: 142</p>
-<p># Comments: 140</p>
-
-🔗 **Read more:** [https://nate.spot/no-phone-while-poop/](https://nate.spot/no-phone-while-poop/)
-
----
-
-### 3. Gentoo bugzilla closed due AI bot scraper overload
+### 2. Gentoo bugzilla closed due AI bot scraper overload
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 70</p>
-<p># Comments: 27</p>
+<p>Points: 85</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
+
+---
+
+### 3. Triton: DirectX 11 Driver for QEMU
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/">https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221711">https://news.ycombinator.com/item?id=49221711</a></p>
+<p>Points: 33</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 
 ---
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. UNRWA has been with me since birth, I cannot imagine a future without it
+### 7. Opposition MP hurls eggs at Kosovo Prime Minister
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss)
+
+---
+
+### 8. UNRWA has been with me since birth, I cannot imagine a future without it
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The UN body has been part of the lives of millions of Palestinian refugees. Post
 
 ---
 
-### 8. Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria
+### 9. Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The UN body has been part of the lives of millions of Palestinian refugees. Post
 Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss)
-
----
-
-### 9. UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss)
 
 ---
 
