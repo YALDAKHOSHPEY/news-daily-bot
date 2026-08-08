@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 05:56:43
+**Last Update:** 2026-08-08 06:19:51
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm Pulling ColorCopy from the macOS App Store
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/">https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218240">https://news.ycombinator.com/item?id=49218240</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/](https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/)
-
----
-
-### 2. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
+### 1. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 29</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
 ---
 
-### 3. The Nixpkgs core team has disbanded
+### 2. The Nixpkgs core team has disbanded
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 84</p>
-<p># Comments: 28</p>
+<p>Points: 107</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+
+---
+
+### 3. U.S. Department of Energy Launches the Genesis Open Models Initiative
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinator.com/item?id=49216946</a></p>
+<p>Points: 113</p>
+<p># Comments: 46</p>
+
+🔗 **Read more:** [https://genesisopenmodels.anl.gov/](https://genesisopenmodels.anl.gov/)
 
 ---
 
@@ -97,7 +97,20 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. What could the Mecca defence pact mean for the US role in the Middle East?
+### 7. US courts clear way for deportations of South Sudan, Myanmar nationals
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss)
+
+---
+
+### 8. What could the Mecca defence pact mean for the US role in the Middle East?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Analysts say regional partners are seeking alternatives to supplement their secu
 
 ---
 
-### 8. Trump shifts blame to Republicans for waning support from public
+### 9. Trump shifts blame to Republicans for waning support from public
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Analysts say regional partners are seeking alternatives to supplement their secu
 Republican senators are using the summer recess to avoid politically difficult votes.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss)
-
----
-
-### 9. Colombia’s new president takes office vowing to ‘crush’ narco-terrorism
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss)
 
 ---
 
