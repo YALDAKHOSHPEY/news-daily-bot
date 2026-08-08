@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 02:24:23
+**Last Update:** 2026-08-09 02:47:46
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 43</p>
-<p># Comments: 14</p>
+<p>Points: 55</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225676">https://news.ycombinator.com/item?id=49225676</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
 
@@ -51,40 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225139">https://news.ycombinator.com/item?id=49225139</a></p>
-<p>Points: 52</p>
-<p># Comments: 10</p>
+<p>Points: 60</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 
 ---
 
-### 4. Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist
+### 4. Andy Burnham to embark on cost of living tour through the UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.
+No 10 says the prime minister's plans will "give people some room to breathe", but opposition figures accuse him of "hypocrisy".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Widdecombe police reopen investigation into incident at Farage's home, BBC understands
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Counter-terror police investigating the ex-MP's death say they are looking into an "attempted burglary" last year.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fifa criticises campaign to oust president Infantino
+### 5. Fifa criticises campaign to oust president Infantino
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Killed a month after his wedding - why PC Andrew Harper's death touched so many
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
