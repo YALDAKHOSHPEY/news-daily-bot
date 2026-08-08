@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T15:55:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The USSR in 100 Photographs",
+            "description": "<p>Article URL: <a href=\"https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html\">https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221041\">https://news.ycombinator.com/item?id=49221041</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+            "published": "Sat, 08 Aug 2026 12:07:25 +0000",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/\">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220609\">https://news.ycombinator.com/item?id=49220609</a></p>\n<p>Points: 38</p>\n<p># Comments: 40</p>",
+            "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+            "published": "Sat, 08 Aug 2026 10:57:44 +0000",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html\">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220390\">https://news.ycombinator.com/item?id=49220390</a></p>\n<p>Points: 15</p>\n<p># Comments: 22</p>",
+            "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+            "published": "Sat, 08 Aug 2026 10:16:01 +0000",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Simon Levy victims urged to come forward as police accused of 'litany of failures'",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
+            "description": "Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 12:01:17 +0000",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
+            "description": "Brazil international signed on a four-year contract with further one-year option for reported fee of about $101m.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 11:49:27 +0000",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
+            "description": "For Gen Z in India, PM Narendra Modi is trying to become an unlikely friend through late-night Instagram reels.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 11:46:53 +0000",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T15:55:04+03:30"
+        }
+    ]
+}

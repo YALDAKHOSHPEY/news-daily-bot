@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 15:21:46
+**Last Update:** 2026-08-08 15:55:04
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Introduces Leasing Program for iPhones and Other Devices
+### 1. The USSR in 100 Photographs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html">https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221041">https://news.ycombinator.com/item?id=49221041</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
+
+---
+
+### 2. Now we have a timeline of the OpenAI accidental attack against Hugging Face
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
+<p>Points: 38</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
+
+---
+
+### 3. Apple Introduces Leasing Program for iPhones and Other Devices
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 11</p>
-<p># Comments: 14</p>
+<p>Points: 15</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
-
----
-
-### 2. New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 77</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
-
----
-
-### 3. US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220339">https://news.ycombinator.com/item?id=49220339</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
 
 ---
 
@@ -71,7 +71,20 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 5. Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary
+### 5. Simon Levy victims urged to come forward as police accused of 'litany of failures'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 6. Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-How we tracked down "The Spider" who was once one of the most-feared men in Syria.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Yemen’s collapsing healthcare forces the sick to seek alternative medicines
+### 7. Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.
+Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss](https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss)
 
 ---
 
-### 8. How Israel’s occupation fuels resistance
+### 8. Arsenal complete signing of Newcastle midfielder Bruno Guimaraes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel is trapped in a cycle it created.
+Brazil international signed on a four-year contract with further one-year option for reported fee of about $101m.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss)
 
 ---
 
-### 9. Trump’s former personal lawyer narrowly confirmed as US attorney general
+### 9. ‘Hi friends’: Modi’s curious campaign to win over Gen Z
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
+For Gen Z in India, PM Narendra Modi is trying to become an unlikely friend through late-night Instagram reels.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss)
 
 ---
 
