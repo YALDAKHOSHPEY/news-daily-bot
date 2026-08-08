@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 22:36:27
+**Last Update:** 2026-08-08 22:51:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224294">https://news.ycombinator.com/item?id=49224294</a></p>
-<p>Points: 92</p>
-<p># Comments: 44</p>
+<p>Points: 98</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country">https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223845">https://news.ycombinator.com/item?id=49223845</a></p>
-<p>Points: 32</p>
-<p># Comments: 10</p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. The influencers taking on far-right leader Nigel Farage
+### 7. ‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The younger Biden son has addressed his father&#039;s debate performance and the pardon he received after felony convictions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss)
+
+---
+
+### 8. Yemen’s government forces attack Houthis amid renewed shelling of Marib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss)
+
+---
+
+### 9. The influencers taking on far-right leader Nigel Farage
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 The UK media has been accused of giving far-right leader Nigel Farage an easy ride
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss)
-
----
-
-### 8. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss)
-
----
-
-### 9. British Columbia issues evacuation orders ahead of fast-moving wildfires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss)
 
 ---
 
