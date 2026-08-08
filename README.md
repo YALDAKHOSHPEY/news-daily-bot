@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 21:24:30
+**Last Update:** 2026-08-08 21:51:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223475">https://news.ycombinator.com/item?id=49223475</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Points: 35</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://github.com/andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://toonk.io/index.html">https://toonk.io/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223105">https://news.ycombinator.com/item?id=49223105</a></p>
-<p>Points: 3</p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://toonk.io/index.html](https://toonk.io/index.html)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223082">https://news.ycombinator.com/item?id=49223082</a></p>
-<p>Points: 40</p>
-<p># Comments: 8</p>
+<p>Points: 80</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.fastmail.com/blog/fastmail-offers-eu-data-region/](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 
@@ -84,7 +84,7 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 6. Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt
+### 6. Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
+### 7. The influencers taking on far-right leader Nigel Farage
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The UK media has been accused of giving far-right leader Nigel Farage an easy ride
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss)
+
+---
+
+### 8. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Fears increase for life of Hussam Abu Safia detained by Israel amid reports of t
 
 ---
 
-### 8. British Columbia issues evacuation orders ahead of fast-moving wildfires
+### 9. British Columbia issues evacuation orders ahead of fast-moving wildfires
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Fears increase for life of Hussam Abu Safia detained by Israel amid reports of t
 Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss)
-
----
-
-### 9. Serbia and Ukraine pledge closer economic ties, eye free trade deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss)
 
 ---
 
