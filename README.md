@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 06:19:51
+**Last Update:** 2026-08-08 07:19:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 29</p>
-<p># Comments: 1</p>
+<p>Points: 68</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -35,26 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 107</p>
-<p># Comments: 36</p>
+<p>Points: 155</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
 ---
 
-### 3. U.S. Department of Energy Launches the Genesis Open Models Initiative
+### 3. Show HN: Modern C++ Build Tools for Module Feature
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinator.com/item?id=49216946</a></p>
-<p>Points: 113</p>
-<p># Comments: 46</p>
+<p>Anyone like C++'s module features? Feel free to try MCPP and talk with me.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217761">https://news.ycombinator.com/item?id=49217761</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://genesisopenmodels.anl.gov/](https://genesisopenmodels.anl.gov/)
+🔗 **Read more:** [https://github.com/mcpp-community/mcpp](https://github.com/mcpp-community/mcpp)
 
 ---
 
@@ -97,7 +98,33 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. US courts clear way for deportations of South Sudan, Myanmar nationals
+### 7. US Senate passes Russia sanctions that could hurt India and China
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US Senate approved its strongest move against Russia under Trump.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss)
+
+---
+
+### 8. Submerged Indonesian village re-emerges as drought lowers water levels
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss)
+
+---
+
+### 9. US courts clear way for deportations of South Sudan, Myanmar nationals
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss)
-
----
-
-### 8. What could the Mecca defence pact mean for the US role in the Middle East?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss)
-
----
-
-### 9. Trump shifts blame to Republicans for waning support from public
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Republican senators are using the summer recess to avoid politically difficult votes.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss)
 
 ---
 
