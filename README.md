@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 18:49:11
+**Last Update:** 2026-08-08 19:23:50
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/">https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221947">https://news.ycombinator.com/item?id=49221947</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nate.spot/no-phone-while-poop/">https://nate.spot/no-phone-while-poop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221939">https://news.ycombinator.com/item?id=49221939</a></p>
-<p>Points: 62</p>
-<p># Comments: 75</p>
+<p>Points: 97</p>
+<p># Comments: 109</p>
 
 🔗 **Read more:** [https://nate.spot/no-phone-while-poop/](https://nate.spot/no-phone-while-poop/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 32</p>
-<p># Comments: 6</p>
+<p>Points: 47</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
+### 7. Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss)
+
+---
+
+### 8. UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.
 
 ---
 
-### 8. Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani
+### 9. Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.
 In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss)
-
----
-
-### 9. Lionel Messi’s father dies aged 68 after a long illness
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
