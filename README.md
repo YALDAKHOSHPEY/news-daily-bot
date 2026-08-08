@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 20:50:27
+**Last Update:** 2026-08-08 21:24:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by
+### 1. LinkedIn Feed Blocker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/">https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49222993">https://news.ycombinator.com/item?id=49222993</a></p>
-<p>Points: 23</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223475">https://news.ycombinator.com/item?id=49223475</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/](https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/)
+🔗 **Read more:** [https://github.com/andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
 
 ---
 
-### 2. Gentoo bugzilla closed due AI bot scraper overload
+### 2. Wireblast a 100 Gbps packet generator in Go using AF_XDP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 93</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://toonk.io/index.html">https://toonk.io/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223105">https://news.ycombinator.com/item?id=49223105</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
+🔗 **Read more:** [https://toonk.io/index.html](https://toonk.io/index.html)
 
 ---
 
-### 3. Triton: DirectX 11 Driver for QEMU
+### 3. Fastmail offers EU data region
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/">https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221711">https://news.ycombinator.com/item?id=49221711</a></p>
-<p>Points: 46</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223082">https://news.ycombinator.com/item?id=49223082</a></p>
+<p>Points: 40</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
+🔗 **Read more:** [https://www.fastmail.com/blog/fastmail-offers-eu-data-region/](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 
 ---
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Serbia and Ukraine pledge closer economic ties, eye free trade deal
+### 7. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss)
+
+---
+
+### 8. British Columbia issues evacuation orders ahead of fast-moving wildfires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss)
+
+---
+
+### 9. Serbia and Ukraine pledge closer economic ties, eye free trade deal
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss)
-
----
-
-### 8. Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss)
-
----
-
-### 9. Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs&#039; season?
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss)
 
 ---
 
