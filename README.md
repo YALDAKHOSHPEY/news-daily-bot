@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 21:51:51
+**Last Update:** 2026-08-08 22:36:27
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. LinkedIn Feed Blocker
+### 1. Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223475">https://news.ycombinator.com/item?id=49223475</a></p>
-<p>Points: 35</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224294">https://news.ycombinator.com/item?id=49224294</a></p>
+<p>Points: 92</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://github.com/andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
+🔗 **Read more:** [https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
-### 2. Wireblast a 100 Gbps packet generator in Go using AF_XDP
+### 2. TinySol, a tiny solitaire game for DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://toonk.io/index.html">https://toonk.io/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223105">https://news.ycombinator.com/item?id=49223105</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://classicbits.net/coding-and-software/my-software/monosol/">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224020">https://news.ycombinator.com/item?id=49224020</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://toonk.io/index.html](https://toonk.io/index.html)
+🔗 **Read more:** [https://classicbits.net/coding-and-software/my-software/monosol/](https://classicbits.net/coding-and-software/my-software/monosol/)
 
 ---
 
-### 3. Fastmail offers EU data region
+### 3. Amazon Is Creating the Biggest Pollution Source in the Country
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223082">https://news.ycombinator.com/item?id=49223082</a></p>
-<p>Points: 80</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country">https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223845">https://news.ycombinator.com/item?id=49223845</a></p>
+<p>Points: 32</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.fastmail.com/blog/fastmail-offers-eu-data-region/](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+🔗 **Read more:** [https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
 
 ---
 
