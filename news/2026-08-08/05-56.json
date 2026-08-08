@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T05:56:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm Pulling ColorCopy from the macOS App Store",
+            "description": "<p>Article URL: <a href=\"https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/\">https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218240\">https://news.ycombinator.com/item?id=49218240</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/",
+            "published": "Sat, 08 Aug 2026 02:01:44 +0000",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+            "description": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218179\">https://news.ycombinator.com/item?id=49218179</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+            "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Nixpkgs core team has disbanded",
+            "description": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 84</p>\n<p># Comments: 28</p>",
+            "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+            "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police officers investigated over handling of sex offender who murdered two women",
+            "description": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+            "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:56:11 GMT",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+            "description": "No arrests were made at the time and the investigation was closed.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:42:43 GMT",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+            "description": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 01:29:14 +0000",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump shifts blame to Republicans for waning support from public",
+            "description": "Republican senators are using the summer recess to avoid politically difficult votes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 01:28:39 +0000",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
+            "description": "Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 01:15:53 +0000",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T05:56:43+03:30"
+        }
+    ]
+}

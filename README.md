@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 04:21:34
+**Last Update:** 2026-08-08 05:56:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Should AI labs be treated like the owners of dangerous animals?
+### 1. I'm Pulling ColorCopy from the macOS App Store
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals">https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217629">https://news.ycombinator.com/item?id=49217629</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/">https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218240">https://news.ycombinator.com/item?id=49218240</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
+🔗 **Read more:** [https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/](https://www.abeautifulsite.net/posts/im-pulling-colorcopy-from-the-macos-app-store/)
 
 ---
 
-### 2. U.S. Department of Energy Launches the Genesis Open Models Initiative
+### 2. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://genesisopenmodels.anl.gov/">https://genesisopenmodels.anl.gov/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216946">https://news.ycombinator.com/item?id=49216946</a></p>
-<p>Points: 46</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://genesisopenmodels.anl.gov/](https://genesisopenmodels.anl.gov/)
+🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
 ---
 
-### 3. Water system controllers don't belong on the internet, says ex-NSA chief
+### 3. The Nixpkgs core team has disbanded
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
-<p>Points: 108</p>
-<p># Comments: 65</p>
+<p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
+<p>Points: 84</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
+🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
 ---
 
@@ -97,42 +97,42 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. Sudan’s war threatens an ‘entire generation’s’ future, UN warns
+### 7. What could the Mecca defence pact mean for the US role in the Middle East?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.
+Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss)
 
 ---
 
-### 8. Puerto Rico rations water as severe drought leaves reservoirs depleted
+### 8. Trump shifts blame to Republicans for waning support from public
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.
+Republican senators are using the summer recess to avoid politically difficult votes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss)
 
 ---
 
-### 9. US Senate passes sweeping Russian energy sanctions bill amid Ukraine war
+### 9. Colombia’s new president takes office vowing to ‘crush’ narco-terrorism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.
+Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss)
 
 ---
 
