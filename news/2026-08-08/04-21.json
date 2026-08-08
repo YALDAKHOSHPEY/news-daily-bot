@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T04:21:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Should AI labs be treated like the owners of dangerous animals?",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals\">https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217629\">https://news.ycombinator.com/item?id=49217629</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+            "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+            "published": "Sat, 08 Aug 2026 00:03:31 +0000",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+            "description": "<p>Article URL: <a href=\"https://genesisopenmodels.anl.gov/\">https://genesisopenmodels.anl.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216946\">https://news.ycombinator.com/item?id=49216946</a></p>\n<p>Points: 46</p>\n<p># Comments: 16</p>",
+            "url": "https://genesisopenmodels.anl.gov/",
+            "published": "Fri, 07 Aug 2026 22:24:27 +0000",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216362\">https://news.ycombinator.com/item?id=49216362</a></p>\n<p>Points: 108</p>\n<p># Comments: 65</p>",
+            "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+            "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police officers investigated over handling of sex offender who murdered two women",
+            "description": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+            "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:56:11 GMT",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+            "description": "No arrests were made at the time and the investigation was closed.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:42:43 GMT",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+            "description": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 00:24:42 +0000",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
+            "description": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 00:13:53 +0000",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+            "description": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+            "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 00:06:22 +0000",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T04:21:34+03:30"
+        }
+    ]
+}
