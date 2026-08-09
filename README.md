@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 23:49:49
+**Last Update:** 2026-08-10 00:29:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ransomware gangs skip the CEO, head straight for the 40-something IT manager
+### 1. Poland now 6th-largest EU economy, ahead of Switzerland and Belgium
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499">https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234724">https://news.ycombinator.com/item?id=49234724</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium">https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235323">https://news.ycombinator.com/item?id=49235323</a></p>
+<p>Points: 25</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
+
+---
+
+### 2. Deletes all instances of Microsoft's GDID and prevents minting of new ones
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/yegors/deGDID">https://github.com/yegors/deGDID</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235242">https://news.ycombinator.com/item?id=49235242</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/yegors/deGDID](https://github.com/yegors/deGDID)
+
+---
+
+### 3. The tragedy of the commons, AI edition
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235011">https://news.ycombinator.com/item?id=49235011</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
-
----
-
-### 2. How I use LLMs to learn complex topics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234675">https://news.ycombinator.com/item?id=49234675</a></p>
-<p>Points: 65</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
-
----
-
-### 3. A zero-dependency, ultra-lightweight database time machine for SQLite
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/nsrht/time-travel-sqlite-debugger">https://github.com/nsrht/time-travel-sqlite-debugger</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234506">https://news.ycombinator.com/item?id=49234506</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://github.com/nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
+🔗 **Read more:** [https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -97,7 +97,33 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. Israel is ‘trying to make Palestine disappear’: The Elders
+### 7. Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss)
+
+---
+
+### 8. Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+‘We&#039;re going backwards.’
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss)
+
+---
+
+### 9. Israel is ‘trying to make Palestine disappear’: The Elders
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss)
-
----
-
-### 8. Can the Doha Framework end the conflict in eastern DRC?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Kinshasa hands over 15 prisoners to powerful rebel alliance.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss)
-
----
-
-### 9. Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss)
 
 ---
 
