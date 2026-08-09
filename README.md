@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 17:54:06
+**Last Update:** 2026-08-09 18:29:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mea Culpa – Dark Hours
+### 1. An Israeli professor lost a prestigious US job offer after speaking out on Gaza
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota">https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231419">https://news.ycombinator.com/item?id=49231419</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota](https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota)
+
+---
+
+### 2. Mea Culpa – Dark Hours
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 55</p>
-<p># Comments: 20</p>
+<p>Points: 124</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 
 ---
 
-### 2. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
+### 3. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
-
----
-
-### 3. Why Wall Street Is Ignoring Big Tech's Debt
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=NufJ7g63KSY">https://www.youtube.com/watch?v=NufJ7g63KSY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230630">https://news.ycombinator.com/item?id=49230630</a></p>
-<p>Points: 28</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=NufJ7g63KSY](https://www.youtube.com/watch?v=NufJ7g63KSY)
 
 ---
 
@@ -97,42 +97,42 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say
+### 7. Gaza’s children still struggling with hunger as another famine threatens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts warn Israel&#039;s new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.
+Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss](https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss)
 
 ---
 
-### 8. British MotoGP: Raul Fernandez dominates at Silverstone to beat Martin
+### 8. Gaza engineer builds animal shelters out of empty cans
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aprilia rider&#039;s victory over Jorge Martin extends Silverstone’s run of different Grand Prix winners to twelve in a row.
+Gaza engineer builds animal shelters out of empty cans
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/british-motogp-raul-fernandez-dominates-at-silverstone-to-beat-martin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss)
 
 ---
 
-### 9. Why does Iran defeat the empires trying to conquer it?
+### 9. What now as Israel rejects Trump’s 15-point plan for Gaza?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.
+As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss)
 
 ---
 
