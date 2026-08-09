@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 22:39:43
+**Last Update:** 2026-08-09 22:54:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -97,7 +97,33 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. Where does Iran stand on Saudi-Pakistan-Turkiye pact?
+### 7. Can the Doha Framework end the conflict in eastern DRC?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Kinshasa hands over 15 prisoners to powerful rebel alliance.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss)
+
+---
+
+### 8. Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss)
+
+---
+
+### 9. Where does Iran stand on Saudi-Pakistan-Turkiye pact?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss)
-
----
-
-### 8. Jannik Sinner withdraws from Cincinnati Open with knee injury
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Number one ranked player in men&#039;s tennis will miss the tournament due to a knee issue, he says via organisers.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss)
-
----
-
-### 9. Former Iraqi provincial governor arrested as graft crackdown continues
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss)
 
 ---
 
