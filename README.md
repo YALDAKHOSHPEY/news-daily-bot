@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 11:59:57
+**Last Update:** 2026-08-09 12:39:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft Word for Windows 1.1a, Native X64 Port
+### 1. There Are Magic Hexagons of Every Order
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gukov.dev/math/2026/08/02/new-magic-hexagons.html">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229174">https://news.ycombinator.com/item?id=49229174</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gukov.dev/math/2026/08/02/new-magic-hexagons.html](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+
+---
+
+### 2. Microsoft Word for Windows 1.1a, Native X64 Port
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 48</p>
-<p># Comments: 16</p>
+<p>Points: 60</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
 ---
 
-### 2. The original URL for this prediction will no longer be available in 11 years (2011)
+### 3. The original URL for this prediction will no longer be available in 11 years (2011)
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="http://longbets.org/601/">http://longbets.org/601/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
-<p>Points: 127</p>
-<p># Comments: 43</p>
+<p>Points: 137</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [http://longbets.org/601/](http://longbets.org/601/)
 
 ---
 
-### 3. Illinois just told every operating system to start reporting your kid's age
+### 4. Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228350">https://news.ycombinator.com/item?id=49228350</a></p>
-<p>Points: 84</p>
-<p># Comments: 48</p>
+The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.
 
-🔗 **Read more:** [https://itsfoss.com/news/illinois-age-verification-bill/](https://itsfoss.com/news/illinois-age-verification-bill/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Andy Burnham to embark on cost of living tour through the UK
+### 5. Andy Burnham to embark on cost of living tour through the UK
 
 **Source:** BBC
 
@@ -71,20 +84,7 @@ No 10 says the prime minister's plans will "give people some room to breathe", b
 
 ---
 
-### 5. Fifa criticises campaign to oust president Infantino
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Killed a month after his wedding - why PC Andrew Harper's death touched so many
+### 6. Killed a month after his wedding - why PC Andrew Harper's story touched so many
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Saudi Arabia says fire extinguished at Aramco facility in Jizan
+### 7. Women’s Day in South Africa turns 70 with equality still out of reach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss)
+
+---
+
+### 8. Flight cancellations, evacuations as China braces for Typhoon Dolphin
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Over 1,600 flights cancelled as Typhoon Dolphin approaches China&#039;s eastern coast, with winds reaching 162km/h overnight.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss)
+
+---
+
+### 9. Saudi Arabia says fire extinguished at Aramco facility in Jizan
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The early release of two of his killers has brought a case which still resonates
 No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss)
-
----
-
-### 8. Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nagasaki Mayor says ‘humanity and nuclear weapons can&#039;t coexist’ as Japan marks anniversary of the US atomic bombing.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss)
-
----
-
-### 9. World number one Sabalenka upset by Alexandrova at Canadian Open
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss)
 
 ---
 
