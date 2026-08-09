@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 12:39:06
+**Last Update:** 2026-08-09 12:58:50
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 60</p>
+<p>Points: 61</p>
 <p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Women’s Day in South Africa turns 70 with equality still out of reach
+### 7. It won’t be Trump who kills the ICC
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss)
+
+---
+
+### 8. Women’s Day in South Africa turns 70 with equality still out of reach
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The 1956 march transformed women’s rights and political power, but millions st
 
 ---
 
-### 8. Flight cancellations, evacuations as China braces for Typhoon Dolphin
+### 9. Flight cancellations, evacuations as China braces for Typhoon Dolphin
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The 1956 march transformed women’s rights and political power, but millions st
 Over 1,600 flights cancelled as Typhoon Dolphin approaches China&#039;s eastern coast, with winds reaching 162km/h overnight.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss)
-
----
-
-### 9. Saudi Arabia says fire extinguished at Aramco facility in Jizan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss)
 
 ---
 
