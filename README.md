@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 04:24:38
+**Last Update:** 2026-08-09 06:04:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Depression has tripled in the last 15 years. Arthur Brooks about the cause
+### 1. The phone book that led us to Assad's spy chief in hiding
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bigthink.com/series/full-interview/meaning-crisis-brooks/">https://bigthink.com/series/full-interview/meaning-crisis-brooks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226767">https://news.ycombinator.com/item?id=49226767</a></p>
-<p>Points: 17</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+
+---
+
+### 2. The AI Apocalypse Is Here
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227521">https://news.ycombinator.com/item?id=49227521</a></p>
+<p>Points: 19</p>
 <p># Comments: 11</p>
 
-🔗 **Read more:** [https://bigthink.com/series/full-interview/meaning-crisis-brooks/](https://bigthink.com/series/full-interview/meaning-crisis-brooks/)
+🔗 **Read more:** [https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 
 ---
 
-### 2. My server is a phone now
+### 3. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seg6.space/posts/phone-server/">https://seg6.space/posts/phone-server/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226636">https://news.ycombinator.com/item?id=49226636</a></p>
-<p>Points: 41</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
+<p>Points: 51</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://seg6.space/posts/phone-server/](https://seg6.space/posts/phone-server/)
-
----
-
-### 3. Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 77</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
 
 ---
 
@@ -97,7 +97,33 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
+### 7. Israeli settler attacks rise as West Bank residents lose land
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss)
+
+---
+
+### 8. Hungary nominates former Supreme Court chief Andras Baka for presidency
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The early release of two of his killers has brought a case which still resonates
 IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss)
-
----
-
-### 8. Turkiye says Mecca defence pact not aimed at Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss)
-
----
-
-### 9. Vance says US ‘destroyed’ Iran’s nuclear programme
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss)
 
 ---
 
