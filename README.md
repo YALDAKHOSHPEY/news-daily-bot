@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 14:29:43
+**Last Update:** 2026-08-09 14:50:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230066">https://news.ycombinator.com/item?id=49230066</a></p>
-<p>Points: 3</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://portswigger.net/research/css-the-bomb-inside-your-inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://halfhill.com/byte/1998-12_alpha.html">https://halfhill.com/byte/1998-12_alpha.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230022">https://news.ycombinator.com/item?id=49230022</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://halfhill.com/byte/1998-12_alpha.html](https://halfhill.com/byte/1998-12_alpha.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229412">https://news.ycombinator.com/item?id=49229412</a></p>
-<p>Points: 30</p>
-<p># Comments: 8</p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
@@ -97,7 +97,33 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
+### 7. Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss)
+
+---
+
+### 8. Yemeni army warns Houthis after attacks heighten escalation risk
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemeni army warns Houthis after attacks heighten escalation risk
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss)
+
+---
+
+### 9. Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The early release of two of his killers has brought a case which still resonates
 Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss)
-
----
-
-### 8. FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Statement comes after Infantino denies UEFA paid off his alleged lover while he was the body&#039;s general secretary.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss)
-
----
-
-### 9. Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The North African nations become the first teams from the continent to qualify for next year&#039;s World Cup in Brazil.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss)
 
 ---
 
