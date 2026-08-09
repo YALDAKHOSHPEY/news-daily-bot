@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 06:04:10
+**Last Update:** 2026-08-09 06:27:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
 
 ---
 
-### 2. The AI Apocalypse Is Here
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227521">https://news.ycombinator.com/item?id=49227521</a></p>
-<p>Points: 19</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
-
----
-
-### 3. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+### 2. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
-<p>Points: 51</p>
-<p># Comments: 13</p>
+<p>Points: 64</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
+
+---
+
+### 3. Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal">https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226827">https://news.ycombinator.com/item?id=49226827</a></p>
+<p>Points: 25</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)
 
 ---
 
@@ -123,7 +123,7 @@ Andras Baka, a strong advocate for judicial independence, becomes governing part
 
 ---
 
-### 9. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
+### 9. Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks
 
 **Source:** Al Jazeera
 
