@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 01:49:08
+**Last Update:** 2026-08-10 02:27:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Is it all just vapourware?
+### 1. Georgia police officers fired after Flock camera misuse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware">https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235859">https://news.ycombinator.com/item?id=49235859</a></p>
-<p>Points: 65</p>
-<p># Comments: 96</p>
+<p>Article URL: <a href="https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/">https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236033">https://news.ycombinator.com/item?id=49236033</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
+🔗 **Read more:** [https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://tuxedono2.com">https://tuxedono2.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235697">https://news.ycombinator.com/item?id=49235697</a></p>
-<p>Points: 11</p>
+<p>Points: 14</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://tuxedono2.com](https://tuxedono2.com)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235641">https://news.ycombinator.com/item?id=49235641</a></p>
-<p>Points: 26</p>
-<p># Comments: 8</p>
+<p>Points: 32</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 
@@ -71,7 +71,20 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 5. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 5. How Kinahan's hearing unfolded inside the courtroom in Dublin
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ancient Roman shipwreck discovered off Sicily coast
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Italy's culture minister says it is one of the most important underwater archaeological finds in years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss)
 
 ---
 
