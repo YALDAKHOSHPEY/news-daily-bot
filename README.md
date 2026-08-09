@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 06:27:13
+**Last Update:** 2026-08-09 07:44:45
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The phone book that led us to Assad's spy chief in hiding
+### 1. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+
+---
+
+### 2. ChatGPT starts blocking direct requests to copy an author's style
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227718">https://news.ycombinator.com/item?id=49227718</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
+
+---
+
+### 3. The phone book that led us to Assad's spy chief in hiding
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
-
----
-
-### 2. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
-<p>Points: 64</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
-
----
-
-### 3. Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal">https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226827">https://news.ycombinator.com/item?id=49226827</a></p>
-<p>Points: 25</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)
 
 ---
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Israeli settler attacks rise as West Bank residents lose land
+### 7. Helicopter crash kills pilot and crew member amid Utah wildfire battle
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Utah wildfire suppression efforts continued, with containment standing at 24 percent.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss)
+
+---
+
+### 8. Israeli settler attacks rise as West Bank residents lose land
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Palestinians near Bethlehem describe daily settler attacks as violence rises acr
 
 ---
 
-### 8. Hungary nominates former Supreme Court chief Andras Baka for presidency
+### 9. Hungary nominates former Supreme Court chief Andras Baka for presidency
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Palestinians near Bethlehem describe daily settler attacks as violence rises acr
 Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
-
----
-
-### 9. Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss)
 
 ---
 
