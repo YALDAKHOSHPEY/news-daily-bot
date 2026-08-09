@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 18:50:53
+**Last Update:** 2026-08-09 19:25:31
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. John C. Lilly on solid state intelligence and the elimination of man (1978)
+### 1. Taxi drivers rarely die of Alzheimer's
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kibotronics.net/unlisted/lilly-machines/">https://kibotronics.net/unlisted/lilly-machines/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231397">https://news.ycombinator.com/item?id=49231397</a></p>
+<p>Article URL: <a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232253">https://news.ycombinator.com/item?id=49232253</a></p>
 <p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
+
+---
+
+### 2. Silicon Valley misreads science fiction and undermines democracy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232221">https://news.ycombinator.com/item?id=49232221</a></p>
+<p>Points: 20</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+
+---
+
+### 3. Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">https://www.techeblog.com/tom-stanton-supersonic-trebuchet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232110">https://news.ycombinator.com/item?id=49232110</a></p>
+<p>Points: 12</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://kibotronics.net/unlisted/lilly-machines/](https://kibotronics.net/unlisted/lilly-machines/)
-
----
-
-### 2. Mea Culpa – Dark Hours
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 158</p>
-<p># Comments: 66</p>
-
-🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-
----
-
-### 3. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 33</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
+🔗 **Read more:** [https://www.techeblog.com/tom-stanton-supersonic-trebuchet/](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
 
 ---
 
@@ -97,42 +97,81 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. Gaza’s children still struggling with hunger as another famine threatens
+### 7. War on Iran: Phase II: Day 29
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.
+Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss](https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss)
 
 ---
 
-### 8. Gaza engineer builds animal shelters out of empty cans
+### 8. Pentagon urges faster US weapons production amid stockpile concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza engineer builds animal shelters out of empty cans
+US defense industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss)
 
 ---
 
-### 9. What now as Israel rejects Trump’s 15-point plan for Gaza?
+### 9. Concerns mount over integrity of Israel’s upcoming October elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
+Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss)
+
+---
+
+### 10. Wildfire Wrights Spring, Klamath, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
