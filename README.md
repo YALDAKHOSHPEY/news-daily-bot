@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 10:59:52
+**Last Update:** 2026-08-09 11:14:27
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 27</p>
-<p># Comments: 9</p>
+<p>Points: 33</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="http://longbets.org/601/">http://longbets.org/601/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
-<p>Points: 107</p>
-<p># Comments: 26</p>
+<p>Points: 111</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [http://longbets.org/601/](http://longbets.org/601/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228350">https://news.ycombinator.com/item?id=49228350</a></p>
-<p>Points: 66</p>
-<p># Comments: 34</p>
+<p>Points: 76</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://itsfoss.com/news/illinois-age-verification-bill/](https://itsfoss.com/news/illinois-age-verification-bill/)
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Israel announces tender for 627 settler units in occupied West Bank
+### 7. World number one Sabalenka upset by Alexandrova at Canadian Open
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss)
+
+---
+
+### 8. Israel announces tender for 627 settler units in occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ New settlement tender in West Bank deepens Israeli efforts to sever Palestinian 
 
 ---
 
-### 8. Wildfire forces thousands of evacuations in Western Canada
+### 9. Wildfire forces thousands of evacuations in Western Canada
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ New settlement tender in West Bank deepens Israeli efforts to sever Palestinian 
 A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss)
-
----
-
-### 9. Lionel Messi returns to Argentina after father Jorge’s death
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss)
 
 ---
 
