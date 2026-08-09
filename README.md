@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 00:51:24
+**Last Update:** 2026-08-10 01:26:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware">https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235859">https://news.ycombinator.com/item?id=49235859</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 48</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
 
 ---
 
-### 2. I've yet to see any"My AI went rogue and caused us to recognise a workers union
+### 2. Tuxedo No. 2 – Cocktail recipes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mastodon.neilzone.co.uk/@neil/117061512483182546">https://mastodon.neilzone.co.uk/@neil/117061512483182546</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235836">https://news.ycombinator.com/item?id=49235836</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://tuxedono2.com">https://tuxedono2.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235697">https://news.ycombinator.com/item?id=49235697</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://mastodon.neilzone.co.uk/@neil/117061512483182546](https://mastodon.neilzone.co.uk/@neil/117061512483182546)
+🔗 **Read more:** [https://tuxedono2.com](https://tuxedono2.com)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235641">https://news.ycombinator.com/item?id=49235641</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 
