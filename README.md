@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 00:29:57
+**Last Update:** 2026-08-10 00:51:24
 
 **Total News:** 12
 
@@ -10,55 +10,68 @@
 
 ## 📰 Latest News
 
-### 1. Poland now 6th-largest EU economy, ahead of Switzerland and Belgium
+### 1. Is it all just vapourware?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium">https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235323">https://news.ycombinator.com/item?id=49235323</a></p>
-<p>Points: 25</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware">https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235859">https://news.ycombinator.com/item?id=49235859</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
+🔗 **Read more:** [https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
 
 ---
 
-### 2. Deletes all instances of Microsoft's GDID and prevents minting of new ones
+### 2. I've yet to see any"My AI went rogue and caused us to recognise a workers union
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/yegors/deGDID">https://github.com/yegors/deGDID</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235242">https://news.ycombinator.com/item?id=49235242</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://mastodon.neilzone.co.uk/@neil/117061512483182546">https://mastodon.neilzone.co.uk/@neil/117061512483182546</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235836">https://news.ycombinator.com/item?id=49235836</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/yegors/deGDID](https://github.com/yegors/deGDID)
+🔗 **Read more:** [https://mastodon.neilzone.co.uk/@neil/117061512483182546](https://mastodon.neilzone.co.uk/@neil/117061512483182546)
 
 ---
 
-### 3. The tragedy of the commons, AI edition
+### 3. New Zealand lost its music media, and what we're building to replace it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235011">https://news.ycombinator.com/item?id=49235011</a></p>
+<p>Article URL: <a href="https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235641">https://news.ycombinator.com/item?id=49235641</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+🔗 **Read more:** [https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 
 ---
 
-### 4. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 4. Suspected crime boss Daniel Kinahan appears in court after extradition
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 
 ---
 
-### 5. Ancient Roman shipwreck discovered off Sicily coast
+### 6. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 Italy's culture minister says it is one of the most important underwater archaeological finds in years.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How weight-loss medication is changing relationships with alcohol
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
