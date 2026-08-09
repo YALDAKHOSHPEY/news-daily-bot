@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 19:51:44
+**Last Update:** 2026-08-09 20:32:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tech sucks: You have to vote with your wallet, or nothing will change
+### 1. Every fast write moves work somewhere else
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/">https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232570">https://news.ycombinator.com/item?id=49232570</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
+
+---
+
+### 2. Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://alexanderwanyoike.github.io/vibez/">https://alexanderwanyoike.github.io/vibez/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232369">https://news.ycombinator.com/item?id=49232369</a></p>
+<p>Points: 10</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/](https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/)
+🔗 **Read more:** [https://alexanderwanyoike.github.io/vibez/](https://alexanderwanyoike.github.io/vibez/)
 
 ---
 
-### 2. Taxi drivers rarely die of Alzheimer's
+### 3. Criminal Deception in Silicon Valley
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232253">https://news.ycombinator.com/item?id=49232253</a></p>
-<p>Points: 15</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981">https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232318">https://news.ycombinator.com/item?id=49232318</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
-
----
-
-### 3. Silicon Valley misreads science fiction and undermines democracy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232221">https://news.ycombinator.com/item?id=49232221</a></p>
-<p>Points: 43</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+🔗 **Read more:** [https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
 
 ---
 
@@ -71,68 +71,68 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 
 ---
 
-### 5. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
+### 5. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
+Italy's culture minister says it is one of the most important underwater archaeological finds in years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. More areas of UK likely to move into drought as fifth heatwave builds
+### 6. How weight-loss medication is changing relationships with alcohol
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.
+Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UAE extradites alleged international crime boss Daniel Kinahan to Ireland
+### 7. How Israel’s occupation fuels resistance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.
+Israel is trapped in a cycle it created.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss)
 
 ---
 
-### 8. War on Iran: Phase II: Day 29
+### 8. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says the Strait of Hormuz will remain restricted unless the US meets a series of demands.
+Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss](https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss)
 
 ---
 
-### 9. Pentagon urges faster US weapons production amid stockpile concerns
+### 9. Incumbents secure Hawaii primary wins, defying progressive challengers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US defence industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
+Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss)
 
 ---
 
