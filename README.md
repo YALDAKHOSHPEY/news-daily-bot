@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 16:59:01
+**Last Update:** 2026-08-09 17:11:04
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amazon circumvents Gilroy community vote for AI data center
+### 1. Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html">https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231022">https://news.ycombinator.com/item?id=49231022</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
+
+---
+
+### 2. Amazon circumvents Gilroy community vote for AI data center
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230954">https://news.ycombinator.com/item?id=49230954</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
 
 ---
 
-### 2. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
+### 3. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230550">https://news.ycombinator.com/item?id=49230550</a></p>
-<p>Points: 9</p>
-<p># Comments: 6</p>
+<p>Points: 12</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
-
----
-
-### 3. Reviving a four year old reMarkable 2
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230514">https://news.ycombinator.com/item?id=49230514</a></p>
-<p>Points: 25</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 
 ---
 
@@ -133,45 +133,6 @@ Firefighters struggle to battle the growing blaze near Mount Bromo in thick fore
 Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 

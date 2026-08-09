@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-09T17:11:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html\">https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231022\">https://news.ycombinator.com/item?id=49231022</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+            "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+            "published": "Sun, 09 Aug 2026 13:03:49 +0000",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon circumvents Gilroy community vote for AI data center",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window\">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230954\">https://news.ycombinator.com/item?id=49230954</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+            "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+            "published": "Sun, 09 Aug 2026 12:52:10 +0000",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+            "description": "<p>Article URL: <a href=\"https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model\">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230550\">https://news.ycombinator.com/item?id=49230550</a></p>\n<p>Points: 12</p>\n<p># Comments: 10</p>",
+            "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+            "published": "Sun, 09 Aug 2026 11:46:28 +0000",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:12:10 GMT",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:39:18 GMT",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More areas of UK likely to move into drought as fifth heatwave builds",
+            "description": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
+            "url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 03:10:56 GMT",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+            "description": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 13:15:54 +0000",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia closes national park in East Java as wildfire expands",
+            "description": "Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 13:13:46 +0000",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+            "description": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 12:51:34 +0000",
+            "fetched": "2026-08-09T17:11:04+03:30"
+        }
+    ]
+}
