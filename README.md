@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 08:13:30
+**Last Update:** 2026-08-09 09:10:18
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
-<p>Points: 36</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
-
----
-
-### 2. ChatGPT starts blocking direct requests to copy an author's style
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227718">https://news.ycombinator.com/item?id=49227718</a></p>
-<p>Points: 20</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
-
----
-
-### 3. The phone book that led us to Assad's spy chief in hiding
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
-<p>Points: 32</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
-
----
-
-### 4. Andy Burnham to embark on cost of living tour through the UK
+### 1. Andy Burnham to embark on cost of living tour through the UK
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ No 10 says the prime minister's plans will "give people some room to breathe", b
 
 ---
 
-### 5. Fifa criticises campaign to oust president Infantino
+### 2. Fifa criticises campaign to oust president Infantino
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Fifa strongly criticises what it calls a "concerted and ongoing effort" to "unde
 
 ---
 
-### 6. Killed a month after his wedding - why PC Andrew Harper's death touched so many
+### 3. Killed a month after his wedding - why PC Andrew Harper's death touched so many
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Iran seeks way out of ‘neither war nor peace’ stalemate with US
+### 4. Lionel Messi returns to Argentina after father Jorge’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
+Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss)
 
 ---
 
-### 8. Ghana’s cashew apples get a second life
+### 5. Iran issues new demands as Pezeshkian seeks deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.
+Senior Iranian security official sets broader conditions for reopening Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss)
 
 ---
 
-### 9. Helicopter crash kills pilot and crew member amid Utah wildfire battle
+### 6. ‘Very painful’: Joe Biden’s cancer has spread, son Hunter says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Utah wildfire suppression efforts continued, with containment standing at 24 percent.
+Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wrights Spring, Klamath, Oregon
+### 7. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Chan-Hom
+### 8. Tropical Cyclone Chan-Hom
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire BUZZARD, Kern, California
+### 9. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
