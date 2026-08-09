@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 19:25:31
+**Last Update:** 2026-08-09 19:51:44
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Taxi drivers rarely die of Alzheimer's
+### 1. Tech sucks: You have to vote with your wallet, or nothing will change
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/">https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232570">https://news.ycombinator.com/item?id=49232570</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/](https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/)
+
+---
+
+### 2. Taxi drivers rarely die of Alzheimer's
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232253">https://news.ycombinator.com/item?id=49232253</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
 
 ---
 
-### 2. Silicon Valley misreads science fiction and undermines democracy
+### 3. Silicon Valley misreads science fiction and undermines democracy
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232221">https://news.ycombinator.com/item?id=49232221</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 43</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
-
----
-
-### 3. Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">https://www.techeblog.com/tom-stanton-supersonic-trebuchet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232110">https://news.ycombinator.com/item?id=49232110</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.techeblog.com/tom-stanton-supersonic-trebuchet/](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
 
 ---
 
@@ -97,7 +97,20 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. War on Iran: Phase II: Day 29
+### 7. UAE extradites alleged international crime boss Daniel Kinahan to Ireland
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss)
+
+---
+
+### 8. War on Iran: Phase II: Day 29
 
 **Source:** Al Jazeera
 
@@ -110,29 +123,16 @@ Iran says the Strait of Hormuz will remain restricted unless the US meets a seri
 
 ---
 
-### 8. Pentagon urges faster US weapons production amid stockpile concerns
+### 9. Pentagon urges faster US weapons production amid stockpile concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US defense industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
+US defence industry pressed to boost output as munitions shortages raise security concerns amid Middle East tensions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss)
-
----
-
-### 9. Concerns mount over integrity of Israel’s upcoming October elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss)
 
 ---
 
