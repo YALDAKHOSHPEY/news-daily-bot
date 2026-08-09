@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 13:32:52
+**Last Update:** 2026-08-09 13:52:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229412">https://news.ycombinator.com/item?id=49229412</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://gukov.dev/math/2026/08/02/new-magic-hexagons.html">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229174">https://news.ycombinator.com/item?id=49229174</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://gukov.dev/math/2026/08/02/new-magic-hexagons.html](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 72</p>
-<p># Comments: 22</p>
+<p>Points: 77</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
 ---
 
-### 4. Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation
+### 4. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. It won’t be Trump who kills the ICC
+### 7. Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss)
+
+---
+
+### 8. It won’t be Trump who kills the ICC
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ It would be the International Criminal Court’s alleged supporters who refuse t
 
 ---
 
-### 8. Women’s Day in South Africa turns 70 with equality still out of reach
+### 9. Women’s Day in South Africa turns 70 with equality still out of reach
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ It would be the International Criminal Court’s alleged supporters who refuse t
 The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss)
-
----
-
-### 9. Flight cancellations, evacuations as China braces for Typhoon Dolphin
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Over 1,600 flights cancelled as Typhoon Dolphin approaches China&#039;s eastern coast, with winds reaching 162km/h overnight.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss)
 
 ---
 
