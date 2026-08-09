@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 17:11:04
+**Last Update:** 2026-08-09 17:37:30
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
+### 1. Mea Culpa – Dark Hours
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html">https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231022">https://news.ycombinator.com/item?id=49231022</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
+🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 
 ---
 
-### 2. Amazon circumvents Gilroy community vote for AI data center
+### 2. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230954">https://news.ycombinator.com/item?id=49230954</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
 ---
 
-### 3. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
+### 3. Why Wall Street Is Ignoring Big Tech's Debt
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230550">https://news.ycombinator.com/item?id=49230550</a></p>
-<p>Points: 12</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=NufJ7g63KSY">https://www.youtube.com/watch?v=NufJ7g63KSY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230630">https://news.ycombinator.com/item?id=49230630</a></p>
+<p>Points: 27</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
+🔗 **Read more:** [https://www.youtube.com/watch?v=NufJ7g63KSY](https://www.youtube.com/watch?v=NufJ7g63KSY)
 
 ---
 
@@ -97,42 +97,81 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. Netanyahu rejects Trump’s Board of Peace plan for Gaza
+### 7. Why does Iran defeat the empires trying to conquer it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.
+On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss)
 
 ---
 
-### 8. Indonesia closes national park in East Java as wildfire expands
+### 8. Barzani says Iraqi Kurdistan wants peace as regional tensions rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.
+Barzani says Iraqi Kurdistan wants peace as regional tensions rise
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss)
 
 ---
 
-### 9. Israel rejects Donald Trump’s Gaza Board of Peace plan
+### 9. ‘The wealthy poor’: Soaring food prices hurt Iranian families
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
+Iranians from all walks of life struggle under the weight of rising inflation and war pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss](https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss)
+
+---
+
+### 10. Wildfire Wrights Spring, Klamath, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
