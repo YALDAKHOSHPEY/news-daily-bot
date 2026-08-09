@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 15:57:38
+**Last Update:** 2026-08-09 16:59:01
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Reviving a four year old reMarkable 2
+### 1. Amazon circumvents Gilroy community vote for AI data center
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230954">https://news.ycombinator.com/item?id=49230954</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+
+---
+
+### 2. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230550">https://news.ycombinator.com/item?id=49230550</a></p>
+<p>Points: 9</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
+
+---
+
+### 3. Reviving a four year old reMarkable 2
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230514">https://news.ycombinator.com/item?id=49230514</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
-
----
-
-### 2. Everything You Do Is Being Recorded
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/">https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230477">https://news.ycombinator.com/item?id=49230477</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
-
----
-
-### 3. CSS: The bomb inside your inbox
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230066">https://news.ycombinator.com/item?id=49230066</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://portswigger.net/research/css-the-bomb-inside-your-inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 
 ---
 
@@ -84,55 +84,55 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 6. Andy Burnham to embark on cost of living tour through the UK
+### 6. More areas of UK likely to move into drought as fifth heatwave builds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No 10 says the prime minister's plans will "give people some room to breathe", but opposition figures accuse him of "hypocrisy".
+With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Nigeria mass weddings ease financial burden for couples
+### 7. Netanyahu rejects Trump’s Board of Peace plan for Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.
+Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss)
 
 ---
 
-### 8. Which other countries could join the Turkiye-Saudi-Pakistan defence pact?
+### 8. Indonesia closes national park in East Java as wildfire expands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-While Egypt has been floated as a candidate, analysts say Cairo may be wary of defence commitments.
+Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss)
 
 ---
 
-### 9. ‘US and Iran are talking past each other’ in indirect negotiations
+### 9. Israel rejects Donald Trump’s Gaza Board of Peace plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘US and Iran are talking past each other’ in indirect negotiations
+Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss)
 
 ---
 
