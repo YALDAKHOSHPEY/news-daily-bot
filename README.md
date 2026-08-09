@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 20:32:57
+**Last Update:** 2026-08-09 20:51:06
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Every fast write moves work somewhere else
+### 1. Banksy works cost public almost £150k
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cx2vnny7j5zo">https://www.bbc.co.uk/news/articles/cx2vnny7j5zo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232942">https://news.ycombinator.com/item?id=49232942</a></p>
+<p>Points: 8</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2vnny7j5zo](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
+
+---
+
+### 2. FCC moves to ban Lidar-equipped foreign drones from US
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows">https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232857">https://news.ycombinator.com/item?id=49232857</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
+
+---
+
+### 3. Every fast write moves work somewhere else
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
-
----
-
-### 2. Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alexanderwanyoike.github.io/vibez/">https://alexanderwanyoike.github.io/vibez/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232369">https://news.ycombinator.com/item?id=49232369</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://alexanderwanyoike.github.io/vibez/](https://alexanderwanyoike.github.io/vibez/)
-
----
-
-### 3. Criminal Deception in Silicon Valley
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981">https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232318">https://news.ycombinator.com/item?id=49232318</a></p>
-<p>Points: 23</p>
+<p>Points: 13</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
+🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
 
 ---
 
@@ -97,42 +97,42 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. How Israel’s occupation fuels resistance
+### 7. Jannik Sinner withdraws from Cincinnati Open with knee injury
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel is trapped in a cycle it created.
+Number one ranked player in men&#039;s tennis will miss the tournament due to a knee issue, he says via organisers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss)
 
 ---
 
-### 8. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
+### 8. Former Iraqi provincial governor arrested as graft crackdown continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.
+Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss](https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss)
 
 ---
 
-### 9. Incumbents secure Hawaii primary wins, defying progressive challengers
+### 9. Wildfires in Albania and Spain cause hundreds to evacuate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
+Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss)
 
 ---
 
