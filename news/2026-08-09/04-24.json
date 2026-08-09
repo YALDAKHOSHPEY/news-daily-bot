@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T04:24:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+            "description": "<p>Article URL: <a href=\"https://bigthink.com/series/full-interview/meaning-crisis-brooks/\">https://bigthink.com/series/full-interview/meaning-crisis-brooks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226767\">https://news.ycombinator.com/item?id=49226767</a></p>\n<p>Points: 17</p>\n<p># Comments: 11</p>",
+            "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+            "published": "Sat, 08 Aug 2026 23:09:07 +0000",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My server is a phone now",
+            "description": "<p>Article URL: <a href=\"https://seg6.space/posts/phone-server/\">https://seg6.space/posts/phone-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226636\">https://news.ycombinator.com/item?id=49226636</a></p>\n<p>Points: 41</p>\n<p># Comments: 19</p>",
+            "url": "https://seg6.space/posts/phone-server/",
+            "published": "Sat, 08 Aug 2026 22:49:23 +0000",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+            "description": "<p>Article URL: <a href=\"https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/\">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225918\">https://news.ycombinator.com/item?id=49225918</a></p>\n<p>Points: 77</p>\n<p># Comments: 41</p>",
+            "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+            "published": "Sat, 08 Aug 2026 21:07:10 +0000",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa criticises campaign to oust president Infantino",
+            "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 22:06:44 GMT",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+            "description": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:13:35 GMT",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+            "description": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye says Mecca defence pact not aimed at Iran",
+            "description": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 23:59:15 +0000",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
+            "description": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 23:27:55 +0000",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T04:24:38+03:30"
+        }
+    ]
+}
