@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 18:29:36
+**Last Update:** 2026-08-09 18:50:53
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. An Israeli professor lost a prestigious US job offer after speaking out on Gaza
+### 1. John C. Lilly on solid state intelligence and the elimination of man (1978)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota">https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231419">https://news.ycombinator.com/item?id=49231419</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://kibotronics.net/unlisted/lilly-machines/">https://kibotronics.net/unlisted/lilly-machines/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231397">https://news.ycombinator.com/item?id=49231397</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota](https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota)
+🔗 **Read more:** [https://kibotronics.net/unlisted/lilly-machines/](https://kibotronics.net/unlisted/lilly-machines/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 124</p>
-<p># Comments: 53</p>
+<p>Points: 158</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 33</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Israel's PM says its military will not pull-out from Gaza until Hamas is "genuinely" disarmed.
+Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
 
@@ -133,45 +133,6 @@ Gaza engineer builds animal shelters out of empty cans
 As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
