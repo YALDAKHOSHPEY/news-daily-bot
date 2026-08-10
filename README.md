@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 14:11:27
+**Last Update:** 2026-08-10 14:27:29
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Implant – an extension to VS Code that exposes its APIs to coding agents
+### 1. Meta Muse Glimmer – open weights 30B local coding model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49241679">https://news.ycombinator.com/item?id=49241679</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+
+---
+
+### 2. Implant – an extension to VS Code that exposes its APIs to coding agents
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+### 3. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 232</p>
+<p>Points: 235</p>
 <p># Comments: 148</p>
 
 🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
-
----
-
-### 3. Auto mode is now the default in Claude Code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 220</p>
-<p># Comments: 226</p>
-
-🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
 ---
 
