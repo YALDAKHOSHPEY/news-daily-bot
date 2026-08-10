@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 23:17:15
+**Last Update:** 2026-08-10 23:38:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.vectorware.com/blog/simd-on-gpu/">https://www.vectorware.com/blog/simd-on-gpu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247477">https://news.ycombinator.com/item?id=49247477</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Points: 21</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.vectorware.com/blog/simd-on-gpu/](https://www.vectorware.com/blog/simd-on-gpu/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/">https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247461">https://news.ycombinator.com/item?id=49247461</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/riemann-zeta">https://www.anthropic.com/research/riemann-zeta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247070">https://news.ycombinator.com/item?id=49247070</a></p>
-<p>Points: 98</p>
-<p># Comments: 73</p>
+<p>Points: 102</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/riemann-zeta](https://www.anthropic.com/research/riemann-zeta)
 
@@ -97,7 +97,33 @@ It’s been three decades since Tupac was killed, and since then, his reputation
 
 ---
 
-### 7. US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US
+### 7. Russia bars only party opposing war in Ukraine from parliamentary vote
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss)
+
+---
+
+### 8. Trump administration has revoked over 175,000 visas: US State Department
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss)
+
+---
+
+### 9. US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It’s been three decades since Tupac was killed, and since then, his reputation
 US Rep. Nancy Mace clashed with CNN&#039;s Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss)
-
----
-
-### 8. Migrant children go days without food in Ceuta amid asylum crisis
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A surge of migrant children and families remained in makeshift shelters in Ceuta, Spain’s North African enclave.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss)
-
----
-
-### 9. 111 dead after Colombia quakes leave trail of destruction
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss)
 
 ---
 
