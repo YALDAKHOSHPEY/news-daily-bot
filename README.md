@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 10:19:05
+**Last Update:** 2026-08-10 10:39:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 36</p>
-<p># Comments: 15</p>
+<p>Points: 55</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239226">https://news.ycombinator.com/item?id=49239226</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Points: 16</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 137</p>
-<p># Comments: 106</p>
+<p>Points: 146</p>
+<p># Comments: 123</p>
 
 🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
