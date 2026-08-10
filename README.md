@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 08:32:51
+**Last Update:** 2026-08-10 08:45:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nber.org/papers/w35560">https://www.nber.org/papers/w35560</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239095">https://news.ycombinator.com/item?id=49239095</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.nber.org/papers/w35560](https://www.nber.org/papers/w35560)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 35</p>
-<p># Comments: 4</p>
+<p>Points: 55</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
@@ -52,8 +52,8 @@
 <p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238851">https://news.ycombinator.com/item?id=49238851</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.whodunnitai.com/](https://www.whodunnitai.com/)
 
@@ -98,7 +98,20 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 7. Trump names Will Scharf as White House counsel ahead of midterms
+### 7. Wildfires bear down on homes in Canada’s Okanagan region
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss)
+
+---
+
+### 8. Trump names Will Scharf as White House counsel ahead of midterms
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Trump has named White House Staff Secretary Will Scharf as White House counsel, 
 
 ---
 
-### 8. Brazilian player falls into tunnel celebrating goal
+### 9. Brazilian player falls into tunnel celebrating goal
 
 **Source:** Al Jazeera
 
@@ -124,16 +137,42 @@ Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel
 
 ---
 
-### 9. Trump signals shift to economic pressure on Iran over new military strikes
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
