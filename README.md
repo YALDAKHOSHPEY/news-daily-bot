@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 06:09:48
+**Last Update:** 2026-08-10 06:38:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How We Pushed CDC into Postgres
+### 1. What Happened to HackerOne?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.teknogeek.io/posts/what-happened-to-hackerone/">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238561">https://news.ycombinator.com/item?id=49238561</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://blog.teknogeek.io/posts/what-happened-to-hackerone/](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+
+---
+
+### 2. How We Pushed CDC into Postgres
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238050">https://news.ycombinator.com/item?id=49238050</a></p>
-<p>Points: 22</p>
-<p># Comments: 0</p>
+<p>Points: 32</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
 
 ---
 
-### 2. Japanese court overturns Red RAW video patent
+### 3. Japanese court overturns Red RAW video patent
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/">https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237873">https://news.ycombinator.com/item?id=49237873</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
+<p>Points: 46</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
-
----
-
-### 3. The Ambition Project
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.betonit.ai/p/the-ambition-project">https://www.betonit.ai/p/the-ambition-project</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237407">https://news.ycombinator.com/item?id=49237407</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.betonit.ai/p/the-ambition-project](https://www.betonit.ai/p/the-ambition-project)
 
 ---
 
