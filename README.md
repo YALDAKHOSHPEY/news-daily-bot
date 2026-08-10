@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 01:01:47
+**Last Update:** 2026-08-11 01:34:49
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than two-thirds of England now in drought
+### 1. Amazon backs power plant that may become top source of US climate pollution
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
+
+---
+
+### 2. Stop Killing Games: It's time to sue Sony, join us
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.massaschadeconsument.nl/collectieve-acties/playstation/">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249481">https://news.ycombinator.com/item?id=49249481</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.massaschadeconsument.nl/collectieve-acties/playstation/](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
+
+---
+
+### 3. Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linuxstans.com/illinois-hb5511-operating-system-age-verification/">https://linuxstans.com/illinois-hb5511-operating-system-age-verification/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249150">https://news.ycombinator.com/item?id=49249150</a></p>
+<p>Points: 162</p>
+<p># Comments: 162</p>
+
+🔗 **Read more:** [https://linuxstans.com/illinois-hb5511-operating-system-age-verification/](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
+
+---
+
+### 4. More than two-thirds of England now in drought
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and 
 
 ---
 
-### 2. New Forest firefighting to continue overnight as cars abandoned
+### 5. New Forest firefighting to continue overnight as cars abandoned
 
 **Source:** BBC
 
@@ -36,20 +84,46 @@ One woman says she thought her family's car might go up in flames as the fire to
 
 ---
 
-### 3. Record 230 people cross Channel in one small boat
+### 6. Councils to get more powers to stop vape and betting shops, PM announces
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Home Office says it shows the "reckless and dangerous tactics" used by gangs "cramming ever greater numbers on to unseaworthy vessels".
+Prime Minister Andy Burnham said town centres had been "hollowed out" by decades of decline.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Wildfires burn across Indonesia as officials cite El Nino as a cause
+### 7. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss)
+
+---
+
+### 8. Europe braces for another heatwave after record-breaking temperatures
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss)
+
+---
+
+### 9. Wildfires burn across Indonesia as officials cite El Nino as a cause
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Thousands of firefighters and dozens of helicopters battle growing wildfires acr
 
 ---
 
-### 5. Turkiye approves pardon-like bill for thousands of PKK fighters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss)
-
----
-
-### 6. Trump says relationship is good even as Netanyahu rejects Gaza peace plan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump maintains that his relationship with Israel&#039;s PM Benjamin Netanyahu is still good.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss)
-
----
-
-### 7. Tropical Storm 15W
+### 10. Tropical Storm 15W
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Harris, Rosebud, Montana
+### 11. Wildfire Harris, Rosebud, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire WEISER KNOLL, Fremont, Wyoming
+### 12. Wildfire WEISER KNOLL, Fremont, Wyoming
 
 **Source:** NASA
 
