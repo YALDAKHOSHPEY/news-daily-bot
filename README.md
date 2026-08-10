@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 17:21:40
+**Last Update:** 2026-08-10 17:42:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 25</p>
-<p># Comments: 17</p>
+<p>Points: 47</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/">https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243269">https://news.ycombinator.com/item?id=49243269</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
 
@@ -71,20 +71,7 @@ The Home Office says it shows the "reckless and dangerous tactics" used by gangs
 
 ---
 
-### 5. 'Dust devil' spins through London park
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Travelodge staff gave domestic abuser key to his victim's room
+### 5. Travelodge staff gave domestic abuser key to his victim's room
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 7. Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
+### 6. Ex-Cambridge professor Jason Arday cancels live event after plagiarism row
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+One talk by Arday is "cancelled at the request of the speaker" and others are removed from listings.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss)
+
+---
+
+### 8. Why Netanyahu’s ‘coup’ against Gaza plan risks endless war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss)
+
+---
+
+### 9. Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss)
-
----
-
-### 8. Why choosing low-fat dairy is not necessarily better for your health
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss)
-
----
-
-### 9. Nigel Farage vows to deport foreign criminals from UK prisons
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nigel Farage vows to deport foreign criminals from UK prisons
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss)
 
 ---
 
