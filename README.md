@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 23:38:23
+**Last Update:** 2026-08-11 00:01:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rust SIMD on the GPU
+### 1. Attacker Takes over Zoom AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai">https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49248629">https://news.ycombinator.com/item?id=49248629</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai](https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai)
+
+---
+
+### 2. Rust SIMD on the GPU
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.vectorware.com/blog/simd-on-gpu/">https://www.vectorware.com/blog/simd-on-gpu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247477">https://news.ycombinator.com/item?id=49247477</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
+<p>Points: 34</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.vectorware.com/blog/simd-on-gpu/](https://www.vectorware.com/blog/simd-on-gpu/)
 
 ---
 
-### 2. Security Vulnerability in Pioneer Rekordbox
+### 3. Security Vulnerability in Pioneer Rekordbox
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/">https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247461">https://news.ycombinator.com/item?id=49247461</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
-
----
-
-### 3. Learning more about Claude's mathematical capabilities
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/riemann-zeta">https://www.anthropic.com/research/riemann-zeta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247070">https://news.ycombinator.com/item?id=49247070</a></p>
-<p>Points: 102</p>
-<p># Comments: 78</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/riemann-zeta](https://www.anthropic.com/research/riemann-zeta)
 
 ---
 
@@ -84,16 +84,16 @@ The Home Office says it shows the "reckless and dangerous tactics" used by gangs
 
 ---
 
-### 6. 30 years later, a former gang member will stand trial for Tupac's murder
+### 6. Trump signs order to limit childhood vaccines and split MMR shots
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It’s been three decades since Tupac was killed, and since then, his reputation has only grown.
+The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
