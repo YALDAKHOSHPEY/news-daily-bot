@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 16:13:24
+**Last Update:** 2026-08-10 17:21:40
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tail-call optimization in C is relatively recent
+### 1. Mistral Patent for "Code implemented tool calls"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1034703/">https://lwn.net/Articles/1034703/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242297">https://news.ycombinator.com/item?id=49242297</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
+<p>Points: 25</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1034703/](https://lwn.net/Articles/1034703/)
+🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 
 ---
 
-### 2. Because It's Not Fun Enough: why languages fail
+### 2. Defending my own brain against enshittification
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough">https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242245">https://news.ycombinator.com/item?id=49242245</a></p>
-<p>Points: 31</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/">https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243269">https://news.ycombinator.com/item?id=49243269</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)
+🔗 **Read more:** [https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
 
 ---
 
-### 3. A 'bananas' order for 5000 obscure book titles fuels suspicion
+### 3. Resurrecting the SuperH Architecture (2015)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/">https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242213">https://news.ycombinator.com/item?id=49242213</a></p>
-<p>Points: 41</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://lwn.net/Articles/647636/">https://lwn.net/Articles/647636/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243193">https://news.ycombinator.com/item?id=49243193</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/](https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/)
+🔗 **Read more:** [https://lwn.net/Articles/647636/](https://lwn.net/Articles/647636/)
 
 ---
 
@@ -97,59 +97,46 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 7. Taiwan holds military drills to prepare for invasion by China
+### 7. Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Taiwan holds military drills to prepare for invasion by China
+Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss)
 
 ---
 
-### 8. Former MP opens fire in Thailand’s second shooting within days
+### 8. Why choosing low-fat dairy is not necessarily better for your health
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A second shooting has occurred in Thailand within days after a former MP opened fire outside a government office.
+For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss)
 
 ---
 
-### 9. ‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses
+### 9. Nigel Farage vows to deport foreign criminals from UK prisons
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia.
+Nigel Farage vows to deport foreign criminals from UK prisons
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss)
 
 ---
 
-### 11. Tropical Cyclone Chan-Hom
+### 10. Tropical Storm 15W
 
 **Source:** NASA
 
@@ -158,20 +145,33 @@ Natural event: Wildfires
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
 
 ---
 
-### 12. Wildfire BUZZARD, Kern, California
+### 11. Iceberg A76C
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+
+---
+
+### 12. Iceberg D32
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Sea and Lake Ice
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 
