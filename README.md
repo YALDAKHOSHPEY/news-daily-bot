@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 19:19:40
+**Last Update:** 2026-08-10 19:53:40
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Force-Fed by ICE
+### 1. Exploiting System Management Mode with a very long interrupt
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli">https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245071">https://news.ycombinator.com/item?id=49245071</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii">https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245491">https://news.ycombinator.com/item?id=49245491</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli](https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli)
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
 
 ---
 
-### 2. OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300
+### 2. GLP-1 drugs linked to bigger jump in women’s employment than a college degree
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300">https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245062">https://news.ycombinator.com/item?id=49245062</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html">https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245487">https://news.ycombinator.com/item?id=49245487</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300)
+🔗 **Read more:** [https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
 
 ---
 
-### 3. Mars Bar from 1991 found – and it's 20g bigger than today's
+### 3. Show HN: Ante, a coding agent in a single binary that runs offline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c1j1kjy7gewo">https://www.bbc.com/news/articles/c1j1kjy7gewo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245023">https://news.ycombinator.com/item?id=49245023</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/AntigmaLabs/ante">https://github.com/AntigmaLabs/ante</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245437">https://news.ycombinator.com/item?id=49245437</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c1j1kjy7gewo](https://www.bbc.com/news/articles/c1j1kjy7gewo)
+🔗 **Read more:** [https://github.com/AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)
 
 ---
 
@@ -97,81 +97,42 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 
 ---
 
-### 7. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+### 7. Sudan’s army chief holds unannounced talks on national dialogue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Emergency teams are still assessing the impact of the quake that was felt across the region.
+Al-Burhan engaged in discreet consultations aiming to pave the way for a comprehensive Sudanese dialogue conference.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss)
 
 ---
 
-### 8. Indian police attack protesters seeking action over ‘exam irregularities’
+### 8. ‘They need each other’: What’s behind the new Syria-Russia accord?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
+The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss)
 
 ---
 
-### 9. Ben-Gvir posts AI video of starving Palestinian ahead of elections
+### 9. Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ben-Gvir posts AI video of starving Palestinian ahead of elections
+10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss)
-
----
-
-### 10. Tropical Storm 15W
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
-
----
-
-### 11. Iceberg A76C
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
-
----
-
-### 12. Iceberg D32
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss)
 
 ---
 
