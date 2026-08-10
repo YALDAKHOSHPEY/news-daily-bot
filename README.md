@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 18:59:07
+**Last Update:** 2026-08-10 19:19:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas
+### 1. Force-Fed by ICE
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/responsible-ai-infrastructure-texas/">https://openai.com/index/responsible-ai-infrastructure-texas/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49244308">https://news.ycombinator.com/item?id=49244308</a></p>
-<p>Points: 27</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli">https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245071">https://news.ycombinator.com/item?id=49245071</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/responsible-ai-infrastructure-texas/](https://openai.com/index/responsible-ai-infrastructure-texas/)
+🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli](https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli)
 
 ---
 
-### 2. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+### 2. OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878">https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243880">https://news.ycombinator.com/item?id=49243880</a></p>
-<p>Points: 47</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300">https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245062">https://news.ycombinator.com/item?id=49245062</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300)
 
 ---
 
-### 3. Mistral Patent for "Code implemented tool calls"
+### 3. Mars Bar from 1991 found – and it's 20g bigger than today's
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 87</p>
-<p># Comments: 82</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1j1kjy7gewo">https://www.bbc.com/news/articles/c1j1kjy7gewo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245023">https://news.ycombinator.com/item?id=49245023</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1j1kjy7gewo](https://www.bbc.com/news/articles/c1j1kjy7gewo)
 
 ---
 
