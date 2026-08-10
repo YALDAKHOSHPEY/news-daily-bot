@@ -1,73 +1,74 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 06:38:37
+**Last Update:** 2026-08-10 08:32:51
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What Happened to HackerOne?
+### 1. Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.teknogeek.io/posts/what-happened-to-hackerone/">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238561">https://news.ycombinator.com/item?id=49238561</a></p>
-<p>Points: 18</p>
+<p>Article URL: <a href="https://www.nber.org/papers/w35560">https://www.nber.org/papers/w35560</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239095">https://news.ycombinator.com/item?id=49239095</a></p>
+<p>Points: 16</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://blog.teknogeek.io/posts/what-happened-to-hackerone/](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+🔗 **Read more:** [https://www.nber.org/papers/w35560](https://www.nber.org/papers/w35560)
 
 ---
 
-### 2. How We Pushed CDC into Postgres
+### 2. Auto mode is now the default in Claude Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238050">https://news.ycombinator.com/item?id=49238050</a></p>
-<p>Points: 32</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
+<p>Points: 35</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
 ---
 
-### 3. Japanese court overturns Red RAW video patent
+### 3. Show HN: Voice driven murder mystery, Interview AI suspects with your voice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/">https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237873">https://news.ycombinator.com/item?id=49237873</a></p>
-<p>Points: 46</p>
-<p># Comments: 7</p>
+<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238851">https://news.ycombinator.com/item?id=49238851</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
+🔗 **Read more:** [https://www.whodunnitai.com/](https://www.whodunnitai.com/)
 
 ---
 
-### 4. Suspected crime boss Daniel Kinahan appears in court after extradition
+### 4. Travelodge staff gave domestic abuser key to his victim's room
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
+A woman tells the BBC her attacker kicked her hotel room door "off its hinges" after reception gave him the key.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,94 +85,55 @@ The prime minister is embarking on a UK tour with a series of announcements aime
 
 ---
 
-### 6. Evidence that South African special forces murdered top detective shared with BBC
+### 6. Suspected crime boss Daniel Kinahan appears in court after extradition
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.
+The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition
+### 7. Trump names Will Scharf as White House counsel ahead of midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.
+Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss)
 
 ---
 
-### 8. Houthis launch fresh ballistic missile and drone attacks on al-Makha port
+### 8. Brazilian player falls into tunnel celebrating goal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
+Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss)
 
 ---
 
-### 9. Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?
+### 9. Trump signals shift to economic pressure on Iran over new military strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.
+US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss)
 
 ---
 
