@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 19:53:40
+**Last Update:** 2026-08-10 20:12:22
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -97,7 +97,33 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 
 ---
 
-### 7. Sudan’s army chief holds unannounced talks on national dialogue
+### 7. DRC’s Ebola outbreak began months before it was officially declared, says WHO
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss)
+
+---
+
+### 8. ‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Netanyahu&#039;s declaration has reinforced doubts of lasting calm without Israeli withdrawal, reconstruction and guarantees.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss](https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss)
+
+---
+
+### 9. Sudan’s army chief holds unannounced talks on national dialogue
 
 **Source:** Al Jazeera
 
@@ -110,29 +136,42 @@ Al-Burhan engaged in discreet consultations aiming to pave the way for a compreh
 
 ---
 
-### 8. ‘They need each other’: What’s behind the new Syria-Russia accord?
+### 10. Tropical Storm 15W
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-The Syrian-Russian agreement reflects a pragmatic approach redefining past alliances amid shifting geopolitics.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
 
 ---
 
-### 9. Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter
+### 11. Iceberg A76C
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+
+---
+
+### 12. Iceberg D32
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Sea and Lake Ice
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 
