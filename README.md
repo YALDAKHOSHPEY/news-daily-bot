@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 17:42:56
+**Last Update:** 2026-08-10 18:59:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mistral Patent for "Code implemented tool calls"
+### 1. OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/responsible-ai-infrastructure-texas/">https://openai.com/index/responsible-ai-infrastructure-texas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49244308">https://news.ycombinator.com/item?id=49244308</a></p>
+<p>Points: 27</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://openai.com/index/responsible-ai-infrastructure-texas/](https://openai.com/index/responsible-ai-infrastructure-texas/)
+
+---
+
+### 2. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878">https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243880">https://news.ycombinator.com/item?id=49243880</a></p>
+<p>Points: 47</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+
+---
+
+### 3. Mistral Patent for "Code implemented tool calls"
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 47</p>
-<p># Comments: 37</p>
+<p>Points: 87</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
-
----
-
-### 2. Defending my own brain against enshittification
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/">https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243269">https://news.ycombinator.com/item?id=49243269</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
-
----
-
-### 3. Resurrecting the SuperH Architecture (2015)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/647636/">https://lwn.net/Articles/647636/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243193">https://news.ycombinator.com/item?id=49243193</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://lwn.net/Articles/647636/](https://lwn.net/Articles/647636/)
 
 ---
 
@@ -84,55 +84,55 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 6. Ex-Cambridge professor Jason Arday cancels live event after plagiarism row
+### 6. Consortium including Jeff Bezos advances talks for stake in Liverpool FC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One talk by Arday is "cancelled at the request of the speaker" and others are removed from listings.
+A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
+### 7. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
+Emergency teams are still assessing the impact of the quake that was felt across the region.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss)
 
 ---
 
-### 8. Why Netanyahu’s ‘coup’ against Gaza plan risks endless war
+### 8. Indian police attack protesters seeking action over ‘exam irregularities’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.
+Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss)
 
 ---
 
-### 9. Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
+### 9. Ben-Gvir posts AI video of starving Palestinian ahead of elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
+Ben-Gvir posts AI video of starving Palestinian ahead of elections
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss)
 
 ---
 
