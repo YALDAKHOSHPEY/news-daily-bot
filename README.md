@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 14:27:29
+**Last Update:** 2026-08-10 15:14:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49241679">https://news.ycombinator.com/item?id=49241679</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 142</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 
 ---
 
-### 2. Implant – an extension to VS Code that exposes its APIs to coding agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant">https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49241303">https://news.ycombinator.com/item?id=49241303</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant](https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant)
-
----
-
-### 3. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+### 2. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 235</p>
-<p># Comments: 148</p>
+<p>Points: 273</p>
+<p># Comments: 155</p>
 
 🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
+
+---
+
+### 3. Auto mode is now the default in Claude Code
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
+<p>Points: 232</p>
+<p># Comments: 235</p>
+
+🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
 ---
 
@@ -65,13 +65,26 @@
 **Category:** world
 
 **Description:**
-The 230 people on one boat breaks the previous record from July, which was 165 on a vessel.
+A photograph taken near the French coast shows migrants packed into the inflatable small boat.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Travelodge staff gave domestic abuser key to his victim's room
+### 5. 'Dust devil' spins through London park
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Travelodge staff gave domestic abuser key to his victim's room
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 6. Thames Water gave finance boss a £1m signing-on fee
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. June and July hottest on record in Western Europe, monitor says
+### 7. UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.
+As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss)
 
 ---
 
-### 8. UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
+### 8. Protesters rally in India’s Jharkhand over alleged exam irregularities
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three confederations release letter criticising FIFA&#039;s president over his proposal to sell off stakes in the World Cup.
+Demonstrators in Ranchi demand an overhaul of ‌the state&#039;s examination system.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss)
 
 ---
 
-### 9. One year on, Gaza mourns journalist Anas al-Sharif’s death
+### 9. Remembering Anas, Mohammed and Gaza’s other slain journalists
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilian lives.
+Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they&#039;ve paid a heavy price.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss)
 
 ---
 
