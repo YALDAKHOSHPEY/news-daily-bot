@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 01:56:18
+**Last Update:** 2026-08-11 02:34:17
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Claude marks AI-generated content
+### 1. Google Search Is Dying. What Comes Next Is Worse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content">https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250109">https://news.ycombinator.com/item?id=49250109</a></p>
-<p>Points: 35</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">https://news.ycombinator.com/item?id=49250836</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
-
----
-
-### 2. We cut a 40-day financial integration down to 5 days using Google Anti
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313">https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249986">https://news.ycombinator.com/item?id=49249986</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)
+🔗 **Read more:** [https://thewalrus.ca/google-search-is-dying/](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
-### 3. Amazon backs power plant that may become top source of US climate pollution
+### 2. Amazon backs power plant that may become top source of US climate pollution
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 48</p>
-<p># Comments: 26</p>
+<p>Points: 83</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
+
+---
+
+### 3. Confessions of a Long-Distance Sailor
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https://news.ycombinator.com/item?id=49249555</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://arachnoid.com/lutusp/sailbook.html](https://arachnoid.com/lutusp/sailbook.html)
 
 ---
 
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
+### 7. Al Jazeera reporter on the ground as Colombia quake death toll rises
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss)
+
+---
+
+### 8. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Colombia’s newly inaugurated president announced to lead emergency rescue effo
 
 ---
 
-### 8. Europe braces for another heatwave after record-breaking temperatures
+### 9. Europe braces for another heatwave after record-breaking temperatures
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Colombia’s newly inaugurated president announced to lead emergency rescue effo
 Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss)
-
----
-
-### 9. Wildfires burn across Indonesia as officials cite El Nino as a cause
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss)
 
 ---
 
