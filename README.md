@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 03:26:13
+**Last Update:** 2026-08-10 04:26:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html">https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236541">https://news.ycombinator.com/item?id=49236541</a></p>
-<p>Points: 18</p>
-<p># Comments: 9</p>
+<p>Points: 28</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986">https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236439">https://news.ycombinator.com/item?id=49236439</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 34</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/">https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236033">https://news.ycombinator.com/item?id=49236033</a></p>
-<p>Points: 50</p>
-<p># Comments: 15</p>
+<p>Points: 69</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
 
@@ -97,7 +97,33 @@ The prime minister is embarking on a UK tour with a series of announcements aime
 
 ---
 
-### 7. F-16s intercept two aircraft near Trump’s New Jersey golf club
+### 7. Houthis renew missile and drone attacks on Yemen’s port of al-Makha
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss)
+
+---
+
+### 8. Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss)
+
+---
+
+### 9. F-16s intercept two aircraft near Trump’s New Jersey golf club
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The prime minister is embarking on a UK tour with a series of announcements aime
 F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss)
-
----
-
-### 8. Union reports 108 attacks on Palestinian journalists in July
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss)
-
----
-
-### 9. What’s driving unrest in Pakistan-administered Kashmir?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera&#039;s Ava Warriner explains.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss)
 
 ---
 
