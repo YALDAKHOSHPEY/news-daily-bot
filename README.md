@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 13:54:04
+**Last Update:** 2026-08-11 14:11:07
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255496">https://news.ycombinator.com/item?id=49255496</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 149</p>
-<p># Comments: 96</p>
+<p>Points: 159</p>
+<p># Comments: 102</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
@@ -52,7 +52,7 @@
 <p>Article URL: <a href="https://doi.org/10.1016/j.watres.2026.125866">https://doi.org/10.1016/j.watres.2026.125866</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254351">https://news.ycombinator.com/item?id=49254351</a></p>
 <p>Points: 15</p>
-<p># Comments: 5</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://doi.org/10.1016/j.watres.2026.125866](https://doi.org/10.1016/j.watres.2026.125866)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.
+The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss)
 
