@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 12:57:32
+**Last Update:** 2026-08-11 13:20:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 59</p>
-<p># Comments: 16</p>
+<p>Points: 96</p>
+<p># Comments: 57</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://doi.org/10.1016/j.watres.2026.125866">https://doi.org/10.1016/j.watres.2026.125866</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254351">https://news.ycombinator.com/item?id=49254351</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://doi.org/10.1016/j.watres.2026.125866](https://doi.org/10.1016/j.watres.2026.125866)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
-<p>Points: 41</p>
-<p># Comments: 32</p>
+<p>Points: 44</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
 
@@ -71,14 +71,14 @@ The US president was moved from the old Air Force One to a military plane as he 
 
 ---
 
-### 5. Amber heat health alerts in place for almost all of England as next heatwave hits
+### 5. Amber Met Office extreme heat warning issued as temperatures could reach 38C
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.
+An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Rescue efforts intensify as quake devastates western Colombia towns
+### 7. Israeli settler violence is ‘clear state terrorism’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settler violence is ‘clear state terrorism’
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss)
+
+---
+
+### 8. Rescue efforts intensify as quake devastates western Colombia towns
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rescue teams rush to find survivors as western Colombia grapples with deadly ear
 
 ---
 
-### 8. Swiatek to face Svitolina in Canadian Open semifinal
+### 9. Swiatek to face Svitolina in Canadian Open semifinal
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rescue teams rush to find survivors as western Colombia grapples with deadly ear
 Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss)
-
----
-
-### 9. What to know about the US primaries in Connecticut, Vermont, and Alabama
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss)
 
 ---
 
