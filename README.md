@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 08:27:28
+**Last Update:** 2026-08-11 09:21:29
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Updated GPG Key for Signing Firefox and Thunderbird Releases
+### 1. Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
+
+---
+
+### 2. Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/">https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253329">https://news.ycombinator.com/item?id=49253329</a></p>
+<p>Points: 22</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
+
+---
+
+### 3. Updated GPG Key for Signing Firefox and Thunderbird Releases
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/">https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253250">https://news.ycombinator.com/item?id=49253250</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
-
----
-
-### 2. Why My Father Is Wrong: A Defense of Guitar Hero
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/">https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253176">https://news.ycombinator.com/item?id=49253176</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)
-
----
-
-### 3. Hyperspace
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
-<p>Points: 29</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
 
 ---
 
@@ -97,42 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Huge fire breaks out at Libya’s Zawiya refinery after drone attack
+### 7. Somali referee arrives for UEFA Super Cup after World Cup exclusion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National oil company warns it may halt operations at the country&#039;s largest operating refinery if drone attacks continue.
+Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss)
 
 ---
 
-### 8. China’s Long March 7A rocket explodes after lift-off
+### 8. Family watches helplessly as Colombia quake destroys home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.
+A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
 
 ---
 
-### 9. Fire rages after drone strikes Libya’s largest oil refinery
+### 9. Trump’s media company reports $238m loss
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.
+Trump Media &amp; Technology Group earns less than $2m in Q2.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss)
 
 ---
 
