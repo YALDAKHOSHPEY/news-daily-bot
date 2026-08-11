@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 15:35:40
+**Last Update:** 2026-08-11 16:09:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Panic of 1873
+### 1. OpenAI's Only Ethicist Reportedly Left Last Month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Panic_of_1873">https://en.wikipedia.org/wiki/Panic_of_1873</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255918">https://news.ycombinator.com/item?id=49255918</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Panic_of_1873](https://en.wikipedia.org/wiki/Panic_of_1873)
+🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://rapha.land/closing-canario-terminal-source-code/">https://rapha.land/closing-canario-terminal-source-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254881">https://news.ycombinator.com/item?id=49254881</a></p>
-<p>Points: 11</p>
-<p># Comments: 10</p>
+<p>Points: 18</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://rapha.land/closing-canario-terminal-source-code/](https://rapha.land/closing-canario-terminal-source-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 329</p>
-<p># Comments: 202</p>
+<p>Points: 429</p>
+<p># Comments: 263</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
@@ -84,55 +84,55 @@ An amber weather warning for extreme heat has been issued for Thursday, when ext
 
 ---
 
-### 6. Councils to get more powers to stop vape and betting shops, PM announces
+### 6. Eclipse chasers scramble for glasses as stocks run low
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham said town centres had been "hollowed out" by decades of decline.
+Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
+### 7. Final phase of voting in Pakistan-administered Kashmir, despite security fe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
+Final phase of voting in Pakistan-administered Kashmir, despite security fears
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss)
 
 ---
 
-### 8. Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out
+### 8. What to watch in Wisconsin’s high-stakes primary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.
+US Democrats face another test after Michigan as voters choose nominees for governor and Congress.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss)
 
 ---
 
-### 9. Palestine weekly: Netanyahu hedges on Gaza roadmap
+### 9. Syrian court sentences Bashar al-Assad to death in absentia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.
+Syrian court sentences Bashar al-Assad to death in absentia
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss)
 
 ---
 
