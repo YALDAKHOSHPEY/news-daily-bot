@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 11:14:11
+**Last Update:** 2026-08-11 11:32:45
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
-<p>Points: 64</p>
-<p># Comments: 44</p>
+<p>Points: 65</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
-<p>Points: 51</p>
-<p># Comments: 21</p>
+<p>Points: 53</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
 
 ---
 
-### 4. Amber heat health alerts for almost all of England as next heatwave begins
+### 4. Amber heat health alerts in place for almost all of England as next heatwave hits
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.
+The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ More than 480 people were injured in the quakes, with more feared trapped under 
 
 ---
 
-### 7. Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’
+### 7. Mass grave with 25 bodies found in Sudan’s Kurmuk after army retakes town
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Officials accuse the Rapid Support Forces of carrying out the killings, saying grave held remains of children and women.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town?traffic_source=rss)
+
+---
+
+### 8. Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump&#039;s comments are the first time he has spoken in FIFA president&#039;s 
 
 ---
 
-### 8. Russian attacks kill six in Ukraine’s Zaporizhzhia
+### 9. Russian attacks kill six in Ukraine’s Zaporizhzhia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump&#039;s comments are the first time he has spoken in FIFA president&#039;s 
 A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss)
-
----
-
-### 9. Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss)
 
 ---
 
