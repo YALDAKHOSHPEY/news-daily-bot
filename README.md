@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 06:03:03
+**Last Update:** 2026-08-11 06:30:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chicken Scheme 6.0
+### 1. Gulf States Accept a New Normal in Hormuz: Iran Is in Control
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://code.call-cc.org/releases/6.0.0/NEWS">https://code.call-cc.org/releases/6.0.0/NEWS</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251702">https://news.ycombinator.com/item?id=49251702</a></p>
-<p>Points: 50</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d">https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252748">https://news.ycombinator.com/item?id=49252748</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://code.call-cc.org/releases/6.0.0/NEWS](https://code.call-cc.org/releases/6.0.0/NEWS)
+🔗 **Read more:** [https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d](https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d)
 
 ---
 
-### 2. The UK's War on Anonymity Has Come to America
+### 2. Recycle – Floppydisks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.com/item?id=49251411</a></p>
-<p>Points: 218</p>
-<p># Comments: 137</p>
+<p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.effort.news/uk-lobby](https://www.effort.news/uk-lobby)
+🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
 
 ---
 
-### 3. Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
+### 3. Antirez/h3.c: MiniMax H3 inference engine for Mac computers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://everycube.alen.is/">https://everycube.alen.is/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251179">https://news.ycombinator.com/item?id=49251179</a></p>
-<p>Points: 71</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/antirez/h3.c">https://github.com/antirez/h3.c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252179">https://news.ycombinator.com/item?id=49252179</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://everycube.alen.is/](https://everycube.alen.is/)
+🔗 **Read more:** [https://github.com/antirez/h3.c](https://github.com/antirez/h3.c)
 
 ---
 
@@ -97,7 +97,33 @@ One woman says she thought her family's car might go up in flames as the fire to
 
 ---
 
-### 7. Trump orders fewer childhood vaccinations including splitting up MMR
+### 7. Colombia’s far-right government recognises Israeli claim over Golan Heights
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss)
+
+---
+
+### 8. Trump demands compensation from Iran as talks on Strait of Hormuz continue
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president seeks payment for &#039;50 years&#039; of alleged damages after Iran conditions opening of Hormuz on war reparations.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss)
+
+---
+
+### 9. Trump orders fewer childhood vaccinations including splitting up MMR
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ One woman says she thought her family's car might go up in flames as the fire to
 US President Donald Trump signed an executive order calling for fewer childhood vaccinations and splitting up MMR.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss)
-
----
-
-### 8. Soldiers take cover as Colombia quake flattens military barracks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss)
-
----
-
-### 9. Turkiye passes law giving thousands of PKK members chance at amnesty
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss)
 
 ---
 
