@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 04:25:45
+**Last Update:** 2026-08-11 06:03:03
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The UK's War on Anonymity Has Come to America
+### 1. Chicken Scheme 6.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://code.call-cc.org/releases/6.0.0/NEWS">https://code.call-cc.org/releases/6.0.0/NEWS</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251702">https://news.ycombinator.com/item?id=49251702</a></p>
+<p>Points: 50</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://code.call-cc.org/releases/6.0.0/NEWS](https://code.call-cc.org/releases/6.0.0/NEWS)
+
+---
+
+### 2. The UK's War on Anonymity Has Come to America
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.com/item?id=49251411</a></p>
-<p>Points: 61</p>
-<p># Comments: 11</p>
+<p>Points: 218</p>
+<p># Comments: 137</p>
 
 🔗 **Read more:** [https://www.effort.news/uk-lobby](https://www.effort.news/uk-lobby)
 
 ---
 
-### 2. Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
+### 3. Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
 
 **Source:** Hacker News
 
@@ -35,56 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://everycube.alen.is/">https://everycube.alen.is/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251179">https://news.ycombinator.com/item?id=49251179</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Points: 71</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://everycube.alen.is/](https://everycube.alen.is/)
 
 ---
 
-### 3. World Train Map – 1247 train routes around the world
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://worldtrainmap.com/">https://worldtrainmap.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250894">https://news.ycombinator.com/item?id=49250894</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://worldtrainmap.com/](https://worldtrainmap.com/)
-
----
-
-### 4. More than two-thirds of England now in drought
+### 4. Amber heat health alerts for almost all of England as next heatwave begins
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.
+The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. New Forest firefighting to continue overnight as cars abandoned
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Councils to get more powers to stop vape and betting shops, PM announces
+### 5. Councils to get more powers to stop vape and betting shops, PM announces
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Seventy years after South Africa’s women’s march, the struggle is not over
+### 6. New Forest firefighting to continue overnight as cars abandoned
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
+One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss](https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Can Netanyahu defy Trump on his Gaza peace plan?
+### 7. Trump orders fewer childhood vaccinations including splitting up MMR
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Can Netanyahu risk continuing to defy Trump?
+US President Donald Trump signed an executive order calling for fewer childhood vaccinations and splitting up MMR.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
+### 8. Soldiers take cover as Colombia quake flattens military barracks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said he will seek compensation from Iran for casualties in the war.
+Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss)
+
+---
+
+### 9. Turkiye passes law giving thousands of PKK members chance at amnesty
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss)
 
 ---
 
