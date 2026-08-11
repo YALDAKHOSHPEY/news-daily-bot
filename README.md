@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 01:05:05
+**Last Update:** 2026-08-12 01:40:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Is Solving CTF Challenges in Minutes
+### 1. The 19th-Century Family Fortunes Funding Degrowth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes">https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264578">https://news.ycombinator.com/item?id=49264578</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.effort.news/p4ne">https://www.effort.news/p4ne</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264352">https://news.ycombinator.com/item?id=49264352</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes](https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes)
+🔗 **Read more:** [https://www.effort.news/p4ne](https://www.effort.news/p4ne)
 
 ---
 
-### 2. Wisconsin Tracks Man Across State Line with Flock Cameras to Arrest Him for Weed
+### 2. OpenAI launches ChatGPT desktop app for Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424">https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264273">https://news.ycombinator.com/item?id=49264273</a></p>
-<p>Points: 27</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/">https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264334">https://news.ycombinator.com/item?id=49264334</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424](https://gizmodo.com/wisconsin-cops-tracked-a-man-with-flock-cameras-to-arrest-him-for-weed-2000795424)
+🔗 **Read more:** [https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263658">https://news.ycombinator.com/item?id=49263658</a></p>
-<p>Points: 67</p>
-<p># Comments: 93</p>
+<p>Points: 75</p>
+<p># Comments: 112</p>
 
 🔗 **Read more:** [https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
@@ -97,7 +97,20 @@ The intervention comes after Andy Burnham said he was "confident" the early rele
 
 ---
 
-### 7. Relatives mourn victims of Pakistan avalanche
+### 7. Father and sons forced to manually clear rubble in Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Forced to rely on basic tools, a father and his sons are clearing the rubble of their destroyed home in Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss)
+
+---
+
+### 8. Relatives mourn victims of Pakistan avalanche
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gy
 
 ---
 
-### 8. Pakistan interior minister in Tehran amid talks to reopen Hormuz
+### 9. Pakistan interior minister in Tehran amid talks to reopen Hormuz
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gy
 Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss)
-
----
-
-### 9. In Gaza’s tents, widows face war’s harshest realities alone
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss)
 
 ---
 
