@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 10:16:36
+**Last Update:** 2026-08-11 11:14:11
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Half of Europe's towns and villages have fewer residents than 60 years ago
+### 1. Show HN: Mcptoon – Token-efficient MCP CLI client
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/">https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253813">https://news.ycombinator.com/item?id=49253813</a></p>
-<p>Points: 35</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
+<p>Points: 30</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
+🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
 
 ---
 
-### 2. France Bans Unsolicited Telemarketing Calls
+### 2. Hyperspace
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html">https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253772">https://news.ycombinator.com/item?id=49253772</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
+<p>Points: 64</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html](https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html)
+🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
 
 ---
 
-### 3. DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself
+### 3. Recycle – Floppydisks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253738">https://news.ycombinator.com/item?id=49253738</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
+<p>Points: 51</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)
-
----
-
-### 4. PM asks justice secretary to find way to keep PC Harper's killers in jail
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
 
 ---
 
-### 5. Amber heat health alerts for almost all of England as next heatwave begins
+### 4. Amber heat health alerts for almost all of England as next heatwave begins
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The amber alerts will be in place until Friday evening to cover high and even ex
 
 ---
 
-### 6. Councils to get more powers to stop vape and betting shops, PM announces
+### 5. Councils to get more powers to stop vape and betting shops, PM announces
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
+### 6. At least 132 killed in Colombia's largest  earthquake in years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump&#039;s comments are the first time he has spoken in FIFA president&#039;s defence since FFE plans were leaked on July 28.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss)
+
+---
+
+### 8. Russian attacks kill six in Ukraine’s Zaporizhzhia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss)
+
+---
+
+### 9. Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss)
-
----
-
-### 8. Somali referee arrives for UEFA Super Cup after World Cup exclusion
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss)
-
----
-
-### 9. Family watches helplessly as Colombia quake destroys home
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
 
 ---
 
