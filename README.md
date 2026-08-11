@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 16:09:52
+**Last Update:** 2026-08-11 17:20:38
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's Only Ethicist Reportedly Left Last Month
+### 1. It's time Amazon played by the same rules as everyone else [video]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.youtube.com/watch?v=91DoiansHqk">https://www.youtube.com/watch?v=91DoiansHqk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257601">https://news.ycombinator.com/item?id=49257601</a></p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.youtube.com/watch?v=91DoiansHqk](https://www.youtube.com/watch?v=91DoiansHqk)
+
+---
+
+### 2. England set to be one of the first countries to eliminate hepatitis C
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c75gk620r22o">https://www.bbc.com/news/articles/c75gk620r22o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257377">https://news.ycombinator.com/item?id=49257377</a></p>
+<p>Points: 44</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c75gk620r22o](https://www.bbc.com/news/articles/c75gk620r22o)
+
+---
+
+### 3. OpenAI's Only Ethicist Reportedly Left Last Month
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
-<p>Points: 4</p>
-<p># Comments: 3</p>
+<p>Points: 42</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
-
----
-
-### 2. Closing Canario Terminal source code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rapha.land/closing-canario-terminal-source-code/">https://rapha.land/closing-canario-terminal-source-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254881">https://news.ycombinator.com/item?id=49254881</a></p>
-<p>Points: 18</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://rapha.land/closing-canario-terminal-source-code/](https://rapha.land/closing-canario-terminal-source-code/)
-
----
-
-### 3. France to ban unsolicited telemarketing calls
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 429</p>
-<p># Comments: 263</p>
-
-🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
 ---
 
@@ -97,42 +97,42 @@ Specialist glasses are all but sold out online ahead of the UK's most significan
 
 ---
 
-### 7. Final phase of voting in Pakistan-administered Kashmir, despite security fe
+### 7. Hunter Biden defends Tucker Carlson over Netanyahu comments
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Final phase of voting in Pakistan-administered Kashmir, despite security fears
+Hunter Biden defends Tucker Carlson over Netanyahu comments
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss)
 
 ---
 
-### 8. What to watch in Wisconsin’s high-stakes primary
+### 8. Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Democrats face another test after Michigan as voters choose nominees for governor and Congress.
+Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss)
 
 ---
 
-### 9. Syrian court sentences Bashar al-Assad to death in absentia
+### 9. What to know about the US primary election in Minnesota
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian court sentences Bashar al-Assad to death in absentia
+Immigration is at the centre of another closely watched Democratic Senate race.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss)
 
 ---
 
