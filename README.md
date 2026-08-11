@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 02:01:16
+**Last Update:** 2026-08-12 02:39:46
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Suzanne: AI tool for designing and manufacturing physical products
+### 1. WorldClaw Agentic 3D open-world generation at scale
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265051">https://news.ycombinator.com/item?id=49265051</a></p>
+<p>Points: 26</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+
+---
+
+### 2. pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026">https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265031">https://news.ycombinator.com/item?id=49265031</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+
+---
+
+### 3. Suzanne: AI tool for designing and manufacturing physical products
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.suzanne3d.com/">https://www.suzanne3d.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264755">https://news.ycombinator.com/item?id=49264755</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.suzanne3d.com/](https://www.suzanne3d.com/)
-
----
-
-### 2. Emergent Introspective Awareness in Large Language Models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2601.01828">https://arxiv.org/abs/2601.01828</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264583">https://news.ycombinator.com/item?id=49264583</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2601.01828](https://arxiv.org/abs/2601.01828)
-
----
-
-### 3. The 19th-Century Family Fortunes Funding Degrowth
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.effort.news/p4ne">https://www.effort.news/p4ne</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264352">https://news.ycombinator.com/item?id=49264352</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.effort.news/p4ne](https://www.effort.news/p4ne)
 
 ---
 
