@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 09:42:21
+**Last Update:** 2026-08-11 10:16:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/">https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253813">https://news.ycombinator.com/item?id=49253813</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 35</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
 
 ---
 
-### 2. DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself
+### 2. France Bans Unsolicited Telemarketing Calls
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html">https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253772">https://news.ycombinator.com/item?id=49253772</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html](https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html)
+
+---
+
+### 3. DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253738">https://news.ycombinator.com/item?id=49253738</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)
-
----
-
-### 3. Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
 
 ---
 
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Somali referee arrives for UEFA Super Cup after World Cup exclusion
+### 7. Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss)
+
+---
+
+### 8. Somali referee arrives for UEFA Super Cup after World Cup exclusion
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Somali referee Omar Artan will make history as the first non-European referee to
 
 ---
 
-### 8. Family watches helplessly as Colombia quake destroys home
+### 9. Family watches helplessly as Colombia quake destroys home
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Somali referee Omar Artan will make history as the first non-European referee to
 A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
-
----
-
-### 9. Trump’s media company reports $238m loss
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump Media &amp; Technology Group earns less than $2m in Q2.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss)
 
 ---
 
