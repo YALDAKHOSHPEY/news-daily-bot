@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 03:28:12
+**Last Update:** 2026-08-11 04:25:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. World Train Map – 1247 train routes around the world
+### 1. The UK's War on Anonymity Has Come to America
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.com/item?id=49251411</a></p>
+<p>Points: 61</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.effort.news/uk-lobby](https://www.effort.news/uk-lobby)
+
+---
+
+### 2. Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://everycube.alen.is/">https://everycube.alen.is/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251179">https://news.ycombinator.com/item?id=49251179</a></p>
+<p>Points: 26</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://everycube.alen.is/](https://everycube.alen.is/)
+
+---
+
+### 3. World Train Map – 1247 train routes around the world
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://worldtrainmap.com/">https://worldtrainmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250894">https://news.ycombinator.com/item?id=49250894</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://worldtrainmap.com/](https://worldtrainmap.com/)
-
----
-
-### 2. Google Search Is Dying. What Comes Next Is Worse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">https://news.ycombinator.com/item?id=49250836</a></p>
-<p>Points: 36</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://thewalrus.ca/google-search-is-dying/](https://thewalrus.ca/google-search-is-dying/)
-
----
-
-### 3. Amazon backs power plant that may become top source of US climate pollution
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 130</p>
-<p># Comments: 78</p>
-
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 
 ---
 
@@ -97,42 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Inside a secret launch site for Ukraine’s deep-strike drones
+### 7. Seventy years after South Africa’s women’s march, the struggle is not over
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.
+Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss](https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss)
 
 ---
 
-### 8. Moment of terror as powerful earthquake shakes airport in Colombia
+### 8. Can Netanyahu defy Trump on his Gaza peace plan?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
+Can Netanyahu risk continuing to defy Trump?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss)
 
 ---
 
-### 9. Ceuta mayor calls for migrant detention amid mass influx crisis
+### 9. Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
+US President Donald Trump said he will seek compensation from Iran for casualties in the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss)
 
 ---
 
