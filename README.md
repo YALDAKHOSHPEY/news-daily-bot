@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 21:43:34
+**Last Update:** 2026-08-11 22:16:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The SpaceX Sham
+### 1. OpenSSH 10.5 released, AI assistance now welcome
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/">https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261857">https://news.ycombinator.com/item?id=49261857</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.5">https://www.openssh.org/releasenotes.html#10.5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261895">https://news.ycombinator.com/item?id=49261895</a></p>
+<p>Points: 22</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
-
----
-
-### 2. Woman Pulled over at Gunpoint Twice After Flock Camera Glitch
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261218">https://news.ycombinator.com/item?id=49261218</a></p>
-<p>Points: 100</p>
-<p># Comments: 63</p>
-
-🔗 **Read more:** [https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/)
+🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.5](https://www.openssh.org/releasenotes.html#10.5)
 
 ---
 
-### 3. Why Go Is an Ideal Language for AI-Assisted Software Engineering
+### 2. Why Go Is an Ideal Language for AI-Assisted Software Engineering
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261133">https://news.ycombinator.com/item?id=49261133</a></p>
-<p>Points: 60</p>
-<p># Comments: 48</p>
+<p>Points: 98</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+
+---
+
+### 3. Mojo 1.0 Is Here
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here">https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261128">https://news.ycombinator.com/item?id=49261128</a></p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 
 ---
 
@@ -84,55 +84,55 @@ The PM says the justice secretary will present a plan in September to prevent mo
 
 ---
 
-### 6. Watch: Was Trump smuggled out of Air Force One in a catering truck?
+### 6. Eclipse chasers scramble for glasses as stocks run low
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.
+Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US jury in Luigi Mangione murder trial to remain anonymous
+### 7. Paramount CEO may remove operations from California over stalled merger
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The closely watched state trial over the killing of UnitedHealthcare CEO Brian Thompson is set to begin next month.
+Paramount&#039;s CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss)
 
 ---
 
-### 8. Russia frees ex-US Marine Robert Gilman from detention
+### 8. ‘Justice at last’: Syrians react to Assad death sentence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US government had recently designated Gilman as wrongfully detained.
+Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss)
 
 ---
 
-### 9. Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA
+### 9. South Africa mine collapse kills 14 suspected illegal miners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poland says their preparations to host the Women&#039;s Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.
+At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss)
 
 ---
 
