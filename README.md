@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 22:16:23
+**Last Update:** 2026-08-11 23:01:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.5 released, AI assistance now welcome
+### 1. Making holograms with a pen plotter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.5">https://www.openssh.org/releasenotes.html#10.5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261895">https://news.ycombinator.com/item?id=49261895</a></p>
-<p>Points: 22</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://blog.jordan.matelsky.com/Penplotter-holography/">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262811">https://news.ycombinator.com/item?id=49262811</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.5](https://www.openssh.org/releasenotes.html#10.5)
+🔗 **Read more:** [https://blog.jordan.matelsky.com/Penplotter-holography/](https://blog.jordan.matelsky.com/Penplotter-holography/)
 
 ---
 
-### 2. Why Go Is an Ideal Language for AI-Assisted Software Engineering
+### 2. The Tradeoffs Facing Japan's Economy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261133">https://news.ycombinator.com/item?id=49261133</a></p>
-<p>Points: 98</p>
-<p># Comments: 95</p>
+<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262761">https://news.ycombinator.com/item?id=49262761</a></p>
+<p>Points: 23</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+🔗 **Read more:** [https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
 
 ---
 
-### 3. Mojo 1.0 Is Here
+### 3. How we used to get jobs: A newspaper classifieds story
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here">https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261128">https://news.ycombinator.com/item?id=49261128</a></p>
-<p>Points: 28</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://ironicsans.ghost.io/how-we-used-to-get-jobs/">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262211">https://news.ycombinator.com/item?id=49262211</a></p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
+🔗 **Read more:** [https://ironicsans.ghost.io/how-we-used-to-get-jobs/](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
 
 ---
 
@@ -97,42 +97,42 @@ Specialist glasses are all but sold out online ahead of the UK's most significan
 
 ---
 
-### 7. Paramount CEO may remove operations from California over stalled merger
+### 7. UNESCO says 2.4 million Afghan girls denied access to further education
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Paramount&#039;s CEO David Ellison warns of a California exit if the US state does not agree to talks, according to reports.
+UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss)
 
 ---
 
-### 8. ‘Justice at last’: Syrians react to Assad death sentence
+### 8. Venezuela and Israel restore consular ties as relations warm
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrians gathered to celebrate after a court sentenced ousted President Bashar al-Assad to death in absentia.
+Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss)
 
 ---
 
-### 9. South Africa mine collapse kills 14 suspected illegal miners
+### 9. Tightened blockade on Gaza causes prices to soar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 14 suspected illegal miners were killed and eight injured when a mine dump collapsed in South Africa.
+As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss)
 
 ---
 
