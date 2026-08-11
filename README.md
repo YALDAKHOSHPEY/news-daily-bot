@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 19:53:25
+**Last Update:** 2026-08-11 20:15:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4">https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49260250">https://news.ycombinator.com/item?id=49260250</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Points: 23</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/TheRealYT/git-knife">https://github.com/TheRealYT/git-knife</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259611">https://news.ycombinator.com/item?id=49259611</a></p>
-<p>Points: 46</p>
-<p># Comments: 20</p>
+<p>Points: 52</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://github.com/TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259339">https://news.ycombinator.com/item?id=49259339</a></p>
-<p>Points: 80</p>
-<p># Comments: 19</p>
+<p>Points: 95</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
 
@@ -71,29 +71,29 @@ Only average conditions are needed for the remainder of August to break the reco
 
 ---
 
-### 5. Trump hid in catering truck in secret plane swap over Iran threat, reports say
+### 5. Burnham 'confident' early release of PC Harper's killers can be halted
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.
+The PM says the justice secretary will present a plan in September to prevent more early releases.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Eclipse chasers scramble for glasses as stocks run low
+### 6. Watch: Was Trump smuggled out of Air Force One in a catering truck?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
+US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss)
 
 ---
 
