@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 13:20:38
+**Last Update:** 2026-08-11 13:54:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. France to ban unsolicited telemarketing calls
+### 1. London Underground begins scanning passengers' faces
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255496">https://news.ycombinator.com/item?id=49255496</a></p>
+<p>Points: 9</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
+
+---
+
+### 2. France to ban unsolicited telemarketing calls
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 96</p>
-<p># Comments: 57</p>
+<p>Points: 149</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 
 ---
 
-### 2. The Water Footprint of AI
+### 3. The Water Footprint of AI
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://doi.org/10.1016/j.watres.2026.125866">https://doi.org/10.1016/j.watres.2026.125866</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254351">https://news.ycombinator.com/item?id=49254351</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://doi.org/10.1016/j.watres.2026.125866](https://doi.org/10.1016/j.watres.2026.125866)
 
 ---
 
-### 3. Show HN: Mcptoon – Token-efficient MCP CLI client
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
-<p>Points: 44</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
-
----
-
-### 4. Trump hidden in catering truck in secret plane swap over Iran threat, reports say
+### 4. Trump hid in catering truck in secret plane swap over Iran threat, reports say
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Israeli settler violence is ‘clear state terrorism’
+### 7. Who is Atef Najib, former Syrian official sentenced to death with al-Assad?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settler violence is ‘clear state terrorism’
+Experts say this trial has been a test of Syria’s transitional justice.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss)
 
 ---
 
-### 8. Rescue efforts intensify as quake devastates western Colombia towns
+### 8. Bangladesh and India battle to save cricket series after political turmoil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.
+Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss)
 
 ---
 
-### 9. Swiatek to face Svitolina in Canadian Open semifinal
+### 9. The Global South’s digital future must not belong to Bezos and Musk
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.
+Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss)
 
 ---
 
