@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 00:04:14
+**Last Update:** 2026-08-13 00:41:13
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Zed: Delta
+### 1. Breaking the WAL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
+<p>Points: 17</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
+
+---
+
+### 2. Building Security Agents That Cannot Escape Their Trust Boundary
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cynative.com/blog/agent-trust-boundaries/">https://cynative.com/blog/agent-trust-boundaries/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277437">https://news.ycombinator.com/item?id=49277437</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
+
+---
+
+### 3. Delta
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 167</p>
-<p># Comments: 66</p>
+<p>Points: 215</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
-
----
-
-### 2. Your key to success isn't more luck or hard work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 51</p>
-<p># Comments: 45</p>
-
-🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
-
----
-
-### 3. Reflex (YC W23) Is hiring Growth and GTM Roles
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275465">https://news.ycombinator.com/item?id=49275465</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
 
 ---
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Photos: Solar eclipse plunges parts of Europe into darkness
+### 7. Drone attacks on energy infrastructure deepen Libya’s energy crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
+Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss)
 
 ---
 
-### 8. ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
+### 8. Israeli air strike kills one in northern Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
+Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss)
 
 ---
 
-### 9. Trump reveals Karoline Leavitt to step down as White House press secretary
+### 9. Deadly India landslide kills at least seven in Mumbai
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
+Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss)
 
 ---
 
