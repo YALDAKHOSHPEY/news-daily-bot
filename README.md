@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 15:08:35
+**Last Update:** 2026-08-12 15:35:46
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -24,14 +24,14 @@
 Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
-<p>Points: 63</p>
+<p>Points: 74</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
 
 ---
 
-### 2. Tim Gowers: What sort of maths are LLMs good at?
+### 2. What sort of maths are LLMs good at?
 
 **Source:** Hacker News
 
@@ -40,8 +40,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
-<p>Points: 80</p>
-<p># Comments: 17</p>
+<p>Points: 87</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 
@@ -56,8 +56,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 133</p>
-<p># Comments: 64</p>
+<p>Points: 151</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 
@@ -102,7 +102,20 @@ Journalists and White House staff who were on board the jet were unaware the pre
 
 ---
 
-### 7. Lebanon ends executions: Where does the death penalty still exist in 2026?
+### 7. Putin warns of tit-for-tat seizures of European vessels
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+If European states seize vessels with Russian cargo, Moscow will respond in kind &#039;wherever necessary&#039;, says Putin.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss)
+
+---
+
+### 8. Lebanon ends executions: Where does the death penalty still exist in 2026?
 
 **Source:** Al Jazeera
 
@@ -115,7 +128,7 @@ Three-quarters of the world has abolished the death penalty in law or in practic
 
 ---
 
-### 8. Woman rescued after 36 hours under rubble in Colombia
+### 9. Woman rescued after 36 hours under rubble in Colombia
 
 **Source:** Al Jazeera
 
@@ -125,19 +138,6 @@ Three-quarters of the world has abolished the death penalty in law or in practic
 A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss)
-
----
-
-### 9. Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss)
 
 ---
 
