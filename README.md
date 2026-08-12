@@ -1,60 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 12:30:43
+**Last Update:** 2026-08-12 14:03:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. LinkedIn CringeBot 3000
+### 1. Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cringebot3000.com/">https://www.cringebot3000.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49268564">https://news.ycombinator.com/item?id=49268564</a></p>
-<p>Points: 106</p>
-<p># Comments: 30</p>
+<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source
+- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes
+- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:
+<a href="https://woxi.ad-si.com/docs/comparison/mathematica/" rel="nofollow">https://woxi.ad-si.com/docs/comparison/mathematica/</a>.<p>Conformance is ensured with ~26'000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I'd be particularly interested in feedback on compatibility and missing functionality.
+Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cringebot3000.com/](https://www.cringebot3000.com/)
+🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
 
 ---
 
-### 2. llama.cpp
+### 2. Tim Gowers: What sort of maths are LLMs good at?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
-<p>Points: 190</p>
-<p># Comments: 79</p>
+<p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
+<p>Points: 21</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://llama.app](https://llama.app)
+🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 
 ---
 
-### 3. Dropbox is an obvious PE Target?
+### 3. Facebook is paying controversial creators to produce rage-bait content
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/">https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267818">https://news.ycombinator.com/item?id=49267818</a></p>
-<p>Points: 53</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
+<p>Points: 54</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
+🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 
 ---
 
@@ -71,20 +76,7 @@ With some shops running out of stock, it may be too late to buy eclipse glasses 
 
 ---
 
-### 5. Early release scheme risks more serious crimes, probation chief warns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The chief inspector of probation for England and Wales tells the BBC services are already under "unprecedented pressure".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again
+### 5. Woman attacked by Simon Levy feels betrayed he was allowed to attack more women
 
 **Source:** BBC
 
@@ -97,42 +89,55 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 7. Wildberries under fire: Why is Ukraine targeting a Russian retail giant?
+### 6. Burnham to chair Cobra meeting on extreme heat as temperatures surge again
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.
+The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Clacton by-election: Farage may win the town, but can he win the country?
+### 7. Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reform UK leader is set to claim victory over the seaside town that adores him, but the party&#039;s popularity is in doubt.
+Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss)
 
 ---
 
-### 9. Taiwan’s Foxconn reports 35 percent rise in profit on AI demand
+### 8. ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World&#039;s largest contract electronics maker forecasts strong growth in 2026 amid AI boom.
+A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss)
+
+---
+
+### 9. More than 100 passengers rescued after Indonesia ferry fire
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 100 passengers rescued after Indonesia ferry fire
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss)
 
 ---
 
