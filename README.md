@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 23:25:43
+**Last Update:** 2026-08-13 00:04:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 139</p>
-<p># Comments: 52</p>
+<p>Points: 167</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 44</p>
-<p># Comments: 35</p>
+<p>Points: 51</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Iceland and Spain plunged into darkness during total solar eclipse
+### 7. Photos: Solar eclipse plunges parts of Europe into darkness
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.
+A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss)
 
 ---
 
-### 8. Brazil orders Discord to suspend livestreams after teen’s death
+### 8. ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.
+Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss)
 
 ---
 
-### 9. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
+### 9. Trump reveals Karoline Leavitt to step down as White House press secretary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US official confirmed that the United States expects to complete its pullout by September 30.
+Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss)
 
 ---
 
