@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 08:53:28
+**Last Update:** 2026-08-12 10:21:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Human Is the Loop
+### 1. llama.cpp
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
-<p>Points: 27</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
+<p>Points: 99</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+🔗 **Read more:** [https://llama.app](https://llama.app)
 
 ---
 
-### 2. Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
+### 2. CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
-<p>Points: 85</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://github.com/sgkdev/bad_garbage">https://github.com/sgkdev/bad_garbage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267550">https://news.ycombinator.com/item?id=49267550</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+🔗 **Read more:** [https://github.com/sgkdev/bad_garbage](https://github.com/sgkdev/bad_garbage)
 
 ---
 
-### 3. The lifesaving secret hidden inside a horseshoe crab's blue blood
+### 3. DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266921">https://news.ycombinator.com/item?id=49266921</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267527">https://news.ycombinator.com/item?id=49267527</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+🔗 **Read more:** [https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
 
 ---
 
-### 4. 'Overwhelmed' probation officers warn  of early prison release crime risk
+### 4. Early release scheme risks more serious crimes, probation chief warns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-England and Wales' probation services are already under "unprecedented pressure" - set to increase with the scheme, the chief inspector said.
+The chief inspector of probation for England and Wales tells the BBC services are already under "unprecedented pressure".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain
 
 ---
 
-### 7. Can Trump keep his ‘irritation’ with Netanyahu in check?
+### 7. Why have several nations raised red flags over Indian farm exports?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what&#039;s wrong.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss)
+
+---
+
+### 8. Zelenskyy says Ukraine has sent proposals to US to end war with Russia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss)
+
+---
+
+### 9. Can Trump keep his ‘irritation’ with Netanyahu in check?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain
 Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss)
-
----
-
-### 8. Israeli raids, demolitions continue as UN warns West Bank at breaking point
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss)
-
----
-
-### 9. Did Trump flee an Iranian assassination plot on a catering truck?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss)
 
 ---
 
