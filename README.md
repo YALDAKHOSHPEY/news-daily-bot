@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 01:04:53
+**Last Update:** 2026-08-13 01:38:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Building Security Agents That Cannot Escape Their Trust Boundary
+### 1. Why Can't You Find Canned Sardines?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279013">https://news.ycombinator.com/item?id=49279013</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+
+---
+
+### 2. Breaking the WAL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
+<p>Points: 23</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
+
+---
+
+### 3. Building Security Agents That Cannot Escape Their Trust Boundary
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
-
----
-
-### 2. Delta
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 230</p>
-<p># Comments: 81</p>
-
-🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
-
----
-
-### 3. People who grew up with high economic connectedness earn more
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 79</p>
-<p># Comments: 71</p>
-
-🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 
 ---
 
@@ -84,20 +84,33 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 6. Double killer and rapist given whole life sentence
+### 6. Students wait for A-level, T-level and BTec results
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.
+Another record number of students are expected to secure a place at their first choice of university.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Morocco says working to prevent potential new Ceuta crossings surge
+### 7. Thousands missing after Colombia quake as rescue continues
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands missing after Colombia quake as rescue continues
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss)
+
+---
+
+### 8. Morocco says working to prevent potential new Ceuta crossings surge
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Morocco Interior Ministry says it has increased security along its borders with 
 
 ---
 
-### 8. 11-year-old boy shot by Israeli forces in Gaza
+### 9. 11-year-old boy shot by Israeli forces in Gaza
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Morocco Interior Ministry says it has increased security along its borders with 
 The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss)
-
----
-
-### 9. Drone attacks on energy infrastructure deepen Libya’s energy crisis
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss)
 
 ---
 

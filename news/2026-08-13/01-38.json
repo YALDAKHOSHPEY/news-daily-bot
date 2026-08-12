@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T01:38:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Can't You Find Canned Sardines?",
+            "description": "<p>Article URL: <a href=\"https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279013\">https://news.ycombinator.com/item?id=49279013</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+            "published": "Wed, 12 Aug 2026 21:45:29 +0000",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Breaking the WAL",
+            "description": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 23</p>\n<p># Comments: 25</p>",
+            "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+            "published": "Wed, 12 Aug 2026 20:00:16 +0000",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+            "description": "<p>Article URL: <a href=\"https://cynative.com/blog/agent-trust-boundaries/\">https://cynative.com/blog/agent-trust-boundaries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277437\">https://news.ycombinator.com/item?id=49277437</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://cynative.com/blog/agent-trust-boundaries/",
+            "published": "Wed, 12 Aug 2026 19:29:34 +0000",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Solar eclipse seen over UK skies",
+            "description": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
+            "url": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:46:21 GMT",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Students wait for A-level, T-level and BTec results",
+            "description": "Another record number of students are expected to secure a place at their first choice of university.",
+            "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:26:55 GMT",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands missing after Colombia quake as rescue continues",
+            "description": "Thousands missing after Colombia quake as rescue continues",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:25:08 +0000",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco says working to prevent potential new Ceuta crossings surge",
+            "description": "Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:07:12 +0000",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "11-year-old boy shot by Israeli forces in Gaza",
+            "description": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:06:12 +0000",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T01:38:38+03:30"
+        }
+    ]
+}
