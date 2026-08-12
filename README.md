@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 21:44:13
+**Last Update:** 2026-08-12 22:16:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Reflex (YC W23) Is hiring Growth and GTM Roles
+### 1. Zed: Delta
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
+
+---
+
+### 2. Reflex (YC W23) Is hiring Growth and GTM Roles
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index
+### 3. SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275385">https://news.ycombinator.com/item?id=49275385</a></p>
-<p>Points: 100</p>
-<p># Comments: 50</p>
+<p>Points: 155</p>
+<p># Comments: 112</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
 
 ---
 
-### 3. HTML over WebSockets: real-time SPAs with barely any JavaScript
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275335">https://news.ycombinator.com/item?id=49275335</a></p>
-<p>Points: 24</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
-
----
-
-### 4. Three ways to watch the solar eclipse safely without glasses
+### 4. Major Russian grain export terminals hit in Ukraine Black Sea port attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.
+Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 
 ---
 
-### 7. White House construction project to cost almost $1bn
+### 7. Paramount Skydance mulls CNN sale amid antitrust merger challenge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The White House defended reports it planned to spend nearly $1bn on controversial construction projects.
+Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss)
 
 ---
 
-### 8. Drought exposes Nazi-era warship wrecks beneath the Danube
+### 8. DR Congo Ebola outbreak set to become deadliest on record, WHO warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels
+Outbreak to eclipse West Africa&#039;s Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss)
 
 ---
 
-### 9. Trump remarks on diminishing impact of pro-Israel groups in Congress
+### 9. Lebanese families demand release of detainees held by Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
+Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss)
 
 ---
 
