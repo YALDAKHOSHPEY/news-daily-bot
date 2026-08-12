@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 14:03:05
+**Last Update:** 2026-08-12 14:20:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -24,8 +24,8 @@
 Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
 
@@ -40,8 +40,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
-<p>Points: 21</p>
-<p># Comments: 0</p>
+<p>Points: 40</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 
@@ -56,8 +56,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 54</p>
-<p># Comments: 17</p>
+<p>Points: 85</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 
@@ -76,29 +76,29 @@ With some shops running out of stock, it may be too late to buy eclipse glasses 
 
 ---
 
-### 5. Woman attacked by Simon Levy feels betrayed he was allowed to attack more women
+### 5. Burnham says disposable BBQ ban under consideration
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.
+The PM said the public should not be using single-use grills "at this moment in time" amid wildfire risks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham to chair Cobra meeting on extreme heat as temperatures surge again
+### 6. Trump confirms he switched planes after Nato summit because of possible threat
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken.
+Journalists and White House staff who were on board the jet were unaware the president had left.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
