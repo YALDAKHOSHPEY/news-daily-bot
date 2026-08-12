@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 02:38:42
+**Last Update:** 2026-08-13 02:59:43
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking the WAL
+### 1. I built a browser-native SysEx librarian for 80s/90s synthesizers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bipluk.com/">https://bipluk.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279628">https://news.ycombinator.com/item?id=49279628</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://bipluk.com/](https://bipluk.com/)
+
+---
+
+### 2. Breaking the WAL
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Show HN: Programmable timer web app (for gym workouts or stretching sessions)
+### 3. Show HN: Programmable timer web app (for gym workouts or stretching sessions)
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 <p>Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat). The app counts down the program, beeps, and reads the activities out loud.<p>Two things (I suppose) are special about it:<p>- The timers are “programmable”, so you can freely express your own routines and procedures in a declarative notation.<p>- The app is all static (no backend): the entire program is encoded in the URL and can be bookmarked or shared/transferred via QR-code.<p>You can check it out at <a href="https://timer.jotaen.net" rel="nofollow">https://timer.jotaen.net</a>, optionally with a demo program pre-loaded: <a href="https://timer.jotaen.net/#demo" rel="nofollow">https://timer.jotaen.net/#demo</a>.<p>Source code is at <a href="https://github.com/jotaen/timer" rel="nofollow">https://github.com/jotaen/timer</a>. I’ve also written up a small behind-the-scenes on my blog: <a href="https://www.jotaen.net/SAKxq" rel="nofollow">https://www.jotaen.net/SAKxq</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276673">https://news.ycombinator.com/item?id=49276673</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://timer.jotaen.net](https://timer.jotaen.net)
-
----
-
-### 3. Delta
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 312</p>
-<p># Comments: 102</p>
-
-🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
 ---
 
@@ -134,6 +134,45 @@ The unclassified Pentagon review sheds new light on civilian harm from the US ca
 US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Cristobal
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560)
+
+---
+
+### 11. Tropical Storm 15W
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
+
+---
+
+### 12. Wildfire Harris, Rosebud, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
 
 ---
 
