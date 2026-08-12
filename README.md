@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 23:04:10
+**Last Update:** 2026-08-12 23:25:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 100</p>
-<p># Comments: 30</p>
+<p>Points: 139</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
 ---
 
-### 2. Your Key to Success Isn't More Luck or Hard Work
+### 2. Your key to success isn't more luck or hard work
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 21</p>
-<p># Comments: 16</p>
+<p>Points: 44</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 
@@ -97,7 +97,33 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
+### 7. Iceland and Spain plunged into darkness during total solar eclipse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A total solar eclipse took place in Iceland and Spain as crowds gathered to watch.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/iceland-and-spain-plunged-into-darkness-during-total-solar-eclipse?traffic_source=rss)
+
+---
+
+### 8. Brazil orders Discord to suspend livestreams after teen’s death
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Regulator says Discord failed to protect minors from violence, self-harm, and suicide content.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/brazil-orders-discord-to-suspend-livestreams-after-teens-death?traffic_source=rss)
+
+---
+
+### 9. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The PM wants the public to avoid using single-use grills during the current spel
 A US official confirmed that the United States expects to complete its pullout by September 30.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss)
-
----
-
-### 8. Thousands flee drought in Somalia amid sharp aid decline
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss)
-
----
-
-### 9. Paramount Skydance mulls CNN sale amid antitrust merger challenge
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss)
 
 ---
 
