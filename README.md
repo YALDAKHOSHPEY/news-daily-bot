@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 20:55:36
+**Last Update:** 2026-08-12 21:20:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 
 ---
 
-### 7. Drought exposes Nazi-era warship wrecks beneath the Danube
+### 7. White House construction project to cost almost $1bn
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The White House defended reports it planned to spend nearly $1bn on controversial construction projects.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss)
+
+---
+
+### 8. Drought exposes Nazi-era warship wrecks beneath the Danube
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wre
 
 ---
 
-### 8. Trump remarks on diminishing impact of pro-Israel groups in Congress
+### 9. Trump remarks on diminishing impact of pro-Israel groups in Congress
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wre
 Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss)
-
----
-
-### 9. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Live coverage and text updates from our commentary stream as PSG&#039;s Dembele, Doue and Barcola target more trophies.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss)
 
 ---
 
