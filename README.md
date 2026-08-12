@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 22:16:48
+**Last Update:** 2026-08-12 23:04:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 100</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
 ---
 
-### 2. Reflex (YC W23) Is hiring Growth and GTM Roles
+### 2. Your Key to Success Isn't More Luck or Hard Work
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
+<p>Points: 21</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
+
+---
+
+### 3. Reflex (YC W23) Is hiring Growth and GTM Roles
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-
----
-
-### 3. SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275385">https://news.ycombinator.com/item?id=49275385</a></p>
-<p>Points: 155</p>
-<p># Comments: 112</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
 
 ---
 
@@ -71,20 +71,7 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 5. Ann Widdecombe's loved ones gather for her funeral
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A requiem mass is held for the former MP at Buckfast Abbey in Devon, near her Dartmoor home.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Double killer and rapist given whole life sentence
+### 5. Double killer and rapist given whole life sentence
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 
 ---
 
-### 7. Paramount Skydance mulls CNN sale amid antitrust merger challenge
+### 6. Burnham urges shops not to sell disposable BBQs over wildfire risks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A US official confirmed that the United States expects to complete its pullout by September 30.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss)
+
+---
+
+### 8. Thousands flee drought in Somalia amid sharp aid decline
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss)
+
+---
+
+### 9. Paramount Skydance mulls CNN sale amid antitrust merger challenge
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss)
-
----
-
-### 8. DR Congo Ebola outbreak set to become deadliest on record, WHO warns
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Outbreak to eclipse West Africa&#039;s Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss)
-
----
-
-### 9. Lebanese families demand release of detainees held by Israel
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss)
 
 ---
 
