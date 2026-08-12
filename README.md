@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 14:20:42
+**Last Update:** 2026-08-12 15:08:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -24,7 +24,7 @@
 Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
-<p>Points: 31</p>
+<p>Points: 63</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
@@ -40,8 +40,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
-<p>Points: 40</p>
-<p># Comments: 2</p>
+<p>Points: 80</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 
@@ -56,8 +56,8 @@ Contributions and bug reports are also very welcome: <a href="https://github.com
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 85</p>
-<p># Comments: 29</p>
+<p>Points: 133</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 
@@ -102,7 +102,33 @@ Journalists and White House staff who were on board the jet were unaware the pre
 
 ---
 
-### 7. Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
+### 7. Lebanon ends executions: Where does the death penalty still exist in 2026?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss)
+
+---
+
+### 8. Woman rescued after 36 hours under rubble in Colombia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss)
+
+---
+
+### 9. Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?
 
 **Source:** Al Jazeera
 
@@ -112,32 +138,6 @@ Journalists and White House staff who were on board the jet were unaware the pre
 Iran says Hormuz stays closed until US meets its demands and changes its &#039;behaviour&#039; as global energy prices rise.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss)
-
----
-
-### 8. ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss)
-
----
-
-### 9. More than 100 passengers rescued after Indonesia ferry fire
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than 100 passengers rescued after Indonesia ferry fire
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss)
 
 ---
 
