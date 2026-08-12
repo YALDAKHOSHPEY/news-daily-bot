@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 08:42:39
+**Last Update:** 2026-08-12 08:53:28
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -84,55 +84,55 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 6. More weather records broken as UK heat set to spike again
+### 6. UK to get best eclipse since 1999 as Moon blocks out Sun across Europe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.
+Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump says secret plane switch ‘up to the Secret Service’
+### 7. Can Trump keep his ‘irritation’ with Netanyahu in check?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.
+Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss)
 
 ---
 
-### 8. Drone strikes power station near Libya’s largest oil refinery
+### 8. Israeli raids, demolitions continue as UN warns West Bank at breaking point
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A drone has struck a power station in Libya’s western city of Zawiya
+Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss)
 
 ---
 
-### 9. Russia frees ex-US marine Gilman jailed since 2022
+### 9. Did Trump flee an Iranian assassination plot on a catering truck?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
+New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss)
 
 ---
 
