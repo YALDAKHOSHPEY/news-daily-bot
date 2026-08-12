@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 19:54:38
+**Last Update:** 2026-08-12 20:15:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qwen/Qwen3.8-2.4T-A95B
+### 1. Wednesday, August 12: GitHub, Incident with Pull Requests and Issues
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.githubstatus.com/incidents/76t89hbfb09h">https://www.githubstatus.com/incidents/76t89hbfb09h</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49274894">https://news.ycombinator.com/item?id=49274894</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.githubstatus.com/incidents/76t89hbfb09h](https://www.githubstatus.com/incidents/76t89hbfb09h)
+
+---
+
+### 2. DeepSeek V4 Pro 0813
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4-pro-0813">https://openrouter.ai/deepseek/deepseek-v4-pro-0813</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49274600">https://news.ycombinator.com/item?id=49274600</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4-pro-0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+
+---
+
+### 3. Qwen/Qwen3.8-2.4T-A95B
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273478">https://news.ycombinator.com/item?id=49273478</a></p>
-<p>Points: 108</p>
-<p># Comments: 30</p>
+<p>Points: 135</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-
----
-
-### 2. GiveCampus (YC S15) Is Hiring Engineering Managers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://job-boards.greenhouse.io/givecampus/jobs/4112793009">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273395">https://news.ycombinator.com/item?id=49273395</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://job-boards.greenhouse.io/givecampus/jobs/4112793009](https://job-boards.greenhouse.io/givecampus/jobs/4112793009)
-
----
-
-### 3. Google launches Pixel 11 Pro Fold
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273330">https://news.ycombinator.com/item?id=49273330</a></p>
-<p>Points: 15</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/](https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/)
 
 ---
 
@@ -97,7 +97,20 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
+### 7. Trump remarks on diminishing impact of pro-Israel groups in Congress
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss)
+
+---
+
+### 8. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Live coverage and text updates from our commentary stream as PSG&#039;s Dembele,
 
 ---
 
-### 8. Europe prepares for first total solar eclipse in 27 years
+### 9. Europe prepares for first total solar eclipse in 27 years
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Live coverage and text updates from our commentary stream as PSG&#039;s Dembele,
 Europe is gearing up for its first total solar eclipse in 27 years.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss)
-
----
-
-### 9. Colombia declares three days of mourning after deadly earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss)
 
 ---
 
