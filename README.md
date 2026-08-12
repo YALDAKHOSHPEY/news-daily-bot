@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 17:24:36
+**Last Update:** 2026-08-12 17:43:42
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49271126">https://news.ycombinator.com/item?id=49271126</a></p>
-<p>Points: 91</p>
-<p># Comments: 76</p>
+<p>Points: 101</p>
+<p># Comments: 83</p>
 
 🔗 **Read more:** [https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">https://news.ycombinator.com/item?id=49270953</a></p>
-<p>Points: 165</p>
-<p># Comments: 44</p>
+<p>Points: 189</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://jonty.github.io/2026_eclipse_webcams/](https://jonty.github.io/2026_eclipse_webcams/)
 
 ---
 
-### 3. Delphi 13 Community Edition Is Now Available
+### 3. Show HN: KidScreen, a finite YouTube shelf chosen by parents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270621">https://news.ycombinator.com/item?id=49270621</a></p>
-<p>Points: 54</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://kidscreen.app">https://kidscreen.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270881">https://news.ycombinator.com/item?id=49270881</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
+🔗 **Read more:** [https://kidscreen.app](https://kidscreen.app)
 
 ---
 
@@ -97,7 +97,33 @@ The actress, best known for playing Dawn in The Office, has revealed she has inc
 
 ---
 
-### 7. Sudanese army intercepts RSF drones over el-Obeid
+### 7. Argentina star Messi not certain to play “much longer” after father’s death
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement following the death of his father.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss)
+
+---
+
+### 8. ‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss](https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss)
+
+---
+
+### 9. Sudanese army intercepts RSF drones over el-Obeid
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The actress, best known for playing Dawn in The Office, has revealed she has inc
 Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss)
-
----
-
-### 8. Why has North Korea fired a missile ahead of US-South Korea drills?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss)
-
----
-
-### 9. Egyptian student livestreams his kidnapping
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Egyptian student livestreams his kidnapping
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss)
 
 ---
 
