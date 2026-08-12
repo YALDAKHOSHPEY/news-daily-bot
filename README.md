@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 17:43:42
+**Last Update:** 2026-08-12 18:57:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Facebook ads are so hard to block that uBlock Origin stopped filtering them
+### 1. GiveCampus (YC S15) Is Hiring Engineering Managers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49271126">https://news.ycombinator.com/item?id=49271126</a></p>
-<p>Points: 101</p>
-<p># Comments: 83</p>
+<p>Article URL: <a href="https://job-boards.greenhouse.io/givecampus/jobs/4112793009">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273395">https://news.ycombinator.com/item?id=49273395</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
+🔗 **Read more:** [https://job-boards.greenhouse.io/givecampus/jobs/4112793009](https://job-boards.greenhouse.io/givecampus/jobs/4112793009)
 
 ---
 
-### 2. 2026 Eclipse Webcams
+### 2. Hax – a minimalist, terminal-native coding agent written in C
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">https://news.ycombinator.com/item?id=49270953</a></p>
-<p>Points: 189</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://usehax.dev/">https://usehax.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273175">https://news.ycombinator.com/item?id=49273175</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://jonty.github.io/2026_eclipse_webcams/](https://jonty.github.io/2026_eclipse_webcams/)
+🔗 **Read more:** [https://usehax.dev/](https://usehax.dev/)
 
 ---
 
-### 3. Show HN: KidScreen, a finite YouTube shelf chosen by parents
+### 3. License Plate Reader Searches Should Require a Warrant
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kidscreen.app">https://kidscreen.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270881">https://news.ycombinator.com/item?id=49270881</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/">https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273165">https://news.ycombinator.com/item?id=49273165</a></p>
+<p>Points: 81</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://kidscreen.app](https://kidscreen.app)
+🔗 **Read more:** [https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
 
 ---
 
-### 4. Three ways to watch the solar eclipse safely without glasses
+### 4. Double killer and rapist given whole life sentence
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Three ways to watch the solar eclipse safely without glasses
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ With some shops running out of stock, it may be too late to buy eclipse glasses 
 
 ---
 
-### 5. Burnham considers disposable BBQ ban over wildfire risks
+### 6. Burnham considers disposable BBQ ban over wildfire risks
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 6. Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Argentina star Messi not certain to play “much longer” after father’s death
+### 7. US consumer inflation slows in July as energy prices briefly retreat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement following the death of his father.
+Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss)
 
 ---
 
-### 8. ‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks
+### 8. As Strait of Hormuz transit drops, Trump again says US has ‘control’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.
+Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss](https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss)
 
 ---
 
-### 9. Sudanese army intercepts RSF drones over el-Obeid
+### 9. Lebanon passes long-sought amnesty law, a day after death penalty repeal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
+The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss)
 
 ---
 
