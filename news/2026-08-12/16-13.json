@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-12T16:13:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+            "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/\">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49271126\">https://news.ycombinator.com/item?id=49271126</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+            "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+            "published": "Wed, 12 Aug 2026 12:07:16 +0000",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2026 Eclipse Webcams",
+            "description": "<p>Article URL: <a href=\"https://jonty.github.io/2026_eclipse_webcams/\">https://jonty.github.io/2026_eclipse_webcams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270953\">https://news.ycombinator.com/item?id=49270953</a></p>\n<p>Points: 66</p>\n<p># Comments: 12</p>",
+            "url": "https://jonty.github.io/2026_eclipse_webcams/",
+            "published": "Wed, 12 Aug 2026 11:53:01 +0000",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I hate packaging my software for Linux",
+            "description": "<p>Article URL: <a href=\"https://getfresh.dev/docs/blog/packaging-for-linux/\">https://getfresh.dev/docs/blog/packaging-for-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270764\">https://news.ycombinator.com/item?id=49270764</a></p>\n<p>Points: 46</p>\n<p># Comments: 37</p>",
+            "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+            "published": "Wed, 12 Aug 2026 11:33:48 +0000",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three ways to watch the solar eclipse safely without glasses",
+            "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says disposable BBQ ban under consideration",
+            "description": "The PM said the public should not be using single-use grills \"at this moment in time\" amid wildfire risks.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 11:48:58 GMT",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+            "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+            "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 11:28:02 GMT",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Putin warns of tit-for-tat seizures of European vessels",
+            "description": "If European states seize vessels with Russian cargo, Moscow will respond in kind &#039;wherever necessary&#039;, says Putin.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 11:11:26 +0000",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
+            "description": "Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 10:40:57 +0000",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Woman rescued after 36 hours under rubble in Colombia",
+            "description": "A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 10:37:42 +0000",
+            "fetched": "2026-08-12T16:13:06+03:30"
+        }
+    ]
+}

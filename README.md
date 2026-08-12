@@ -1,65 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 15:35:46
+**Last Update:** 2026-08-12 16:13:06
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
+### 1. Facebook ads are so hard to block that uBlock Origin stopped filtering them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source
-- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes
-- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:
-<a href="https://woxi.ad-si.com/docs/comparison/mathematica/" rel="nofollow">https://woxi.ad-si.com/docs/comparison/mathematica/</a>.<p>Conformance is ensured with ~26'000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I'd be particularly interested in feedback on compatibility and missing functionality.
-Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
-<p>Points: 74</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49271126">https://news.ycombinator.com/item?id=49271126</a></p>
+<p>Points: 23</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
+🔗 **Read more:** [https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 
 ---
 
-### 2. What sort of maths are LLMs good at?
+### 2. 2026 Eclipse Webcams
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
-<p>Points: 87</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">https://news.ycombinator.com/item?id=49270953</a></p>
+<p>Points: 66</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+🔗 **Read more:** [https://jonty.github.io/2026_eclipse_webcams/](https://jonty.github.io/2026_eclipse_webcams/)
 
 ---
 
-### 3. Facebook is paying controversial creators to produce rage-bait content
+### 3. I hate packaging my software for Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 151</p>
-<p># Comments: 78</p>
+<p>Article URL: <a href="https://getfresh.dev/docs/blog/packaging-for-linux/">https://getfresh.dev/docs/blog/packaging-for-linux/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270764">https://news.ycombinator.com/item?id=49270764</a></p>
+<p>Points: 46</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+🔗 **Read more:** [https://getfresh.dev/docs/blog/packaging-for-linux/](https://getfresh.dev/docs/blog/packaging-for-linux/)
 
 ---
 
@@ -89,16 +84,16 @@ The PM said the public should not be using single-use grills "at this moment in 
 
 ---
 
-### 6. Trump confirms he switched planes after Nato summit because of possible threat
+### 6. Woman pulled alive from rubble 36 hours after Colombia quake
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Journalists and White House staff who were on board the jet were unaware the president had left.
+Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -138,45 +133,6 @@ Three-quarters of the world has abolished the death penalty in law or in practic
 A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss)
-
----
-
-### 10. Tropical Storm 15W
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
-
----
-
-### 11. Wildfire Harris, Rosebud, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
-
----
-
-### 12. Wildfire WEISER KNOLL, Fremont, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424)
 
 ---
 
