@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T04:32:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+            "description": "<p>Article URL: <a href=\"https://www.cftc.gov/PressRoom/PressReleases/9281-26\">https://www.cftc.gov/PressRoom/PressReleases/9281-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266277\">https://news.ycombinator.com/item?id=49266277</a></p>\n<p>Points: 51</p>\n<p># Comments: 9</p>",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+            "published": "Wed, 12 Aug 2026 00:17:59 +0000",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US hires over 2k video gamers as air traffic controllers",
+            "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/\">https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49265879\">https://news.ycombinator.com/item?id=49265879</a></p>\n<p>Points: 46</p>\n<p># Comments: 32</p>",
+            "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+            "published": "Tue, 11 Aug 2026 23:26:17 +0000",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WorldClaw Agentic 3D open-world generation at scale",
+            "description": "<p>Article URL: <a href=\"https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49265051\">https://news.ycombinator.com/item?id=49265051</a></p>\n<p>Points: 104</p>\n<p># Comments: 37</p>",
+            "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+            "published": "Tue, 11 Aug 2026 21:56:18 +0000",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More weather records as UK heat set to spike again",
+            "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+            "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 23:37:43 GMT",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+            "description": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:21:44 GMT",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+            "description": "Pyongyang conducts second weapons test in less than a week as Seoul, Washington gear up for annual military exercises.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 00:39:53 +0000",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+            "description": "US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+            "description": "Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 23:57:55 +0000",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T04:32:36+03:30"
+        }
+    ]
+}
