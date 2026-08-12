@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 10:37:31
+**Last Update:** 2026-08-12 12:14:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. llama.cpp
+### 1. LinkedIn CringeBot 3000
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cringebot3000.com/">https://www.cringebot3000.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49268564">https://news.ycombinator.com/item?id=49268564</a></p>
+<p>Points: 41</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.cringebot3000.com/](https://www.cringebot3000.com/)
+
+---
+
+### 2. llama.cpp
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
-<p>Points: 114</p>
-<p># Comments: 49</p>
+<p>Points: 172</p>
+<p># Comments: 75</p>
 
 🔗 **Read more:** [https://llama.app](https://llama.app)
 
 ---
 
-### 2. CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape
+### 3. Dropbox is an obvious PE Target?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/sgkdev/bad_garbage">https://github.com/sgkdev/bad_garbage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267550">https://news.ycombinator.com/item?id=49267550</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/">https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267818">https://news.ycombinator.com/item?id=49267818</a></p>
+<p>Points: 51</p>
+<p># Comments: 75</p>
 
-🔗 **Read more:** [https://github.com/sgkdev/bad_garbage](https://github.com/sgkdev/bad_garbage)
-
----
-
-### 3. DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267527">https://news.ycombinator.com/item?id=49267527</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
+🔗 **Read more:** [https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
 
 ---
 
@@ -84,55 +84,55 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 6. UK to get best eclipse since 1999 as Moon blocks out Sun across Europe
+### 6. Three ways to watch the solar eclipse safely without glasses
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.
+With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. At least 15 dead, dozens missing as ferry capsizes in Zimbabwe
+### 7. Wildberries under fire: Why is Ukraine targeting a Russian retail giant?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.
+The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss)
 
 ---
 
-### 8. Why have several nations raised red flags over Indian farm exports?
+### 8. Clacton by-election: Farage may win the town, but can he win the country?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what&#039;s wrong.
+Reform UK leader is set to claim victory over the seaside town that adores him, but the party&#039;s popularity is in doubt.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss)
 
 ---
 
-### 9. Zelenskyy says Ukraine has sent proposals to US to end war with Russia
+### 9. Taiwan’s Foxconn reports 35 percent rise in profit on AI demand
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.
+World&#039;s largest contract electronics maker forecasts strong growth in 2026 amid AI boom.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss)
 
 ---
 
