@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 01:38:38
+**Last Update:** 2026-08-13 01:59:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Can't You Find Canned Sardines?
+### 1. Thanks to social media, canned sardines are a scarcity on the supermarket shelf
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279013">https://news.ycombinator.com/item?id=49279013</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
 
@@ -35,30 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
-<p>Points: 23</p>
-<p># Comments: 25</p>
+<p>Points: 26</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
 
 ---
 
-### 3. Building Security Agents That Cannot Escape Their Trust Boundary
+### 3. Delta
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cynative.com/blog/agent-trust-boundaries/">https://cynative.com/blog/agent-trust-boundaries/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277437">https://news.ycombinator.com/item?id=49277437</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
+<p>Points: 281</p>
+<p># Comments: 92</p>
 
-🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
+🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
 ---
 
-### 4. Watch: Solar eclipse seen over UK skies
+### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Solar eclipse seen over UK skies
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Millions of people in the UK and Europe have been wowed by a once-in-a-generatio
 
 ---
 
-### 5. Major Russian grain export terminals hit in Ukraine Black Sea port attack
+### 6. Major Russian grain export terminals hit in Ukraine Black Sea port attack
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 6. Students wait for A-level, T-level and BTec results
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Another record number of students are expected to secure a place at their first choice of university.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Thousands missing after Colombia quake as rescue continues
+### 7. US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands missing after Colombia quake as rescue continues
+The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss)
 
 ---
 
-### 8. Morocco says working to prevent potential new Ceuta crossings surge
+### 8. Hegseth cautions that ICC may investigate US boat strikes in Latin America
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.
+US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss)
 
 ---
 
-### 9. 11-year-old boy shot by Israeli forces in Gaza
+### 9. PSG win back-to-back UEFA Super Cups with victory over Aston Villa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.
+Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo&#039;s goal is in vain for Aston Villa.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss)
 
 ---
 
