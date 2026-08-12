@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 19:20:12
+**Last Update:** 2026-08-12 19:54:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273478">https://news.ycombinator.com/item?id=49273478</a></p>
-<p>Points: 46</p>
-<p># Comments: 3</p>
+<p>Points: 108</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
 
@@ -42,19 +42,19 @@
 
 ---
 
-### 3. Hax – a minimalist, terminal-native coding agent written in C
+### 3. Google launches Pixel 11 Pro Fold
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://usehax.dev/">https://usehax.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273175">https://news.ycombinator.com/item?id=49273175</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273330">https://news.ycombinator.com/item?id=49273330</a></p>
+<p>Points: 15</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://usehax.dev/](https://usehax.dev/)
+🔗 **Read more:** [https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/](https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/)
 
 ---
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. US consumer inflation slows in July as energy prices briefly retreat
+### 7. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
+Live coverage and text updates from our commentary stream as PSG&#039;s Dembele, Doue and Barcola target more trophies.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss)
 
 ---
 
-### 8. As Strait of Hormuz transit drops, Trump again says US has ‘control’
+### 8. Europe prepares for first total solar eclipse in 27 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
+Europe is gearing up for its first total solar eclipse in 27 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss)
 
 ---
 
-### 9. Lebanon passes long-sought amnesty law, a day after death penalty repeal
+### 9. Colombia declares three days of mourning after deadly earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.
+Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss)
 
 ---
 
