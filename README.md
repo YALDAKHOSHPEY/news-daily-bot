@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 02:59:14
+**Last Update:** 2026-08-12 03:35:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. WorldClaw Agentic 3D open-world generation at scale
+### 1. US hires over 2k video gamers as air traffic controllers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/">https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265879">https://news.ycombinator.com/item?id=49265879</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+
+---
+
+### 2. WorldClaw Agentic 3D open-world generation at scale
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265051">https://news.ycombinator.com/item?id=49265051</a></p>
-<p>Points: 40</p>
-<p># Comments: 12</p>
+<p>Points: 65</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
 
 ---
 
-### 2. pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
+### 3. pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026">https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265031">https://news.ycombinator.com/item?id=49265031</a></p>
-<p>Points: 16</p>
+<p>Points: 23</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
-
----
-
-### 3. Suzanne: AI tool for designing and manufacturing physical products
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.suzanne3d.com/">https://www.suzanne3d.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264755">https://news.ycombinator.com/item?id=49264755</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.suzanne3d.com/](https://www.suzanne3d.com/)
 
 ---
 
@@ -71,16 +71,16 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 5. Summer 2026 on course to be UK's hottest on record, says Met Office
+### 5. More weather records as UK heat set to spike again
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Only average conditions are needed for the remainder of August to break the record, which was set just last year.
+Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ The intervention comes after Andy Burnham said he was "confident" the early rele
 
 ---
 
-### 7. Father and sons forced to manually clear rubble in Gaza
+### 7. Colombia scrambles to find survivors after deadly earthquake
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 254 deaths have been reported so far, as rescue workers continue to sift through collapsed buildings.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss)
+
+---
+
+### 8. Father and sons forced to manually clear rubble in Gaza
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Forced to rely on basic tools, a father and his sons are clearing the rubble of 
 
 ---
 
-### 8. Relatives mourn victims of Pakistan avalanche
+### 9. Relatives mourn victims of Pakistan avalanche
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Forced to rely on basic tools, a father and his sons are clearing the rubble of 
 Relatives gathered to mourn the three Nepali mountaineers, Kili Pemba Sherpa, Gyalu Sherpa, and Nima Sherpa.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss)
-
----
-
-### 9. Pakistan interior minister in Tehran amid talks to reopen Hormuz
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss)
 
 ---
 
