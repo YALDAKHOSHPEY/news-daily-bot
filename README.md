@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 12:32:23
+**Last Update:** 2026-08-13 14:03:55
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 56</p>
-<p># Comments: 23</p>
+<p>Points: 149</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 82</p>
-<p># Comments: 21</p>
+<p>Points: 94</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 93</p>
-<p># Comments: 86</p>
+<p>Points: 115</p>
+<p># Comments: 111</p>
 
 🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
 ---
 
-### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 4. Met chief accepts mistakes made over Simon Levy but defends investigation into murders
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 5. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
+### 6. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse
 
 ---
 
-### 6. UK economy grows between April and June but experts warn of challenges in coming months
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. How to stay safe during an earthquake: A visual guide
+### 7. Russell Westbrook announces NBA retirement after 18 seasons
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Earthquakes can happen suddenly, but knowing what to do before, during and after one can reduce the risk of injury.
+Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss)
 
 ---
 
-### 8. Part of children’s hospital collapses in Colombia earthquake
+### 8. Life and loss as a first responder in southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Security cameras captured the moment part of a children&#039;s hospital in Cali collapsed.
+A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon&#039;s largest city.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss)
 
 ---
 
-### 9. As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers
+### 9. What postcolonialism looks like in Southeast Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Farmers trying to adapt to extreme weather say even with the best planning, their industry is facing its toughest test.
+AJ&#039;s Jamal Elshayyal moderates a panel of academics and leaders from four countries
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss](https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss)
 
 ---
 
