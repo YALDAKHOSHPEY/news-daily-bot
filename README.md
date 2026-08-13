@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 20:56:15
+**Last Update:** 2026-08-13 21:19:44
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289112">https://news.ycombinator.com/item?id=49289112</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 85</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash)
 
 ---
 
-### 2. Mistral OCR 4.1
+### 2. Tocharian Online
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lrc.la.utexas.edu/eieol/tokol/0">https://lrc.la.utexas.edu/eieol/tokol/0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289026">https://news.ycombinator.com/item?id=49289026</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lrc.la.utexas.edu/eieol/tokol/0](https://lrc.la.utexas.edu/eieol/tokol/0)
+
+---
+
+### 3. Mistral OCR 4.1
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://docs.mistral.ai/models/ocr-4-1">https://docs.mistral.ai/models/ocr-4-1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49288889">https://news.ycombinator.com/item?id=49288889</a></p>
-<p>Points: 3</p>
+<p>Points: 18</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://docs.mistral.ai/models/ocr-4-1](https://docs.mistral.ai/models/ocr-4-1)
-
----
-
-### 3. Mozilla says stricter antitrust measures against Google 'threaten Firefox'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/">https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49288324">https://news.ycombinator.com/item?id=49288324</a></p>
-<p>Points: 6</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/](https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/)
 
 ---
 
@@ -97,7 +97,20 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. China and Indonesia’s joint naval drills anger Taiwan
+### 7. DR Congo Ebola outbreak spreads to a sixth province
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss)
+
+---
+
+### 8. China and Indonesia’s joint naval drills anger Taiwan
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Chinese state media have released footage of a joint naval drill with Indonesia 
 
 ---
 
-### 8. Reports of US sailors in Middle East trying to jump ship spark outcry
+### 9. Reports of US sailors in Middle East trying to jump ship spark outcry
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Chinese state media have released footage of a joint naval drill with Indonesia 
 US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss)
-
----
-
-### 9. Is Russia’s economy cracking despite the Iran war windfall?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss)
 
 ---
 
