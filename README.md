@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 20:14:13
+**Last Update:** 2026-08-13 20:56:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Text AI watermarks will always be trivial to remove
+### 1. Gemini 3.7 Flash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.seangoedecke.com/text-ai-watermarks/">https://www.seangoedecke.com/text-ai-watermarks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49287153">https://news.ycombinator.com/item?id=49287153</a></p>
-<p>Points: 25</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289112">https://news.ycombinator.com/item?id=49289112</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.seangoedecke.com/text-ai-watermarks/](https://www.seangoedecke.com/text-ai-watermarks/)
+🔗 **Read more:** [https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash)
 
 ---
 
-### 2. I requested a copy of my data from McDonald’s loyalty program
+### 2. Mistral OCR 4.1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
-<p>Points: 64</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://docs.mistral.ai/models/ocr-4-1">https://docs.mistral.ai/models/ocr-4-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49288889">https://news.ycombinator.com/item?id=49288889</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+🔗 **Read more:** [https://docs.mistral.ai/models/ocr-4-1](https://docs.mistral.ai/models/ocr-4-1)
 
 ---
 
-### 3. Flock updates privacy, accountability, security, and transparency safeguards
+### 3. Mozilla says stricter antitrust measures against Google 'threaten Firefox'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency">https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286654">https://news.ycombinator.com/item?id=49286654</a></p>
-<p>Points: 27</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/">https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49288324">https://news.ycombinator.com/item?id=49288324</a></p>
+<p>Points: 6</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)
+🔗 **Read more:** [https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/](https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/)
 
 ---
 
-### 4. Water bills set to rise for many after firms permitted extra funding
+### 4. Aerial footage shows derailed train
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.
+A train has derailed near Lewes in East Sussex, British Transport Police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Five key takeaways from results day 2026
+### 5. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+An amber extreme heat warning is in place for parts of England until midnight.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Five key takeaways from results day 2026
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 6. Son pays tribute to dad, 102, who died after allegedly being assaulted in pub
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Zambian president Hichilema votes as he seeks second term
+### 7. China and Indonesia’s joint naval drills anger Taiwan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.
+Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss)
 
 ---
 
-### 8. Will all-out war in Yemen reignite as the Houthis escalate attacks?
+### 8. Reports of US sailors in Middle East trying to jump ship spark outcry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
+US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss)
 
 ---
 
-### 9. Turkiye’s AK Party turns 25: A journey of change and renewal
+### 9. Is Russia’s economy cracking despite the Iran war windfall?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
+A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss)
 
 ---
 

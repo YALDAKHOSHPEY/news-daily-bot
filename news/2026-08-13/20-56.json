@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T20:56:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 3.7 Flash",
+            "description": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash\">https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289112\">https://news.ycombinator.com/item?id=49289112</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+            "published": "Thu, 13 Aug 2026 17:23:22 +0000",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mistral OCR 4.1",
+            "description": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://docs.mistral.ai/models/ocr-4-1",
+            "published": "Thu, 13 Aug 2026 17:05:12 +0000",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
+            "description": "<p>Article URL: <a href=\"https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/\">https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288324\">https://news.ycombinator.com/item?id=49288324</a></p>\n<p>Points: 6</p>\n<p># Comments: 6</p>",
+            "url": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
+            "published": "Thu, 13 Aug 2026 16:24:19 +0000",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Aerial footage shows derailed train",
+            "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+            "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:09:23 GMT",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+            "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:22:42 GMT",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from results day 2026",
+            "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 16:49:28 GMT",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China and Indonesia’s joint naval drills anger Taiwan",
+            "description": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 16:44:27 +0000",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+            "description": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 16:44:15 +0000",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+            "description": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 16:40:42 +0000",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-13T20:56:15+03:30"
+        }
+    ]
+}
