@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 08:45:44
+**Last Update:** 2026-08-13 09:12:12
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 51</p>
+<p>Points: 52</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
@@ -52,26 +52,13 @@
 <p>Article URL: <a href="https://adapt.com/blog/build-wide-ship-narrow">https://adapt.com/blog/build-wide-ship-narrow</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280047">https://news.ycombinator.com/item?id=49280047</a></p>
 <p>Points: 66</p>
-<p># Comments: 11</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://adapt.com/blog/build-wide-ship-narrow](https://adapt.com/blog/build-wide-ship-narrow)
 
 ---
 
-### 4. Results day dawns for A-level, T-level and BTec students
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Another record number of students are expected to secure a place at their first choice of university.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 6. Temperatures to soar to 38C as amber extreme heat warning comes into force
+### 5. Temperatures to soar to 38C as amber extreme heat warning comes into force
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Heat will spike again on Thursday with a rare warning in place and more records 
 
 ---
 
-### 7. Three Palestinian families besieged in their homes by Israeli settlers
+### 6. Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.
+In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only "destroy Ukraine, not conquer it", with the war now in its fifth year.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265
+### 7. Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools.
+Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss)
 
 ---
 
-### 9. Oman says oil spill from stricken tanker has reached its coast
+### 8. Why tariffs are not the right tool to bolster US production
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Up to 40km of coastline affected by oil pollution, Omani environmental authority says.
+Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss)
+
+---
+
+### 9. Leavitt to leave as White House press secretary
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss)
 
 ---
 
