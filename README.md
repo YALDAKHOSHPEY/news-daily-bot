@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 18:58:54
+**Last Update:** 2026-08-13 19:19:15
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There
+### 1. Text AI watermarks will always be trivial to remove
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.seangoedecke.com/text-ai-watermarks/">https://www.seangoedecke.com/text-ai-watermarks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49287153">https://news.ycombinator.com/item?id=49287153</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.seangoedecke.com/text-ai-watermarks/](https://www.seangoedecke.com/text-ai-watermarks/)
+
+---
+
+### 2. McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Points: 37</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 
 ---
 
-### 2. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
+### 3. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
-
----
-
-### 3. Graduate Student Proves a Quantum Uncertainty Principle for Fractals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286424">https://news.ycombinator.com/item?id=49286424</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
 
 ---
 
@@ -97,7 +97,20 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Turkiye’s AK Party turns 25: A journey of change and renewal
+### 7. Will all-out war in Yemen reignite as the Houthis escalate attacks?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss)
+
+---
+
+### 8. Turkiye’s AK Party turns 25: A journey of change and renewal
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ In a quarter-century, the party has strengthened democracy, driven development a
 
 ---
 
-### 8. Iran says Strait of Hormuz under its control, rejects Trump claims
+### 9. Iran says Strait of Hormuz under its control, rejects Trump claims
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ In a quarter-century, the party has strengthened democracy, driven development a
 Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss)
-
----
-
-### 9. Pro-Palestine football fans lament West Ham for signing Manor Solomon
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss)
 
 ---
 
