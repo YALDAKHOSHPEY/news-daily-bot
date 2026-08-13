@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 00:00:12
+**Last Update:** 2026-08-14 00:41:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Gödel's Proof Works
+### 1. NP-Overrated
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
+<p>Points: 36</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
+
+---
+
+### 2. How Gödel's Proof Works (2020)
 
 **Source:** Hacker News
 
@@ -19,55 +35,39 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 28</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 
 ---
 
-### 2. How Organizations Use AI: Evidence from ChatGPT [pdf]
+### 3. Airbnb Eval-driven development: Lessons from evaluating GenAI at scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788">https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290785">https://news.ycombinator.com/item?id=49290785</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
-
----
-
-### 3. Understanding is the new bottleneck
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck">https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290299">https://news.ycombinator.com/item?id=49290299</a></p>
-<p>Points: 37</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+🔗 **Read more:** [https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
 
 ---
 
-### 4. Aerial footage shows derailed train
+### 4. Watch: Houses engulfed in flames across Stourbridge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A train has derailed near Lewes in East Sussex, British Transport Police say.
+Multiple fires burned across the West Midlands and destroyed homes there.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. Sudan army says RSF advance on key town bordering Ethiopia
+### 7. Are We in the Singularity?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sam Altman just said AI has entered &quot;the singularity.&quot;
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss)
+
+---
+
+### 8. Sudan army says RSF advance on key town bordering Ethiopia
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Military and government sources say the paramilitary RSF and allies advance into
 
 ---
 
-### 8. Passenger train derails, injuring several in southern England
+### 9. Passenger train derails, injuring several in southern England
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Military and government sources say the paramilitary RSF and allies advance into
 A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss)
-
----
-
-### 9. Israeli forces order families to evacuate homes in Qusra
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss)
 
 ---
 
