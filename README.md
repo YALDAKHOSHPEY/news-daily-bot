@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 17:45:22
+**Last Update:** 2026-08-13 18:58:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. PBS loses 50TB of data; 70 years of TV history after cloud vendor defunct
+### 1. McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285418">https://news.ycombinator.com/item?id=49285418</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 
 ---
 
-### 2. Choosing an AI model: one prompt, 11 models, different results
+### 2. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.netlify.com/blog/one-prompt-11-models-very-different-results/">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285327">https://news.ycombinator.com/item?id=49285327</a></p>
-<p>Points: 57</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.netlify.com/blog/one-prompt-11-models-very-different-results/](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
 
 ---
 
-### 3. My Rules for Using Spreadsheets
+### 3. Graduate Student Proves a Quantum Uncertainty Principle for Fractals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285268">https://news.ycombinator.com/item?id=49285268</a></p>
-<p>Points: 17</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286424">https://news.ycombinator.com/item?id=49286424</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
+🔗 **Read more:** [https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
 
 ---
 
@@ -71,7 +71,7 @@ Ofwat has given provisional approval for 13 water companies to charge customers 
 
 ---
 
-### 5. Man, 102, dies after allegedly being assaulted in pub
+### 5. Son pays tribute to dad, 102, who died after allegedly being assaulted in pub
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Lebanese Americans sue US over Israel’s rights abuses in Lebanon war
+### 7. Turkiye’s AK Party turns 25: A journey of change and renewal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.
+In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss)
 
 ---
 
-### 8. Spanish Super Cup will be held in Turkiye in 2027
+### 8. Iran says Strait of Hormuz under its control, rejects Trump claims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.
+Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss)
 
 ---
 
-### 9. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
+### 9. Pro-Palestine football fans lament West Ham for signing Manor Solomon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.
+The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss)
 
 ---
 
