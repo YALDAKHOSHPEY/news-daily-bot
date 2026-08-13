@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 14:22:53
+**Last Update:** 2026-08-13 15:08:48
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 164</p>
-<p># Comments: 85</p>
+<p>Points: 190</p>
+<p># Comments: 114</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 94</p>
-<p># Comments: 27</p>
+<p>Points: 99</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 117</p>
-<p># Comments: 117</p>
+<p>Points: 124</p>
+<p># Comments: 131</p>
 
 🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
@@ -71,7 +71,20 @@ Critics - including Labour MP Jess Phillips - have accused the Met of overlookin
 
 ---
 
-### 5. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 5. UK defends seizing shadow fleet tanker after Putin threat
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK government says it is "disrupting and deterring shadow fleet vessels" in accordance with the law.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 6. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
+### 7. Civilian deaths in Ukraine in July hit highest level since May 2022: UN
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.
+At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss)
 
 ---
 
-### 7. Russell Westbrook announces NBA retirement after 18 seasons
+### 8. Eurovision to bar countries at war from hosting: What that means
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss)
+
+---
+
+### 9. Russell Westbrook announces NBA retirement after 18 seasons
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse
 Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss)
-
----
-
-### 8. Life and loss as a first responder in southern Lebanon
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon&#039;s largest city.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss)
-
----
-
-### 9. What postcolonialism looks like in Southeast Asia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-AJ&#039;s Jamal Elshayyal moderates a panel of academics and leaders from four countries
-
-🔗 **Read more:** [https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss](https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss)
 
 ---
 
