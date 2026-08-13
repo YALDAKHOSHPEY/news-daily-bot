@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 23:02:39
+**Last Update:** 2026-08-13 23:21:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Accelerating GPT-5.6 Sol Ultrafast
+### 1. How Organizations Use AI: Evidence from ChatGPT [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289844">https://news.ycombinator.com/item?id=49289844</a></p>
-<p>Points: 116</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
-### 2. Where did the old web go? We followed 657,607 links to find out
+### 2. Show HN: Pixy, visual editor for coding agents, like Figma on your live site
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://0.mk/blog/link-rot">https://0.mk/blog/link-rot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289532">https://news.ycombinator.com/item?id=49289532</a></p>
-<p>Points: 38</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://pixydesignapp.com/">https://pixydesignapp.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290629">https://news.ycombinator.com/item?id=49290629</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://0.mk/blog/link-rot](https://0.mk/blog/link-rot)
+🔗 **Read more:** [https://pixydesignapp.com/](https://pixydesignapp.com/)
 
 ---
 
-### 3. Choose Boring Technology (2015)
+### 3. Understanding is the new bottleneck
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mcfunley.com/choose-boring-technology">https://mcfunley.com/choose-boring-technology</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289512">https://news.ycombinator.com/item?id=49289512</a></p>
-<p>Points: 88</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck">https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290299">https://news.ycombinator.com/item?id=49290299</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)
+🔗 **Read more:** [https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
 
 ---
 
@@ -97,7 +97,20 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. Europe swelters in latest wave of extreme heat
+### 7. Colombia earthquake: Hospitals adapt to save lives amid widespread damage
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Earthquake damages Cali&#039;s hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss)
+
+---
+
+### 8. Europe swelters in latest wave of extreme heat
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ UK records its hottest day of the year as the temperature in west London reaches
 
 ---
 
-### 8. Carrick urges Manchester United to sign more transfers to boost title bid
+### 9. Carrick urges Manchester United to sign more transfers to boost title bid
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ UK records its hottest day of the year as the temperature in west London reaches
 United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss)
-
----
-
-### 9. Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss)
 
 ---
 
