@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 17:24:30
+**Last Update:** 2026-08-13 17:45:22
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Choosing an AI model: one prompt, 11 models, different results
+### 1. PBS loses 50TB of data; 70 years of TV history after cloud vendor defunct
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285418">https://news.ycombinator.com/item?id=49285418</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+
+---
+
+### 2. Choosing an AI model: one prompt, 11 models, different results
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.netlify.com/blog/one-prompt-11-models-very-different-results/">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285327">https://news.ycombinator.com/item?id=49285327</a></p>
-<p>Points: 27</p>
-<p># Comments: 6</p>
+<p>Points: 57</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://www.netlify.com/blog/one-prompt-11-models-very-different-results/](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
-### 2. My Rules for Using Spreadsheets
+### 3. My Rules for Using Spreadsheets
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285268">https://news.ycombinator.com/item?id=49285268</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Points: 17</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
-
----
-
-### 3. DeepSeek Harness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/deepseek-ai/deepseek-harness">https://github.com/deepseek-ai/deepseek-harness</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285244">https://news.ycombinator.com/item?id=49285244</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ---
 
@@ -71,7 +71,7 @@ Ofwat has given provisional approval for 13 water companies to charge customers 
 
 ---
 
-### 5. Man, 102, dies after alleged pub assault
+### 5. Man, 102, dies after allegedly being assaulted in pub
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Spanish Super Cup will be held in Turkiye in 2027
+### 7. Lebanese Americans sue US over Israel’s rights abuses in Lebanon war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss)
+
+---
+
+### 8. Spanish Super Cup will be held in Turkiye in 2027
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletic
 
 ---
 
-### 8. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
+### 9. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletic
 Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss)
-
----
-
-### 9. Falling Danube flow forces shutdown of Romania’s sole nuclear plant
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss)
 
 ---
 
