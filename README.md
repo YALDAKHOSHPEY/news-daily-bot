@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 10:41:26
+**Last Update:** 2026-08-13 12:18:35
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 1. ChatGPT Desktop (Codex Desktop) for Linux
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
+<p>Points: 56</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
+
+---
+
+### 2. Happy 45th Birthday to the IBM PC and Model F/XT
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
+<p>Points: 82</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
+
+---
+
+### 3. Flutter 3.47
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
+<p>Points: 93</p>
+<p># Comments: 86</p>
+
+🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+
+---
+
+### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 2. Watch: Moment 'surreal' solar eclipse seen in UK and Europe
+### 5. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse
 
 ---
 
-### 3. Temperatures to soar to 38C as amber extreme heat warning comes into force
+### 6. UK economy grows between April and June but experts warn of challenges in coming months
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heat will spike again on Thursday with a rare warning in place and more records set to tumble.
+The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Will the Houthis shut down Saudi Arabian shipping?
+### 7. How to stay safe during an earthquake: A visual guide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia
+Earthquakes can happen suddenly, but knowing what to do before, during and after one can reduce the risk of injury.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss)
 
 ---
 
-### 5. Polls open in Zambia presidential election as economic reforms tested
+### 8. Part of children’s hospital collapses in Colombia earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The vote will test if incumbent Hakainde Hichilema&#039;s reforms are enough to overcome widespread economic frustration.
+Security cameras captured the moment part of a children&#039;s hospital in Cali collapsed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss)
 
 ---
 
-### 6. Nearly 4 million Afghan children ‘acutely malnourished’
+### 9. As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.
+Farmers trying to adapt to extreme weather say even with the best planning, their industry is facing its toughest test.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Cristobal
+### 10. Tropical Storm Cristobal
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm 15W
+### 11. Tropical Storm 15W
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Harris, Rosebud, Montana
+### 12. Wildfire Harris, Rosebud, Montana
 
 **Source:** NASA
 
