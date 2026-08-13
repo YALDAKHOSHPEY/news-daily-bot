@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T16:14:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+            "description": "<p>Article URL: <a href=\"https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/\">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49284774\">https://news.ycombinator.com/item?id=49284774</a></p>\n<p>Points: 49</p>\n<p># Comments: 15</p>",
+            "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+            "published": "Thu, 13 Aug 2026 12:09:50 +0000",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+            "description": "<p>Article URL: <a href=\"https://atg.science/careers\">https://atg.science/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49284697\">https://news.ycombinator.com/item?id=49284697</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://atg.science/careers",
+            "published": "Thu, 13 Aug 2026 12:01:02 +0000",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+            "description": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 244</p>\n<p># Comments: 158</p>",
+            "url": "https://openai.com/codex/",
+            "published": "Thu, 13 Aug 2026 04:53:41 +0000",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Water bills set to rise for many after firms permitted extra funding",
+            "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 12:07:49 GMT",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man, 102, dies after alleged pub assault",
+            "description": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 12:27:41 GMT",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+            "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+            "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:57:28 GMT",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five charts that explain the high cost of living in the UK",
+            "description": "UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:57:23 +0000",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US-Iran talks in deadlock – what’s the latest?",
+            "description": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:56:40 +0000",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia earthquake response tests new far-right government",
+            "description": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:39:46 +0000",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T16:14:23+03:30"
+        }
+    ]
+}

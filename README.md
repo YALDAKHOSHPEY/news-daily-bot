@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 15:35:53
+**Last Update:** 2026-08-13 16:14:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)
+### 1. Deutsche Bank becomes first foreign yuan clearing bank in Europe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284774">https://news.ycombinator.com/item?id=49284774</a></p>
+<p>Points: 49</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+
+---
+
+### 2. ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. ChatGPT Desktop (Codex Desktop) for Linux
+### 3. ChatGPT Desktop (Codex Desktop) for Linux
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 226</p>
-<p># Comments: 140</p>
+<p>Points: 244</p>
+<p># Comments: 158</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
 ---
 
-### 3. Happy 45th Birthday to the IBM PC and Model F/XT
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 101</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
-
----
-
-### 4. Met chief accepts mistakes made over Simon Levy but defends investigation into murders
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Water bills set to rise for many after firms permitted extra funding
+### 4. Water bills set to rise for many after firms permitted extra funding
 
 **Source:** BBC
 
@@ -84,20 +71,59 @@ Ofwat has given provisional approval for 13 water companies to charge customers 
 
 ---
 
-### 6. UK defends seizing shadow fleet tanker after Putin threat
+### 5. Man, 102, dies after alleged pub assault
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK government says it is "disrupting and deterring shadow fleet vessels" in accordance with the law.
+Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Colombia earthquake response tests new far-right government
+### 6. The key signs you may have damaged your eyes by looking at the eclipse
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Symptoms after looking at the sun without eclipse glasses can include blurred vision
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Five charts that explain the high cost of living in the UK
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss)
+
+---
+
+### 8. US-Iran talks in deadlock – what’s the latest?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss)
+
+---
+
+### 9. Colombia earthquake response tests new far-right government
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The UK government says it is "disrupting and deterring shadow fleet vessels" in 
 Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss)
-
----
-
-### 8. More than 135 million people in Europe set for temperatures over 35C
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss)
-
----
-
-### 9. Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss](https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss)
 
 ---
 
