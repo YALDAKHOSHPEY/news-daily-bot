@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 15:08:48
+**Last Update:** 2026-08-13 15:35:53
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT Desktop (Codex Desktop) for Linux
+### 1. ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://atg.science/careers">https://atg.science/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284697">https://news.ycombinator.com/item?id=49284697</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://atg.science/careers](https://atg.science/careers)
+
+---
+
+### 2. ChatGPT Desktop (Codex Desktop) for Linux
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 190</p>
-<p># Comments: 114</p>
+<p>Points: 226</p>
+<p># Comments: 140</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
 ---
 
-### 2. Happy 45th Birthday to the IBM PC and Model F/XT
+### 3. Happy 45th Birthday to the IBM PC and Model F/XT
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 99</p>
-<p># Comments: 34</p>
+<p>Points: 101</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
-
----
-
-### 3. Flutter 3.47
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 124</p>
-<p># Comments: 131</p>
-
-🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
 ---
 
@@ -71,7 +71,20 @@ Critics - including Labour MP Jess Phillips - have accused the Met of overlookin
 
 ---
 
-### 5. UK defends seizing shadow fleet tanker after Putin threat
+### 5. Water bills set to rise for many after firms permitted extra funding
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK defends seizing shadow fleet tanker after Putin threat
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The UK government says it is "disrupting and deterring shadow fleet vessels" in 
 
 ---
 
-### 6. Once-in-a-generation solar eclipse wows millions in UK and Europe
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Civilian deaths in Ukraine in July hit highest level since May 2022: UN
+### 7. Colombia earthquake response tests new far-right government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said.
+Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss)
 
 ---
 
-### 8. Eurovision to bar countries at war from hosting: What that means
+### 8. More than 135 million people in Europe set for temperatures over 35C
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.
+Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss)
 
 ---
 
-### 9. Russell Westbrook announces NBA retirement after 18 seasons
+### 9. Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Westbrook, a former NBA Most Valuable Player, holds the record for the most career triple-doubles in league history.
+Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss](https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss)
 
 ---
 
