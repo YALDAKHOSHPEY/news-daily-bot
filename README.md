@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 10:23:53
+**Last Update:** 2026-08-13 10:41:26
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT Desktop (Codex Desktop) for Linux
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
-
----
-
-### 2. Celld: Self-hosted, distributed Durable Objects
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://celld.dev/">https://celld.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281839">https://news.ycombinator.com/item?id=49281839</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://celld.dev/](https://celld.dev/)
-
----
-
-### 3. Show HN: Ballet – Workflow automation that writes integrations against any API
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184</a></p>
-<p>Points: 28</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.ballet.dev/](https://www.ballet.dev/)
-
----
-
-### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 1. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -71,7 +23,20 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 5. Temperatures to soar to 38C as amber extreme heat warning comes into force
+### 2. Watch: Moment 'surreal' solar eclipse seen in UK and Europe
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Temperatures to soar to 38C as amber extreme heat warning comes into force
 
 **Source:** BBC
 
@@ -84,33 +49,7 @@ Heat will spike again on Thursday with a rare warning in place and more records 
 
 ---
 
-### 6. Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only "destroy Ukraine, not conquer it", with the war now in its fifth year.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. The US is now using the ‘terrorist’ label to interfere in Brazil’s election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss)
-
----
-
-### 8. Will the Houthis shut down Saudi Arabian shipping?
+### 4. Will the Houthis shut down Saudi Arabian shipping?
 
 **Source:** Al Jazeera
 
@@ -123,7 +62,7 @@ The announcement of a new naval blockade threatens to restart full-scale war bet
 
 ---
 
-### 9. Polls open in Zambia presidential election as economic reforms tested
+### 5. Polls open in Zambia presidential election as economic reforms tested
 
 **Source:** Al Jazeera
 
@@ -136,7 +75,20 @@ The vote will test if incumbent Hakainde Hichilema&#039;s reforms are enough to 
 
 ---
 
-### 10. Tropical Storm Cristobal
+### 6. Nearly 4 million Afghan children ‘acutely malnourished’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss)
+
+---
+
+### 7. Tropical Storm Cristobal
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm 15W
+### 8. Tropical Storm 15W
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Harris, Rosebud, Montana
+### 9. Wildfire Harris, Rosebud, Montana
 
 **Source:** NASA
 
