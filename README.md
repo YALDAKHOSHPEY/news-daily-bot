@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 16:14:23
+**Last Update:** 2026-08-13 17:24:30
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Deutsche Bank becomes first foreign yuan clearing bank in Europe
+### 1. Choosing an AI model: one prompt, 11 models, different results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284774">https://news.ycombinator.com/item?id=49284774</a></p>
-<p>Points: 49</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.netlify.com/blog/one-prompt-11-models-very-different-results/">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285327">https://news.ycombinator.com/item?id=49285327</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+🔗 **Read more:** [https://www.netlify.com/blog/one-prompt-11-models-very-different-results/](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
-### 2. ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)
+### 2. My Rules for Using Spreadsheets
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://atg.science/careers">https://atg.science/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284697">https://news.ycombinator.com/item?id=49284697</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285268">https://news.ycombinator.com/item?id=49285268</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
+
+---
+
+### 3. DeepSeek Harness
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/deepseek-ai/deepseek-harness">https://github.com/deepseek-ai/deepseek-harness</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285244">https://news.ycombinator.com/item?id=49285244</a></p>
+<p>Points: 18</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://atg.science/careers](https://atg.science/careers)
-
----
-
-### 3. ChatGPT Desktop (Codex Desktop) for Linux
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 244</p>
-<p># Comments: 158</p>
-
-🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
+🔗 **Read more:** [https://github.com/deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ---
 
@@ -97,46 +97,46 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Five charts that explain the high cost of living in the UK
+### 7. Spanish Super Cup will be held in Turkiye in 2027
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.
+The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss)
 
 ---
 
-### 8. US-Iran talks in deadlock – what’s the latest?
+### 8. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
+Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss)
 
 ---
 
-### 9. Colombia earthquake response tests new far-right government
+### 9. Falling Danube flow forces shutdown of Romania’s sole nuclear plant
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
+Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Cristobal
+### 10. Tropical Storm Hernan
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Disaster tests President Abelardo de la Espriella and his government as it scram
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
 
 ---
 
-### 11. Tropical Storm 15W
+### 11. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -158,20 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
 
 ---
 
-### 12. Wildfire Harris, Rosebud, Montana
+### 12. Tropical Storm 01C
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
