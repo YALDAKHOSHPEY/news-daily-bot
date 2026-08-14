@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 14:25:08
+**Last Update:** 2026-08-14 15:06:44
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/inevolin/k8s-cpu-limits-analyzed">https://github.com/inevolin/k8s-cpu-limits-analyzed</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296939">https://news.ycombinator.com/item?id=49296939</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://github.com/inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 48</p>
-<p># Comments: 43</p>
+<p>Points: 79</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cr7kpdkg13zo">https://www.bbc.com/news/articles/cr7kpdkg13zo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296724">https://news.ycombinator.com/item?id=49296724</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 30</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cr7kpdkg13zo](https://www.bbc.com/news/articles/cr7kpdkg13zo)
 
 ---
 
-### 4. Farage's by-election victory won't stop questions about finances
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: Video shows scale of devastation in Stourbridge
+### 4. Video shows scale of devastation in Stourbridge
 
 **Source:** BBC
 
@@ -84,7 +71,20 @@ Multiple fires tore through the West Midlands on Thursday, with firefighters sti
 
 ---
 
-### 6. Eurovision proposes new rules to tackle mass voting
+### 5. Farage's by-election victory won't stop questions about finances
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Eurovision proposes new rules to reduce political voting
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Organisers reportedly say politically motivated voting is "persistent" and is se
 
 ---
 
-### 7. New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
+### 7. Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
+Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss)
 
 ---
 
-### 8. Russia says hit Ukrainian railway and port facilities in new strikes
+### 8. US threatens ‘indefinite’ blockade against Iran: How long can it last?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kyiv targets Baltic oil hub and warehouse near Moscow with drones.
+US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss)
 
 ---
 
-### 9. Swiatek defeats Rybakina to claim Canadian Open title​
+### 9. Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.
+Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss)
 
 ---
 
