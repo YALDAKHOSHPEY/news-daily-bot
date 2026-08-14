@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 20:54:10
+**Last Update:** 2026-08-14 21:13:50
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
-<p>Points: 3</p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301342">https://news.ycombinator.com/item?id=49301342</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.byhand.ai/p/28-discrete-fourier-transform](https://www.byhand.ai/p/28-discrete-fourier-transform)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/ce97mm3vvemo">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301260">https://news.ycombinator.com/item?id=49301260</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
+<p>Points: 43</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/ce97mm3vvemo](https://www.bbc.com/news/articles/ce97mm3vvemo)
 
@@ -97,7 +97,20 @@ British cyclist Finlay Tarling dies at the age of 19 in a serious accident durin
 
 ---
 
-### 7. Analysis: Israel’s government can’t disown West Bank settler violence
+### 7. Liverpool to sell minority stake to consortium including Jeff Bezos
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss)
+
+---
+
+### 8. Analysis: Israel’s government can’t disown West Bank settler violence
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rights groups warn settler and state-led violence aim to displace Palestinians a
 
 ---
 
-### 8. What’s next for far-right Reform UK after Farage’s by-election win?
+### 9. What’s next for far-right Reform UK after Farage’s by-election win?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rights groups warn settler and state-led violence aim to displace Palestinians a
 What’s next for far-right Reform UK after Farage’s by-election win?
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss)
-
----
-
-### 9. Philippines drug war victims seek justice through truth commission
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss)
 
 ---
 
