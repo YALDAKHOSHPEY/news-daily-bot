@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 17:38:34
+**Last Update:** 2026-08-14 18:43:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. France's tax authority had data stolen on 680k taxpayers
+### 1. Qwen3.8-27B
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html">https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49298303">https://news.ycombinator.com/item?id=49298303</a></p>
-<p>Points: 36</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://twitter.com/alibaba_qwen/status/2088280182356611304">https://twitter.com/alibaba_qwen/status/2088280182356611304</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299684">https://news.ycombinator.com/item?id=49299684</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
+🔗 **Read more:** [https://twitter.com/alibaba_qwen/status/2088280182356611304](https://twitter.com/alibaba_qwen/status/2088280182356611304)
 
 ---
 
-### 2. Dear people who work at the airport
+### 2. Qwen 3.8 27B is out: open weights, best local dense model yet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/">https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49297801">https://news.ycombinator.com/item?id=49297801</a></p>
-<p>Points: 81</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">https://huggingface.co/Qwen/Qwen3.8-27B-FP8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299605">https://news.ycombinator.com/item?id=49299605</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 
 ---
 
-### 3. Why does Opus 5 feel worse to work with?
+### 3. When Genius Fails: The Intellectual Arrogance of the AI Labs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 256</p>
-<p># Comments: 244</p>
+<p>Article URL: <a href="https://weightythoughts.com/p/when-genius-failsthe-intellectual">https://weightythoughts.com/p/when-genius-failsthe-intellectual</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299282">https://news.ycombinator.com/item?id=49299282</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
+🔗 **Read more:** [https://weightythoughts.com/p/when-genius-failsthe-intellectual](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Government issues a temporary ban on the sale of disposable barbeques as they pose a "significant risk to the public".
+Single-use grills pose a "significant risk to the public" in current drought and heatwave conditions, the government warns.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences rel
 
 ---
 
-### 7. Pakistan PM’s ‘red line’ warning to India over water treaty
+### 7. Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss)
+
+---
+
+### 8. Pakistan PM’s ‘red line’ warning to India over water treaty
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the
 
 ---
 
-### 8. Russia stance will be defended in court, pledges World Athletics chief Coe
+### 9. Russia stance will be defended in court, pledges World Athletics chief Coe
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the
 Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss)
-
----
-
-### 9. US missionary kidnapped in Niger released after nine months in captivity
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss)
 
 ---
 
