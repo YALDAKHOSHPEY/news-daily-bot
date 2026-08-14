@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 16:09:59
+**Last Update:** 2026-08-14 17:20:31
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why does Opus 5 feel worse to work with?
+### 1. France's tax authority had data stolen on 680k taxpayers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html">https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49298303">https://news.ycombinator.com/item?id=49298303</a></p>
+<p>Points: 28</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
+
+---
+
+### 2. Dear people who work at the airport
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/">https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49297801">https://news.ycombinator.com/item?id=49297801</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+
+---
+
+### 3. Why does Opus 5 feel worse to work with?
 
 **Source:** Hacker News
 
@@ -19,55 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 139</p>
-<p># Comments: 124</p>
+<p>Points: 239</p>
+<p># Comments: 223</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
 ---
 
-### 2. DeepSeek peak/off-peak pricing update
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
-<p>Points: 80</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
-
----
-
-### 3. Ruby 4.0 Universal RCE Deserialization Gadget Chain
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 46</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
-
----
-
-### 4. Watch: 'Carnage' in Stourbridge as houses destroyed by fire
+### 4. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fire crews have been tackling blazes in the West Midlands after multiple fires tore through the region on Thursday.
+Government issues a temporary ban on the sale of disposable barbeques as they pose a "significant risk to the public".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,94 @@ The investigation into a £5m gift received by Farage reopens, as he returns as 
 
 ---
 
-### 6. Farage's by-election victory won't stop questions about finances
+### 6. Prisoners charged over attack on Sara Sharif's father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?
+Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli soldiers prevent aid delivery to besieged Palestinians
+### 7. Pakistan PM’s ‘red line’ warning to India over water treaty
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli soldiers prevent aid delivery to besieged Palestinians
+Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss)
 
 ---
 
-### 8. Israeli forces block activists from reaching besieged Qusra families
+### 8. Russia stance will be defended in court, pledges World Athletics chief Coe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.
+Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss)
 
 ---
 
-### 9. Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18
+### 9. US missionary kidnapped in Niger released after nine months in captivity
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery.
+Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Hernan
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
