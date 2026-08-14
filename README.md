@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 04:33:11
+**Last Update:** 2026-08-14 06:34:50
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bluesky Protocol Services
+### 1. US conducted mass spying campaign against leftwing and anti-ICE protesters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters">https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294199">https://news.ycombinator.com/item?id=49294199</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
+
+---
+
+### 2. Bluesky Protocol Services
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 35</p>
-<p># Comments: 1</p>
+<p>Points: 82</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
 ---
 
-### 2. SparrowMap – Cameras that watch government vehicles
+### 3. SparrowMap – Cameras that watch government vehicles
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
-
----
-
-### 3. How AI text watermarking works
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinator.com/item?id=49292932</a></p>
-<p>Points: 39</p>
+<p>Points: 76</p>
 <p># Comments: 18</p>
 
-🔗 **Read more:** [https://declaude.org/watermarking/](https://declaude.org/watermarking/)
+🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
 ---
 
@@ -97,42 +97,42 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz
+### 7. Why Osun’s election matters for Nigeria’s 2027 vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.
+The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss)
 
 ---
 
-### 8. Yemen faces highest risk of returning to war since 2022 truce, UN warns
+### 8. UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.
+UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: US eyes indefinite Iran naval blockade
+### 9. Could Trump actually run for a third term as president?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.
+Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss)
 
 ---
 
