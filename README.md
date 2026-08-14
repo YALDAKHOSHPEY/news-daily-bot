@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 18:43:08
+**Last Update:** 2026-08-14 19:11:25
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Qwen3.8-27B
+### 1. Introducing Toast 1
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.mixedbread.com/blog/toast-1">https://www.mixedbread.com/blog/toast-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299746">https://news.ycombinator.com/item?id=49299746</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.mixedbread.com/blog/toast-1](https://www.mixedbread.com/blog/toast-1)
+
+---
+
+### 2. Unsloth Qwen3.8-27B GGUF files
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://huggingface.co/unsloth/Qwen3.8-27B-GGUF">https://huggingface.co/unsloth/Qwen3.8-27B-GGUF</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299688">https://news.ycombinator.com/item?id=49299688</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://huggingface.co/unsloth/Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)
+
+---
+
+### 3. Qwen3.8-27B
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/alibaba_qwen/status/2088280182356611304">https://twitter.com/alibaba_qwen/status/2088280182356611304</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299684">https://news.ycombinator.com/item?id=49299684</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 110</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://twitter.com/alibaba_qwen/status/2088280182356611304](https://twitter.com/alibaba_qwen/status/2088280182356611304)
-
----
-
-### 2. Qwen 3.8 27B is out: open weights, best local dense model yet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">https://huggingface.co/Qwen/Qwen3.8-27B-FP8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299605">https://news.ycombinator.com/item?id=49299605</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-
----
-
-### 3. When Genius Fails: The Intellectual Arrogance of the AI Labs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://weightythoughts.com/p/when-genius-failsthe-intellectual">https://weightythoughts.com/p/when-genius-failsthe-intellectual</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299282">https://news.ycombinator.com/item?id=49299282</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://weightythoughts.com/p/when-genius-failsthe-intellectual](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -71,68 +71,68 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 5. Farage faces renewed watchdog probe after Clacton by-election victory
+### 5. Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.
+As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Prisoners charged over attack on Sara Sharif's father
+### 6. Trump asks Supreme Court to allow ballroom work to continue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.
+Forcing the US president to go "hat-in-hand to Congress" for permission would be "dangerous", the administration says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact
+### 7. ‘The party of the Cubans’: How Republicans courted a key South Florida vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.
+Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss)
 
 ---
 
-### 8. Pakistan PM’s ‘red line’ warning to India over water treaty
+### 8. Ahmed al-Sharaa: A New Vision for Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.
+An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss)
 
 ---
 
-### 9. Russia stance will be defended in court, pledges World Athletics chief Coe
+### 9. Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.
+Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss)
 
 ---
 

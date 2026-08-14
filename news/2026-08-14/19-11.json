@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T19:11:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introducing Toast 1",
+            "description": "<p>Article URL: <a href=\"https://www.mixedbread.com/blog/toast-1\">https://www.mixedbread.com/blog/toast-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299746\">https://news.ycombinator.com/item?id=49299746</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://www.mixedbread.com/blog/toast-1",
+            "published": "Fri, 14 Aug 2026 15:07:57 +0000",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unsloth Qwen3.8-27B GGUF files",
+            "description": "<p>Article URL: <a href=\"https://huggingface.co/unsloth/Qwen3.8-27B-GGUF\">https://huggingface.co/unsloth/Qwen3.8-27B-GGUF</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299688\">https://news.ycombinator.com/item?id=49299688</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+            "published": "Fri, 14 Aug 2026 15:04:17 +0000",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-27B",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/alibaba_qwen/status/2088280182356611304\">https://twitter.com/alibaba_qwen/status/2088280182356611304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299684\">https://news.ycombinator.com/item?id=49299684</a></p>\n<p>Points: 110</p>\n<p># Comments: 45</p>",
+            "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+            "published": "Fri, 14 Aug 2026 15:03:54 +0000",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 15:36:45 GMT",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+            "description": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:50:02 GMT",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump asks Supreme Court to allow ballroom work to continue",
+            "description": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 15:10:41 GMT",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
+            "description": "Polls suggest Cuban American voters in Florida remain largely Republican, despite frustration over immigration.",
+            "url": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 15:25:11 +0000",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ahmed al-Sharaa: A New Vision for Syria",
+            "description": "An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+            "description": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 14:48:54 +0000",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T19:11:25+03:30"
+        }
+    ]
+}
