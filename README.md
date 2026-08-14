@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 06:34:50
+**Last Update:** 2026-08-14 07:25:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters">https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294199">https://news.ycombinator.com/item?id=49294199</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 93</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 82</p>
+<p>Points: 91</p>
 <p># Comments: 19</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 76</p>
-<p># Comments: 18</p>
+<p>Points: 103</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
@@ -97,7 +97,33 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Why Osun’s election matters for Nigeria’s 2027 vote
+### 7. Mali says 82 soldiers captured by armed groups have been freed
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss)
+
+---
+
+### 8. Oil slick from tanker carrying sanctioned Russian crude reaches Oman
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss)
+
+---
+
+### 9. Why Osun’s election matters for Nigeria’s 2027 vote
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Multiple fires burned across the West Midlands and destroyed homes.
 The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss)
-
----
-
-### 8. UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss)
-
----
-
-### 9. Could Trump actually run for a third term as president?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss)
 
 ---
 
