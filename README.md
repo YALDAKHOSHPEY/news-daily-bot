@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 03:35:31
+**Last Update:** 2026-08-14 04:33:11
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How AI text watermarking works
+### 1. Bluesky Protocol Services
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
+<p>Points: 35</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+
+---
+
+### 2. SparrowMap – Cameras that watch government vehicles
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
+
+---
+
+### 3. How AI text watermarking works
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinator.com/item?id=49292932</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 39</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://declaude.org/watermarking/](https://declaude.org/watermarking/)
-
----
-
-### 2. PBS loses 70 years of TV history after cloud storage vendor goes defunct
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292843">https://news.ycombinator.com/item?id=49292843</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
-
----
-
-### 3. NP-Overrated
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 109</p>
-<p># Comments: 57</p>
-
-🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
 
 ---
 
@@ -97,42 +97,42 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Gaza City police chief killed as Israel pushes on with deadly strikes
+### 7. UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.
+No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Tate supporters rally for brothers ahead of bail hearing in Miami
+### 8. Yemen faces highest risk of returning to war since 2022 truce, UN warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
+Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss)
 
 ---
 
-### 9. Israeli strikes in Gaza kill two, including police chief
+### 9. Iran war live: US eyes indefinite Iran naval blockade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
+US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss)
 
 ---
 

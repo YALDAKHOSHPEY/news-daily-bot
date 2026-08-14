@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T04:33:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bluesky Protocol Services",
+            "description": "<p>Article URL: <a href=\"https://atproto.com/blog/introducing-bluesky-protocol-services\">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293324\">https://news.ycombinator.com/item?id=49293324</a></p>\n<p>Points: 35</p>\n<p># Comments: 1</p>",
+            "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+            "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SparrowMap – Cameras that watch government vehicles",
+            "description": "<p>Article URL: <a href=\"https://sparrowmap.com/\">https://sparrowmap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293294\">https://news.ycombinator.com/item?id=49293294</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://sparrowmap.com/",
+            "published": "Fri, 14 Aug 2026 00:10:04 +0000",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How AI text watermarking works",
+            "description": "<p>Article URL: <a href=\"https://declaude.org/watermarking/\">https://declaude.org/watermarking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49292932\">https://news.ycombinator.com/item?id=49292932</a></p>\n<p>Points: 39</p>\n<p># Comments: 18</p>",
+            "url": "https://declaude.org/watermarking/",
+            "published": "Thu, 13 Aug 2026 23:16:55 +0000",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Multiple fires destroy homes and cause devastation in West Midlands",
+            "description": "The region's fire chief says the service took thousands of 999 calls across \"one of the most significant\" incidents in its history.",
+            "url": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 22:29:57 GMT",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
+            "description": "Multiple fires burned across the West Midlands and destroyed homes.",
+            "url": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 20:26:25 GMT",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two seriously hurt as passenger train derails in East Sussex",
+            "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
+            "url": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 21:36:39 GMT",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+            "description": "No injuries were reported in the attack, which the UAE called &#039;piracy&#039; and a threat to global energy security.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 00:33:48 +0000",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+            "description": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 00:02:22 +0000",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: US eyes indefinite Iran naval blockade",
+            "description": "US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran &#039;indefinitely&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T04:33:11+03:30"
+        }
+    ]
+}
