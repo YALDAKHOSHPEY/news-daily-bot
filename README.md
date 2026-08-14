@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 14:00:27
+**Last Update:** 2026-08-14 14:25:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why does Opus 5 feel worse to work with?
+### 1. For the love of god stop using CPU limits in Kubernetes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/inevolin/k8s-cpu-limits-analyzed">https://github.com/inevolin/k8s-cpu-limits-analyzed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296939">https://news.ycombinator.com/item?id=49296939</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed)
+
+---
+
+### 2. Why does Opus 5 feel worse to work with?
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 48</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
 ---
 
-### 2. DeepSeek peak/off-peak pricing update
+### 3. Major oil slick washes up on Iran coast after Hormuz ship strike
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cr7kpdkg13zo">https://www.bbc.com/news/articles/cr7kpdkg13zo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296724">https://news.ycombinator.com/item?id=49296724</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
-
----
-
-### 3. Ruby 4.0 Universal RCE Deserialization Gadget Chain
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 31</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cr7kpdkg13zo](https://www.bbc.com/news/articles/cr7kpdkg13zo)
 
 ---
 
@@ -84,16 +84,16 @@ Multiple fires tore through the West Midlands on Thursday, with firefighters sti
 
 ---
 
-### 6. 'Unprecedented' rain in Japan kills six people
+### 6. Eurovision proposes new rules to tackle mass voting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.
+Organisers reportedly say politically motivated voting is "persistent" and is seen as "deeply worrying".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
