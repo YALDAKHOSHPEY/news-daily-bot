@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T19:42:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+            "description": "<p>Article URL: <a href=\"https://mib-viewer.com/\">https://mib-viewer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300419\">https://news.ycombinator.com/item?id=49300419</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://mib-viewer.com/",
+            "published": "Fri, 14 Aug 2026 15:49:33 +0000",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Solving a largely imaginary user goal\"",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/\">https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300411\">https://news.ycombinator.com/item?id=49300411</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
+            "published": "Fri, 14 Aug 2026 15:48:59 +0000",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+            "description": "<p>Article URL: <a href=\"https://github.com/NanoNets/Graft\">https://github.com/NanoNets/Graft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299985\">https://news.ycombinator.com/item?id=49299985</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/NanoNets/Graft",
+            "published": "Fri, 14 Aug 2026 15:22:02 +0000",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 15:36:45 GMT",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+            "description": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:50:02 GMT",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment €9m worth of art stolen from Italy museum",
+            "description": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
+            "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:56:04 GMT",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
+            "description": "Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 15:43:15 +0000",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambia suspends vote counting in election citing violence",
+            "description": "Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 15:40:27 +0000",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+            "description": "Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 15:36:58 +0000",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T19:42:21+03:30"
+        }
+    ]
+}
