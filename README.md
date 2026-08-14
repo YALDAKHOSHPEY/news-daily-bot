@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 02:42:02
+**Last Update:** 2026-08-15 03:14:19
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
+### 1. Stop sending me PRs; a rant
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305558">https://news.ycombinator.com/item?id=49305558</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
+
+---
+
+### 2. RISC-V: They should have known better
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305492">https://news.ycombinator.com/item?id=49305492</a></p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+
+---
+
+### 3. Going Dark, and the era of law enforcement hacking
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
+<p>Points: 136</p>
+<p># Comments: 89</p>
+
+🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+
+---
+
+### 4. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ His family said it was "in shock to have lost this amazing father, partner, brot
 
 ---
 
-### 2. Fires prompt national alert as 19 homes destroyed
+### 5. Fires prompt national alert as 19 homes destroyed
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The prime minister said 37 fires were currently burning across England and Wales
 
 ---
 
-### 3. Temporary ban on sale of disposable BBQs over wildfire risk
+### 6. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 4. Yemen’s government says Houthi attack on al-Makha kills at least four
+### 7. Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss)
+
+---
+
+### 8. Houthi attack on port kills four eroding truce with Yemen’s government
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss)
+
+---
+
+### 9. Yemen’s government says Houthi attack on al-Makha kills at least four
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationa
 
 ---
 
-### 5. Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss)
-
----
-
-### 6. Wildfires rage across Europe as heatwaves drive record temperatures
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss)
-
----
-
-### 7. Tropical Storm Hernan
+### 10. Tropical Storm Hernan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Nangka
+### 11. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Storm Lala
+### 12. Tropical Storm Lala
 
 **Source:** NASA
 
