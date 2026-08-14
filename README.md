@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 22:56:05
+**Last Update:** 2026-08-14 23:11:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -22,7 +22,7 @@
 3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)<p>Works with most LLMs, including coding agents, subscriptions, local models, etc.<p>It's free and open source, would appreciate all feedback!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303046">https://news.ycombinator.com/item?id=49303046</a></p>
-<p>Points: 3</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/lajosdeme/mole](https://github.com/lajosdeme/mole)
@@ -38,26 +38,26 @@
 **Description:**
 <p>Article URL: <a href="https://sandbox.bio/training/embed">https://sandbox.bio/training/embed</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303027">https://news.ycombinator.com/item?id=49303027</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://sandbox.bio/training/embed](https://sandbox.bio/training/embed)
 
 ---
 
-### 3. A Contract-Grade Verifier for LLM-Generated GPU Kernels
+### 3. The American Sports Plutocracy Is Bullshit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://www.derekthompson.org/p/the-american-sports-plutocracy-is">https://www.derekthompson.org/p/the-american-sports-plutocracy-is</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49302943">https://news.ycombinator.com/item?id=49302943</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
+🔗 **Read more:** [https://www.derekthompson.org/p/the-american-sports-plutocracy-is](https://www.derekthompson.org/p/the-american-sports-plutocracy-is)
 
 ---
 
