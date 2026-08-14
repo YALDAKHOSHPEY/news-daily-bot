@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 00:45:37
+**Last Update:** 2026-08-15 01:16:45
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Study links coffee consumption to metabolic health and sex hormones
+### 1. Everything is about to "go dark"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+
+---
+
+### 2. Study links coffee consumption to metabolic health and sex hormones
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones">https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304368">https://news.ycombinator.com/item?id=49304368</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 27</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 
 ---
 
-### 2. Every exterior shot in The Taking of Pelham 123
+### 3. Every exterior shot in The Taking of Pelham 123
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 8</p>
+<p>Points: 12</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
-
----
-
-### 3. New Lower and Upper Bounds for the Grothendieck Constant
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
 
 ---
 
@@ -97,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Mount Etna eruption and volcanic ash shut Sicily’s busiest airport
+### 7. Trump dismisses mental health concerns on USS Lincoln aircraft carrier
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss)
+
+---
+
+### 8. Mount Etna eruption and volcanic ash shut Sicily’s busiest airport
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Flights will be suspended until at least Saturday afternoon, leaving hundreds of
 
 ---
 
-### 8. Former Cambridge professor accused of plagiarism found dead
+### 9. Former Cambridge professor accused of plagiarism found dead
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Flights will be suspended until at least Saturday afternoon, leaving hundreds of
 Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss)
-
----
-
-### 9. Son of Mexico’s former president AMLO alleges US revoked his visa
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss)
 
 ---
 
