@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 02:16:20
+**Last Update:** 2026-08-15 02:42:02
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Going Dark, and the era of law enforcement hacking
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 98</p>
-<p># Comments: 72</p>
-
-🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-
----
-
-### 2. Every exterior shot in The Taking of Pelham 123
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
-
----
-
-### 3. New Lower and Upper Bounds for the Grothendieck Constant
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
-
----
-
-### 4. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
+### 1. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ His family said it was "in shock to have lost this amazing father, partner, brot
 
 ---
 
-### 5. Fires prompt national alert as 19 homes destroyed
+### 2. Fires prompt national alert as 19 homes destroyed
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The prime minister said 37 fires were currently burning across England and Wales
 
 ---
 
-### 6. Temporary ban on sale of disposable BBQs over wildfire risk
+### 3. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
@@ -97,7 +49,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
+### 4. Yemen’s government says Houthi attack on al-Makha kills at least four
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss)
+
+---
+
+### 5. Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ Control over the strait has been a sticking point in the ongoing ceasefire negot
 
 ---
 
-### 8. Wildfires rage across Europe as heatwaves drive record temperatures
+### 6. Wildfires rage across Europe as heatwaves drive record temperatures
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hec
 
 ---
 
-### 9. Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
+### 7. Tropical Storm Hernan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Nangka
+### 8. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Lala
+### 9. Tropical Storm Lala
 
 **Source:** NASA
 
