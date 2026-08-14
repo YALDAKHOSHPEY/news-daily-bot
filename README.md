@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 23:32:02
+**Last Update:** 2026-08-14 23:51:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Z.ai Security Disclosure
+### 1. New Lower and Upper Bounds for the Grothendieck Constant
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
+
+---
+
+### 2. Show HN: AletheionAGI – Grounding enforcement for AI agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.aletheionagi.com">https://www.aletheionagi.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303499">https://news.ycombinator.com/item?id=49303499</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.aletheionagi.com](https://www.aletheionagi.com)
+
+---
+
+### 3. Z.ai Security Disclosure
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://cvd.z.ai">https://cvd.z.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303433">https://news.ycombinator.com/item?id=49303433</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://cvd.z.ai](https://cvd.z.ai)
-
----
-
-### 2. How Claude's text watermarking works
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/claude-text-watermark">https://www.anthropic.com/news/claude-text-watermark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303350">https://news.ycombinator.com/item?id=49303350</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.anthropic.com/news/claude-text-watermark](https://www.anthropic.com/news/claude-text-watermark)
-
----
-
-### 3. Open WireGuard Endpoints
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html">https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303237">https://news.ycombinator.com/item?id=49303237</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
 
 ---
 
@@ -97,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. New aerial video reveals huge scale of oil spill off Oman
+### 7. Son of Mexico’s former president AMLO alleges US revoked his visa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss)
+
+---
+
+### 8. New aerial video reveals huge scale of oil spill off Oman
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A potential environmental disaster is unfolding off Oman, where a grounded tanke
 
 ---
 
-### 8. Trump asks US Supreme Court to allow $400m ballroom project to proceed
+### 9. Trump asks US Supreme Court to allow $400m ballroom project to proceed
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A potential environmental disaster is unfolding off Oman, where a grounded tanke
 Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss)
-
----
-
-### 9. Woman charged over vandalism of World War II Memorial in Washington, DC
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss)
 
 ---
 
