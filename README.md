@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 23:51:27
+**Last Update:** 2026-08-15 00:23:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. New Lower and Upper Bounds for the Grothendieck Constant
+### 1. Every exterior shot in The Taking of Pelham 123
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
+
+---
+
+### 2. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1j1ye6n30no">https://www.bbc.com/news/articles/c1j1ye6n30no</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303774">https://news.ycombinator.com/item?id=49303774</a></p>
+<p>Points: 42</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1j1ye6n30no](https://www.bbc.com/news/articles/c1j1ye6n30no)
+
+---
+
+### 3. New Lower and Upper Bounds for the Grothendieck Constant
 
 **Source:** Hacker News
 
@@ -19,53 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
 
 ---
 
-### 2. Show HN: AletheionAGI – Grounding enforcement for AI agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aletheionagi.com">https://www.aletheionagi.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303499">https://news.ycombinator.com/item?id=49303499</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.aletheionagi.com](https://www.aletheionagi.com)
-
----
-
-### 3. Z.ai Security Disclosure
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cvd.z.ai">https://cvd.z.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303433">https://news.ycombinator.com/item?id=49303433</a></p>
-<p>Points: 24</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://cvd.z.ai](https://cvd.z.ai)
-
----
-
-### 4. Ex-Cambridge professor at centre of plagiarism row found dead
+### 4. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jason Arday was found "unresponsive" at an address in Battersea, south London, on Friday afternoon, officials said.
+Emergency services said a man was found "unresponsive" at an address in Battersea, south London, on Friday afternoon.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss)
 
