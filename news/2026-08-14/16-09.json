@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-14T16:09:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why does Opus 5 feel worse to work with?",
+            "description": "<p>Article URL: <a href=\"https://mun-logadan.github.io/why-does-opus-5-feel-worse/\">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296740\">https://news.ycombinator.com/item?id=49296740</a></p>\n<p>Points: 139</p>\n<p># Comments: 124</p>",
+            "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+            "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek peak/off-peak pricing update",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/news/news260813/\">https://api-docs.deepseek.com/news/news260813/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296627\">https://news.ycombinator.com/item?id=49296627</a></p>\n<p>Points: 80</p>\n<p># Comments: 33</p>",
+            "url": "https://api-docs.deepseek.com/news/news260813/",
+            "published": "Fri, 14 Aug 2026 09:55:33 +0000",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+            "description": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 46</p>\n<p># Comments: 11</p>",
+            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+            "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'Carnage' in Stourbridge as houses destroyed by fire",
+            "description": "Fire crews have been tackling blazes in the West Midlands after multiple fires tore through the region on Thursday.",
+            "url": "https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 11:11:48 GMT",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+            "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+            "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 11:20:52 GMT",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage's by-election victory won't stop questions about finances",
+            "description": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 08:18:02 GMT",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+            "description": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:11:56 +0000",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces block activists from reaching besieged Qusra families",
+            "description": "About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:09:47 +0000",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
+            "description": "Jessica Bang won her first professional event this year but died after collapse in Thailand and emergency surgery.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/rising-australian-golfer-bang-dies-of-brain-haemorrhage-in-thailand-aged-18?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:02:02 +0000",
+            "fetched": "2026-08-14T16:09:59+03:30"
+        }
+    ]
+}
