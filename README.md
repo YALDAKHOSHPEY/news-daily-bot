@@ -1,67 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 23:11:19
+**Last Update:** 2026-08-14 23:32:02
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Mole – Deep research agent for your terminal
+### 1. Z.ai Security Disclosure
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Never spend more than you budgeted (measured overshoot is 0%).
-2. Every claim carries a source
-3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)<p>Works with most LLMs, including coding agents, subscriptions, local models, etc.<p>It's free and open source, would appreciate all feedback!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303046">https://news.ycombinator.com/item?id=49303046</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://cvd.z.ai">https://cvd.z.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303433">https://news.ycombinator.com/item?id=49303433</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/lajosdeme/mole](https://github.com/lajosdeme/mole)
+🔗 **Read more:** [https://cvd.z.ai](https://cvd.z.ai)
 
 ---
 
-### 2. Show HN: Embed a real Linux terminal on your website
+### 2. How Claude's text watermarking works
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sandbox.bio/training/embed">https://sandbox.bio/training/embed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303027">https://news.ycombinator.com/item?id=49303027</a></p>
+<p>Article URL: <a href="https://www.anthropic.com/news/claude-text-watermark">https://www.anthropic.com/news/claude-text-watermark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303350">https://news.ycombinator.com/item?id=49303350</a></p>
 <p>Points: 9</p>
-<p># Comments: 6</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://sandbox.bio/training/embed](https://sandbox.bio/training/embed)
+🔗 **Read more:** [https://www.anthropic.com/news/claude-text-watermark](https://www.anthropic.com/news/claude-text-watermark)
 
 ---
 
-### 3. The American Sports Plutocracy Is Bullshit
+### 3. Open WireGuard Endpoints
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.derekthompson.org/p/the-american-sports-plutocracy-is">https://www.derekthompson.org/p/the-american-sports-plutocracy-is</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49302943">https://news.ycombinator.com/item?id=49302943</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html">https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303237">https://news.ycombinator.com/item?id=49303237</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.derekthompson.org/p/the-american-sports-plutocracy-is](https://www.derekthompson.org/p/the-american-sports-plutocracy-is)
+🔗 **Read more:** [https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
 
 ---
 
-### 4. Temporary ban on sale of disposable BBQs over wildfire risk
+### 4. Ex-Cambridge professor at centre of plagiarism row found dead
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Jason Arday was found "unresponsive" at an address in Battersea, south London, on Friday afternoon, officials said.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
@@ -74,7 +84,7 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 5. Mangione admits killing healthcare CEO and pleads guilty to federal charges
+### 6. Mangione admits killing healthcare CEO and pleads guilty to federal charges
 
 **Source:** BBC
 
@@ -87,20 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 6. Derailed Essex to London train leads to travel chaos
+### 7. New aerial video reveals huge scale of oil spill off Oman
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It has happened less than 24 hours after a train came off the tracks in East Sussex.
+A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss)
 
 ---
 
-### 7. Trump asks US Supreme Court to allow $400m ballroom project to proceed
+### 8. Trump asks US Supreme Court to allow $400m ballroom project to proceed
 
 **Source:** Al Jazeera
 
@@ -113,7 +123,7 @@ Appeals court previously ruled that Trump administration must seek authorisation
 
 ---
 
-### 8. Woman charged over vandalism of World War II Memorial in Washington, DC
+### 9. Woman charged over vandalism of World War II Memorial in Washington, DC
 
 **Source:** Al Jazeera
 
@@ -123,19 +133,6 @@ Appeals court previously ruled that Trump administration must seek authorisation
 The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss)
-
----
-
-### 9. Art offers young Gaza survivors solace and escape from war’s devastation
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss)
 
 ---
 
