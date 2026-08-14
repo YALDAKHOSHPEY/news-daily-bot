@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 15:06:44
+**Last Update:** 2026-08-14 15:34:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. For the love of god stop using CPU limits in Kubernetes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/inevolin/k8s-cpu-limits-analyzed">https://github.com/inevolin/k8s-cpu-limits-analyzed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296939">https://news.ycombinator.com/item?id=49296939</a></p>
-<p>Points: 31</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://github.com/inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed)
-
----
-
-### 2. Why does Opus 5 feel worse to work with?
+### 1. Why does Opus 5 feel worse to work with?
 
 **Source:** Hacker News
 
@@ -35,26 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 79</p>
-<p># Comments: 74</p>
+<p>Points: 92</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
 ---
 
-### 3. Major oil slick washes up on Iran coast after Hormuz ship strike
+### 2. DeepSeek peak/off-peak pricing update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cr7kpdkg13zo">https://www.bbc.com/news/articles/cr7kpdkg13zo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296724">https://news.ycombinator.com/item?id=49296724</a></p>
-<p>Points: 30</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
+<p>Points: 56</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cr7kpdkg13zo](https://www.bbc.com/news/articles/cr7kpdkg13zo)
+🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
+
+---
+
+### 3. Ruby 4.0 Universal RCE Deserialization Gadget Chain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
+<p>Points: 42</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 
 ---
 
@@ -71,7 +71,20 @@ Multiple fires tore through the West Midlands on Thursday, with firefighters sti
 
 ---
 
-### 5. Farage's by-election victory won't stop questions about finances
+### 5. Farage faces renewed watchdog probe after Clacton by-election victory
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Farage's by-election victory won't stop questions about finances
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Nigel Farage triggered the Clacton by-election and the result was predictable - 
 
 ---
 
-### 6. Eurovision proposes new rules to reduce political voting
+### 7. Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers reportedly say politically motivated voting is "persistent" and is seen as "deeply worrying".
+US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss)
 
 ---
 
-### 7. Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link
+### 8. Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead 
 
 ---
 
-### 8. US threatens ‘indefinite’ blockade against Iran: How long can it last?
+### 9. US threatens ‘indefinite’ blockade against Iran: How long can it last?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead 
 US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss)
-
----
-
-### 9. Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss)
 
 ---
 
