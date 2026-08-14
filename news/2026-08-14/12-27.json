@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T12:27:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Phones should have a 'guest lock' feature",
+            "description": "<p>Article URL: <a href=\"https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/\">https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295895\">https://news.ycombinator.com/item?id=49295895</a></p>\n<p>Points: 18</p>\n<p># Comments: 25</p>",
+            "url": "https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/",
+            "published": "Fri, 14 Aug 2026 08:08:41 +0000",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+            "description": "<p>Article URL: <a href=\"https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil\">https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295515\">https://news.ycombinator.com/item?id=49295515</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+            "published": "Fri, 14 Aug 2026 07:03:56 +0000",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+            "description": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+            "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage's by-election victory won't stop questions about finances",
+            "description": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 08:18:02 GMT",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Video shows scale of devastation in Stourbridge",
+            "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+            "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 07:26:53 GMT",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Final day of heatwave for many before weekend cooldown",
+            "description": "Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.",
+            "url": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 00:08:16 GMT",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tanzid makes history as Bangladesh dominate first Australia Test",
+            "description": "Tanzid Hasan hits first Bangladesh ton in Australia as tourists close Day Two of first Test on 351-6, leading by 153.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/tanzid-makes-history-as-bangladesh-dominate-first-australia-test?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 08:40:55 +0000",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US accuses dozens of countries of helping China avoid Trump’s tariffs",
+            "description": "White House report claims tens of billions of dollars in annual revenue lost to transshipments.",
+            "url": "https://www.aljazeera.com/economy/2026/8/14/us-accuses-dozens-of-countries-of-helping-china-avoid-trumps-tariffs?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 08:37:21 +0000",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea players want K League season change due to ‘worsening climate’",
+            "description": "South Korea football players push for a K League season shift as &#039;punishing heat&#039; hitting summer matches.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 08:35:31 +0000",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T12:27:56+03:30"
+        }
+    ]
+}
