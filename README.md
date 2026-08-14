@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 19:42:21
+**Last Update:** 2026-08-14 20:10:11
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Online SNMP MIB database - upload/view your own MIBs
+### 1. RustDesk now supports true unattended remote access on Wayland
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mib-viewer.com/">https://mib-viewer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300419">https://news.ycombinator.com/item?id=49300419</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://rustdesk.com/blog/unattended-remote-access-wayland/">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300759">https://news.ycombinator.com/item?id=49300759</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://mib-viewer.com/](https://mib-viewer.com/)
+🔗 **Read more:** [https://rustdesk.com/blog/unattended-remote-access-wayland/](https://rustdesk.com/blog/unattended-remote-access-wayland/)
 
 ---
 
-### 2. "Solving a largely imaginary user goal"
+### 2. France blocks social media ban because it would require adults to prove age
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/">https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300411">https://news.ycombinator.com/item?id=49300411</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/">https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300671">https://news.ycombinator.com/item?id=49300671</a></p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
+🔗 **Read more:** [https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
 
 ---
 
-### 3. Show HN: Graft – Claude Code hooks that cut grep tokens by 42%
+### 3. RayforceDB – a pure C analytics database with a Lisp-like syntax
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/NanoNets/Graft">https://github.com/NanoNets/Graft</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299985">https://news.ycombinator.com/item?id=49299985</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://rayforcedb.com/">https://rayforcedb.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49300615">https://news.ycombinator.com/item?id=49300615</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/NanoNets/Graft](https://github.com/NanoNets/Graft)
+🔗 **Read more:** [https://rayforcedb.com/](https://rayforcedb.com/)
 
 ---
 
@@ -97,7 +97,33 @@ Police released the CCTV footage after the art, which was stolen in March, was r
 
 ---
 
-### 7. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+### 7. Philippines drug war victims seek justice through truth commission
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss)
+
+---
+
+### 8. Top French court upholds assisted dying law, rejects teen social media ban
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss)
+
+---
+
+### 9. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Police released the CCTV footage after the art, which was stolen in March, was r
 Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss)
-
----
-
-### 8. Zambia suspends vote counting in election citing violence
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss)
-
----
-
-### 9. Qatar challenges AFC over open letter attacking FIFA President Infantino
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss)
 
 ---
 
