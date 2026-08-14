@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 03:00:40
+**Last Update:** 2026-08-14 03:35:31
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: Aerial footage shows homes engulfed in flames in Stourbridge
+### 1. How AI text watermarking works
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinator.com/item?id=49292932</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://declaude.org/watermarking/](https://declaude.org/watermarking/)
+
+---
+
+### 2. PBS loses 70 years of TV history after cloud storage vendor goes defunct
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292843">https://news.ycombinator.com/item?id=49292843</a></p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+
+---
+
+### 3. NP-Overrated
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
+<p>Points: 109</p>
+<p># Comments: 57</p>
+
+🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
+
+---
+
+### 4. Multiple fires destroy homes and cause devastation in West Midlands
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The region's fire chief says the service took thousands of 999 calls across "one of the most significant" incidents in its history.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Aerial footage shows homes engulfed in flames in Stourbridge
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 2. Two seriously hurt as passenger train derails in East Sussex
+### 6. Two seriously hurt as passenger train derails in East Sussex
 
 **Source:** BBC
 
@@ -36,20 +97,7 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 3. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-An amber extreme heat warning is in place for parts of England until midnight.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Gaza City police chief killed as Israel pushes on with deadly strikes
+### 7. Gaza City police chief killed as Israel pushes on with deadly strikes
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and ano
 
 ---
 
-### 5. Tate supporters rally for brothers ahead of bail hearing in Miami
+### 8. Tate supporters rally for brothers ahead of bail hearing in Miami
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre 
 
 ---
 
-### 6. Israeli strikes in Gaza kill two, including police chief
+### 9. Israeli strikes in Gaza kill two, including police chief
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Israeli drone strikes killed at least 2 people and wounded several others in Gaz
 
 ---
 
-### 7. Tropical Storm Hernan
+### 10. Tropical Storm Hernan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Nangka
+### 11. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Storm Lala
+### 12. Tropical Storm Lala
 
 **Source:** NASA
 
