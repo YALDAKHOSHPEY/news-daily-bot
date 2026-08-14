@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 08:55:07
+**Last Update:** 2026-08-14 10:21:14
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bluesky Protocol Services
+### 1. GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
+<p>Points: 199</p>
+<p># Comments: 65</p>
+
+🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
+
+---
+
+### 2. Bluesky Protocol Services
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 120</p>
+<p>Points: 134</p>
 <p># Comments: 22</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
 ---
 
-### 2. Blog about things you don't understand yet
+### 3. Blog about things you don't understand yet
 
 **Source:** Hacker News
 
@@ -35,56 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
-<p>Points: 58</p>
-<p># Comments: 24</p>
+<p>Points: 70</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
 ---
 
-### 3. NP-overrated
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 182</p>
-<p># Comments: 112</p>
-
-🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
-
----
-
-### 4. Multiple fires destroy homes and cause devastation in West Midlands
+### 4. Farage's by-election victory won't stop questions about finances
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The region's fire chief says the service took thousands of 999 calls across "one of the most significant" incidents in its history.
+Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: Aerial footage shows homes engulfed in flames in Stourbridge
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Multiple fires burned across the West Midlands and destroyed homes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. NHS service admits data breach due to pager use
+### 5. NHS service admits data breach due to pager use
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ The medical data of transplant patients from across the UK was sent over an unen
 
 ---
 
-### 7. Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
+### 6. Final day of heatwave for many before weekend cooldown
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Flock adds safeguards to licence-plate readers after wave of stalking cases
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss)
+
+---
+
+### 8. North Korea fumes over upcoming US-South Korea military drills
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss)
+
+---
+
+### 9. Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The medical data of transplant patients from across the UK was sent over an unen
 Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss)
-
----
-
-### 8. Record rainfall leaves four dead, thousands stranded in Japan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss)
-
----
-
-### 9. Salvage work begins on tanker leaking oil off Oman, risk firm says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss)
 
 ---
 
