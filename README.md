@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 11:20:16
+**Last Update:** 2026-08-15 11:45:40
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. "That's not SOC 2 compliant"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ampcode.com/notes/thats-not-soc-2-compliant">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308073">https://news.ycombinator.com/item?id=49308073</a></p>
-<p>Points: 36</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://ampcode.com/notes/thats-not-soc-2-compliant](https://ampcode.com/notes/thats-not-soc-2-compliant)
-
----
-
-### 2. Show HN: ThoughtDAG – An editable context graph for LLM conversations
+### 1. Show HN: ThoughtDAG – An editable context graph for LLM conversations
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 11</p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
 
 ---
 
-### 3. The other Sean Byrne doesn't exist
+### 2. The other Sean Byrne doesn't exist
 
 **Source:** Hacker News
 
@@ -51,23 +35,39 @@
 **Description:**
 <p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
-<p>Points: 74</p>
-<p># Comments: 18</p>
+<p>Points: 90</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 
 ---
 
-### 4. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
+### 3. Show HN: Deltix – AI Driven Testing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
+<p>Points: 25</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
+
+---
+
+### 4. Tributes paid to Jason Arday after ex-Cambridge professor found dead
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-His family said it was "in shock to have lost this amazing father, partner, brother, uncle and son" after the academic was found dead in London on Friday.
+His family said they were "in shock" to have lost him, adding a "campaign of misinformation" had been too much.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
