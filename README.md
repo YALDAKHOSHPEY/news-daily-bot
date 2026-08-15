@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 23:40:50
+**Last Update:** 2026-08-16 00:15:19
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. So How Is AI Drug Discovery Doing, Really?
+### 1. Why tech bosses keep sharing their manifestos about AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
-<p>Points: 24</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cz97ljy91zxo">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313519">https://news.ycombinator.com/item?id=49313519</a></p>
+<p>Points: 8</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cz97ljy91zxo](https://www.bbc.com/news/articles/cz97ljy91zxo)
 
 ---
 
-### 2. First human trials of designer protein therapies stun US neuroscientists
+### 2. AI in drug discovery — what it is, where we stand and the path forward
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08">https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313097">https://news.ycombinator.com/item?id=49313097</a></p>
-<p>Points: 11</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.nature.com/articles/s41573-026-01496-2">https://www.nature.com/articles/s41573-026-01496-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
+<p>Points: 35</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
+🔗 **Read more:** [https://www.nature.com/articles/s41573-026-01496-2](https://www.nature.com/articles/s41573-026-01496-2)
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Jason Arday death 'tragedy on so many levels' says PM
+### 4. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Many residents forced to flee their houses following the blazes are still unsure when they will be allowed to return home.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Jason Arday death 'tragedy on so many levels' says PM
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Andy Burnham says the former Cambridge professor's death is a "really sad, sad a
 
 ---
 
-### 5. Analysis: Arday's death will send shockwaves through a divided academia
+### 6. Analysis: Arday's death will send shockwaves through a divided academia
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ Barely 1% of professors at UK universities are black, so he was joining a small 
 
 ---
 
-### 6. Major incidents across UK put firefighters under 'incredible pressure', fire chief says
+### 7. Canadian petition to expel US ambassador gains over 170,000 signatures
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.
+The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss)
 
 ---
 
-### 7. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
+### 8. Moroccan Police Intercept Migrants Heading for Ceuta Enclave
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss)
+
+---
+
+### 9. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss)
-
----
-
-### 8. Death toll from Zimbabwe ferry disaster rises to 72
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss)
-
----
-
-### 9. La Liga: Real Madrid key talking points heading into new 2026-27 season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

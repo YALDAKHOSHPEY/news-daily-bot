@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-16T00:15:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why tech bosses keep sharing their manifestos about AI",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz97ljy91zxo\">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313519\">https://news.ycombinator.com/item?id=49313519</a></p>\n<p>Points: 8</p>\n<p># Comments: 6</p>",
+            "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+            "published": "Sat, 15 Aug 2026 19:30:32 +0000",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI in drug discovery — what it is, where we stand and the path forward",
+            "description": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41573-026-01496-2\">https://www.nature.com/articles/s41573-026-01496-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313367\">https://news.ycombinator.com/item?id=49313367</a></p>\n<p>Points: 35</p>\n<p># Comments: 21</p>",
+            "url": "https://www.nature.com/articles/s41573-026-01496-2",
+            "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313047\">https://news.ycombinator.com/item?id=49313047</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+            "published": "Sat, 15 Aug 2026 18:33:25 +0000",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Many residents forced to flee their houses following the blazes are still unsure when they will be allowed to return home.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:41:54 GMT",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:43:04 GMT",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+            "description": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:09:33 +0000",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+            "description": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:07:07 +0000",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+            "description": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 19:46:20 +0000",
+            "fetched": "2026-08-16T00:15:19+03:30"
+        }
+    ]
+}
