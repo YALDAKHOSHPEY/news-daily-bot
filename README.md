@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 00:41:39
+**Last Update:** 2026-08-16 01:12:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cultivating a state of mind where new ideas are born
+### 1. Cultivating a state of mind where new ideas are born (2023)
 
 **Source:** Hacker News
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.henrikkarlsson.xyz/p/good-ideas">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314235">https://news.ycombinator.com/item?id=49314235</a></p>
-<p>Points: 3</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.henrikkarlsson.xyz/p/good-ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
 
 ---
 
-### 2. Meta will train its AI on Newsmax, a far-right media outlet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://popular.info/p/meta-will-train-its-ai-on-far-right">https://popular.info/p/meta-will-train-its-ai-on-far-right</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313778">https://news.ycombinator.com/item?id=49313778</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://popular.info/p/meta-will-train-its-ai-on-far-right](https://popular.info/p/meta-will-train-its-ai-on-far-right)
-
----
-
-### 3. Why tech bosses keep sharing their manifestos about AI
+### 2. Why tech bosses keep sharing their manifestos about AI
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cz97ljy91zxo">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313519">https://news.ycombinator.com/item?id=49313519</a></p>
-<p>Points: 12</p>
-<p># Comments: 23</p>
+<p>Points: 14</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cz97ljy91zxo](https://www.bbc.com/news/articles/cz97ljy91zxo)
+
+---
+
+### 3. Israeli PR wants to answer your ChatGPT questions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138">https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313477">https://news.ycombinator.com/item?id=49313477</a></p>
+<p>Points: 35</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Many residents forced to flee their houses following blazes in the West Midlands are still unsure when they will be allowed to return home.
+Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
 
@@ -84,20 +84,33 @@ Andy Burnham says the former Cambridge professor's death is a "really sad, sad a
 
 ---
 
-### 6. Analysis: Arday's death will send shockwaves through a divided academia
+### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.
+A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. California tackles multiple wildfires as firefighter workforce faces strain
+### 7. Qatar denies it is detaining three Iranian bomber pilots
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss)
+
+---
+
+### 8. California tackles multiple wildfires as firefighter workforce faces strain
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The federal wildland firefighting workforce, faced with low pay and cost of livi
 
 ---
 
-### 8. Canadian petition to expel US ambassador gains over 170,000 signatures
+### 9. Canadian petition to expel US ambassador gains over 170,000 signatures
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The federal wildland firefighting workforce, faced with low pay and cost of livi
 The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss)
-
----
-
-### 9. Moroccan Police Intercept Migrants Heading for Ceuta Enclave
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss)
 
 ---
 
