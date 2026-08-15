@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 21:44:13
+**Last Update:** 2026-08-15 22:23:44
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. TreasuryDirect: Prepare for ID.me – Your New Way to Log In
+### 1. Voltair (YC W26) Is Hiring a Test Flight Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313047">https://news.ycombinator.com/item?id=49313047</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+
+---
+
+### 2. AI Isn't Outthinking Mathematicians. It's Out-Remembering Them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312845">https://news.ycombinator.com/item?id=49312845</a></p>
+<p>Points: 53</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+
+---
+
+### 3. TreasuryDirect: Prepare for ID.me – Your New Way to Log In
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.treasurydirect.gov/savings-bonds/idme-one-month/">https://www.treasurydirect.gov/savings-bonds/idme-one-month/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312465">https://news.ycombinator.com/item?id=49312465</a></p>
-<p>Points: 12</p>
-<p># Comments: 12</p>
+<p>Points: 20</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.treasurydirect.gov/savings-bonds/idme-one-month/](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
-
----
-
-### 2. Europe's scorched landscapes seen from space after summer heatwaves
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gxy0wqqd9o">https://www.bbc.com/news/articles/c4gxy0wqqd9o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312413">https://news.ycombinator.com/item?id=49312413</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c4gxy0wqqd9o](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
-
----
-
-### 3. The Dutch Community Where People Live on Strips of Land in a Lake
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.core77.com/posts/144869">https://www.core77.com/posts/144869</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312165">https://news.ycombinator.com/item?id=49312165</a></p>
-<p>Points: 27</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.core77.com/posts/144869](https://www.core77.com/posts/144869)
 
 ---
 
@@ -97,7 +97,33 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. US aircraft carrier expected to relieve USS Lincoln in Middle East
+### 7. La Liga: Real Madrid key talking points heading into new 2026-27 season
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
+
+---
+
+### 8. Cleanup underway as Russian oil spill reaches Oman’s coastline
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss)
+
+---
+
+### 9. US aircraft carrier expected to relieve USS Lincoln in Middle East
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss)
-
----
-
-### 8. Inter Milan sign England’s Djed Spence from Tottenham Hotspur
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss)
-
----
-
-### 9. Tropical Storm Lala expected to strengthen as it nears Hawaii
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Iceberg C39
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
-
----
-
-### 12. Iceberg D32
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 
