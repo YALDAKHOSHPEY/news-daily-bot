@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 07:31:28
+**Last Update:** 2026-08-15 07:50:11
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 6</p>
+<p>Points: 7</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 122</p>
-<p># Comments: 22</p>
+<p>Points: 132</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 50</p>
+<p>Points: 53</p>
 <p># Comments: 30</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
@@ -97,7 +97,33 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. HRW says US civil rights enforcement reduced under Trump: What to know
+### 7. Did the US really destroy Iran’s ballistic missile capability?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss)
+
+---
+
+### 8. India marks 80th Independence Day with military display
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+India marked its 80th Independence Day at Delhi’s historic Red Fort.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss)
+
+---
+
+### 9. HRW says US civil rights enforcement reduced under Trump: What to know
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Single-use grills pose a "significant risk to the public" in current drought and
 A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss)
-
----
-
-### 8. US President Trump says he will declare Strait of Hormuz US territory
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss)
-
----
-
-### 9. Venezuela says 131 political prisoners freed amid post-Maduro talks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss)
 
 ---
 
