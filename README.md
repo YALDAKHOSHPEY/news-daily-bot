@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 09:18:12
+**Last Update:** 2026-08-15 09:49:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Points: 34</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 
 ---
 
-### 2. AI Driven Testing
+### 2. The End of Mathematics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics">https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307383">https://news.ycombinator.com/item?id=49307383</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics)
+
+---
+
+### 3. Show HN: Deltix – AI Driven Testing
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 18</p>
+<p>Points: 20</p>
 <p># Comments: 7</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
-
----
-
-### 3. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 158</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
 ---
 
