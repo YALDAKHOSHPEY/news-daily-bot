@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 14:15:22
+**Last Update:** 2026-08-15 14:40:21
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Debian has begun voting on the future of AI/LLM contributions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
-
----
-
-### 2. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+### 1. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
 
 ---
 
-### 3. Suspecting court of using AI, man injected prompts in filings to try to win case
+### 2. Suspecting court of using AI, man injected prompts in filings to try to win case
 
 **Source:** Hacker News
 
@@ -51,36 +35,52 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 28</p>
-<p># Comments: 18</p>
+<p>Points: 32</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 
 ---
 
-### 4. Tributes paid to Jason Arday after ex-Cambridge professor found dead
+### 3. Show HN: ThoughtDAG – An editable context graph for LLM conversations
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
+<p>Points: 44</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
+
+---
+
+### 4. Jason Arday death 'tragedy on so many levels' says PM
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-His family said they were "in shock" to have lost him, adding a "campaign of misinformation" had been too much.
+Andy Burnham said the former Cambridge professor's death was a "really sad, sad and sorry state of affairs".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Temporary ban on disposable BBQs as military deployed to help battle wildfires
+### 5. Analysis: Arday's death will send shockwaves through a divided academia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Single-use grills pose a "significant risk to the public" in current drought and heatwave conditions, the government warns.
+The academic's Cambridge appointment in 2023 drew worldwide attention
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. At scene of deadly Israeli strike on Lebanon home
+### 7. World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five year deal.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss)
+
+---
+
+### 8. Arsenal vs Manchester City: Community Shield – prediction, lineups, teams
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss)
+
+---
+
+### 9. At scene of deadly Israeli strike on Lebanon home
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss)
-
----
-
-### 8. Bangladesh rock Australia as historic Test win in sight
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Australia close Day Three of the first Test against Bangladesh on 161-4, trailing the record-chasing tourists by 67.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss)
-
----
-
-### 9. FIFA World Cup and Olympics cited as Coe warns of politicians near sport
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-World Athletics&#039; president says political influence in sport must be kept in check with LA Olympics on horizon.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
