@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 06:40:14
+**Last Update:** 2026-08-15 06:59:41
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+### 1. AI Driven Testing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
+
+---
+
+### 2. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 84</p>
-<p># Comments: 16</p>
+<p>Points: 102</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
 ---
 
-### 2. The Ploopy A+ Trackball Is Here
+### 3. The Ploopy A+ Trackball Is Here
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 36</p>
-<p># Comments: 23</p>
+<p>Points: 43</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
-
----
-
-### 3. NSA and IETF, Part 9
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cr.yp.to/20260814-update.html">https://blog.cr.yp.to/20260814-update.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306432">https://news.ycombinator.com/item?id=49306432</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://blog.cr.yp.to/20260814-update.html](https://blog.cr.yp.to/20260814-update.html)
 
 ---
 
@@ -97,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. US President Trump says he will declare Strait of Hormuz US territory
+### 7. HRW says US civil rights enforcement reduced under Trump: What to know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss)
+
+---
+
+### 8. US President Trump says he will declare Strait of Hormuz US territory
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US President Donald Trump said he will “soon” declare the Strait of Hormuz a
 
 ---
 
-### 8. Venezuela says 131 political prisoners freed amid post-Maduro talks
+### 9. Venezuela says 131 political prisoners freed amid post-Maduro talks
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US President Donald Trump said he will “soon” declare the Strait of Hormuz a
 As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss)
-
----
-
-### 9. 7.7-magnitude earthquake strikes eastern Indonesia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss)
 
 ---
 
