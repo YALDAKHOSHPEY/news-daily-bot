@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 08:24:01
+**Last Update:** 2026-08-15 08:46:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
 <p>Points: 13</p>
-<p># Comments: 4</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 141</p>
-<p># Comments: 27</p>
+<p>Points: 146</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 58</p>
-<p># Comments: 31</p>
+<p>Points: 65</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Iran says no decision yet on a return to talks with the US
+### 7. Morocco boosts Ceuta security amid calls for mass migrant crossing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
+Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss)
 
 ---
 
-### 8. What we know about the crisis aboard the USS Lincoln
+### 8. On the ground in Indonesia following 7.7 magnitude earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.
+A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss)
 
 ---
 
-### 9. Did the US really destroy Iran’s ballistic missile capability?
+### 9. Taiwan passes defence budget after record delay, retains drone funding
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.
+Taiwan parliament ends deadlock, ensuring vital drone programme funding amid rising cross-strait tensions with Beijing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss)
 
 ---
 
