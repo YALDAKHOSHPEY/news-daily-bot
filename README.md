@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 10:35:09
+**Last Update:** 2026-08-15 10:51:20
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,31 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://ampcode.com/notes/thats-not-soc-2-compliant">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308073">https://news.ycombinator.com/item?id=49308073</a></p>
-<p>Points: 30</p>
+<p>Points: 31</p>
 <p># Comments: 14</p>
 
 🔗 **Read more:** [https://ampcode.com/notes/thats-not-soc-2-compliant](https://ampcode.com/notes/thats-not-soc-2-compliant)
 
 ---
 
-### 2. Ask HN: How do you keep up with HN these days?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.<p>How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308059">https://news.ycombinator.com/item?id=49308059</a></p>
-<p>Points: 25</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49308059](https://news.ycombinator.com/item?id=49308059)
-
----
-
-### 3. Show HN: ThoughtDAG – An editable context graph for LLM conversations
+### 2. Show HN: ThoughtDAG – An editable context graph for LLM conversations
 
 **Source:** Hacker News
 
@@ -52,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
+
+---
+
+### 3. The other Sean Byrne doesn't exist
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
+<p>Points: 52</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 
 ---
 
@@ -98,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Small-scale projects offer hope for Gaza farmers rebuilding lives
+### 7. South Korea’s president wants talks with North to end Korean War
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss)
+
+---
+
+### 8. Small-scale projects offer hope for Gaza farmers rebuilding lives
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them
 
 ---
 
-### 8. How a Sudanese refugee became a head teacher in a Chadian camp
+### 9. How a Sudanese refugee became a head teacher in a Chadian camp
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them
 Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss)
-
----
-
-### 9. Morocco boosts Ceuta security amid calls for mass migrant crossing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss)
 
 ---
 
