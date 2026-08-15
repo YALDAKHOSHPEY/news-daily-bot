@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 01:40:11
+**Last Update:** 2026-08-16 02:14:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bede Liu, a digital signal processing pioneer, has died
+### 1. Engineers will do anything to avoid learning from history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314744">https://news.ycombinator.com/item?id=49314744</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
+
+---
+
+### 2. Modeling and Verification of Keeta's Consensus [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://xescu.re/keeta-consensus.pdf">https://xescu.re/keeta-consensus.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314642">https://news.ycombinator.com/item?id=49314642</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://xescu.re/keeta-consensus.pdf](https://xescu.re/keeta-consensus.pdf)
+
+---
+
+### 3. Bede Liu, a digital signal processing pioneer, has died
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/digital-signal-processing">https://spectrum.ieee.org/digital-signal-processing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314615">https://news.ycombinator.com/item?id=49314615</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/digital-signal-processing](https://spectrum.ieee.org/digital-signal-processing)
-
----
-
-### 2. The Wow signal was a strong narrowband radio signal detected on August 15, 1977
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wow!_signal">https://en.wikipedia.org/wiki/Wow!_signal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314596">https://news.ycombinator.com/item?id=49314596</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
-
----
-
-### 3. No-New-Physics Consciousness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.overcomingbias.com/p/no-new-physics-consciousness">https://www.overcomingbias.com/p/no-new-physics-consciousness</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314567">https://news.ycombinator.com/item?id=49314567</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.overcomingbias.com/p/no-new-physics-consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
 
 ---
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Qatar denies it is detaining three Iranian bomber pilots
+### 7. Why is the latest Ebola outbreak worsening?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Virus spreading in DRC faster than containment efforts.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss)
+
+---
+
+### 8. Qatar denies it is detaining three Iranian bomber pilots
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran says Qatar is holding three pilots who were shot down in March. Doha decrie
 
 ---
 
-### 8. California tackles multiple wildfires as firefighter workforce faces strain
+### 9. California tackles multiple wildfires as firefighter workforce faces strain
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran says Qatar is holding three pilots who were shot down in March. Doha decrie
 The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss)
-
----
-
-### 9. Canadian petition to expel US ambassador gains over 170,000 signatures
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss)
 
 ---
 
