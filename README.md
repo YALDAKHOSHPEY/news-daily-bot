@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 00:15:19
+**Last Update:** 2026-08-16 00:41:39
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why tech bosses keep sharing their manifestos about AI
+### 1. Cultivating a state of mind where new ideas are born
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.henrikkarlsson.xyz/p/good-ideas">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314235">https://news.ycombinator.com/item?id=49314235</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.henrikkarlsson.xyz/p/good-ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
+
+---
+
+### 2. Meta will train its AI on Newsmax, a far-right media outlet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://popular.info/p/meta-will-train-its-ai-on-far-right">https://popular.info/p/meta-will-train-its-ai-on-far-right</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313778">https://news.ycombinator.com/item?id=49313778</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://popular.info/p/meta-will-train-its-ai-on-far-right](https://popular.info/p/meta-will-train-its-ai-on-far-right)
+
+---
+
+### 3. Why tech bosses keep sharing their manifestos about AI
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cz97ljy91zxo">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313519">https://news.ycombinator.com/item?id=49313519</a></p>
-<p>Points: 8</p>
-<p># Comments: 6</p>
+<p>Points: 12</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cz97ljy91zxo](https://www.bbc.com/news/articles/cz97ljy91zxo)
-
----
-
-### 2. AI in drug discovery — what it is, where we stand and the path forward
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nature.com/articles/s41573-026-01496-2">https://www.nature.com/articles/s41573-026-01496-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
-<p>Points: 35</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.nature.com/articles/s41573-026-01496-2](https://www.nature.com/articles/s41573-026-01496-2)
-
----
-
-### 3. Voltair (YC W26) Is Hiring a Test Flight Engineer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313047">https://news.ycombinator.com/item?id=49313047</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Many residents forced to flee their houses following the blazes are still unsure when they will be allowed to return home.
+Many residents forced to flee their houses following blazes in the West Midlands are still unsure when they will be allowed to return home.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Barely 1% of professors at UK universities are black, so he was joining a small 
 
 ---
 
-### 7. Canadian petition to expel US ambassador gains over 170,000 signatures
+### 7. California tackles multiple wildfires as firefighter workforce faces strain
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss)
+
+---
+
+### 8. Canadian petition to expel US ambassador gains over 170,000 signatures
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The petition is set to be discussed by House of Commons in a sign of discontent 
 
 ---
 
-### 8. Moroccan Police Intercept Migrants Heading for Ceuta Enclave
+### 9. Moroccan Police Intercept Migrants Heading for Ceuta Enclave
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ Security forces in Fnideq have stepped up operations to prevent migrants from cr
 
 ---
 
-### 9. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
+### 10. Tropical Storm Hernan
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

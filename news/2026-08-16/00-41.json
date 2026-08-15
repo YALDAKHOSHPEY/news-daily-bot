@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T00:41:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cultivating a state of mind where new ideas are born",
+            "description": "<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/good-ideas\">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314235\">https://news.ycombinator.com/item?id=49314235</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+            "published": "Sat, 15 Aug 2026 20:54:11 +0000",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+            "description": "<p>Article URL: <a href=\"https://popular.info/p/meta-will-train-its-ai-on-far-right\">https://popular.info/p/meta-will-train-its-ai-on-far-right</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313778\">https://news.ycombinator.com/item?id=49313778</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
+            "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+            "published": "Sat, 15 Aug 2026 20:00:14 +0000",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why tech bosses keep sharing their manifestos about AI",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz97ljy91zxo\">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313519\">https://news.ycombinator.com/item?id=49313519</a></p>\n<p>Points: 12</p>\n<p># Comments: 23</p>",
+            "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+            "published": "Sat, 15 Aug 2026 19:30:32 +0000",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Many residents forced to flee their houses following blazes in the West Midlands are still unsure when they will be allowed to return home.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:41:54 GMT",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:43:04 GMT",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+            "description": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:40:48 +0000",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+            "description": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:09:33 +0000",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+            "description": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:07:07 +0000",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T00:41:39+03:30"
+        }
+    ]
+}
