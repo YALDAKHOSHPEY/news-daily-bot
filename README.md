@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 18:15:14
+**Last Update:** 2026-08-15 18:40:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 21</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://opensauce.it/cloudflare-ai-psychosis/">https://opensauce.it/cloudflare-ai-psychosis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310719">https://news.ycombinator.com/item?id=49310719</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 72</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://opensauce.it/cloudflare-ai-psychosis/](https://opensauce.it/cloudflare-ai-psychosis/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://alexrios.me/blog/writergate/">https://alexrios.me/blog/writergate/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310623">https://news.ycombinator.com/item?id=49310623</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://alexrios.me/blog/writergate/](https://alexrios.me/blog/writergate/)
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Afghans mark five years of Taliban rule
+### 7. The next Yemen war might be different
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Drones are no longer the advantage for only one side.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss)
+
+---
+
+### 8. Afghans mark five years of Taliban rule
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Afghans have gathered in Kabul to mark five years since the Taliban returned to 
 
 ---
 
-### 8. Black professor at centre of Cambridge plagiarism row found dead
+### 9. Black professor at centre of Cambridge plagiarism row found dead
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Afghans have gathered in Kabul to mark five years since the Taliban returned to 
 Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss)
-
----
-
-### 9. Vienna woman sues city for discrimination over toilet fees
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An Austrian activist in Vienna is challenging the city over public toilet fees.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss)
 
 ---
 
@@ -149,29 +149,29 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Nangka
+### 11. Iceberg C39
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
 
 ---
 
-### 12. Tropical Storm Lala
+### 12. Iceberg D32
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 
