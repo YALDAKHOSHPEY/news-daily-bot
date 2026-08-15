@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 16:35:40
+**Last Update:** 2026-08-15 16:52:40
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://sankalp.bearblog.dev/autoresearch/">https://sankalp.bearblog.dev/autoresearch/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309549">https://news.ycombinator.com/item?id=49309549</a></p>
-<p>Points: 61</p>
-<p># Comments: 12</p>
+<p>Points: 78</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://sankalp.bearblog.dev/autoresearch/](https://sankalp.bearblog.dev/autoresearch/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 43</p>
-<p># Comments: 26</p>
+<p>Points: 47</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 
@@ -97,42 +97,42 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Afghan refugees face an uncertain future as Europe shifts to the right
+### 7. Afghans mark five years of Taliban rule
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.
+Afghans have gathered in Kabul to mark five years since the Taliban returned to power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss)
 
 ---
 
-### 8. Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+### 8. Black professor at centre of Cambridge plagiarism row found dead
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
+Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss)
 
 ---
 
-### 9. Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
+### 9. Vienna woman sues city for discrimination over toilet fees
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
+An Austrian activist in Vienna is challenging the city over public toilet fees.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss)
 
 ---
 
