@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 18:40:11
+**Last Update:** 2026-08-15 19:12:25
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
-<p>Points: 21</p>
-<p># Comments: 22</p>
+<p>Points: 32</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 
 ---
 
-### 2. Cloudflare's AI Psychosis
+### 2. The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://opensauce.it/cloudflare-ai-psychosis/">https://opensauce.it/cloudflare-ai-psychosis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310719">https://news.ycombinator.com/item?id=49310719</a></p>
-<p>Points: 72</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310682">https://news.ycombinator.com/item?id=49310682</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://opensauce.it/cloudflare-ai-psychosis/](https://opensauce.it/cloudflare-ai-psychosis/)
+🔗 **Read more:** [https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://alexrios.me/blog/writergate/">https://alexrios.me/blog/writergate/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310623">https://news.ycombinator.com/item?id=49310623</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Points: 24</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://alexrios.me/blog/writergate/](https://alexrios.me/blog/writergate/)
 
@@ -97,7 +97,33 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. The next Yemen war might be different
+### 7. Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A decade ago, student leaders were jailed for shouting &#039;Azadi&#039;, which means freedom.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss)
+
+---
+
+### 8. How blind football is helping women overcome barriers in Mexico
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mexico is sending its first blind women&#039;s football team to compete in an international tournament. Players cannot wait.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss)
+
+---
+
+### 9. The next Yemen war might be different
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 Drones are no longer the advantage for only one side.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss)
-
----
-
-### 8. Afghans mark five years of Taliban rule
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Afghans have gathered in Kabul to mark five years since the Taliban returned to power.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss)
-
----
-
-### 9. Black professor at centre of Cambridge plagiarism row found dead
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss)
 
 ---
 
