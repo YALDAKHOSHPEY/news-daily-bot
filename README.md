@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 02:40:53
+**Last Update:** 2026-08-16 03:11:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/">https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314962">https://news.ycombinator.com/item?id=49314962</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
+<p>Points: 37</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombinator.com/item?id=49314884</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://sugartrack-beta.vercel.app/](https://sugartrack-beta.vercel.app/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314744">https://news.ycombinator.com/item?id=49314744</a></p>
-<p>Points: 47</p>
-<p># Comments: 20</p>
+<p>Points: 76</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
 
@@ -97,7 +97,33 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. US Democrats finalise major shakeup to 2028 presidential primary calendar
+### 7. At least five reported dead amid flooding in US state of Indiana
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Indiana&#039;s state governor says that US government has promised assistance after a week of heavy rainfall.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss)
+
+---
+
+### 8. Colombia asks Trump to suspend tariffs as country reels from earthquake
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss)
+
+---
+
+### 9. US Democrats finalise major shakeup to 2028 presidential primary calendar
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss)
-
----
-
-### 8. Why is the latest Ebola outbreak worsening?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Virus spreading in DRC faster than containment efforts.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss)
-
----
-
-### 9. Qatar denies it is detaining three Iranian bomber pilots
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss)
 
 ---
 
