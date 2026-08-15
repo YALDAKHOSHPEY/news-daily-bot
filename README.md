@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 04:07:41
+**Last Update:** 2026-08-15 05:24:48
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jane Street suffers $15B hit after meltdown at Situational Awareness
+### 1. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697">https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305927">https://news.ycombinator.com/item?id=49305927</a></p>
-<p>Points: 44</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697)
+🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
 ---
 
-### 2. The case for overhauling American science
+### 2. The Ploopy A+ Trackball Is Here
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science">https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305708">https://news.ycombinator.com/item?id=49305708</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
+🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
 ---
 
-### 3. Stop sending me huge PRs; a rant
+### 3. Simplifying and Refactoring Introductory Calculus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305558">https://news.ycombinator.com/item?id=49305558</a></p>
-<p>Points: 27</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://arxiv.org/abs/1811.03459">https://arxiv.org/abs/1811.03459</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306196">https://news.ycombinator.com/item?id=49306196</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
+🔗 **Read more:** [https://arxiv.org/abs/1811.03459](https://arxiv.org/abs/1811.03459)
 
 ---
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. UN urges support for Afghan women’s aid five years into Taliban rule
+### 7. At least two killed as magnitude 7.7 quake hits Indonesia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.
+Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss)
 
 ---
 
-### 8. Families angered by slow search for loved ones after Colombia quake
+### 8. Mangione pleads guilty as polarising CEO killing reaches new phase
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.
+Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’
+### 9. Buenaventura residents criticise state neglect after Colombia’s earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.
+Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss)
 
 ---
 
