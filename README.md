@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 15:11:54
+**Last Update:** 2026-08-15 15:46:47
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Debian has begun voting on the future of AI/LLM contributions
+### 1. Auto-research with codex: How I achieved a 232x Faster Kernel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sankalp.bearblog.dev/autoresearch/">https://sankalp.bearblog.dev/autoresearch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309549">https://news.ycombinator.com/item?id=49309549</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://sankalp.bearblog.dev/autoresearch/](https://sankalp.bearblog.dev/autoresearch/)
+
+---
+
+### 2. Debian has begun voting on the future of AI/LLM contributions
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Points: 32</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 
 ---
 
-### 2. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+### 3. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Points: 33</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
-
----
-
-### 3. Suspecting court of using AI, man injected prompts in filings to try to win case
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 40</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 
 ---
 
@@ -133,45 +133,6 @@ The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its
 Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
