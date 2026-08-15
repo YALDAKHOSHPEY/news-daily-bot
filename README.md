@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 11:45:40
+**Last Update:** 2026-08-15 12:21:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 13</p>
+<p>Points: 19</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
-<p>Points: 90</p>
-<p># Comments: 25</p>
+<p>Points: 119</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 25</p>
-<p># Comments: 8</p>
+<p>Points: 28</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
 
@@ -71,20 +71,7 @@ His family said they were "in shock" to have lost him, adding a "campaign of mis
 
 ---
 
-### 5. Fires prompt national alert as 19 homes destroyed
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister said 37 fires were currently burning across England and Wales
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Temporary ban on disposable BBQs as military deployed to help battle wildfires
+### 5. Temporary ban on disposable BBQs as military deployed to help battle wildfires
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout
+### 6. Five years after the Taliban swept to power, does the West have any influence?
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA&#039;s Gianni Infantino &#039;it&#039;s just politics&#039;.
+Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. A Syrian intervention in Lebanon would be too costly for Damascus
+### 7. FIFA World Cup and Olympics cited as Coe warns of politicians near sport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.
+World Athletics&#039; president says political influence in sport must be kept in check with LA Olympics on horizon.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss)
 
 ---
 
-### 9. Israeli strike kills seven in south Lebanon as attacks intensify
+### 8. Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.
+Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss)
+
+---
+
+### 9. The women India’s biggest river project forgot
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As the Ken-Betwa dam displaces thousands, legal protections on compensation are being ignored.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss)
 
 ---
 
