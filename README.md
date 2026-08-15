@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 13:42:46
+**Last Update:** 2026-08-15 14:15:22
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Suspecting court of using AI, man injected prompts in filings to try to win case
+### 1. Debian has begun voting on the future of AI/LLM contributions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
+
+---
+
+### 2. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
+
+---
+
+### 3. Suspecting court of using AI, man injected prompts in filings to try to win case
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 20</p>
-<p># Comments: 10</p>
+<p>Points: 28</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
-
----
-
-### 2. Ask HN: How do you keep up with HN these days?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.<p>How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308059">https://news.ycombinator.com/item?id=49308059</a></p>
-<p>Points: 32</p>
-<p># Comments: 56</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49308059](https://news.ycombinator.com/item?id=49308059)
-
----
-
-### 3. Show HN: ThoughtDAG – An editable context graph for LLM conversations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 30</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
 
 ---
 
@@ -98,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Bangladesh rock Australia as historic Test win in sight
+### 7. At scene of deadly Israeli strike on Lebanon home
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss)
+
+---
+
+### 8. Bangladesh rock Australia as historic Test win in sight
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Australia close Day Three of the first Test against Bangladesh on 161-4, trailin
 
 ---
 
-### 8. FIFA World Cup and Olympics cited as Coe warns of politicians near sport
+### 9. FIFA World Cup and Olympics cited as Coe warns of politicians near sport
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Australia close Day Three of the first Test against Bangladesh on 161-4, trailin
 World Athletics&#039; president says political influence in sport must be kept in check with LA Olympics on horizon.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss)
-
----
-
-### 9. Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss)
 
 ---
 
