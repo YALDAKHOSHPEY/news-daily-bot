@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 23:11:51
+**Last Update:** 2026-08-15 23:40:50
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
+<p>Points: 24</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08">https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313097">https://news.ycombinator.com/item?id=49313097</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Points: 11</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
 
@@ -97,20 +97,33 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. Death toll from Zimbabwe ferry disaster rises to 69
+### 7. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
+A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss)
+
+---
+
+### 8. Death toll from Zimbabwe ferry disaster rises to 72
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss)
 
 ---
 
-### 8. La Liga: Real Madrid key talking points heading into new 2026-27 season
+### 9. La Liga: Real Madrid key talking points heading into new 2026-27 season
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Police say 23 more bodies have been recovered from Lake Kariba after the overloa
 Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
-
----
-
-### 9. Cleanup underway as Russian oil spill reaches Oman’s coastline
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss)
 
 ---
 
