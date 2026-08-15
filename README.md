@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 06:59:41
+**Last Update:** 2026-08-15 07:31:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 102</p>
-<p># Comments: 18</p>
+<p>Points: 122</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 43</p>
-<p># Comments: 27</p>
+<p>Points: 50</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
@@ -84,7 +84,7 @@ The prime minister said 37 fires were currently burning across England and Wales
 
 ---
 
-### 6. Temporary ban on sale of disposable BBQs over wildfire risk
+### 6. Temporary ban on disposable BBQs as military deployed to help battle wildfires
 
 **Source:** BBC
 
