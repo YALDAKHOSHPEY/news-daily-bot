@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T04:07:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697\">https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305927\">https://news.ycombinator.com/item?id=49305927</a></p>\n<p>Points: 44</p>\n<p># Comments: 7</p>",
+            "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+            "published": "Fri, 14 Aug 2026 23:40:37 +0000",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The case for overhauling American science",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\">https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305708\">https://news.ycombinator.com/item?id=49305708</a></p>\n<p>Points: 16</p>\n<p># Comments: 9</p>",
+            "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+            "published": "Fri, 14 Aug 2026 23:11:34 +0000",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stop sending me huge PRs; a rant",
+            "description": "<p>Article URL: <a href=\"https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305558\">https://news.ycombinator.com/item?id=49305558</a></p>\n<p>Points: 27</p>\n<p># Comments: 17</p>",
+            "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+            "published": "Fri, 14 Aug 2026 22:48:15 +0000",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 22:05:27 GMT",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 20:56:53 GMT",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
+            "description": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 00:23:26 +0000",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Families angered by slow search for loved ones after Colombia quake",
+            "description": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 00:14:47 +0000",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+            "description": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T04:07:41+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 03:14:19
+**Last Update:** 2026-08-15 04:07:41
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stop sending me PRs; a rant
+### 1. Jane Street suffers $15B hit after meltdown at Situational Awareness
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697">https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305927">https://news.ycombinator.com/item?id=49305927</a></p>
+<p>Points: 44</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697)
+
+---
+
+### 2. The case for overhauling American science
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science">https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305708">https://news.ycombinator.com/item?id=49305708</a></p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
+
+---
+
+### 3. Stop sending me huge PRs; a rant
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305558">https://news.ycombinator.com/item?id=49305558</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 27</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
-
----
-
-### 2. RISC-V: They should have known better
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305492">https://news.ycombinator.com/item?id=49305492</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-
----
-
-### 3. Going Dark, and the era of law enforcement hacking
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 136</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 
 ---
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
+### 7. UN urges support for Afghan women’s aid five years into Taliban rule
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
+More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss)
 
 ---
 
-### 8. Houthi attack on port kills four eroding truce with Yemen’s government
+### 8. Families angered by slow search for loved ones after Colombia quake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.
+Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s government says Houthi attack on al-Makha kills at least four
+### 9. Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.
+US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss)
 
 ---
 
