@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 07:50:11
+**Last Update:** 2026-08-15 08:24:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 132</p>
-<p># Comments: 24</p>
+<p>Points: 141</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 53</p>
-<p># Comments: 30</p>
+<p>Points: 58</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
@@ -97,7 +97,33 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Did the US really destroy Iran’s ballistic missile capability?
+### 7. Iran says no decision yet on a return to talks with the US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss)
+
+---
+
+### 8. What we know about the crisis aboard the USS Lincoln
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss)
+
+---
+
+### 9. Did the US really destroy Iran’s ballistic missile capability?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Single-use grills pose a "significant risk to the public" in current drought and
 The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss)
-
----
-
-### 8. India marks 80th Independence Day with military display
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-India marked its 80th Independence Day at Delhi’s historic Red Fort.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss)
-
----
-
-### 9. HRW says US civil rights enforcement reduced under Trump: What to know
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss)
 
 ---
 
