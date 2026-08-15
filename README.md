@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 16:52:40
+**Last Update:** 2026-08-15 17:19:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Auto-research with codex: How I achieved a 232x Faster Kernel
+### 1. Brazilian election filter in X For You timeline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sankalp.bearblog.dev/autoresearch/">https://sankalp.bearblog.dev/autoresearch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309549">https://news.ycombinator.com/item?id=49309549</a></p>
-<p>Points: 78</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310291">https://news.ycombinator.com/item?id=49310291</a></p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://sankalp.bearblog.dev/autoresearch/](https://sankalp.bearblog.dev/autoresearch/)
+🔗 **Read more:** [https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
 
 ---
 
-### 2. OpenAI rolling out ads for Europe later this month
+### 2. 388 years ago, Galileo worked out why human giants can't exist
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/policies/eu-privacy-policy-preview/">https://openai.com/policies/eu-privacy-policy-preview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309509">https://news.ycombinator.com/item?id=49309509</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/">https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310277">https://news.ycombinator.com/item?id=49310277</a></p>
+<p>Points: 8</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://openai.com/policies/eu-privacy-policy-preview/](https://openai.com/policies/eu-privacy-policy-preview/)
+🔗 **Read more:** [https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/](https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/)
 
 ---
 
-### 3. Debian has begun voting on the future of AI/LLM contributions
+### 3. Brain turns listening inward during REM sleep, EEG recordings suggest
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 47</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://medicalxpress.com/news/2026-07-brain-rem-eeg.html">https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310248">https://news.ycombinator.com/item?id=49310248</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
+🔗 **Read more:** [https://medicalxpress.com/news/2026-07-brain-rem-eeg.html](https://medicalxpress.com/news/2026-07-brain-rem-eeg.html)
 
 ---
 
@@ -78,13 +78,13 @@ Andy Burnham said the former Cambridge professor's death was a "really sad, sad 
 **Category:** world
 
 **Description:**
-The academic's Cambridge appointment in 2023 drew worldwide attention
+Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia
+### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
 
 **Source:** BBC
 
