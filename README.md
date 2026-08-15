@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 13:17:36
+**Last Update:** 2026-08-15 13:42:46
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jason Arday, professor at centre of Cambridge plagiarism row, found dead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims">https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308748">https://news.ycombinator.com/item?id=49308748</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims](https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims)
-
----
-
-### 2. Suspecting court of using AI, man injected prompts in filings to try to win case
+### 1. Suspecting court of using AI, man injected prompts in filings to try to win case
 
 **Source:** Hacker News
 
@@ -35,10 +19,27 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 17</p>
-<p># Comments: 7</p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
+
+---
+
+### 2. Ask HN: How do you keep up with HN these days?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.<p>How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308059">https://news.ycombinator.com/item?id=49308059</a></p>
+<p>Points: 32</p>
+<p># Comments: 56</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49308059](https://news.ycombinator.com/item?id=49308059)
 
 ---
 
@@ -51,7 +52,7 @@
 **Description:**
 <p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 27</p>
+<p>Points: 30</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
@@ -84,16 +85,16 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 6. Five years after the Taliban swept to power, does the West have any influence?
+### 6. Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left
+A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
 
 ---
 
