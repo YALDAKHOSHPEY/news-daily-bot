@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 17:42:15
+**Last Update:** 2026-08-15 18:15:14
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Brazilian election filter in X For You timeline
+### 1. Secondhand book sales are booming. Is it because of AI?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310291">https://news.ycombinator.com/item?id=49310291</a></p>
-<p>Points: 24</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 
 ---
 
-### 2. 388 years ago, Galileo worked out why human giants can't exist
+### 2. Cloudflare's AI Psychosis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/">https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310277">https://news.ycombinator.com/item?id=49310277</a></p>
+<p>Article URL: <a href="https://opensauce.it/cloudflare-ai-psychosis/">https://opensauce.it/cloudflare-ai-psychosis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310719">https://news.ycombinator.com/item?id=49310719</a></p>
 <p>Points: 13</p>
-<p># Comments: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/](https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/)
+🔗 **Read more:** [https://opensauce.it/cloudflare-ai-psychosis/](https://opensauce.it/cloudflare-ai-psychosis/)
 
 ---
 
-### 3. Brain turns listening inward during REM sleep, EEG recordings suggest
+### 3. Writergate: Zig I/O Interface Overhaul
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://medicalxpress.com/news/2026-07-brain-rem-eeg.html">https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310248">https://news.ycombinator.com/item?id=49310248</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://alexrios.me/blog/writergate/">https://alexrios.me/blog/writergate/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310623">https://news.ycombinator.com/item?id=49310623</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://medicalxpress.com/news/2026-07-brain-rem-eeg.html](https://medicalxpress.com/news/2026-07-brain-rem-eeg.html)
+🔗 **Read more:** [https://alexrios.me/blog/writergate/](https://alexrios.me/blog/writergate/)
 
 ---
 
