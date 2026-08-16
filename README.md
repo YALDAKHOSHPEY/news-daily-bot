@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 11:46:29
+**Last Update:** 2026-08-16 12:24:12
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,53 +19,53 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 30</p>
-<p># Comments: 7</p>
+<p>Points: 63</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
 ---
 
-### 2. Show HN: Laptop is the last place your secrets are still in plaintext
+### 2. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/jitpass/jit">https://github.com/jitpass/jit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317546">https://news.ycombinator.com/item?id=49317546</a></p>
-<p>Points: 36</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/jitpass/jit](https://github.com/jitpass/jit)
+🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
 
 ---
 
-### 3. Health benefits of Tai Chi
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi">https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317279">https://news.ycombinator.com/item?id=49317279</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
+<p>Points: 42</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
+🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
 ---
 
-### 4. Rescuers search for survivors of powerful Indonesia earthquake
+### 4. Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
+Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
 
@@ -84,20 +84,33 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 6. Hurricane Lala lashes Hawaii with strong winds and torrential rain
+### 6. People who fled Stourbridge fires start to return home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.
+Many families are only just discovering the extent of damage to their homes for the first time.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
+### 7. Australia to begin gun buyback scheme in response to Bondi shooting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss)
+
+---
+
+### 8. Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Messi&#039;s record from the penalty spot is poor by his sky-high standards, inc
 
 ---
 
-### 8. New satellite images show Europe’s disappearing rivers due to drought
+### 9. New satellite images show Europe’s disappearing rivers due to drought
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Messi&#039;s record from the penalty spot is poor by his sky-high standards, inc
 Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss)
-
----
-
-### 9. UFC 330: Makhachev secures record-setting win against Machado Garry
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss)
 
 ---
 
