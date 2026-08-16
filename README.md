@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 15:47:54
+**Last Update:** 2026-08-16 16:37:24
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
+### 1. Research papers using "kidney disappointment" instead of "kidney failure"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://scholar.google.com/scholar?q=%22kidney+disappointment%22">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319389">https://news.ycombinator.com/item?id=49319389</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://scholar.google.com/scholar?q=%22kidney+disappointment%22](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
+
+---
+
+### 2. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
 
 **Source:** Hacker News
 
@@ -26,39 +42,36 @@
 
 ---
 
-### 2. Show HN: Grafana agent observability for Hermes Agent
+### 3. Access to telemetry data: Automotive industry criticizes intelligence reform
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319170">https://news.ycombinator.com/item?id=49319170</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
+🔗 **Read more:** [https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
 
 ---
 
-### 3. What happens when an LLM never sees material beyond fifth grade?
+### 4. Watch: BBC visits smouldering market in Ukraine after strikes
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 152</p>
-<p># Comments: 116</p>
+Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.
 
-🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. People who fled Stourbridge fires start to return home
+### 5. People who fled Stourbridge fires start to return home
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Many families are only just discovering the extent of damage to their homes for 
 
 ---
 
-### 5. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
+### 6. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 6. Murder inquiry after man bitten by dog dies
+### 7. Belgium’s largest wildfire on record spreads towards German border
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police appeal for two people who stopped to help the victim in Wakefield to come forward.
+Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss)
 
 ---
 
-### 7. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+### 8. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel&#039;s transfer of West Bank policing to civilian forces cements de facto
 
 ---
 
-### 8. ‘Limited options’ for many Iranians as war with US chokes economy
+### 9. ‘Limited options’ for many Iranians as war with US chokes economy
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel&#039;s transfer of West Bank policing to civilian forces cements de facto
 Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
-
----
-
-### 9. Trump threatens to make the Strait of Hormuz a US territory: Can he?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president has yet another outlandish threat for Iran, with no end to war in sight.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss)
 
 ---
 
