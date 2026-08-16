@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 21:11:40
+**Last Update:** 2026-08-16 21:44:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260811052857.htm">https://www.sciencedaily.com/releases/2026/08/260811052857.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321783">https://news.ycombinator.com/item?id=49321783</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 18</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/08/260811052857.htm](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
 
 ---
 
-### 2. NIH is ending a key grant for budding clinical researchers
+### 2. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rvembedded.com/blog_post/12/">https://rvembedded.com/blog_post/12/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321717">https://news.ycombinator.com/item?id=49321717</a></p>
+<p>Points: 23</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://rvembedded.com/blog_post/12/](https://rvembedded.com/blog_post/12/)
+
+---
+
+### 3. NIH is ending a key grant for budding clinical researchers
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
-<p>Points: 24</p>
-<p># Comments: 3</p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
-
----
-
-### 3. The weekend is 100 years old
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320984">https://news.ycombinator.com/item?id=49320984</a></p>
-<p>Points: 71</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
 
 ---
 
@@ -97,42 +97,42 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. ‘Water and salt’: Qusra residents trapped in Israeli settler siege
+### 7. Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.
+Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss)
 
 ---
 
-### 8. Cristiano Ronaldo hints at retirement at end of season
+### 8. Israeli army besieges Palestinian homes in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
+Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Arsenal cruise to 3-0 win over Manchester City in Community Shield
+### 9. Why are sandwiches more regulated than AI?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.
+Futurist Max Tegmark wonders why sandwiches are more regulated than artificial intelligence in the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss)
 
 ---
 
