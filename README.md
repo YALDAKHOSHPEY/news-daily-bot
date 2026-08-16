@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 23:40:29
+**Last Update:** 2026-08-17 00:14:39
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://w4g1.dev/blog/models-are-getting-dumber-on-purpose">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322695">https://news.ycombinator.com/item?id=49322695</a></p>
-<p>Points: 57</p>
-<p># Comments: 19</p>
+<p>Points: 118</p>
+<p># Comments: 69</p>
 
 🔗 **Read more:** [https://w4g1.dev/blog/models-are-getting-dumber-on-purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Points: 36</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
 
 ---
 
-### 4. Russia says at least seven killed in largest Ukrainian attack of 2026
+### 4. Trump envoy Kushner meets Hamas leader to push Gaza peace plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Russia says at least seven killed in largest Ukrainian attack of 2026
 
 **Source:** BBC
 
@@ -71,33 +84,46 @@ Moscow also launched deadly strikes against Ukraine overnight, sparking fires ac
 
 ---
 
-### 5. Watch: BBC visits smouldering market in Ukraine after strikes
+### 6. Five teenagers dead and four injured after car drives on wrong side of motorway
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.
+The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Emergency phone alert put domestic abuse victims at risk, campaigners say
+### 7. Senegal’s Saint-Louis Regatta keeps centuries of tradition alive
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.
+Thousands gathered in Saint-Louis, Senegal, for the annual regatta.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss)
 
 ---
 
-### 7. Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
+### 8. Anti-corruption raids in Baghdad as dozens of officials arrested
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss)
+
+---
+
+### 9. Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss)
-
----
-
-### 8. Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss)
-
----
-
-### 9. Erdogan calls for Strait of Hormuz reopening amid oil disruption
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss)
 
 ---
 
