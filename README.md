@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 01:40:20
+**Last Update:** 2026-08-17 02:13:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324087">https://news.ycombinator.com/item?id=49324087</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 28</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 
@@ -36,26 +36,26 @@
 <p>Throwing "Authentication service was unavailable.", no updates on their status page, but there are on downdetector</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324078">https://news.ycombinator.com/item?id=49324078</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Points: 45</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49324078](https://news.ycombinator.com/item?id=49324078)
 
 ---
 
-### 3. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+### 3. Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll">https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323932">https://news.ycombinator.com/item?id=49323932</a></p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+🔗 **Read more:** [https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -98,7 +98,20 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Hundreds of migrants arrested near Ceuta border in latest crackdown
+### 7. What could stop Israeli settler attacks on Palestinians?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss)
+
+---
+
+### 8. Hundreds of migrants arrested near Ceuta border in latest crackdown
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Nearly 300 migrants and 61 alleged facilitators detained during mass migration a
 
 ---
 
-### 8. Anwar Ibrahim: Malaysia between the superpowers
+### 9. Anwar Ibrahim: Malaysia between the superpowers
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Nearly 300 migrants and 61 alleged facilitators detained during mass migration a
 Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss)
-
----
-
-### 9. Death toll rises to 84 from capsized ferry in Zimbabwe
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The boat overturned during heavy winds near the Zambian border.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss)
 
 ---
 
