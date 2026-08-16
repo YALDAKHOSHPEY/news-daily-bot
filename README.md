@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 07:09:01
+**Last Update:** 2026-08-16 07:35:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
+### 1. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
+
+---
+
+### 2. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 
 ---
 
-### 2. Patterns and problems in emerging multi-agent systems
+### 3. Patterns and problems in emerging multi-agent systems
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/multiagent-systems">https://www.anthropic.com/research/multiagent-systems</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316271">https://news.ycombinator.com/item?id=49316271</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/multiagent-systems](https://www.anthropic.com/research/multiagent-systems)
-
----
-
-### 3. Guiding Ships with Moire Patterns
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/">https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315995">https://news.ycombinator.com/item?id=49315995</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
 
 ---
 
@@ -97,7 +97,33 @@ Security had been stepped up amid suggestions on social media of a second mass c
 
 ---
 
-### 7. Al Jazeera journalist opens beach cafe in the Gaza she loves
+### 7. Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three decades after rapper Tupac Shakur&#039;s death, a former California gang boss is the first person to be prosecuted.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss)
+
+---
+
+### 8. Observers say Zambia’s election marred by reports of intimidation, violence
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Vote counting in Thursday&#039;s presidential polls were briefly suspended amid security threats to the electoral process.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss)
+
+---
+
+### 9. Al Jazeera journalist opens beach cafe in the Gaza she loves
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Security had been stepped up amid suggestions on social media of a second mass c
 Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss)
-
----
-
-### 8. As petrol prices soar, electric bikes gain ground in Nigeria
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Riders say the switch is helping them cut fuel and maintenance costs.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss)
-
----
-
-### 9. Army drops roses on Syrian crowds in a far cry from war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss)
 
 ---
 
