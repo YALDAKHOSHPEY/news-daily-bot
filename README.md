@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 03:11:33
+**Last Update:** 2026-08-16 04:09:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts
+### 1. Tea5767-Radio-Tuner
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/">https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314962">https://news.ycombinator.com/item?id=49314962</a></p>
-<p>Points: 37</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315456">https://news.ycombinator.com/item?id=49315456</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
+🔗 **Read more:** [https://github.com/turtushig22-blip/tea5767-radio-tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
 
 ---
 
-### 2. SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
+### 2. Banned Words List
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombinator.com/item?id=49314884</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://pen.org/banned-words-list/">https://pen.org/banned-words-list/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315453">https://news.ycombinator.com/item?id=49315453</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sugartrack-beta.vercel.app/](https://sugartrack-beta.vercel.app/)
+🔗 **Read more:** [https://pen.org/banned-words-list/](https://pen.org/banned-words-list/)
 
 ---
 
-### 3. Engineers will do anything to avoid learning from history
+### 3. Credit card debt rises to $1.26T, nearing all-time record
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314744">https://news.ycombinator.com/item?id=49314744</a></p>
-<p>Points: 76</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/">https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315232">https://news.ycombinator.com/item?id=49315232</a></p>
+<p>Points: 20</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
+🔗 **Read more:** [https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/](https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/)
 
 ---
 
@@ -97,7 +97,33 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. At least five reported dead amid flooding in US state of Indiana
+### 7. Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss)
+
+---
+
+### 8. Yemen’s government says Houthi strikes hit residential areas in Marib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss)
+
+---
+
+### 9. At least five reported dead amid flooding in US state of Indiana
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 Indiana&#039;s state governor says that US government has promised assistance after a week of heavy rainfall.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss)
-
----
-
-### 8. Colombia asks Trump to suspend tariffs as country reels from earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss)
-
----
-
-### 9. US Democrats finalise major shakeup to 2028 presidential primary calendar
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss)
 
 ---
 
