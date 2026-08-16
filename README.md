@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 21:44:16
+**Last Update:** 2026-08-16 22:22:32
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ordinary WiFi can now identify you with near-perfect accuracy
+### 1. I've built a free, open-source local and remote memory system for agentw and CL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260811052857.htm">https://www.sciencedaily.com/releases/2026/08/260811052857.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321783">https://news.ycombinator.com/item?id=49321783</a></p>
-<p>Points: 18</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://www.lorekit.io/blog/give-your-agent-a-memory">https://www.lorekit.io/blog/give-your-agent-a-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322206">https://news.ycombinator.com/item?id=49322206</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/08/260811052857.htm](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
+🔗 **Read more:** [https://www.lorekit.io/blog/give-your-agent-a-memory](https://www.lorekit.io/blog/give-your-agent-a-memory)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://rvembedded.com/blog_post/12/">https://rvembedded.com/blog_post/12/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321717">https://news.ycombinator.com/item?id=49321717</a></p>
-<p>Points: 23</p>
-<p># Comments: 10</p>
+<p>Points: 73</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://rvembedded.com/blog_post/12/](https://rvembedded.com/blog_post/12/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
+<p>Points: 61</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 
