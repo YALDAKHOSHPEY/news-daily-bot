@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 10:37:30
+**Last Update:** 2026-08-16 10:52:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Falstad Math and Physics Simulations
+### 1. Show HN: Laptop is the last place your secrets are still in plaintext
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/jitpass/jit">https://github.com/jitpass/jit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317546">https://news.ycombinator.com/item?id=49317546</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/jitpass/jit](https://github.com/jitpass/jit)
+
+---
+
+### 2. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
@@ -26,22 +42,6 @@
 
 ---
 
-### 2. Targeted marine cloud brightening weakens subsequent El Niño
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
-
----
-
 ### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
 
 **Source:** Hacker News
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 31</p>
-<p># Comments: 11</p>
+<p>Points: 32</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
@@ -97,7 +97,20 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 
 ---
 
-### 7. Bangladesh make history with first-ever Test cricket win in Australia
+### 7. UFC 330: Makhachev secures record-setting win against Machado Garry
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss)
+
+---
+
+### 8. Bangladesh make history with first-ever Test cricket win in Australia
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Bangladesh dominated Australia throughout, and the margin of victory will send s
 
 ---
 
-### 8. How a simple lighter has become the backbone of life in Gaza
+### 9. How a simple lighter has become the backbone of life in Gaza
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Bangladesh dominated Australia throughout, and the margin of victory will send s
 In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss)
-
----
-
-### 9. A nation divided: What do Israelis want in October’s elections?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss)
 
 ---
 
