@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 00:40:32
+**Last Update:** 2026-08-17 01:11:06
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Case Against Formal Verification, 50 Years Later
+### 1. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+
+---
+
+### 2. Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/">https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323620">https://news.ycombinator.com/item?id=49323620</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
+
+---
+
+### 3. The Case Against Formal Verification, 50 Years Later
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ivan-gavran.github.io/0-social-processes-paper">https://ivan-gavran.github.io/0-social-processes-paper</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323459">https://news.ycombinator.com/item?id=49323459</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 31</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://ivan-gavran.github.io/0-social-processes-paper](https://ivan-gavran.github.io/0-social-processes-paper)
-
----
-
-### 2. Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323381">https://news.ycombinator.com/item?id=49323381</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
-
----
-
-### 3. ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/">https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323157">https://news.ycombinator.com/item?id=49323157</a></p>
-<p>Points: 42</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/](https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/)
 
 ---
 
@@ -97,7 +97,20 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Death toll rises to 84 from capsized ferry in Zimbabwe
+### 7. Anwar Ibrahim: Malaysia between the superpowers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss)
+
+---
+
+### 8. Death toll rises to 84 from capsized ferry in Zimbabwe
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The boat overturned during heavy winds near the Zambian border.
 
 ---
 
-### 8. Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map
+### 9. Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli to
 
 ---
 
-### 9. Erdogan says Hamas acted sincerely, criticises Israeli attacks
+### 10. Cyclone Hernan
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
