@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 09:51:52
+**Last Update:** 2026-08-16 10:37:30
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Iran War Is a Whole New Level of Quagmire for the US
+### 1. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217">https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317234">https://news.ycombinator.com/item?id=49317234</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
+🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
 
 ---
 
-### 2. The quirky personal homepages of programming language creators
+### 2. Targeted marine cloud brightening weakens subsequent El Niño
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
-<p>Points: 48</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
+🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
 
 ---
 
-### 3. 21,000 MCP servers exposed: the protocol reaches a security inflection point
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316815">https://news.ycombinator.com/item?id=49316815</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
+<p>Points: 31</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
+🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
 ---
 
-### 4. Reform UK plans to overhaul welfare system to save £50bn
+### 4. Rescuers search for survivors of powerful Indonesia earthquake
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Reform UK plans to overhaul welfare system to save £50bn
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 5. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
+### 6. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 
 ---
 
-### 6. Ariana Grande leaves problems at home as her tour hits the UK
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The star plays the first of 10 dates in London, after which she will "step back" from public life.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
+### 7. Bangladesh make history with first-ever Test cricket win in Australia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
+Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss)
 
 ---
 
-### 8. Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
+### 8. How a simple lighter has become the backbone of life in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.
+In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss)
 
 ---
 
-### 9. Israel strikes south Lebanon again as families flee north
+### 9. A nation divided: What do Israelis want in October’s elections?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
+Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss)
 
 ---
 
