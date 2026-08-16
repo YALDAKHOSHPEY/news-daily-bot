@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 09:20:48
+**Last Update:** 2026-08-16 09:51:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The quirky personal homepages of programming language creators
+### 1. The Iran War Is a Whole New Level of Quagmire for the US
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217">https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317234">https://news.ycombinator.com/item?id=49317234</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
+
+---
+
+### 2. The quirky personal homepages of programming language creators
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
-<p>Points: 39</p>
-<p># Comments: 11</p>
+<p>Points: 48</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
 
 ---
 
-### 2. 21,000 MCP servers exposed: the protocol reaches a security inflection point
+### 3. 21,000 MCP servers exposed: the protocol reaches a security inflection point
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
-
----
-
-### 3. Targeted marine cloud brightening weakens subsequent El Niño
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
 
 ---
 
@@ -133,6 +133,45 @@ Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has 
 Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Hernan
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
