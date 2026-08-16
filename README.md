@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 05:33:02
+**Last Update:** 2026-08-16 05:45:45
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -71,20 +71,7 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 
 ---
 
-### 5. Met Police apologises for data breach involving alleged Al Fayed victims
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Scotland Yard copied in all those who had signed up to receive a monthly update.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Reform UK plan would overhaul welfare system with £50bn in savings
+### 5. Reform UK plan would overhaul welfare system with £50bn in savings
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Scotland Yard copied in all those who had signed up to receive a monthly update.
 The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
 
 ---
 
