@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 15:12:13
+**Last Update:** 2026-08-16 15:47:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What happens when an LLM never sees material beyond fifth grade?
+### 1. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319215">https://news.ycombinator.com/item?id=49319215</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
+
+---
+
+### 2. Show HN: Grafana agent observability for Hermes Agent
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
+
+---
+
+### 3. What happens when an LLM never sees material beyond fifth grade?
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 139</p>
-<p># Comments: 98</p>
+<p>Points: 152</p>
+<p># Comments: 116</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
-
----
-
-### 2. Falstad Math and Physics Simulations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
-
----
-
-### 3. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
 
 ---
 
@@ -84,20 +84,46 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 6. Thousands displaced by deadly Indonesia earthquake as rescue efforts continue
+### 6. Murder inquiry after man bitten by dog dies
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.
+Police appeal for two people who stopped to help the victim in Wakefield to come forward.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump threatens to make the Strait of Hormuz a US territory: Can he?
+### 7. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss)
+
+---
+
+### 8. ‘Limited options’ for many Iranians as war with US chokes economy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
+
+---
+
+### 9. Trump threatens to make the Strait of Hormuz a US territory: Can he?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 US president has yet another outlandish threat for Iran, with no end to war in sight.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss)
-
----
-
-### 8. Arsenal vs Manchester City LIVE: FA Community Shield
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss)
-
----
-
-### 9. Why has Israel escalated attacks in southern Lebanon despite ceasefire?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss)
 
 ---
 
