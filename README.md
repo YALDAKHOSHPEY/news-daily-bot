@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 05:45:45
+**Last Update:** 2026-08-16 06:55:14
 
 **Total News:** 12
 
@@ -10,68 +10,55 @@
 
 ## 📰 Latest News
 
-### 1. The complete AI SEO playbook: from zero to 4.6M impressions in 3 months
+### 1. Guiding Ships with Moire Patterns
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/TraceCohenTech/ai-seo-playbook">https://github.com/TraceCohenTech/ai-seo-playbook</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315620">https://news.ycombinator.com/item?id=49315620</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/">https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315995">https://news.ycombinator.com/item?id=49315995</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/TraceCohenTech/ai-seo-playbook](https://github.com/TraceCohenTech/ai-seo-playbook)
+🔗 **Read more:** [https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
 
 ---
 
-### 2. Tea5767-Radio-Tuner
+### 2. Show HN: Mic Drop, a real-time multiplayer karaoke game
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/turtushig22-blip/tea5767-radio-tuner">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315456">https://news.ycombinator.com/item?id=49315456</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.micdrop.gg/">https://www.micdrop.gg/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315742">https://news.ycombinator.com/item?id=49315742</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/turtushig22-blip/tea5767-radio-tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+🔗 **Read more:** [https://www.micdrop.gg/](https://www.micdrop.gg/)
 
 ---
 
-### 3. SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
+### 3. Show HN: I built a native app for coding agents with Rust and GPUI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sugartrack-beta.vercel.app/">https://sugartrack-beta.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314884">https://news.ycombinator.com/item?id=49314884</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://waku.sh">https://waku.sh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315709">https://news.ycombinator.com/item?id=49315709</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://sugartrack-beta.vercel.app/](https://sugartrack-beta.vercel.app/)
-
----
-
-### 4. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://waku.sh](https://waku.sh)
 
 ---
 
-### 5. Reform UK plan would overhaul welfare system with £50bn in savings
+### 4. Reform UK plan would overhaul welfare system with £50bn in savings
 
 **Source:** BBC
 
@@ -84,20 +71,46 @@ The party plans to release a full 50-page plan on Monday outlining their propose
 
 ---
 
-### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
+### 5. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
+Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. As petrol prices soar, electric bikes gain ground in Nigeria
+### 6. Morocco detains dozens of migrants trying to cross into Ceuta, reports say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Al Jazeera journalist opens beach cafe in the Gaza she loves
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss)
+
+---
+
+### 8. As petrol prices soar, electric bikes gain ground in Nigeria
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Riders say the switch is helping them cut fuel and maintenance costs.
 
 ---
 
-### 8. Army drops roses on Syrian crowds in a far cry from war
+### 9. Army drops roses on Syrian crowds in a far cry from war
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Riders say the switch is helping them cut fuel and maintenance costs.
 Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss)
-
----
-
-### 9. Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss)
 
 ---
 
