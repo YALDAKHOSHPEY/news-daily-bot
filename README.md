@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 17:20:40
+**Last Update:** 2026-08-16 17:43:04
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tasklet (YC P26) Is Hiring a Head of Design Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers/head-of-design-engineering">https://tasklet.ai/careers/head-of-design-engineering</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319892">https://news.ycombinator.com/item?id=49319892</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tasklet.ai/careers/head-of-design-engineering](https://tasklet.ai/careers/head-of-design-engineering)
-
----
-
-### 2. Firefox for iOS now has a native adblocker
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319633">https://news.ycombinator.com/item?id=49319633</a></p>
-<p>Points: 14</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://support.mozilla.org/en-US/kb/block-ads-firefox-ios](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
-
----
-
-### 3. Is the industry ready for tokens-constrained work?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out">https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319582">https://news.ycombinator.com/item?id=49319582</a></p>
-<p>Points: 18</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
-
----
-
-### 4. Watch: BBC visits smouldering market in Ukraine after strikes
+### 1. Watch: BBC visits smouldering market in Ukraine after strikes
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Six people were injured in the strike on the market selling second-hand records,
 
 ---
 
-### 5. People who fled Stourbridge fires start to return home
+### 2. People who fled Stourbridge fires start to return home
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Many families are only just discovering the extent of damage to their homes for 
 
 ---
 
-### 6. Murder inquiry after man bitten by dog dies
+### 3. Murder inquiry after man bitten by dog dies
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Police appeal for two people who stopped to help the victim in Wakefield to come
 
 ---
 
-### 7. Belgium’s largest wildfire on record spreads towards German border
+### 4. Patients treated in tents after earthquake damages Indonesia hospital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
+Patients treated in tents after earthquake damages Indonesia hospital
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss)
 
 ---
 
-### 8. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+### 5. Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
+Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss)
 
 ---
 
-### 9. ‘Limited options’ for many Iranians as war with US chokes economy
+### 6. Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss)
 
 ---
 
-### 10. Cyclone Hernan
+### 7. Cyclone Hernan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Nangka
+### 8. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Lala
+### 9. Tropical Storm Lala
 
 **Source:** NASA
 

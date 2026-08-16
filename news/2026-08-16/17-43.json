@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-16T17:43:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+            "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+            "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "People who fled Stourbridge fires start to return home",
+            "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 13:58:20 GMT",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder inquiry after man bitten by dog dies",
+            "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+            "description": "Patients treated in tents after earthquake damages Indonesia hospital",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 13:19:35 +0000",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+            "description": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 13:18:28 +0000",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+            "description": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 13:17:57 +0000",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T17:43:04+03:30"
+        }
+    ]
+}
