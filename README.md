@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 16:37:24
+**Last Update:** 2026-08-16 16:53:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://scholar.google.com/scholar?q=%22kidney+disappointment%22">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319389">https://news.ycombinator.com/item?id=49319389</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://scholar.google.com/scholar?q=%22kidney+disappointment%22](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
 
@@ -42,19 +42,19 @@
 
 ---
 
-### 3. Access to telemetry data: Automotive industry criticizes intelligence reform
+### 3. Show HN: Grafana agent observability for Hermes Agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319170">https://news.ycombinator.com/item?id=49319170</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
+🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 
 ---
 
