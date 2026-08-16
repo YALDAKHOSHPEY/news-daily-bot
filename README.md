@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 07:55:03
+**Last Update:** 2026-08-16 08:27:38
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+### 1. The quirky personal homepages of programming language creators
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
+
+---
+
+### 2. I checked 30 frontier model cards. Here are the benchmarks labs report
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://koutian.is-a.dev/benchmark-radar/?view=leaderboard">https://koutian.is-a.dev/benchmark-radar/?view=leaderboard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316791">https://news.ycombinator.com/item?id=49316791</a></p>
+<p>Points: 7</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://koutian.is-a.dev/benchmark-radar/?view=leaderboard](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
+
+---
+
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
-
----
-
-### 2. Zapping Rocks Unlocks Stimulated Geologic Hydrogen
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/stimulated-geologic-hydrogen">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316395">https://news.ycombinator.com/item?id=49316395</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/stimulated-geologic-hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-
----
-
-### 3. Patterns and problems in emerging multi-agent systems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/multiagent-systems">https://www.anthropic.com/research/multiagent-systems</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316271">https://news.ycombinator.com/item?id=49316271</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/multiagent-systems](https://www.anthropic.com/research/multiagent-systems)
 
 ---
 
@@ -97,7 +97,20 @@ The star plays the first of 10 dates in London, after which she will "step back"
 
 ---
 
-### 7. Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
+### 7. Yemeni government forces hit back after new Houthi offensive
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss)
+
+---
+
+### 8. Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three decades after rapper Tupac Shakur&#039;s death, a former California gang b
 
 ---
 
-### 8. Observers say Zambia’s election marred by reports of intimidation, violence
+### 9. Observers say Zambia’s election marred by reports of intimidation, violence
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Three decades after rapper Tupac Shakur&#039;s death, a former California gang b
 Vote counting in Thursday&#039;s presidential polls were briefly suspended amid security threats to the electoral process.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss)
-
----
-
-### 9. Al Jazeera journalist opens beach cafe in the Gaza she loves
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss)
 
 ---
 
