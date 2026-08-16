@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 08:49:01
+**Last Update:** 2026-08-16 09:20:48
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
+<p>Points: 39</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
 
@@ -35,37 +35,37 @@
 **Description:**
 <p>Article URL: <a href="https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316815">https://news.ycombinator.com/item?id=49316815</a></p>
-<p>Points: 5</p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
 
 ---
 
-### 3. Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb
+### 3. Targeted marine cloud brightening weakens subsequent El Niño
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
+🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
 
 ---
 
-### 4. Reform UK plan would overhaul welfare system with £50bn in savings
+### 4. Reform UK plans to overhaul welfare system to save £50bn
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party will release a full 50-page plan on Monday outlining the proposed changes - including a replacement for the disability payments system Pip - were they to come to power.
+The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ The star plays the first of 10 dates in London, after which she will "step back"
 
 ---
 
-### 7. Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
+### 7. Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss)
+
+---
+
+### 8. Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has 
 
 ---
 
-### 8. Israel strikes south Lebanon again as families flee north
+### 9. Israel strikes south Lebanon again as families flee north
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has 
 Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
-
----
-
-### 9. Australia gun buyback spurred by Bondi attack to start in November, PM says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
