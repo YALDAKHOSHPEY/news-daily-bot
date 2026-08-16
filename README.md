@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 23:11:09
+**Last Update:** 2026-08-16 23:40:29
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Protobuf has LSP support. You're welcome
+### 1. Models Are Getting Dumber on Purpose
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://w4g1.dev/blog/models-are-getting-dumber-on-purpose">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322695">https://news.ycombinator.com/item?id=49322695</a></p>
+<p>Points: 57</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://w4g1.dev/blog/models-are-getting-dumber-on-purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+
+---
+
+### 2. Protobuf has LSP support. You're welcome
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
 
 ---
 
-### 2. MathCode, Mathematical Coding Agent
+### 3. MathCode, Mathematical Coding Agent
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
-
----
-
-### 3. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322107">https://news.ycombinator.com/item?id=49322107</a></p>
-<p>Points: 60</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49322107](https://news.ycombinator.com/item?id=49322107)
 
 ---
 
@@ -98,7 +97,33 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. Erdogan calls for Strait of Hormuz reopening amid oil disruption
+### 7. Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss)
+
+---
+
+### 8. Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss)
+
+---
+
+### 9. Erdogan calls for Strait of Hormuz reopening amid oil disruption
 
 **Source:** Al Jazeera
 
@@ -111,29 +136,42 @@ Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to re
 
 ---
 
-### 8. Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
+### 10. Cyclone Hernan
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
 
 ---
 
-### 9. Israeli army besieges Palestinian homes in occupied West Bank
+### 11. Tropical Storm Nangka
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
