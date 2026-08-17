@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 00:20:51
+**Last Update:** 2026-08-18 00:46:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Will you have spent more of your life with computers than your family?
+### 1. The Origin of Consciousness (2008)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.plover.com/brain/Jaynes.html">https://blog.plover.com/brain/Jaynes.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336909">https://news.ycombinator.com/item?id=49336909</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://blog.plover.com/brain/Jaynes.html](https://blog.plover.com/brain/Jaynes.html)
+
+---
+
+### 2. Will you have spent more of your life with computers than your family?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/">https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336672">https://news.ycombinator.com/item?id=49336672</a></p>
-<p>Points: 38</p>
-<p># Comments: 23</p>
+<p>Points: 59</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 
 ---
 
-### 2. AI;DR (AI; Didn't Read)
+### 3. AI;DR (AI; Didn't Read)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336573">https://news.ycombinator.com/item?id=49336573</a></p>
-<p>Points: 194</p>
-<p># Comments: 93</p>
+<p>Points: 277</p>
+<p># Comments: 164</p>
 
 🔗 **Read more:** [https://www.rickmanelius.com/p/aidr-ai-didnt-read](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-
----
-
-### 3. India has paved the way for charging merchants a fee on UPI transactions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c8xnwqe00v1o">https://www.bbc.com/news/articles/c8xnwqe00v1o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336304">https://news.ycombinator.com/item?id=49336304</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c8xnwqe00v1o](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 
 ---
 
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked football's world governing body three 
 
 ---
 
-### 7. Torrential rains flood homes and roads across Lima, Peru
+### 7. Trump says Iran will not make the deal he believes is necessary
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump says Iran will not make the deal he believes is necessary
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss)
+
+---
+
+### 8. Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss)
+
+---
+
+### 9. Torrential rains flood homes and roads across Lima, Peru
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked football's world governing body three 
 Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss)
-
----
-
-### 8. Trump’s approval rating sinks to new low
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New poll found a majority of US citizens concerned about the US war on Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss)
-
----
-
-### 9. Why did Trump scale back war games with South Korea?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president cites good relationship with North Korean leader Kim Jong Un
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss)
 
 ---
 
