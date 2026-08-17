@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 03:10:57
+**Last Update:** 2026-08-17 04:08:24
 
 **Total News:** 12
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324087">https://news.ycombinator.com/item?id=49324087</a></p>
-<p>Points: 92</p>
-<p># Comments: 73</p>
+<p>Points: 120</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 
 ---
 
-### 2. Stop Turning every purchase into a tip request
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request">https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323874">https://news.ycombinator.com/item?id=49323874</a></p>
-<p>Points: 42</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request](https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request)
-
----
-
-### 3. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+### 2. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
-<p>Points: 64</p>
-<p># Comments: 7</p>
+<p>Points: 79</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+
+---
+
+### 3. The Case Against Formal Verification, 50 Years Later
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ivan-gavran.github.io/0-social-processes-paper">https://ivan-gavran.github.io/0-social-processes-paper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323459">https://news.ycombinator.com/item?id=49323459</a></p>
+<p>Points: 76</p>
+<p># Comments: 62</p>
+
+🔗 **Read more:** [https://ivan-gavran.github.io/0-social-processes-paper](https://ivan-gavran.github.io/0-social-processes-paper)
 
 ---
 
@@ -97,42 +97,42 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. What could stop Israeli settler attacks on Palestinians?
+### 7. Trump says US to ‘substantially reduce’ military drills with South Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.
+US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss)
 
 ---
 
-### 8. Hundreds of migrants arrested near Ceuta border in latest crackdown
+### 8. Israel releases 35 Palestinian prisoners back into Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.
+Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss)
 
 ---
 
-### 9. Anwar Ibrahim: Malaysia between the superpowers
+### 9. Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
+Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss)
 
 ---
 
