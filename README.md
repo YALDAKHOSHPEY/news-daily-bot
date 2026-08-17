@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 08:01:18
+**Last Update:** 2026-08-17 08:35:09
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Points: 19</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 24</p>
-<p># Comments: 3</p>
+<p>Points: 37</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 
@@ -51,34 +51,34 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombinator.com/item?id=49325458</a></p>
-<p>Points: 11</p>
+<p>Points: 15</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/crabbuild/prolly](https://github.com/crabbuild/prolly)
 
 ---
 
-### 4. Trump envoy Kushner meets Hamas leader to push Gaza peace plan
+### 4. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
+US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Actress Hayden Panettiere dies aged 36, US media report
+### 5. Heroes actress Hayden Panettiere dies aged 36
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A representative for the actress confirmed the news to US outlets but did not provide further details of her death.
+Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
 
