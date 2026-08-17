@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 10:02:29
+**Last Update:** 2026-08-17 11:00:08
 
 **Total News:** 12
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
 
 ---
 
-### 2. Gmail might partially be to blame for receiving emails from other Sean Conners
+### 2. Linear Algebra Done Right – Sheldon Axler
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 26</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
+🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
 ---
 
-### 3. Strong gravitational lensing and microlensing of supernovae (2024)
+### 3. GIMP Development Update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326071">https://news.ycombinator.com/item?id=49326071</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
+<p>Points: 20</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
+🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
 ---
 
@@ -84,7 +84,7 @@ Mothers, like Katy, describe battles to make ex-partners pay, while fathers say 
 
 ---
 
-### 6. UK to turn cooler with rain after exceptional heat and dry spell
+### 6. Rain on way for UK with temperatures to drop to overnight lows of 3C in some places
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Cameroon dominates Malawi to win first Women’s Africa Cup of Nations title
+### 7. Rodri headed to Barcelona after Man City accepts transfer bid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Indomitable Lionesses outshine their opponents to claim a first final victory on their fourth attempt in Morocco.
+Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss)
+
+---
+
+### 8. Japan’s economy slows, missing growth forecasts
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss)
+
+---
+
+### 9. Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss)
-
----
-
-### 8. At least seven dead in ‘stampede-like’ incident at India temple
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The fatal incident reportedly took place amid a rush of devotees at a temple in India&#039;s Bihar state.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss)
-
----
-
-### 9. Iran’s top negotiator declares victory in war against the US and Israel
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss)
 
 ---
 
