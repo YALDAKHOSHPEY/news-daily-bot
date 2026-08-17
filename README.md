@@ -1,60 +1,68 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 17:02:04
+**Last Update:** 2026-08-17 17:29:08
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Sokoban AI Solver
+### 1. Incident with Github.com
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mkornreich.me/projects/sokoban/">https://mkornreich.me/projects/sokoban/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330215">https://news.ycombinator.com/item?id=49330215</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330684">https://news.ycombinator.com/item?id=49330684</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://mkornreich.me/projects/sokoban/](https://mkornreich.me/projects/sokoban/)
+🔗 **Read more:** [https://www.githubstatus.com/incidents/zkxwbgr0cnmx](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 
 ---
 
-### 2. Stripe to Buy OpenRouter for $7B
+### 2. GitHub down again? no PR access
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330139">https://news.ycombinator.com/item?id=49330139</a></p>
-<p>Points: 8</p>
+<p>Githubstatus.com currently says everything is working, but it isn't</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330632">https://news.ycombinator.com/item?id=49330632</a></p>
+<p>Points: 15</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49330632](https://news.ycombinator.com/item?id=49330632)
 
 ---
 
-### 3. David Sacks on X: Some thoughts on Dario's post
+### 3. Show HN: 1667, a terminal UI for writing fiction with language models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/DavidSacks/status/2089227290769080656">https://twitter.com/DavidSacks/status/2089227290769080656</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329844">https://news.ycombinator.com/item?id=49329844</a></p>
-<p>Points: 22</p>
-<p># Comments: 10</p>
+<p>Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one...<p>Why a terminal interface for story writing? I'm a dev. I like to use terminals for a lot of stuff. Most WebUIs feel off to me. That's the only  reason.<p>One thing that bothers me about writing in existing tools is that they don't fit the way I write. The mental model of my story is a tree. I try many takes usually continue with just one, but sometimes I want to try an alternate route and see where this goes. And that can branch again in many places. See what happens if I kill off this character or they don't take the job or whatever.<p>1667 is a full-screen terminal app for long-form fiction. Each story part can have several takes. All takes stay in a tree. You select one path through that tree as the story line. Export writes that line to Markdown in the project folder.<p>Some technical details:
+- A project stores its stories and settings in a `.1667/` directory. Exported Markdown sits beside it.
+- Provider secrets stay in private machine files. Requests go to the provider that the writer selects.
+- An optional Vault Password seals project files at rest.
+- An operating-system lock permits one writer process for each project.
+- The request viewer shows the next provider request without its credential.
+- Each generated take keeps a Generation Record with its model and effective settings.<p>Version 0.9.5 runs on macOS, Linux, and Windows x64. The website has Shell and PowerShell installers. An npm package is also available.<p>1667 imports Markdown, SillyTavern chats and cards, and NovelAI archives. It can use OpenAI-compatible, Anthropic, and local endpoints such as Ollama, LM Studio, llama.cpp, and KoboldCpp.<p>Current limits: the release is pre-1.0. The interface is a terminal. There is no account or cloud sync, and I don't plan to add any. No tracking.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330604">https://news.ycombinator.com/item?id=49330604</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://twitter.com/DavidSacks/status/2089227290769080656](https://twitter.com/DavidSacks/status/2089227290769080656)
+🔗 **Read more:** [https://1667.ai/](https://1667.ai/)
 
 ---
 
@@ -97,7 +105,20 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap
+### 7. French Serie A footballer Yael Trepy in intensive care after near-drowning
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss)
+
+---
+
+### 8. Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap
 
 **Source:** Al Jazeera
 
@@ -110,7 +131,7 @@ Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-poin
 
 ---
 
-### 8. Cameroon celebrates after winning first ever WAFCON title
+### 9. Cameroon celebrates after winning first ever WAFCON title
 
 **Source:** Al Jazeera
 
@@ -120,19 +141,6 @@ Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-poin
 Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss)
-
----
-
-### 9. Yemen’s drone war: Rivals flex growing aerial muscle
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss)
 
 ---
 
