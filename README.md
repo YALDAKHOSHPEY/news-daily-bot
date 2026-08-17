@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 14:45:48
+**Last Update:** 2026-08-17 15:17:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -20,8 +20,8 @@
 <p>Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327643">https://news.ycombinator.com/item?id=49327643</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://desktopcolors.com](https://desktopcolors.com)
 
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 94</p>
-<p># Comments: 40</p>
+<p>Points: 101</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -52,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 189</p>
-<p># Comments: 139</p>
+<p>Points: 201</p>
+<p># Comments: 148</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
@@ -98,7 +98,33 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. USS Lincoln crisis: How it compares to past aircraft carrier deployments
+### 7. Trump orders US to scale back South Korea military drills
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Donald Trump has ordered the US military to scale back joint exercises with South Korea.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss)
+
+---
+
+### 8. Is the world experiencing more earthquakes now than before?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al Jazeera examines a decade of earthquake data to see how 2026 compares and explains how and where earthquakes strike.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss)
+
+---
+
+### 9. USS Lincoln crisis: How it compares to past aircraft carrier deployments
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss)
-
----
-
-### 8. Iraqi Kurdish PM Barzani’s office targeted in drone attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss)
-
----
-
-### 9. Indian temple stampede kills seven people and injures dozens
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss)
 
 ---
 
