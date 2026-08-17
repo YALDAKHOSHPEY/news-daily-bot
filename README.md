@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 16:43:51
+**Last Update:** 2026-08-17 17:02:04
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. David Sacks on X: Some thoughts on Dario's post
+### 1. Show HN: Sokoban AI Solver
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mkornreich.me/projects/sokoban/">https://mkornreich.me/projects/sokoban/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330215">https://news.ycombinator.com/item?id=49330215</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mkornreich.me/projects/sokoban/](https://mkornreich.me/projects/sokoban/)
+
+---
+
+### 2. Stripe to Buy OpenRouter for $7B
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330139">https://news.ycombinator.com/item?id=49330139</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+
+---
+
+### 3. David Sacks on X: Some thoughts on Dario's post
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/DavidSacks/status/2089227290769080656">https://twitter.com/DavidSacks/status/2089227290769080656</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329844">https://news.ycombinator.com/item?id=49329844</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Points: 22</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://twitter.com/DavidSacks/status/2089227290769080656](https://twitter.com/DavidSacks/status/2089227290769080656)
-
----
-
-### 2. Buyer cancels showing after Deflock shows two cameras utilized by the HOA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/lydiakauppi/status/2089196932413452386">https://twitter.com/lydiakauppi/status/2089196932413452386</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329660">https://news.ycombinator.com/item?id=49329660</a></p>
-<p>Points: 56</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://twitter.com/lydiakauppi/status/2089196932413452386](https://twitter.com/lydiakauppi/status/2089196932413452386)
-
----
-
-### 3. Mexico Crackdown on Coastal Development Underway
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/">https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329583">https://news.ycombinator.com/item?id=49329583</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
 
 ---
 
@@ -97,42 +97,42 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Trump scales down war games with South Korea: Why it matters
+### 7. Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president cites Seoul&#039;s reluctance to back his war on Iran, and his warm ties with North Korea&#039;s leader as reasons.
+Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-point Gaza roadmap.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss)
 
 ---
 
-### 8. Will Europe hear a landmark Russian climate change case?
+### 8. Cameroon celebrates after winning first ever WAFCON title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.
+Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss)
 
 ---
 
-### 9. Israel’s religious right is changing the state from within
+### 9. Yemen’s drone war: Rivals flex growing aerial muscle
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.
+Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss)
 
 ---
 
