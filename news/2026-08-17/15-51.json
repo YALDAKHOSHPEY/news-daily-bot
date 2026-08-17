@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T15:51:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "People are worried about America's solvency",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e\">https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329347\">https://news.ycombinator.com/item?id=49329347</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+            "published": "Mon, 17 Aug 2026 11:45:12 +0000",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Self hosted email continues to steeply decline",
+            "description": "<p>Article URL: <a href=\"https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/\">https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49328911\">https://news.ycombinator.com/item?id=49328911</a></p>\n<p>Points: 42</p>\n<p># Comments: 41</p>",
+            "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+            "published": "Mon, 17 Aug 2026 10:45:14 +0000",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Marxist Case for the Technofeudal Hypothesis",
+            "description": "<p>Article URL: <a href=\"https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism\">https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49328899\">https://news.ycombinator.com/item?id=49328899</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
+            "published": "Mon, 17 Aug 2026 10:44:17 +0000",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 11:20:23 GMT",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s religious right is changing the state from within",
+            "description": "Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:15:49 +0000",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jason Arday’s death is institutional murder",
+            "description": "Arday was subjected to a vicious campaign fuelled by anti-Black racism.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:08:03 +0000",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+            "description": "Trump deemed the MoU &#039;over&#039; within a month of it being signed, as the two sides traded attacks despite a &#039;ceasefire&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:07:23 +0000",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T15:51:47+03:30"
+        }
+    ]
+}
