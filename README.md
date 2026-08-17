@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 11:00:08
+**Last Update:** 2026-08-17 11:12:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 20</p>
-<p># Comments: 0</p>
+<p>Points: 48</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
