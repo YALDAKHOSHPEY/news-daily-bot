@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 11:38:10
+**Last Update:** 2026-08-17 12:01:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
-<p>Points: 31</p>
-<p># Comments: 11</p>
+<p>Points: 36</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
 
 ---
 
-### 2. Linear Algebra Done Right – Sheldon Axler
+### 2. Linear algebra done right
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 43</p>
-<p># Comments: 18</p>
+<p>Points: 53</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 76</p>
-<p># Comments: 20</p>
+<p>Points: 98</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
@@ -97,42 +97,42 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Rodri headed to Barcelona after Man City accepts transfer bid
+### 7. Cincinnati Open: Sabalenka takes six match points to defeat Gibson
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
+Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss)
 
 ---
 
-### 8. Japan’s economy slows, missing growth forecasts
+### 8. Outrage as Colombia’s president hands out footballs as residents await aid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.
+Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss)
 
 ---
 
-### 9. Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title
+### 9. Kushner to meet Netanyahu to push Trump Gaza plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.
+The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss)
 
 ---
 

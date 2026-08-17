@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T12:01:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+            "description": "<p>Article URL: <a href=\"https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted\">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326825\">https://news.ycombinator.com/item?id=49326825</a></p>\n<p>Points: 36</p>\n<p># Comments: 14</p>",
+            "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+            "published": "Mon, 17 Aug 2026 05:22:49 +0000",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linear algebra done right",
+            "description": "<p>Article URL: <a href=\"https://linear.axler.net/\">https://linear.axler.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326816\">https://news.ycombinator.com/item?id=49326816</a></p>\n<p>Points: 53</p>\n<p># Comments: 25</p>",
+            "url": "https://linear.axler.net/",
+            "published": "Mon, 17 Aug 2026 05:21:34 +0000",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GIMP Development Update",
+            "description": "<p>Article URL: <a href=\"https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326156\">https://news.ycombinator.com/item?id=49326156</a></p>\n<p>Points: 98</p>\n<p># Comments: 42</p>",
+            "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+            "published": "Mon, 17 Aug 2026 03:08:47 +0000",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+            "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 04:50:56 GMT",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
+            "description": "Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.",
+            "url": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 08:18:25 +0000",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
+            "description": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 08:18:05 +0000",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+            "description": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 08:13:04 +0000",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T12:01:06+03:30"
+        }
+    ]
+}
