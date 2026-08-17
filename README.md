@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 13:51:03
+**Last Update:** 2026-08-17 14:24:49
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
-<p>Points: 37</p>
-<p># Comments: 28</p>
+<p>Points: 49</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 83</p>
-<p># Comments: 34</p>
+<p>Points: 89</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 175</p>
-<p># Comments: 118</p>
+<p>Points: 183</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
@@ -71,16 +71,16 @@ Mothers, like Katy, describe battles to make ex-partners pay, while fathers say 
 
 ---
 
-### 5. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
+### 5. Burnham exchanged messages with person posing as Trump's chief of staff
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
+Downing Street has declined to comment on the security breach, first reported by Politico.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
