@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 01:17:03
+**Last Update:** 2026-08-18 01:43:05
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.plover.com/brain/Jaynes.html">https://blog.plover.com/brain/Jaynes.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336909">https://news.ycombinator.com/item?id=49336909</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Points: 27</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://blog.plover.com/brain/Jaynes.html](https://blog.plover.com/brain/Jaynes.html)
 
 ---
 
-### 2. Will you have spent more of your life with computers than your family?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/">https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336672">https://news.ycombinator.com/item?id=49336672</a></p>
-<p>Points: 64</p>
-<p># Comments: 54</p>
-
-🔗 **Read more:** [https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
-
----
-
-### 3. AI;DR (AI; Didn't Read)
+### 2. AI;DR (AI; Didn't Read)
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336573">https://news.ycombinator.com/item?id=49336573</a></p>
-<p>Points: 316</p>
-<p># Comments: 184</p>
+<p>Points: 378</p>
+<p># Comments: 229</p>
 
 🔗 **Read more:** [https://www.rickmanelius.com/p/aidr-ai-didnt-read](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+
+---
+
+### 3. India has paved the way for charging merchants a fee on UPI transactions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c8xnwqe00v1o">https://www.bbc.com/news/articles/c8xnwqe00v1o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336304">https://news.ycombinator.com/item?id=49336304</a></p>
+<p>Points: 67</p>
+<p># Comments: 53</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c8xnwqe00v1o](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 
 ---
 
@@ -97,7 +97,20 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Palestinian American reunites with family under siege in West Bank
+### 7. ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss)
+
+---
+
+### 8. Palestinian American reunites with family under siege in West Bank
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Videos show the first moments Palestinian-American Loui Ridi arrived at his home
 
 ---
 
-### 8. Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL
+### 9. Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Videos show the first moments Palestinian-American Loui Ridi arrived at his home
 UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss)
-
----
-
-### 9. Trump says Iran will not make the deal he believes is necessary
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump says Iran will not make the deal he believes is necessary
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss)
 
 ---
 
