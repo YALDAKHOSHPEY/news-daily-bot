@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T17:47:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Alternatives to GitHub",
+            "description": "<p>Github has been down consistently over the last few months - does it make sense to switch to alternatives?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331033\">https://news.ycombinator.com/item?id=49331033</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+            "url": "https://news.ycombinator.com/item?id=49331033",
+            "published": "Mon, 17 Aug 2026 13:59:17 +0000",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330742\">https://news.ycombinator.com/item?id=49330742</a></p>\n<p>Points: 8</p>\n<p># Comments: 8</p>",
+            "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+            "published": "Mon, 17 Aug 2026 13:44:23 +0000",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Incident with Github.com",
+            "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/zkxwbgr0cnmx\">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330684\">https://news.ycombinator.com/item?id=49330684</a></p>\n<p>Points: 268</p>\n<p># Comments: 210</p>",
+            "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+            "published": "Mon, 17 Aug 2026 13:40:55 +0000",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 13:30:35 GMT",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+            "description": "Brazil’s presidential race is officially underway.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 14:03:26 +0000",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Global condemnation of Israeli settler violence against Palestinians",
+            "description": "Global condemnation of Israeli settler violence against Palestinians",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 14:01:51 +0000",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
+            "description": "As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 13:48:09 +0000",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T17:47:16+03:30"
+        }
+    ]
+}
