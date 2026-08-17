@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 17:47:16
+**Last Update:** 2026-08-17 18:21:40
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Alternatives to GitHub
+### 1. AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Github has been down consistently over the last few months - does it make sense to switch to alternatives?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331033">https://news.ycombinator.com/item?id=49331033</a></p>
+<p>Article URL: <a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331423">https://news.ycombinator.com/item?id=49331423</a></p>
 <p>Points: 4</p>
-<p># Comments: 2</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49331033](https://news.ycombinator.com/item?id=49331033)
+🔗 **Read more:** [https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
-### 2. We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility
+### 2. Apple's App Tracking Transparency treated its own apps better than rivals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/">https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330742">https://news.ycombinator.com/item?id=49330742</a></p>
-<p>Points: 8</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331222">https://news.ycombinator.com/item?id=49331222</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+🔗 **Read more:** [https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 
 ---
 
-### 3. Incident with Github.com
+### 3. How to disable or avoid intrusive AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49330684">https://news.ycombinator.com/item?id=49330684</a></p>
-<p>Points: 268</p>
-<p># Comments: 210</p>
+<p>Article URL: <a href="https://www.librarian.net/notoai/">https://www.librarian.net/notoai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331220">https://news.ycombinator.com/item?id=49331220</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.githubstatus.com/incidents/zkxwbgr0cnmx](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
+🔗 **Read more:** [https://www.librarian.net/notoai/](https://www.librarian.net/notoai/)
 
 ---
 
-### 4. Parents pushed to breaking point by Child Maintenance Service, BBC told
+### 4. Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
+The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,20 +84,46 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 6. Rain on way for UK with temperatures to drop to overnight lows of 3C in some places
+### 6. Parents pushed to breaking point by Child Maintenance Service, BBC told
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains
+Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lula and Bolsonaro’s son launch rival bids for Brazil presidency
+### 7. Iran signals readiness for ‘US ground operations’ as MoU expires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss)
+
+---
+
+### 8. Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss)
+
+---
+
+### 9. Lula and Bolsonaro’s son launch rival bids for Brazil presidency
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 Brazil’s presidential race is officially underway.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss)
-
----
-
-### 8. Global condemnation of Israeli settler violence against Palestinians
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Global condemnation of Israeli settler violence against Palestinians
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss)
-
----
-
-### 9. Trump hails Mecca pact: Can it replace the region’s US security umbrella?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss)
 
 ---
 
