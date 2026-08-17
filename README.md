@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 09:27:31
+**Last Update:** 2026-08-17 10:02:29
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gmail might partially be to blame for receiving emails from other Sean Conners
+### 1. $12B of US ratepayers' money wasted on a modeling mistake in PJM
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
+
+---
+
+### 2. Gmail might partially be to blame for receiving emails from other Sean Conners
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 25</p>
-<p># Comments: 28</p>
+<p>Points: 26</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
 
 ---
 
-### 2. Strong Gravitational Lensing and Microlensing of Supernovae
+### 3. Strong gravitational lensing and microlensing of supernovae (2024)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326071">https://news.ycombinator.com/item?id=49326071</a></p>
-<p>Points: 4</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
-
----
-
-### 3. AGI-64 Brings Sierra Adventures to the Commodore 64
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 50</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 
 ---
 
@@ -97,7 +97,20 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. At least six dead in ‘stampede-like’ incident at India temple
+### 7. Cameroon dominates Malawi to win first Women’s Africa Cup of Nations title
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Indomitable Lionesses outshine their opponents to claim a first final victory on their fourth attempt in Morocco.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss)
+
+---
+
+### 8. At least seven dead in ‘stampede-like’ incident at India temple
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The fatal incident reportedly took place amid a rush of devotees at a temple in 
 
 ---
 
-### 8. Iran’s top negotiator declares victory in war against the US and Israel
+### 9. Iran’s top negotiator declares victory in war against the US and Israel
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The fatal incident reportedly took place amid a rush of devotees at a temple in 
 Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss)
-
----
-
-### 9. Lawyer says Israel’s targeting of Palestinian women is a form of genocide
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss)
 
 ---
 
