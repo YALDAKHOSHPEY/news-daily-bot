@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 22:50:06
+**Last Update:** 2026-08-17 23:18:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Lonely Men Who Work in Patagonia, at the End of the World
+### 1. AirTag reveals Amazon is trashing rare books to train AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336050">https://news.ycombinator.com/item?id=49336050</a></p>
+<p>Points: 35</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+
+---
+
+### 2. The Lonely Men Who Work in Patagonia, at the End of the World
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 33</p>
-<p># Comments: 5</p>
+<p>Points: 47</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 
 ---
 
-### 2. Roboflow Playground: Try and Compare 30 Computer Vision Models
+### 3. Roboflow Playground: Try and Compare 30 Computer Vision Models
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
-<p>Points: 6</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
-
----
-
-### 3. How I Over-Engineered My Book
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/">https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335292">https://news.ycombinator.com/item?id=49335292</a></p>
-<p>Points: 11</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 
 ---
 
@@ -71,7 +71,7 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 
 ---
 
-### 5. Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36
+### 5. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 7. Russian politician sentenced to 11 years for opposing war in Ukraine
+### 7. Photos: Search for Indonesia earthquake victims continues
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss)
+
+---
+
+### 8. Death toll from capsized ferry in Zimbabwe rises to 92
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Search efforts to recover the remaining victims are still underway.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss)
+
+---
+
+### 9. Russian politician sentenced to 11 years for opposing war in Ukraine
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Downing Street has declined to comment on the security breach, first reported by
 Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss)
-
----
-
-### 8. Russia maintains election ban on opposition Yabloko, jails deputy head
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss)
-
----
-
-### 9. CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss)
 
 ---
 
