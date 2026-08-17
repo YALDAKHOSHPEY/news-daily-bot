@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 00:46:34
+**Last Update:** 2026-08-18 01:17:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://blog.plover.com/brain/Jaynes.html">https://blog.plover.com/brain/Jaynes.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336909">https://news.ycombinator.com/item?id=49336909</a></p>
-<p>Points: 12</p>
+<p>Points: 16</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://blog.plover.com/brain/Jaynes.html](https://blog.plover.com/brain/Jaynes.html)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/">https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336672">https://news.ycombinator.com/item?id=49336672</a></p>
-<p>Points: 59</p>
-<p># Comments: 49</p>
+<p>Points: 64</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336573">https://news.ycombinator.com/item?id=49336573</a></p>
-<p>Points: 277</p>
-<p># Comments: 164</p>
+<p>Points: 316</p>
+<p># Comments: 184</p>
 
 🔗 **Read more:** [https://www.rickmanelius.com/p/aidr-ai-didnt-read](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
@@ -91,13 +91,39 @@ The US actress, who has died at the age of 36, starred in the TV shows Heroes an
 **Category:** world
 
 **Description:**
-Senior Fifa figure Kevin Lamour is sacked football's world governing body three weeks after criticising its president Gianni Infantino.
+Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump says Iran will not make the deal he believes is necessary
+### 7. Palestinian American reunites with family under siege in West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss)
+
+---
+
+### 8. Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss)
+
+---
+
+### 9. Trump says Iran will not make the deal he believes is necessary
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked football's world governing body three 
 Trump says Iran will not make the deal he believes is necessary
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss)
-
----
-
-### 8. Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss)
-
----
-
-### 9. Torrential rains flood homes and roads across Lima, Peru
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Heavy rains have flooded oads in Lima, while river overflows, landslides, and road closures continue to affect Peru.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss)
 
 ---
 
