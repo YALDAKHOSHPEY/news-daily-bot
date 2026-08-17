@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 18:21:40
+**Last Update:** 2026-08-17 18:45:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira
+### 1. Human Interface Guidelines from various platforms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331423">https://news.ycombinator.com/item?id=49331423</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/">https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331621">https://news.ycombinator.com/item?id=49331621</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+🔗 **Read more:** [https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
 
 ---
 
-### 2. Apple's App Tracking Transparency treated its own apps better than rivals
+### 2. Show HN: Eve Software Factory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331222">https://news.ycombinator.com/item?id=49331222</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Build a software factory in minutes with this free OSS template</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331599">https://news.ycombinator.com/item?id=49331599</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+🔗 **Read more:** [https://github.com/vercel-labs/eve-software-factory-template/tree/main](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
 
 ---
 
-### 3. How to disable or avoid intrusive AI
+### 3. How to put 170 atoms in an atom
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.librarian.net/notoai/">https://www.librarian.net/notoai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331220">https://news.ycombinator.com/item?id=49331220</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/">https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331474">https://news.ycombinator.com/item?id=49331474</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.librarian.net/notoai/](https://www.librarian.net/notoai/)
+🔗 **Read more:** [https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/](https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/)
 
 ---
 
@@ -97,7 +98,33 @@ Mothers describe battles to make ex-partners pay, while fathers say they have be
 
 ---
 
-### 7. Iran signals readiness for ‘US ground operations’ as MoU expires
+### 7. Police execute controlled World War II–era Mine explosion
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss)
+
+---
+
+### 8. Trump demands Iran ‘put up the white flag of surrender’ as MoU expires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November&#039;s US midterms.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss)
+
+---
+
+### 9. Iran signals readiness for ‘US ground operations’ as MoU expires
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ Mothers describe battles to make ex-partners pay, while fathers say they have be
 Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss)
-
----
-
-### 8. Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss)
-
----
-
-### 9. Lula and Bolsonaro’s son launch rival bids for Brazil presidency
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil’s presidential race is officially underway.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss)
 
 ---
 
