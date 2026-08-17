@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 08:55:57
+**Last Update:** 2026-08-17 09:27:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 22</p>
-<p># Comments: 22</p>
+<p>Points: 25</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
 
 ---
 
-### 2. AGI-64 Brings Sierra Adventures to the Commodore 64
+### 2. Strong Gravitational Lensing and Microlensing of Supernovae
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326071">https://news.ycombinator.com/item?id=49326071</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
+
+---
+
+### 3. AGI-64 Brings Sierra Adventures to the Commodore 64
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 40</p>
+<p>Points: 50</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-
----
-
-### 3. Prolly: A content-addressed ordered map built on prolly trees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombinator.com/item?id=49325458</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/crabbuild/prolly](https://github.com/crabbuild/prolly)
 
 ---
 
@@ -71,20 +71,7 @@ US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime 
 
 ---
 
-### 5. Heroes actress Hayden Panettiere dies aged 36
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Parents pushed to breaking point by Child Maintenance Service, BBC told
+### 5. Parents pushed to breaking point by Child Maintenance Service, BBC told
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Mothers, like Katy, describe battles to make ex-partners pay, while fathers say 
 
 ---
 
-### 7. Iran’s top negotiator declares victory in war against the US and Israel
+### 6. UK to turn cooler with rain after exceptional heat and dry spell
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. At least six dead in ‘stampede-like’ incident at India temple
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The fatal incident reportedly took place amid a rush of devotees at a temple in India&#039;s Bihar state.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss)
+
+---
+
+### 8. Iran’s top negotiator declares victory in war against the US and Israel
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declar
 
 ---
 
-### 8. Lawyer says Israel’s targeting of Palestinian women is a form of genocide
+### 9. Lawyer says Israel’s targeting of Palestinian women is a form of genocide
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declar
 Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss)
-
----
-
-### 9. Thieves steal Renaissance artworks in museum heist during Italian holiday
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss)
 
 ---
 
