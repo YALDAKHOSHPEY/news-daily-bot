@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 15:51:47
+**Last Update:** 2026-08-17 16:43:51
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. People are worried about America's solvency
+### 1. David Sacks on X: Some thoughts on Dario's post
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e">https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329347">https://news.ycombinator.com/item?id=49329347</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://twitter.com/DavidSacks/status/2089227290769080656">https://twitter.com/DavidSacks/status/2089227290769080656</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329844">https://news.ycombinator.com/item?id=49329844</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://twitter.com/DavidSacks/status/2089227290769080656](https://twitter.com/DavidSacks/status/2089227290769080656)
+
+---
+
+### 2. Buyer cancels showing after Deflock shows two cameras utilized by the HOA
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/lydiakauppi/status/2089196932413452386">https://twitter.com/lydiakauppi/status/2089196932413452386</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329660">https://news.ycombinator.com/item?id=49329660</a></p>
+<p>Points: 56</p>
+<p># Comments: 46</p>
+
+🔗 **Read more:** [https://twitter.com/lydiakauppi/status/2089196932413452386](https://twitter.com/lydiakauppi/status/2089196932413452386)
+
+---
+
+### 3. Mexico Crackdown on Coastal Development Underway
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/">https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329583">https://news.ycombinator.com/item?id=49329583</a></p>
+<p>Points: 12</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)
-
----
-
-### 2. Self hosted email continues to steeply decline
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/">https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49328911">https://news.ycombinator.com/item?id=49328911</a></p>
-<p>Points: 42</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/)
-
----
-
-### 3. The Marxist Case for the Technofeudal Hypothesis
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism">https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49328899">https://news.ycombinator.com/item?id=49328899</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism](https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism)
+🔗 **Read more:** [https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
+Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Israel’s religious right is changing the state from within
+### 7. Trump scales down war games with South Korea: Why it matters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president cites Seoul&#039;s reluctance to back his war on Iran, and his warm ties with North Korea&#039;s leader as reasons.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss)
+
+---
+
+### 8. Will Europe hear a landmark Russian climate change case?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss)
+
+---
+
+### 9. Israel’s religious right is changing the state from within
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss)
-
----
-
-### 8. Jason Arday’s death is institutional murder
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Arday was subjected to a vicious campaign fuelled by anti-Black racism.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss)
-
----
-
-### 9. US-Iran Memorandum of Understanding expires: How and why it fell apart
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump deemed the MoU &#039;over&#039; within a month of it being signed, as the two sides traded attacks despite a &#039;ceasefire&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss)
 
 ---
 
