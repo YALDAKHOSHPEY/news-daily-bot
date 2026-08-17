@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T21:52:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\">https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334960\">https://news.ycombinator.com/item?id=49334960</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+            "published": "Mon, 17 Aug 2026 17:52:37 +0000",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">https://artificialanalysis.ai/models/qwen3-8-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334544\">https://news.ycombinator.com/item?id=49334544</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+            "published": "Mon, 17 Aug 2026 17:25:17 +0000",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Buy Your Friends Batteries",
+            "description": "<p>Article URL: <a href=\"https://domenkozar.com/2026/08/17/buy-your-friends-batteries/\">https://domenkozar.com/2026/08/17/buy-your-friends-batteries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49333932\">https://news.ycombinator.com/item?id=49333932</a></p>\n<p>Points: 67</p>\n<p># Comments: 68</p>",
+            "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+            "published": "Mon, 17 Aug 2026 16:45:11 +0000",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 16:26:34 GMT",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+            "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 17:31:36 GMT",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:24:58 GMT",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
+            "description": "Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 18:02:15 +0000",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+            "description": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 17:42:02 +0000",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+            "description": "Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 17:37:31 +0000",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T21:52:48+03:30"
+        }
+    ]
+}

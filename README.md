@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 21:22:44
+**Last Update:** 2026-08-17 21:52:48
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Buy Your Friends Batteries
+### 1. Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399">https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49334960">https://news.ycombinator.com/item?id=49334960</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
+
+---
+
+### 2. Qwen3.8 27B scores 52 on Artificial Analysis
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/models/qwen3-8-27b">https://artificialanalysis.ai/models/qwen3-8-27b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49334544">https://news.ycombinator.com/item?id=49334544</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/models/qwen3-8-27b](https://artificialanalysis.ai/models/qwen3-8-27b)
+
+---
+
+### 3. Buy Your Friends Batteries
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://domenkozar.com/2026/08/17/buy-your-friends-batteries/">https://domenkozar.com/2026/08/17/buy-your-friends-batteries/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49333932">https://news.ycombinator.com/item?id=49333932</a></p>
-<p>Points: 44</p>
-<p># Comments: 40</p>
+<p>Points: 67</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://domenkozar.com/2026/08/17/buy-your-friends-batteries/](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
-
----
-
-### 2. Sun Clock
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sunclock.net/">https://sunclock.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49333824">https://news.ycombinator.com/item?id=49333824</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://sunclock.net/](https://sunclock.net/)
-
----
-
-### 3. Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49332981">https://news.ycombinator.com/item?id=49332981</a></p>
-<p>Points: 266</p>
-<p># Comments: 349</p>
-
-🔗 **Read more:** [https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 
 ---
 
@@ -78,7 +78,7 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 **Category:** world
 
 **Description:**
-Police say there were no signs of foul play or suspicious circumstances in the Heroes and Nashville star's death.
+The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 7. Clashes between government and opposition fighters in Somalia’s Baidoa
+### 7. CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss)
+
+---
+
+### 8. Clashes between government and opposition fighters in Somalia’s Baidoa
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Heavy clashes broke out in Baidoa, Somalia between federal troops and armed oppo
 
 ---
 
-### 8. Syria launches probe into death of ‘White Helmet’ rescuer in police custody
+### 9. Syria launches probe into death of ‘White Helmet’ rescuer in police custody
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Heavy clashes broke out in Baidoa, Somalia between federal troops and armed oppo
 Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss)
-
----
-
-### 9. Explosion reported at school in Afghan capital Kabul
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss)
 
 ---
 
