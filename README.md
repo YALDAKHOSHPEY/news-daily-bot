@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 23:18:46
+**Last Update:** 2026-08-17 23:44:39
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AirTag reveals Amazon is trashing rare books to train AI
+### 1. AI;DR (AI; Didn't Read)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336573">https://news.ycombinator.com/item?id=49336573</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.rickmanelius.com/p/aidr-ai-didnt-read](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+
+---
+
+### 2. AirTag reveals Amazon is trashing rare books to train AI
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336050">https://news.ycombinator.com/item?id=49336050</a></p>
-<p>Points: 35</p>
-<p># Comments: 5</p>
+<p>Points: 55</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 
 ---
 
-### 2. The Lonely Men Who Work in Patagonia, at the End of the World
+### 3. The Lonely Men Who Work in Patagonia, at the End of the World
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 47</p>
-<p># Comments: 13</p>
+<p>Points: 54</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
-
----
-
-### 3. Roboflow Playground: Try and Compare 30 Computer Vision Models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
 
 ---
 
@@ -84,20 +84,46 @@ The US actress, who has died at the age of 36, starred in the TV shows Heroes an
 
 ---
 
-### 6. Burnham exchanged messages with person posing as Trump's chief of staff
+### 6. Fifa official leaves after Infantino plan criticism
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Downing Street has declined to comment on the security breach, first reported by Politico.
+A senior Fifa figure leaves football's world governing body three weeks after criticising its president Gianni Infantino.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Photos: Search for Indonesia earthquake victims continues
+### 7. Why did Trump scale back war games with South Korea?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president cites good relationship with North Korean leader Kim Jong Un
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss)
+
+---
+
+### 8. Gaza flotilla sets sail from the UK in bid to break Israeli siege
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss)
+
+---
+
+### 9. Photos: Search for Indonesia earthquake victims continues
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Downing Street has declined to comment on the security breach, first reported by
 At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss)
-
----
-
-### 8. Death toll from capsized ferry in Zimbabwe rises to 92
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Search efforts to recover the remaining victims are still underway.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss)
-
----
-
-### 9. Russian politician sentenced to 11 years for opposing war in Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss)
 
 ---
 
