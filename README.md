@@ -1,28 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 14:24:49
+**Last Update:** 2026-08-17 14:45:48
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. HackEurope 2026: A short rant on AI and hackathons
+### 1. Show HN: Desktopcolors.com – A museum for solid background colors of classic OS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
-<p>Points: 49</p>
-<p># Comments: 39</p>
+<p>Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327643">https://news.ycombinator.com/item?id=49327643</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
+🔗 **Read more:** [https://desktopcolors.com](https://desktopcolors.com)
 
 ---
 
@@ -35,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 89</p>
-<p># Comments: 37</p>
+<p>Points: 94</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 183</p>
-<p># Comments: 132</p>
+<p>Points: 189</p>
+<p># Comments: 139</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
@@ -97,42 +98,42 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Thousands await aid after deadly Indonesia quake as rescue work conducted
+### 7. USS Lincoln crisis: How it compares to past aircraft carrier deployments
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands remain displaced after magnitude 7.7 quake struck East Nusa Tenggara province on Saturday.
+The USS Abraham Lincoln crisis highlights the toll of lengthy deployments on crew morale and operational readiness.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss)
 
 ---
 
-### 8. Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle
+### 8. Iraqi Kurdish PM Barzani’s office targeted in drone attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Britain&#039;s new premier has promised to ease the suffering of millions of families unable to afford basic items.
+Explosive drones target Iraqi Kurdish PM&#039;s office and security chief&#039;s residence; no casualties reported.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss)
 
 ---
 
-### 9. Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
+### 9. Indian temple stampede kills seven people and injures dozens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Modi&#039;s BJP once controlled media narratives in India, but this might be changing with the &#039;Cockroach&#039; movement.
+A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss)
 
 ---
 
