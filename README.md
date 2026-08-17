@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 12:01:06
+**Last Update:** 2026-08-17 12:36:12
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. $12B of US ratepayers' money wasted on a modeling mistake in PJM
+### 1. HackEurope 2026: A short rant on AI and hackathons
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
+
+---
+
+### 2. $12B of US ratepayers' money wasted on a modeling mistake in PJM
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
-<p>Points: 36</p>
-<p># Comments: 14</p>
+<p>Points: 41</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
 
 ---
 
-### 2. Linear algebra done right
+### 3. Linear algebra done right
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 53</p>
-<p># Comments: 25</p>
+<p>Points: 60</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
-
----
-
-### 3. GIMP Development Update
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 98</p>
-<p># Comments: 42</p>
-
-🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
 ---
 
@@ -97,7 +97,20 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Cincinnati Open: Sabalenka takes six match points to defeat Gibson
+### 7. Scottie Scheffler wins St Jude Championship by eight shots
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Scheffler&#039;s 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss)
+
+---
+
+### 8. Cincinnati Open: Sabalenka takes six match points to defeat Gibson
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Alia
 
 ---
 
-### 8. Outrage as Colombia’s president hands out footballs as residents await aid
+### 9. Outrage as Colombia’s president hands out footballs as residents await aid
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Alia
 Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss)
-
----
-
-### 9. Kushner to meet Netanyahu to push Trump Gaza plan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss)
 
 ---
 
