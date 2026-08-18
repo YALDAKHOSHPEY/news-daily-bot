@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 23:16:47
+**Last Update:** 2026-08-18 23:41:33
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
+<p>Points: 83</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 
 ---
 
-### 2. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
+### 2. Beware Management Consultants
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+
+---
+
+### 3. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/argus-testing/argus">https://github.com/argus-testing/argus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351020">https://news.ycombinator.com/item?id=49351020</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/argus-testing/argus](https://github.com/argus-testing/argus)
-
----
-
-### 3. IndieWeb Homebrew Website Club Asia Pacific: Reflections
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://burgeonlab.com/blog/inaugural-hwc-ap-recap/">https://burgeonlab.com/blog/inaugural-hwc-ap-recap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49350980">https://news.ycombinator.com/item?id=49350980</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://burgeonlab.com/blog/inaugural-hwc-ap-recap/](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 
 ---
 
@@ -97,42 +97,42 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. US judge says government can revoke deportation protections for Ethiopians
+### 7. US Justice Department denies whistleblower claims on anti-Semitism probes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.
+Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss)
 
 ---
 
-### 8. Landmark trial on Meta’s impact on children’s mental health begins in US
+### 8. Turkish politician Melih Meric stabbed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.
+Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss)
 
 ---
 
-### 9. Israeli strike on Gaza City cafe kills six, including child
+### 9. US seeks to revive criminal case against Kilmar Abrego Garcia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.
+Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss)
 
 ---
 
