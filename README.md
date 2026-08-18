@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 04:07:54
+**Last Update:** 2026-08-18 05:26:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cursor Origin
+### 1. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cursor.com/docs/origin">https://cursor.com/docs/origin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339359">https://news.ycombinator.com/item?id=49339359</a></p>
-<p>Points: 34</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://cursor.com/docs/origin](https://cursor.com/docs/origin)
+🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="http://amosdudley.com/weblog/Designing-PPE-for-Hilde">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338953">https://news.ycombinator.com/item?id=49338953</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [http://amosdudley.com/weblog/Designing-PPE-for-Hilde](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 163</p>
-<p># Comments: 122</p>
+<p>Points: 226</p>
+<p># Comments: 156</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
@@ -71,20 +71,20 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 
 ---
 
-### 5. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
+### 5. Russia warns UK over supplying drones to Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.
+An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fifa executive leaves job three weeks after speaking out against Infantino plan
+### 6. Fifa official sacked after Infantino plan criticism
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
+### 7. Vigil held in central London for late Cambridge professor Jason Arday
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss)
+
+---
+
+### 8. Zambia’s Hichilema wins second term as president
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss)
-
----
-
-### 8. ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss)
-
----
-
-### 9. As rubble clears, Colombia begins focusing on recovery after the earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss)
 
 ---
 
