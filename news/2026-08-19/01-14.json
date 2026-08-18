@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T01:14:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+            "description": "<p>Article URL: <a href=\"https://cdn.kuber.studio/chat/hp-laser-1008a-driver\">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49352806\">https://news.ycombinator.com/item?id=49352806</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+            "published": "Tue, 18 Aug 2026 21:14:21 +0000",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Norway Should Buy OpenAI",
+            "description": "<p>Article URL: <a href=\"https://www.onethousandmeans.com/p/norway-should-buy-openai\">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351330\">https://news.ycombinator.com/item?id=49351330</a></p>\n<p>Points: 158</p>\n<p># Comments: 174</p>",
+            "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+            "published": "Tue, 18 Aug 2026 19:30:29 +0000",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beware Management Consultants",
+            "description": "<p>Article URL: <a href=\"https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351324\">https://news.ycombinator.com/item?id=49351324</a></p>\n<p>Points: 305</p>\n<p># Comments: 46</p>",
+            "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+            "published": "Tue, 18 Aug 2026 19:29:51 +0000",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+            "description": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:03:59 +0000",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike reported to kill at least six in Gaza City",
+            "description": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:03:04 +0000",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "WHO: Ebola can be contained in months if enough funding is provided",
+            "description": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 20:53:44 +0000",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T01:14:37+03:30"
+        }
+    ]
+}
