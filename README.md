@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 14:45:42
+**Last Update:** 2026-08-18 15:17:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google buys crashed airline Spirit's data at auction, because AI
+### 1. As Wisconsin cities flee Flock, its shared camera network loses value
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344114">https://news.ycombinator.com/item?id=49344114</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+
+---
+
+### 2. Google buys crashed airline Spirit's data at auction, because AI
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 46</p>
-<p># Comments: 16</p>
+<p>Points: 88</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
-### 2. Linux 7.3 improves performance when running out of vRAM
+### 3. Linux 7.3 improves performance when running out of vRAM
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 186</p>
-<p># Comments: 37</p>
+<p>Points: 212</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
 ---
 
-### 3. Rethinking Database Programming
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 72</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
-
----
-
-### 4. Russia warns UK will pay for supplying drones to Ukraine
+### 4. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian aggression.
+Prime Minister Andy Burnham vows to support Ukraine in its "hour of need" after Russia accuses the UK of escalating the Ukraine war by supplying British-made drones.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. India’s ‘Cockroach’ movement makes schools next battleground against Modi
+### 7. Premier League what to know: Schedule, prediction, transfers and more
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cockroach leaders asked supporters to audit their nearest government-run schools. But it has started with a killing.
+Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss)
 
 ---
 
-### 8. Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain
+### 8. What to know about California’s special election to replace Eric Swalwell
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al-Ahli and Al Ain, who will also face Cristiano Ronaldo&#039;s Al-Nassr, are the pick of the match-ups in AFC&#039;s Elite draw.
+A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss)
 
 ---
 
-### 9. Eight air strikes hit airbase in Syria’s Idlib
+### 9. Tupac Shakur murder trial begins thirty years after his death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.
+Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss)
 
 ---
 
