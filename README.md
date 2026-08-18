@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 09:54:10
+**Last Update:** 2026-08-18 10:42:45
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What's Better Than Binary? – Advent of Computing Episode 187
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary">https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340315">https://news.ycombinator.com/item?id=49340315</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
-
----
-
-### 2. The Benchmarkpocalypse
+### 1. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 48</p>
-<p># Comments: 5</p>
+<p>Points: 66</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
 
 ---
 
-### 3. Repair Cafe – Fix Your Broken Items
+### 2. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 75</p>
-<p># Comments: 10</p>
+<p>Points: 84</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
+
+---
+
+### 3. How Bluesky draws its logo on screenshots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
+<p>Points: 416</p>
+<p># Comments: 278</p>
+
+🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ---
 
@@ -71,7 +71,7 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 5. Russia warns UK over supplying drones to Ukraine
+### 5. Russia says UK 'will pay' for supplying drones to Ukraine
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Trump says N Korea’s Kim has responded to his request for a conversation
+### 7. Russia says more than 600 drones targeted Moscow region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.
+The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss)
 
 ---
 
-### 8. Can Trump limit birthright citizenship? Legal experts are doubtful
+### 8. Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
+British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss)
 
 ---
 
-### 9. A hero’s welcome as Cameroon parades its first Women’s AFCON title
+### 9. Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
+Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss)
 
 ---
 
