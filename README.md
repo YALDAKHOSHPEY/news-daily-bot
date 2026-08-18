@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 21:21:26
+**Last Update:** 2026-08-18 21:51:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why your Amazon order confirmation emails have become so unhelpful
+### 1. Show HN: macOS data protection keychain for Electron apps
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data">https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348627">https://news.ycombinator.com/item?id=49348627</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protection Keychain is nice because it limits access via code-signing access groups and lets you set access rules like Touch ID and/or password.<p>1: <a href="https://hansel.so/" rel="nofollow">https://hansel.so/</a><p>2. <a href="https://www.electronjs.org/docs/latest/api/safe-storage" rel="nofollow">https://www.electronjs.org/docs/latest/api/safe-storage</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349159">https://news.ycombinator.com/item?id=49349159</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)
+🔗 **Read more:** [https://github.com/biw/keychain-store](https://github.com/biw/keychain-store)
 
 ---
 
-### 2. Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows
+### 2. Data centers raise nearby temperatures by up to 4 degrees in Phoenix
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows">https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348356">https://news.ycombinator.com/item?id=49348356</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban">https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349147">https://news.ycombinator.com/item?id=49349147</a></p>
+<p>Points: 70</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
+🔗 **Read more:** [https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
 
 ---
 
-### 3. Degraded performance for multiple models
+### 3. Claude Code weekly limits reduce by a third tomorrow
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.claude.com/incidents/q7txxvbsftgq">https://status.claude.com/incidents/q7txxvbsftgq</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348163">https://news.ycombinator.com/item?id=49348163</a></p>
-<p>Points: 127</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion">https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348751">https://news.ycombinator.com/item?id=49348751</a></p>
+<p>Points: 141</p>
+<p># Comments: 78</p>
 
-🔗 **Read more:** [https://status.claude.com/incidents/q7txxvbsftgq](https://status.claude.com/incidents/q7txxvbsftgq)
+🔗 **Read more:** [https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
 
 ---
 
@@ -97,42 +98,42 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. The British state has recast protest as terrorism
+### 7. Police attack Indonesian student protesters, arresting at least 21
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.
+Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss)
 
 ---
 
-### 8. Tropical Storm Lala leaves Hawaii flooded and without power
+### 8. Barcelona seal deal for World Cup winner Rodri from Manchester City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tropical Storm Lala leaves Hawaii flooded and without power
+Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss)
 
 ---
 
-### 9. Iran prepares to keep economy alive as US threatens further sanctions
+### 9. Nigeria hospital collapses after rain washed away its foundations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
+A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T21:51:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: macOS data protection keychain for Electron apps",
+            "description": "<p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protection Keychain is nice because it limits access via code-signing access groups and lets you set access rules like Touch ID and/or password.<p>1: <a href=\"https://hansel.so/\" rel=\"nofollow\">https://hansel.so/</a><p>2. <a href=\"https://www.electronjs.org/docs/latest/api/safe-storage\" rel=\"nofollow\">https://www.electronjs.org/docs/latest/api/safe-storage</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349159\">https://news.ycombinator.com/item?id=49349159</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/biw/keychain-store",
+            "published": "Tue, 18 Aug 2026 17:25:19 +0000",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+            "description": "<p>Article URL: <a href=\"https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban\">https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349147\">https://news.ycombinator.com/item?id=49349147</a></p>\n<p>Points: 70</p>\n<p># Comments: 45</p>",
+            "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+            "published": "Tue, 18 Aug 2026 17:24:53 +0000",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Code weekly limits reduce by a third tomorrow",
+            "description": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348751\">https://news.ycombinator.com/item?id=49348751</a></p>\n<p>Points: 141</p>\n<p># Comments: 78</p>",
+            "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+            "published": "Tue, 18 Aug 2026 17:02:15 +0000",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says he's not embarrassed about hoax message exchange",
+            "description": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:22:58 GMT",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police attack Indonesian student protesters, arresting at least 21",
+            "description": "Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 18:17:35 +0000",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+            "description": "Rodri won the player of the World Cup award while helping Spain beat Argentina, and now completes his Barcelona move.",
+            "url": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 18:01:12 +0000",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria hospital collapses after rain washed away its foundations",
+            "description": "A hospital in Nigeria has collapsed after rainwater triggered a landslide, washing away the foundational infrastructure.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 17:55:26 +0000",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T21:51:43+03:30"
+        }
+    ]
+}
