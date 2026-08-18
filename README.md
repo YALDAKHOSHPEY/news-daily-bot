@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 15:53:01
+**Last Update:** 2026-08-18 16:51:39
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. As Wisconsin cities flee Flock, its shared camera network loses value
+### 1. Deus Ex creator Warren Spector is retiring from game development
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344114">https://news.ycombinator.com/item?id=49344114</a></p>
-<p>Points: 21</p>
+<p>Article URL: <a href="https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/">https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345070">https://news.ycombinator.com/item?id=49345070</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+🔗 **Read more:** [https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/)
 
 ---
 
-### 2. Google buys crashed airline Spirit's data at auction, because AI
+### 2. Using the railway network as a flatbed scanner
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 128</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
+<p>Points: 22</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
 
 ---
 
-### 3. Linux 7.3 improves performance when running out of vRAM
+### 3. Fairphone is now officially available in the United States
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 243</p>
-<p># Comments: 74</p>
+<p>Article URL: <a href="https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more">https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344811">https://news.ycombinator.com/item?id=49344811</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
+🔗 **Read more:** [https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
 
 ---
 
@@ -97,42 +97,42 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. Russia protests Japan PM’s comments after Putin’s Kuril visit
+### 7. Japanese activist keeps protesting against Israel’s genocide in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia summons Japan&#039;s ambassador to Moscow over Prime Minister Sanae ⁠Takaichi&#039;s &#039;anti-Russian&#039; remarks.
+Japanese activist keeps protesting against Israel’s genocide in Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Why has Trump threatened to bomb Oman – for a second time?
+### 8. Bashar al-Assad’s cousin Wassim sentenced to death in Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
+A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss)
 
 ---
 
-### 9. Premier League what to know: Schedule, prediction, transfers and more
+### 9. Qatar rejects Iran’s ‘false’ claims about missing pilots
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
+Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss)
 
 ---
 
