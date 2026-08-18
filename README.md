@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 12:51:49
+**Last Update:** 2026-08-18 13:26:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 22</p>
-<p># Comments: 0</p>
+<p>Points: 91</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
+<p>Points: 30</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
-<p>Points: 15</p>
+<p>Points: 28</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
+Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian aggression.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 6. British couple killed in helicopter crash on Greek island, local media report
+### 6. British couple on honeymoon killed in helicopter crash on Greek island
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The couple were on their honeymoon and were killed in the crash alongside their pilot, according to Greek media.
+The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Cincinnati Open: Williams sisters fall in doubles while Zverev advances
+### 7. Videos show deadly school shooting in Philippines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
+A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss)
 
 ---
 
-### 8. Trump lashes out at CNN reporter over South Korea question
+### 8. Drone video shows drought-hit fields in England after driest July on record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump lashes out at CNN reporter over South Korea question
+Drone video shows drought-hit fields in England after driest July on record
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss)
 
 ---
 
-### 9. Syrian court sentences Wassim al-Assad to death
+### 9. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The former regime figure was found guilty of charges including premeditated murder and torture.
+Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss)
 
 ---
 
