@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 02:42:19
+**Last Update:** 2026-08-19 03:13:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Who owns the code? AI code == no author == no copyright
+### 1. Programmable Property-Based Testing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://whoownsthecode.com/">https://whoownsthecode.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353603">https://news.ycombinator.com/item?id=49353603</a></p>
+<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3828685">https://dl.acm.org/doi/10.1145/3828685</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353618">https://news.ycombinator.com/item?id=49353618</a></p>
 <p>Points: 5</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://whoownsthecode.com/](https://whoownsthecode.com/)
+🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3828685](https://dl.acm.org/doi/10.1145/3828685)
 
 ---
 
-### 2. GLM-5.3 Artificial Analysis Benchmarks
+### 2. AI usage patterns in software teams
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linear.app/data">https://linear.app/data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353432">https://news.ycombinator.com/item?id=49353432</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://linear.app/data](https://linear.app/data)
+
+---
+
+### 3. GLM-5.3 Artificial Analysis Benchmarks
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/models/glm-5-3">https://artificialanalysis.ai/models/glm-5-3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353407">https://news.ycombinator.com/item?id=49353407</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 52</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/models/glm-5-3](https://artificialanalysis.ai/models/glm-5-3)
-
----
-
-### 3. fx :Tiny, open, native coding agent.
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fx.sh">https://fx.sh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353339">https://news.ycombinator.com/item?id=49353339</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://fx.sh](https://fx.sh)
 
 ---
 
