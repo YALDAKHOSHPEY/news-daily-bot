@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 22:50:41
+**Last Update:** 2026-08-18 23:16:47
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: PantheonGPU – GPU health testing and AI workload benchmarking
+### 1. Norway Should Buy OpenAI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should?<p>A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues.<p>PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI/LLM inference.<p>It supports both NVIDIA CUDA and AMD ROCm.<p>I’m also exploring a larger use case: running Pantheon across GPU fleets to identify individual GPUs that behave differently from the rest of a server or cluster.<p>I’d especially appreciate feedback from people running AI infrastructure, multi-GPU systems, local LLMs, or GPU clouds.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49350637">https://news.ycombinator.com/item?id=49350637</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
+
+---
+
+### 2. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/argus-testing/argus">https://github.com/argus-testing/argus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351020">https://news.ycombinator.com/item?id=49351020</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://pantheongpu.com/](https://pantheongpu.com/)
+🔗 **Read more:** [https://github.com/argus-testing/argus](https://github.com/argus-testing/argus)
 
 ---
 
-### 2. How does IKEA come up with names for its products?
+### 3. IndieWeb Homebrew Website Club Asia Pacific: Reflections
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349984">https://news.ycombinator.com/item?id=49349984</a></p>
-<p>Points: 65</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://burgeonlab.com/blog/inaugural-hwc-ap-recap/">https://burgeonlab.com/blog/inaugural-hwc-ap-recap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49350980">https://news.ycombinator.com/item?id=49350980</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
-
----
-
-### 3. Turbovec – Google's TurboQuant for vector search in Rust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/RyanCodrai/turbovec">https://github.com/RyanCodrai/turbovec</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349898">https://news.ycombinator.com/item?id=49349898</a></p>
-<p>Points: 56</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://github.com/RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+🔗 **Read more:** [https://burgeonlab.com/blog/inaugural-hwc-ap-recap/](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 
 ---
 
@@ -98,7 +97,20 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. Landmark trial on Meta’s impact on children’s mental health begins in US
+### 7. US judge says government can revoke deportation protections for Ethiopians
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss)
+
+---
+
+### 8. Landmark trial on Meta’s impact on children’s mental health begins in US
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregar
 
 ---
 
-### 8. Israeli strike on Gaza City cafe kills six, including child
+### 9. Israeli strike on Gaza City cafe kills six, including child
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregar
 An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss)
-
----
-
-### 9. Police attack Indonesian student protesters, arresting at least 21
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hundreds of university students in Indonesia took to the streets of Jakarta on Tuesday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss)
 
 ---
 
