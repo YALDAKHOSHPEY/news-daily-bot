@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 15:17:56
+**Last Update:** 2026-08-18 15:53:01
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344114">https://news.ycombinator.com/item?id=49344114</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 88</p>
-<p># Comments: 45</p>
+<p>Points: 128</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 212</p>
-<p># Comments: 56</p>
+<p>Points: 243</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham vows to support Ukraine in its "hour of need" after Russia accuses the UK of escalating the Ukraine war by supplying British-made drones.
+Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. Premier League what to know: Schedule, prediction, transfers and more
+### 7. Russia protests Japan PM’s comments after Putin’s Kuril visit
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russia summons Japan&#039;s ambassador to Moscow over Prime Minister Sanae ⁠Takaichi&#039;s &#039;anti-Russian&#039; remarks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss)
+
+---
+
+### 8. Why has Trump threatened to bomb Oman – for a second time?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss)
+
+---
+
+### 9. Premier League what to know: Schedule, prediction, transfers and more
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss)
-
----
-
-### 8. What to know about California’s special election to replace Eric Swalwell
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss)
-
----
-
-### 9. Tupac Shakur murder trial begins thirty years after his death
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss)
 
 ---
 
