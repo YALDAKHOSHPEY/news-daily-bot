@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 03:14:15
+**Last Update:** 2026-08-18 04:07:54
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Bluesky draws its logo on screenshots
+### 1. Cursor Origin
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cursor.com/docs/origin">https://cursor.com/docs/origin</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339359">https://news.ycombinator.com/item?id=49339359</a></p>
+<p>Points: 34</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://cursor.com/docs/origin](https://cursor.com/docs/origin)
+
+---
+
+### 2. Puppy PPE
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://amosdudley.com/weblog/Designing-PPE-for-Hilde">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338953">https://news.ycombinator.com/item?id=49338953</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [http://amosdudley.com/weblog/Designing-PPE-for-Hilde](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
+
+---
+
+### 3. How Bluesky draws its logo on screenshots
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 97</p>
-<p># Comments: 75</p>
+<p>Points: 163</p>
+<p># Comments: 122</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
-
----
-
-### 2. scScript for Linux
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=49338428</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://scapplications.com/](https://scapplications.com/)
-
----
-
-### 3. Colorado River plummets as lakes Powell and Mead drop to record lows
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/cD5hF" rel="nofollow">https://archive.ph/cD5hF</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
-<p>Points: 31</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 
 ---
 
@@ -98,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. As rubble clears, Colombia begins focusing on recovery after the earthquake
+### 7. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss)
+
+---
+
+### 8. ‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss)
+
+---
+
+### 9. As rubble clears, Colombia begins focusing on recovery after the earthquake
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss)
-
----
-
-### 8. ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss)
-
----
-
-### 9. Palestinian American reunites with family under siege in West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss)
 
 ---
 
