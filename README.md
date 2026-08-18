@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 00:16:06
+**Last Update:** 2026-08-19 00:43:42
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 130</p>
-<p># Comments: 136</p>
+<p>Points: 141</p>
+<p># Comments: 156</p>
 
 🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
-<p>Points: 143</p>
-<p># Comments: 27</p>
+<p>Points: 211</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
 
 ---
 
-### 3. llms.txt: a proposed standard no major AI platform has confirmed it uses
+### 3. IndieWeb Homebrew Website Club Asia Pacific: Reflections
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geojacker.com/llms-txt">https://geojacker.com/llms-txt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351232">https://news.ycombinator.com/item?id=49351232</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://burgeonlab.com/blog/inaugural-hwc-ap-recap/">https://burgeonlab.com/blog/inaugural-hwc-ap-recap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49350980">https://news.ycombinator.com/item?id=49350980</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://geojacker.com/llms-txt](https://geojacker.com/llms-txt)
+🔗 **Read more:** [https://burgeonlab.com/blog/inaugural-hwc-ap-recap/](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 
 ---
 
@@ -97,42 +97,42 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. Trump and Carney speak ahead of US tariff deadline
+### 7. Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.
+Concern over the security of Europe&#039;s largest nuclear plant has been rife since Russia launched its full-scale war.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss)
 
 ---
 
-### 8. US sanctions International Criminal Court president and trial lawyer
+### 8. Jose Mourinho returns to Real Madrid in closed-door ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.
+In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss)
 
 ---
 
-### 9. US Justice Department denies whistleblower claims on anti-Semitism probes
+### 9. Liberia to take 1,200 deportees from the US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.
+The first group of 20 deportees is expected to arrive in the coming days.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss)
 
 ---
 
