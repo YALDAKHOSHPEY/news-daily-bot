@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 12:31:32
+**Last Update:** 2026-08-18 12:51:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 3</p>
+<p>Points: 22</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
-<p>Points: 13</p>
+<p>Points: 15</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 
 ---
 
-### 4. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Russia says UK 'will pay' for supplying drones to Ukraine
+### 4. Russia warns UK will pay for supplying drones to Ukraine
 
 **Source:** BBC
 
@@ -84,20 +71,46 @@ An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" wit
 
 ---
 
-### 6. Fifa official sacked after Infantino plan criticism
+### 5. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
+Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump lashes out at CNN reporter over South Korea question
+### 6. British couple killed in helicopter crash on Greek island, local media report
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The couple were on their honeymoon and were killed in the crash alongside their pilot, according to Greek media.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Cincinnati Open: Williams sisters fall in doubles while Zverev advances
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss)
+
+---
+
+### 8. Trump lashes out at CNN reporter over South Korea question
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump lashes out at CNN reporter over South Korea question
 
 ---
 
-### 8. Syrian court sentences Wassim al-Assad to death
+### 9. Syrian court sentences Wassim al-Assad to death
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump lashes out at CNN reporter over South Korea question
 The former regime figure was found guilty of charges including premeditated murder and torture.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss)
-
----
-
-### 9. Chinese company unveils new ‘Superman’ humanoid robot
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chinese company unveils new ‘Superman’ humanoid robot
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss)
 
 ---
 
