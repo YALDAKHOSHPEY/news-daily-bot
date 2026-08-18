@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 06:44:17
+**Last Update:** 2026-08-18 07:05:54
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 30</p>
-<p># Comments: 8</p>
+<p>Points: 31</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 273</p>
-<p># Comments: 194</p>
+<p>Points: 281</p>
+<p># Comments: 202</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=49338428</a></p>
-<p>Points: 19</p>
+<p>Points: 21</p>
 <p># Comments: 7</p>
 
 🔗 **Read more:** [https://scapplications.com/](https://scapplications.com/)
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Trump says talking to North Korea’s Kim makes the south safer
+### 7. Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambridge University professor&#039;s death.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss)
+
+---
+
+### 8. Two killed as gunman opens fire at Philippines high school, official says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss)
+
+---
+
+### 9. Trump says talking to North Korea’s Kim makes the south safer
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss)
-
----
-
-### 8. Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss)
-
----
-
-### 9. Vigil held in central London for late Cambridge professor Jason Arday
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss)
 
 ---
 
