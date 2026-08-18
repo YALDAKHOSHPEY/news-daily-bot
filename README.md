@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 18:29:40
+**Last Update:** 2026-08-18 18:51:05
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Babies born under sugar rationing grew into adults with lower cancer risk
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345843">https://news.ycombinator.com/item?id=49345843</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
-
----
-
-### 2. Python Polars Cheatsheet (based on our O'Reilly book)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://opensource.posit.co/resources/cheatsheets/polars/">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345476">https://news.ycombinator.com/item?id=49345476</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://opensource.posit.co/resources/cheatsheets/polars/](https://opensource.posit.co/resources/cheatsheets/polars/)
-
----
-
-### 3. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
-<p>Points: 18</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
-
----
-
-### 4. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
+### 1. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Russia accuses the UK of escalating the Ukraine war by supplying British-made dr
 
 ---
 
-### 5. British couple on honeymoon killed in helicopter crash on Greek island
+### 2. British couple on honeymoon killed in helicopter crash on Greek island
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 6. Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford
+### 3. Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The 62-year-old man is charged with misconduct in public office and appears befo
 
 ---
 
-### 7. What to watch in the Alaska and Wyoming primary elections
+### 4. US cites India on voter IDs, but are elections under Modi clean?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican-led states face leadership shuffling.
+Trump highlights India&#039;s voter ID rules to bolster his case for stricter US election laws.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss)
 
 ---
 
-### 8. Hichilema re-elected as Zambia president amid opposition concerns over vote
+### 5. Why is Russia threatening UK with ‘consequences’ over Ukraine drones?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.
+Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss)
 
 ---
 
-### 9. What to know about Gaza working groups and their mandate?
+### 6. Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.
+Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Picture Rock, Lake, Oregon
+### 7. Wildfire Picture Rock, Lake, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire CATO 2, Chaves, New Mexico
+### 8. Wildfire CATO 2, Chaves, New Mexico
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire THE H1, Palm Beach, Florida
+### 9. Wildfire THE H1, Palm Beach, Florida
 
 **Source:** NASA
 
