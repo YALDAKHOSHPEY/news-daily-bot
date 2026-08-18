@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 02:17:26
+**Last Update:** 2026-08-19 02:42:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. fx :Tiny, open, native coding agent.
+### 1. Who owns the code? AI code == no author == no copyright
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://whoownsthecode.com/">https://whoownsthecode.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353603">https://news.ycombinator.com/item?id=49353603</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://whoownsthecode.com/](https://whoownsthecode.com/)
+
+---
+
+### 2. GLM-5.3 Artificial Analysis Benchmarks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/models/glm-5-3">https://artificialanalysis.ai/models/glm-5-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353407">https://news.ycombinator.com/item?id=49353407</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/models/glm-5-3](https://artificialanalysis.ai/models/glm-5-3)
+
+---
+
+### 3. fx :Tiny, open, native coding agent.
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://fx.sh">https://fx.sh</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353339">https://news.ycombinator.com/item?id=49353339</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://fx.sh](https://fx.sh)
-
----
-
-### 2. A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/DenisSergeevitch/desktop-fly">https://github.com/DenisSergeevitch/desktop-fly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353221">https://news.ycombinator.com/item?id=49353221</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
-
----
-
-### 3. Claude Code Teaching macOS to Natively Print to the HP Laser 1008a
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cdn.kuber.studio/chat/hp-laser-1008a-driver">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49352806">https://news.ycombinator.com/item?id=49352806</a></p>
-<p>Points: 68</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://cdn.kuber.studio/chat/hp-laser-1008a-driver](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
 
 ---
 
@@ -97,7 +97,20 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Bolivia arrests political adviser to Latin American right-wingers
+### 7. Minnesota official sues Texas governor to force ICE agent’s extradition
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss)
+
+---
+
+### 8. Bolivia arrests political adviser to Latin American right-wingers
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Arrest comes after attack on activist Nadia Beller, who says she was targeted fo
 
 ---
 
-### 8. Trump administration moves to end rule protecting swaths of forest land
+### 9. Trump administration moves to end rule protecting swaths of forest land
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Arrest comes after attack on activist Nadia Beller, who says she was targeted fo
 US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss)
-
----
-
-### 9. Why is the US ramping up Tomahawk production?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss)
 
 ---
 
