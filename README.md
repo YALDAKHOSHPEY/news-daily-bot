@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 08:29:52
+**Last Update:** 2026-08-18 08:49:41
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 24</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 55</p>
+<p>Points: 61</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
-### 4. Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal
+### 4. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.
+Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
 
 ---
 
