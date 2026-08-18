@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 20:25:46
+**Last Update:** 2026-08-18 20:48:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://status.claude.com/incidents/q7txxvbsftgq">https://status.claude.com/incidents/q7txxvbsftgq</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348163">https://news.ycombinator.com/item?id=49348163</a></p>
-<p>Points: 32</p>
-<p># Comments: 14</p>
+<p>Points: 86</p>
+<p># Comments: 51</p>
 
 🔗 **Read more:** [https://status.claude.com/incidents/q7txxvbsftgq](https://status.claude.com/incidents/q7txxvbsftgq)
 
 ---
 
-### 2. Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI
+### 2. Superpowers, Not Superintelligence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bond.now/news/superpowers-not-superintelligence">https://bond.now/news/superpowers-not-superintelligence</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348152">https://news.ycombinator.com/item?id=49348152</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://bond.now/news/superpowers-not-superintelligence](https://bond.now/news/superpowers-not-superintelligence)
+
+---
+
+### 3. Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI
 
 **Source:** Hacker News
 
@@ -44,26 +60,10 @@ Asks<p>Would love you to try it out and give us your feedback (see below). Or if
   $ machine0 ssh myvm</code></pre></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348136">https://news.ycombinator.com/item?id=49348136</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://machine0.io](https://machine0.io)
-
----
-
-### 3. Apple announces changes for apps in the European Union
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348055">https://news.ycombinator.com/item?id=49348055</a></p>
-<p>Points: 29</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 
 ---
 
