@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 23:41:33
+**Last Update:** 2026-08-19 00:16:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 83</p>
-<p># Comments: 74</p>
+<p>Points: 130</p>
+<p># Comments: 136</p>
 
 🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Points: 143</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
 
 ---
 
-### 3. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
+### 3. llms.txt: a proposed standard no major AI platform has confirmed it uses
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/argus-testing/argus">https://github.com/argus-testing/argus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351020">https://news.ycombinator.com/item?id=49351020</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://geojacker.com/llms-txt">https://geojacker.com/llms-txt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351232">https://news.ycombinator.com/item?id=49351232</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/argus-testing/argus](https://github.com/argus-testing/argus)
+🔗 **Read more:** [https://geojacker.com/llms-txt](https://geojacker.com/llms-txt)
 
 ---
 
@@ -97,7 +97,33 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. US Justice Department denies whistleblower claims on anti-Semitism probes
+### 7. Trump and Carney speak ahead of US tariff deadline
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss)
+
+---
+
+### 8. US sanctions International Criminal Court president and trial lawyer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss)
+
+---
+
+### 9. US Justice Department denies whistleblower claims on anti-Semitism probes
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 Ivy League schools were pressured into settlements despite a lack of evidence, according to a former DOJ lawyer.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss)
-
----
-
-### 8. Turkish politician Melih Meric stabbed
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Footage shows the moment Turkish New Party MP Melih Meric got into an argument with a man who stabbed him.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss)
-
----
-
-### 9. US seeks to revive criminal case against Kilmar Abrego Garcia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Judge previously found US government brought charges against Abrego Garcia as retaliation for case that embarrassed it.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss)
 
 ---
 
