@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 17:05:11
+**Last Update:** 2026-08-18 17:33:41
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Deus Ex creator Warren Spector is retiring from game development
+### 1. A group of Gandalfs protest outside the home of Peter Thiel in Argentina
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/">https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345070">https://news.ycombinator.com/item?id=49345070</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/)
-
----
-
-### 2. Using the railway network as a flatbed scanner
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
-<p>Points: 22</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
-
----
-
-### 3. Fairphone is now officially available in the United States
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more">https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344811">https://news.ycombinator.com/item?id=49344811</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/">https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345438">https://news.ycombinator.com/item?id=49345438</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
+🔗 **Read more:** [https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)
+
+---
+
+### 2. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
+
+---
+
+### 3. Ask HN: Good content on using AI to modernize professional services delivery
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.)<p>I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345255">https://news.ycombinator.com/item?id=49345255</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49345255](https://news.ycombinator.com/item?id=49345255)
 
 ---
 
@@ -97,42 +98,42 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. Japanese activist keeps protesting against Israel’s genocide in Gaza
+### 7. Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japanese activist keeps protesting against Israel’s genocide in Gaza
+Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss)
 
 ---
 
-### 8. Bashar al-Assad’s cousin Wassim sentenced to death in Syria
+### 8. Palestinian-American confronts Israeli settler at his besieged home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.
+Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss)
 
 ---
 
-### 9. Qatar rejects Iran’s ‘false’ claims about missing pilots
+### 9. Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.
+The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss)
 
 ---
 
