@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 08:49:41
+**Last Update:** 2026-08-18 09:22:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What's Better Than Binary? – Advent of Computing Episode 187
+### 1. I don't enjoy the Internet any more
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/">https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341551">https://news.ycombinator.com/item?id=49341551</a></p>
+<p>Points: 43</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/)
+
+---
+
+### 2. What's Better Than Binary? – Advent of Computing Episode 187
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. The Benchmarkpocalypse
+### 3. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 31</p>
+<p>Points: 41</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
-
----
-
-### 3. Repair Cafe – Fix Your Broken Items
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 61</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Hichilema wins second term as president of copper-rich Zambia
+### 7. Can Trump limit birthright citizenship? Legal experts are doubtful
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss)
+
+---
+
+### 8. A hero’s welcome as Cameroon parades its first Women’s AFCON title
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss)
+
+---
+
+### 9. Hichilema wins second term as president of copper-rich Zambia
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss)
-
----
-
-### 8. Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambridge University professor&#039;s death.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss)
-
----
-
-### 9. Two students killed in Philippines school shooting
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss)
 
 ---
 
