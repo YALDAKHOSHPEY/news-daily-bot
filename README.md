@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 01:14:37
+**Last Update:** 2026-08-19 01:41:33
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://cdn.kuber.studio/chat/hp-laser-1008a-driver">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49352806">https://news.ycombinator.com/item?id=49352806</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Points: 47</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://cdn.kuber.studio/chat/hp-laser-1008a-driver](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
 
 ---
 
-### 2. Norway Should Buy OpenAI
+### 2. Companies promote incompetent employees to management tolimit damage they can do
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 158</p>
-<p># Comments: 174</p>
+<p>Article URL: <a href="https://lawsofsoftwareengineering.com/laws/dilbert-principle/">https://lawsofsoftwareengineering.com/laws/dilbert-principle/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49352794">https://news.ycombinator.com/item?id=49352794</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
+🔗 **Read more:** [https://lawsofsoftwareengineering.com/laws/dilbert-principle/](https://lawsofsoftwareengineering.com/laws/dilbert-principle/)
 
 ---
 
-### 3. Beware Management Consultants
+### 3. Find Chicago Parking Cops
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
-<p>Points: 305</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://www.secondcitycitation.com">https://www.secondcitycitation.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49352737">https://news.ycombinator.com/item?id=49352737</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+🔗 **Read more:** [https://www.secondcitycitation.com](https://www.secondcitycitation.com)
 
 ---
 
@@ -71,16 +71,16 @@ A man, a woman and a teenage girl die and a younger girl is in a critical condit
 
 ---
 
-### 5. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
+### 5. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".
+Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal
+### 7. Bolivia arrests political adviser to Latin American right-wingers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.
+Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss)
 
 ---
 
-### 8. Israeli strike reported to kill at least six in Gaza City
+### 8. Trump administration moves to end rule protecting swaths of forest land
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.
+US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss)
 
 ---
 
-### 9. WHO: Ebola can be contained in months if enough funding is provided
+### 9. Why is the US ramping up Tomahawk production?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.
+Pentagon contracts defence manufacturer to increase output of cruise missiles.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss)
 
 ---
 
