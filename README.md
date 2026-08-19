@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 11:54:04
+**Last Update:** 2026-08-19 12:32:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Where Human Sleep Went Wrong
+### 1. The Mojo language (by Modular, now Qualcomm) is now open-source
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
+
+---
+
+### 2. Where Human Sleep Went Wrong
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 37</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
 ---
 
-### 2. Berd
+### 3. "Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://berd.xyz">https://berd.xyz</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357967">https://news.ycombinator.com/item?id=49357967</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358220">https://news.ycombinator.com/item?id=49358220</a></p>
+<p>Points: 35</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://berd.xyz](https://berd.xyz)
-
----
-
-### 3. λλ: A Programming Language for Silicon Photonics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3789240.3829151">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357501">https://news.ycombinator.com/item?id=49357501</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3789240.3829151](https://dl.acm.org/doi/10.1145/3789240.3829151)
+🔗 **Read more:** [https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 
 ---
 
@@ -97,42 +97,42 @@ The popularity of degree apprenticeships has grown as the cost of university has
 
 ---
 
-### 7. South Africa to Australia: Why coal profits are surging during Iran war
+### 7. Ukraine’s sacked defence minister calls for wartime elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
+Ukraine’s sacked defence minister calls for wartime elections
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss)
 
 ---
 
-### 8. Scaling back US-South Korea drills may fail to woo Kim away from China
+### 8. Breastfeeding in Gaza: Mothers seek help to provide for their babies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
+Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss](https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss)
 
 ---
 
-### 9. Ukraine’s ousted defence minister calls for elections during war
+### 9. Sabalenka cruises through as Medvedev falls to Nakashima at Cincinnati Open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mykhailo Fedorov&#039;s call is first such demand by a major Ukrainian political figure since Russia&#039;s full-scale invasion.
+Top-ranked Aryna Sabalenka lost just four games to breeze into fourth round while Brandon Nakashima recorded a huge win.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/no-1-sabalenka-slams-wang-to-advance-at-cincinnati-open-medvedev-nakashima?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/no-1-sabalenka-slams-wang-to-advance-at-cincinnati-open-medvedev-nakashima?traffic_source=rss)
 
 ---
 
