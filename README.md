@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 01:17:45
+**Last Update:** 2026-08-20 01:43:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Points: 33</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
+<p>Points: 25</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
 ---
 
-### 3. XWayland 26.1-rc1 Released Two Years After the Last Release
+### 3. Xwayland 26.1.0 rc1
 
 **Source:** Hacker News
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 23</p>
-<p># Comments: 0</p>
+<p>Points: 30</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
 
@@ -97,20 +97,7 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. “I get along with him very well.”
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss)
-
----
-
-### 8. Israeli strike on Gaza City police headquarters kills women’s police chief
+### 7. Israeli strike on Gaza City police headquarters kills women’s police chief
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ An Israeli strike on Gaza City’s police headquarters has killed the women’s 
 
 ---
 
-### 9. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
+### 8. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
 
 **Source:** Al Jazeera
 
@@ -134,6 +121,19 @@ An Israeli strike on Gaza City’s police headquarters has killed the women’s 
 Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss)
+
+---
+
+### 9. Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss)
 
 ---
 
