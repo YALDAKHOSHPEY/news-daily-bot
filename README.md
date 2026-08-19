@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 11:29:49
+**Last Update:** 2026-08-19 11:54:04
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Privacy focused client side password generator
+### 1. Where Human Sleep Went Wrong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://password-generator.aaqa.dev/">https://password-generator.aaqa.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357881">https://news.ycombinator.com/item?id=49357881</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://password-generator.aaqa.dev/](https://password-generator.aaqa.dev/)
+🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
 ---
 
-### 2. λλ: A Programming Language for Silicon Photonics
+### 2. Berd
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://berd.xyz">https://berd.xyz</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357967">https://news.ycombinator.com/item?id=49357967</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://berd.xyz](https://berd.xyz)
+
+---
+
+### 3. λλ: A Programming Language for Silicon Photonics
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3789240.3829151">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357501">https://news.ycombinator.com/item?id=49357501</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3789240.3829151](https://dl.acm.org/doi/10.1145/3789240.3829151)
-
----
-
-### 3. Palomar: A registry of Lean verified mathematics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
-<p>Points: 85</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 
 ---
 
