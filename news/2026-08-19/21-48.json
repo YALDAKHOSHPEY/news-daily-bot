@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T21:48:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Opus 5.0 drives incoherence into the stratosphere",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/77136\">https://github.com/anthropics/claude-code/issues/77136</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364658\">https://news.ycombinator.com/item?id=49364658</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/anthropics/claude-code/issues/77136",
+            "published": "Wed, 19 Aug 2026 17:40:06 +0000",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenRouter Is Joining Stripe",
+            "description": "<p>Article URL: <a href=\"https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/\">https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 39</p>\n<p># Comments: 11</p>",
+            "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+            "published": "Wed, 19 Aug 2026 17:32:38 +0000",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+            "description": "<p>I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend. I’d noticed people had widely different spend profiles and wanted to better understand what might contribute to that.<p>As I’ve worked on this, the tool has grown to show more usage patterns across all of your sessions. It shows overall usage, estimated working time and overlapping sessions, and where your spend is coming from across models and cache misses. I also have a few session level metrics with percentile breakdowns, along with a list of your sessions and high level info.<p>Clicking into a session opens an explorer where you can see individual model calls and tool inputs and outputs. You can also jump directly to where a cache miss happened. There’s also a rough cost comparison that shows what the recorded session would have cost with another model’s pricing, or for Anthropic, with 5m vs 1h caching.<p>In the future, I’d love to collect more information to see which patterns might make people’s workflows more expensive, e.g. long sessions, high context usage, many turns, etc.<p>The tool requires deno, but is just one command to run once that is installed. The demo provided has some of the data scrubbed, but helps to show what it looks like before running it.<p>Would appreciate any thoughts or ideas<p><a href=\"https://github.com/dpclark4/frugal-tokens\" rel=\"nofollow\">https://github.com/dpclark4/frugal-tokens</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364223\">https://news.ycombinator.com/item?id=49364223</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://demo.frugaltokens.com/",
+            "published": "Wed, 19 Aug 2026 17:07:35 +0000",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+            "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+            "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
+            "description": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 17:32:36 +0000",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+            "description": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 17:14:21 +0000",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US pressure on Israel needed for peace in Syria",
+            "description": "With Israeli elections approaching, analysts say Netanyahu needs a new escalation, undermining deconfliction efforts.",
+            "url": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 17:12:11 +0000",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T21:48:36+03:30"
+        }
+    ]
+}
