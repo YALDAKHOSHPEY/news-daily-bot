@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 00:21:23
+**Last Update:** 2026-08-20 00:46:11
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pressed Penny Machine Map
+### 1. DFlash 2: Keep Drafting Parallel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
+
+---
+
+### 2. Pressed Penny Machine Map
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
 ---
 
-### 2. XWayland 26.1-rc1 Released Two Years After the Last Release
+### 3. XWayland 26.1-rc1 Released Two Years After the Last Release
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
-
----
-
-### 3. From Quantum Relative Entropy to the Semiclassical Einstein Equations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2510.24491">https://arxiv.org/abs/2510.24491</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366115">https://news.ycombinator.com/item?id=49366115</a></p>
 <p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2510.24491](https://arxiv.org/abs/2510.24491)
+🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
 
 ---
 
@@ -84,20 +84,46 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 6. Thunderstorm warnings issued for parts of UK with flash flooding expected
+### 6. Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.
+The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
+### 7. USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss)
+
+---
+
+### 8. Spain plans transfer of 500 migrant children from Ceuta to mainland
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss)
+
+---
+
+### 9. Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 Moderna&#039;s mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss)
-
----
-
-### 8. What’s behind Israel’s latest attack on Syria?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss)
-
----
-
-### 9. Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss)
 
 ---
 
