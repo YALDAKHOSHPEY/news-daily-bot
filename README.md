@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 16:53:25
+**Last Update:** 2026-08-19 17:06:21
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Geolocating a random island using geometry and CUDA programming
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://yassa9.github.io/osint/gralhix-004/">https://yassa9.github.io/osint/gralhix-004/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360545">https://news.ycombinator.com/item?id=49360545</a></p>
-<p>Points: 46</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://yassa9.github.io/osint/gralhix-004/](https://yassa9.github.io/osint/gralhix-004/)
-
----
-
-### 2. GrapheneOS in 2027 available on high-end Motorola phones
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117078064184215730">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360242">https://news.ycombinator.com/item?id=49360242</a></p>
-<p>Points: 167</p>
-<p># Comments: 74</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117078064184215730](https://grapheneos.social/@GrapheneOS/117078064184215730)
-
----
-
-### 3. A joke domain purchase turned in geopolitical warfare
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360015">https://news.ycombinator.com/item?id=49360015</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
-
----
-
-### 4. Thunderstorm warnings issued for parts of UK with flash flooding expected
+### 1. Thunderstorm warnings issued for parts of UK with flash flooding expected
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 5. Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
+### 2. Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The five-year-old spent hours on the phone to paramedics before her body was rec
 
 ---
 
-### 6. Jump in energy bills drives UK inflation to highest rate for four months
+### 3. Jump in energy bills drives UK inflation to highest rate for four months
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 
 ---
 
-### 7. Why aid entering Gaza may not reach those who need it
+### 4. Why aid entering Gaza may not reach those who need it
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ It is extremely difficult for trucks to get through the Israeli blockade, let al
 
 ---
 
-### 8. War on Iran: Iran allegedly targets the UAE
+### 5. War on Iran: Iran allegedly targets the UAE
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ After reports that Iran targeted the UAE with two ballistic missiles, the Emirat
 
 ---
 
-### 9. Palestinian factions explore broad alliance for November elections
+### 6. Palestinian factions explore broad alliance for November elections
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahm
 
 ---
 
-### 10. Wildfire Picture Rock, Lake, Oregon
+### 7. Wildfire Picture Rock, Lake, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire CATO 2, Chaves, New Mexico
+### 8. Wildfire CATO 2, Chaves, New Mexico
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire THE H1, Palm Beach, Florida
+### 9. Wildfire THE H1, Palm Beach, Florida
 
 **Source:** NASA
 
