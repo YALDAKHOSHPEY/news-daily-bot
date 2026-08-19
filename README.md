@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 15:52:54
+**Last Update:** 2026-08-19 16:53:25
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GrapheneOS in 2027 available on high-end Motorola phones
+### 1. Geolocating a random island using geometry and CUDA programming
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://yassa9.github.io/osint/gralhix-004/">https://yassa9.github.io/osint/gralhix-004/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360545">https://news.ycombinator.com/item?id=49360545</a></p>
+<p>Points: 46</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://yassa9.github.io/osint/gralhix-004/](https://yassa9.github.io/osint/gralhix-004/)
+
+---
+
+### 2. GrapheneOS in 2027 available on high-end Motorola phones
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117078064184215730">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360242">https://news.ycombinator.com/item?id=49360242</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Points: 167</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117078064184215730](https://grapheneos.social/@GrapheneOS/117078064184215730)
 
 ---
 
-### 2. Air Theremin – a browser theremin you play by waving at your webcam
+### 3. A joke domain purchase turned in geopolitical warfare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 57</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360015">https://news.ycombinator.com/item?id=49360015</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
-
----
-
-### 3. The Mojo language (by Modular, now Qualcomm) is now open-source
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 90</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
+🔗 **Read more:** [https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 
 ---
 
@@ -71,7 +71,20 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 5. Jump in energy bills drives UK inflation to highest rate for four months
+### 5. Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Jump in energy bills drives UK inflation to highest rate for four months
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 
 ---
 
-### 6. PM unveils plan to get rough sleepers off streets for Christmas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. In Ukraine, forcible military recruitment efforts escalate into violence
+### 7. Why aid entering Gaza may not reach those who need it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.
+It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss)
 
 ---
 
-### 8. Pakistan challenges top court order to move Imran Khan to private hospital
+### 8. War on Iran: Iran allegedly targets the UAE
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.
+After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss)
 
 ---
 
-### 9. Palestinians condemn Israeli step to advance illegal E1 settlement plan
+### 9. Palestinian factions explore broad alliance for November elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.
+Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss)
 
 ---
 
