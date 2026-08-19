@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 01:43:51
+**Last Update:** 2026-08-20 02:18:02
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. DFlash 2: Keep Drafting Parallel
+### 1. Collaborative Human Agent Protocol (CHAP)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
-<p>Points: 33</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
+🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
 
 ---
 
-### 2. Pressed Penny Machine Map
+### 2. Anthropic Refuses to Support Agents.md
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 25</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
+🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
 ---
 
-### 3. Xwayland 26.1.0 rc1
+### 3. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 30</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
+🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
 
 ---
 
@@ -97,7 +97,33 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. Israeli strike on Gaza City police headquarters kills women’s police chief
+### 7. What the social media addiction lawsuit could cost Meta
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram&#039;s operations.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss)
+
+---
+
+### 8. “I get along with him very well.”
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss)
+
+---
+
+### 9. Israeli strike on Gaza City police headquarters kills women’s police chief
 
 **Source:** Al Jazeera
 
@@ -107,33 +133,6 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss)
-
----
-
-### 8. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-“You can&#039;t do anything. Just stand here and watch.”
-Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss)
-
----
-
-### 9. Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss)
 
 ---
 
