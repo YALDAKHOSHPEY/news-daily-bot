@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T04:07:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+            "description": "<p>Article URL: <a href=\"https://modelmap.cc\">https://modelmap.cc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354664\">https://news.ycombinator.com/item?id=49354664</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://modelmap.cc",
+            "published": "Tue, 18 Aug 2026 23:57:36 +0000",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Solo – a .so loader for static Linux binaries",
+            "description": "<p>Article URL: <a href=\"https://github.com/pg83/solo\">https://github.com/pg83/solo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354613\">https://news.ycombinator.com/item?id=49354613</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/pg83/solo",
+            "published": "Tue, 18 Aug 2026 23:51:49 +0000",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+            "description": "<p>Article URL: <a href=\"https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/\">https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353854\">https://news.ycombinator.com/item?id=49353854</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+            "published": "Tue, 18 Aug 2026 22:43:06 +0000",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:31:11 GMT",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
+            "description": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis.",
+            "url": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 23:37:18 GMT",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+            "description": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+            "description": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 23:59:43 +0000",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
+            "description": "Lawmakers question whether conditions on the aircraft carrier indicate a &#039;pattern&#039; of poor planning amid the Iran war.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 23:45:16 +0000",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T04:07:59+03:30"
+        }
+    ]
+}
