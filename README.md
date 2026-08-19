@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 05:28:16
+**Last Update:** 2026-08-19 05:41:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tiny satellite will use the dark side of the Moon as a shield
+### 1. The Integer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b">https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355368">https://news.ycombinator.com/item?id=49355368</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
+
+---
+
+### 2. That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/">https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355360">https://news.ycombinator.com/item?id=49355360</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/](https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/)
+
+---
+
+### 3. Tiny satellite will use the dark side of the Moon as a shield
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe">https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355232">https://news.ycombinator.com/item?id=49355232</a></p>
-<p>Points: 7</p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
-
----
-
-### 2. New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf">https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355142">https://news.ycombinator.com/item?id=49355142</a></p>
-<p>Points: 41</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
-
----
-
-### 3. Scientists stunned by children's lung recovery in ultra low emission zone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c1l1r1zne1ro">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355105">https://news.ycombinator.com/item?id=49355105</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c1l1r1zne1ro](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 
 ---
 
