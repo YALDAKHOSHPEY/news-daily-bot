@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 14:22:29
+**Last Update:** 2026-08-19 14:45:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 56</p>
-<p># Comments: 19</p>
+<p>Points: 63</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 66</p>
-<p># Comments: 52</p>
+<p>Points: 73</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
@@ -97,7 +97,20 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. Why White House envoys cannot sway Israel’s war leader
+### 7. Top India court allows passive euthanasia, but few aware of ‘living wills’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families of terminally ill patients have little or no awareness or preparedness for what comes next.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss)
+
+---
+
+### 8. Why White House envoys cannot sway Israel’s war leader
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Any deal in any of Israel’s conflicts would be politically damaging for its pr
 
 ---
 
-### 8. Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
+### 9. Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Any deal in any of Israel’s conflicts would be politically damaging for its pr
 India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss)
-
----
-
-### 9. At least five killed in Russian air attacks on Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss)
 
 ---
 
