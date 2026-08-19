@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 17:34:12
+**Last Update:** 2026-08-19 17:52:45
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Thunderstorm warnings issued for parts of UK with flash flooding expected
+### 4. Rail investigators find track defect on approach to site of Lewes derailment, initial report says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Initial findings from an RAIB investigation show an "irregularity" at the site near Lewes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Thunderstorm warnings issued for parts of UK with flash flooding expected
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 5. Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza
+### 6. Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 She initially survived the attack but her body was recovered days later in Gaza City in 2024.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Jump in energy bills drives UK inflation to highest rate for four months
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
 
 ---
 
