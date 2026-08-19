@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 15:17:26
+**Last Update:** 2026-08-19 15:52:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Air Theremin – a browser theremin you play by waving at your webcam
+### 1. GrapheneOS in 2027 available on high-end Motorola phones
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117078064184215730">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360242">https://news.ycombinator.com/item?id=49360242</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117078064184215730](https://grapheneos.social/@GrapheneOS/117078064184215730)
+
+---
+
+### 2. Air Theremin – a browser theremin you play by waving at your webcam
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 37</p>
-<p># Comments: 14</p>
+<p>Points: 57</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
 
 ---
 
-### 2. The Mojo language (by Modular, now Qualcomm) is now open-source
+### 3. The Mojo language (by Modular, now Qualcomm) is now open-source
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 76</p>
-<p># Comments: 27</p>
+<p>Points: 90</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
 ---
 
-### 3. Where Human Sleep Went Wrong
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 78</p>
-<p># Comments: 63</p>
-
-🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
-
----
-
-### 4. Jump in energy bills drives UK inflation to highest rate for four months
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Thunderstorm warnings issued for parts of UK with flash flooding expected
+### 4. Thunderstorm warnings issued for parts of UK with flash flooding expected
 
 **Source:** BBC
 
@@ -84,7 +71,20 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 6. Burnham unveils plan to get rough sleepers off streets for Christmas
+### 5. Jump in energy bills drives UK inflation to highest rate for four months
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. PM unveils plan to get rough sleepers off streets for Christmas
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. Angelique Kidjo makes history with Hollywood walk of fame star
+### 7. In Ukraine, forcible military recruitment efforts escalate into violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Angelique Kidjo makes history with Hollywood walk of fame star
+&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss)
 
 ---
 
-### 8. Humanitarianism is not collapsing. It is being traded and compromised
+### 8. Pakistan challenges top court order to move Imran Khan to private hospital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is endangering the lives of humanitarian workers and the vulnerable communities they serve.
+Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss)
 
 ---
 
-### 9. ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
+### 9. Palestinians condemn Israeli step to advance illegal E1 settlement plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
+Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss)
 
 ---
 
