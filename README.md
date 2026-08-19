@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 08:50:13
+**Last Update:** 2026-08-19 09:23:31
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
-<p>Points: 44</p>
-<p># Comments: 4</p>
+<p>Points: 54</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
-<p>Points: 125</p>
-<p># Comments: 85</p>
+<p>Points: 150</p>
+<p># Comments: 108</p>
 
 🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 
@@ -52,27 +52,14 @@
 <p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355607">https://news.ycombinator.com/item?id=49355607</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/katiahayati/lucasartsifier/](https://github.com/katiahayati/lucasartsifier/)
 
 ---
 
-### 4. Sacked Ukrainian defence minister calls for presidential election
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Three dead after family get into difficulty in sea
+### 4. Three dead after family get into difficulty in sea
 
 **Source:** BBC
 
@@ -85,7 +72,7 @@ A man, a woman and a teenage girl die, and a younger girl is in critical conditi
 
 ---
 
-### 6. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
+### 5. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
 
 **Source:** BBC
 
@@ -98,7 +85,46 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. South Korea, US scale back annual military drills after Trump’s order
+### 6. Sacked Ukrainian defence minister calls for presidential election
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Lebanon no longer a safe haven for former Syrian regime officials
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Figures connected to the former Syrian regime are still in Lebanon but risk being returned.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss](https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss)
+
+---
+
+### 8. Former US official calls shift in relations with Syria ‘surreal’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss)
+
+---
+
+### 9. South Korea, US scale back annual military drills after Trump’s order
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss)
-
----
-
-### 8. Attackers go ‘house to house’ killing 25 villagers in central Nigeria
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss)
-
----
-
-### 9. Bali gym owner kicks out three Israeli tourists for links to ‘IDF’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss)
 
 ---
 
