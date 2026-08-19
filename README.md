@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 04:07:59
+**Last Update:** 2026-08-19 05:28:16
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Show HN: Interactive, animated architecture of any HuggingFace models
+### 1. Tiny satellite will use the dark side of the Moon as a shield
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://modelmap.cc">https://modelmap.cc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354664">https://news.ycombinator.com/item?id=49354664</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://modelmap.cc](https://modelmap.cc)
-
----
-
-### 2. Solo – a .so loader for static Linux binaries
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pg83/solo">https://github.com/pg83/solo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49354613">https://news.ycombinator.com/item?id=49354613</a></p>
+<p>Article URL: <a href="https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe">https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355232">https://news.ycombinator.com/item?id=49355232</a></p>
 <p>Points: 7</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/pg83/solo](https://github.com/pg83/solo)
+🔗 **Read more:** [https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
 
 ---
 
-### 3. The 90-year history of the binoculars bolted to scenic overlooks
+### 2. New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/">https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353854">https://news.ycombinator.com/item?id=49353854</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf">https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355142">https://news.ycombinator.com/item?id=49355142</a></p>
+<p>Points: 41</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
+🔗 **Read more:** [https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+
+---
+
+### 3. Scientists stunned by children's lung recovery in ultra low emission zone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1l1r1zne1ro">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355105">https://news.ycombinator.com/item?id=49355105</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1l1r1zne1ro](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 
 ---
 
@@ -65,13 +65,26 @@
 **Category:** world
 
 **Description:**
-A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.
+A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
+### 5. Sacked Ukrainian defence minister calls for presidential election
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 6. Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
+### 7. How Ebola became the deadliest outbreak in DR Congo’s history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US &#039;begging&#039; for negotiations.
+Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera reports from Indonesia’s quake zone, desperate for help
+### 8. US ambassador to Israel calls settler violence ‘terror’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.
+US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss)
 
 ---
 
-### 9. Democrats call for USS Lincoln probe, question US Navy’s readiness
+### 9. Quebec separatist says no independence referendum while Trump in office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawmakers question whether conditions on the aircraft carrier indicate a &#039;pattern&#039; of poor planning amid the Iran war.
+Leader of Canadian province&#039;s secessionist party says debate over independence stymied by turbulence in US politics.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss)
 
 ---
 
