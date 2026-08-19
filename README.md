@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 12:32:14
+**Last Update:** 2026-08-19 12:52:38
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Points: 31</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 37</p>
-<p># Comments: 19</p>
+<p>Points: 44</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358220">https://news.ycombinator.com/item?id=49358220</a></p>
-<p>Points: 35</p>
-<p># Comments: 2</p>
+<p>Points: 41</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 
 ---
 
-### 4. Burnham unveils plan to get rough sleepers off streets for Christmas
+### 4. Jump in energy bills drives UK inflation to highest rate for four months
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham unveils plan to get rough sleepers off streets for Christmas
 
 **Source:** BBC
 
@@ -71,29 +84,16 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 5. Sacked Ukrainian defence minister calls for presidential election
+### 6. Tennis player Nick Kyrgios suspended after testing positive for cocaine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Martial law has been in place in Ukraine since February 2022, under which elections are suspended.
+Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Demand for degree apprenticeships in England quadruples in three years
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss)
 
 ---
 
