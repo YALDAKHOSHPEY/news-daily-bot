@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 19:24:47
+**Last Update:** 2026-08-19 19:48:46
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. X262: X264 with MPEG-2 Support
+### 1. Remote workers report the highest well-being in study of 7,700 employees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kierank/x262">https://github.com/kierank/x262</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362396">https://news.ycombinator.com/item?id=49362396</a></p>
+<p>Article URL: <a href="https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees">https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362934">https://news.ycombinator.com/item?id=49362934</a></p>
+<p>Points: 31</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
+
+---
+
+### 2. New Casio F-B100W – Upgrade to the iconic F-91W after 40 years
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.casio.com/uk/watches/casio/product.F-B100W-1A/">https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362887">https://news.ycombinator.com/item?id=49362887</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.casio.com/uk/watches/casio/product.F-B100W-1A/](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
+
+---
+
+### 3. Ornith-1.5: From Self-Scaffolding to Self-Improvement
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ornith.ai/ornith_1_5.html">https://ornith.ai/ornith_1_5.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362401">https://news.ycombinator.com/item?id=49362401</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/kierank/x262](https://github.com/kierank/x262)
-
----
-
-### 2. Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361395">https://news.ycombinator.com/item?id=49361395</a></p>
-<p>Points: 193</p>
-<p># Comments: 52</p>
-
-🔗 **Read more:** [https://twitter.com/NoubarAfeyan/status/2090050162441752787](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
-
----
-
-### 3. PostgreSQL for Everything
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361279">https://news.ycombinator.com/item?id=49361279</a></p>
-<p>Points: 121</p>
-<p># Comments: 86</p>
-
-🔗 **Read more:** [https://www.raphaelbauer.com:443/posts/postgresql-everything/](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
+🔗 **Read more:** [https://ornith.ai/ornith_1_5.html](https://ornith.ai/ornith_1_5.html)
 
 ---
 
@@ -97,42 +97,42 @@ The five-year old Gaza girl initially survived the attack and pleaded for help b
 
 ---
 
-### 7. Palestinian refugee and two relatives drown off English coast
+### 7. India rout Pakistan at Hockey World Cup 2026 to qualify for second round
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A girl is taken to hospital in critical condition in what PM Burnham calls a &#039;terrible family tragedy&#039;.
+India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss)
 
 ---
 
-### 8. Israel numbers Palestinian detainee foreheads: What we know
+### 8. Seven decades of US regime change efforts: What have they achieved?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.
+US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss)
 
 ---
 
-### 9. Second Ukrainian national arrested over 2022 Nord Stream pipeline blast
+### 9. Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.
+The Israeli military has announced a criminal investigation into the killing that shook the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss)
 
 ---
 
