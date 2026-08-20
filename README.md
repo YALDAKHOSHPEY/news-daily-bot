@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 14:47:23
+**Last Update:** 2026-08-20 15:20:00
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers">https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372792">https://news.ycombinator.com/item?id=49372792</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 12</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372583">https://news.ycombinator.com/item?id=49372583</a></p>
-<p>Points: 41</p>
-<p># Comments: 9</p>
+<p>Points: 88</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 343</p>
-<p># Comments: 181</p>
+<p>Points: 427</p>
+<p># Comments: 206</p>
 
 🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
 
 ---
 
-### 4. Prince Harry and Meghan moving back to UK later this month
+### 4. Harry and Meghan's security arrangements a private matter, PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.
+Andy Burnham wishes the Duke and Duchess of Sussex well in "the move that they are making".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. How Myanmar’s war drives the Rohingya crisis
+### 7. PSG forced to move opening league match as heatwave in France damages pitch
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss)
+
+---
+
+### 8. How Myanmar’s war drives the Rohingya crisis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Al Jazeera exposes atrocities committed against the Rohingya ethnic minority gro
 
 ---
 
-### 8. Syrian official says ‘no plans’ to establish Turkish military presence
+### 9. Syrian official says ‘no plans’ to establish Turkish military presence
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Al Jazeera exposes atrocities committed against the Rohingya ethnic minority gro
 The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss)
-
----
-
-### 9. Taliban secures pragmatic global alliances without formal recognition
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss)
 
 ---
 
