@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 23:47:11
+**Last Update:** 2026-08-21 00:23:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stop Eating Lady Gaga's Oreos
+### 1. Aaron Swartz was prosecuted for scraping, while Meta does it without consequence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379550">https://news.ycombinator.com/item?id=49379550</a></p>
+<p>Points: 50</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+
+---
+
+### 2. Stop eating Lady Gaga's Oreos
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379253">https://news.ycombinator.com/item?id=49379253</a></p>
-<p>Points: 22</p>
-<p># Comments: 1</p>
+<p>Points: 82</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
 
 ---
 
-### 2. GitHub, autoscaling, and the component substitution fallacy
+### 3. GitHub, autoscaling, and the component substitution fallacy
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379026">https://news.ycombinator.com/item?id=49379026</a></p>
-<p>Points: 7</p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
-
----
-
-### 3. Tidal Cycles – Live coding music with Algorithmic patterns
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tidalcycles.org/">https://tidalcycles.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378950">https://news.ycombinator.com/item?id=49378950</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://tidalcycles.org/](https://tidalcycles.org/)
 
 ---
 
@@ -97,7 +97,33 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
+### 7. Heartbreak, loss on Lebanon’s front lines, the story of a first responder
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Heartbreak, loss on Lebanon’s front lines, the story of a first responder
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss)
+
+---
+
+### 8. Four railway workers killed by express train at station in Japan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss)
+
+---
+
+### 9. DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss)
-
----
-
-### 8. Amputee children learn to swim after losing limbs in Israel’s war on Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss)
-
----
-
-### 9. Syria’s civil society navigates post-Assad era: Partnership or control?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Syria&#039;s civil society grapples with redefining its role as the state reasserts itself after Assad&#039;s fall.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss](https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss)
 
 ---
 
