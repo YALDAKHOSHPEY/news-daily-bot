@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 09:23:49
+**Last Update:** 2026-08-20 09:56:09
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+### 1. Asana cleared 5 years of engineering work in 2 weeks with Codex
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/asana/">https://openai.com/index/asana/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370862">https://news.ycombinator.com/item?id=49370862</a></p>
+<p>Points: 9</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://openai.com/index/asana/](https://openai.com/index/asana/)
+
+---
+
+### 2. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
 ---
 
-### 2. Turns are Better than Radians (2022)
+### 3. Zuckerberg encouraged growth over child safety, ex-Meta executive testifies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 100</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/">https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370083">https://news.ycombinator.com/item?id=49370083</a></p>
+<p>Points: 45</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-
----
-
-### 3. Universality of Gradient Descent Neural Network Training
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
+🔗 **Read more:** [https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/](https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/)
 
 ---
 
