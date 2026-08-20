@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 00:23:26
+**Last Update:** 2026-08-21 00:48:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379550">https://news.ycombinator.com/item?id=49379550</a></p>
-<p>Points: 50</p>
-<p># Comments: 7</p>
+<p>Points: 115</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379253">https://news.ycombinator.com/item?id=49379253</a></p>
-<p>Points: 82</p>
-<p># Comments: 23</p>
+<p>Points: 129</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379026">https://news.ycombinator.com/item?id=49379026</a></p>
-<p>Points: 13</p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
@@ -97,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Heartbreak, loss on Lebanon’s front lines, the story of a first responder
+### 7. US pummels Cuban economy with new sanctions on mining, construction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heartbreak, loss on Lebanon’s front lines, the story of a first responder
+US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss)
 
 ---
 
-### 8. Four railway workers killed by express train at station in Japan
+### 8. Landslide at illegal gold mine kills 13 people in Colombia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.
+At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss)
 
 ---
 
-### 9. DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
+### 9. Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
+A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss)
 
 ---
 
