@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 13:27:55
+**Last Update:** 2026-08-20 13:49:21
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 155</p>
-<p># Comments: 89</p>
+<p>Points: 237</p>
+<p># Comments: 123</p>
 
 🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 159</p>
-<p># Comments: 69</p>
+<p>Points: 178</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
 ---
 
-### 3. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+### 3. Turns are Better than Radians (2022)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 55</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
+<p>Points: 213</p>
+<p># Comments: 101</p>
 
-🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
+🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
 ---
 
