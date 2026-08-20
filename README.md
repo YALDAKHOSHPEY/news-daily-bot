@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 21:52:40
+**Last Update:** 2026-08-20 22:38:55
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. I should have loved biology
+### 1. Scientific study reveals TikTok videos deactivate key cognitive brain regions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jsomers.net/i-should-have-loved-biology/">https://jsomers.net/i-should-have-loved-biology/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377853">https://news.ycombinator.com/item?id=49377853</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378630">https://news.ycombinator.com/item?id=49378630</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://jsomers.net/i-should-have-loved-biology/](https://jsomers.net/i-should-have-loved-biology/)
+🔗 **Read more:** [https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
 
 ---
 
-### 2. Project Cybersyn
+### 2. TrueForge – The open-source agent harness
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bactra.org/notebooks/cybersyn.html">https://bactra.org/notebooks/cybersyn.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377739">https://news.ycombinator.com/item?id=49377739</a></p>
+<p>Article URL: <a href="https://github.com/truefoundry/trueforge">https://github.com/truefoundry/trueforge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378419">https://news.ycombinator.com/item?id=49378419</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://bactra.org/notebooks/cybersyn.html](https://bactra.org/notebooks/cybersyn.html)
+🔗 **Read more:** [https://github.com/truefoundry/trueforge](https://github.com/truefoundry/trueforge)
 
 ---
 
-### 3. Show HN: We chased a weather balloon across Montana and never found it
+### 3. What Is Reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Since April, I have been working with Sam Flynn (<a href="https://drook.dev" rel="nofollow">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.<p>UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year!<p>This is a writeup on our engineering process, mistakes made, and learning experiences. It covers:<p>- Custom electronics designed in KiCad<p>- Firmware design<p>- Results from the data we received on the ground<p>- Image transmission<p>- Launch day logistics, and where things went wrong<p>All hardware, software, firmware, and CAD is available on GitHub: <a href="https://github.com/radeeyate/UpLink" rel="nofollow">https://github.com/radeeyate/UpLink</a>, licensed + certified as open source hardware: <a href="https://certification.oshwa.org/us002826.html" rel="nofollow">https://certification.oshwa.org/us002826.html</a><p>If you just want to see the images received, I put up a gallery here: <a href="https://uplink.gallery.radi8.dev/" rel="nofollow">https://uplink.gallery.radi8.dev/</a><p>If you have any questions, comments, or concerns, let me know. I'm happy to answer anything!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377660">https://news.ycombinator.com/item?id=49377660</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378334">https://news.ycombinator.com/item?id=49378334</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://radi8.dev/blog/uplink/](https://radi8.dev/blog/uplink/)
+🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/)
 
 ---
 
@@ -98,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Bangladesh elects ruling party veteran Alamgir as president
+### 7. Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin&#039;s resignation.
+Who is Ahmad Hassoun, the &#039;barrel bomb mufti&#039; close to the inner circle of the al-Assad regime?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss)
 
 ---
 
-### 8. Humanoid robots take centre stage in China-US tech race
+### 8. FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.
+Swalwell, a vocal Trump critic, resigned from Congress and dropped out of California governor&#039;s race amid allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss)
 
 ---
 
-### 9. Swiss tourist jailed for insulting Bali’s sacred Day of Silence
+### 9. Dozens dead after boat capsizes in northwestern Nigeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi
+Residents say at least 46 bodies already recovered, as rescue operations continue before officials can confirm toll.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss)
 
 ---
 
