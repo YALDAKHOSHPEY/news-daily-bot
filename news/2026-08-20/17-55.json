@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T17:55:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DiffusionGemma Technical Report",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.00146\">https://arxiv.org/abs/2608.00146</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374287\">https://news.ycombinator.com/item?id=49374287</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://arxiv.org/abs/2608.00146",
+            "published": "Thu, 20 Aug 2026 13:24:32 +0000",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+            "description": "<p>Article URL: <a href=\"https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/\">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374269\">https://news.ycombinator.com/item?id=49374269</a></p>\n<p>Points: 59</p>\n<p># Comments: 17</p>",
+            "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+            "published": "Thu, 20 Aug 2026 13:23:12 +0000",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+            "description": "<p>Article URL: <a href=\"https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/\">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374162\">https://news.ycombinator.com/item?id=49374162</a></p>\n<p>Points: 16</p>\n<p># Comments: 5</p>",
+            "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+            "published": "Thu, 20 Aug 2026 13:12:21 +0000",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:53:40 GMT",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why are Harry and Meghan returning to the UK?",
+            "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+            "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:16:31 GMT",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
+            "description": "Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 14:10:01 +0000",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
+            "description": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:39:38 +0000",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+            "description": "Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia&#039;s bombs is near impossible.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:32:55 +0000",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T17:55:25+03:30"
+        }
+    ]
+}

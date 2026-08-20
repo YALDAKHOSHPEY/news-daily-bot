@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 17:36:29
+**Last Update:** 2026-08-20 17:55:25
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.00146">https://arxiv.org/abs/2608.00146</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374287">https://news.ycombinator.com/item?id=49374287</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.00146](https://arxiv.org/abs/2608.00146)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374269">https://news.ycombinator.com/item?id=49374269</a></p>
-<p>Points: 37</p>
-<p># Comments: 5</p>
+<p>Points: 59</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374162">https://news.ycombinator.com/item?id=49374162</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
 
@@ -97,7 +97,20 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Funeral for 50 Palestinians recovered from Gaza rubble
+### 7. Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss)
+
+---
+
+### 8. Funeral for 50 Palestinians recovered from Gaza rubble
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A funeral has been held in Gaza for 50 Palestinians whose bodies were recently r
 
 ---
 
-### 8. Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
+### 9. Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A funeral has been held in Gaza for 50 Palestinians whose bodies were recently r
 Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia&#039;s bombs is near impossible.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss)
-
----
-
-### 9. Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss)
 
 ---
 
