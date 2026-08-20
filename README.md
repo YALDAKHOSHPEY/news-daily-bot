@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 17:55:25
+**Last Update:** 2026-08-20 18:32:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. DiffusionGemma Technical Report
+### 1. Grok.bot – the epic domain lottery ticket
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.00146">https://arxiv.org/abs/2608.00146</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374287">https://news.ycombinator.com/item?id=49374287</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://grok.bot/">https://grok.bot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49375164">https://news.ycombinator.com/item?id=49375164</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.00146](https://arxiv.org/abs/2608.00146)
+🔗 **Read more:** [https://grok.bot/](https://grok.bot/)
 
 ---
 
-### 2. Malicious Rust Crate Arrayref Runs a Build-Time Payload
+### 2. Slack Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374269">https://news.ycombinator.com/item?id=49374269</a></p>
-<p>Points: 59</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.salesforce.com/introducing-slack-code/?bc=HL">https://www.salesforce.com/introducing-slack-code/?bc=HL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374965">https://news.ycombinator.com/item?id=49374965</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
+🔗 **Read more:** [https://www.salesforce.com/introducing-slack-code/?bc=HL](https://www.salesforce.com/introducing-slack-code/?bc=HL)
 
 ---
 
-### 3. Canonical Backs New Project to Translate Large C Codebases into Safe Rust
+### 3. Harvest hikes bills by 1500% after purchased by Bending Spoons
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374162">https://news.ycombinator.com/item?id=49374162</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/clyq011414eo">https://www.bbc.com/news/articles/clyq011414eo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374920">https://news.ycombinator.com/item?id=49374920</a></p>
+<p>Points: 43</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/clyq011414eo](https://www.bbc.com/news/articles/clyq011414eo)
 
 ---
 
@@ -84,55 +84,55 @@ BBC culture correspondent Noor Nanji looks at why the move raises questions over
 
 ---
 
-### 6. Travelodge boss resigns as chain tackles security after sex assault at hotel
+### 6. Five key takeaways from GCSE results day 2026
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jo Boydell had been criticised for the company's handling of issues with its safety and security.
+Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
+### 7. Governments brace for historic El Nino impacts on global weather extremes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
+Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss)
 
 ---
 
-### 8. Funeral for 50 Palestinians recovered from Gaza rubble
+### 8. ‘Tremendous costs’: Can Trump stop other countries from trading with Iran?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
+Iran&#039;s foreign minister has dismissed Trump’s latest threats, calling them a “diversion&quot; from America’s own crisis.&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss)
 
 ---
 
-### 9. Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
+### 9. USS Washington arrives in Middle East after aircraft carrier outcry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia&#039;s bombs is near impossible.
+Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss)
 
 ---
 
