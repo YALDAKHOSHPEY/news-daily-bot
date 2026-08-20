@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 13:49:21
+**Last Update:** 2026-08-20 14:25:02
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 237</p>
-<p># Comments: 123</p>
+<p>Points: 281</p>
+<p># Comments: 151</p>
 
 🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 178</p>
-<p># Comments: 76</p>
+<p>Points: 186</p>
+<p># Comments: 80</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 213</p>
-<p># Comments: 101</p>
+<p>Points: 215</p>
+<p># Comments: 102</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -97,7 +97,33 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. How conflict is making life more expensive for Iranians
+### 7. Syrian official says ‘no plans’ to establish Turkish military presence
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss)
+
+---
+
+### 8. Taliban secures pragmatic global alliances without formal recognition
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss)
+
+---
+
+### 9. How conflict is making life more expensive for Iranians
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 How conflict is making life more expensive for Iranians
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss)
-
----
-
-### 8. State-backed Israeli settler violence forces West Bank displacement: HRW
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss)
-
----
-
-### 9. Are Hormuz ships more willing to defy Iran or the US? What the data shows
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss)
 
 ---
 
