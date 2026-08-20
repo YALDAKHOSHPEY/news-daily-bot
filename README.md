@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 00:48:08
+**Last Update:** 2026-08-21 01:21:04
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Aaron Swartz was prosecuted for scraping, while Meta does it without consequence
+### 1. Scientists Release Biggest 2D Map of the Universe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379550">https://news.ycombinator.com/item?id=49379550</a></p>
-<p>Points: 115</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-
----
-
-### 2. Stop eating Lady Gaga's Oreos
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379253">https://news.ycombinator.com/item?id=49379253</a></p>
-<p>Points: 129</p>
-<p># Comments: 64</p>
-
-🔗 **Read more:** [https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
-
----
-
-### 3. GitHub, autoscaling, and the component substitution fallacy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379026">https://news.ycombinator.com/item?id=49379026</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/">https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380671">https://news.ycombinator.com/item?id=49380671</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
+🔗 **Read more:** [https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+
+---
+
+### 2. Citizen Devs: Everyone is an engineer now
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.massdriver.cloud/blogs/the-citizen-developer">https://www.massdriver.cloud/blogs/the-citizen-developer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380491">https://news.ycombinator.com/item?id=49380491</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.massdriver.cloud/blogs/the-citizen-developer](https://www.massdriver.cloud/blogs/the-citizen-developer)
+
+---
+
+### 3. Code as an Artifact
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380482">https://news.ycombinator.com/item?id=49380482</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
 
 ---
 
@@ -97,7 +97,20 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. US pummels Cuban economy with new sanctions on mining, construction
+### 7. Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss)
+
+---
+
+### 8. US pummels Cuban economy with new sanctions on mining, construction
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US economic restrictions have strained the island&#039;s already fragile economy
 
 ---
 
-### 8. Landslide at illegal gold mine kills 13 people in Colombia
+### 9. Landslide at illegal gold mine kills 13 people in Colombia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US economic restrictions have strained the island&#039;s already fragile economy
 At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss)
-
----
-
-### 9. Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss)
 
 ---
 
