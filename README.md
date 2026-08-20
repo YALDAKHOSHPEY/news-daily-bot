@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 14:25:02
+**Last Update:** 2026-08-20 14:47:23
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Don't Paste the AI, please
+### 1. If this is true, the hyperscalers are toast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers">https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372792">https://news.ycombinator.com/item?id=49372792</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
+
+---
+
+### 2. AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372583">https://news.ycombinator.com/item?id=49372583</a></p>
+<p>Points: 41</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+
+---
+
+### 3. Don't Paste the AI, please
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 281</p>
-<p># Comments: 151</p>
+<p>Points: 343</p>
+<p># Comments: 181</p>
 
 🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
-
----
-
-### 2. Windows brings out the Rorschach test in everyone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 186</p>
-<p># Comments: 80</p>
-
-🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-
----
-
-### 3. Turns are Better than Radians (2022)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 215</p>
-<p># Comments: 102</p>
-
-🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
 ---
 
@@ -97,7 +97,20 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Syrian official says ‘no plans’ to establish Turkish military presence
+### 7. How Myanmar’s war drives the Rohingya crisis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss](https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss)
+
+---
+
+### 8. Syrian official says ‘no plans’ to establish Turkish military presence
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The foreign minister says in an interview that Turkish military officials had vi
 
 ---
 
-### 8. Taliban secures pragmatic global alliances without formal recognition
+### 9. Taliban secures pragmatic global alliances without formal recognition
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The foreign minister says in an interview that Turkish military officials had vi
 The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss)
-
----
-
-### 9. How conflict is making life more expensive for Iranians
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-How conflict is making life more expensive for Iranians
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss)
 
 ---
 
