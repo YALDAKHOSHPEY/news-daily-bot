@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 11:03:05
+**Last Update:** 2026-08-20 11:33:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 56</p>
-<p># Comments: 8</p>
+<p>Points: 75</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 43</p>
-<p># Comments: 12</p>
+<p>Points: 45</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 156</p>
-<p># Comments: 66</p>
+<p>Points: 166</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -97,7 +97,20 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
+### 7. Oil flows nearly tripled before US-Iran MoU expired, analysis shows
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss)
+
+---
+
+### 8. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Al
 
 ---
 
-### 8. Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
+### 9. Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Al
 UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss)
-
----
-
-### 9. Lionel Messi scores first goal for Inter Miami since father’s death
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Messi&#039;s 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss)
 
 ---
 
