@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 05:27:02
+**Last Update:** 2026-08-20 05:40:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 134</p>
+<p>Points: 137</p>
 <p># Comments: 77</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
@@ -71,16 +71,16 @@ The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled t
 
 ---
 
-### 5. Couple and teenage daughter who died in water off Shoreham named by police
+### 5. Harry and Meghan are experts in surprise - but is their UK return forever?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say the family travelled from their home in London and went into the sea for a swim.
+The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Twana Jamal Khdir has been arrested and charged with immigration offences.
 
 ---
 
-### 7. Bodycam captures police team falling when deck collapses in Missouri
+### 7. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
+
+---
+
+### 8. Bodycam captures police team falling when deck collapses in Missouri
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Recently released body camera footage shows a deck collapsing during a warrant o
 
 ---
 
-### 8. Publisher of US military newspaper resigns over differences with government
+### 9. Publisher of US military newspaper resigns over differences with government
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Recently released body camera footage shows a deck collapsing during a warrant o
 Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss)
-
----
-
-### 9. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss)
 
 ---
 
