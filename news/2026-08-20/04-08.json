@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T04:08:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+            "description": "<p>Article URL: <a href=\"https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\">https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368625\">https://news.ycombinator.com/item?id=49368625</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+            "published": "Wed, 19 Aug 2026 23:38:22 +0000",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Technical leaders should have the largest AI exhaust",
+            "description": "<p>Article URL: <a href=\"https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/\">https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368389\">https://news.ycombinator.com/item?id=49368389</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+            "published": "Wed, 19 Aug 2026 23:12:38 +0000",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
+            "description": "<p>Article URL: <a href=\"https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/\">https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368182\">https://news.ycombinator.com/item?id=49368182</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+            "url": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
+            "published": "Wed, 19 Aug 2026 22:51:17 +0000",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 23:52:07 GMT",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+            "description": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 00:26:59 +0000",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+            "description": "English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 00:12:59 +0000",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+            "description": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 00:06:05 +0000",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T04:08:00+03:30"
+        }
+    ]
+}

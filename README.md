@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 03:14:01
+**Last Update:** 2026-08-20 04:08:00
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Collaborative Human Agent Protocol (CHAP)
+### 1. Gardner police discontinue Flock cameras as license plate readers face scrutiny
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724">https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368625">https://news.ycombinator.com/item?id=49368625</a></p>
+<p>Points: 26</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
+🔗 **Read more:** [https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
 
 ---
 
-### 2. Feature Request: Support AGENTS.md
+### 2. Technical leaders should have the largest AI exhaust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 79</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/">https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368389">https://news.ycombinator.com/item?id=49368389</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
+🔗 **Read more:** [https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/](https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/)
 
 ---
 
-### 3. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
+### 3. The Future of CSS: Target Multiple Classes with the Class Prefix Selector
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/">https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368182">https://news.ycombinator.com/item?id=49368182</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
+🔗 **Read more:** [https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/)
 
 ---
 
@@ -97,42 +97,42 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. Lebanon hands former Syrian army general to Damascus after arrest warrant
+### 7. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.
+Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss)
 
 ---
 
-### 8. Trump announces ‘most crushing economic operation ever’ against Iran
+### 8. Harry Kane scores goal by winning Golden Shoe for the second time
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.
+English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss)
 
 ---
 
-### 9. What the social media addiction lawsuit could cost Meta
+### 9. Nigeria’s election campaign begins with Tinubu facing a reform test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram&#039;s operations.
+Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss)
 
 ---
 
