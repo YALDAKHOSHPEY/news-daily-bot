@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 08:31:09
+**Last Update:** 2026-08-20 08:51:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 65</p>
-<p># Comments: 38</p>
+<p>Points: 80</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 17</p>
+<p>Points: 20</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
 
 ---
 
-### 3. Feature Request: Support AGENTS.md
+### 3. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 168</p>
-<p># Comments: 96</p>
+<p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
+<p>Points: 62</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
+🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
 
 ---
 
@@ -84,20 +84,33 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Students wait for GCSE and BTec grades as app launches for 750 schools in England
+### 6. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.
+Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump vows ‘economic warfare’ on countries helping Iran
+### 7. At least 6 killed in multiple Russian missile strikes across Ukraine
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss)
+
+---
+
+### 8. Trump vows ‘economic warfare’ on countries helping Iran
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US President Donald Trump has threatened ‘economic D-Day’ on any countries t
 
 ---
 
-### 8. Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
+### 9. Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US President Donald Trump has threatened ‘economic D-Day’ on any countries t
 Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss)
-
----
-
-### 9. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss)
 
 ---
 
