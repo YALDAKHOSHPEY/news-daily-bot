@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 04:08:00
+**Last Update:** 2026-08-20 05:27:02
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gardner police discontinue Flock cameras as license plate readers face scrutiny
+### 1. Universality of Gradient Descent Neural Network Training
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724">https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368625">https://news.ycombinator.com/item?id=49368625</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
-
----
-
-### 2. Technical leaders should have the largest AI exhaust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/">https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368389">https://news.ycombinator.com/item?id=49368389</a></p>
+<p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
 <p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/](https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/)
+🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
 
 ---
 
-### 3. The Future of CSS: Target Multiple Classes with the Class Prefix Selector
+### 2. Collaborative Human Agent Protocol (CHAP)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/">https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368182">https://news.ycombinator.com/item?id=49368182</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/)
+🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
+
+---
+
+### 3. Feature Request: Support AGENTS.md
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
+<p>Points: 134</p>
+<p># Comments: 77</p>
+
+🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
 ---
 
@@ -84,20 +84,46 @@ Police say the family travelled from their home in London and went into the sea 
 
 ---
 
-### 6. Track defect found on approach to site of Lewes derailment, initial report says
+### 6. People smuggler exposed by BBC investigation arrested and charged
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Initial findings from an RAIB investigation show an "irregularity" at the site near Lewes.
+Twana Jamal Khdir has been arrested and charged with immigration offences.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
+### 7. Bodycam captures police team falling when deck collapses in Missouri
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss)
+
+---
+
+### 8. Publisher of US military newspaper resigns over differences with government
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss)
+
+---
+
+### 9. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss)
-
----
-
-### 8. Harry Kane scores goal by winning Golden Shoe for the second time
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss)
-
----
-
-### 9. Nigeria’s election campaign begins with Tinubu facing a reform test
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss)
 
 ---
 
