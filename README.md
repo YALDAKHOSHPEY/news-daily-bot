@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 11:33:04
+**Last Update:** 2026-08-20 11:55:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 75</p>
-<p># Comments: 15</p>
+<p>Points: 110</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 45</p>
-<p># Comments: 22</p>
+<p>Points: 48</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 166</p>
-<p># Comments: 70</p>
+<p>Points: 183</p>
+<p># Comments: 79</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -97,7 +97,20 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Oil flows nearly tripled before US-Iran MoU expired, analysis shows
+### 7. Netanyahu warns Israel will not tolerate Turkish military presence in Syria
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss)
+
+---
+
+### 8. Oil flows nearly tripled before US-Iran MoU expired, analysis shows
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Some 374 million barrels of oil exited the Gulf during 60-day window covered by 
 
 ---
 
-### 8. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
+### 9. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Some 374 million barrels of oil exited the Gulf during 60-day window covered by 
 World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss)
-
----
-
-### 9. Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss)
 
 ---
 
