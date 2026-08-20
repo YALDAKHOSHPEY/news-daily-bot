@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 10:44:38
+**Last Update:** 2026-08-20 11:03:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 38</p>
-<p># Comments: 4</p>
+<p>Points: 56</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 153</p>
-<p># Comments: 63</p>
+<p>Points: 156</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -91,13 +91,39 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 **Category:** world
 
 **Description:**
-The BBC revealed in March how a woman staying at a Maidenhead hotel was sexually assaulted after a man lied to get a key card to her room.
+Jo Boydell had been criticised for the company's handling of issues with its safety and security.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lionel Messi scores first goal for Inter Miami since father’s death
+### 7. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss)
+
+---
+
+### 8. Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss)
+
+---
+
+### 9. Lionel Messi scores first goal for Inter Miami since father’s death
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The BBC revealed in March how a woman staying at a Maidenhead hotel was sexually
 Messi&#039;s 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss)
-
----
-
-### 8. Bangladesh holds presidential election in first contested vote in 35 years
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss)
-
----
-
-### 9. Australian anger as Israel drops World Central Kitchen deaths case
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss)
 
 ---
 
