@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 09:56:09
+**Last Update:** 2026-08-20 10:44:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Asana cleared 5 years of engineering work in 2 weeks with Codex
+### 1. Windows brings out the Rorschach test in everyone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/asana/">https://openai.com/index/asana/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370862">https://news.ycombinator.com/item?id=49370862</a></p>
-<p>Points: 9</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
+<p>Points: 38</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://openai.com/index/asana/](https://openai.com/index/asana/)
+🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Points: 43</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
 ---
 
-### 3. Zuckerberg encouraged growth over child safety, ex-Meta executive testifies
+### 3. Turns are Better than Radians (2022)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/">https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370083">https://news.ycombinator.com/item?id=49370083</a></p>
-<p>Points: 45</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
+<p>Points: 153</p>
+<p># Comments: 63</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/](https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/)
+🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
 ---
 
@@ -84,20 +84,46 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+### 6. Travelodge boss steps down after security issues in rooms
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
+The BBC revealed in March how a woman staying at a Maidenhead hotel was sexually assaulted after a man lied to get a key card to her room.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Australian anger as Israel drops World Central Kitchen deaths case
+### 7. Lionel Messi scores first goal for Inter Miami since father’s death
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Messi&#039;s 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss)
+
+---
+
+### 8. Bangladesh holds presidential election in first contested vote in 35 years
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss)
+
+---
+
+### 9. Australian anger as Israel drops World Central Kitchen deaths case
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Apartment blocks and warehouses were targeted in the "massive attack" on Thursda
 Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss)
-
----
-
-### 8. Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss)
-
----
-
-### 9. At least 6 killed in multiple Russian missile strikes across Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss)
 
 ---
 
