@@ -1,71 +1,72 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 20:48:57
+**Last Update:** 2026-08-20 21:23:24
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sixtyfour (YC P25) Is Hiring
+### 1. Show HN: We chased a weather balloon across Montana and never found it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377248">https://news.ycombinator.com/item?id=49377248</a></p>
-<p>Points: 0</p>
+<p>Since April, I have been working with Sam Flynn (<a href="https://drook.dev" rel="nofollow">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.<p>UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year!<p>This is a writeup on our engineering process, mistakes made, and learning experiences. It covers:<p>- Custom electronics designed in KiCad<p>- Firmware design<p>- Results from the data we received on the ground<p>- Image transmission<p>- Launch day logistics, and where things went wrong<p>All hardware, software, firmware, and CAD is available on GitHub: <a href="https://github.com/radeeyate/UpLink" rel="nofollow">https://github.com/radeeyate/UpLink</a>, licensed + certified as open source hardware: <a href="https://certification.oshwa.org/us002826.html" rel="nofollow">https://certification.oshwa.org/us002826.html</a><p>If you just want to see the images received, I put up a gallery here: <a href="https://uplink.gallery.radi8.dev/" rel="nofollow">https://uplink.gallery.radi8.dev/</a><p>If you have any questions, comments, or concerns, let me know. I'm happy to answer anything!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377660">https://news.ycombinator.com/item?id=49377660</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
+🔗 **Read more:** [https://radi8.dev/blog/uplink/](https://radi8.dev/blog/uplink/)
 
 ---
 
-### 2. How to compromise your system with a job interview
+### 2. URL shortener links stored in your ATProto PDS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview">https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49376332">https://news.ycombinator.com/item?id=49376332</a></p>
-<p>Points: 35</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
-
----
-
-### 3. Linux 7.2 Released
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.igalia.com/2026/08/19/Linux-72-Released.html">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49376265">https://news.ycombinator.com/item?id=49376265</a></p>
-<p>Points: 18</p>
+<p>Article URL: <a href="https://atpr.to/">https://atpr.to/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377535">https://news.ycombinator.com/item?id=49377535</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.igalia.com/2026/08/19/Linux-72-Released.html](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
+🔗 **Read more:** [https://atpr.to/](https://atpr.to/)
 
 ---
 
-### 4. Harry and Meghan's security arrangements a private matter, PM says
+### 3. The Defense-Tech Bubble Is Headed for Consolidation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation">https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377249">https://news.ycombinator.com/item?id=49377249</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation](https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation)
+
+---
+
+### 4. Harry and Meghan's return to UK reignites questions over security
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.
+They have not had publicly funded security since they stopped being working royals in 2020 and moved to the US, where they have paid for their own protection.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss)
 
@@ -97,59 +98,46 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. North Korea fires ballistic missiles as US-South Korea drills near end
+### 7. Humanoid robots take centre stage in China-US tech race
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.
+Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss)
 
 ---
 
-### 8. At least 800 people evacuated from major wildfire in western Spain
+### 8. Swiss tourist jailed for insulting Bali’s sacred Day of Silence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A major wildfire is threatening communities in western Spain with more than 800 people evacuated.
+A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss)
 
 ---
 
-### 9. Spanish police evict hundreds of migrants from Ceuta beach to shelters
+### 9. Daily struggle for clean water and food takes a physical toll on Gaza kids
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.
+Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Saudel
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss](https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss)
 
 ---
 
-### 11. Wildfire Picture Rock, Lake, Oregon
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -158,11 +146,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927)
 
 ---
 
-### 12. Wildfire CATO 2, Chaves, New Mexico
+### 11. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -171,7 +159,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931)
+
+---
+
+### 12. Wildfire North Heglar, Cassia, Idaho
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929)
 
 ---
 
