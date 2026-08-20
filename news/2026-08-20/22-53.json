@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T22:53:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)",
+            "description": "<p>Article URL: <a href=\"http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html\">http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378724\">https://news.ycombinator.com/item?id=49378724</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html",
+            "published": "Thu, 20 Aug 2026 19:01:17 +0000",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+            "description": "<p>Article URL: <a href=\"https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/\">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378630\">https://news.ycombinator.com/item?id=49378630</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+            "published": "Thu, 20 Aug 2026 18:54:32 +0000",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TrueForge – The open-source agent harness",
+            "description": "<p>Article URL: <a href=\"https://github.com/truefoundry/trueforge\">https://github.com/truefoundry/trueforge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378419\">https://news.ycombinator.com/item?id=49378419</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/truefoundry/trueforge",
+            "published": "Thu, 20 Aug 2026 18:36:07 +0000",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
+            "description": "Harden previously declined $42.3m player ⁠option on his contract in bid to secure a multi-year basketball deal.",
+            "url": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:03:30 +0000",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thai schools hold shooter drills after deadly attack",
+            "description": "Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 18:59:08 +0000",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+            "description": "Who is Ahmad Hassoun, the &#039;barrel bomb mufti&#039; close to the inner circle of the al-Assad regime?",
+            "url": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 18:55:52 +0000",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-20T22:53:05+03:30"
+        }
+    ]
+}
