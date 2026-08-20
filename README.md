@@ -1,32 +1,53 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 22:53:05
+**Last Update:** 2026-08-20 23:23:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)
+### 1. The August 17 outage, and the work ahead
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html">http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378724">https://news.ycombinator.com/item?id=49378724</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378957">https://news.ycombinator.com/item?id=49378957</a></p>
+<p>Points: 15</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)
+🔗 **Read more:** [https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 
 ---
 
-### 2. Scientific study reveals TikTok videos deactivate key cognitive brain regions
+### 2. Show HN: Huzzah – a novel approach to coding with AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hello everyone. I've been working on this experimental editor called Huzzah.<p>I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you
+  2. on save, the editor synchronizes your work to real source code
+  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.
+</code></pre>
+It may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href="https://github.com/danielvaughn/hz" rel="nofollow">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href="https://x.com/danielvaughn/status/2090456808431165715" rel="nofollow">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378768">https://news.ycombinator.com/item?id=49378768</a></p>
+<p>Points: 8</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.danielvaughn.dev/posts/huzzah/](https://www.danielvaughn.dev/posts/huzzah/)
+
+---
+
+### 3. Scientific study reveals TikTok videos deactivate key cognitive brain regions
 
 **Source:** Hacker News
 
@@ -35,26 +56,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378630">https://news.ycombinator.com/item?id=49378630</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 94</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
-
----
-
-### 3. TrueForge – The open-source agent harness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/truefoundry/trueforge">https://github.com/truefoundry/trueforge</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378419">https://news.ycombinator.com/item?id=49378419</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/truefoundry/trueforge](https://github.com/truefoundry/trueforge)
 
 ---
 
@@ -97,42 +102,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report
+### 7. Brook makes Pakistan pay for dropped catch as England dominate first Test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Harden previously declined $42.3m player ⁠option on his contract in bid to secure a multi-year basketball deal.
+England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss)
 
 ---
 
-### 8. Thai schools hold shooter drills after deadly attack
+### 8. Could US sanctions destroy the International Criminal Court?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Schools across Thailand are carrying out active shooter drills to save lives and spread awareness.
+Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss)
 
 ---
 
-### 9. Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict
+### 9. Walmart sees sales drop as US consumer spending retreats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who is Ahmad Hassoun, the &#039;barrel bomb mufti&#039; close to the inner circle of the al-Assad regime?
+Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss)
 
 ---
 
