@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T15:55:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+            "description": "<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373456\">https://news.ycombinator.com/item?id=49373456</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+            "published": "Thu, 20 Aug 2026 12:04:38 +0000",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+            "published": "Thu, 20 Aug 2026 12:00:23 +0000",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI didn't erase the junior engineer's value, it increased it it",
+            "description": "<p>Article URL: <a href=\"https://franciscotrindade.me/blog/the-kids-are-really-alright/\">https://franciscotrindade.me/blog/the-kids-are-really-alright/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373269\">https://news.ycombinator.com/item?id=49373269</a></p>\n<p>Points: 26</p>\n<p># Comments: 27</p>",
+            "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+            "published": "Thu, 20 Aug 2026 11:42:20 +0000",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "Andy Burnham wishes the Duke and Duchess of Sussex well in \"the move that they are making\".",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 12:12:25 GMT",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+            "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh’s government under pressure as youth demand jobs",
+            "description": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 11:49:36 +0000",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+            "description": "After two years of denial, Israel admits firing on the 5-year-old&#039;s car. But her family and others don&#039;t expect justice.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 11:48:18 +0000",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel is betting on Islamophobia to save its standing in the West",
+            "description": "Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 11:44:15 +0000",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T15:55:46+03:30"
+        }
+    ]
+}

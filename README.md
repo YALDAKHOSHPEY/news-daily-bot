@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 15:20:00
+**Last Update:** 2026-08-20 15:55:46
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. If this is true, the hyperscalers are toast
+### 1. Show HN: I trained a 125M model to autocomplete piano on-device
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers">https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372792">https://news.ycombinator.com/item?id=49372792</a></p>
-<p>Points: 12</p>
-<p># Comments: 11</p>
+<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373456">https://news.ycombinator.com/item?id=49373456</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
+🔗 **Read more:** [https://simedw.com/2026/08/20/midi-autocomplete/](https://simedw.com/2026/08/20/midi-autocomplete/)
 
 ---
 
-### 2. AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+### 2. Proof of Human (YC S23) Is Hiring a Member of Technical Staff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372583">https://news.ycombinator.com/item?id=49372583</a></p>
-<p>Points: 88</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373423">https://news.ycombinator.com/item?id=49373423</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+🔗 **Read more:** [https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
 
 ---
 
-### 3. Don't Paste the AI, please
+### 3. AI didn't erase the junior engineer's value, it increased it it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 427</p>
-<p># Comments: 206</p>
+<p>Article URL: <a href="https://franciscotrindade.me/blog/the-kids-are-really-alright/">https://franciscotrindade.me/blog/the-kids-are-really-alright/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49373269">https://news.ycombinator.com/item?id=49373269</a></p>
+<p>Points: 26</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
+🔗 **Read more:** [https://franciscotrindade.me/blog/the-kids-are-really-alright/](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 
 ---
 
@@ -97,42 +98,42 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. PSG forced to move opening league match as heatwave in France damages pitch
+### 7. Bangladesh’s government under pressure as youth demand jobs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Paris Saint-Germain moves its opening league game to Rennes after heatwave causes damage to pitch at Parc des Princes.
+Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss)
 
 ---
 
-### 8. How Myanmar’s war drives the Rohingya crisis
+### 8. Who was Hind Rajab and why is Israel investigating her killing?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.
+After two years of denial, Israel admits firing on the 5-year-old&#039;s car. But her family and others don&#039;t expect justice.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss](https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss)
 
 ---
 
-### 9. Syrian official says ‘no plans’ to establish Turkish military presence
+### 9. Israel is betting on Islamophobia to save its standing in the West
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.
+Netanyahu’s government is using anti-Muslim fear to rally a Western right increasingly receptive to its message.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss)
 
 ---
 
