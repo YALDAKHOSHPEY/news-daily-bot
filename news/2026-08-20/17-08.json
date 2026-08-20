@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T17:08:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Browser De-Slop",
+            "description": "<p>Article URL: <a href=\"https://www.sacredheartsc.com/blog/browser-de-slop/\">https://www.sacredheartsc.com/blog/browser-de-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373616\">https://news.ycombinator.com/item?id=49373616</a></p>\n<p>Points: 19</p>\n<p># Comments: 10</p>",
+            "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+            "published": "Thu, 20 Aug 2026 12:19:37 +0000",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+            "description": "<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373456\">https://news.ycombinator.com/item?id=49373456</a></p>\n<p>Points: 69</p>\n<p># Comments: 17</p>",
+            "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+            "published": "Thu, 20 Aug 2026 12:04:38 +0000",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+            "published": "Thu, 20 Aug 2026 12:00:23 +0000",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:08:14 GMT",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why are Harry and Meghan returning to the UK?",
+            "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+            "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:16:31 GMT",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+            "description": "Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:18:35 +0000",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
+            "description": "Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.",
+            "url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:18:31 +0000",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+            "description": "US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:14:14 +0000",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T17:08:29+03:30"
+        }
+    ]
+}
