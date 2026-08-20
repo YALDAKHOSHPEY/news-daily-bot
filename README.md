@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 05:40:53
+**Last Update:** 2026-08-20 06:52:40
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Universality of Gradient Descent Neural Network Training
+### 1. Turns are Better than Radians
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
+<p>Points: 12</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+
+---
+
+### 2. Universality of Gradient Descent Neural Network Training
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
-
----
-
-### 2. Collaborative Human Agent Protocol (CHAP)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 137</p>
-<p># Comments: 77</p>
+<p>Points: 146</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -84,20 +84,46 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. People smuggler exposed by BBC investigation arrested and charged
+### 6. Vaccine breakthrough stops cancer returning in trial
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Twana Jamal Khdir has been arrested and charged with immigration offences.
+A new jab extended the length of time patients were cancer free, but it is unclear for how long.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+### 7. Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss)
+
+---
+
+### 8. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss)
+
+---
+
+### 9. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Twana Jamal Khdir has been arrested and charged with immigration offences.
 Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
-
----
-
-### 8. Bodycam captures police team falling when deck collapses in Missouri
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss)
-
----
-
-### 9. Publisher of US military newspaper resigns over differences with government
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss)
 
 ---
 
