@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 20:49:07
+**Last Update:** 2026-08-21 21:23:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
+### 1. Rebuilding our Electron meeting-recording engine in Swift
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391389">https://news.ycombinator.com/item?id=49391389</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
+
+---
+
+### 2. LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
 
 **Source:** Hacker News
 
@@ -26,35 +42,19 @@
 
 ---
 
-### 2. A self hosted AI software factory
+### 3. Another Better Lower Bound for N=17 Square Packing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390463">https://news.ycombinator.com/item?id=49390463</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390775">https://news.ycombinator.com/item?id=49390775</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
-
----
-
-### 3. Kobo can run apps now
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bandarlabs.github.io/Cobalt/">https://bandarlabs.github.io/Cobalt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390427">https://news.ycombinator.com/item?id=49390427</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://bandarlabs.github.io/Cobalt/](https://bandarlabs.github.io/Cobalt/)
+🔗 **Read more:** [http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
 
 ---
 
@@ -84,55 +84,55 @@ The powerful natural climate phenomenon, that is developing over the Pacific Oce
 
 ---
 
-### 6. Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk
+### 6. Meghan in talks for role in Netflix series The Gentlemen, BBC understands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.
+This would be Meghan's first significant acting role since her marriage to Prince Harry.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Migrants clash with French police as they attempt to cross the Channel
+### 7. Arsenal sign Konsa from Villa as Premier League holders bolster defence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
+England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss)
 
 ---
 
-### 8. Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
+### 8. Why Iran is threatening Europe’s ‘strategically important’ southeast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
+Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss)
 
 ---
 
-### 9. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
+### 9. Israeli army, settlers kill 2 Palestinians in separate West Bank incidents
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.
+Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss)
 
 ---
 
