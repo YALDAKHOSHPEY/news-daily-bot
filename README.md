@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 19:50:21
+**Last Update:** 2026-08-21 20:29:01
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Omacom Foundation Launches with $8M
+### 1. A self hosted AI software factory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390132">https://news.ycombinator.com/item?id=49390132</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390463">https://news.ycombinator.com/item?id=49390463</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
+🔗 **Read more:** [https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
 
 ---
 
-### 2. How We Made a Text-to-Speech Model Respond in Sub-50 ms
+### 2. What happens when a GPU reads memory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389952">https://news.ycombinator.com/item?id=49389952</a></p>
+<p>Article URL: <a href="https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390308">https://news.ycombinator.com/item?id=49390308</a></p>
 <p>Points: 3</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
+🔗 **Read more:** [https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
 
 ---
 
-### 3. My AI agents kept trying to cross red lines, so I wrote them a constitution
+### 3. Three ways to smuggle SQLite into Nix
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Chong169/a-constitution-for-one">https://github.com/Chong169/a-constitution-for-one</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389912">https://news.ycombinator.com/item?id=49389912</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix">https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390286">https://news.ycombinator.com/item?id=49390286</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/Chong169/a-constitution-for-one](https://github.com/Chong169/a-constitution-for-one)
+🔗 **Read more:** [https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
 
 ---
 
@@ -71,7 +71,7 @@ The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the 
 
 ---
 
-### 5. Watch: How 'strongest' El Niño could affect world weather
+### 5. Watch: How 'strongest' El Niño could affect weather around the world
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Israeli settlers set fire to heavy machinery at West Bank quarry
+### 7. Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery
+Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss)
 
 ---
 
-### 8. Jannik Sinner to miss US Open tennis major due to knee injury
+### 8. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.
+Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss)
 
 ---
 
-### 9. Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain
+### 9. What to know about the Freedom 250 Grand Prix, Trump’s capital car race
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.
+The president says the 147-lap race will be an event &#039;like no other&#039; as drivers zip through Washington, DC.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss)
 
 ---
 
