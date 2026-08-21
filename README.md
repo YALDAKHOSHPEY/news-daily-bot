@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 22:48:58
+**Last Update:** 2026-08-21 23:14:52
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Direct link to Legacy Survey Sky Viewer: <a href="https://viewer.legacysurvey.org" rel="nofollow">https://viewer.legacysurvey.org</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392200">https://news.ycombinator.com/item?id=49392200</a></p>
-<p>Points: 12</p>
+<p>Points: 27</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391389">https://news.ycombinator.com/item?id=49391389</a></p>
-<p>Points: 29</p>
-<p># Comments: 2</p>
+<p>Points: 33</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 
@@ -53,7 +53,7 @@
 <p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href="https://news.ycombinator.com/item?id=39389858">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391348">https://news.ycombinator.com/item?id=49391348</a></p>
-<p>Points: 7</p>
+<p>Points: 8</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://interconnected.org/home/2026/08/21/galactic](https://interconnected.org/home/2026/08/21/galactic)
@@ -99,42 +99,42 @@ The powerful natural climate phenomenon, that is developing over the Pacific Oce
 
 ---
 
-### 7. Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
+### 7. US court slashes Alex Jones fines for Sandy Hook school shooting case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.
+Court cuts Infowars founder&#039;s penalty for false claims that school shooting was a &#039;hoax&#039; from $50m to $1.5m.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss)
 
 ---
 
-### 8. Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
+### 8. Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho&#039;s targets winning La Liga return.
+Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss)
 
 ---
 
-### 9. Drone strike on Ukraine shopping centre kills 14, over 100 injured
+### 9. US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100
+Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss)
 
 ---
 
