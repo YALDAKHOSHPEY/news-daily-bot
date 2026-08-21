@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 15:55:09
+**Last Update:** 2026-08-21 16:54:46
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386659">https://news.ycombinator.com/item?id=49386659</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.com/item?id=49386383</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/yaroslav/kino](https://github.com/yaroslav/kino)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
-<p>Points: 144</p>
-<p># Comments: 31</p>
+<p>Points: 209</p>
+<p># Comments: 51</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
 
 ---
 
-### 4. El Niño warming set to be 'strongest in living memory', warns Met Office
+### 4. Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. El Niño warming set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Scientists say the "unprecedented event" will likely push up global temperatures
 
 ---
 
-### 5. Meghan could return to acting once back in UK
+### 6. Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Children and pregnant women told to avoid runny eggs when eating out over salmonella risk
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Advice given to under fives, over 65s, pregnant women and others amid salmonella outbreak.
+The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
+### 7. South Korea footballers urge safety after extreme heat statistics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say the project would partition the occupied West Bank, making the prospect of Palestinian statehood impossible.
+South Korea professional football association urges stronger heat protections in face of rising temperatures.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss)
 
 ---
 
-### 8. Closure of al-Makha port leaves workers and traders fearing for the future
+### 8. Israeli soldiers throw belongings from besieged Palestinian home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.
+Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss)
 
 ---
 
-### 9. Who does the law serve in the occupied West Bank?
+### 9. Why are Hong Kong’s Tiananmen vigil organisers facing prison?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.
+Amnesty International said they ‘must be released immediately and unconditionally’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss)
 
 ---
 
