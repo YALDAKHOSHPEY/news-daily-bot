@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T04:10:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Copyright does not protect AI-generated content in EU",
+            "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@maxpool/117128107757895678\">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382041\">https://news.ycombinator.com/item?id=49382041</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+            "published": "Fri, 21 Aug 2026 00:15:12 +0000",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Detecting scraper bots through scroll behaviour",
+            "description": "<p>Article URL: <a href=\"https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381311\">https://news.ycombinator.com/item?id=49381311</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+            "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+            "published": "Thu, 20 Aug 2026 22:47:52 +0000",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Citizen Developer",
+            "description": "<p>Article URL: <a href=\"https://www.massdriver.cloud/blogs/the-citizen-developer\">https://www.massdriver.cloud/blogs/the-citizen-developer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380491\">https://news.ycombinator.com/item?id=49380491</a></p>\n<p>Points: 39</p>\n<p># Comments: 57</p>",
+            "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+            "published": "Thu, 20 Aug 2026 21:25:48 +0000",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño set to be 'strongest in living memory', says Met Office",
+            "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 00:33:21 GMT",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+            "description": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 00:12:37 +0000",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+            "description": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+            "description": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 23:19:56 +0000",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T04:10:41+03:30"
+        }
+    ]
+}
