@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 17:34:54
+**Last Update:** 2026-08-21 17:54:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle
+### 1. Kagi added a setting for removing paywalled links from search results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.18214">https://arxiv.org/abs/2608.18214</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49387856">https://news.ycombinator.com/item?id=49387856</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://kagi.com/changelog#11296">https://kagi.com/changelog#11296</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388154">https://news.ycombinator.com/item?id=49388154</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://kagi.com/changelog#11296](https://kagi.com/changelog#11296)
+
+---
+
+### 2. Kodak's "Pre-Invented" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/">https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388095">https://news.ycombinator.com/item?id=49388095</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
+
+---
+
+### 3. US debt has hit $40tn - Will that be a wake-up call?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c9d8z72nn02o">https://www.bbc.com/news/articles/c9d8z72nn02o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388067">https://news.ycombinator.com/item?id=49388067</a></p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.18214](https://arxiv.org/abs/2608.18214)
-
----
-
-### 2. Grand jury declines to indict Ohio man charged with destroying Flock camera
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/">https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49387497">https://news.ycombinator.com/item?id=49387497</a></p>
-<p>Points: 78</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/)
-
----
-
-### 3. I'm Becoming AI-Blind
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cymerys.com/w/im-becoming-ai-blind">https://cymerys.com/w/im-becoming-ai-blind</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386699">https://news.ycombinator.com/item?id=49386699</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://cymerys.com/w/im-becoming-ai-blind](https://cymerys.com/w/im-becoming-ai-blind)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c9d8z72nn02o](https://www.bbc.com/news/articles/c9d8z72nn02o)
 
 ---
 
@@ -97,7 +97,20 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Several people injured in sword attack at Swedish school
+### 7. War on Iran: The US could focus on economically isolating Iran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss)
+
+---
+
+### 8. Several people injured in sword attack at school in Sweden
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ One person has been taken into custody after the attack at a high school in Fage
 
 ---
 
-### 8. Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets
+### 9. Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ One person has been taken into custody after the attack at a high school in Fage
 The US and Israel&#039;s war on Iran has upended global financial and energy markets.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss)
-
----
-
-### 9. Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss)
 
 ---
 
