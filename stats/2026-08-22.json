@@ -1,0 +1,16 @@
+{
+    "date": "2026-08-22",
+    "commits": [
+        {
+            "time": "00-16",
+            "news_count": 12,
+            "sources": [
+                "Hacker News",
+                "NASA",
+                "BBC",
+                "Al Jazeera"
+            ]
+        }
+    ],
+    "total_news": 12
+}
