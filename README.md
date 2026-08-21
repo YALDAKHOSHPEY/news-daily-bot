@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 19:26:31
+**Last Update:** 2026-08-21 19:50:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The B-right/V R2 Operating System
+### 1. Omacom Foundation Launches with $8M
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://tronweb.super-nova.co.jp/b-right-vr2intro.html">http://tronweb.super-nova.co.jp/b-right-vr2intro.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389491">https://news.ycombinator.com/item?id=49389491</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390132">https://news.ycombinator.com/item?id=49390132</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [http://tronweb.super-nova.co.jp/b-right-vr2intro.html](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
+🔗 **Read more:** [https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
 
 ---
 
-### 2. Show HN: A desktop fly drawn to the scent of vibecode
+### 2. How We Made a Text-to-Speech Model Respond in Sub-50 ms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>It is a fork of <a href="https://github.com/DenisSergeevitch/desktop-fly" rel="nofollow">https://github.com/DenisSergeevitch/desktop-fly</a>, but with an important update.<p>Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor/rules, .kiro/steering, and forty others. Anything on the screen that points to these markers becomes a source of the scent - an editor window with an open project, a line in Finder, or a desktop icon. An open project reeks the strongest, while a closed icon or nested folders give off a fainter odor.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389466">https://news.ycombinator.com/item?id=49389466</a></p>
+<p>Article URL: <a href="https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389952">https://news.ycombinator.com/item?id=49389952</a></p>
 <p>Points: 3</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/kulikov0/desktop-vibe-fly](https://github.com/kulikov0/desktop-vibe-fly)
+🔗 **Read more:** [https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
 
 ---
 
-### 3. c100
+### 3. My AI agents kept trying to cross red lines, so I wrote them a constitution
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://caligra.com/c100/">https://caligra.com/c100/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389392">https://news.ycombinator.com/item?id=49389392</a></p>
-<p>Points: 20</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://github.com/Chong169/a-constitution-for-one">https://github.com/Chong169/a-constitution-for-one</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389912">https://news.ycombinator.com/item?id=49389912</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://caligra.com/c100/](https://caligra.com/c100/)
+🔗 **Read more:** [https://github.com/Chong169/a-constitution-for-one](https://github.com/Chong169/a-constitution-for-one)
 
 ---
 
@@ -98,42 +97,42 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Russian expert warns of impending social crisis as Ukraine death toll rises
+### 7. Israeli settlers set fire to heavy machinery at West Bank quarry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.
+Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss)
 
 ---
 
-### 8. Iraq’s solar villages show how to build an energy transition that lasts
+### 8. Jannik Sinner to miss US Open tennis major due to knee injury
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
+Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss)
 
 ---
 
-### 9. Fury says fight with Joshua looks unlikely with venue yet to be agreed
+### 9. Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
+Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss)
 
 ---
 

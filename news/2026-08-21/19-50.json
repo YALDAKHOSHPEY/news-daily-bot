@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T19:50:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Omacom Foundation Launches with $8M",
+            "description": "<p>Article URL: <a href=\"https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/\">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390132\">https://news.ycombinator.com/item?id=49390132</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+            "published": "Fri, 21 Aug 2026 16:03:47 +0000",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+            "description": "<p>Article URL: <a href=\"https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/\">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389952\">https://news.ycombinator.com/item?id=49389952</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+            "published": "Fri, 21 Aug 2026 15:51:10 +0000",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My AI agents kept trying to cross red lines, so I wrote them a constitution",
+            "description": "<p>Article URL: <a href=\"https://github.com/Chong169/a-constitution-for-one\">https://github.com/Chong169/a-constitution-for-one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389912\">https://news.ycombinator.com/item?id=49389912</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/Chong169/a-constitution-for-one",
+            "published": "Fri, 21 Aug 2026 15:48:32 +0000",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+            "description": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+            "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 15:19:15 GMT",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How 'strongest' El Niño could affect world weather",
+            "description": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
+            "url": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 15:33:28 GMT",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+            "description": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 12:01:52 GMT",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
+            "description": "Israeli settlers entered a stone quarry in Wadi Al-Rakheem near Hebron overnight and set fire to heavy machinery",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 16:00:02 +0000",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
+            "description": "Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 15:57:54 +0000",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
+            "description": "Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.",
+            "url": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 15:31:33 +0000",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T19:50:21+03:30"
+        }
+    ]
+}
