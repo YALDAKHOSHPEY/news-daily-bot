@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 15:19:46
+**Last Update:** 2026-08-21 15:55:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek-v4-flash-vision-exp
+### 1. TigerBeetle Core System Architecture: Deconstructing Performance Engineering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386659">https://news.ycombinator.com/item?id=49386659</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+
+---
+
+### 2. Kino: A high-performance Ractor web server for Ruby 4.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.com/item?id=49386383</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/yaroslav/kino](https://github.com/yaroslav/kino)
+
+---
+
+### 3. DeepSeek-v4-flash-vision-exp
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
-<p>Points: 110</p>
-<p># Comments: 19</p>
+<p>Points: 144</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
-
----
-
-### 2. AI companies destroy physical books – let's scan rare books before it's too late
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://annas-archive.pk/blog/physical-destruction.html">https://annas-archive.pk/blog/physical-destruction.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385994">https://news.ycombinator.com/item?id=49385994</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://annas-archive.pk/blog/physical-destruction.html](https://annas-archive.pk/blog/physical-destruction.html)
-
----
-
-### 3. Small, native web tricks worth remembering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></p>
-<p>Points: 54</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://htmlcat.net/](https://htmlcat.net/)
 
 ---
 
@@ -84,20 +84,33 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 6. My life was changed by a terror attack - now survivors like me won't be forgotten
+### 6. Children and pregnant women told to avoid runny eggs when eating out over salmonella risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.
+Advice given to under fives, over 65s, pregnant women and others amid salmonella outbreak.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Closure of al-Makha port leaves workers and traders fearing for the future
+### 7. Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Experts say the project would partition the occupied West Bank, making the prospect of Palestinian statehood impossible.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss)
+
+---
+
+### 8. Closure of al-Makha port leaves workers and traders fearing for the future
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Houthi attacks on al-Makha port forced it to suspend operations, leaving workers
 
 ---
 
-### 8. Who does the law serve in the occupied West Bank?
+### 9. Who does the law serve in the occupied West Bank?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Houthi attacks on al-Makha port forced it to suspend operations, leaving workers
 Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss)
-
----
-
-### 9. Charter plane crash near Alaskan military site kills 8
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rescuers who landed near the crash site &#039;confirmed there were no survivors&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss)
 
 ---
 
