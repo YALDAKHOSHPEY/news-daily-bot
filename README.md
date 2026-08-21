@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 02:17:39
+**Last Update:** 2026-08-22 02:44:02
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Remotely Unlocking Electric Scooters
+### 1. I own 28,000 books – here's what I've learned
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.shelvd.org/blog/28000-books">https://www.shelvd.org/blog/28000-books</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394759">https://news.ycombinator.com/item?id=49394759</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.shelvd.org/blog/28000-books](https://www.shelvd.org/blog/28000-books)
+
+---
+
+### 2. 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e">https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394373">https://news.ycombinator.com/item?id=49394373</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
+
+---
+
+### 3. Remotely Unlocking Electric Scooters
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://henriemategui.com/post/remotely-unlocking-electric-scooters">https://henriemategui.com/post/remotely-unlocking-electric-scooters</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394028">https://news.ycombinator.com/item?id=49394028</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://henriemategui.com/post/remotely-unlocking-electric-scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
-
----
-
-### 2. SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393733">https://news.ycombinator.com/item?id=49393733</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-
----
-
-### 3. Quick impressions: A week of using Codex more than Claude
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/">https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393051">https://news.ycombinator.com/item?id=49393051</a></p>
-<p>Points: 65</p>
-<p># Comments: 72</p>
-
-🔗 **Read more:** [https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 
 ---
 
@@ -84,20 +84,33 @@ The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the 
 
 ---
 
-### 6. Russian double-tap drone strike kills 15 in Ukrainian mall, officials say
+### 6. More students planning to live at home for university over 'insane' living costs
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.
+Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. TikTok settles with US Justice Department for $400m over child privacy laws
+### 7. US Vice President JD Vance holds midterm election rally in Ohio hometown
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The vice president&#039;s speech hinged heavily on economic themes, as voter confidence slips for Republican policies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss)
+
+---
+
+### 8. TikTok settles with US Justice Department for $400m over child privacy laws
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ TikTok and the US government settled to resolve allegations that the app violate
 
 ---
 
-### 8. Mexico Governor Ruben Rocha returns to office despite US criminal charges
+### 9. Mexico Governor Ruben Rocha returns to office despite US criminal charges
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ TikTok and the US government settled to resolve allegations that the app violate
 The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss)
-
----
-
-### 9. One killed, three wounded in sword attack at Swedish high school
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss)
 
 ---
 
