@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 12:55:38
+**Last Update:** 2026-08-21 13:28:28
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
-<p>Points: 54</p>
-<p># Comments: 17</p>
+<p>Points: 69</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
-<p>Points: 50</p>
-<p># Comments: 13</p>
+<p>Points: 60</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
 
