@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 20:29:01
+**Last Update:** 2026-08-21 20:49:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A self hosted AI software factory
+### 1. LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390910">https://news.ycombinator.com/item?id=49390910</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+
+---
+
+### 2. A self hosted AI software factory
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390463">https://news.ycombinator.com/item?id=49390463</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
 
 ---
 
-### 2. What happens when a GPU reads memory
+### 3. Kobo can run apps now
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390308">https://news.ycombinator.com/item?id=49390308</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bandarlabs.github.io/Cobalt/">https://bandarlabs.github.io/Cobalt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390427">https://news.ycombinator.com/item?id=49390427</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
-
----
-
-### 3. Three ways to smuggle SQLite into Nix
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix">https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390286">https://news.ycombinator.com/item?id=49390286</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
+🔗 **Read more:** [https://bandarlabs.github.io/Cobalt/](https://bandarlabs.github.io/Cobalt/)
 
 ---
 
@@ -97,7 +97,20 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
+### 7. Migrants clash with French police as they attempt to cross the Channel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss)
+
+---
+
+### 8. Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Shakhtar have not played at home since 2014 when Russia annexed the Donetsk regi
 
 ---
 
-### 8. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
+### 9. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Shakhtar have not played at home since 2014 when Russia annexed the Donetsk regi
 Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss)
-
----
-
-### 9. What to know about the Freedom 250 Grand Prix, Trump’s capital car race
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The president says the 147-lap race will be an event &#039;like no other&#039; as drivers zip through Washington, DC.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss)
 
 ---
 
