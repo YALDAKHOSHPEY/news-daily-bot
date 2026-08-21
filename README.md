@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 07:58:41
+**Last Update:** 2026-08-21 08:31:46
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 33</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383026">https://news.ycombinator.com/item?id=49383026</a></p>
-<p>Points: 138</p>
-<p># Comments: 91</p>
+<p>Points: 164</p>
+<p># Comments: 107</p>
 
 🔗 **Read more:** [https://annas-archive.gl/blog/physical-destruction.html](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
-### 3. Artificial Intelligence Policy
+### 3. There's no such thing as a small software team anymore
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382614">https://news.ycombinator.com/item?id=49382614</a></p>
-<p>Points: 32</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
+<p>Points: 46</p>
+<p># Comments: 88</p>
 
-🔗 **Read more:** [https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 
 ---
 
@@ -110,7 +110,20 @@ Activist group says the &#039;twisted&#039; Hong Kong judicial system had long a
 
 ---
 
-### 8. After GERD, can Egypt shape Ethiopia’s next Nile dams?
+### 8. Pakistan’s Imran Khan back to prison after evaluation at hospital
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+
+---
+
+### 9. After GERD, can Egypt shape Ethiopia’s next Nile dams?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Activist group says the &#039;twisted&#039; Hong Kong judicial system had long a
 Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss)
-
----
-
-### 9. Brazil launches AI supercomputer push while balancing US and Chinese tech
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
 
 ---
 
