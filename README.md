@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 18:31:00
+**Last Update:** 2026-08-21 18:53:04
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/adnanakil/nobuzz/blob/main/README.md">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388752">https://news.ycombinator.com/item?id=49388752</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/adnanakil/nobuzz/blob/main/README.md](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.8ball.space/what-we-lost-when-search/">https://blog.8ball.space/what-we-lost-when-search/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388446">https://news.ycombinator.com/item?id=49388446</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 25</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://blog.8ball.space/what-we-lost-when-search/](https://blog.8ball.space/what-we-lost-when-search/)
 
 ---
 
-### 3. Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest
+### 3. Kagi added a setting for removing paywalled links from search results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/">https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388288">https://news.ycombinator.com/item?id=49388288</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://kagi.com/changelog#11296">https://kagi.com/changelog#11296</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388154">https://news.ycombinator.com/item?id=49388154</a></p>
+<p>Points: 250</p>
+<p># Comments: 112</p>
 
-🔗 **Read more:** [https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)
+🔗 **Read more:** [https://kagi.com/changelog#11296](https://kagi.com/changelog#11296)
 
 ---
 
