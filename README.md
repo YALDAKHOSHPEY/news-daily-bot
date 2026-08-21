@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 11:33:43
+**Last Update:** 2026-08-21 11:56:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
+### 1. The Lost Treasure of Sid Meier's Pirates
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+
+---
+
+### 2. We Rebuilt the Linux MicroVM Stack on Apple Silicon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
+
+---
+
+### 3. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
 
 **Source:** Hacker News
 
@@ -20,41 +52,9 @@
 <p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
 <p>Points: 5</p>
-<p># Comments: 0</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
-
----
-
-### 2. The Religious Experience of Philip K. Dick by R. Crumb (1986)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
-
----
-
-### 3. Stop Making TUIs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384210">https://news.ycombinator.com/item?id=49384210</a></p>
-<p>Points: 26</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 
 ---
 
@@ -97,7 +97,33 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Australian Hussey open Ashes Test role as England make approach
+### 7. Israeli settlers set fire to Palestinian home while family asleep
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss)
+
+---
+
+### 8. Europe, Canada condemn Israeli plans for new West Bank settlement
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
+
+---
+
+### 9. Australian Hussey open to Ashes Test role as England make approach
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
-
----
-
-### 8. Dr TikTok: Mental health moves from consulting rooms to social media
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss](https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss)
-
----
-
-### 9. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss)
 
 ---
 
