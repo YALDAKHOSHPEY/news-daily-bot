@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 05:47:35
+**Last Update:** 2026-08-21 06:57:54
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. It is a sign of the times that Amazon gets to call this fair use
+### 1. AI companies destroy physical books – let's scan rare books before it's too late
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html">http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382200">https://news.ycombinator.com/item?id=49382200</a></p>
-<p>Points: 32</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383026">https://news.ycombinator.com/item?id=49383026</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+🔗 **Read more:** [https://annas-archive.gl/blog/physical-destruction.html](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
-### 2. There's no such thing as a small software team anymore
+### 2. Orbital Construction Pioneers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
-<p>Points: 20</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://orbitalconstructionpioneers.com/">https://orbitalconstructionpioneers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382809">https://news.ycombinator.com/item?id=49382809</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+🔗 **Read more:** [https://orbitalconstructionpioneers.com/](https://orbitalconstructionpioneers.com/)
 
 ---
 
-### 3. Copyright does not protect AI-generated content in EU
+### 3. Artificial Intelligence Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
-<p>Points: 103</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382614">https://news.ycombinator.com/item?id=49382614</a></p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
+🔗 **Read more:** [https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
 
 ---
 
@@ -71,33 +71,59 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 5. Harry and Meghan's return to UK reignites questions over security
+### 5. Meghan could return to acting once back in UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.
+Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: What does Harry's return mean for his fractured relationship with William?
+### 6. What happened to Harry and Meghan's American dream?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The brothers have had a fractured relationship for a number of years.
+Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Brazil launches AI supercomputer push while balancing US and Chinese tech
+### 7. Pakistan’s Imran Khan moved to hospital after Supreme Court order
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+
+---
+
+### 8. After GERD, can Egypt shape Ethiopia’s next Nile dams?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss)
+
+---
+
+### 9. Brazil launches AI supercomputer push while balancing US and Chinese tech
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The brothers have had a fractured relationship for a number of years.
 The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
-
----
-
-### 8. Panama Canal to limit shipping ahead of extreme weather during El Nino
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss)
-
----
-
-### 9. Antigovernment protesters take to Tunisia’s streets for second month
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss)
 
 ---
 
