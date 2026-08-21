@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 04:10:41
+**Last Update:** 2026-08-21 05:35:18
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Copyright does not protect AI-generated content in EU
+### 1. It is a sign of the times that Amazon gets to call this fair use
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html">http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382200">https://news.ycombinator.com/item?id=49382200</a></p>
+<p>Points: 32</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+
+---
+
+### 2. There's no such thing as a small software team anymore
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
+<p>Points: 20</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+
+---
+
+### 3. Copyright does not protect AI-generated content in EU
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 103</p>
+<p># Comments: 85</p>
 
 🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
-
----
-
-### 2. Detecting scraper bots through scroll behaviour
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://niki.cat/detecting-scraper-bots-through-scroll-behaviour">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49381311">https://news.ycombinator.com/item?id=49381311</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://niki.cat/detecting-scraper-bots-through-scroll-behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-
----
-
-### 3. The Citizen Developer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.massdriver.cloud/blogs/the-citizen-developer">https://www.massdriver.cloud/blogs/the-citizen-developer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380491">https://news.ycombinator.com/item?id=49380491</a></p>
-<p>Points: 39</p>
-<p># Comments: 57</p>
-
-🔗 **Read more:** [https://www.massdriver.cloud/blogs/the-citizen-developer](https://www.massdriver.cloud/blogs/the-citizen-developer)
 
 ---
 
@@ -84,7 +84,7 @@ The brothers have had a fractured relationship for a number of years.
 
 ---
 
-### 6. El Niño set to be 'strongest in living memory', says Met Office
+### 6. El Niño climate event set to be 'strongest in living memory', says Met Office
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 7. US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections
+### 7. Brazil launches AI supercomputer push while balancing US and Chinese tech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.
+The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: US vows toughest Iran sanctions, urges China support
+### 8. Panama Canal to limit shipping ahead of extreme weather during El Nino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.
+The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss)
 
 ---
 
-### 9. Houthis and government trade attacks as Yemen slides back to full-scale war
+### 9. Antigovernment protesters take to Tunisia’s streets for second month
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss)
 
 ---
 
