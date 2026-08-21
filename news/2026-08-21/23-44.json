@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T23:44:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tumble Forth – from assembly to OS with C compiler",
+            "description": "<p>Article URL: <a href=\"https://tumbleforth.hardcoded.net/\">https://tumbleforth.hardcoded.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392465\">https://news.ycombinator.com/item?id=49392465</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://tumbleforth.hardcoded.net/",
+            "published": "Fri, 21 Aug 2026 18:59:52 +0000",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Death to the Self-Playing Game",
+            "description": "<p>Article URL: <a href=\"https://www.jank.cool/death-to-the-self-playing-game/\">https://www.jank.cool/death-to-the-self-playing-game/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392449\">https://news.ycombinator.com/item?id=49392449</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+            "url": "https://www.jank.cool/death-to-the-self-playing-game/",
+            "published": "Fri, 21 Aug 2026 18:58:12 +0000",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+            "description": "<p>Article URL: <a href=\"https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders\">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392331\">https://news.ycombinator.com/item?id=49392331</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+            "published": "Fri, 21 Aug 2026 18:48:28 +0000",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+            "description": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+            "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 17:18:41 GMT",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+            "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+            "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 18:29:31 GMT",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How 'strongest' El Niño could affect weather around the world",
+            "description": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
+            "url": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 15:33:28 GMT",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
+            "description": "Court cuts Infowars founder&#039;s penalty for false claims that school shooting was a &#039;hoax&#039; from $50m to $1.5m.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 19:29:20 +0000",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
+            "description": "Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 19:21:08 +0000",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+            "description": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 19:20:17 +0000",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T23:44:05+03:30"
+        }
+    ]
+}
