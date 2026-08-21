@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 10:45:36
+**Last Update:** 2026-08-21 11:04:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Religious Experience of Philip K. Dick by R. Crumb (1986)
+### 1. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
+
+---
+
+### 2. The Religious Experience of Philip K. Dick by R. Crumb (1986)
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
 
 ---
 
-### 2. Japan tried to build an operating system for the world, the US intervened
+### 3. Stop Making TUIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384180">https://news.ycombinator.com/item?id=49384180</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384210">https://news.ycombinator.com/item?id=49384210</a></p>
+<p>Points: 11</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
-
----
-
-### 3. Codex on AWS bedrock bug causing 10x charges
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 101</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 
 ---
 
