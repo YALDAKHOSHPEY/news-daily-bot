@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 16:54:46
+**Last Update:** 2026-08-21 17:07:06
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. South Korea footballers urge safety after extreme heat statistics
+### 7. El Nino set to be most intense ‘for over a century’: UK forecasters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Met Office predicts &#039;unprecedented&#039; sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss)
+
+---
+
+### 8. South Korea footballers urge safety after extreme heat statistics
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ South Korea professional football association urges stronger heat protections in
 
 ---
 
-### 8. Israeli soldiers throw belongings from besieged Palestinian home
+### 9. Israeli soldiers throw belongings from besieged Palestinian home
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ South Korea professional football association urges stronger heat protections in
 Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss)
-
----
-
-### 9. Why are Hong Kong’s Tiananmen vigil organisers facing prison?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Amnesty International said they ‘must be released immediately and unconditionally’.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss)
 
 ---
 
