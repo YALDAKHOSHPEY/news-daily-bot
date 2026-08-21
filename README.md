@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 05:35:18
+**Last Update:** 2026-08-21 05:47:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Harry and Meghan's return to UK reignites questions over security
+### 4. El Niño weather system set to be 'strongest in living memory', warns Met Office
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Scientists say the growing El Niño weather pattern is an "unprecedented event" and means 2027 is likely to be the world's hottest year on record.
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Harry and Meghan's return to UK reignites questions over security
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Their surprise announcement means a fresh decision will need to be made on the l
 
 ---
 
-### 5. Watch: What does Harry's return mean for his fractured relationship with William?
+### 6. Watch: What does Harry's return mean for his fractured relationship with William?
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Their surprise announcement means a fresh decision will need to be made on the l
 The brothers have had a fractured relationship for a number of years.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. El Niño climate event set to be 'strongest in living memory', says Met Office
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Scientists say the growing El Niño weather pattern is an "unprecedented event" and means 2027 is likely to be the world's hottest year on record.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
