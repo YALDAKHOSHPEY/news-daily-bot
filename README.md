@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 09:57:51
+**Last Update:** 2026-08-21 10:45:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384180">https://news.ycombinator.com/item?id=49384180</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Points: 45</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 83</p>
-<p># Comments: 24</p>
+<p>Points: 101</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
 
@@ -97,7 +97,20 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 7. Dozens of migrants land on Spanish coast surprising beachgoers
+### 7. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss)
+
+---
+
+### 8. Dozens of migrants land on Spanish coast surprising beachgoers
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Footage circulating on social media shows dozens of migrants arriving by boat on
 
 ---
 
-### 8. Hong Kong Tiananmen activists found guilty of national security charges
+### 9. Hong Kong Tiananmen activists found guilty of national security charges
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Footage circulating on social media shows dozens of migrants arriving by boat on
 Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss)
-
----
-
-### 9. Pakistan’s Imran Khan back to prison after evaluation at hospital
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
 
 ---
 
