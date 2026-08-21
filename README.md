@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 11:56:48
+**Last Update:** 2026-08-21 12:35:54
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Lost Treasure of Sid Meier's Pirates
+### 1. Emacs 31.1 will release on 8/24
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+
+---
+
+### 2. The Lost Treasure of Sid Meier's Pirates
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 50</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 
 ---
 
-### 2. We Rebuilt the Linux MicroVM Stack on Apple Silicon
+### 3. We Rebuilt the Linux MicroVM Stack on Apple Silicon
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
-<p>Points: 23</p>
-<p># Comments: 1</p>
+<p>Points: 47</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
-
----
-
-### 3. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
 
 ---
 
@@ -97,7 +97,33 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Israeli settlers set fire to Palestinian home while family asleep
+### 7. Sudan’s displacement crisis deepens as violence escalates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sudan’s displacement crisis deepens as violence escalates
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss)
+
+---
+
+### 8. Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss)
+
+---
+
+### 9. Israeli settlers set fire to Palestinian home while family asleep
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss)
-
----
-
-### 8. Europe, Canada condemn Israeli plans for new West Bank settlement
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
-
----
-
-### 9. Australian Hussey open to Ashes Test role as England make approach
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
 
 ---
 
