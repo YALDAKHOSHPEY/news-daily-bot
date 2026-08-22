@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 12:47:09
+**Last Update:** 2026-08-22 13:18:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Canada will match US tariffs 'dollar for dollar' as trade talks break down
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 79</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
-
----
-
-### 2. There's no reason for software to be slow anymore
+### 1. There's no reason for software to be slow anymore
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 388</p>
-<p># Comments: 276</p>
+<p>Points: 402</p>
+<p># Comments: 291</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
 ---
 
-### 3. Initial focus for our partnership with Motorola is a regular non-folding device
+### 2. Initial focus for our partnership with Motorola is a regular non-folding device
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 109</p>
-<p># Comments: 38</p>
+<p>Points: 112</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+---
+
+### 3. HN: The Good Parts (2016)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
+<p>Points: 50</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
 ---
 
@@ -97,7 +97,33 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 7. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+### 7. Iran says new US sanctions violate sovereignty of other states
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colonialism&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss)
+
+---
+
+### 8. Australia bite back as 18 wickets fall on day one of second Bangladesh Test
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss)
+
+---
+
+### 9. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss)
-
----
-
-### 8. How will Trump’s tariffs affect Canada’s economy?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss)
-
----
-
-### 9. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss)
 
 ---
 
