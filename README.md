@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 02:41:00
+**Last Update:** 2026-08-23 03:12:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. English ↔ Claudish Translator
+### 1. NanoGPT Speedrun Frontier
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
+
+---
+
+### 2. English ↔ Claudish Translator
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 35</p>
-<p># Comments: 21</p>
+<p>Points: 41</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
 ---
 
-### 2. NetBSD and my life (2005)
+### 3. NetBSD and my life (2005)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 79</p>
-<p># Comments: 20</p>
+<p>Points: 84</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-
----
-
-### 3. hdiutil is deprecated in macOS 27 Golden Gate
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 146</p>
-<p># Comments: 53</p>
-
-🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
@@ -97,7 +97,20 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
+### 7. Iran warns nearby nations against joining US ‘economic war’ efforts
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss)
+
+---
+
+### 8. Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ For the second week in a row, Hawaii Island, also known as the Big Island, faces
 
 ---
 
-### 8. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
+### 9. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ For the second week in a row, Hawaii Island, also known as the Big Island, faces
 Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss)
-
----
-
-### 9. Open-air cinema brings movie nights back to Khartoum
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss)
 
 ---
 
