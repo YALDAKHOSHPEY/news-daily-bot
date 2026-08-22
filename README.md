@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 20:17:00
+**Last Update:** 2026-08-22 20:41:41
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. ElevenLabs, TwelveLabs, ThirteenLabs
+### 1. Anthropic IPO filing will show AI backlash as a risk factor, sources say
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
-<p>Points: 67</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401229">https://news.ycombinator.com/item?id=49401229</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
+🔗 **Read more:** [https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
 ---
 
-### 2. A Friendly Introduction to Racket
+### 2. Learning about "The Unix Time-Sharing System"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399898">https://news.ycombinator.com/item?id=49399898</a></p>
-<p>Points: 40</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401122">https://news.ycombinator.com/item?id=49401122</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+🔗 **Read more:** [https://playtechnique.io/long/the-unix-time-sharing-system.html](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 
 ---
 
-### 3. The New MCP Roadmap
+### 3. Wildfires across Europe detonate forgotten World War bombs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 91</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html">https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400900">https://news.ycombinator.com/item?id=49400900</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+🔗 **Read more:** [https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html](https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html)
 
 ---
 
@@ -97,7 +97,20 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Espanyol vs Real Madrid LIVE: La Liga
+### 7. Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss)
+
+---
+
+### 8. Espanyol vs Real Madrid LIVE: La Liga
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Follow updates as Jose Mourinho returns to lead Madrid - including the build-up,
 
 ---
 
-### 8. How is the pro-Israel lobby influencing US elections?
+### 9. How is the pro-Israel lobby influencing US elections?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Follow updates as Jose Mourinho returns to lead Madrid - including the build-up,
 As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss)
-
----
-
-### 9. Elche vs Barcelona: La Liga – prediction, team news, lineups
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Barcelona start their season at Elche in La Liga on Sunday but will do so without their new signing, Rodri.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss)
 
 ---
 
