@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 21:44:26
+**Last Update:** 2026-08-22 22:25:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Belgian car salesman becomes prince after DNA test proves royal parentage
+### 1. Scrap
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
+
+---
+
+### 2. Belgian car salesman becomes prince after DNA test proves royal parentage
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 28</p>
-<p># Comments: 16</p>
+<p>Points: 51</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
-
----
-
-### 2. Anthropic appears to be A/B testing reduced effort levels in Claude Code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/argofowl/status/2091150597374537729">https://twitter.com/argofowl/status/2091150597374537729</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401549">https://news.ycombinator.com/item?id=49401549</a></p>
-<p>Points: 35</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://twitter.com/argofowl/status/2091150597374537729](https://twitter.com/argofowl/status/2091150597374537729)
 
 ---
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401122">https://news.ycombinator.com/item?id=49401122</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://playtechnique.io/long/the-unix-time-sharing-system.html](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 
 ---
 
-### 4. Video appears to show police chase minutes before fatal crash
+### 4. Video appears to show police chase minutes before fatal A66 crash
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Four people are still missing after Friday's attack which killed 16 and left 130
 
 ---
 
-### 7. Israel’s Chief Rabbi says Palestinians are not a people and have no rights
+### 7. Israel, Turkiye and the new regional reordering
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
+In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss)
 
 ---
 
-### 8. Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
+### 8. Swedish police identify 17-year-old girl as victim in school sword attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.
+Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss)
 
 ---
 
-### 9. ‘Not a small issue’: People deported by US to Liberia face uncertain future
+### 9. Armed men kidnap dozens in attacks on Nigerian villages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Liberia&#039;s government announced the move on Tuesday, two days before the flight. Politicians say they were not consulted.
+Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss)
 
 ---
 
