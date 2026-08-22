@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 11:21:52
+**Last Update:** 2026-08-22 11:46:46
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 34</p>
-<p># Comments: 4</p>
+<p>Points: 49</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 344</p>
-<p># Comments: 249</p>
+<p>Points: 356</p>
+<p># Comments: 258</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 102</p>
-<p># Comments: 33</p>
+<p>Points: 107</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
-### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 4. 'Multiple' deaths after collision between police vehicle and car
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The collision involved a Volkswagen Passat on the A66 in South Bank, near Middlesbrough, police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 5. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 6. Girl, 6, dies days after Shoreham sea tragedy killed three family members
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Somalia child hunger crisis deepens after aid cuts, UNICEF says
+### 7. Lionel Messi fined for striking opponent in Inter Miami MLS game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
+MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss)
 
 ---
 
-### 8. China’s new moon mission could unlock secret of lunar ice: Why that matters
+### 8. ‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.
+Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss)
 
 ---
 
-### 9. ‘It was a tsunami’: Floods leave death trail in India’s Assam
+### 9. World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll.
+Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss)
 
 ---
 
