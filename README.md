@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 22:25:12
+**Last Update:** 2026-08-22 22:45:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Scrap
+### 1. hdiutil is deprecated in macOS 27 Golden Gate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
+
+---
+
+### 2. Scrap
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
 
 ---
 
-### 2. Belgian car salesman becomes prince after DNA test proves royal parentage
+### 3. Belgian car salesman becomes prince after DNA test proves royal parentage
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 51</p>
-<p># Comments: 29</p>
+<p>Points: 57</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
-### 3. Learning about "The Unix Time-Sharing System"
+### 4. Two police officers among seven killed in wrong-way car crash
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401122">https://news.ycombinator.com/item?id=49401122</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+A pursuit of the car containing five teens had been called off shortly before, the BBC understands.
 
-🔗 **Read more:** [https://playtechnique.io/long/the-unix-time-sharing-system.html](https://playtechnique.io/long/the-unix-time-sharing-system.html)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Video appears to show police chase minutes before fatal A66 crash
+### 5. Video appears to show police chase minutes before fatal A66 crash
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Several police vehicles are seen chasing a car just three minutes before the cra
 
 ---
 
-### 5. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+### 6. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 6. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+### 7. Carney: Canada will enact retaliatory US tariffs starting September 8
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
+The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss)
 
 ---
 
-### 7. Israel, Turkiye and the new regional reordering
+### 8. Israel, Turkiye and the new regional reordering
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ In Syria, Israel is not only at odds with Turkiye but also with the regional an
 
 ---
 
-### 8. Swedish police identify 17-year-old girl as victim in school sword attack
+### 9. Swedish police identify 17-year-old girl as victim in school sword attack
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ In Syria, Israel is not only at odds with Turkiye but also with the regional an
 Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss)
-
----
-
-### 9. Armed men kidnap dozens in attacks on Nigerian villages
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss)
 
 ---
 
