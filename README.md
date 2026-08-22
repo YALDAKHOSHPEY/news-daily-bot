@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 05:38:29
+**Last Update:** 2026-08-22 06:42:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Points: 92</p>
+<p># Comments: 91</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
-<p>Points: 18</p>
+<p>Points: 23</p>
 <p># Comments: 6</p>
 
 🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
@@ -97,7 +97,20 @@ Students like Jessica say they worry about missing out on student life, but feel
 
 ---
 
-### 7. Palestinian-British girl, 6, dies days after family drowned off UK coast
+### 7. Peru rescues people trapped by landslides on highway for nearly a week
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Peru rescues people trapped by landslides on highway for nearly a week.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss)
+
+---
+
+### 8. Palestinian-British girl, 6, dies days after family drowned off UK coast
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Saja el-Khawas&#039;s death follows that of her mother, father and sister on Tue
 
 ---
 
-### 8. Iranian president says time to end war with US from ‘position of strength’
+### 9. Iranian president says time to end war with US from ‘position of strength’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Saja el-Khawas&#039;s death follows that of her mother, father and sister on Tue
 Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss)
-
----
-
-### 9. California lawmaker overcomes pro-Israel spending to win special election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss)
 
 ---
 
