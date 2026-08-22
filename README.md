@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 02:15:03
+**Last Update:** 2026-08-23 02:41:00
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 29</p>
+<p>Points: 35</p>
 <p># Comments: 21</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
 ---
 
-### 2. NetBSD and My Life (2005)
+### 2. NetBSD and my life (2005)
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 69</p>
-<p># Comments: 19</p>
+<p>Points: 79</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 142</p>
-<p># Comments: 49</p>
+<p>Points: 146</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
@@ -84,20 +84,33 @@ Several police vehicles are seen chasing a car just three minutes before the cra
 
 ---
 
-### 6. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+### 6. Struggling households need more help with bills, energy industry says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
+Industry body Energy UK says the current support for households most in need does not go far enough.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
+### 7. Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss)
+
+---
+
+### 8. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had
 
 ---
 
-### 8. Open-air cinema brings movie nights back to Khartoum
+### 9. Open-air cinema brings movie nights back to Khartoum
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had
 Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss)
-
----
-
-### 9. Israeli army and settlers injure several Palestinians across West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss)
 
 ---
 
