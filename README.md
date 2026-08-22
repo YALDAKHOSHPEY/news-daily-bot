@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 23:13:12
+**Last Update:** 2026-08-22 23:41:29
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 3</p>
+<p>Points: 18</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Points: 52</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
-<p>Points: 51</p>
-<p># Comments: 9</p>
+<p>Points: 69</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
 
@@ -97,42 +97,42 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. Envoy says Israel did not give the US notice before strikes on Syrian base
+### 7. Iran grants permission for some Iraqi oil tankers to pass through Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.
+Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Canada to match US tariffs “dollar for dollar,” PM Carney says
+### 8. Why is Israel building new illegal settlements?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.&quot;
+Israel opens construction bids for new illegal housing units in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss)
 
 ---
 
-### 9. Carney: Canada will enact retaliatory US tariffs starting September 8
+### 9. More than 200,000 newly displaced in Sudan’s Kordofan region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
+Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss)
 
 ---
 
