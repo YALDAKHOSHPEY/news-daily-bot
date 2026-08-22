@@ -1,48 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 01:41:02
+**Last Update:** 2026-08-23 02:15:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Knowing When to Stop: The Art of Making a Loop Converge
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403484">https://news.ycombinator.com/item?id=49403484</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
-
----
-
-### 2. Fast and Hard Code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/22/fast-hard-code/">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403228">https://news.ycombinator.com/item?id=49403228</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/22/fast-hard-code/](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
-
----
-
-### 3. English ↔ Claudish Translator
+### 1. English ↔ Claudish Translator
 
 **Source:** Hacker News
 
@@ -51,10 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 21</p>
-<p># Comments: 16</p>
+<p>Points: 29</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
+
+---
+
+### 2. NetBSD and My Life (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
+<p>Points: 69</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+
+---
+
+### 3. hdiutil is deprecated in macOS 27 Golden Gate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
+<p>Points: 142</p>
+<p># Comments: 49</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
