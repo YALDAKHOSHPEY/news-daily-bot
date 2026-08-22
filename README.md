@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 08:26:56
+**Last Update:** 2026-08-22 08:47:29
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Early Humans Likely Ate Carbs and Sugary Foods
+### 1. 4 in 10 travellers visit tourist sites to capture social media content
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content">https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396620">https://news.ycombinator.com/item?id=49396620</a></p>
+<p>Points: 18</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
+
+---
+
+### 2. Early Humans Likely Ate Carbs and Sugary Foods
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396086">https://news.ycombinator.com/item?id=49396086</a></p>
-<p>Points: 17</p>
-<p># Comments: 26</p>
+<p>Points: 26</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 
 ---
 
-### 2. There's no reason for software to be slow anymore
+### 3. There's no reason for software to be slow anymore
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 182</p>
-<p># Comments: 144</p>
+<p>Points: 215</p>
+<p># Comments: 163</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
-
----
-
-### 3. Initial focus for our partnership with Motorola is a regular non-folding device
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 43</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
