@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 01:13:02
+**Last Update:** 2026-08-23 01:41:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403484">https://news.ycombinator.com/item?id=49403484</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/22/fast-hard-code/">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403228">https://news.ycombinator.com/item?id=49403228</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/22/fast-hard-code/](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Points: 21</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
@@ -97,7 +97,33 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. Israeli army and settlers injure several Palestinians across West Bank
+### 7. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss)
+
+---
+
+### 8. Open-air cinema brings movie nights back to Khartoum
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss)
+
+---
+
+### 9. Israeli army and settlers injure several Palestinians across West Bank
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss)
-
----
-
-### 8. US Postal Service shares mail-in ballot restrictions despite court ruling
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss)
-
----
-
-### 9. Iran grants permission for some Iraqi oil tankers to pass through Hormuz
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss)
 
 ---
 
