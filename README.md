@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 17:41:42
+**Last Update:** 2026-08-22 18:14:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/">https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399524">https://news.ycombinator.com/item?id=49399524</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Points: 50</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398904">https://news.ycombinator.com/item?id=49398904</a></p>
-<p>Points: 73</p>
-<p># Comments: 11</p>
+<p>Points: 92</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 
@@ -97,7 +97,33 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
+### 7. What did war with the US reveal about Iran’s weapons capabilities?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says production is ongoing, but details will not be revealed during war conditions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss)
+
+---
+
+### 8. Man Utd humiliated at Hull to open Premier League account
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss)
+
+---
+
+### 9. Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss)
-
----
-
-### 8. Indonesia bolsters troop numbers to combat Borneo wildfires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fires between January and July burned more than 200,000 hectares of land, says the government.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss)
-
----
-
-### 9. Is Trump making Latin America great again?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A right-wing wave is sweeping through the region and that is not good news.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss)
 
 ---
 
