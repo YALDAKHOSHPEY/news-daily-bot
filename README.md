@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 15:12:31
+**Last Update:** 2026-08-22 15:48:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398304">https://news.ycombinator.com/item?id=49398304</a></p>
-<p>Points: 159</p>
-<p># Comments: 77</p>
+<p>Points: 244</p>
+<p># Comments: 128</p>
 
 🔗 **Read more:** [https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398158">https://news.ycombinator.com/item?id=49398158</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
+<p>Points: 24</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://munderdiffl.in/">https://munderdiffl.in/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398152">https://news.ycombinator.com/item?id=49398152</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+<p>Points: 36</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://munderdiffl.in/](https://munderdiffl.in/)
 
@@ -97,7 +97,20 @@ Nine people are still missing after the attack which left 130 injured, including
 
 ---
 
-### 7. Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
+### 7. Usain Bolt’s 100m record broken at World Humanoid Robot Games
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt&#039;s 100m record in Beijing, says state media.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss)
+
+---
+
+### 8. Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Health authorities are warning that ‘approximately one person has been dying f
 
 ---
 
-### 8. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
+### 9. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Health authorities are warning that ‘approximately one person has been dying f
 The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus&#039;s exponential spread.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss)
-
----
-
-### 9. Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss)
 
 ---
 
