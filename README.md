@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 21:13:19
+**Last Update:** 2026-08-22 21:44:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/argofowl/status/2091150597374537729">https://twitter.com/argofowl/status/2091150597374537729</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401549">https://news.ycombinator.com/item?id=49401549</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Points: 35</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://twitter.com/argofowl/status/2091150597374537729](https://twitter.com/argofowl/status/2091150597374537729)
 
 ---
 
-### 3. Anthropic IPO filing will show AI backlash as a risk factor, sources say
+### 3. Learning about "The Unix Time-Sharing System"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401229">https://news.ycombinator.com/item?id=49401229</a></p>
-<p>Points: 28</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401122">https://news.ycombinator.com/item?id=49401122</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+🔗 **Read more:** [https://playtechnique.io/long/the-unix-time-sharing-system.html](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 
 ---
 
@@ -97,42 +97,42 @@ Four people are still missing after Friday's attack which killed 16 and left 130
 
 ---
 
-### 7. Seven killed, including two police officers, in UK ‘wrong-side’ car crash
+### 7. Israel’s Chief Rabbi says Palestinians are not a people and have no rights
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Accident follows similar crashes in Ireland where police highlighted social media trend driving in opposite direction.
+Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss)
 
 ---
 
-### 8. South Korea sending first container ship through Arctic route
+### 8. Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
+While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss)
 
 ---
 
-### 9. Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
+### 9. ‘Not a small issue’: People deported by US to Liberia face uncertain future
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
+Liberia&#039;s government announced the move on Tuesday, two days before the flight. Politicians say they were not consulted.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss)
 
 ---
 
