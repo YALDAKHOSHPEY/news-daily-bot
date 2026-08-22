@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 10:37:57
+**Last Update:** 2026-08-22 10:53:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 6</p>
+<p>Points: 20</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://developers.openai.com/api/docs/models/gpt-5.6-sol">https://developers.openai.com/api/docs/models/gpt-5.6-sol</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396590">https://news.ycombinator.com/item?id=49396590</a></p>
-<p>Points: 49</p>
-<p># Comments: 33</p>
+<p>Points: 58</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://developers.openai.com/api/docs/models/gpt-5.6-sol](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 309</p>
-<p># Comments: 216</p>
+<p>Points: 322</p>
+<p># Comments: 231</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -97,7 +97,20 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 
 ---
 
-### 7. China’s new moon mission could unlock secret of lunar ice: Why that matters
+### 7. Somalia child hunger crisis deepens after aid cuts, UNICEF says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss)
+
+---
+
+### 8. China’s new moon mission could unlock secret of lunar ice: Why that matters
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The Chang&#039;e-7 seeks to find out more about the water trapped within the moo
 
 ---
 
-### 8. ‘It was a tsunami’: Floods leave death trail in India’s Assam
+### 9. ‘It was a tsunami’: Floods leave death trail in India’s Assam
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The Chang&#039;e-7 seeks to find out more about the water trapped within the moo
 From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss)
-
----
-
-### 9. Inundated Philippine communities seek answers over flood control funds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss)
 
 ---
 
