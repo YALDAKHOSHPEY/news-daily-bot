@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 22:45:36
+**Last Update:** 2026-08-22 23:13:12
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. hdiutil is deprecated in macOS 27 Golden Gate
+### 1. NetBSD and My Life (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+
+---
+
+### 2. hdiutil is deprecated in macOS 27 Golden Gate
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
-### 2. Scrap
+### 3. Scrap
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
-
----
-
-### 3. Belgian car salesman becomes prince after DNA test proves royal parentage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 57</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-A pursuit of the car containing five teens had been called off shortly before, the BBC understands.
+PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. Carney: Canada will enact retaliatory US tariffs starting September 8
+### 7. Envoy says Israel did not give the US notice before strikes on Syrian base
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss)
+
+---
+
+### 8. Canada to match US tariffs “dollar for dollar,” PM Carney says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.&quot;
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss)
+
+---
+
+### 9. Carney: Canada will enact retaliatory US tariffs starting September 8
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss)
-
----
-
-### 8. Israel, Turkiye and the new regional reordering
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss)
-
----
-
-### 9. Swedish police identify 17-year-old girl as victim in school sword attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brinell School&#039;s principal says 18-year-old suspected of carrying out Friday&#039;s deadly sword attack was a student there.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss)
 
 ---
 
