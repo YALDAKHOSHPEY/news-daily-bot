@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 18:41:07
+**Last Update:** 2026-08-22 19:12:47
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs">https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399941">https://news.ycombinator.com/item?id=49399941</a></p>
-<p>Points: 15</p>
-<p># Comments: 8</p>
+<p>Points: 27</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399898">https://news.ycombinator.com/item?id=49399898</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 33</p>
-<p># Comments: 26</p>
+<p>Points: 60</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 
@@ -97,7 +97,20 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Israeli drone strike on ‘civilian vehicle’ injures several in Syria
+### 7. Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss)
+
+---
+
+### 8. Israeli drone strike on ‘civilian vehicle’ injures several in Syria
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&
 
 ---
 
-### 8. What did war with the US reveal about Iran’s weapons capabilities?
+### 9. What did war with the US reveal about Iran’s weapons capabilities?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&
 Iran says production is ongoing, but details will not be revealed during war conditions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss)
-
----
-
-### 9. Man Utd humiliated at Hull to open Premier League account
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss)
 
 ---
 
