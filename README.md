@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 23:41:29
+**Last Update:** 2026-08-23 00:15:37
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. NetBSD and My Life (2005)
+### 1. Knowing When to Stop: The Art of Making a Loop Converge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 18</p>
+<p>Article URL: <a href="https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403484">https://news.ycombinator.com/item?id=49403484</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+🔗 **Read more:** [https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
 
 ---
 
-### 2. hdiutil is deprecated in macOS 27 Golden Gate
+### 2. Fast and Hard Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 52</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/22/fast-hard-code/">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403228">https://news.ycombinator.com/item?id=49403228</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
+🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/22/fast-hard-code/](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 
 ---
 
-### 3. Scrap
+### 3. English ↔ Claudish Translator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
-<p>Points: 69</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
+<p>Points: 7</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
+🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
 ---
 
