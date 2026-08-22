@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 13:42:29
+**Last Update:** 2026-08-22 14:16:59
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 408</p>
-<p># Comments: 298</p>
+<p>Points: 421</p>
+<p># Comments: 303</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 112</p>
-<p># Comments: 40</p>
+<p>Points: 116</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
-<p>Points: 50</p>
-<p># Comments: 8</p>
+<p>Points: 51</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-"A number of patients died at the scene" after the collision near Middlesbrough, ambulance officials say, and the police watchdog has opened an investigation.
+"A number of patients died at the scene" after the collision near Middlesbrough, ambulance officials say, as the police watchdog opens an investigation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 6. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
+Nine people are still missing after the attack which left 130 injured, including a number of children.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran says new US sanctions violate sovereignty of other states
+### 7. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colonialism&#039;.
+The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus&#039;s exponential spread.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss)
 
 ---
 
-### 8. Australia bite back as 18 wickets fall on day one of second Bangladesh Test
+### 8. Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
+Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss)
 
 ---
 
-### 9. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+### 9. Manchester City preview: Five key questions heading into 2026-27 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.
+Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss)
 
 ---
 
