@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 06:42:57
+**Last Update:** 2026-08-22 07:03:43
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. There's no reason for software to be slow anymore
+### 1. Early Humans Likely Ate Carbs and Sugary Foods
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396086">https://news.ycombinator.com/item?id=49396086</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
+
+---
+
+### 2. There's no reason for software to be slow anymore
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 92</p>
-<p># Comments: 91</p>
+<p>Points: 110</p>
+<p># Comments: 115</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
 ---
 
-### 2. Initial focus for our partnership with Motorola is a regular non-folding device
+### 3. Initial focus for our partnership with Motorola is a regular non-folding device
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 24</p>
-<p># Comments: 8</p>
+<p>Points: 28</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
-
----
-
-### 3. HN: The Good Parts (2016)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
 ---
 
@@ -71,16 +71,16 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 
 ---
 
-### 5. Prince Harry and six others face privacy case legal bill of up to £34.5m
+### 5. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.
+The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
 
 ---
 
