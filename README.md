@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 17:19:39
+**Last Update:** 2026-08-22 17:41:42
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week
+### 1. The New MCP Roadmap
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+
+---
+
+### 2. A Kantian Critique of "Sorry" by Justin Bieber
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/">https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399524">https://news.ycombinator.com/item?id=49399524</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
+
+---
+
+### 3. Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398904">https://news.ycombinator.com/item?id=49398904</a></p>
-<p>Points: 52</p>
-<p># Comments: 2</p>
+<p>Points: 73</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
-
----
-
-### 2. Canada suspends trade negotiations with USA and match tariffs dollar for dollar
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398304">https://news.ycombinator.com/item?id=49398304</a></p>
-<p>Points: 445</p>
-<p># Comments: 347</p>
-
-🔗 **Read more:** [https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
-
----
-
-### 3. Z80–The 1970s Microprocessor Still Alive
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398158">https://news.ycombinator.com/item?id=49398158</a></p>
-<p>Points: 47</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 
 ---
 
@@ -97,7 +97,20 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Indonesia bolsters troop numbers to combat Borneo wildfires
+### 7. Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss)
+
+---
+
+### 8. Indonesia bolsters troop numbers to combat Borneo wildfires
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Fires between January and July burned more than 200,000 hectares of land, says t
 
 ---
 
-### 8. Is Trump making Latin America great again?
+### 9. Is Trump making Latin America great again?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Fires between January and July burned more than 200,000 hectares of land, says t
 A right-wing wave is sweeping through the region and that is not good news.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss)
-
----
-
-### 9. Jewish activists push back against Israeli settlers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss)
 
 ---
 
