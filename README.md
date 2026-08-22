@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 03:15:03
+**Last Update:** 2026-08-22 04:07:56
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: OzBrain, a shared brain for knowledge between agents and your team
+### 1. Paul Atkins Misreads Adam Smith and the American Founding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/">https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395040">https://news.ycombinator.com/item?id=49395040</a></p>
+<p>Points: 37</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/](https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/)
+
+---
+
+### 2. Electric shock gloves in use by police departments in Bellevue, Omaha
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/">https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394985">https://news.ycombinator.com/item?id=49394985</a></p>
+<p>Points: 20</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/)
+
+---
+
+### 3. Show HN: OzBrain, a shared brain for knowledge between agents and your team
 
 **Source:** Hacker News
 
@@ -30,42 +62,10 @@
 Bubs.co</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394827">https://news.ycombinator.com/item?id=49394827</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://ozbrain.com](https://ozbrain.com)
-
----
-
-### 2. Three important steps in my maturation process
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394496">https://news.ycombinator.com/item?id=49394496</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-
----
-
-### 3. 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e">https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394373">https://news.ycombinator.com/item?id=49394373</a></p>
-<p>Points: 26</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 
 ---
 
@@ -108,42 +108,42 @@ Students like Jessica say they worry about missing out on student life, but feel
 
 ---
 
-### 7. US debt tops $40 trillion, Americans left with the bill
+### 7. Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.
+Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss)
 
 ---
 
-### 8. Pakistan’s Imran Khan back to prison after evaluation at hospital
+### 8. Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
+US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss)
 
 ---
 
-### 9. US Vice President JD Vance holds midterm election rally in Ohio hometown
+### 9. Myanmar military bombing kills 14 at Buddhist monastery, opposition reports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The vice president&#039;s speech hinged heavily on economic themes, as voter confidence slips for Republican policies.
+More than 100 people were in the monastery for a religious retreat, according to a local resident.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss)
 
 ---
 
