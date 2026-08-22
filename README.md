@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 15:48:00
+**Last Update:** 2026-08-22 16:37:22
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Canada suspends trade negotiations with USA and match tariffs dollar for dollar
+### 1. Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398904">https://news.ycombinator.com/item?id=49398904</a></p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
+
+---
+
+### 2. Canada suspends trade negotiations with USA and match tariffs dollar for dollar
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398304">https://news.ycombinator.com/item?id=49398304</a></p>
-<p>Points: 244</p>
-<p># Comments: 128</p>
+<p>Points: 394</p>
+<p># Comments: 263</p>
 
 🔗 **Read more:** [https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 
 ---
 
-### 2. Z80–The 1970s Microprocessor Still Alive
+### 3. Z80–The 1970s Microprocessor Still Alive
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398158">https://news.ycombinator.com/item?id=49398158</a></p>
-<p>Points: 24</p>
-<p># Comments: 9</p>
+<p>Points: 38</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 
 ---
 
-### 3. Munder Difflin – Agent harness to run an office of your clones
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://munderdiffl.in/">https://munderdiffl.in/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398152">https://news.ycombinator.com/item?id=49398152</a></p>
-<p>Points: 36</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://munderdiffl.in/](https://munderdiffl.in/)
-
----
-
-### 4. Multiple deaths after police vehicle and car crash during pursuit
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-"A number of patients died at the scene" after the collision near Middlesbrough, ambulance officials say, as the police watchdog opens an investigation.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 6. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike
+### 5. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nine people are still missing after the attack which left 130 injured, including a number of children.
+Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Usain Bolt’s 100m record broken at World Humanoid Robot Games
+### 6. How this 1960s ex-council house is managing to stay cool without air con
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt&#039;s 100m record in Beijing, says state media.
+The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
+### 7. Jewish activists push back against Israeli settlers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.
+Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss)
 
 ---
 
-### 9. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
+### 8. CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus&#039;s exponential spread.
+The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss)
+
+---
+
+### 9. The Berlin Wall separated his family. Its legacy still endures
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss)
 
 ---
 
