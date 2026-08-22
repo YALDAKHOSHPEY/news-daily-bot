@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 12:24:14
+**Last Update:** 2026-08-22 12:47:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 67</p>
-<p># Comments: 26</p>
+<p>Points: 79</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 372</p>
-<p># Comments: 270</p>
+<p>Points: 388</p>
+<p># Comments: 276</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 107</p>
-<p># Comments: 36</p>
+<p>Points: 109</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
-### 4. Multiple deaths after collision between police vehicle and car
+### 4. Multiple deaths after crash between police vehicle and car
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say they are working to identify the victims and contact their families after the crash on Teesside.
+"A number of patients died at the scene", ambulance officials say, after the collision near Middlesbrough.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
