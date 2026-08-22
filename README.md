@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 00:41:54
+**Last Update:** 2026-08-23 01:13:02
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403484">https://news.ycombinator.com/item?id=49403484</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/22/fast-hard-code/">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403228">https://news.ycombinator.com/item?id=49403228</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/22/fast-hard-code/](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 10</p>
-<p># Comments: 9</p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
@@ -97,7 +97,20 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. US Postal Service shares mail-in ballot restrictions despite court ruling
+### 7. Israeli army and settlers injure several Palestinians across West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss)
+
+---
+
+### 8. US Postal Service shares mail-in ballot restrictions despite court ruling
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US President Donald Trump has called for restrictions on mail-in voting as part 
 
 ---
 
-### 8. Iran grants permission for some Iraqi oil tankers to pass through Hormuz
+### 9. Iran grants permission for some Iraqi oil tankers to pass through Hormuz
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US President Donald Trump has called for restrictions on mail-in voting as part 
 Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss)
-
----
-
-### 9. Why is Israel building new illegal settlements?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel opens construction bids for new illegal housing units in the occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss)
 
 ---
 
