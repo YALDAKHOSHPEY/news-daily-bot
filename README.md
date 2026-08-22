@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 13:18:19
+**Last Update:** 2026-08-22 13:42:29
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 402</p>
-<p># Comments: 291</p>
+<p>Points: 408</p>
+<p># Comments: 298</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
 <p>Points: 112</p>
-<p># Comments: 39</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -58,14 +58,14 @@
 
 ---
 
-### 4. Multiple deaths after crash between police vehicle and car
+### 4. Multiple deaths after police vehicle and car crash during pursuit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"A number of patients died at the scene", ambulance officials say, after the collision near Middlesbrough.
+"A number of patients died at the scene" after the collision near Middlesbrough, ambulance officials say, and the police watchdog has opened an investigation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
