@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 10:53:02
+**Last Update:** 2026-08-22 11:21:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 20</p>
-<p># Comments: 0</p>
+<p>Points: 34</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 
 ---
 
-### 2. GPT 5.6 Sol 20% price reduction
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developers.openai.com/api/docs/models/gpt-5.6-sol">https://developers.openai.com/api/docs/models/gpt-5.6-sol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396590">https://news.ycombinator.com/item?id=49396590</a></p>
-<p>Points: 58</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://developers.openai.com/api/docs/models/gpt-5.6-sol](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
-
----
-
-### 3. There's no reason for software to be slow anymore
+### 2. There's no reason for software to be slow anymore
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 322</p>
-<p># Comments: 231</p>
+<p>Points: 344</p>
+<p># Comments: 249</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
+
+---
+
+### 3. Initial focus for our partnership with Motorola is a regular non-folding device
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
+<p>Points: 102</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
