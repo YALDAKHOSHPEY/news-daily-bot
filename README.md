@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 20:42:12
+**Last Update:** 2026-08-23 21:12:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -71,20 +71,7 @@ Officers had been pursing a car before it went the wrong way down a dual carriag
 
 ---
 
-### 5. Trump says Canada wants 'benefits' of being US state after trade talks collapse
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. CrossCountry cancels 'almost all' UK services after power cut
+### 5. CrossCountry cancels 'almost all' UK services after power cut
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 
 ---
 
-### 7. French President Macron to host Saudi Crown Prince MBS in Paris for talks
+### 6. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Photos: Ukraine celebrates National Flag Day
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+People observe a minute of silence for those killed in war to mark the holiday established in 2004.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss)
+
+---
+
+### 8. LIVE: Elche vs Barcelona – La Liga
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss)
+
+---
+
+### 9. French President Macron to host Saudi Crown Prince MBS in Paris for talks
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman&#039;s discussions.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss)
-
----
-
-### 8. Can Nigeria cash in on Iran war?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss)
-
----
-
-### 9. Canada, US and tit-for-tat tariffs: How will they impact their economies?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss)
 
 ---
 
