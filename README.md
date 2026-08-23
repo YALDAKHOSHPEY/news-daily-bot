@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 22:44:43
+**Last Update:** 2026-08-23 23:12:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Palestinian teen killed in Israeli raid buried in Occupied West Bank
+### 7. Zhou Bo: China’s alternative to Western power
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senior Colonel Zhou Bo and Sreenivasan Jain discuss China&#039;s vision of a fairer, multipolar world and work towards that.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss)
+
+---
+
+### 8. Palestinian teen killed in Israeli raid buried in Occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was k
 
 ---
 
-### 8. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
+### 9. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was k
 Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss)
-
----
-
-### 9. Trump has ‘run out of options’ in Iran war: Stephen Walt
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss)
 
 ---
 
