@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 02:15:15
+**Last Update:** 2026-08-24 02:40:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -84,16 +84,16 @@ Officers had been pursing a car before it went the wrong way down a dual carriag
 
 ---
 
-### 6. CrossCountry to provide full service on Monday after major disruption
+### 6. Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-CrossCountry says its "key priority" is now restoring as close to a normal service as possible.
+It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
