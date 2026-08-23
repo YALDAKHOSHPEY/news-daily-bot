@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 21:44:27
+**Last Update:** 2026-08-23 22:24:23
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -97,7 +97,33 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Tunisia sees protests after migrant boat sinking kills eight
+### 7. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss)
+
+---
+
+### 8. Trump has ‘run out of options’ in Iran war: Stephen Walt
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss)
+
+---
+
+### 9. Tunisia sees protests after migrant boat sinking kills eight
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 A migrant boat carrying 15 Tunisians sank off the country&#039;s southeastern coast while heading to Italy, killing eight.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss)
-
----
-
-### 8. Thousands displaced as wildfire threatens homes in US state of Nevada
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss)
-
----
-
-### 9. Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-House Speaker Mike Johnson, a Trump ally, admits it &#039;would be helpful&#039; if conflict ends before elections in November.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss)
 
 ---
 
