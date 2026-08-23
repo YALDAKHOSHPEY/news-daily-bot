@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 03:12:14
+**Last Update:** 2026-08-23 04:10:48
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 32</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 41</p>
-<p># Comments: 22</p>
+<p>Points: 46</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 84</p>
-<p># Comments: 21</p>
+<p>Points: 86</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
@@ -97,7 +97,33 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Iran warns nearby nations against joining US ‘economic war’ efforts
+### 7. Iran war live: Tehran warns neighbours against joining US economic war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss)
+
+---
+
+### 8. Iran threatens countries that join US ‘economic D-Day’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
+
+---
+
+### 9. Iran warns nearby nations against joining US ‘economic war’ efforts
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Industry body Energy UK says the current support for households most in need doe
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss)
-
----
-
-### 8. Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss)
-
----
-
-### 9. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss)
 
 ---
 
