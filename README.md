@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 10:55:01
+**Last Update:** 2026-08-23 11:24:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
+<p>Points: 49</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Points: 33</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
-<p>Points: 31</p>
-<p># Comments: 1</p>
+<p>Points: 47</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 
@@ -97,7 +97,20 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
+### 7. Infantino defies FIFA vice president, makes appearance in the Caribbean
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss)
+
+---
+
+### 8. Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The 23-time Grand Slam champion will not be playing singles, but could team up w
 
 ---
 
-### 8. Starc takes 10 as Australia hand Bangladesh innings defeat in second Test
+### 9. Starc takes 10 as Australia hand Bangladesh innings defeat in second Test
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The 23-time Grand Slam champion will not be playing singles, but could team up w
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss)
-
----
-
-### 9. Pegula dethrones Swiatek to book Cincinnati final against Gauff
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The women’s all-American final will be followed by a men&#039;s title clash between Frances Tiafoe and Arthur Fils of France.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss)
 
 ---
 
