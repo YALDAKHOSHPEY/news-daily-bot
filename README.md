@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 15:12:38
+**Last Update:** 2026-08-23 15:48:33
 
 **Total News:** 12
 
@@ -10,23 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. 'AI refuser' quit her dream job, and hopes others follow
+### 1. Sydney Marathon medal mistakenly depicts Munich stadium
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html">https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407785">https://news.ycombinator.com/item?id=49407785</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
+<p>Points: 13</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 
 ---
 
-### 2. The Sloppification of Peptides
+### 2. I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407507">https://news.ycombinator.com/item?id=49407507</a></p>
+<p>Points: 34</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
+
+---
+
+### 3. The Sloppification of Peptides
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
-<p>Points: 35</p>
-<p># Comments: 7</p>
+<p>Points: 43</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
-
----
-
-### 3. Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://skylens.yantraai.app/">https://skylens.yantraai.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407309">https://news.ycombinator.com/item?id=49407309</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://skylens.yantraai.app/](https://skylens.yantraai.app/)
 
 ---
 
@@ -97,7 +97,33 @@ The sacked former defence minister has also called for elections to be held in U
 
 ---
 
-### 7. Explosion injures 13 in Taiwan
+### 7. Can Iran retaliate against countries that join US ‘economic war’?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s security chief has warned of retaliation against countries joining US ‘economic war&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss)
+
+---
+
+### 8. Sydney Marathon organisers not running away from ‘unfortunate’ medal error
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The medal features the Allianz Arena in Munich, instead of Sydney&#039;s Allianz Stadium, as one of the city&#039;s landmarks.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss)
+
+---
+
+### 9. Explosion injures 13 in Taiwan
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The sacked former defence minister has also called for elections to be held in U
 Explosion injures 13 in Taiwan
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss)
-
----
-
-### 8. Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss)
-
----
-
-### 9. Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-&#039;Vinicius is no saint, but what they&#039;re doing to him was ​too much,&#039; Mourinho said after Real&#039;s first match of La Liga.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss)
 
 ---
 
