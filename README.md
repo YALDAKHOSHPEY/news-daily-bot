@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 12:48:14
+**Last Update:** 2026-08-23 13:19:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://erikengdahl.se/autism/isnt/">https://erikengdahl.se/autism/isnt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407143">https://news.ycombinator.com/item?id=49407143</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://erikengdahl.se/autism/isnt/](https://erikengdahl.se/autism/isnt/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 86</p>
-<p># Comments: 72</p>
+<p>Points: 92</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 52</p>
-<p># Comments: 11</p>
+<p>Points: 53</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
@@ -97,7 +97,20 @@ The sacked former defence minister has also called for elections to be held in U
 
 ---
 
-### 7. Israeli wounded in occupied West Bank stabbing
+### 7. Where water conflicts pose the biggest threat in 2026
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Water-related conflicts have nearly quadrupled since 2020. As World Water Week 2026 begins, Al Jazeera unpacks the data.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss)
+
+---
+
+### 8. Israeli wounded in occupied West Bank stabbing
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israeli forces launch wide search in Jordan Valley after a stabbing incident in 
 
 ---
 
-### 8. Flooding across Caracas, Venezuela, after heavy rains
+### 9. Flooding across Caracas, Venezuela, after heavy rains
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israeli forces launch wide search in Jordan Valley after a stabbing incident in 
 Flooding across Caracas, Venezuela, after heavy rains
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss)
-
----
-
-### 9. Photos: Russia celebrates National Flag Day amid war and tensions with the West
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss)
 
 ---
 
