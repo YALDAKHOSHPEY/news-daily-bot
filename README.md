@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 21:12:07
+**Last Update:** 2026-08-23 21:44:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -97,42 +97,42 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Photos: Ukraine celebrates National Flag Day
+### 7. Tunisia sees protests after migrant boat sinking kills eight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-People observe a minute of silence for those killed in war to mark the holiday established in 2004.
+A migrant boat carrying 15 Tunisians sank off the country&#039;s southeastern coast while heading to Italy, killing eight.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss)
 
 ---
 
-### 8. LIVE: Elche vs Barcelona – La Liga
+### 8. Thousands displaced as wildfire threatens homes in US state of Nevada
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
+A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss)
 
 ---
 
-### 9. French President Macron to host Saudi Crown Prince MBS in Paris for talks
+### 9. Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman&#039;s discussions.
+House Speaker Mike Johnson, a Trump ally, admits it &#039;would be helpful&#039; if conflict ends before elections in November.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss)
 
 ---
 
