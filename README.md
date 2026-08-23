@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 11:47:40
+**Last Update:** 2026-08-23 12:25:01
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 62</p>
-<p># Comments: 39</p>
+<p>Points: 83</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 41</p>
-<p># Comments: 4</p>
+<p>Points: 49</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
-<p>Points: 58</p>
-<p># Comments: 9</p>
+<p>Points: 69</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 
 ---
 
-### 4. Police officers killed in wrong-way crash mourned in 'unimaginable loss'
+### 4. Trump says Canada wants 'benefits' of being US state after trade talks collapse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle.
+Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 
 ---
 
-### 6. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+### 6. Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
+The sacked former defence minister has also called for elections to be held in Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kazakhstan holds parliamentary election expected to cement president’s grip
+### 7. Flooding across Caracas, Venezuela, after heavy rains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.
+Flooding across Caracas, Venezuela, after heavy rains
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss)
 
 ---
 
-### 8. Infantino defies FIFA vice president, makes appearance in the Caribbean
+### 8. Photos: Russia celebrates National Flag Day amid war and tensions with the West
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
+Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss)
 
 ---
 
-### 9. Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
+### 9. DR Congo, M23 rebels agree on roadmap for peace talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles.
+Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss)
 
 ---
 
