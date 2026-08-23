@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 18:16:39
+**Last Update:** 2026-08-23 18:42:18
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Death to px, long live ch
+### 1. Slovakia finds Russian backdoor in traffic speed cameras
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408889">https://news.ycombinator.com/item?id=49408889</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
-
----
-
-### 2. My favorite nonfiction books about cults, scams, and schemes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408858">https://news.ycombinator.com/item?id=49408858</a></p>
-<p>Points: 19</p>
+<p>Article URL: <a href="https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409200">https://news.ycombinator.com/item?id=49409200</a></p>
+<p>Points: 15</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+🔗 **Read more:** [https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 
 ---
 
-### 3. Malware infects Android-based automotive head unit firmware
+### 2. Authoritarianism of Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
-<p>Points: 74</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409184">https://news.ycombinator.com/item?id=49409184</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
+🔗 **Read more:** [https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+
+---
+
+### 3. What Is a Harness?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://earendil.com/posts/what-is-a-harness/">https://earendil.com/posts/what-is-a-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409092">https://news.ycombinator.com/item?id=49409092</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://earendil.com/posts/what-is-a-harness/](https://earendil.com/posts/what-is-a-harness/)
 
 ---
 
