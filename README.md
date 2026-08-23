@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 13:42:49
+**Last Update:** 2026-08-23 14:17:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tragically, as many as 9625 out of every 10k individuals may be neurotypical
+### 1. The Sloppification of Peptides
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://erikengdahl.se/autism/isnt/">https://erikengdahl.se/autism/isnt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407143">https://news.ycombinator.com/item?id=49407143</a></p>
-<p>Points: 44</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://erikengdahl.se/autism/isnt/](https://erikengdahl.se/autism/isnt/)
+🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 
 ---
 
-### 2. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
+### 2. Doomscrolling at work wastes time, but the real cost is what happens after
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407305">https://news.ycombinator.com/item?id=49407305</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
+
+---
+
+### 3. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 98</p>
-<p># Comments: 78</p>
+<p>Points: 107</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
-
----
-
-### 3. JIT Compiling Code in 5μs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 61</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
 ---
 
