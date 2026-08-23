@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 07:11:23
+**Last Update:** 2026-08-23 07:38:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. NanoGPT Speedrun Frontier
+### 1. The Art and Beauty of Blade Runner
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nappertime.com/the-art-of-and-beauty-of-blade-runner/">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405331">https://news.ycombinator.com/item?id=49405331</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://nappertime.com/the-art-of-and-beauty-of-blade-runner/](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+
+---
+
+### 2. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 57</p>
+<p>Points: 65</p>
 <p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
 
 ---
 
-### 2. NetBSD and my life (2005)
+### 3. NetBSD and my life (2005)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 101</p>
-<p># Comments: 25</p>
+<p>Points: 103</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-
----
-
-### 3. hdiutil is deprecated in macOS 27 Golden Gate
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
-<p>Points: 168</p>
-<p># Comments: 70</p>
-
-🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
 
 ---
 
@@ -97,7 +97,33 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
+### 7. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss)
+
+---
+
+### 8. In rural Chad, solar kiosks bring healthcare closer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss)
+
+---
+
+### 9. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Industry body Energy UK says the current support for households most in need doe
 A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
-
----
-
-### 8. Canada to hit US with retaliatory tariffs as trade war escalates
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss)
-
----
-
-### 9. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss)
 
 ---
 
