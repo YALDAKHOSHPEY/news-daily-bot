@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 14:17:53
+**Last Update:** 2026-08-23 14:42:31
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Sloppification of Peptides
+### 1. Canada now 'at war' with United States over trade, Prime Minister says
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/">https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407477">https://news.ycombinator.com/item?id=49407477</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
+
+---
+
+### 2. The Sloppification of Peptides
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
-<p>Points: 12</p>
+<p>Points: 19</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 
 ---
 
-### 2. Doomscrolling at work wastes time, but the real cost is what happens after
+### 3. Doomscrolling at work wastes time, but the real cost is what happens after
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407305">https://news.ycombinator.com/item?id=49407305</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
-
----
-
-### 3. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 107</p>
-<p># Comments: 86</p>
-
-🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
 ---
 
@@ -97,42 +97,42 @@ The sacked former defence minister has also called for elections to be held in U
 
 ---
 
-### 7. How the deadliest Bundibugyo Ebola outbreak can be stopped
+### 7. Syria foreign minister says door open for diplomacy with Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.
+Asaad al-Shaibani urges Israel to seize &#039;historic opportunity&#039; for diplomacy.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss)
 
 ---
 
-### 8. Israeli air strike near Gaza refugee camp kills one person and injures two
+### 8. Far-right provocateur Jake Lang arrested after Minneapolis riot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.
+Far-right influencer Jake Lang was arrested after clashes erupted at his rally outside Minneapolis City Hall.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss)
 
 ---
 
-### 9. 37 injured as magnitude 5.9 earthquake strikes eastern Japan
+### 9. South Africa’s former boxing champion Tete shot dead outside home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-37 injured as magnitude 5.9 earthquake strikes eastern Japan
+South Africa&#039;s former boxing champion Tete shot dead outside home
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss)
 
 ---
 
