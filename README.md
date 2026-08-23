@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 01:12:53
+**Last Update:** 2026-08-24 01:41:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -97,7 +97,20 @@ CrossCountry says its "key priority" is now restoring as close to a normal servi
 
 ---
 
-### 7. Will Donald Trump’s new sanctions against Iran work?
+### 7. Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss)
+
+---
+
+### 8. Will Donald Trump’s new sanctions against Iran work?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The US president says he will impose &#039;crushing measures&#039; on Tehran.
 
 ---
 
-### 8. Serbia requests international assistance to battle wildfires
+### 9. Serbia requests international assistance to battle wildfires
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The US president says he will impose &#039;crushing measures&#039; on Tehran.
 Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss)
-
----
-
-### 9. US envoy Tom Barrack retracts comment that Syria’s Golan is occupied
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ambassador to Turkiye says US policy of recognising Israel&#039;s claimed sovereignty over Syrian territory is &#039;unchanged&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss)
 
 ---
 
