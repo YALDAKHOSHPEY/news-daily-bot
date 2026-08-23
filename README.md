@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 14:42:31
+**Last Update:** 2026-08-23 15:12:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Canada now 'at war' with United States over trade, Prime Minister says
+### 1. 'AI refuser' quit her dream job, and hopes others follow
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/">https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407477">https://news.ycombinator.com/item?id=49407477</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html">https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407785">https://news.ycombinator.com/item?id=49407785</a></p>
+<p>Points: 10</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
+🔗 **Read more:** [https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Points: 35</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 
 ---
 
-### 3. Doomscrolling at work wastes time, but the real cost is what happens after
+### 3. Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407305">https://news.ycombinator.com/item?id=49407305</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://skylens.yantraai.app/">https://skylens.yantraai.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407309">https://news.ycombinator.com/item?id=49407309</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
+🔗 **Read more:** [https://skylens.yantraai.app/](https://skylens.yantraai.app/)
 
 ---
 
@@ -97,42 +97,42 @@ The sacked former defence minister has also called for elections to be held in U
 
 ---
 
-### 7. Syria foreign minister says door open for diplomacy with Israel
+### 7. Explosion injures 13 in Taiwan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Asaad al-Shaibani urges Israel to seize &#039;historic opportunity&#039; for diplomacy.
+Explosion injures 13 in Taiwan
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss)
 
 ---
 
-### 8. Far-right provocateur Jake Lang arrested after Minneapolis riot
+### 8. Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Far-right influencer Jake Lang was arrested after clashes erupted at his rally outside Minneapolis City Hall.
+The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss)
 
 ---
 
-### 9. South Africa’s former boxing champion Tete shot dead outside home
+### 9. Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Africa&#039;s former boxing champion Tete shot dead outside home
+&#039;Vinicius is no saint, but what they&#039;re doing to him was ​too much,&#039; Mourinho said after Real&#039;s first match of La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss)
 
 ---
 
