@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 04:10:48
+**Last Update:** 2026-08-23 05:37:19
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NanoGPT Speedrun Frontier
+### 1. Software Engineering in the Agentic Era
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405117">https://news.ycombinator.com/item?id=49405117</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+
+---
+
+### 2. US Military newspaper editor voices censorship fears after being fired
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
+
+---
+
+### 3. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 32</p>
-<p># Comments: 6</p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
-
----
-
-### 2. English ↔ Claudish Translator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 46</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
-
----
-
-### 3. NetBSD and my life (2005)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 86</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
 ---
 
