@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 05:47:55
+**Last Update:** 2026-08-23 06:57:29
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. US Military newspaper editor voices censorship fears after being fired
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
-<p>Points: 40</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
-
----
-
-### 2. NanoGPT Speedrun Frontier
+### 1. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 46</p>
-<p># Comments: 13</p>
+<p>Points: 56</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
 
 ---
 
-### 3. NetBSD and my life (2005)
+### 2. NetBSD and my life (2005)
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 98</p>
-<p># Comments: 24</p>
+<p>Points: 101</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
 ---
 
-### 4. Two police officers among seven killed in wrong-way car crash
+### 3. hdiutil is deprecated in macOS 27 Golden Gate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
+<p>Points: 168</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
+
+---
+
+### 4. Mayors to get powers to overrule local councils on planning decisions
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Housing minister Matthew Pennycook said the change was "essential" for helping mayors "effectively deliver new homes".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Two police officers among seven killed in wrong-way car crash
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Video appears to show police chase minutes before fatal A66 crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
+### 7. Canada to hit US with retaliatory tariffs as trade war escalates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss)
+
+---
+
+### 8. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
 
 ---
 
-### 8. Iran war live: Tehran warns neighbours against joining US economic war
+### 9. Iran war live: Tehran warns neighbours against joining US economic war
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
 Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss)
-
----
-
-### 9. Iran threatens countries that join US ‘economic D-Day’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
 
 ---
 
