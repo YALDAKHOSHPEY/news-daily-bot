@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 05:37:19
+**Last Update:** 2026-08-23 05:47:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Software Engineering in the Agentic Era
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405117">https://news.ycombinator.com/item?id=49405117</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
-
----
-
-### 2. US Military newspaper editor voices censorship fears after being fired
+### 1. US Military newspaper editor voices censorship fears after being fired
 
 **Source:** Hacker News
 
@@ -36,13 +20,13 @@
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
 <p>Points: 40</p>
-<p># Comments: 14</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
 
 ---
 
-### 3. NanoGPT Speedrun Frontier
+### 2. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 45</p>
+<p>Points: 46</p>
 <p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
+
+---
+
+### 3. NetBSD and my life (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
+<p>Points: 98</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
 ---
 
@@ -97,7 +97,20 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Iran war live: Tehran warns neighbours against joining US economic war
+### 7. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Tehran warns neighbours against joining US economic war
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Official says any state joining US would be considered an enemy and Tehran would
 
 ---
 
-### 8. Iran threatens countries that join US ‘economic D-Day’
+### 9. Iran threatens countries that join US ‘economic D-Day’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Official says any state joining US would be considered an enemy and Tehran would
 Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
-
----
-
-### 9. Iran warns nearby nations against joining US ‘economic war’ efforts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss)
 
 ---
 
