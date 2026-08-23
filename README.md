@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 16:55:00
+**Last Update:** 2026-08-23 17:21:04
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
-<p>Points: 52</p>
-<p># Comments: 29</p>
+<p>Points: 59</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407509">https://news.ycombinator.com/item?id=49407509</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Points: 28</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 
