@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 02:40:57
+**Last Update:** 2026-08-24 03:12:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -84,16 +84,16 @@ Officers had been pursing a car before it went the wrong way down a dual carriag
 
 ---
 
-### 6. Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+### 6. How easy is it to find an NHS dentist? It depends where you live
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
+Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
