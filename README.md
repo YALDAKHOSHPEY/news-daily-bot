@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 17:43:52
+**Last Update:** 2026-08-23 18:16:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Malware infects Android-based automotive head unit firmware
+### 1. Death to px, long live ch
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408889">https://news.ycombinator.com/item?id=49408889</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
+
+---
+
+### 2. My favorite nonfiction books about cults, scams, and schemes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408858">https://news.ycombinator.com/item?id=49408858</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+
+---
+
+### 3. Malware infects Android-based automotive head unit firmware
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
-<p>Points: 58</p>
-<p># Comments: 16</p>
+<p>Points: 74</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
-
----
-
-### 2. Sydney Marathon medal mistakenly depicts Munich stadium
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
-<p>Points: 71</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
-
----
-
-### 3. Iranian hackers shut down UK power plant for 4 days
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407509">https://news.ycombinator.com/item?id=49407509</a></p>
-<p>Points: 39</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 
 ---
 
@@ -97,7 +97,20 @@ Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.
 
 ---
 
-### 7. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+### 7. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss)
+
+---
+
+### 8. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 
 ---
 
-### 8. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+### 9. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss)
-
----
-
-### 9. Chelsea preview: Five key talking points for 2026-27 Premier League season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss)
 
 ---
 
