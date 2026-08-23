@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 12:25:01
+**Last Update:** 2026-08-23 12:48:14
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
+### 1. Tragically, as many as 9625 out of every 10k individuals may be neurotypical
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://erikengdahl.se/autism/isnt/">https://erikengdahl.se/autism/isnt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407143">https://news.ycombinator.com/item?id=49407143</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://erikengdahl.se/autism/isnt/](https://erikengdahl.se/autism/isnt/)
+
+---
+
+### 2. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 83</p>
-<p># Comments: 67</p>
+<p>Points: 86</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
 ---
 
-### 2. JIT Compiling Code in 5μs
+### 3. JIT Compiling Code in 5μs
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 49</p>
-<p># Comments: 9</p>
+<p>Points: 52</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
-
----
-
-### 3. The End of an Athlon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
-<p>Points: 69</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 
 ---
 
@@ -97,7 +97,20 @@ The sacked former defence minister has also called for elections to be held in U
 
 ---
 
-### 7. Flooding across Caracas, Venezuela, after heavy rains
+### 7. Israeli wounded in occupied West Bank stabbing
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss)
+
+---
+
+### 8. Flooding across Caracas, Venezuela, after heavy rains
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Flooding across Caracas, Venezuela, after heavy rains
 
 ---
 
-### 8. Photos: Russia celebrates National Flag Day amid war and tensions with the West
+### 9. Photos: Russia celebrates National Flag Day amid war and tensions with the West
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Flooding across Caracas, Venezuela, after heavy rains
 Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss)
-
----
-
-### 9. DR Congo, M23 rebels agree on roadmap for peace talks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss)
 
 ---
 
