@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 07:56:45
+**Last Update:** 2026-08-23 08:28:59
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Art and Beauty of Blade Runner
+### 1. Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nappertime.com/the-art-of-and-beauty-of-blade-runner/">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405331">https://news.ycombinator.com/item?id=49405331</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406069">https://news.ycombinator.com/item?id=49406069</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nappertime.com/the-art-of-and-beauty-of-blade-runner/](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
 
 ---
 
-### 2. NanoGPT Speedrun Frontier
+### 2. The Covid-19 scandal is still unfolding
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 65</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding">https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406021">https://news.ycombinator.com/item?id=49406021</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
+🔗 **Read more:** [https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding](https://www.economist.com/united-states/2026/08/20/the-real-covid-19-scandal-is-still-unfolding)
 
 ---
 
-### 3. NetBSD and my life (2005)
+### 3. Microsoft Blames Windows Gaming Issues on RGB Lighting Devices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 103</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/">https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405895">https://news.ycombinator.com/item?id=49405895</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+🔗 **Read more:** [https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 
 ---
 
