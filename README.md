@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 17:40:42
+**Last Update:** 2026-08-24 18:01:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -97,7 +97,20 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 7. Rain and flooding from Typhoon Narra hits China and Vietnam
+### 7. Algeria’s schools put Shakespeare before Molière in break from France
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss)
+
+---
+
+### 8. Rain and flooding from Typhoon Narra hits China and Vietnam
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rain and flooding from Typhoon Narra hits China and Vietnam
 
 ---
 
-### 8. ‘Barrel bomb mufti’ sentenced to life in Syria
+### 9. ‘Barrel bomb mufti’ sentenced to life in Syria
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rain and flooding from Typhoon Narra hits China and Vietnam
 ‘Barrel bomb mufti’ sentenced to life in Syria
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
-
----
-
-### 9. Saudi Arabia’s MBS visits Macron in France: What to expect
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi crown prince and French president are set to sign several agreements on health, transport and energy.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss)
 
 ---
 
