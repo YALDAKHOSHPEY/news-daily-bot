@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 00:49:18
+**Last Update:** 2026-08-25 01:21:02
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Claude Code skill that recovers export-blocked Kindle highlights
+### 1. One corner of China’s internet is insisting that the Tang Dynasty never existed
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/l3a0/claude-plugins">https://github.com/l3a0/claude-plugins</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424758">https://news.ycombinator.com/item?id=49424758</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
+<p>Points: 35</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://github.com/l3a0/claude-plugins](https://github.com/l3a0/claude-plugins)
+🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
 ---
 
-### 2. Oceans hit highest temperature on record
+### 2. Vintage Artificial Intelligence: Before It Got Awkward
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425800">https://news.ycombinator.com/item?id=49425800</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
+
+---
+
+### 3. Oceans hit highest temperature on record
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
-<p>Points: 200</p>
-<p># Comments: 81</p>
+<p>Points: 248</p>
+<p># Comments: 118</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
-
----
-
-### 3. LLMs could control their host machines by exploiting inference engines
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 44</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 
 ---
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. What’s behind domestic political pressure on Ukraine’s president?
+### 7. Displaced Palestinians in Gaza face intensifying Israeli strikes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss)
+
+---
+
+### 8. What’s behind domestic political pressure on Ukraine’s president?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Zelenskyy rejects call from sacked minister for wartime elections.
 
 ---
 
-### 8. Video: Iran reacts to US ‘economic D-Day’ sanctions
+### 9. Video: Iran reacts to US ‘economic D-Day’ sanctions
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Zelenskyy rejects call from sacked minister for wartime elections.
 Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss)
-
----
-
-### 9. Ceasefire monitoring mission arrives in Democratic Republic of Congo
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fighting persists in the mineral-rich region despite ceasefire agreements.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss)
 
 ---
 
