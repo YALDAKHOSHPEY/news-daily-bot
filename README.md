@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 11:04:38
+**Last Update:** 2026-08-24 11:19:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -97,7 +97,33 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. The right to health in Gaza is now a privilege
+### 7. How much more are you spending on petrol since the war in Iran began?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss)
+
+---
+
+### 8. EU, Russian aircraft help Serbia battle wildfires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss)
+
+---
+
+### 9. The right to health in Gaza is now a privilege
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss)
-
----
-
-### 8. Canada-US trade war: Who wins? Who loses?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss)
-
----
-
-### 9. Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss)
 
 ---
 
