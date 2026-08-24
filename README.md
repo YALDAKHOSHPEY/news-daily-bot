@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 13:06:24
+**Last Update:** 2026-08-24 13:39:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 4. Social media firms should remove dangerous driving videos, minister says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Defence minister Luke Pollard says "there's no place" for social media trend showing people driving the wrong way down roads.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 5. Tesla recalls nearly three million cars in China over hidden door handles
+### 6. Tesla recalls nearly three million cars in China over hidden door handles
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 6. 'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
+### 7. US military says strike on alleged drug-smuggling boat kills two
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
+US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss)
 
 ---
 
-### 8. US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
+### 8. Dozens of coordinated arson attacks carried out across Thailand
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Exerting maximum economic pressure on Tehran would risk blowback from Beijing.
+Dozens of coordinated arson attacks carried out across Thailand
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
 
 ---
 
-### 9. Mercedes no longer have the fastest car in F1, says leader Antonelli
+### 9. Macron and MBS attend Esports World Cup closing ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-McLaren&#039;s reigning champion Lando Norris celebrates his second win in a row from pole position at Zandvoort.
+Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss)
 
 ---
 
