@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 03:12:19
+**Last Update:** 2026-08-24 04:09:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -97,7 +97,33 @@ Nearly 600 practices in England have withdrawn from NHS dentistry over the last 
 
 ---
 
-### 7. Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
+### 7. Tokayev allies head for landslide victory in Kazakhstan elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Iranian parliament advances plans for Hormuz service fees
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for services provided by Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss)
+
+---
+
+### 9. Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Nearly 600 practices in England have withdrawn from NHS dentistry over the last 
 Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss)
-
----
-
-### 8. Will Donald Trump’s new sanctions against Iran work?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president says he will impose &#039;crushing measures&#039; on Tehran.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss)
-
----
-
-### 9. Serbia requests international assistance to battle wildfires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss)
 
 ---
 
