@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 02:43:56
+**Last Update:** 2026-08-25 03:13:29
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 79</p>
-<p># Comments: 17</p>
+<p>Points: 116</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=49426466</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 51</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://ciechanow.ski/moon/](https://ciechanow.ski/moon/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 84</p>
-<p># Comments: 61</p>
+<p>Points: 93</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
