@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 15:56:10
+**Last Update:** 2026-08-24 16:58:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -58,20 +58,33 @@
 
 ---
 
-### 4. Social media firms should remove dangerous driving videos, minister says
+### 4. Sharing dangerous driving videos is 'truly reprehensible', PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Defence minister Luke Pollard says "there's no place" for social media trend showing people driving the wrong way down roads.
+His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Graduate job vacancies drop by almost 50% in a year, survey suggests
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Job site Adzuna said the number of graduate vacancies was the lowest since 2016
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Israel accused of using kites as pretext to justify escalating Gaza attacks
+### 7. ‘Barrel bomb mufti’ sentenced to life in Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.
+‘Barrel bomb mufti’ sentenced to life in Syria
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
 
 ---
 
-### 8. Cambuur fans suffer burns as fireworks set off during Dutch league match
+### 8. Saudi Arabia’s MBS visits Macron in France: What to expect
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Game resumed despite injuries to home fans, but it would have been abandoned if a player or match official had been hit.
+Saudi crown prince and French president are set to sign several agreements on health, transport and energy.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss)
 
 ---
 
-### 9. Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry
+### 9. Four arrested over fatal shooting of South African boxer Zolani Tete
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea&#039;s capital.
+Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss)
 
 ---
 
