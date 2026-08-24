@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 18:01:54
+**Last Update:** 2026-08-24 18:37:45
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -58,16 +58,16 @@
 
 ---
 
-### 4. Sharing dangerous driving videos is 'truly reprehensible', PM says
+### 4. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.
+It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 7. Algeria’s schools put Shakespeare before Molière in break from France
+### 7. Houses set on fire as fresh violence erupts in India’s Manipur
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss)
+
+---
+
+### 8. Algeria’s schools put Shakespeare before Molière in break from France
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Algerian primary schools will begin teaching English before French for the first
 
 ---
 
-### 8. Rain and flooding from Typhoon Narra hits China and Vietnam
+### 9. Rain and flooding from Typhoon Narra hits China and Vietnam
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Algerian primary schools will begin teaching English before French for the first
 Rain and flooding from Typhoon Narra hits China and Vietnam
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss)
-
----
-
-### 9. ‘Barrel bomb mufti’ sentenced to life in Syria
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-‘Barrel bomb mufti’ sentenced to life in Syria
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
 
 ---
 
