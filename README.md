@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 08:38:50
+**Last Update:** 2026-08-24 08:59:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 4. Burnham visits Kyiv to reaffirm UK support for Ukraine
+### 4. Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv
 
 **Source:** BBC
 
