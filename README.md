@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 20:52:14
+**Last Update:** 2026-08-24 21:25:20
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -97,7 +97,33 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 
 ---
 
-### 7. Nearly one in two Ebola patients dying in DR Congo outbreak
+### 7. Japanese delegation seeks to soothe strained ties with China
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss)
+
+---
+
+### 8. Trump administration announces ‘economic D-day’ sanctions on Iran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss)
+
+---
+
+### 9. Nearly one in two Ebola patients dying in DR Congo outbreak
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss)
-
----
-
-### 8. Russia to seize poorly protected infrastructure as Ukraine barrage persists
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Owners could lose control of facilities if regulators find them too slow to repair damage.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss)
-
----
-
-### 9. Former snooker world champion Graeme Dott convicted of child sex abuse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss)
 
 ---
 
