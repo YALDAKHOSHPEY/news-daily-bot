@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 21:54:12
+**Last Update:** 2026-08-24 22:38:28
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Slovakia finds Russian backdoor in traffic speed cameras
+### 1. Removed all counters, replies, following/ers, timestamps, from textlog
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409200">https://news.ycombinator.com/item?id=49409200</a></p>
-<p>Points: 21</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
-
----
-
-### 2. Authoritarianism of Code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409184">https://news.ycombinator.com/item?id=49409184</a></p>
+<p>Article URL: <a href="https://textlog.cc/post/2059">https://textlog.cc/post/2059</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424167">https://news.ycombinator.com/item?id=49424167</a></p>
 <p>Points: 5</p>
-<p># Comments: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+🔗 **Read more:** [https://textlog.cc/post/2059](https://textlog.cc/post/2059)
 
 ---
 
-### 3. What Is a Harness?
+### 2. Anger, Anxiety and Agency
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://earendil.com/posts/what-is-a-harness/">https://earendil.com/posts/what-is-a-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409092">https://news.ycombinator.com/item?id=49409092</a></p>
-<p>Points: 27</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424082">https://news.ycombinator.com/item?id=49424082</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://earendil.com/posts/what-is-a-harness/](https://earendil.com/posts/what-is-a-harness/)
+🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
+
+---
+
+### 3. Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/getkern/kern">https://github.com/getkern/kern</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49423927">https://news.ycombinator.com/item?id=49423927</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/getkern/kern](https://github.com/getkern/kern)
 
 ---
 
@@ -97,7 +97,33 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Kidnappers release video showing hundreds abducted from Nigerian mosque
+### 7. Trump administration seeks to formalise H-1B fee of more than $100,000
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New proposal would charge $103,265 for the US&#039;s H-1B visas, and make permanent a temporary rule challenged by courts.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss)
+
+---
+
+### 8. Norway plans further development of Arctic drilling amid EU energy concerns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss)
+
+---
+
+### 9. Kidnappers release video showing hundreds abducted from Nigerian mosque
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 Mass kidnappings highlight Nigeria&#039;s security crisis in the north as elections approach.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss)
-
----
-
-### 8. Trump administration announces global economic war on Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US says it is targeting all of Iran’s sources of revenue, including oil.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss)
-
----
-
-### 9. Japanese delegation seeks to soothe strained ties with China
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss)
 
 ---
 
