@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 19:53:22
+**Last Update:** 2026-08-24 20:33:06
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
+### 4. How the deadly A66 crash unfolded leaving seven dead
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 5. Is UK's Storm Shadow missile a game changer for Ukraine?
+### 6. Is UK's Storm Shadow missile a game changer for Ukraine?
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 
 ---
 
-### 6. Snooker champion Graeme Dott guilty of child sex abuse
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump slams Canada with new 50 percent auto tariffs for 2027
+### 7. Former snooker world champion Graeme Dott convicted of child sex abuse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump said tariffs on Canadian auto and steel will double to 50 percent from January 1.
+The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss)
 
 ---
 
-### 8. Are humanoid robots the future of warfare?
+### 8. Israeli strike on Gaza shelter extends casualty list
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.
+More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss)
 
 ---
 
-### 9. Video: Russia launches rocket into space with military satellite
+### 9. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
+Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss)
 
 ---
 
