@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 20:33:06
+**Last Update:** 2026-08-24 20:52:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,33 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 
 ---
 
-### 7. Former snooker world champion Graeme Dott convicted of child sex abuse
+### 7. Nearly one in two Ebola patients dying in DR Congo outbreak
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss)
+
+---
+
+### 8. Russia to seize poorly protected infrastructure as Ukraine barrage persists
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Owners could lose control of facilities if regulators find them too slow to repair damage.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss)
+
+---
+
+### 9. Former snooker world champion Graeme Dott convicted of child sex abuse
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss)
-
----
-
-### 8. Israeli strike on Gaza shelter extends casualty list
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss)
-
----
-
-### 9. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss)
 
 ---
 
