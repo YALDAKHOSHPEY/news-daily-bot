@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 18:37:45
+**Last Update:** 2026-08-24 18:59:36
 
 **Total News:** 12
 
@@ -97,42 +97,42 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 7. Houses set on fire as fresh violence erupts in India’s Manipur
+### 7. UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss)
 
 ---
 
-### 8. Algeria’s schools put Shakespeare before Molière in break from France
+### 8. Samuel Eto’o urges support for embattled FIFA President Gianni Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+Former star striker, now head of Cameroon&#039;s FA, backs Infantino despite mounting pressure on him to resign.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss)
 
 ---
 
-### 9. Rain and flooding from Typhoon Narra hits China and Vietnam
+### 9. Why Israeli settler attacks on Palestinians in West Bank are pogroms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rain and flooding from Typhoon Narra hits China and Vietnam
+Israeli settler attacks, aided by military, increasingly fit the definition of a pogrom.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss)
 
 ---
 
