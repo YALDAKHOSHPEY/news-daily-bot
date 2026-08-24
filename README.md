@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 15:20:44
+**Last Update:** 2026-08-24 15:56:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -84,7 +84,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Graduate job vacancies drop by almost 50% in a year
+### 6. Graduate job vacancies drop by almost 50% in a year, survey suggests
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Job site Adzuna said the number of graduate vacancies was the lowest since 2016
 
 ---
 
-### 7. India used pellets, grenades on Gen Z protests: What Amnesty report reveals
+### 7. Israel accused of using kites as pretext to justify escalating Gaza attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.
+Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss)
 
 ---
 
-### 8. Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
+### 8. Cambuur fans suffer burns as fireworks set off during Dutch league match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AVROTROS says escalating international conflicts are undermining the event&#039;s neutrality and fuelling divisions.
+Game resumed despite injuries to home fans, but it would have been abandoned if a player or match official had been hit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss)
 
 ---
 
-### 9. US threatens toughest sanctions yet against Iran: What we know
+### 9. Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran has threatened to retaliate against any country that joins new US economic measures.
+A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea&#039;s capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss)
 
 ---
 
