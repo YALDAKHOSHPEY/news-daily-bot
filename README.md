@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 00:25:45
+**Last Update:** 2026-08-25 00:49:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/l3a0/claude-plugins">https://github.com/l3a0/claude-plugins</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424758">https://news.ycombinator.com/item?id=49424758</a></p>
-<p>Points: 31</p>
+<p>Points: 36</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/l3a0/claude-plugins](https://github.com/l3a0/claude-plugins)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
-<p>Points: 179</p>
-<p># Comments: 62</p>
+<p>Points: 200</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 38</p>
-<p># Comments: 14</p>
+<p>Points: 44</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Violence flares in Haiti as gang attack kills 30 people
+### 7. What’s behind domestic political pressure on Ukraine’s president?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Island nation grapples with violence as it seeks to hold first elections in more than a decade.
+Zelenskyy rejects call from sacked minister for wartime elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss)
 
 ---
 
-### 8. Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
+### 8. Video: Iran reacts to US ‘economic D-Day’ sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fabinho joined ​Saudi Arabia&#039;s Al-Ittihad in 2023, where he won the ​league after his five-year stint at Liverpool.
+Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss)
 
 ---
 
-### 9. Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
+### 9. Ceasefire monitoring mission arrives in Democratic Republic of Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.
+Fighting persists in the mineral-rich region despite ceasefire agreements.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss)
 
 ---
 
