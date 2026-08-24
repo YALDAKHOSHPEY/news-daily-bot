@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 19:32:17
+**Last Update:** 2026-08-24 19:53:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ The former world champion was found guilty of lewd and libidinous behaviour towa
 
 ---
 
-### 7. Are humanoid robots the future of warfare?
+### 7. Trump slams Canada with new 50 percent auto tariffs for 2027
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump said tariffs on Canadian auto and steel will double to 50 percent from January 1.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss)
+
+---
+
+### 8. Are humanoid robots the future of warfare?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Humanoid robots are breaking world records in sports, and are increasingly being
 
 ---
 
-### 8. Video: Russia launches rocket into space with military satellite
+### 9. Video: Russia launches rocket into space with military satellite
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Humanoid robots are breaking world records in sports, and are increasingly being
 Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss)
-
----
-
-### 9. UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss)
 
 ---
 
