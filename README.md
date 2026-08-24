@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 16:58:34
+**Last Update:** 2026-08-24 17:11:56
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -97,7 +97,20 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 7. ‘Barrel bomb mufti’ sentenced to life in Syria
+### 7. Rain and flooding from Typhoon Narra hits China and Vietnam
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rain and flooding from Typhoon Narra hits China and Vietnam
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss)
+
+---
+
+### 8. ‘Barrel bomb mufti’ sentenced to life in Syria
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 8. Saudi Arabia’s MBS visits Macron in France: What to expect
+### 9. Saudi Arabia’s MBS visits Macron in France: What to expect
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 Saudi crown prince and French president are set to sign several agreements on health, transport and energy.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss)
-
----
-
-### 9. Four arrested over fatal shooting of South African boxer Zolani Tete
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss)
 
 ---
 
