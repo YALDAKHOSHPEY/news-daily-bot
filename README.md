@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 22:38:28
+**Last Update:** 2026-08-24 22:51:28
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Removed all counters, replies, following/ers, timestamps, from textlog
+### 1. LLMs could control their host machines by exploiting inference engines
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+
+---
+
+### 2. Removed all counters, replies, following/ers, timestamps, from textlog
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://textlog.cc/post/2059">https://textlog.cc/post/2059</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424167">https://news.ycombinator.com/item?id=49424167</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://textlog.cc/post/2059](https://textlog.cc/post/2059)
 
 ---
 
-### 2. Anger, Anxiety and Agency
+### 3. Anger, Anxiety and Agency
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424082">https://news.ycombinator.com/item?id=49424082</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
-
----
-
-### 3. Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/getkern/kern">https://github.com/getkern/kern</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49423927">https://news.ycombinator.com/item?id=49423927</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/getkern/kern](https://github.com/getkern/kern)
 
 ---
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Trump administration seeks to formalise H-1B fee of more than $100,000
+### 7. Israel threatens attacks in Gaza over children’s kites
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites
+
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss](https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss)
+
+---
+
+### 8. Trump administration seeks to formalise H-1B fee of more than $100,000
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ New proposal would charge $103,265 for the US&#039;s H-1B visas, and make perman
 
 ---
 
-### 8. Norway plans further development of Arctic drilling amid EU energy concerns
+### 9. Norway plans further development of Arctic drilling amid EU energy concerns
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ New proposal would charge $103,265 for the US&#039;s H-1B visas, and make perman
 EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss)
-
----
-
-### 9. Kidnappers release video showing hundreds abducted from Nigerian mosque
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mass kidnappings highlight Nigeria&#039;s security crisis in the north as elections approach.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss)
 
 ---
 
