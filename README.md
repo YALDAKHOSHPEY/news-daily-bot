@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 10:05:59
+**Last Update:** 2026-08-24 11:04:38
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Families of two police officers killed in crash say they were heroes
+### 1. Slovakia finds Russian backdoor in traffic speed cameras
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409200">https://news.ycombinator.com/item?id=49409200</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
+
+---
+
+### 2. Authoritarianism of Code
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409184">https://news.ycombinator.com/item?id=49409184</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+
+---
+
+### 3. What Is a Harness?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://earendil.com/posts/what-is-a-harness/">https://earendil.com/posts/what-is-a-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409092">https://news.ycombinator.com/item?id=49409092</a></p>
+<p>Points: 27</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://earendil.com/posts/what-is-a-harness/](https://earendil.com/posts/what-is-a-harness/)
+
+---
+
+### 4. Families of two police officers killed in crash say they were heroes
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 
 ---
 
-### 2. How easy is it to find an NHS dentist? It depends where you live
+### 5. How easy is it to find an NHS dentist? It depends where you live
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Nearly 600 practices in England have withdrawn from NHS dentistry over the last 
 
 ---
 
-### 3. Nearly three million Teslas recalled in China over hidden door handles
+### 6. Nearly three million Teslas recalled in China over hidden door handles
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 4. Salah scores two goals, has two disallowed in first start for Trabzonspor
+### 7. The right to health in Gaza is now a privilege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
+The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss)
 
 ---
 
-### 5. Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit
+### 8. Canada-US trade war: Who wins? Who loses?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European football chief doesn&#039;t want to lose credibility over FIFA job but says Infantino will face a challenger.
+Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss)
 
 ---
 
-### 6. Gauff, Fils win Cincinnati tennis titles in run-up to US Open
+### 9. Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gauff beat Pegula for her second Cincinnati Open trophy and Fils overcame Tiafoe for his first Masters 1000 title.
+&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss)
 
 ---
 
-### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 
