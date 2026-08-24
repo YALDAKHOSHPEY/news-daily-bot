@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 21:25:20
+**Last Update:** 2026-08-24 21:54:12
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. How the deadly A66 crash unfolded leaving seven dead
+### 4. Organised crime arrests as police investigate A66 crash that killed two officers
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. How the deadly A66 crash unfolded leaving seven dead
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Pass
 
 ---
 
-### 5. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
+### 6. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 6. Is UK's Storm Shadow missile a game changer for Ukraine?
+### 7. Kidnappers release video showing hundreds abducted from Nigerian mosque
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.
+Mass kidnappings highlight Nigeria&#039;s security crisis in the north as elections approach.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss)
 
 ---
 
-### 7. Japanese delegation seeks to soothe strained ties with China
+### 8. Trump administration announces global economic war on Iran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US says it is targeting all of Iran’s sources of revenue, including oil.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss)
+
+---
+
+### 9. Japanese delegation seeks to soothe strained ties with China
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss)
-
----
-
-### 8. Trump administration announces ‘economic D-day’ sanctions on Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss)
-
----
-
-### 9. Nearly one in two Ebola patients dying in DR Congo outbreak
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss)
 
 ---
 
