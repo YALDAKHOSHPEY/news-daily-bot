@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 04:09:26
+**Last Update:** 2026-08-24 05:34:40
 
 **Total News:** 12
 
@@ -71,20 +71,7 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 
 ---
 
-### 5. Police aborted pursuit about 10 seconds before fatal crash, watchdog says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Officers had been pursing a car before it went the wrong way down a dual carriageway.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How easy is it to find an NHS dentist? It depends where you live
+### 5. How easy is it to find an NHS dentist? It depends where you live
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Nearly 600 practices in England have withdrawn from NHS dentistry over the last 
 
 ---
 
-### 7. Tokayev allies head for landslide victory in Kazakhstan elections
+### 6. Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Large forest fire burns close to residential areas in Ankara
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss)
+
+---
+
+### 8. Tokayev allies head for landslide victory in Kazakhstan elections
 
 **Source:** Al Jazeera
 
@@ -110,29 +123,16 @@ Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the 
 
 ---
 
-### 8. Iran war live: Iranian parliament advances plans for Hormuz service fees
+### 9. Iran war live: Iranian parliament advances plans for Hormuz service fees
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for services provided by Iran.
+Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran&#039;s services.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss)
-
----
-
-### 9. Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss)
 
 ---
 
