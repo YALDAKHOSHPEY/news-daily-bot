@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 13:57:30
+**Last Update:** 2026-08-24 14:30:33
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -84,55 +84,55 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Tesla recalls nearly three million cars in China over hidden door handles
+### 6. Graduate job vacancies drop by almost 50% in a year
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
+Job site Adzuna said the number of graduate vacancies was the lowest since 2016
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US military says strike on alleged drug-smuggling boat kills two
+### 7. Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.
+AVROTROS says escalating international conflicts are undermining the event&#039;s neutrality and fuelling divisions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss)
 
 ---
 
-### 8. Dozens of coordinated arson attacks carried out across Thailand
+### 8. US threatens toughest sanctions yet against Iran: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of coordinated arson attacks carried out across Thailand
+Tehran has threatened to retaliate against any country that joins new US economic measures.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss)
 
 ---
 
-### 9. Macron and MBS attend Esports World Cup closing ceremony
+### 9. Ukraine’s offensive against Russia causes petrol panic across Central Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
+War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss)
 
 ---
 
