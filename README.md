@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 08:04:56
+**Last Update:** 2026-08-24 08:38:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -58,33 +58,7 @@
 
 ---
 
-### 4. Families of two police officers killed in crash say they were heroes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. How easy is it to find an NHS dentist? It depends where you live
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+### 4. Burnham visits Kyiv to reaffirm UK support for Ukraine
 
 **Source:** BBC
 
@@ -97,7 +71,59 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. ‘We know this movie’: Iran mocks latest US sanctions
+### 5. Families of two police officers killed in crash say they were heroes
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. How easy is it to find an NHS dentist? It depends where you live
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss)
+
+---
+
+### 8. Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Footage filmed by a climber on Mont Blanc shows rocks cascading down the Goûter Couloir, known as ‘Death Pass’. The clim
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss)
+
+---
+
+### 9. ‘We know this movie’: Iran mocks latest US sanctions
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss)
-
----
-
-### 8. Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss)
-
----
-
-### 9. Human-caused Nevada wildfire forces 42,000 people to evacuate
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss)
 
 ---
 
