@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 23:47:59
+**Last Update:** 2026-08-25 00:25:45
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/l3a0/claude-plugins">https://github.com/l3a0/claude-plugins</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424758">https://news.ycombinator.com/item?id=49424758</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/l3a0/claude-plugins](https://github.com/l3a0/claude-plugins)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
-<p>Points: 69</p>
-<p># Comments: 13</p>
+<p>Points: 179</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 23</p>
-<p># Comments: 7</p>
+<p>Points: 38</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
+### 7. Violence flares in Haiti as gang attack kills 30 people
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Island nation grapples with violence as it seeks to hold first elections in more than a decade.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss)
+
+---
+
+### 8. Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Fabinho joined ​Saudi Arabia&#039;s Al-Ittihad in 2023, where he won the ​le
 
 ---
 
-### 8. Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
+### 9. Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Fabinho joined ​Saudi Arabia&#039;s Al-Ittihad in 2023, where he won the ​le
 Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss)
-
----
-
-### 9. Mexico’s president condemns governor’s brief return to office
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President Sheinbaum criticises Governor Rocha&#039;s return amid US drug charges, calling it &#039;reckless&#039; and &#039;inappropriate&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss)
 
 ---
 
