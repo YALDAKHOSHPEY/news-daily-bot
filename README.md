@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 11:19:42
+**Last Update:** 2026-08-24 12:06:09
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -71,16 +71,16 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 
 ---
 
-### 5. How easy is it to find an NHS dentist? It depends where you live
+### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
+Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. How much more are you spending on petrol since the war in Iran began?
+### 7. ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The religious figure faced various charges including inciting violence and providing legitimacy for the al-Assad regime.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss)
+
+---
+
+### 8. Trabzonspor president reacts to Salah disallowed hat-trick goal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trabzonspor’s president reacted in disbelief after Mohamed Salah had a goal disallowed in his first start for the club.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss)
+
+---
+
+### 9. How much more are you spending on petrol since the war on Iran began?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss)
-
----
-
-### 8. EU, Russian aircraft help Serbia battle wildfires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss)
-
----
-
-### 9. The right to health in Gaza is now a privilege
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss)
 
 ---
 
