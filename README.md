@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 02:20:20
+**Last Update:** 2026-08-25 02:43:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 50</p>
-<p># Comments: 15</p>
+<p>Points: 79</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=49426466</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://ciechanow.ski/moon/](https://ciechanow.ski/moon/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 78</p>
-<p># Comments: 57</p>
+<p>Points: 84</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
@@ -97,7 +97,33 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. US removes Syria from ‘state sponsor of terrorism’ list
+### 7. How US sanctions on Iran ripple through global markets and consumers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss)
+
+---
+
+### 8. US Supreme Court sides with Trump administration on mail voting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mail balloting has long been a favourite target of US President Donald Trump.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss)
+
+---
+
+### 9. US removes Syria from ‘state sponsor of terrorism’ list
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss)
-
----
-
-### 8. Jeffries-Kushner meeting sparks speculation amid contentious US midterms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss)
-
----
-
-### 9. US public support for Iran war falls as Trump approval at record low: Poll
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss)
 
 ---
 
