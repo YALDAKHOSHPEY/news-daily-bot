@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 22:51:28
+**Last Update:** 2026-08-24 23:21:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://textlog.cc/post/2059">https://textlog.cc/post/2059</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424167">https://news.ycombinator.com/item?id=49424167</a></p>
-<p>Points: 6</p>
+<p>Points: 8</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://textlog.cc/post/2059](https://textlog.cc/post/2059)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424082">https://news.ycombinator.com/item?id=49424082</a></p>
-<p>Points: 26</p>
-<p># Comments: 13</p>
+<p>Points: 33</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Israel threatens attacks in Gaza over children’s kites
+### 7. Yemen’s Houthis report attack on Saudi ship
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites
+Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss](https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss)
 
 ---
 
-### 8. Trump administration seeks to formalise H-1B fee of more than $100,000
+### 8. Video: Israel attacks desalination plant and mosque in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New proposal would charge $103,265 for the US&#039;s H-1B visas, and make permanent a temporary rule challenged by courts.
+Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss)
 
 ---
 
-### 9. Norway plans further development of Arctic drilling amid EU energy concerns
+### 9. Israeli restrictions cause fuel shortage in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.
+Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
