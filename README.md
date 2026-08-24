@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 12:06:09
+**Last Update:** 2026-08-24 12:41:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -58,20 +58,7 @@
 
 ---
 
-### 4. Families of two police officers killed in crash say they were heroes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 4. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Nearly three million Teslas recalled in China over hidden door handles
+### 5. Nearly three million Teslas recalled in China over hidden door handles
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
+### 6. 'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The religious figure faced various charges including inciting violence and providing legitimacy for the al-Assad regime.
+The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss)
+
+---
+
+### 8. Kazakhstan’s newly formed pro-government party wins parliamentary election
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss)
+
+---
+
+### 9. ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss)
-
----
-
-### 8. Trabzonspor president reacts to Salah disallowed hat-trick goal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trabzonspor’s president reacted in disbelief after Mohamed Salah had a goal disallowed in his first start for the club.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss)
-
----
-
-### 9. How much more are you spending on petrol since the war on Iran began?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss)
 
 ---
 
