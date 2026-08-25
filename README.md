@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 01:45:32
+**Last Update:** 2026-08-26 02:21:52
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ripping Off the Hey.com Band-Aid
+### 1. Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid">https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441042">https://news.ycombinator.com/item?id=49441042</a></p>
-<p>Points: 15</p>
+<p>I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk.<p>TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load.<p>Try it out: <a href="https://tex.swimmingbrain.dev/" rel="nofollow">https://tex.swimmingbrain.dev/</a> (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem)<p>Or for self-hosting/contributing: <a href="https://github.com/swimmingbrain/texbrain" rel="nofollow">https://github.com/swimmingbrain/texbrain</a> (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file).<p>The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content.<p>So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge.<p>This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that.<p>Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441375">https://news.ycombinator.com/item?id=49441375</a></p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid](https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid)
+🔗 **Read more:** [https://github.com/swimmingbrain/texbrain](https://github.com/swimmingbrain/texbrain)
 
 ---
 
-### 2. Python's pre-declared constants are kinda weird
+### 2. One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN">https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441101">https://news.ycombinator.com/item?id=49441101</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN)
+
+---
+
+### 3. Python's pre-declared constants are kinda weird
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://sebsite.pw/w/20260801-pythonconstants.html">https://sebsite.pw/w/20260801-pythonconstants.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441033">https://news.ycombinator.com/item?id=49441033</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 53</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://sebsite.pw/w/20260801-pythonconstants.html](https://sebsite.pw/w/20260801-pythonconstants.html)
-
----
-
-### 3. When str.lower() is a security vulnerability in Python – Seth Larson
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49440410">https://news.ycombinator.com/item?id=49440410</a></p>
-<p>Points: 18</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 
 ---
 
@@ -97,7 +98,33 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. US judge blocks Ohio law requiring proof of citizenship to register to vote
+### 7. Brazil fines TikTok $30m for child data privacy violations
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss)
+
+---
+
+### 8. Why can’t America agree on what time it is?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Why can’t America agree on what time it is?
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss)
+
+---
+
+### 9. US judge blocks Ohio law requiring proof of citizenship to register to vote
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss)
-
----
-
-### 8. Who was the ‘Queen of Country’ Dolly Parton?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss)
-
----
-
-### 9. Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss)
 
 ---
 
