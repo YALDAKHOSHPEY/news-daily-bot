@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 00:23:07
+**Last Update:** 2026-08-26 00:47:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai">https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439535">https://news.ycombinator.com/item?id=49439535</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 76</p>
-<p># Comments: 46</p>
+<p>Points: 96</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 
@@ -52,8 +52,8 @@
 <p><a href="https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death" rel="nofollow">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href="https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html" rel="nofollow">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href="https://archive.ph/w4vsE" rel="nofollow">https://archive.ph/w4vsE</a><p><a href="https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/" rel="nofollow">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438052">https://news.ycombinator.com/item?id=49438052</a></p>
-<p>Points: 774</p>
-<p># Comments: 113</p>
+<p>Points: 819</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
 
@@ -98,42 +98,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Dolly Parton, beloved US country music icon, dies at 80
+### 7. Real Madrid vs Sociedad: La Liga – prediction, team news, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
+Kylian Mbappe and Jude Bellingham headline against Sociedad as Real seek consecutive wins to open La Liga season.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
-### 8. What challenge do ‘cockroach’ protests pose for India’s PM Modi?
+### 8. Nigeria launches operation to rescue 600 kidnapped victims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youth-led movement plans more demonstrations for next month.
+Nigerian President Bola Ahmed Tinubu announced a rescue operation on Tuesday for victims of 600-person mass abduction.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss)
 
 ---
 
-### 9. Trump administration: Kennedy Center may be demolished if repairs not made
+### 9. New US sanctions signal Trump desperation on Iran, experts say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Department of Justice lawyers told a federal judge the venue &#039;cannot survive&#039; without the US president&#039;s help.
+Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss)
 
 ---
 
