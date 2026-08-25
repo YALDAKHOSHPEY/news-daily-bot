@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 07:09:43
+**Last Update:** 2026-08-25 07:36:19
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thomson Reuters Launches Its Own Frontier Model
+### 1. Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Looking for options that might work for a low power touchscreen for a calendar project.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428842">https://news.ycombinator.com/item?id=49428842</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49428842](https://news.ycombinator.com/item?id=49428842)
+
+---
+
+### 2. Thomson Reuters Launches Its Own Frontier Model
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
-<p>Points: 30</p>
-<p># Comments: 5</p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 
 ---
 
-### 2. How Universities Should Prepare Founders
+### 3. How Universities Should Prepare Founders
 
 **Source:** Hacker News
 
@@ -35,30 +52,27 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
-<p>Points: 36</p>
-<p># Comments: 35</p>
+<p>Points: 45</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
 
 ---
 
-### 3. Was Modern Art a CIA Psy-Op?
+### 4. More than 70,000 social and affordable homes to be built across England
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428080">https://news.ycombinator.com/item?id=49428080</a></p>
-<p>Points: 24</p>
-<p># Comments: 19</p>
+Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.
 
-🔗 **Read more:** [https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Organised crime arrests as police investigate A66 crash that killed two officers
+### 5. Organised crime arrests as police investigate A66 crash that killed two officers
 
 **Source:** BBC
 
@@ -71,7 +85,7 @@ Nine men and three women are arrested as police investigate the lead-up to the c
 
 ---
 
-### 5. How the deadly A66 crash unfolded leaving seven dead
+### 6. How the deadly A66 crash unfolded leaving seven dead
 
 **Source:** BBC
 
@@ -81,19 +95,6 @@ Nine men and three women are arrested as police investigate the lead-up to the c
 At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
