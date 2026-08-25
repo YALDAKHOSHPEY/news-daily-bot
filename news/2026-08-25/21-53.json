@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T21:53:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Firefox 157 will include JPEG XL by default on all platforms",
+            "description": "<p>Article URL: <a href=\"https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437946\">https://news.ycombinator.com/item?id=49437946</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+            "published": "Tue, 25 Aug 2026 17:55:23 +0000",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437566\">https://news.ycombinator.com/item?id=49437566</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+            "published": "Tue, 25 Aug 2026 17:28:52 +0000",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Run OpenBSD on DigitalOcean for $4/month",
+            "description": "<p>Article URL: <a href=\"https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437483\">https://news.ycombinator.com/item?id=49437483</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+            "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+            "published": "Tue, 25 Aug 2026 17:23:07 +0000",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The country legend who sang from the heart",
+            "description": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+            "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:14:13 GMT",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria ‘shakes off’ past with removal from US ‘terror list’, says al-Sharaa",
+            "description": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 18:13:37 +0000",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+            "description": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 18:01:37 +0000",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+            "description": "Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 17:39:22 +0000",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T21:53:30+03:30"
+        }
+    ]
+}
