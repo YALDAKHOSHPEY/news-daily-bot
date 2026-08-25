@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 03:13:29
+**Last Update:** 2026-08-25 04:08:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. iCloud+ Hide My Email addresses will remain on icloud.com
+### 1. Bookshelf – Self-hosted eBook library that runs on object storage
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.ycombinator.com/item?id=49427001</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/murerkinn/bookshelf](https://github.com/murerkinn/bookshelf)
+
+---
+
+### 2. iCloud+ Hide My Email addresses will remain on icloud.com
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 116</p>
-<p># Comments: 25</p>
+<p>Points: 162</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
 
 ---
 
-### 2. Moon
+### 3. Moon (2024)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=49426466</a></p>
-<p>Points: 51</p>
-<p># Comments: 5</p>
+<p>Points: 78</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://ciechanow.ski/moon/](https://ciechanow.ski/moon/)
-
----
-
-### 3. One corner of China’s internet is insisting that the Tang Dynasty never existed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 93</p>
-<p># Comments: 68</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
 ---
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. How US sanctions on Iran ripple through global markets and consumers
+### 7. Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss)
+
+---
+
+### 8. How US sanctions on Iran ripple through global markets and consumers
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying p
 
 ---
 
-### 8. US Supreme Court sides with Trump administration on mail voting
+### 9. US Supreme Court sides with Trump administration on mail voting
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying p
 Mail balloting has long been a favourite target of US President Donald Trump.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss)
-
----
-
-### 9. US removes Syria from ‘state sponsor of terrorism’ list
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss)
 
 ---
 
