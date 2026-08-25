@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T15:56:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HelloAssembly The smallest possible complete Windows application",
+            "description": "<p>Article URL: <a href=\"https://github.com/PlummersSoftwareLLC/HelloAssembly\">https://github.com/PlummersSoftwareLLC/HelloAssembly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49432227\">https://news.ycombinator.com/item?id=49432227</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+            "published": "Tue, 25 Aug 2026 11:40:00 +0000",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+            "description": "<p>Article URL: <a href=\"https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer\">https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49432201\">https://news.ycombinator.com/item?id=49432201</a></p>\n<p>Points: 59</p>\n<p># Comments: 43</p>",
+            "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+            "published": "Tue, 25 Aug 2026 11:37:24 +0000",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Quantum battery upends the rules of charging",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\">https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49431560\">https://news.ycombinator.com/item?id=49431560</a></p>\n<p>Points: 36</p>\n<p># Comments: 30</p>",
+            "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+            "published": "Tue, 25 Aug 2026 10:34:12 +0000",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies in crash after police pursuit",
+            "description": "Two women are also hurt and one remains in hospital in critical condition.",
+            "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:52:31 GMT",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+            "description": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
+            "url": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 10:06:04 GMT",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
+            "description": "Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 11:53:03 +0000",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+            "description": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 11:52:40 +0000",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
+            "description": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 11:46:13 +0000",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T15:56:39+03:30"
+        }
+    ]
+}
