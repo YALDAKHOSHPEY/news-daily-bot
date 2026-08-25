@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 15:56:39
+**Last Update:** 2026-08-25 16:56:15
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. HelloAssembly The smallest possible complete Windows application
+### 1. Apple Introduces New Mac Studio with M5 Max and M5 Ultra
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/PlummersSoftwareLLC/HelloAssembly">https://github.com/PlummersSoftwareLLC/HelloAssembly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49432227">https://news.ycombinator.com/item?id=49432227</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433316">https://news.ycombinator.com/item?id=49433316</a></p>
+<p>Points: 44</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://github.com/PlummersSoftwareLLC/HelloAssembly](https://github.com/PlummersSoftwareLLC/HelloAssembly)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 
 ---
 
-### 2. Credit Card Rewards Became a $9.2B Wealth Transfer
+### 2. Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer">https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49432201">https://news.ycombinator.com/item?id=49432201</a></p>
-<p>Points: 59</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433292">https://news.ycombinator.com/item?id=49433292</a></p>
+<p>Points: 82</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 
 ---
 
-### 3. Quantum battery upends the rules of charging
+### 3. France's tax agency got hacked (in French)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets">https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431560">https://news.ycombinator.com/item?id=49431560</a></p>
-<p>Points: 36</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433064">https://news.ycombinator.com/item?id=49433064</a></p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
+🔗 **Read more:** [https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
 
 ---
 
-### 4. China warns it will safeguard its interests after US widens sanctions against Iran
+### 4. Five more arrests in wrong-way crash investigation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. China hits out at 'illegal' new US sanctions on Iran and trading partners
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The US has threatened to isolate nations that continue to do business with Tehra
 
 ---
 
-### 5. Man dies in crash after police pursuit
+### 6. Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two women are also hurt and one remains in hospital in critical condition.
+The US says new sanctions are an "economic D-Day", but Tehran's leaders have survived restrictions before.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Yellow weather warnings issued as thunderstorms and flooding forecast
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia mobilisation fears grow amid reports of intimidating tactics
+### 7. Two killed, refinery on fire in Russia’s Krasnodar after drone attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Military recruitment efforts are reportedly more aggressive as Russia prepares for a winter offensive in Ukraine.
+Ukraine hits Russia&#039;s Afipsky oil refinery and gas plant in latest attacks targeting energy infrastructure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss)
 
 ---
 
-### 8. Palestine weekly: After Kushner departs, Israel escalates Gaza attacks
+### 8. ‘We can’t breathe’: Indonesians battle wildfire haze
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.
+Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss)
 
 ---
 
-### 9. Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide
+### 9. Israeli forces raid UNRWA training centre in occupied East Jerusalem
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.
+The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss)
 
 ---
 
