@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T20:52:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+            "description": "<p>Article URL: <a href=\"https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers\">https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437152\">https://news.ycombinator.com/item?id=49437152</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+            "published": "Tue, 25 Aug 2026 16:58:31 +0000",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My Friend Aaron",
+            "description": "<p>Article URL: <a href=\"https://rorz.io/writing/my-friend-aaron\">https://rorz.io/writing/my-friend-aaron</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437069\">https://news.ycombinator.com/item?id=49437069</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://rorz.io/writing/my-friend-aaron",
+            "published": "Tue, 25 Aug 2026 16:53:33 +0000",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tooltips Need a Delay, and Then They Need to Skip It",
+            "description": "<p>Article URL: <a href=\"https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/\">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436786\">https://news.ycombinator.com/item?id=49436786</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+            "published": "Tue, 25 Aug 2026 16:35:36 +0000",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:21:18 GMT",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says all mines cleared from Strait of Hormuz",
+            "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 16:43:58 GMT",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
+            "description": "Cameroon midfielder joins EPL powerhouse for a fee understood to be worth up to 70 million pounds.",
+            "url": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 16:55:29 +0000",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+            "description": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 16:39:24 +0000",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
+            "description": "Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 16:28:01 +0000",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T20:52:58+03:30"
+        }
+    ]
+}
