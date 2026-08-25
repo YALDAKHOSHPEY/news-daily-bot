@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 20:52:58
+**Last Update:** 2026-08-25 21:22:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Water Behind the Watts: The Hidden Risk of Powering Data Centers
+### 1. Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers">https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437152">https://news.ycombinator.com/item?id=49437152</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437566">https://news.ycombinator.com/item?id=49437566</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers](https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers)
+🔗 **Read more:** [https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
 
 ---
 
-### 2. My Friend Aaron
+### 2. Run OpenBSD on DigitalOcean for $4/month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rorz.io/writing/my-friend-aaron">https://rorz.io/writing/my-friend-aaron</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437069">https://news.ycombinator.com/item?id=49437069</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437483">https://news.ycombinator.com/item?id=49437483</a></p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://rorz.io/writing/my-friend-aaron](https://rorz.io/writing/my-friend-aaron)
+🔗 **Read more:** [https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
 
 ---
 
-### 3. Tooltips Need a Delay, and Then They Need to Skip It
+### 3. Lightweight system monitor for Linux VPS written in Go
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436786">https://news.ycombinator.com/item?id=49436786</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://github.com/leodeim/vpsmon">https://github.com/leodeim/vpsmon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437361">https://news.ycombinator.com/item?id=49437361</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/](https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/)
+🔗 **Read more:** [https://github.com/leodeim/vpsmon](https://github.com/leodeim/vpsmon)
 
 ---
 
@@ -97,42 +97,42 @@ Iran has closed the vital waterway since the beginning of the conflict causing w
 
 ---
 
-### 7. Carlos Baleba joins Manchester United in transfer from Brighton
+### 7. Spain requests emergency funding from the EU over Ceuta migrants
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cameroon midfielder joins EPL powerhouse for a fee understood to be worth up to 70 million pounds.
+European Commission says it is &#039;assessing&#039; Spain&#039;s request after some 70,000 migrants surged into North African enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss)
 
 ---
 
-### 8. Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
+### 8. Most US Democrats in early 2028 primary states oppose aid to Israel: Poll
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
+Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss)
 
 ---
 
-### 9. Photos: Rohingya refugees rally nine years after Myanmar exodus
+### 9. Canada hits US with counter-tariffs on more than 700 products
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.
+Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss)
 
 ---
 
