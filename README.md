@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 23:23:19
+**Last Update:** 2026-08-25 23:46:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. FDA authorizes first wearable device that monitors ketone and blood sugar levels
+### 1. Perplexity Portable Computer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai">https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439535">https://news.ycombinator.com/item?id=49439535</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+
+---
+
+### 2. FDA authorizes first wearable device that monitors ketone and blood sugar levels
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Points: 37</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-
----
-
-### 2. Dolly Parton Has Died
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Dolly_Parton">https://en.wikipedia.org/wiki/Dolly_Parton</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438661">https://news.ycombinator.com/item?id=49438661</a></p>
-<p>Points: 50</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Dolly_Parton](https://en.wikipedia.org/wiki/Dolly_Parton)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
-<p>Points: 30</p>
-<p># Comments: 8</p>
+<p>Points: 37</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.
+Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
