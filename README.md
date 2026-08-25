@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 18:42:07
+**Last Update:** 2026-08-25 19:03:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Releases New Polishing Cloth
+### 1. How much of HN is AI?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/">https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434830">https://news.ycombinator.com/item?id=49434830</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/](https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/)
+🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
-### 2. Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs
+### 2. Beyond Good and Evil: Nietzsche and the Great War
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs">https://e360.yale.edu/digest/bomb-fishing-coral-reefs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434820">https://news.ycombinator.com/item?id=49434820</a></p>
-<p>Points: 40</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://e360.yale.edu/digest/bomb-fishing-coral-reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
+🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 
 ---
 
-### 3. Building a backyard office, the build and cost breakdown
+### 3. AI is hitting entry-level jobs hardest, Stanford study finds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown">https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434645">https://news.ycombinator.com/item?id=49434645</a></p>
-<p>Points: 41</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
+🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -97,42 +97,42 @@ The US says new sanctions are an "economic D-Day", but Tehran's leaders have sur
 
 ---
 
-### 7. Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
+### 7. Qatar says US sanctions on Iran are unilateral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
+Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss)
 
 ---
 
-### 8. US military transport plane arrives in Moscow in rare occurrence
+### 8. US launches Economic war on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia
+The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss](https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss)
 
 ---
 
-### 9. How can a heavily indebted football club afford Mo Salah?
+### 9. One year since Gaza journalist killed by Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How do football clubs in debt afford star players?
+It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss)
 
 ---
 
