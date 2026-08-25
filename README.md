@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 19:03:18
+**Last Update:** 2026-08-25 19:36:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Points: 79</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
@@ -84,59 +84,72 @@ The US has threatened to isolate nations that continue to do business with Tehra
 
 ---
 
-### 6. Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise
+### 6. Who does Iran trade with and what could Trump's 'economic D-Day' mean?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US says new sanctions are an "economic D-Day", but Tehran's leaders have survived restrictions before.
+Iran is no stranger to US sanctions and has developed deep economic ties with several countries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Qatar says US sanctions on Iran are unilateral
+### 7. Nevada wildfire contained to 27 percent as thousands still displaced
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
+The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss)
 
 ---
 
-### 8. US launches Economic war on Iran
+### 8. Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran
+Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men&#039;s world record set by ​Usain Bolt in 100m.
 
-🔗 **Read more:** [https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss](https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss)
 
 ---
 
-### 9. One year since Gaza journalist killed by Israel
+### 9. Infantino’s presidency under threat: FIFA elections, challengers, dates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.
+Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Old Deer, Carson, Texas
+### 10. Tropical Storm Julio
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
+
+---
+
+### 11. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire 22, Miami-Dade, Florida
+### 12. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
-
----
-
-### 12. Wildfire Rustler, Motley, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215)
 
 ---
 
