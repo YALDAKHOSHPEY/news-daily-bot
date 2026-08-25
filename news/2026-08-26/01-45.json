@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T01:45:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ripping Off the Hey.com Band-Aid",
+            "description": "<p>Article URL: <a href=\"https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid\">https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441042\">https://news.ycombinator.com/item?id=49441042</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
+            "published": "Tue, 25 Aug 2026 21:39:24 +0000",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Python's pre-declared constants are kinda weird",
+            "description": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260801-pythonconstants.html\">https://sebsite.pw/w/20260801-pythonconstants.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441033\">https://news.ycombinator.com/item?id=49441033</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+            "published": "Tue, 25 Aug 2026 21:39:02 +0000",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+            "description": "<p>Article URL: <a href=\"https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440410\">https://news.ycombinator.com/item?id=49440410</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+            "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+            "published": "Tue, 25 Aug 2026 20:49:03 +0000",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+            "description": "The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:32:00 +0000",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who was the ‘Queen of Country’ Dolly Parton?",
+            "description": "‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:29:11 +0000",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+            "description": "Health Ministry warns of &#039;complete collapse of the basic necessities of life&#039; in Gaza as Israel&#039;s attacks continue.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:26:25 +0000",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T01:45:32+03:30"
+        }
+    ]
+}
