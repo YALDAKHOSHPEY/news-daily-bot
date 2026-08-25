@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 21:53:30
+**Last Update:** 2026-08-25 22:37:01
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Firefox 157 will include JPEG XL by default on all platforms
+### 1. Pgbot: A 5.9 MB read-only Postgres tool for humans and agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
+
+---
+
+### 2. Dolly Parton has died
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death" rel="nofollow">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href="https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html" rel="nofollow">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href="https://archive.ph/w4vsE" rel="nofollow">https://archive.ph/w4vsE</a><p><a href="https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/" rel="nofollow">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438052">https://news.ycombinator.com/item?id=49438052</a></p>
+<p>Points: 357</p>
+<p># Comments: 45</p>
+
+🔗 **Read more:** [https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+
+---
+
+### 3. Firefox 157 will include JPEG XL by default on all platforms
 
 **Source:** Hacker News
 
@@ -19,55 +52,23 @@
 **Description:**
 <p>Article URL: <a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437946">https://news.ycombinator.com/item?id=49437946</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 53</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
 
 ---
 
-### 2. Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437566">https://news.ycombinator.com/item?id=49437566</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
-
----
-
-### 3. Run OpenBSD on DigitalOcean for $4/month
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437483">https://news.ycombinator.com/item?id=49437483</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
-
----
-
-### 4. Dolly Parton: The country legend who sang from the heart
+### 4. Dolly Parton: The life of a legendary country singer
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.
+Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +98,20 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Syria ‘shakes off’ past with removal from US ‘terror list’, says al-Sharaa
+### 7. Syria’s economy poised for improvement after US sanctions removal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss)
+
+---
+
+### 8. Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Removal of decades-old designation offers major sanctions relief for Syria, aimi
 
 ---
 
-### 8. Kremlin denies planned talks with US envoys amid reports CIA head in Russia
+### 9. Kremlin denies planned talks with US envoys amid reports CIA head in Russia
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Removal of decades-old designation offers major sanctions relief for Syria, aimi
 Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss)
-
----
-
-### 9. Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss)
 
 ---
 
