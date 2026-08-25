@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 14:27:17
+**Last Update:** 2026-08-25 14:47:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4g36yze692o">https://www.bbc.com/news/articles/c4g36yze692o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431364">https://news.ycombinator.com/item?id=49431364</a></p>
-<p>Points: 79</p>
-<p># Comments: 76</p>
+<p>Points: 91</p>
+<p># Comments: 92</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4g36yze692o](https://www.bbc.com/news/articles/c4g36yze692o)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://link.springer.com/article/10.1007/s12519-026-01046-1">https://link.springer.com/article/10.1007/s12519-026-01046-1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431024">https://news.ycombinator.com/item?id=49431024</a></p>
-<p>Points: 24</p>
-<p># Comments: 12</p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://link.springer.com/article/10.1007/s12519-026-01046-1](https://link.springer.com/article/10.1007/s12519-026-01046-1)
 
@@ -52,23 +52,23 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 53</p>
-<p># Comments: 18</p>
+<p>Points: 54</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
 
 ---
 
-### 4. Iran says it is 'fully prepared' to counter widened US economic sanctions
+### 4. China warns it will safeguard its interests after US widens sanctions against Iran
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to address them.
+The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
 
 ---
 
