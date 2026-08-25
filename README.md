@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 07:36:19
+**Last Update:** 2026-08-25 07:59:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?
+### 1. Headlong: A Microharness for Persistent Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
+
+---
+
+### 2. Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>Looking for options that might work for a low power touchscreen for a calendar project.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428842">https://news.ycombinator.com/item?id=49428842</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49428842](https://news.ycombinator.com/item?id=49428842)
 
 ---
 
-### 2. Thomson Reuters Launches Its Own Frontier Model
+### 3. Thomson Reuters Launches Its Own Frontier Model
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
+<p>Points: 46</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
-
----
-
-### 3. How Universities Should Prepare Founders
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
-<p>Points: 45</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
 
 ---
 
@@ -98,7 +98,20 @@ At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Pass
 
 ---
 
-### 7. Israel’s Netanyahu claims Iran tried to kill one of his sons
+### 7. Rare tornado near Carcassonne in France causes damage and injuries
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Footage shows a rare tornado making its way through southern France.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss)
+
+---
+
+### 8. Israel’s Netanyahu claims Iran tried to kill one of his sons
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme lead
 
 ---
 
-### 8. Amnesty says India used lethal weapons on ‘Cockroach’ protesters
+### 9. Amnesty says India used lethal weapons on ‘Cockroach’ protesters
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme lead
 Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss)
-
----
-
-### 9. Muslims celebrate Prophet Muhammad’s birthday
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss)
 
 ---
 
