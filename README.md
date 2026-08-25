@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 17:10:17
+**Last Update:** 2026-08-25 17:42:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433759">https://news.ycombinator.com/item?id=49433759</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/">https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433372">https://news.ycombinator.com/item?id=49433372</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 37</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433316">https://news.ycombinator.com/item?id=49433316</a></p>
-<p>Points: 91</p>
-<p># Comments: 57</p>
+<p>Points: 143</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 
 ---
 
-### 4. Five more arrests in fatal A66 crash investigation
+### 4. Dad's house rammed before son died in A66 crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group.
+The house belonging to Cole Worthy's father is significantly damaged with windows also smashed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The US says new sanctions are an "economic D-Day", but Tehran's leaders have sur
 
 ---
 
-### 7. Two killed, refinery on fire in Russia’s Krasnodar after drone attack
+### 7. Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine hits Russia&#039;s Afipsky oil refinery and gas plant in latest attacks targeting energy infrastructure.
+Yan Diomande topped Real&#039;s transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss)
 
 ---
 
-### 8. ‘We can’t breathe’: Indonesians battle wildfire haze
+### 8. How Israel’s Netanyahu weaponises religion in his war rhetoric
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.
+Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces raid UNRWA training centre in occupied East Jerusalem
+### 9. Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.
+A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss)
 
 ---
 
