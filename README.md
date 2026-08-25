@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 12:36:16
+**Last Update:** 2026-08-25 12:54:17
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Screen memory without screenshots, just text to Markdown
+### 1. 'Never seen this level of objection': Scotland pushes back against datacentres
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom">https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49430286">https://news.ycombinator.com/item?id=49430286</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom](https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom)
+
+---
+
+### 2. Show HN: Screen memory without screenshots, just text to Markdown
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 43</p>
-<p># Comments: 15</p>
+<p>Points: 44</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
 
 ---
 
-### 2. Volcanoes that made history
+### 3. Volcanoes that made history
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history">https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428972">https://news.ycombinator.com/item?id=49428972</a></p>
-<p>Points: 6</p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
-
----
-
-### 3. Headlong: A Microharness for Persistent Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
-<p>Points: 52</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 
 ---
 
