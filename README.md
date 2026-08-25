@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 13:28:44
+**Last Update:** 2026-08-25 13:51:17
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ox Alpha – A mysterious new AI model
+### 1. Why some US restaurants are banning tips
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxalpha.com">https://oxalpha.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431119">https://news.ycombinator.com/item?id=49431119</a></p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c4g36yze692o">https://www.bbc.com/news/articles/c4g36yze692o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431364">https://news.ycombinator.com/item?id=49431364</a></p>
 <p>Points: 4</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://oxalpha.com](https://oxalpha.com)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c4g36yze692o](https://www.bbc.com/news/articles/c4g36yze692o)
 
 ---
 
@@ -36,8 +36,8 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 46</p>
-<p># Comments: 16</p>
+<p>Points: 48</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
 
