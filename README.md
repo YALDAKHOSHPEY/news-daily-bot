@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 05:42:08
+**Last Update:** 2026-08-25 06:54:30
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Organised crime arrests as police investigate A66 crash that killed two officers
+### 1. Thomson Reuters Launches Its Own Frontier Model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
+<p>Points: 30</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+
+---
+
+### 2. How Universities Should Prepare Founders
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
+<p>Points: 36</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
+
+---
+
+### 3. Was Modern Art a CIA Psy-Op?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428080">https://news.ycombinator.com/item?id=49428080</a></p>
+<p>Points: 24</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+
+---
+
+### 4. Organised crime arrests as police investigate A66 crash that killed two officers
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Nine men and three women are arrested as police investigate the lead-up to the c
 
 ---
 
-### 2. How the deadly A66 crash unfolded leaving seven dead
+### 5. How the deadly A66 crash unfolded leaving seven dead
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Pass
 
 ---
 
-### 3. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
+### 6. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 4. Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
+### 7. Israel’s Netanyahu claims Iran tried to kill one of his sons
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s capital.
+Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss)
 
 ---
 
-### 5. US plans to revoke business, tourism visas of 200,000 asylum seekers
+### 8. Amnesty says India used lethal weapons on ‘Cockroach’ protesters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
+Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss)
 
 ---
 
-### 6. DRC’s constitutional battle: The fight over the 2028 vote
+### 9. Muslims celebrate Prophet Muhammad’s birthday
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
+Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Old Deer, Carson, Texas
+### 10. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire 22, Miami-Dade, Florida
+### 11. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Rustler, Motley, Texas
+### 12. Wildfire Rustler, Motley, Texas
 
 **Source:** NASA
 
