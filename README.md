@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 08:52:43
+**Last Update:** 2026-08-25 09:25:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -20,8 +20,8 @@
 <p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
 
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Points: 25</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 
@@ -52,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/sifives-first-server-platform">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428638">https://news.ycombinator.com/item?id=49428638</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/sifives-first-server-platform](https://chipsandcheese.com/p/sifives-first-server-platform)
 
@@ -72,7 +72,7 @@ The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says i
 
 ---
 
-### 5. More than 70,000 social and affordable homes to be built across England
+### 5. More than 70,000 social and affordable homes to be built across England over 10 years
 
 **Source:** BBC
 
@@ -98,7 +98,20 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 
 ---
 
-### 7. France and Saudi Arabia plan Dragon Ball Z theme park near Paris
+### 7. Two US carrier groups in Middle East strain navy resources
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss)
+
+---
+
+### 8. France and Saudi Arabia plan Dragon Ball Z theme park near Paris
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris,
 
 ---
 
-### 8. Syrian president thanks nation for getting off US state terror list
+### 9. Syrian president thanks nation for getting off US state terror list
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris,
 Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss)
-
----
-
-### 9. France, Saudi Arabia agree on $7bn theme park project near Paris
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss)
 
 ---
 
