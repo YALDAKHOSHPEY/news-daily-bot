@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 17:42:04
+**Last Update:** 2026-08-25 18:04:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433759">https://news.ycombinator.com/item?id=49433759</a></p>
-<p>Points: 10</p>
-<p># Comments: 6</p>
+<p>Points: 18</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 
 ---
 
-### 2. US data centers tripled annual water consumption to 17B gallons
+### 2. Apple's new Mac mini, featuring M6 and M5 Pro
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/">https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433450">https://news.ycombinator.com/item?id=49433450</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/)
+
+---
+
+### 3. US data centers tripled annual water consumption to 17B gallons
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/">https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433372">https://news.ycombinator.com/item?id=49433372</a></p>
-<p>Points: 37</p>
-<p># Comments: 45</p>
+<p>Points: 48</p>
+<p># Comments: 84</p>
 
 🔗 **Read more:** [https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
-
----
-
-### 3. Apple Introduces New Mac Studio with M5 Max and M5 Ultra
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433316">https://news.ycombinator.com/item?id=49433316</a></p>
-<p>Points: 143</p>
-<p># Comments: 72</p>
-
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 
 ---
 
@@ -97,42 +97,42 @@ The US says new sanctions are an "economic D-Day", but Tehran's leaders have sur
 
 ---
 
-### 7. Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss
+### 7. Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yan Diomande topped Real&#039;s transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.
+Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss)
 
 ---
 
-### 8. How Israel’s Netanyahu weaponises religion in his war rhetoric
+### 8. US military transport plane arrives in Moscow in rare occurrence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
+A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss)
 
 ---
 
-### 9. Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war
+### 9. How can a heavily indebted football club afford Mo Salah?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.
+How do football clubs in debt afford star players?
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss)
 
 ---
 
