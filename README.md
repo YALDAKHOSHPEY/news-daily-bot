@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 04:08:51
+**Last Update:** 2026-08-25 05:27:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bookshelf – Self-hosted eBook library that runs on object storage
+### 1. How Universities Should Prepare Founders
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
+
+---
+
+### 2. What languages are agent skills written in?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://plicara.ai/research/agent-skill-languages/">https://plicara.ai/research/agent-skill-languages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427825">https://news.ycombinator.com/item?id=49427825</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://plicara.ai/research/agent-skill-languages/](https://plicara.ai/research/agent-skill-languages/)
+
+---
+
+### 3. Bookshelf – Self-hosted eBook library that runs on object storage
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.ycombinator.com/item?id=49427001</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/murerkinn/bookshelf](https://github.com/murerkinn/bookshelf)
-
----
-
-### 2. iCloud+ Hide My Email addresses will remain on icloud.com
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 162</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
-
----
-
-### 3. Moon (2024)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=49426466</a></p>
-<p>Points: 78</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://ciechanow.ski/moon/](https://ciechanow.ski/moon/)
 
 ---
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners
+### 7. US plans to revoke business, tourism visas of 200,000 asylum seekers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.
+If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss)
 
 ---
 
-### 8. How US sanctions on Iran ripple through global markets and consumers
+### 8. DRC’s constitutional battle: The fight over the 2028 vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss)
 
 ---
 
-### 9. US Supreme Court sides with Trump administration on mail voting
+### 9. Search continues in Tunisia as migrant boat sinking sparks protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mail balloting has long been a favourite target of US President Donald Trump.
+Tunisia&#039;s Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss)
 
 ---
 
