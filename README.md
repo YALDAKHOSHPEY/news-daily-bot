@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 19:54:21
+**Last Update:** 2026-08-25 20:33:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How much of HN is AI?
+### 1. Anthropic Sees over $30T in Potential Revenue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea">https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436536">https://news.ycombinator.com/item?id=49436536</a></p>
+<p>Points: 18</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)
+
+---
+
+### 2. Warnock: Harnessing GPU Geometry Amplification for Vector Graphics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dl.acm.org/doi/pdf/10.1145/3820012">https://dl.acm.org/doi/pdf/10.1145/3820012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435781">https://news.ycombinator.com/item?id=49435781</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://dl.acm.org/doi/pdf/10.1145/3820012](https://dl.acm.org/doi/pdf/10.1145/3820012)
+
+---
+
+### 3. How much of HN is AI?
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 111</p>
-<p># Comments: 64</p>
+<p>Points: 161</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
-
----
-
-### 2. Beyond Good and Evil: Nietzsche and the Great War
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
-<p>Points: 8</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
-
----
-
-### 3. AI is hitting entry-level jobs hardest, Stanford study finds
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
-<p>Points: 31</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -71,33 +71,59 @@ The house belonging to Cole Worthy's father is significantly damaged and its win
 
 ---
 
-### 5. China hits out at 'illegal' new US sanctions on Iran and trading partners
+### 5. CIA chief travels to Moscow for unannounced talks, US media reports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
+Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Who does Iran trade with and what could Trump's 'economic D-Day' mean?
+### 6. Trump says all mines cleared from Strait of Hormuz
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran is no stranger to US sanctions and has developed deep economic ties with several countries.
+Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Students clash with police in India in a new protest over exam leaks
+### 7. Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss)
+
+---
+
+### 8. Photos: Rohingya refugees rally nine years after Myanmar exodus
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss)
+
+---
+
+### 9. Students clash with police in India in a new protest over exam leaks
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Iran is no stranger to US sanctions and has developed deep economic ties with se
 Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss)
-
----
-
-### 8. Nevada wildfire contained to 27 percent as thousands still displaced
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss)
-
----
-
-### 9. Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men&#039;s world record set by ​Usain Bolt in 100m.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss)
 
 ---
 
