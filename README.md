@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 21:40:40
+**Last Update:** 2026-08-26 22:19:35
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailcat: Secure Tunnels in Seconds (Tailscale)
+### 1. Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf">https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453510">https://news.ycombinator.com/item?id=49453510</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
+
+---
+
+### 2. The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thetariffcost.com/">https://thetariffcost.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453161">https://news.ycombinator.com/item?id=49453161</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://thetariffcost.com/](https://thetariffcost.com/)
+
+---
+
+### 3. Tailcat
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/tailscale/tailcat">https://github.com/tailscale/tailcat</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49452990">https://news.ycombinator.com/item?id=49452990</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Points: 74</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat)
-
----
-
-### 2. An ongoing 3D-printer AGPL violation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1089390/46116614cc74b814/">https://lwn.net/SubscriberLink/1089390/46116614cc74b814/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49452980">https://news.ycombinator.com/item?id=49452980</a></p>
-<p>Points: 25</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1089390/46116614cc74b814/](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
-
----
-
-### 3. Show HN: I made a retirement simulator: 125 years of data, 25 countries
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://foresightplanner.com/">https://foresightplanner.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49452974">https://news.ycombinator.com/item?id=49452974</a></p>
-<p>Points: 9</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://foresightplanner.com/](https://foresightplanner.com/)
 
 ---
 
@@ -71,7 +71,7 @@ This video has been edited by the BBC with white flashes, due to the distressing
 
 ---
 
-### 5. Meta's $18bn settlement a landmark victory for US states
+### 5. Meta to pay up to $18bn to settle claims its platforms harm children
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Curry was best known for playing the outlandish Frank-N-Furter in cult film The 
 
 ---
 
-### 7. US inflation remains sticky in July
+### 7. Kurdish-led SDF has dissolved, but has Syria really unified its military?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.
+SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss)
 
 ---
 
-### 8. Prince Harry and Meghan Markle return to UK after royal rift
+### 8. UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The couple quit royal duties six years ago to head to California. It&#039;s unclear how they will be received on return.
+UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino&#039;s failed World Cup investor plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/prince-harry-and-meghan-markle-return-to-uk-after-royal-rift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/prince-harry-and-meghan-markle-return-to-uk-after-royal-rift?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss)
 
 ---
 
-### 9. At least 50 injured as fireworks explode into crowd at Spanish festival
+### 9. US imposes sanctions on Palestine Action and other left-wing groups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 50 people were injured after several fireworks exploded among a crowd at a festival in northern Spain.
+Palestine Action&#039;s Huda Ammori says Trump&#039;s penalties should be a &#039;wake-up call&#039; for UK to lift ban on the group.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/at-least-50-injured-as-fireworks-explode-into-crowd-at-spanish-festival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/at-least-50-injured-as-fireworks-explode-into-crowd-at-spanish-festival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss)
 
 ---
 
