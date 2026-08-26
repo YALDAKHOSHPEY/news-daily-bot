@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 10:53:04
+**Last Update:** 2026-08-26 11:07:21
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 47</p>
-<p># Comments: 53</p>
+<p>Points: 61</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
 ---
 
-### 2. Secret Cold War IBM Supercomputer Was Built for One Job
+### 2. IBM 7950 (Harvest) a supercomputer for code-breaking during the Cold War
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444232">https://news.ycombinator.com/item?id=49444232</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.21503">https://arxiv.org/abs/2607.21503</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443523">https://news.ycombinator.com/item?id=49443523</a></p>
-<p>Points: 26</p>
-<p># Comments: 13</p>
+<p>Points: 37</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.21503](https://arxiv.org/abs/2607.21503)
 
