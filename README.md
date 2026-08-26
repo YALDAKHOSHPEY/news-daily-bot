@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 13:00:19
+**Last Update:** 2026-08-26 13:33:52
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Buslens – where can I get to by bus? (UK)
+### 1. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rupertlinacre.com/buslens/">https://rupertlinacre.com/buslens/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445286">https://news.ycombinator.com/item?id=49445286</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.globalsolo.global/data/banking-access-index">https://www.globalsolo.global/data/banking-access-index</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445908">https://news.ycombinator.com/item?id=49445908</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://rupertlinacre.com/buslens/](https://rupertlinacre.com/buslens/)
+🔗 **Read more:** [https://www.globalsolo.global/data/banking-access-index](https://www.globalsolo.global/data/banking-access-index)
 
 ---
 
-### 2. Disrupting a new covert influence campaign from Russia
+### 2. Value Classes Still Need Compiler Sympathy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445252">https://news.ycombinator.com/item?id=49445252</a></p>
-<p>Points: 44</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445884">https://news.ycombinator.com/item?id=49445884</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
+🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
 
 ---
 
-### 3. More than half of adults in U.S. say they lack basic statistical understanding
+### 3. Oldinsurancemaps.net is now a Charter Project
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 86</p>
-<p># Comments: 123</p>
+<p>Article URL: <a href="https://openstreetmap.us/news/2026/08/oim-charter-project/">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445873">https://news.ycombinator.com/item?id=49445873</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
+🔗 **Read more:** [https://openstreetmap.us/news/2026/08/oim-charter-project/](https://openstreetmap.us/news/2026/08/oim-charter-project/)
 
 ---
 
-### 4. The life of an iconic country singer
+### 4. Watch: The life of an iconic country singer
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. The Bulgarian village that fears becoming an Iranian target
+### 7. At least eight killed as Nepal flash flood damages roads, energy facilities
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities say casualties could be much higher, alongside heavier losses of property.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss)
+
+---
+
+### 8. Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss)
+
+---
+
+### 9. The Bulgarian village that fears becoming an Iranian target
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss)
-
----
-
-### 8. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss)
-
----
-
-### 9. US immigration agents arrested more than 49,500 people in July
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss)
 
 ---
 
