@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 17:15:01
+**Last Update:** 2026-08-26 18:04:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AWS Acquires DuckDB
+### 1. GLM-5.3-Flash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448321">https://news.ycombinator.com/item?id=49448321</a></p>
-<p>Points: 174</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://z.ai/blog/glm-5.3-flash">https://z.ai/blog/glm-5.3-flash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49449507">https://news.ycombinator.com/item?id=49449507</a></p>
+<p>Points: 86</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
+🔗 **Read more:** [https://z.ai/blog/glm-5.3-flash](https://z.ai/blog/glm-5.3-flash)
 
 ---
 
-### 2. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
+### 2. Meta reaches $16.68B settlement over social media harms to children
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-flash-next">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448210">https://news.ycombinator.com/item?id=49448210</a></p>
-<p>Points: 73</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448819">https://news.ycombinator.com/item?id=49448819</a></p>
+<p>Points: 128</p>
+<p># Comments: 71</p>
 
-🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8-flash-next](https://qwen.ai/blog?id=qwen3.8-flash-next)
+🔗 **Read more:** [https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
 
 ---
 
-### 3. A curmudgeon tries a language server
+### 3. Wiped out: US faces surging toilet paper prices amid trade war with Canada
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://entropicthoughts.com/curmudgeon-tries-language-server">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448150">https://news.ycombinator.com/item?id=49448150</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada">https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448560">https://news.ycombinator.com/item?id=49448560</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://entropicthoughts.com/curmudgeon-tries-language-server](https://entropicthoughts.com/curmudgeon-tries-language-server)
+🔗 **Read more:** [https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada](https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada)
 
 ---
 
@@ -97,42 +97,42 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 
 ---
 
-### 7. Callaway apologises after golf ad slammed for depicting domestic violence
+### 7. Meta agrees to settlement, platform changes in youth addiction case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The advert, which was released online last week before being pulled, prompted calls for a boycott of Callaway products.
+Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss)
 
 ---
 
-### 8. A teacher’s slap, student’s death revive India’s corporal punishment debate
+### 8. Trump tells Al Jazeera “not in a hurry” for Iran to return to talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Teja&#039;s death raises question India has not fully answered: why more than a decade after ban is hitting children routine?
+&quot;I have no time schedule,&quot; Trump says when asked when he expects Iran to return to the negotiating table.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss)
 
 ---
 
-### 9. ICC chief urges Japan to counter US pressure on the court
+### 9. Bodies of missing people found in Korea becomes national scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington escalated its campaign against the ICC last week by sanctioning its president and a senior trial lawyer.
+A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss)
 
 ---
 
