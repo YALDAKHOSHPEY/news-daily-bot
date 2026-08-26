@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 12:00:29
+**Last Update:** 2026-08-26 12:38:41
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Disrupting a new covert influence campaign from Russia
+### 1. The End of Programming
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pauldix.com/the-end-of-programming">https://pauldix.com/the-end-of-programming</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445717">https://news.ycombinator.com/item?id=49445717</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://pauldix.com/the-end-of-programming](https://pauldix.com/the-end-of-programming)
+
+---
+
+### 2. Show HN: Buslens – where can I get to by bus? (UK)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rupertlinacre.com/buslens/">https://rupertlinacre.com/buslens/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445286">https://news.ycombinator.com/item?id=49445286</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://rupertlinacre.com/buslens/](https://rupertlinacre.com/buslens/)
+
+---
+
+### 3. Disrupting a new covert influence campaign from Russia
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445252">https://news.ycombinator.com/item?id=49445252</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Points: 35</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
-
----
-
-### 2. I miss the old Claude Code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/">https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444863">https://news.ycombinator.com/item?id=49444863</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/](https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/)
-
----
-
-### 3. More than half of adults in U.S. say they lack basic statistical understanding
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 76</p>
-<p># Comments: 106</p>
-
-🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
 ---
 
