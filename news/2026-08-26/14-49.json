@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T14:49:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The journalist facing an $800 daily fine to keep her sources secret",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court\">https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446773\">https://news.ycombinator.com/item?id=49446773</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+            "published": "Wed, 26 Aug 2026 10:48:26 +0000",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. gov't moves to suppress pushback on data centers",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them\">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446748\">https://news.ycombinator.com/item?id=49446748</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+            "published": "Wed, 26 Aug 2026 10:44:40 +0000",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Feeling of Power (Asimov, 1958)",
+            "description": "<p>Article URL: <a href=\"https://archive.org/details/1958-02_IF\">https://archive.org/details/1958-02_IF</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446602\">https://news.ycombinator.com/item?id=49446602</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://archive.org/details/1958-02_IF",
+            "published": "Wed, 26 Aug 2026 10:26:03 +0000",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder probe as two people dead in house fire",
+            "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 11:14:03 GMT",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan due to arrive in UK today",
+            "description": "Prince Harry, Meghan, and their two children are believed to be flying into the country privately from California.",
+            "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 11:14:04 GMT",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino has no future at FIFA, says European Leagues chief",
+            "description": "Claudius Schaefer insists the influence of the FIFA president has &#039;grown from year to year&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:42:01 +0000",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+            "description": "The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:29:46 +0000",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+            "description": "Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:28:52 +0000",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T14:49:45+03:30"
+        }
+    ]
+}
