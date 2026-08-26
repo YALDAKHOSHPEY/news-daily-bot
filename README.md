@@ -1,29 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 08:32:36
+**Last Update:** 2026-08-26 08:53:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: What is one simple thing LLMs are insanely bad at?
+### 1. Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I am looking for ideas on what to train a specialized model for!<p>What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443820">https://news.ycombinator.com/item?id=49443820</a></p>
-<p>Points: 22</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026">https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443871">https://news.ycombinator.com/item?id=49443871</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49443820](https://news.ycombinator.com/item?id=49443820)
+🔗 **Read more:** [https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026](https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026)
 
 ---
 
@@ -36,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.21503">https://arxiv.org/abs/2607.21503</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443523">https://news.ycombinator.com/item?id=49443523</a></p>
-<p>Points: 9</p>
+<p>Points: 12</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.21503](https://arxiv.org/abs/2607.21503)
 
 ---
 
-### 3. Queryable Executables
+### 3. The brain may be about to have its Ozempic moment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
-<p>Points: 56</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442743">https://news.ycombinator.com/item?id=49442743</a></p>
+<p>Points: 69</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
 ---
 
@@ -98,7 +97,20 @@ Millions of households will be affected by an increase in the energy price cap b
 
 ---
 
-### 7. At least 15 newborns killed in Pakistan hospital fire
+### 7. Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russia’s biggest online retailer, Wildberries, has once again been attacked in a drone strike by Ukraine.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss)
+
+---
+
+### 8. At least 15 newborns killed in Pakistan hospital fire
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Only one child rescued after fire breaks out in the nursery at Pakistan Institut
 
 ---
 
-### 8. Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
+### 9. Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Only one child rescued after fire breaks out in the nursery at Pakistan Institut
 Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss)
-
----
-
-### 9. Instagram chief testifies at Meta trial, says few teens used safety feature
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Meta is on trial over claims it hooked young users on its platforms despite mental health risks.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss)
 
 ---
 
