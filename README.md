@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 13:33:52
+**Last Update:** 2026-08-26 13:54:01
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
+### 1. Social media use on the rise among Australian under-16s after ban: data
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data">https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446221">https://news.ycombinator.com/item?id=49446221</a></p>
+<p>Points: 11</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
+
+---
+
+### 2. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.globalsolo.global/data/banking-access-index">https://www.globalsolo.global/data/banking-access-index</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445908">https://news.ycombinator.com/item?id=49445908</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.globalsolo.global/data/banking-access-index](https://www.globalsolo.global/data/banking-access-index)
 
 ---
 
-### 2. Value Classes Still Need Compiler Sympathy
+### 3. Value Classes Still Need Compiler Sympathy
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445884">https://news.ycombinator.com/item?id=49445884</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
-
----
-
-### 3. Oldinsurancemaps.net is now a Charter Project
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openstreetmap.us/news/2026/08/oim-charter-project/">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445873">https://news.ycombinator.com/item?id=49445873</a></p>
-<p>Points: 15</p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://openstreetmap.us/news/2026/08/oim-charter-project/](https://openstreetmap.us/news/2026/08/oim-charter-project/)
+🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
 
 ---
 
@@ -97,7 +97,20 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. At least eight killed as Nepal flash flood damages roads, energy facilities
+### 7. One US dollar now costs 2 million rials in Iran, and here’s what it can buy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss)
+
+---
+
+### 8. At least eight killed as Nepal flash flood damages roads, energy facilities
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Authorities say casualties could be much higher, alongside heavier losses of pro
 
 ---
 
-### 8. Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
+### 9. Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Authorities say casualties could be much higher, alongside heavier losses of pro
 Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss)
-
----
-
-### 9. The Bulgarian village that fears becoming an Iranian target
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss)
 
 ---
 
