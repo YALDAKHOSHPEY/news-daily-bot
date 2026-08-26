@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 12:38:41
+**Last Update:** 2026-08-26 13:00:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The End of Programming
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pauldix.com/the-end-of-programming">https://pauldix.com/the-end-of-programming</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445717">https://news.ycombinator.com/item?id=49445717</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://pauldix.com/the-end-of-programming](https://pauldix.com/the-end-of-programming)
-
----
-
-### 2. Show HN: Buslens – where can I get to by bus? (UK)
+### 1. Show HN: Buslens – where can I get to by bus? (UK)
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://rupertlinacre.com/buslens/">https://rupertlinacre.com/buslens/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445286">https://news.ycombinator.com/item?id=49445286</a></p>
-<p>Points: 5</p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://rupertlinacre.com/buslens/](https://rupertlinacre.com/buslens/)
 
 ---
 
-### 3. Disrupting a new covert influence campaign from Russia
+### 2. Disrupting a new covert influence campaign from Russia
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445252">https://news.ycombinator.com/item?id=49445252</a></p>
-<p>Points: 35</p>
-<p># Comments: 14</p>
+<p>Points: 44</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
+
+---
+
+### 3. More than half of adults in U.S. say they lack basic statistical understanding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
+<p>Points: 86</p>
+<p># Comments: 123</p>
+
+🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
 ---
 
@@ -97,42 +97,42 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. Trump’s Korean gambit exposes a shifting East Asian order
+### 7. The Bulgarian village that fears becoming an Iranian target
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Growing doubts about the US security umbrella are forcing new strategic calculations across the region.
+US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss)
 
 ---
 
-### 8. Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam
+### 8. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.
+Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss)
 
 ---
 
-### 9. US Army Black Hawk helicopter crashes in Colorado
+### 9. US immigration agents arrested more than 49,500 people in July
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.
+The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss)
 
 ---
 
