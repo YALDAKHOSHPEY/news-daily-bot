@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-27T00:57:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Every push-up becomes an attack in a camera-counted RPG game",
+            "description": "<p>Article URL: <a href=\"https://pushup.quest/\">https://pushup.quest/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455695\">https://news.ycombinator.com/item?id=49455695</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://pushup.quest/",
+            "published": "Wed, 26 Aug 2026 20:48:48 +0000",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What will be left for us to work on",
+            "description": "<p>Article URL: <a href=\"https://ICML.cc/virtual/2026/invited-talk/67274\">https://ICML.cc/virtual/2026/invited-talk/67274</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455613\">https://news.ycombinator.com/item?id=49455613</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://ICML.cc/virtual/2026/invited-talk/67274",
+            "published": "Wed, 26 Aug 2026 20:42:31 +0000",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: We built the smallest dual-band aircraft tracker",
+            "description": "<p>We've been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anything about ADSB or hardware manufacturing!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49455557\">https://news.ycombinator.com/item?id=49455557</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+            "published": "Wed, 26 Aug 2026 20:38:44 +0000",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+            "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+            "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
+            "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 17:44:39 GMT",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman who died alongside niece, 7, in house fire was 'beautiful soul'",
+            "description": "A family member pays tribute to the \"bright and bubbly\" woman and \"cute kid\" killed in the fire.",
+            "url": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 21:03:51 GMT",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
+            "description": "US authorities seized two domains allegedly used to target sensitive government networks since 2018.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 20:59:10 +0000",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers",
+            "description": "With elections set for January, President Tinubu seeks to clamp down on kidnapping trend in northern Nigeria.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 20:45:35 +0000",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind the SDF’s deal with Damascus?",
+            "description": "The Syrian Democratic Forces announces its dissolution after merging with Syria&#039;s army.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 20:37:11 +0000",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-27T00:57:11+03:30"
+        }
+    ]
+}
