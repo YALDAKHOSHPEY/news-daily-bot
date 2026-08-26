@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 05:48:52
+**Last Update:** 2026-08-26 07:00:56
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442743">https://news.ycombinator.com/item?id=49442743</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 51</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 33</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/runetes/maiao">https://github.com/runetes/maiao</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441666">https://news.ycombinator.com/item?id=49441666</a></p>
-<p>Points: 28</p>
-<p># Comments: 8</p>
+<p>Points: 40</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://github.com/runetes/maiao](https://github.com/runetes/maiao)
 
@@ -71,16 +71,16 @@ Iconic country musician Dolly Parton has died at the age of 80, the singer's tea
 
 ---
 
-### 5. Father's house rammed before son died in A66 crash
+### 5. Winter energy prices expected to rise to three-year high
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.
+Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan
+### 7. Israeli soldiers block Knesset member from besieged Palestinian home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.
+Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss)
 
 ---
 
-### 8. Is Sudan’s battlefield shaping the terms of its next political phase?
+### 8. Mamdani opposes Hindu nationalist event in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.
+Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss)
 
 ---
 
-### 9. Human rights situation in Myanmar ‘plummets to new low’, UN says
+### 9. Water crisis makes life in Sudan’s El Obeid refugee camps even worse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.
+Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss)
 
 ---
 
