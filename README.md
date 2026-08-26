@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 00:57:11
+**Last Update:** 2026-08-27 03:22:22
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Every push-up becomes an attack in a camera-counted RPG game
+### 1. Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pushup.quest/">https://pushup.quest/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455695">https://news.ycombinator.com/item?id=49455695</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://pushup.quest/](https://pushup.quest/)
+🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 
 ---
 
-### 2. What will be left for us to work on
+### 2. Clerky Is Joining Stripe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ICML.cc/virtual/2026/invited-talk/67274">https://ICML.cc/virtual/2026/invited-talk/67274</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455613">https://news.ycombinator.com/item?id=49455613</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://ICML.cc/virtual/2026/invited-talk/67274](https://ICML.cc/virtual/2026/invited-talk/67274)
+🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
 
 ---
 
-### 3. Show HN: We built the smallest dual-band aircraft tracker
+### 3. mold: A Parallel Linker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>We've been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anything about ADSB or hardware manufacturing!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455557">https://news.ycombinator.com/item?id=49455557</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.23228">https://arxiv.org/abs/2608.23228</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455530">https://news.ycombinator.com/item?id=49455530</a></p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/)
+🔗 **Read more:** [https://arxiv.org/abs/2608.23228](https://arxiv.org/abs/2608.23228)
 
 ---
 
-### 4. Video shows scale of flash flood hitting Nepal-Tibet border
+### 4. BBC visits hospital in Kathmandu as families wait for news
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-This video has been edited by the BBC with white flashes, due to the distressing content.
+More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,55 +84,55 @@ The deal has been reached during a California federal court trial over claims br
 
 ---
 
-### 6. Woman who died alongside niece, 7, in house fire was 'beautiful soul'
+### 6. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A family member pays tribute to the "bright and bubbly" woman and "cute kid" killed in the fire.
+Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies
+### 7. Spain’s tomato food fight leaves thousands covered in pulp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US authorities seized two domains allegedly used to target sensitive government networks since 2018.
+Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss)
 
 ---
 
-### 8. Nigeria launches hunt for hundreds of kidnapped mosque worshippers
+### 8. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With elections set for January, President Tinubu seeks to clamp down on kidnapping trend in northern Nigeria.
+Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga opener when Athletic arrive from Bilbao.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
-### 9. What’s behind the SDF’s deal with Damascus?
+### 9. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Syrian Democratic Forces announces its dissolution after merging with Syria&#039;s army.
+ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/26/whats-behind-the-sdfs-deal-with-damascus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss)
 
 ---
 
