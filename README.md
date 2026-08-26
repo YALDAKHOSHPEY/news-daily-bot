@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 14:49:45
+**Last Update:** 2026-08-26 15:23:45
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The journalist facing an $800 daily fine to keep her sources secret
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court">https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446773">https://news.ycombinator.com/item?id=49446773</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court](https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court)
-
----
-
-### 2. U.S. gov't moves to suppress pushback on data centers
+### 1. U.S. gov't moves to suppress pushback on data centers
 
 **Source:** Hacker News
 
@@ -35,30 +19,46 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446748">https://news.ycombinator.com/item?id=49446748</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 53</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
 
 ---
 
-### 3. The Feeling of Power (Asimov, 1958)
+### 2. It's Not the End of Programming
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://archive.org/details/1958-02_IF">https://archive.org/details/1958-02_IF</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446602">https://news.ycombinator.com/item?id=49446602</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://mathstodon.xyz/@abuseofnotation/117161292083848755">https://mathstodon.xyz/@abuseofnotation/117161292083848755</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446597">https://news.ycombinator.com/item?id=49446597</a></p>
+<p>Points: 21</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://archive.org/details/1958-02_IF](https://archive.org/details/1958-02_IF)
+🔗 **Read more:** [https://mathstodon.xyz/@abuseofnotation/117161292083848755](https://mathstodon.xyz/@abuseofnotation/117161292083848755)
 
 ---
 
-### 4. Murder probe as two people dead in house fire
+### 3. Beyond Recall and the Illusion of Competence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html">https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446442">https://news.ycombinator.com/item?id=49446442</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
+
+---
+
+### 4. Murder probe as two people dead in house fire in Middlesbrough
 
 **Source:** BBC
 
@@ -71,7 +71,7 @@ Cleveland Police says it "cannot rule out any links to wider organised crime" af
 
 ---
 
-### 5. Prince Harry and Meghan due to arrive in UK today
+### 5. Prince Harry and Meghan to arrive in UK today
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Iconic country musician Dolly Parton has died at the age of 80, the singer's tea
 
 ---
 
-### 7. Infantino has no future at FIFA, says European Leagues chief
+### 7. Manchester City sign teenage Moroccan football star Ayyoub Bouaddi
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sought-after midfielder Bouaddi joins the Premier League club from Lille on a five-year deal worth $117 million.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss)
+
+---
+
+### 8. Infantino has no future at FIFA, says European Leagues chief
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Claudius Schaefer insists the influence of the FIFA president has &#039;grown fr
 
 ---
 
-### 8. China’s Xi to visit Kyrgyzstan, Egypt
+### 9. China’s Xi to visit Kyrgyzstan, Egypt
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Claudius Schaefer insists the influence of the FIFA president has &#039;grown fr
 The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss)
-
----
-
-### 9. Is Japan trying to build bridges with China after Taiwan spat?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss)
 
 ---
 
