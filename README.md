@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 07:59:25
+**Last Update:** 2026-08-26 08:32:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -43,19 +43,19 @@
 
 ---
 
-### 3. The brain may be about to have its Ozempic moment
+### 3. Queryable Executables
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442743">https://news.ycombinator.com/item?id=49442743</a></p>
-<p>Points: 64</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
+<p>Points: 56</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 
 ---
 
@@ -98,7 +98,20 @@ Millions of households will be affected by an increase in the energy price cap b
 
 ---
 
-### 7. Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
+### 7. At least 15 newborns killed in Pakistan hospital fire
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss)
+
+---
+
+### 8. Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, inc
 
 ---
 
-### 8. Instagram chief testifies at Meta trial, says few teens used safety feature
+### 9. Instagram chief testifies at Meta trial, says few teens used safety feature
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, inc
 Meta is on trial over claims it hooked young users on its platforms despite mental health risks.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss)
-
----
-
-### 9. Who were the Syrian Democratic Forces and why dissolve?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss)
 
 ---
 
