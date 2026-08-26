@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T23:53:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Serve Markdown to AI Agents with Accept Headers",
+            "description": "<p>Article URL: <a href=\"https://acceptmarkdown.com/\">https://acceptmarkdown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454764\">https://news.ycombinator.com/item?id=49454764</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://acceptmarkdown.com/",
+            "published": "Wed, 26 Aug 2026 19:45:59 +0000",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The risks of AI are real but manageable (2023)",
+            "description": "<p>Article URL: <a href=\"https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable\">https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454742\">https://news.ycombinator.com/item?id=49454742</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+            "published": "Wed, 26 Aug 2026 19:44:33 +0000",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+            "description": "<p>Article URL: <a href=\"https://isgithubcooked.com/\">https://isgithubcooked.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49454728\">https://news.ycombinator.com/item?id=49454728</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://isgithubcooked.com/",
+            "published": "Wed, 26 Aug 2026 19:43:48 +0000",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+            "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+            "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
+            "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 17:44:39 GMT",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rocky Horror star Tim Curry dies at 80",
+            "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 19:53:35 GMT",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Flavio Bolsonaro to institute debt ceiling if elected president",
+            "description": "A debt ceiling would trigger automatic spending cuts, which conservatives could use to pare back social programmes.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/brazils-flavio-bolsonaro-to-institute-debt-ceiling-if-elected-president?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 20:13:52 +0000",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "8 migrants buried in Tunisia’s coastal town of Ben Guerdane",
+            "description": "Residents of Tunisia’s coastal town of Ben Guerdane on Wednesday attended the funerals of eight young migrants.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/8-migrants-buried-in-tunisias-coastal-town-of-ben-guerdane?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 20:05:57 +0000",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video: Ukrainian drones target Wildberries e-commerce hub in Russia",
+            "description": "Ukrainian drones have again targeted the Russian online shopping giant Wildberries.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 19:41:35 +0000",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T23:53:09+03:30"
+        }
+    ]
+}
