@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 03:15:56
+**Last Update:** 2026-08-26 04:09:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
+### 1. Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/runetes/maiao">https://github.com/runetes/maiao</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441666">https://news.ycombinator.com/item?id=49441666</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/runetes/maiao](https://github.com/runetes/maiao)
+
+---
+
+### 2. Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk.<p>TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load.<p>Try it out: <a href="https://tex.swimmingbrain.dev/" rel="nofollow">https://tex.swimmingbrain.dev/</a> (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem)<p>Or for self-hosting/contributing: <a href="https://github.com/swimmingbrain/texbrain" rel="nofollow">https://github.com/swimmingbrain/texbrain</a> (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file).<p>The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content.<p>So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge.<p>This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that.<p>Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441375">https://news.ycombinator.com/item?id=49441375</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
+<p>Points: 33</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/swimmingbrain/texbrain](https://github.com/swimmingbrain/texbrain)
 
 ---
 
-### 2. Python's pre-declared constants are kinda weird
+### 3. Python's pre-declared constants are kinda weird
 
 **Source:** Hacker News
 
@@ -36,30 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://sebsite.pw/w/20260801-pythonconstants.html">https://sebsite.pw/w/20260801-pythonconstants.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441033">https://news.ycombinator.com/item?id=49441033</a></p>
-<p>Points: 93</p>
-<p># Comments: 40</p>
+<p>Points: 112</p>
+<p># Comments: 59</p>
 
 🔗 **Read more:** [https://sebsite.pw/w/20260801-pythonconstants.html](https://sebsite.pw/w/20260801-pythonconstants.html)
-
----
-
-### 3. XCancel also down, at least for time being
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Message on xcancel website:<p>"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.
-The service XCancel is stopped until further notice.
-We are seeking legal advice and won't share more details for now.
-Thank you for the trust you have put in these two years of XCancel."<p>https://xcancel.com/</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49440786">https://news.ycombinator.com/item?id=49440786</a></p>
-<p>Points: 143</p>
-<p># Comments: 50</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49440786](https://news.ycombinator.com/item?id=49440786)
 
 ---
 
@@ -102,7 +98,20 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Brazil fines TikTok $30m for child data privacy violations
+### 7. Iran war live: Iran says Hormuz remains closed despite Oman route deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss)
+
+---
+
+### 8. Brazil fines TikTok $30m for child data privacy violations
 
 **Source:** Al Jazeera
 
@@ -115,7 +124,7 @@ Owner ByteDance ordered to erase illegally obtained child data in Brazil as crac
 
 ---
 
-### 8. Why can’t America agree on what time it is?
+### 9. Why can’t America agree on what time it is?
 
 **Source:** Al Jazeera
 
@@ -125,19 +134,6 @@ Owner ByteDance ordered to erase illegally obtained child data in Brazil as crac
 Why can’t America agree on what time it is?
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss)
-
----
-
-### 9. US judge blocks Ohio law requiring proof of citizenship to register to vote
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss)
 
 ---
 
