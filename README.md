@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 09:59:20
+**Last Update:** 2026-08-26 10:53:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 47</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
 ---
 
-### 2. Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests
+### 2. Secret Cold War IBM Supercomputer Was Built for One Job
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026">https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443871">https://news.ycombinator.com/item?id=49443871</a></p>
-<p>Points: 33</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444232">https://news.ycombinator.com/item?id=49444232</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026](https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026)
+🔗 **Read more:** [https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 
 ---
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.21503">https://arxiv.org/abs/2607.21503</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443523">https://news.ycombinator.com/item?id=49443523</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.21503](https://arxiv.org/abs/2607.21503)
 
 ---
 
-### 4. How Dolly Parton told her life story through six iconic songs
+### 4. The life of an iconic country singer
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.
+Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ There have been decades of mistreatment and mismanagement of those who seek help
 
 ---
 
-### 7. Top official says Iran, Oman have agreed new temporary route in Hormuz
+### 7. Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Star pair lost to Cobolli and Bencic, who will play married partners Elina Svitolina and Gael Monfils in the semifinal.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss)
+
+---
+
+### 8. Top official says Iran, Oman have agreed new temporary route in Hormuz
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Deputy foreign minster says the route&#039;s entry as well as part of the exit w
 
 ---
 
-### 8. Iran bets economic pain will pressure Trump in game of ‘chicken’
+### 9. Iran bets economic pain will pressure Trump in game of ‘chicken’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Deputy foreign minster says the route&#039;s entry as well as part of the exit w
 Iran is betting global economic fallout and Republicans worried about the midterms will force Trump&#039;s retreat.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss)
-
----
-
-### 9. Fireworks factory goes up in smoke in Mexico
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss)
 
 ---
 
