@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 13:33:33
+**Last Update:** 2026-08-27 16:48:49
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Dutch are filling gas wells with cement
+### 1. Landsat 9 pass captured the effects of yesterday's catastrophic glacier collapse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with">https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49461608">https://news.ycombinator.com/item?id=49461608</a></p>
-<p>Points: 25</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://twitter.com/WxNB_/status/2092875025246261494">https://twitter.com/WxNB_/status/2092875025246261494</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49463392">https://news.ycombinator.com/item?id=49463392</a></p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with](https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with)
+🔗 **Read more:** [https://twitter.com/WxNB_/status/2092875025246261494](https://twitter.com/WxNB_/status/2092875025246261494)
 
 ---
 
-### 2. Kusama Yayoi has died
+### 2. Adentris (YC P25) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/axjMF" rel="nofollow">https://archive.ph/axjMF</a><p><a href="https://yayoi-kusama.jp/en/news4518/" rel="nofollow">https://yayoi-kusama.jp/en/news4518/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458709">https://news.ycombinator.com/item?id=49458709</a></p>
-<p>Points: 177</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python">https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49463361">https://news.ycombinator.com/item?id=49463361</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+🔗 **Read more:** [https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
 
 ---
 
-### 3. Laion Big Video Dataset
+### 3. Pollen Robotics (Hugging Face) Microduck
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://projects.laion.ai/bvd/">https://projects.laion.ai/bvd/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458478">https://news.ycombinator.com/item?id=49458478</a></p>
-<p>Points: 64</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://pollen-robotics.com/microduck/">https://pollen-robotics.com/microduck/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49462763">https://news.ycombinator.com/item?id=49462763</a></p>
+<p>Points: 109</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://projects.laion.ai/bvd/](https://projects.laion.ai/bvd/)
+🔗 **Read more:** [https://pollen-robotics.com/microduck/](https://pollen-robotics.com/microduck/)
 
 ---
 
-### 4. Watch: Rescue teams pull survivors from thick mud
+### 4. Watch: How the collapse of a glacier caused such devastation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.
+At least 270 people have died in the massive flash floods, while more than 800 others are missing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two teenagers, 13 and 14, among 33 UK nationals missing in disaster
+### 5. 'My family members were swept away': Survivors describe horror
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nepali police says 270 bodies have been recovered, while over 800 are still missing in total, according to authorities.
+One woman says her father, mother, sister and sister's children were carried away before her eyes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says
+### 6. UK salmonella cases nearing 500 as egg investigations continue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.
+Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How far will the US-Canada trade war go?
+### 7. Russia warns it could target UK in response to Kyiv firing British missiles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada and the US risk a full-scale trade war after a breakdown in talks.
+Foreign ministry warns against &#039;terrorism&#039; of firing long-range British cruise missiles at targets in Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles?traffic_source=rss)
 
 ---
 
-### 8. Trump crosses Lake Ontario on map, renames it ‘Lake America’
+### 8. Sri Lanka salvage draw in second Test after battling Dinusha denies India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump posted a video of him crossing out Lake Ontario on a map and writing ‘Lake America’ instead.
+Dinusha&#039;s 133 not out, his second century of the match and third in four innings, helps the hosts avoid defeat.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/sri-lanka-salvage-draw-in-second-test-after-battling-dinusha-denies-india?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/sri-lanka-salvage-draw-in-second-test-after-battling-dinusha-denies-india?traffic_source=rss)
 
 ---
 
-### 9. How a 95 percent drop in Hormuz traffic changed global shipping
+### 9. Thieves raid bronze age collection in ‘super-fast’ Spain museum heist
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.
+It is not immediately known how many of the 50-plus mainly gold objects from the Treasure of Villena were taken.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/thieves-raid-bronze-age-collection-in-super-fast-spain-museum-heist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/thieves-raid-bronze-age-collection-in-super-fast-spain-museum-heist?traffic_source=rss)
 
 ---
 

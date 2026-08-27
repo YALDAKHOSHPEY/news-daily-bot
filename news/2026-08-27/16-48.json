@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-27T16:48:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Landsat 9 pass captured the effects of yesterday's catastrophic glacier collapse",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/WxNB_/status/2092875025246261494\">https://twitter.com/WxNB_/status/2092875025246261494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49463392\">https://news.ycombinator.com/item?id=49463392</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+            "url": "https://twitter.com/WxNB_/status/2092875025246261494",
+            "published": "Thu, 27 Aug 2026 12:03:32 +0000",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Adentris (YC P25) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python\">https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49463361\">https://news.ycombinator.com/item?id=49463361</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
+            "published": "Thu, 27 Aug 2026 12:00:31 +0000",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pollen Robotics (Hugging Face) Microduck",
+            "description": "<p>Article URL: <a href=\"https://pollen-robotics.com/microduck/\">https://pollen-robotics.com/microduck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49462763\">https://news.ycombinator.com/item?id=49462763</a></p>\n<p>Points: 109</p>\n<p># Comments: 31</p>",
+            "url": "https://pollen-robotics.com/microduck/",
+            "published": "Thu, 27 Aug 2026 10:57:56 +0000",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How the collapse of a glacier caused such devastation",
+            "description": "At least 270 people have died in the massive flash floods, while more than 800 others are missing.",
+            "url": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 10:17:45 GMT",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'My family members were swept away': Survivors describe horror",
+            "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+            "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 07:09:52 GMT",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK salmonella cases nearing 500 as egg investigations continue",
+            "description": "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.",
+            "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 11:00:35 GMT",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia warns it could target UK in response to Kyiv firing British missiles",
+            "description": "Foreign ministry warns against &#039;terrorism&#039; of firing long-range British cruise missiles at targets in Russia.",
+            "url": "https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 12:58:11 +0000",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sri Lanka salvage draw in second Test after battling Dinusha denies India",
+            "description": "Dinusha&#039;s 133 not out, his second century of the match and third in four innings, helps the hosts avoid defeat.",
+            "url": "https://www.aljazeera.com/sports/2026/8/27/sri-lanka-salvage-draw-in-second-test-after-battling-dinusha-denies-india?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 12:55:55 +0000",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thieves raid bronze age collection in ‘super-fast’ Spain museum heist",
+            "description": "It is not immediately known how many of the 50-plus mainly gold objects from the Treasure of Villena were taken.",
+            "url": "https://www.aljazeera.com/news/2026/8/27/thieves-raid-bronze-age-collection-in-super-fast-spain-museum-heist?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 12:40:51 +0000",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-27T16:48:49+03:30"
+        }
+    ]
+}
