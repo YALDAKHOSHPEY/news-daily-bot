@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 16:48:49
+**Last Update:** 2026-08-28 00:07:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Landsat 9 pass captured the effects of yesterday's catastrophic glacier collapse
+### 1. Silicon Valley is in denial in face of widespread backlash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/WxNB_/status/2092875025246261494">https://twitter.com/WxNB_/status/2092875025246261494</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49463392">https://news.ycombinator.com/item?id=49463392</a></p>
-<p>Points: 24</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://twitter.com/WxNB_/status/2092875025246261494](https://twitter.com/WxNB_/status/2092875025246261494)
-
----
-
-### 2. Adentris (YC P25) Is Hiring
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python">https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49463361">https://news.ycombinator.com/item?id=49463361</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49470380">https://news.ycombinator.com/item?id=49470380</a></p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python)
+🔗 **Read more:** [https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)
 
 ---
 
-### 3. Pollen Robotics (Hugging Face) Microduck
+### 2. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pollen-robotics.com/microduck/">https://pollen-robotics.com/microduck/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49462763">https://news.ycombinator.com/item?id=49462763</a></p>
-<p>Points: 109</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469249">https://news.ycombinator.com/item?id=49469249</a></p>
+<p>Points: 56</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://pollen-robotics.com/microduck/](https://pollen-robotics.com/microduck/)
+🔗 **Read more:** [https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
 
 ---
 
-### 4. Watch: How the collapse of a glacier caused such devastation
+### 3. Autism mutations drive neurodevelopmental pathology
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ady4523">https://www.science.org/doi/10.1126/science.ady4523</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469098">https://news.ycombinator.com/item?id=49469098</a></p>
+<p>Points: 44</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ady4523](https://www.science.org/doi/10.1126/science.ady4523)
+
+---
+
+### 4. Watch: Tracing the deadly path of the Nepal-Tibet flash flood
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least 270 people have died in the massive flash floods, while more than 800 others are missing.
+BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'My family members were swept away': Survivors describe horror
+### 5. Uefa preparing criminal legal action against Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One woman says her father, mother, sister and sister's children were carried away before her eyes.
+Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK salmonella cases nearing 500 as egg investigations continue
+### 6. The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.
+The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia warns it could target UK in response to Kyiv firing British missiles
+### 7. Trump executive order bans some foreign equipment in US energy grid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign ministry warns against &#039;terrorism&#039; of firing long-range British cruise missiles at targets in Russia.
+Order declares a national emergency over an &#039;unusual and extraordinary foreign threat&#039; to the grid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/russia-warns-it-could-target-uk-in-response-to-kyiv-firing-british-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss)
 
 ---
 
-### 8. Sri Lanka salvage draw in second Test after battling Dinusha denies India
+### 8. Zambia opposition leader questioned over ‘treason’ amid election fallout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dinusha&#039;s 133 not out, his second century of the match and third in four innings, helps the hosts avoid defeat.
+Zambia&#039;s entire judiciary closed on Monday on the last valid day to file a court challenge against Hichilema&#039;s victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/sri-lanka-salvage-draw-in-second-test-after-battling-dinusha-denies-india?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/sri-lanka-salvage-draw-in-second-test-after-battling-dinusha-denies-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss)
 
 ---
 
-### 9. Thieves raid bronze age collection in ‘super-fast’ Spain museum heist
+### 9. Video: Israeli strike kills newlywed woman in south Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It is not immediately known how many of the 50-plus mainly gold objects from the Treasure of Villena were taken.
+A Lebanese woman has been killed, and several other people injured by Israeli strikes on Nabatieh, southern Lebanon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/thieves-raid-bronze-age-collection-in-super-fast-spain-museum-heist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/thieves-raid-bronze-age-collection-in-super-fast-spain-museum-heist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss)
 
 ---
 

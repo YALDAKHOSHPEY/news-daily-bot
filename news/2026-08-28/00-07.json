@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-28T00:07:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Silicon Valley is in denial in face of widespread backlash",
+            "description": "<p>Article URL: <a href=\"https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers\">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49470380\">https://news.ycombinator.com/item?id=49470380</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
+            "published": "Thu, 27 Aug 2026 19:59:00 +0000",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+            "description": "<p>Article URL: <a href=\"https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc\">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469249\">https://news.ycombinator.com/item?id=49469249</a></p>\n<p>Points: 56</p>\n<p># Comments: 21</p>",
+            "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+            "published": "Thu, 27 Aug 2026 18:34:40 +0000",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Autism mutations drive neurodevelopmental pathology",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.ady4523\">https://www.science.org/doi/10.1126/science.ady4523</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469098\">https://news.ycombinator.com/item?id=49469098</a></p>\n<p>Points: 44</p>\n<p># Comments: 37</p>",
+            "url": "https://www.science.org/doi/10.1126/science.ady4523",
+            "published": "Thu, 27 Aug 2026 18:23:43 +0000",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+            "description": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+            "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 16:13:39 GMT",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa preparing criminal legal action against Infantino",
+            "description": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 14:42:09 GMT",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+            "description": "The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.",
+            "url": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 13:48:09 GMT",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump executive order bans some foreign equipment in US energy grid",
+            "description": "Order declares a national emergency over an &#039;unusual and extraordinary foreign threat&#039; to the grid.",
+            "url": "https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 20:15:55 +0000",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambia opposition leader questioned over ‘treason’ amid election fallout",
+            "description": "Zambia&#039;s entire judiciary closed on Monday on the last valid day to file a court challenge against Hichilema&#039;s victory.",
+            "url": "https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 20:13:31 +0000",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
+            "description": "A Lebanese woman has been killed, and several other people injured by Israeli strikes on Nabatieh, southern Lebanon.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 20:11:41 +0000",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-28T00:07:33+03:30"
+        }
+    ]
+}
