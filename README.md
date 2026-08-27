@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 03:22:22
+**Last Update:** 2026-08-27 05:53:47
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
+### 1. Getting video models to learn better, faster
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.linum.ai/field-notes/data-filtering-gen-video">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458502">https://news.ycombinator.com/item?id=49458502</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+🔗 **Read more:** [https://www.linum.ai/field-notes/data-filtering-gen-video](https://www.linum.ai/field-notes/data-filtering-gen-video)
 
 ---
 
-### 2. Clerky Is Joining Stripe
+### 2. Laion Big Video Dataset
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://projects.laion.ai/bvd/">https://projects.laion.ai/bvd/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458478">https://news.ycombinator.com/item?id=49458478</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
+🔗 **Read more:** [https://projects.laion.ai/bvd/](https://projects.laion.ai/bvd/)
 
 ---
 
-### 3. mold: A Parallel Linker
+### 3. CEO fired developers to make room for AI. Developers create open source AI CEO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.23228">https://arxiv.org/abs/2608.23228</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455530">https://news.ycombinator.com/item?id=49455530</a></p>
-<p>Points: 48</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://github.com/SenteLabsAI/OpenExecutive">https://github.com/SenteLabsAI/OpenExecutive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458418">https://news.ycombinator.com/item?id=49458418</a></p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.23228](https://arxiv.org/abs/2608.23228)
+🔗 **Read more:** [https://github.com/SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)
 
 ---
 
@@ -97,42 +97,42 @@ Two men have been arrested on suspicion of murder over the fire in Middlesboroug
 
 ---
 
-### 7. Spain’s tomato food fight leaves thousands covered in pulp
+### 7. At least 12 dead, 54 injured as wildfires ravage northeastern Algeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
+Six people in critical condition as a severe heatwave fuels 154 wildfires across Algeria in a single day.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss)
 
 ---
 
-### 8. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
+### 8. Pro-Israel Democrats picked for top roles on key US House committee
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga opener when Athletic arrive from Bilbao.
+The decision comes at a fractious time for the party amid a growing divide among its voters over US aid to Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss)
 
 ---
 
-### 9. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
+### 9. Is Mark Ruffalo anti-Semitic?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
+Ruffalo is accused of anti-Semitism for calling out the family behind an impending media deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss)
 
 ---
 
