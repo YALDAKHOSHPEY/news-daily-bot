@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 00:07:33
+**Last Update:** 2026-08-28 02:50:50
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Silicon Valley is in denial in face of widespread backlash
+### 1. Doctors are finally learning to manage antidepressant withdrawal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49470380">https://news.ycombinator.com/item?id=49470380</a></p>
-<p>Points: 14</p>
+<p><a href="https://web.archive.org/web/20260826205502/https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/" rel="nofollow">https://web.archive.org/web/20260826205502/https://www.newsc...</a><p><a href="https://archive.ph/zahjc" rel="nofollow">https://archive.ph/zahjc</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472090">https://news.ycombinator.com/item?id=49472090</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/)
+
+---
+
+### 2. Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/elyosh/OpenTIE/">https://github.com/elyosh/OpenTIE/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49471965">https://news.ycombinator.com/item?id=49471965</a></p>
+<p>Points: 23</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/elyosh/OpenTIE/](https://github.com/elyosh/OpenTIE/)
+
+---
+
+### 3. AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/calmrocks/ai-engineer-notebooks">https://github.com/calmrocks/ai-engineer-notebooks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49471714">https://news.ycombinator.com/item?id=49471714</a></p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)
-
----
-
-### 2. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469249">https://news.ycombinator.com/item?id=49469249</a></p>
-<p>Points: 56</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
-
----
-
-### 3. Autism mutations drive neurodevelopmental pathology
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ady4523">https://www.science.org/doi/10.1126/science.ady4523</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469098">https://news.ycombinator.com/item?id=49469098</a></p>
-<p>Points: 44</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ady4523](https://www.science.org/doi/10.1126/science.ady4523)
+🔗 **Read more:** [https://github.com/calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks)
 
 ---
 
@@ -84,72 +85,59 @@ Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino ov
 
 ---
 
-### 6. The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'
+### 6. Allan Little: I met dangerously fanatical Mladić early in Bosnian war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.
+BBC special correspondent Allan Little met the "Butcher of Bosnia" in the early months of the Bosnian war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump executive order bans some foreign equipment in US energy grid
+### 7. Haiti police confront public frustration after deadly gang attack kills 47
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Order declares a national emergency over an &#039;unusual and extraordinary foreign threat&#039; to the grid.
+The attack in Kenscoff, a community where crime had been declining, has raised questions about Haiti&#039;s security.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/trump-executive-order-bans-some-foreign-equipment-in-us-energy-grid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss)
 
 ---
 
-### 8. Zambia opposition leader questioned over ‘treason’ amid election fallout
+### 8. Bosnian Serb General Ratko Mladic has died
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zambia&#039;s entire judiciary closed on Monday on the last valid day to file a court challenge against Hichilema&#039;s victory.
+Bosnian Serb General Ratko Mladic, who was serving a life sentence for genocide and crimes against humanity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/zambia-opposition-leader-questioned-over-treason-amid-election-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss)
 
 ---
 
-### 9. Video: Israeli strike kills newlywed woman in south Lebanon
+### 9. Barcelona scraps Spain World Cup tribute amid fans’ Catalan flag support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Lebanese woman has been killed, and several other people injured by Israeli strikes on Nabatieh, southern Lebanon.
+An act supporting Catalonia&#039;s pro-independence symbol organized as Barcelona hosts first game since Spain World Cup win.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Julio
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss)
 
 ---
 
-### 11. Wildfire Old Deer, Carson, Texas
+### 10. Wildfire Calico, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -158,11 +146,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453)
 
 ---
 
-### 12. Wildfire 22, Miami-Dade, Florida
+### 11. Wildfire McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -171,7 +159,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455)
+
+---
+
+### 12. Wildfire LAUGHLIN, Colfax, New Mexico
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466)
 
 ---
 
