@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-27T13:33:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Dutch are filling gas wells with cement",
+            "description": "<p>Article URL: <a href=\"https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with\">https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49461608\">https://news.ycombinator.com/item?id=49461608</a></p>\n<p>Points: 25</p>\n<p># Comments: 26</p>",
+            "url": "https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with",
+            "published": "Thu, 27 Aug 2026 08:28:31 +0000",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kusama Yayoi has died",
+            "description": "<p><a href=\"https://archive.ph/axjMF\" rel=\"nofollow\">https://archive.ph/axjMF</a><p><a href=\"https://yayoi-kusama.jp/en/news4518/\" rel=\"nofollow\">https://yayoi-kusama.jp/en/news4518/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458709\">https://news.ycombinator.com/item?id=49458709</a></p>\n<p>Points: 177</p>\n<p># Comments: 13</p>",
+            "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
+            "published": "Thu, 27 Aug 2026 02:21:18 +0000",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Laion Big Video Dataset",
+            "description": "<p>Article URL: <a href=\"https://projects.laion.ai/bvd/\">https://projects.laion.ai/bvd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458478\">https://news.ycombinator.com/item?id=49458478</a></p>\n<p>Points: 64</p>\n<p># Comments: 17</p>",
+            "url": "https://projects.laion.ai/bvd/",
+            "published": "Thu, 27 Aug 2026 01:50:26 +0000",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Rescue teams pull survivors from thick mud",
+            "description": "At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.",
+            "url": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 06:02:03 GMT",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two teenagers, 13 and 14, among 33 UK nationals missing in disaster",
+            "description": "Nepali police says 270 bodies have been recovered, while over 800 are still missing in total, according to authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 09:40:38 GMT",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says",
+            "description": "Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 09:26:57 GMT",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How far will the US-Canada trade war go?",
+            "description": "Canada and the US risk a full-scale trade war after a breakdown in talks.",
+            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 09:41:01 +0000",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump crosses Lake Ontario on map, renames it ‘Lake America’",
+            "description": "US President Donald Trump posted a video of him crossing out Lake Ontario on a map and writing ‘Lake America’ instead.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 09:37:21 +0000",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a 95 percent drop in Hormuz traffic changed global shipping",
+            "description": "A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.",
+            "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 09:29:06 +0000",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-27T13:33:33+03:30"
+        }
+    ]
+}

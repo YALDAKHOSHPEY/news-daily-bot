@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 05:53:47
+**Last Update:** 2026-08-27 13:33:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Getting video models to learn better, faster
+### 1. The Dutch are filling gas wells with cement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.linum.ai/field-notes/data-filtering-gen-video">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458502">https://news.ycombinator.com/item?id=49458502</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with">https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49461608">https://news.ycombinator.com/item?id=49461608</a></p>
+<p>Points: 25</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.linum.ai/field-notes/data-filtering-gen-video](https://www.linum.ai/field-notes/data-filtering-gen-video)
+🔗 **Read more:** [https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with](https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with)
 
 ---
 
-### 2. Laion Big Video Dataset
+### 2. Kusama Yayoi has died
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://archive.ph/axjMF" rel="nofollow">https://archive.ph/axjMF</a><p><a href="https://yayoi-kusama.jp/en/news4518/" rel="nofollow">https://yayoi-kusama.jp/en/news4518/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458709">https://news.ycombinator.com/item?id=49458709</a></p>
+<p>Points: 177</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+
+---
+
+### 3. Laion Big Video Dataset
 
 **Source:** Hacker News
 
@@ -35,104 +52,88 @@
 **Description:**
 <p>Article URL: <a href="https://projects.laion.ai/bvd/">https://projects.laion.ai/bvd/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458478">https://news.ycombinator.com/item?id=49458478</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 64</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://projects.laion.ai/bvd/](https://projects.laion.ai/bvd/)
 
 ---
 
-### 3. CEO fired developers to make room for AI. Developers create open source AI CEO
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/SenteLabsAI/OpenExecutive">https://github.com/SenteLabsAI/OpenExecutive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458418">https://news.ycombinator.com/item?id=49458418</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive)
-
----
-
-### 4. BBC visits hospital in Kathmandu as families wait for news
+### 4. Watch: Rescue teams pull survivors from thick mud
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.
+At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meta to pay up to $18bn to settle claims its platforms harm children
+### 5. Two teenagers, 13 and 14, among 33 UK nationals missing in disaster
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The deal has been reached during a California federal court trial over claims brought by US states.
+Nepali police says 270 bodies have been recovered, while over 800 are still missing in total, according to authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
+### 6. Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.
+Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. At least 12 dead, 54 injured as wildfires ravage northeastern Algeria
+### 7. How far will the US-Canada trade war go?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six people in critical condition as a severe heatwave fuels 154 wildfires across Algeria in a single day.
+Canada and the US risk a full-scale trade war after a breakdown in talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss)
 
 ---
 
-### 8. Pro-Israel Democrats picked for top roles on key US House committee
+### 8. Trump crosses Lake Ontario on map, renames it ‘Lake America’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision comes at a fractious time for the party amid a growing divide among its voters over US aid to Israel.
+US President Donald Trump posted a video of him crossing out Lake Ontario on a map and writing ‘Lake America’ instead.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/trump-crosses-lake-ontario-on-map-renames-it-lake-america?traffic_source=rss)
 
 ---
 
-### 9. Is Mark Ruffalo anti-Semitic?
+### 9. How a 95 percent drop in Hormuz traffic changed global shipping
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ruffalo is accused of anti-Semitism for calling out the family behind an impending media deal.
+A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss)
 
 ---
 
