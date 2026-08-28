@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 22:22:29
+**Last Update:** 2026-08-28 23:15:58
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Secrets of the Atomic City
+### 1. The Analytical AI Handbook
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://longreads.com/2026/08/06/radiation-paducah-atavist/">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481672">https://news.ycombinator.com/item?id=49481672</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://handbook.sutro.sh">https://handbook.sutro.sh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49482925">https://news.ycombinator.com/item?id=49482925</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://longreads.com/2026/08/06/radiation-paducah-atavist/](https://longreads.com/2026/08/06/radiation-paducah-atavist/)
+🔗 **Read more:** [https://handbook.sutro.sh](https://handbook.sutro.sh)
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.23691">https://arxiv.org/abs/2608.23691</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481455">https://news.ycombinator.com/item?id=49481455</a></p>
-<p>Points: 14</p>
+<p>Points: 32</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.23691](https://arxiv.org/abs/2608.23691)
@@ -97,7 +97,33 @@ Norwegians paid their respects to the late King Harld after his death on Friday 
 
 ---
 
-### 7. Deadly Russian strikes hit civilian targets in Ukraine
+### 7. Police fire teargas at Kenyan traders protesting higher taxes on imports
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Kenyan police fired teargas at traders in the capital Nairobi on Friday, during a protest against higher taxes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/police-fire-teargas-at-kenyan-traders-protesting-higher-taxes-on-imports?traffic_source=rss)
+
+---
+
+### 8. Yemen’s divided education system leaves students’ futures in limbo
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss](https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss)
+
+---
+
+### 9. Deadly Russian strikes hit civilian targets in Ukraine
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Norwegians paid their respects to the late King Harld after his death on Friday 
 Russia intensified attacks across Ukraine, killing civilians and damaging homes and warehouses near Kyiv
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss)
-
----
-
-### 8. Israeli strike kills three Palestinians in West Bank’s Jenin
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss)
-
----
-
-### 9. ‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Seven people have been charged in connection with damage to Donald Trump’s Turnberry golf resort in Scotland in 2025.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss)
 
 ---
 
