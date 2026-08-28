@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 09:00:40
+**Last Update:** 2026-08-28 11:20:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Please stop flooding our projects with AI slop to furnish your CV
+### 1. Sovereign Tech Agency invests €500k in Flatpak
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neilalexander.dev/2026/06/30/flooding-contributions">https://neilalexander.dev/2026/06/30/flooding-contributions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474143">https://news.ycombinator.com/item?id=49474143</a></p>
-<p>Points: 56</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://modal.cx/blog/announcing-flatpak-sta/">https://modal.cx/blog/announcing-flatpak-sta/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474786">https://news.ycombinator.com/item?id=49474786</a></p>
+<p>Points: 44</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://neilalexander.dev/2026/06/30/flooding-contributions](https://neilalexander.dev/2026/06/30/flooding-contributions)
-
----
-
-### 2. GoGoGrandparent (YC S16) is hiring back end engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474060">https://news.ycombinator.com/item?id=49474060</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+🔗 **Read more:** [https://modal.cx/blog/announcing-flatpak-sta/](https://modal.cx/blog/announcing-flatpak-sta/)
 
 ---
 
-### 3. Bootstrappable Builds: How and Why
+### 2. Bootstrappable Builds: How and Why
 
 **Source:** Hacker News
 
@@ -51,88 +35,104 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1088279/">https://lwn.net/Articles/1088279/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473868">https://news.ycombinator.com/item?id=49473868</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Points: 32</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1088279/](https://lwn.net/Articles/1088279/)
 
 ---
 
-### 4. Watch: Tracing the deadly path of the Nepal-Tibet flash flood
+### 3. Show HN: IndexFlow – Open-source indexing infrastructure built with Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/IndexFlowing/IndexFlow-core">https://github.com/IndexFlowing/IndexFlow-core</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473767">https://news.ycombinator.com/item?id=49473767</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://github.com/IndexFlowing/IndexFlow-core](https://github.com/IndexFlowing/IndexFlow-core)
+
+---
+
+### 4. Families fly to Nepal in search for 33 missing British nationals
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.
+Among the British nationals reported missing are a 13-year-old girl and 14-year-old boy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths
+### 5. Norway's King Harald dies aged 89
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Cleveland Police confirms it has support from six local forces and the National Crime Agency.
+The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Clean-up of illegal waste supersite costs taxpayers £6m
+### 6. NHS bosses warn of chaos in ADHD and autism care
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The bill for clearing the dump in Oxfordshire has been covered by taxpayers.
+Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Algeria residents mourn neighbours lost in wildfire aftermath
+### 7. Dos Santos and Russell set world records in ‘crazy’ Zurich Diamond League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents of Algeria’s northeastern Jijel province are inspecting the aftermath of wildfires.
+Dos Santos stormed to victory to set new men&#039;s 400m hurdles time, while Russell broke women&#039;s 100m hurdles record.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/28/dos-santos-and-russell-set-world-records-in-crazy-zurich-diamond-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/28/dos-santos-and-russell-set-world-records-in-crazy-zurich-diamond-league?traffic_source=rss)
 
 ---
 
-### 8. DRC begins vaccinating front-line healthcare workers against Ebola
+### 8. US judge blocks Pentagon blacklisting of AI firm Anthropic
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.
+Court order rules that Pentagon acted illegally, punishing AI company for criticism of government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic?traffic_source=rss)
 
 ---
 
-### 9. Nepal’s mudslide wiped out areas of eastern China, army helps search
+### 9. Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.
+Shortages leave Gaza&#039;s lifeguards without essential rescue equipment, as Palestinians flock to the beaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss)
 
 ---
 

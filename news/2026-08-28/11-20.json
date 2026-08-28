@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-28T11:20:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sovereign Tech Agency invests €500k in Flatpak",
+            "description": "<p>Article URL: <a href=\"https://modal.cx/blog/announcing-flatpak-sta/\">https://modal.cx/blog/announcing-flatpak-sta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474786\">https://news.ycombinator.com/item?id=49474786</a></p>\n<p>Points: 44</p>\n<p># Comments: 20</p>",
+            "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+            "published": "Fri, 28 Aug 2026 05:42:47 +0000",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bootstrappable Builds: How and Why",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1088279/\">https://lwn.net/Articles/1088279/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49473868\">https://news.ycombinator.com/item?id=49473868</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+            "url": "https://lwn.net/Articles/1088279/",
+            "published": "Fri, 28 Aug 2026 03:02:42 +0000",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: IndexFlow – Open-source indexing infrastructure built with Rust",
+            "description": "<p>Article URL: <a href=\"https://github.com/IndexFlowing/IndexFlow-core\">https://github.com/IndexFlowing/IndexFlow-core</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49473767\">https://news.ycombinator.com/item?id=49473767</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/IndexFlowing/IndexFlow-core",
+            "published": "Fri, 28 Aug 2026 02:46:39 +0000",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Families fly to Nepal in search for 33 missing British nationals",
+            "description": "Among the British nationals reported missing are a 13-year-old girl and 14-year-old boy.",
+            "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 06:56:56 GMT",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Norway's King Harald dies aged 89",
+            "description": "The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.",
+            "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 07:36:40 GMT",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS bosses warn of chaos in ADHD and autism care",
+            "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 01:23:09 GMT",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dos Santos and Russell set world records in ‘crazy’ Zurich Diamond League",
+            "description": "Dos Santos stormed to victory to set new men&#039;s 400m hurdles time, while Russell broke women&#039;s 100m hurdles record.",
+            "url": "https://www.aljazeera.com/sports/2026/8/28/dos-santos-and-russell-set-world-records-in-crazy-zurich-diamond-league?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 07:35:50 +0000",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge blocks Pentagon blacklisting of AI firm Anthropic",
+            "description": "Court order rules that Pentagon acted illegally, punishing AI company for criticism of government.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 06:58:44 +0000",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers",
+            "description": "Shortages leave Gaza&#039;s lifeguards without essential rescue equipment, as Palestinians flock to the beaches.",
+            "url": "https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 06:45:10 +0000",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-28T11:20:38+03:30"
+        }
+    ]
+}
