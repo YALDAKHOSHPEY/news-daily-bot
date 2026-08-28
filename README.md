@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 11:20:38
+**Last Update:** 2026-08-28 22:22:29
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sovereign Tech Agency invests €500k in Flatpak
+### 1. Secrets of the Atomic City
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://modal.cx/blog/announcing-flatpak-sta/">https://modal.cx/blog/announcing-flatpak-sta/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474786">https://news.ycombinator.com/item?id=49474786</a></p>
-<p>Points: 44</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://longreads.com/2026/08/06/radiation-paducah-atavist/">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481672">https://news.ycombinator.com/item?id=49481672</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://modal.cx/blog/announcing-flatpak-sta/](https://modal.cx/blog/announcing-flatpak-sta/)
+🔗 **Read more:** [https://longreads.com/2026/08/06/radiation-paducah-atavist/](https://longreads.com/2026/08/06/radiation-paducah-atavist/)
 
 ---
 
-### 2. Bootstrappable Builds: How and Why
+### 2. Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1088279/">https://lwn.net/Articles/1088279/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473868">https://news.ycombinator.com/item?id=49473868</a></p>
-<p>Points: 32</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.23691">https://arxiv.org/abs/2608.23691</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481455">https://news.ycombinator.com/item?id=49481455</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1088279/](https://lwn.net/Articles/1088279/)
+🔗 **Read more:** [https://arxiv.org/abs/2608.23691](https://arxiv.org/abs/2608.23691)
 
 ---
 
-### 3. Show HN: IndexFlow – Open-source indexing infrastructure built with Rust
+### 3. Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/IndexFlowing/IndexFlow-core">https://github.com/IndexFlowing/IndexFlow-core</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473767">https://news.ycombinator.com/item?id=49473767</a></p>
-<p>Points: 15</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481423">https://news.ycombinator.com/item?id=49481423</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/IndexFlowing/IndexFlow-core](https://github.com/IndexFlowing/IndexFlow-core)
+🔗 **Read more:** [https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
 
 ---
 
-### 4. Families fly to Nepal in search for 33 missing British nationals
+### 4. Videos show people survive floodwaters on balcony in Nepal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Among the British nationals reported missing are a 13-year-old girl and 14-year-old boy.
+BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about the 33 British nationals missing in Nepal
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Norway's King Harald dies aged 89
+### 6. Norway's 'grandfather': King Harald remembered as son Haakon takes the throne
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.
+Norwegians paid their respects to the late King Harld after his death on Friday morning.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. NHS bosses warn of chaos in ADHD and autism care
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Dos Santos and Russell set world records in ‘crazy’ Zurich Diamond League
+### 7. Deadly Russian strikes hit civilian targets in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dos Santos stormed to victory to set new men&#039;s 400m hurdles time, while Russell broke women&#039;s 100m hurdles record.
+Russia intensified attacks across Ukraine, killing civilians and damaging homes and warehouses near Kyiv
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/28/dos-santos-and-russell-set-world-records-in-crazy-zurich-diamond-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/28/dos-santos-and-russell-set-world-records-in-crazy-zurich-diamond-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/deadly-russian-strikes-hit-civilian-targets-in-ukraine?traffic_source=rss)
 
 ---
 
-### 8. US judge blocks Pentagon blacklisting of AI firm Anthropic
+### 8. Israeli strike kills three Palestinians in West Bank’s Jenin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Court order rules that Pentagon acted illegally, punishing AI company for criticism of government.
+Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss)
 
 ---
 
-### 9. Armed with a whistle, Gaza’s lifeguards do what they can to save swimmers
+### 9. ‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shortages leave Gaza&#039;s lifeguards without essential rescue equipment, as Palestinians flock to the beaches.
+Seven people have been charged in connection with damage to Donald Trump’s Turnberry golf resort in Scotland in 2025.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/28/armed-with-a-whistle-gazas-lifeguards-do-what-they-can-to-save-swimmers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss)
 
 ---
 
