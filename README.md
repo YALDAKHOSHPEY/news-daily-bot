@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 02:50:50
+**Last Update:** 2026-08-28 09:00:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Doctors are finally learning to manage antidepressant withdrawal
+### 1. Please stop flooding our projects with AI slop to furnish your CV
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://web.archive.org/web/20260826205502/https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/" rel="nofollow">https://web.archive.org/web/20260826205502/https://www.newsc...</a><p><a href="https://archive.ph/zahjc" rel="nofollow">https://archive.ph/zahjc</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49472090">https://news.ycombinator.com/item?id=49472090</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://neilalexander.dev/2026/06/30/flooding-contributions">https://neilalexander.dev/2026/06/30/flooding-contributions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474143">https://news.ycombinator.com/item?id=49474143</a></p>
+<p>Points: 56</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/)
+🔗 **Read more:** [https://neilalexander.dev/2026/06/30/flooding-contributions](https://neilalexander.dev/2026/06/30/flooding-contributions)
 
 ---
 
-### 2. Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
+### 2. GoGoGrandparent (YC S16) is hiring back end engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/elyosh/OpenTIE/">https://github.com/elyosh/OpenTIE/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49471965">https://news.ycombinator.com/item?id=49471965</a></p>
-<p>Points: 23</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/elyosh/OpenTIE/](https://github.com/elyosh/OpenTIE/)
-
----
-
-### 3. AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/calmrocks/ai-engineer-notebooks">https://github.com/calmrocks/ai-engineer-notebooks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49471714">https://news.ycombinator.com/item?id=49471714</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474060">https://news.ycombinator.com/item?id=49474060</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks)
+🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+
+---
+
+### 3. Bootstrappable Builds: How and Why
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1088279/">https://lwn.net/Articles/1088279/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473868">https://news.ycombinator.com/item?id=49473868</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1088279/](https://lwn.net/Articles/1088279/)
 
 ---
 
@@ -72,68 +71,68 @@ BBC Verify traces the path of the destructive Nepal-Tibet flash flood using veri
 
 ---
 
-### 5. Uefa preparing criminal legal action against Infantino
+### 5. Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.
+Cleveland Police confirms it has support from six local forces and the National Crime Agency.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Allan Little: I met dangerously fanatical Mladić early in Bosnian war
+### 6. Clean-up of illegal waste supersite costs taxpayers £6m
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC special correspondent Allan Little met the "Butcher of Bosnia" in the early months of the Bosnian war.
+The bill for clearing the dump in Oxfordshire has been covered by taxpayers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Haiti police confront public frustration after deadly gang attack kills 47
+### 7. Algeria residents mourn neighbours lost in wildfire aftermath
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The attack in Kenscoff, a community where crime had been declining, has raised questions about Haiti&#039;s security.
+Residents of Algeria’s northeastern Jijel province are inspecting the aftermath of wildfires.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss)
 
 ---
 
-### 8. Bosnian Serb General Ratko Mladic has died
+### 8. DRC begins vaccinating front-line healthcare workers against Ebola
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bosnian Serb General Ratko Mladic, who was serving a life sentence for genocide and crimes against humanity.
+Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss)
 
 ---
 
-### 9. Barcelona scraps Spain World Cup tribute amid fans’ Catalan flag support
+### 9. Nepal’s mudslide wiped out areas of eastern China, army helps search
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An act supporting Catalonia&#039;s pro-independence symbol organized as Barcelona hosts first game since Spain World Cup win.
+China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss)
 
 ---
 
