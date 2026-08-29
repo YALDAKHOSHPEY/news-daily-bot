@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 06:05:41
+**Last Update:** 2026-08-29 12:43:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kumander Linux – A Linux Distro with a Windows 7 Desktop
+### 1. Autistici/inventati: Manifesto – who we are and what do we want (2002)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kumander.org/">https://www.kumander.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486176">https://news.ycombinator.com/item?id=49486176</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.inventati.org/who/manifesto">https://www.inventati.org/who/manifesto</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487786">https://news.ycombinator.com/item?id=49487786</a></p>
+<p>Points: 45</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.kumander.org/](https://www.kumander.org/)
+🔗 **Read more:** [https://www.inventati.org/who/manifesto](https://www.inventati.org/who/manifesto)
 
 ---
 
-### 2. Our decision on Cursor following its acquisition by SpaceX
+### 2. e is a customizable self-aware Emacs-like editor written in Chez Scheme
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486172">https://news.ycombinator.com/item?id=49486172</a></p>
-<p>Points: 53</p>
+<p>Article URL: <a href="https://github.com/paveluv/e">https://github.com/paveluv/e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487506">https://news.ycombinator.com/item?id=49487506</a></p>
+<p>Points: 16</p>
 <p># Comments: 11</p>
 
-🔗 **Read more:** [https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+🔗 **Read more:** [https://github.com/paveluv/e](https://github.com/paveluv/e)
 
 ---
 
-### 3. StemDeck, a free, open-source and local AI stem separator
+### 3. Samsung's Processing-in-Memory (PIM)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/stemdeckapp/stemdeck">https://github.com/stemdeckapp/stemdeck</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486081">https://news.ycombinator.com/item?id=49486081</a></p>
-<p>Points: 24</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
+<p>Points: 61</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
+🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
 ---
 
@@ -84,55 +84,55 @@ Some of the most dramatic footage from the deadly flash flooding is hidden from 
 
 ---
 
-### 6. Man dies and at least six injured after sign falls at Christian festival
+### 6. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.
+Police say at least six other people were also injured in the incident at the Big Church Festival.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tuareg rebels free more Malian soldiers in prisoner swap, sources say
+### 7. Chelsea vs Brighton: Premier League – preview, team news, prediction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.
+Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss)
 
 ---
 
-### 8. Gunfire, blasts heard in several areas of Niger capital Niamey
+### 8. LIVE: Liverpool vs Nottingham Forest – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shots were heard around the city&#039;s Diori Hamani international airport and near the presidential palace.
+Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss)
 
 ---
 
-### 9. Board of Peace’s Mladenov warns Gaza could be ‘gone for good’
+### 9. Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.
+Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss)
 
 ---
 
