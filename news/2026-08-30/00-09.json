@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T00:09:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+            "description": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492632\">https://news.ycombinator.com/item?id=49492632</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+            "published": "Sat, 29 Aug 2026 19:33:23 +0000",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Domain-Driven Agents",
+            "description": "<p>Article URL: <a href=\"https://coldtake.dev/blog/domain-driven-agents\">https://coldtake.dev/blog/domain-driven-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492584\">https://news.ycombinator.com/item?id=49492584</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://coldtake.dev/blog/domain-driven-agents",
+            "published": "Sat, 29 Aug 2026 19:28:28 +0000",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The elementary school pickup incident and the road ahead",
+            "description": "<p>Article URL: <a href=\"https://shitposting.ai/pickup-incident/\">https://shitposting.ai/pickup-incident/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492554\">https://news.ycombinator.com/item?id=49492554</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://shitposting.ai/pickup-incident/",
+            "published": "Sat, 29 Aug 2026 19:25:01 +0000",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleverly quits shadow cabinet to run for London mayor",
+            "description": "The capital is not set to vote on a new mayor until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 16:24:39 GMT",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Norway's new king remembers 'my dear father' in first speech",
+            "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 19:06:28 GMT",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Norway’s new king pays tribute to his late father as the country mourns",
+            "description": "King Haakon VIII says King Harald represented Norway with &#039;pride and joy&#039;, promises to listen to Norwegians as monarch.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 20:32:02 +0000",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
+            "description": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 20:07:47 +0000",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
+            "description": "Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 20:05:46 +0000",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T00:09:49+03:30"
+        }
+    ]
+}
