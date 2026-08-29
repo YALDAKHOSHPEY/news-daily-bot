@@ -1,90 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 13:02:38
+**Last Update:** 2026-08-29 18:06:08
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Autistici/inventati: Manifesto – who we are and what do we want (2002)
+### 1. Debian votes to allow "responsible use of generative AI"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inventati.org/who/manifesto">https://www.inventati.org/who/manifesto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487786">https://news.ycombinator.com/item?id=49487786</a></p>
-<p>Points: 50</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://lwn.net/Articles/1091231/">https://lwn.net/Articles/1091231/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489982">https://news.ycombinator.com/item?id=49489982</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.inventati.org/who/manifesto](https://www.inventati.org/who/manifesto)
+🔗 **Read more:** [https://lwn.net/Articles/1091231/](https://lwn.net/Articles/1091231/)
 
 ---
 
-### 2. e is a customizable self-aware Emacs-like editor written in Chez Scheme
+### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/paveluv/e">https://github.com/paveluv/e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487506">https://news.ycombinator.com/item?id=49487506</a></p>
-<p>Points: 18</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489864">https://news.ycombinator.com/item?id=49489864</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/paveluv/e](https://github.com/paveluv/e)
+🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
 
 ---
 
-### 3. Samsung's Processing-in-Memory (PIM)
+### 3. Iceland votes on whether to restart talks on joining EU
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
-<p>Points: 66</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
+<p>Points: 218</p>
+<p># Comments: 252</p>
 
-🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-
----
-
-### 4. 97-year-old woman rescued after Nepali floods looked like 'a warrior'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
 
 ---
 
-### 5. Footage of Tibet floods isn't being shown in China - and we know little about victims there
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Christian festival 'devastated' as man dies after sign falls
+### 4. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Police say at least six other people were also injured in the incident at the Bi
 
 ---
 
-### 7. US revokes visa of former Iraqi minister after watchlist listing
+### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.
+An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Chelsea vs Brighton: Premier League – preview, team news, prediction
+### 6. Burnham's summer tour is over - now he has to prove himself in Parliament
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.
+The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. LIVE: Liverpool vs Nottingham Forest – Premier League
+### 7. People stranded for days on dilapidated Nigerian highway
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.
+Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss)
+
+---
+
+### 8. Korea divided: A sister’s long wait and a defector’s bid to save his mother
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss)
+
+---
+
+### 9. Mladic died a happy man. He won
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+He fought for fascism to triumph. And it did.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss)
 
 ---
 
