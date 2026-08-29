@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 18:17:38
+**Last Update:** 2026-08-29 21:30:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Debian votes to allow "responsible use of generative AI"
+### 1. Good Culture Is the Biggest Productivity Hack, Not AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1091231/">https://lwn.net/Articles/1091231/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489982">https://news.ycombinator.com/item?id=49489982</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://lwn.net/Articles/1091231/](https://lwn.net/Articles/1091231/)
-
----
-
-### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489864">https://news.ycombinator.com/item?id=49489864</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491568">https://news.ycombinator.com/item?id=49491568</a></p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
+🔗 **Read more:** [https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
 ---
 
-### 3. Iceland votes on whether to restart talks on joining EU
+### 2. Nancy Grace Roman Space Telescope
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
-<p>Points: 218</p>
-<p># Comments: 252</p>
+<p>Article URL: <a href="https://science.nasa.gov/mission/roman-space-telescope/">https://science.nasa.gov/mission/roman-space-telescope/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490870">https://news.ycombinator.com/item?id=49490870</a></p>
+<p>Points: 51</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+🔗 **Read more:** [https://science.nasa.gov/mission/roman-space-telescope/](https://science.nasa.gov/mission/roman-space-telescope/)
 
 ---
 
-### 4. Christian festival 'devastated' as man dies after sign falls
+### 3. Quantifying Colour
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-Police say at least six other people were also injured in the incident at the Big Church Festival.
+<p>Article URL: <a href="https://ekunazanu.foo/lab/quantifying-colour/">https://ekunazanu.foo/lab/quantifying-colour/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490832">https://news.ycombinator.com/item?id=49490832</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://ekunazanu.foo/lab/quantifying-colour/](https://ekunazanu.foo/lab/quantifying-colour/)
 
 ---
 
-### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+### 4. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ An investigation has begun into the storage of weapons for Ukraine's military ne
 
 ---
 
-### 6. Burnham's summer tour is over - now he has to prove himself in Parliament
+### 5. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.
+Police say at least six other people were also injured in the incident at the Big Church Festival.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. People stranded for days on dilapidated Nigerian highway
+### 6. Cleverly quits shadow cabinet to run for London mayor
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The capital is not set to vote on a new mayor until 2028.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Turkiye summons Ukraine ambassador over Black Sea attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
+Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss)
 
 ---
 
-### 8. Korea divided: A sister’s long wait and a defector’s bid to save his mother
+### 8. Israeli army arrests six Palestinians after settler violence in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
+Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Mladic died a happy man. He won
+### 9. Niger military says it is regaining control after attempted mutiny
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-He fought for fascism to triumph. And it did.
+Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss)
 
 ---
 
