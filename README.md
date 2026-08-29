@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 12:43:59
+**Last Update:** 2026-08-29 13:02:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.inventati.org/who/manifesto">https://www.inventati.org/who/manifesto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487786">https://news.ycombinator.com/item?id=49487786</a></p>
-<p>Points: 45</p>
-<p># Comments: 20</p>
+<p>Points: 50</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.inventati.org/who/manifesto](https://www.inventati.org/who/manifesto)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/paveluv/e">https://github.com/paveluv/e</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487506">https://news.ycombinator.com/item?id=49487506</a></p>
-<p>Points: 16</p>
+<p>Points: 18</p>
 <p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/paveluv/e](https://github.com/paveluv/e)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
-<p>Points: 61</p>
-<p># Comments: 11</p>
+<p>Points: 66</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
@@ -97,7 +97,20 @@ Police say at least six other people were also injured in the incident at the Bi
 
 ---
 
-### 7. Chelsea vs Brighton: Premier League – preview, team news, prediction
+### 7. US revokes visa of former Iraqi minister after watchlist listing
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss)
+
+---
+
+### 8. Chelsea vs Brighton: Premier League – preview, team news, prediction
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Brighton will fancy their chances against Chelsea though, having won their last 
 
 ---
 
-### 8. LIVE: Liverpool vs Nottingham Forest – Premier League
+### 9. LIVE: Liverpool vs Nottingham Forest – Premier League
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Brighton will fancy their chances against Chelsea though, having won their last 
 Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss)
-
----
-
-### 9. Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss)
 
 ---
 
