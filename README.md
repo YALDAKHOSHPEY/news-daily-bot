@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 21:30:06
+**Last Update:** 2026-08-29 22:13:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Good Culture Is the Biggest Productivity Hack, Not AI
+### 1. Calibrate Before You Accelerate: Bias Toward Action in a New Role
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tucker.wales/writing/bias-towards-action/">https://tucker.wales/writing/bias-towards-action/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491714">https://news.ycombinator.com/item?id=49491714</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://tucker.wales/writing/bias-towards-action/](https://tucker.wales/writing/bias-towards-action/)
+
+---
+
+### 2. Good Culture Is the Biggest Productivity Hack, Not AI
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491568">https://news.ycombinator.com/item?id=49491568</a></p>
-<p>Points: 11</p>
+<p>Points: 30</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
 
 ---
 
-### 2. Nancy Grace Roman Space Telescope
+### 3. Trees for a Changing Climate and Resilient Urban Forest (2022)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://science.nasa.gov/mission/roman-space-telescope/">https://science.nasa.gov/mission/roman-space-telescope/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490870">https://news.ycombinator.com/item?id=49490870</a></p>
-<p>Points: 51</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest">https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491175">https://news.ycombinator.com/item?id=49491175</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://science.nasa.gov/mission/roman-space-telescope/](https://science.nasa.gov/mission/roman-space-telescope/)
-
----
-
-### 3. Quantifying Colour
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ekunazanu.foo/lab/quantifying-colour/">https://ekunazanu.foo/lab/quantifying-colour/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490832">https://news.ycombinator.com/item?id=49490832</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://ekunazanu.foo/lab/quantifying-colour/](https://ekunazanu.foo/lab/quantifying-colour/)
+🔗 **Read more:** [https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest](https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest)
 
 ---
 
@@ -97,7 +97,33 @@ The capital is not set to vote on a new mayor until 2028.
 
 ---
 
-### 7. Turkiye summons Ukraine ambassador over Black Sea attacks
+### 7. DR Congo begins vaccinating against largest and deadliest Ebola outbreak
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss)
+
+---
+
+### 8. Sudan’s date palm trees under threat from drought and wildfires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In Sudan, date palm trees are an economic lifeline for residents of Northern State.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss)
+
+---
+
+### 9. Turkiye summons Ukraine ambassador over Black Sea attacks
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The capital is not set to vote on a new mayor until 2028.
 Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss)
-
----
-
-### 8. Israeli army arrests six Palestinians after settler violence in West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss)
-
----
-
-### 9. Niger military says it is regaining control after attempted mutiny
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss)
 
 ---
 
