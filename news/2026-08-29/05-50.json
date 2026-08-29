@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T05:50:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Our decision on Cursor following its acquisition by SpaceX",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinator.com/item?id=49486172</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+            "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+            "published": "Sat, 29 Aug 2026 01:47:53 +0000",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "StemDeck, a free, open-source and local AI stem separator",
+            "description": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/stemdeckapp/stemdeck",
+            "published": "Sat, 29 Aug 2026 01:24:13 +0000",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+            "description": "<p>Article URL: <a href=\"https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/\">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485532\">https://news.ycombinator.com/item?id=49485532</a></p>\n<p>Points: 49</p>\n<p># Comments: 14</p>",
+            "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+            "published": "Fri, 28 Aug 2026 23:46:10 +0000",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+            "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+            "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+            "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 22:05:41 GMT",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies and at least six injured after sign falls at Christian festival",
+            "description": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:41:12 GMT",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
+            "description": "Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 01:50:03 +0000",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+            "description": "Shots were heard around the city&#039;s Diori Hamani International Airport, and near the presidential palace.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 01:30:08 +0000",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+            "description": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 00:53:56 +0000",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T05:50:14+03:30"
+        }
+    ]
+}
