@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 00:09:49
+**Last Update:** 2026-08-30 01:20:22
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tencent Releases and Open-Sources Tencent Hy4 Preview
+### 1. $44M Solar-Powered EV Production Deal Struck
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://frequal.com/aptera/ProductionDealAug2026.html">https://frequal.com/aptera/ProductionDealAug2026.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493563">https://news.ycombinator.com/item?id=49493563</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://frequal.com/aptera/ProductionDealAug2026.html](https://frequal.com/aptera/ProductionDealAug2026.html)
+
+---
+
+### 2. What we want is a hunter gatherer lifestyle with space age tools
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer">https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493244">https://news.ycombinator.com/item?id=49493244</a></p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+
+---
+
+### 3. Tencent Releases and Open-Sources Tencent Hy4 Preview
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492632">https://news.ycombinator.com/item?id=49492632</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
+<p>Points: 75</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-
----
-
-### 2. Domain-Driven Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://coldtake.dev/blog/domain-driven-agents">https://coldtake.dev/blog/domain-driven-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492584">https://news.ycombinator.com/item?id=49492584</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://coldtake.dev/blog/domain-driven-agents](https://coldtake.dev/blog/domain-driven-agents)
-
----
-
-### 3. The elementary school pickup incident and the road ahead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://shitposting.ai/pickup-incident/">https://shitposting.ai/pickup-incident/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492554">https://news.ycombinator.com/item?id=49492554</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://shitposting.ai/pickup-incident/](https://shitposting.ai/pickup-incident/)
 
 ---
 
@@ -97,7 +97,33 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. Norway’s new king pays tribute to his late father as the country mourns
+### 7. Anger mounts in Nepal over the government’s response to flash flood
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss)
+
+---
+
+### 8. Iceland votes in a tight race on whether to resume talks to join the EU
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss)
+
+---
+
+### 9. Norway’s new king pays tribute to his late father as the country mourns
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 King Haakon VIII says King Harald represented Norway with &#039;pride and joy&#039;, promises to listen to Norwegians as monarch.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss)
-
----
-
-### 8. Gaza runs out of cancer medicines, as Israeli strikes continue
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss)
-
----
-
-### 9. Algeria wildfire death toll expected to rise as survivors say nothing left
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Algeria says at least 12 people have been killed in wildfires sweeping the northeast, with the toll expected to rise.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss)
 
 ---
 
