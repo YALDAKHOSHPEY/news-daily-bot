@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 04:24:08
+**Last Update:** 2026-08-30 09:10:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bug Blindness
+### 1. California lawmakers unanimously pass Linux exemption from age-verification law
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danluu.com/bug-blind/">https://danluu.com/bug-blind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494520">https://news.ycombinator.com/item?id=49494520</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495372">https://news.ycombinator.com/item?id=49495372</a></p>
+<p>Points: 28</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://danluu.com/bug-blind/](https://danluu.com/bug-blind/)
+🔗 **Read more:** [https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
 
 ---
 
-### 2. Highest-ever ocean temperature measured as powerful El Niño forms
+### 2. Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494231">https://news.ycombinator.com/item?id=49494231</a></p>
+<p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
 <p>Points: 52</p>
-<p># Comments: 20</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
+🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
 
 ---
 
-### 3. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
+### 3. FreeCORE TrueNAS Core – Continued
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494182">https://news.ycombinator.com/item?id=49494182</a></p>
-<p>Points: 42</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a></p>
+<p>Points: 61</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+🔗 **Read more:** [https://freecore.org/](https://freecore.org/)
 
 ---
 
-### 4. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+### 4. PC Harper's killers to stay in jail as PM announces changes to early release scheme
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An investigation has begun into the storage of weapons for Ukraine's military near a residential area.
+Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Cleverly quits shadow cabinet to run for London mayor
+### 5. WhatsApp group chat used to send millions in cash, funding crime and extremism
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The capital is not set to vote on a new mayor until 2028.
+The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Norway's new king remembers 'my dear father' in first speech
+### 6. Iceland EU referendum on a knife edge as counting continues
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
+A vote on whether to resume membership talks with the European Union is too close to call.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Turkiye, Somalia forces free cargo vessel hijacked by pirates
+### 7. US police officer pulls hair, throws punches during arrest in Arkansas
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.
+Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss)
 
 ---
 
-### 8. Online anti-Muslim backlash collides with different reality in South Africa
+### 8. Protests as India’s Hindu nationalists take centre stage in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
+Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Tehran to stand firm to US sanctions; settlers besiege Qusra
+### 9. Air raids, conscripts and China: How Myanmar’s military is regaining ground
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it will rely equally on diplomacy and defence to protect its interests.
+Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss)
 
 ---
 
