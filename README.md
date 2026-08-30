@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 15:56:24
+**Last Update:** 2026-08-30 20:22:06
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Fair Work Commission condemns 'plain wrong' AI legal advice
+### 1. Coordination Headwind: How Organizations Are Like Slime Molds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://komoroske.com/slime-mold/">https://komoroske.com/slime-mold/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499891">https://news.ycombinator.com/item?id=49499891</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
+🔗 **Read more:** [https://komoroske.com/slime-mold/](https://komoroske.com/slime-mold/)
 
 ---
 
-### 2. Spark: Sparklines in your shell
+### 2. Haiku R1/beta6 has been released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
-<p>Points: 27</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499867">https://news.ycombinator.com/item?id=49499867</a></p>
+<p>Points: 43</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
+🔗 **Read more:** [https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
 
 ---
 
-### 3. Nvidia's AI advantage is moving beyond the GPU
+### 3. Omarchy: Any User Process Can Escalate to Root
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497235">https://news.ycombinator.com/item?id=49497235</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://0xcc.io/posts/omarchy-root-creds/">https://0xcc.io/posts/omarchy-root-creds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499854">https://news.ycombinator.com/item?id=49499854</a></p>
+<p>Points: 49</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+🔗 **Read more:** [https://0xcc.io/posts/omarchy-root-creds/](https://0xcc.io/posts/omarchy-root-creds/)
 
 ---
 
-### 4. PC Harper's killers to stay in jail as PM announces changes to early release scheme
+### 4. Head teacher evacuated 900 children minutes before Nepal floods hit school
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. PC Harper's killers to stay in jail as PM announces changes to early release scheme
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be exclud
 
 ---
 
-### 5. Burnham gets the early prison release changes he wanted - but at what cost?
+### 6. Police release one of two men arrested over fatal house fire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.
+Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. British woman killed in stabbing at German railway station
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Road collapses in Nepal landslide four days after floods
+### 7. Israeli soldiers participate in Sydney Marathon despite protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.
+Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss)
 
 ---
 
-### 8. How has life changed for Iranians six months into the war?
+### 8. What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Common Iranians are under increasing pressure, with no relief expected in the short term.
+Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss)
 
 ---
 
-### 9. Infantino must go by 2027 in FIFA overhaul, Dutch football body says
+### 9. Educated? Skilled? Ambitious? Traffickers are looking for you
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-KNVB invites associations and confederations to a summit to discuss the overhaul of FIFA and how it runs football.
+Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss)
 
 ---
 
