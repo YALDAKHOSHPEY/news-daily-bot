@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 23:24:57
+**Last Update:** 2026-08-30 23:46:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
+### 1. Cores in space: The core memory module from a 1980 Spacelab computer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/KodeMunkie/sm750hdmifb">https://github.com/KodeMunkie/sm750hdmifb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501611">https://news.ycombinator.com/item?id=49501611</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.righto.com/2026/08/spacelab-core-memory.html">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502214">https://news.ycombinator.com/item?id=49502214</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/KodeMunkie/sm750hdmifb](https://github.com/KodeMunkie/sm750hdmifb)
+🔗 **Read more:** [https://www.righto.com/2026/08/spacelab-core-memory.html](https://www.righto.com/2026/08/spacelab-core-memory.html)
 
 ---
 
-### 2. Running SQLite Apps on Docker and Kubernetes with Litestream
+### 2. 1kB Website as Status Symbol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openrun.dev/blog/litestream/">https://openrun.dev/blog/litestream/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501147">https://news.ycombinator.com/item?id=49501147</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://openrun.dev/blog/litestream/](https://openrun.dev/blog/litestream/)
-
----
-
-### 3. Artie (YC S23) Is Hiring Technical AES
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49500471">https://news.ycombinator.com/item?id=49500471</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://async.cat/blog">https://async.cat/blog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501932">https://news.ycombinator.com/item?id=49501932</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
+🔗 **Read more:** [https://async.cat/blog](https://async.cat/blog)
+
+---
+
+### 3. The world may have less time than it thinks on climate change
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change">https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501791">https://news.ycombinator.com/item?id=49501791</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change)
 
 ---
 
@@ -97,7 +97,20 @@ The US space agency's telescope is starting a multi-year mission to create a new
 
 ---
 
-### 7. Israeli settler rabbi says Palestinians should leave the occupied West Bank
+### 7. Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho&#039;s Real Madrid continues to move at pace in La Liga.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss)
+
+---
+
+### 8. Israeli settler rabbi says Palestinians should leave the occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Video shows an Israeli settler rabbi telling peace activists that non-Jews in Is
 
 ---
 
-### 8. Former Israeli soldiers pose as Pro-Palestinian supporters in the US
+### 9. Former Israeli soldiers pose as Pro-Palestinian supporters in the US
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Video shows an Israeli settler rabbi telling peace activists that non-Jews in Is
 Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss)
-
----
-
-### 9. ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-How a far-right party with neo-Nazi roots bought every ad surface in Sweden&#039;s biggest train station.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss)
 
 ---
 
