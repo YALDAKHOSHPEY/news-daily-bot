@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 09:10:17
+**Last Update:** 2026-08-30 09:34:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495372">https://news.ycombinator.com/item?id=49495372</a></p>
-<p>Points: 28</p>
+<p>Points: 30</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
-<p>Points: 52</p>
-<p># Comments: 21</p>
+<p>Points: 54</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
 
@@ -97,7 +97,20 @@ A vote on whether to resume membership talks with the European Union is too clos
 
 ---
 
-### 7. US police officer pulls hair, throws punches during arrest in Arkansas
+### 7. Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss)
+
+---
+
+### 8. US police officer pulls hair, throws punches during arrest in Arkansas
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Footage shows an Arkansas state patrol officer pulling a passenger by his hair a
 
 ---
 
-### 8. Protests as India’s Hindu nationalists take centre stage in New York
+### 9. Protests as India’s Hindu nationalists take centre stage in New York
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Footage shows an Arkansas state patrol officer pulling a passenger by his hair a
 Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss)
-
----
-
-### 9. Air raids, conscripts and China: How Myanmar’s military is regaining ground
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss)
 
 ---
 
