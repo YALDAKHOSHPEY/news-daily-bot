@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 23:46:21
+**Last Update:** 2026-08-31 02:21:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cores in space: The core memory module from a 1980 Spacelab computer
+### 1. Continuous Diffusion Language Models (CDLM's)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502611">https://news.ycombinator.com/item?id=49502611</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://sander.ai/2026/08/24/continuous-dlms.html](https://sander.ai/2026/08/24/continuous-dlms.html)
+
+---
+
+### 2. Cores in space: The core memory module from a 1980 Spacelab computer
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.righto.com/2026/08/spacelab-core-memory.html">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502214">https://news.ycombinator.com/item?id=49502214</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 44</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.righto.com/2026/08/spacelab-core-memory.html](https://www.righto.com/2026/08/spacelab-core-memory.html)
 
 ---
 
-### 2. 1kB Website as Status Symbol
+### 3. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://async.cat/blog">https://async.cat/blog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501932">https://news.ycombinator.com/item?id=49501932</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/KodeMunkie/sm750hdmifb">https://github.com/KodeMunkie/sm750hdmifb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501611">https://news.ycombinator.com/item?id=49501611</a></p>
+<p>Points: 51</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://async.cat/blog](https://async.cat/blog)
-
----
-
-### 3. The world may have less time than it thinks on climate change
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change">https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501791">https://news.ycombinator.com/item?id=49501791</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change)
+🔗 **Read more:** [https://github.com/KodeMunkie/sm750hdmifb](https://github.com/KodeMunkie/sm750hdmifb)
 
 ---
 
@@ -84,55 +84,55 @@ A search and rescue operation is under way after a ferry carrying nearly 270 peo
 
 ---
 
-### 6. 'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe
+### 6. US strikes Iranian launchers on Larak Island in first known attack in weeks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.
+Iran says the attack killed some civilians and is the first known US strike on Iran since late July.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start
+### 7. Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho&#039;s Real Madrid continues to move at pace in La Liga.
+Teenager struggled in Barca&#039;s La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss)
 
 ---
 
-### 8. Israeli settler rabbi says Palestinians should leave the occupied West Bank
+### 8. Israeli strike kills 3-year-old child in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
+A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss)
 
 ---
 
-### 9. Former Israeli soldiers pose as Pro-Palestinian supporters in the US
+### 9. Jose Andres renews call for investigation into WCK Gaza staff killings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
+World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss)
 
 ---
 
