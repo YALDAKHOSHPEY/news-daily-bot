@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 15:34:00
+**Last Update:** 2026-08-30 15:56:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497235">https://news.ycombinator.com/item?id=49497235</a></p>
-<p>Points: 10</p>
+<p>Points: 12</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
@@ -97,42 +97,42 @@ A 27-year-old German man was arrested immediately after the incident in Rosenhei
 
 ---
 
-### 7. Six months on, what did the strikes on Iran achieve?
+### 7. Road collapses in Nepal landslide four days after floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.
+A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss)
 
 ---
 
-### 8. Protesters in Argentina urge tech billionaire Peter Thiel to leave
+### 8. How has life changed for Iranians six months into the war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.
+Common Iranians are under increasing pressure, with no relief expected in the short term.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss)
 
 ---
 
-### 9. Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+### 9. Infantino must go by 2027 in FIFA overhaul, Dutch football body says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
+KNVB invites associations and confederations to a summit to discuss the overhaul of FIFA and how it runs football.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss)
 
 ---
 
