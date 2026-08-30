@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 03:58:59
+**Last Update:** 2026-08-30 04:24:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Highest-ever ocean temperature measured as powerful El Niño forms
+### 1. Bug Blindness
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://danluu.com/bug-blind/">https://danluu.com/bug-blind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494520">https://news.ycombinator.com/item?id=49494520</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://danluu.com/bug-blind/](https://danluu.com/bug-blind/)
+
+---
+
+### 2. Highest-ever ocean temperature measured as powerful El Niño forms
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494231">https://news.ycombinator.com/item?id=49494231</a></p>
-<p>Points: 28</p>
-<p># Comments: 3</p>
+<p>Points: 52</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
 
 ---
 
-### 2. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
+### 3. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494182">https://news.ycombinator.com/item?id=49494182</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
+<p>Points: 42</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
-
----
-
-### 3. I co-founded Burning Man. The festival has lost its soul
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494151">https://news.ycombinator.com/item?id=49494151</a></p>
-<p>Points: 56</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
 
 ---
 
@@ -97,7 +97,33 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. Iran war live: Tehran stands firm over US sanctions; settlers besiege Qusra
+### 7. Turkiye, Somalia forces free cargo vessel hijacked by pirates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Somali authorities say 14 pirates were killed in the 10-day operation to free a Cameroon-flagged cargo vessel.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/turkiye-somalia-forces-frees-cargo-vessel-hijacked-by-pirates?traffic_source=rss)
+
+---
+
+### 8. Online anti-Muslim backlash collides with different reality in South Africa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Tehran to stand firm to US sanctions; settlers besiege Qusra
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 Iran says it will rely equally on diplomacy and defence to protect its interests.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss)
-
----
-
-### 8. Israeli settlers attack international news team in occupied West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss)
-
----
-
-### 9. Spectacular fireworks over Damascus as ‘Syria Shines Again’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss)
 
 ---
 
