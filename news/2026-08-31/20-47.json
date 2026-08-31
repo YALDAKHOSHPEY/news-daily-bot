@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T20:47:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Konrad Zuse Museum shutting down due to lack of funding",
+            "description": "<p><a href=\"https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/computer-museum-schliesst-,konrad-zuse-kultur-news-100.html\" rel=\"nofollow\">https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer...</a> (auf Deutsch)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511917\">https://news.ycombinator.com/item?id=49511917</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+            "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
+            "published": "Mon, 31 Aug 2026 16:52:35 +0000",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I turned my security cameras into an automatic bird identification system",
+            "description": "<p>Article URL: <a href=\"https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511856\">https://news.ycombinator.com/item?id=49511856</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+            "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+            "published": "Mon, 31 Aug 2026 16:47:11 +0000",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mental Health Workers Say Algorithmic Triage Is Hurting Patients",
+            "description": "<p>Article URL: <a href=\"https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients\">https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511750\">https://news.ycombinator.com/item?id=49511750</a></p>\n<p>Points: 39</p>\n<p># Comments: 5</p>",
+            "url": "https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients",
+            "published": "Mon, 31 Aug 2026 16:39:10 +0000",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+            "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 16:42:00 GMT",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once a village, now barren land - BBC in the valley devastated by floods",
+            "description": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
+            "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 10:20:08 GMT",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Messi retires from Argentina duty with 'nothing left to give'",
+            "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tunisia protests: Water, power cuts and rising anger",
+            "description": "Tunisia protests: Water, power cuts and rising anger",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 16:47:34 +0000",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
+            "description": "Outbreak in the DRC &#039;the fastest-spreading Ebola epidemic ever recorded,&#039; as country struggles to contain infections.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 16:24:20 +0000",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India rejects Hague court order to restore Indus waters pact with Pakistan",
+            "description": "New Delhi says the Permanent Court of Arbitration has no jurisdiction over its sovereign choice.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 16:23:30 +0000",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-08-31T20:47:53+03:30"
+        }
+    ]
+}
