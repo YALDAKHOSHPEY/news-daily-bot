@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 04:55:31
+**Last Update:** 2026-08-31 05:46:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Yen weakens past ¥160 per dollar, eroding intervention gains
+### 1. Understanding ChatGPT Work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/">https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504352">https://news.ycombinator.com/item?id=49504352</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504625">https://news.ycombinator.com/item?id=49504625</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/](https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/)
+🔗 **Read more:** [https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
 
 ---
 
-### 2. “I just chose words carefully”
+### 2. How to build a diffusion language model
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503601">https://news.ycombinator.com/item?id=49503601</a></p>
-<p>Points: 239</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503956">https://news.ycombinator.com/item?id=49503956</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/i-just-chose-words-carefully/](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+🔗 **Read more:** [https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)
 
 ---
 
-### 3. Continuous Diffusion Language Models (CDLM's)
+### 3. Matrox: Graphics for Professionals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502611">https://news.ycombinator.com/item?id=49502611</a></p>
-<p>Points: 52</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.abortretry.fail/p/matrox">https://www.abortretry.fail/p/matrox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503934">https://news.ycombinator.com/item?id=49503934</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sander.ai/2026/08/24/continuous-dlms.html](https://sander.ai/2026/08/24/continuous-dlms.html)
+🔗 **Read more:** [https://www.abortretry.fail/p/matrox](https://www.abortretry.fail/p/matrox)
 
 ---
 
@@ -84,20 +84,33 @@ Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team
 
 ---
 
-### 6. Eight killed and others missing after ferry capsizes off northern Cyprus
+### 6. US strikes Iranian launchers on Larak Island in first known attack in weeks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
+Iran says the attack killed some civilians and is the first known US strike on Iran since late July.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What are the implications of the US-Venezuela oil deal?
+### 7. US plans to sanction another bank to keep economic pressure on Iran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss)
+
+---
+
+### 8. What are the implications of the US-Venezuela oil deal?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Opposition in Venezuela as interim leader insists the deal with Washington will 
 
 ---
 
-### 8. Dozens evacuated and about 15 missing after Grand Canyon flash flood
+### 9. Dozens evacuated and about 15 missing after Grand Canyon flash flood
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Opposition in Venezuela as interim leader insists the deal with Washington will 
 More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss)
-
----
-
-### 9. Flash flooding in Grand Canyon leaves more than 20 people missing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss)
 
 ---
 

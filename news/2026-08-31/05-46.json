@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T05:46:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Understanding ChatGPT Work",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504625\">https://news.ycombinator.com/item?id=49504625</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+            "published": "Mon, 31 Aug 2026 01:28:22 +0000",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to build a diffusion language model",
+            "description": "<p>Article URL: <a href=\"https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503956\">https://news.ycombinator.com/item?id=49503956</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+            "published": "Sun, 30 Aug 2026 23:41:32 +0000",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Matrox: Graphics for Professionals",
+            "description": "<p>Article URL: <a href=\"https://www.abortretry.fail/p/matrox\">https://www.abortretry.fail/p/matrox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503934\">https://news.ycombinator.com/item?id=49503934</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+            "url": "https://www.abortretry.fail/p/matrox",
+            "published": "Sun, 30 Aug 2026 23:39:35 +0000",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+            "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:33:36 GMT",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+            "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 02:03:38 GMT",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+            "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 23:53:03 GMT",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US plans to sanction another bank to keep economic pressure on Iran",
+            "description": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 02:08:46 +0000",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What are the implications of the US-Venezuela oil deal?",
+            "description": "Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 00:41:12 +0000",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
+            "description": "More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 00:31:51 +0000",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-08-31T05:46:19+03:30"
+        }
+    ]
+}
