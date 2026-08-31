@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T01:40:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How we configured OpenTelemetry logs in Rails",
+            "description": "<p>Article URL: <a href=\"https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails\">https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514895\">https://news.ycombinator.com/item?id=49514895</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+            "published": "Mon, 31 Aug 2026 21:12:22 +0000",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+            "description": "<p>Article URL: <a href=\"https://webiterate.dev/google-removed-extensions-ublock-origin-108/\">https://webiterate.dev/google-removed-extensions-ublock-origin-108/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514878\">https://news.ycombinator.com/item?id=49514878</a></p>\n<p>Points: 129</p>\n<p># Comments: 93</p>",
+            "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+            "published": "Mon, 31 Aug 2026 21:10:58 +0000",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Autonomous (YC F25) Is Hiring Engineers",
+            "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514781\">https://news.ycombinator.com/item?id=49514781</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://news.ycombinator.com/item?id=49514781",
+            "published": "Mon, 31 Aug 2026 21:00:09 +0000",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+            "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 20:27:52 GMT",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+            "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 17:30:47 GMT",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Messi retires from international football with 'nothing left to give'",
+            "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland opens terror probe into fire at drone factory",
+            "description": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 21:24:15 +0000",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+            "description": "Victory ​lifts Arsenal to six points ⁠along with Man ⁠City, Hull City and Chelsea, while Villa remain without a point.",
+            "url": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 21:21:20 +0000",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Putin and Xi affirm strategic alliance amid ‘unpredictable’ world",
+            "description": "The Russian and Chinese leaders met on the sidelines of the SCO summit.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 21:14:47 +0000",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-09-01T01:40:15+03:30"
+        }
+    ]
+}
