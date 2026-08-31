@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T12:32:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+            "description": "<p>Article URL: <a href=\"https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails\">https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506655\">https://news.ycombinator.com/item?id=49506655</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+            "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+            "published": "Mon, 31 Aug 2026 07:23:47 +0000",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506182\">https://news.ycombinator.com/item?id=49506182</a></p>\n<p>Points: 73</p>\n<p># Comments: 8</p>",
+            "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+            "published": "Mon, 31 Aug 2026 06:10:44 +0000",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenClaw 2.0, Accidentally",
+            "description": "<p>Article URL: <a href=\"https://openclaw.ai/blog/openclaw-2-accidentally\">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505310\">https://news.ycombinator.com/item?id=49505310</a></p>\n<p>Points: 82</p>\n<p># Comments: 81</p>",
+            "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+            "published": "Mon, 31 Aug 2026 03:38:02 +0000",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+            "description": "Nick Timothy's comments follow an announcement from the prime minister that some prisoners serving indefinite sentences could be freed to increase prison capacity.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 08:20:54 GMT",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Iran trade strikes for first time in weeks",
+            "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 08:34:25 GMT",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+            "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 02:03:38 GMT",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?",
+            "description": "The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump&#039;s unilateralism.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 08:47:03 +0000",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "England vs Pakistan second Test: Three talking points from cricket series",
+            "description": "Pakistan’s batting collapses, concerns over the Lord’s pitch and Ollie Robinson’s rampant form highlight the series.",
+            "url": "https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 08:12:54 +0000",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
+            "description": "Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.",
+            "url": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 08:05:52 +0000",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-08-31T12:32:35+03:30"
+        }
+    ]
+}

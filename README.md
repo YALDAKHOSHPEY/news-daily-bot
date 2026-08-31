@@ -1,42 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 10:42:17
+**Last Update:** 2026-08-31 12:32:35
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Prisoners freed early are returning to jail at rapid rate, governors tell BBC
+### 1. Meta Security Researcher's AI Agent Accidentally Deleted Her Emails
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.
+<p>Article URL: <a href="https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails">https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506655">https://news.ycombinator.com/item?id=49506655</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails](https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails)
 
 ---
 
-### 2. US and Iran trade strikes for first time in weeks
+### 2. A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506182">https://news.ycombinator.com/item?id=49506182</a></p>
+<p>Points: 73</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+
+---
+
+### 3. OpenClaw 2.0, Accidentally
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openclaw.ai/blog/openclaw-2-accidentally">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505310">https://news.ycombinator.com/item?id=49505310</a></p>
+<p>Points: 82</p>
+<p># Comments: 81</p>
+
+🔗 **Read more:** [https://openclaw.ai/blog/openclaw-2-accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
+
+---
+
+### 4. Early release scheme could see dangerous criminals released, Conservatives warn
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.
+Nick Timothy's comments follow an announcement from the prime minister that some prisoners serving indefinite sentences could be freed to increase prison capacity.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. US and Iran trade strikes for first time in weeks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Patel to be replaced by Tugendhat as shadow foreign secretary
+### 6. Patel to be replaced by Tugendhat as shadow foreign secretary
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team
 
 ---
 
-### 4. FIFA president Infantino ‘must go’, says former UEFA boss Platini
+### 7. Xi, Modi and Putin set to meet for SCO summit: What’s on the agenda?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a scathing interview, French great Michel Platini accuses Infantino of always loving &#039;money and power&#039;.
+The two-day summit aims to promote a vision of a multipolar world and mutual trade ties amid Trump&#039;s unilateralism.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/xi-modi-and-putin-set-to-meet-for-sco-summit-whats-on-the-agenda?traffic_source=rss)
 
 ---
 
-### 5. Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
+### 8. England vs Pakistan second Test: Three talking points from cricket series
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
+Pakistan’s batting collapses, concerns over the Lord’s pitch and Ollie Robinson’s rampant form highlight the series.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/england-vs-pakistan-second-test-three-talking-points-from-cricket-series?traffic_source=rss)
 
 ---
 
-### 6. Tennis great Djokovic exits US Open in first round amid tears and pain
+### 9. Syria is choosing diplomacy with Israel, but can its approach last?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novak Djokovic&#039;s pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
+Israel has attacked Syria, occupied its south since the al-Assad regime&#039;s ouster, testing Syria&#039;s diplomatic outreach.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss](https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Karina
+### 10. Hurricane Karina
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Lowell
+### 11. Tropical Storm Lowell
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Storm Bang-Lang
+### 12. Tropical Storm Bang-Lang
 
 **Source:** NASA
 
