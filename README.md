@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 02:30:36
+**Last Update:** 2026-08-31 04:55:31
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Continuous Diffusion Language Models (CDLM's)
+### 1. Yen weakens past ¥160 per dollar, eroding intervention gains
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/">https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504352">https://news.ycombinator.com/item?id=49504352</a></p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/](https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/)
+
+---
+
+### 2. “I just chose words carefully”
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503601">https://news.ycombinator.com/item?id=49503601</a></p>
+<p>Points: 239</p>
+<p># Comments: 61</p>
+
+🔗 **Read more:** [https://unsung.aresluna.org/i-just-chose-words-carefully/](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+
+---
+
+### 3. Continuous Diffusion Language Models (CDLM's)
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502611">https://news.ycombinator.com/item?id=49502611</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://sander.ai/2026/08/24/continuous-dlms.html](https://sander.ai/2026/08/24/continuous-dlms.html)
-
----
-
-### 2. Cores in space: The core memory module from a 1980 Spacelab computer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.righto.com/2026/08/spacelab-core-memory.html">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502214">https://news.ycombinator.com/item?id=49502214</a></p>
-<p>Points: 44</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.righto.com/2026/08/spacelab-core-memory.html](https://www.righto.com/2026/08/spacelab-core-memory.html)
-
----
-
-### 3. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/KodeMunkie/sm750hdmifb">https://github.com/KodeMunkie/sm750hdmifb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501611">https://news.ycombinator.com/item?id=49501611</a></p>
-<p>Points: 51</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://github.com/KodeMunkie/sm750hdmifb](https://github.com/KodeMunkie/sm750hdmifb)
 
 ---
 
@@ -71,7 +71,20 @@ PM Andy Burnham on Sunday announced changes to the next early release scheme - s
 
 ---
 
-### 5. Eight killed and others missing after ferry capsizes off northern Cyprus
+### 5. Patel to be replaced by Tugendhat as shadow foreign secretary
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Eight killed and others missing after ferry capsizes off northern Cyprus
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ A search and rescue operation is under way after a ferry carrying nearly 270 peo
 
 ---
 
-### 6. US strikes Iranian launchers on Larak Island in first known attack in weeks
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Iran says the attack killed some civilians and is the first known US strike on Iran since late July.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says
+### 7. What are the implications of the US-Venezuela oil deal?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Teenager struggled in Barca&#039;s La Liga start at Elche but improves against Athletic Bilbao, according to Hansi Flick.
+Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss)
 
 ---
 
-### 8. Israeli strike kills 3-year-old child in Gaza
+### 8. Dozens evacuated and about 15 missing after Grand Canyon flash flood
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.
+More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss)
 
 ---
 
-### 9. Jose Andres renews call for investigation into WCK Gaza staff killings
+### 9. Flash flooding in Grand Canyon leaves more than 20 people missing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World Central Kitchen founder José Andrés is renewing his call for an independent investigation into Israeli strikes.
+A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss)
 
 ---
 
