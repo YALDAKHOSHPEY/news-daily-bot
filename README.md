@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 05:46:19
+**Last Update:** 2026-08-31 10:42:17
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Understanding ChatGPT Work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504625">https://news.ycombinator.com/item?id=49504625</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
-
----
-
-### 2. How to build a diffusion language model
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/">https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503956">https://news.ycombinator.com/item?id=49503956</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)
-
----
-
-### 3. Matrox: Graphics for Professionals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.abortretry.fail/p/matrox">https://www.abortretry.fail/p/matrox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503934">https://news.ycombinator.com/item?id=49503934</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.abortretry.fail/p/matrox](https://www.abortretry.fail/p/matrox)
-
----
-
-### 4. Prisoners freed early are returning to jail at rapid rate, governors tell BBC
+### 1. Prisoners freed early are returning to jail at rapid rate, governors tell BBC
 
 **Source:** BBC
 
@@ -71,7 +23,20 @@ PM Andy Burnham on Sunday announced changes to the next early release scheme - s
 
 ---
 
-### 5. Patel to be replaced by Tugendhat as shadow foreign secretary
+### 2. US and Iran trade strikes for first time in weeks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Patel to be replaced by Tugendhat as shadow foreign secretary
 
 **Source:** BBC
 
@@ -84,94 +49,81 @@ Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team
 
 ---
 
-### 6. US strikes Iranian launchers on Larak Island in first known attack in weeks
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Iran says the attack killed some civilians and is the first known US strike on Iran since late July.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US plans to sanction another bank to keep economic pressure on Iran
+### 4. FIFA president Infantino ‘must go’, says former UEFA boss Platini
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.
+In a scathing interview, French great Michel Platini accuses Infantino of always loving &#039;money and power&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss)
 
 ---
 
-### 8. What are the implications of the US-Venezuela oil deal?
+### 5. Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.
+Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss)
 
 ---
 
-### 9. Dozens evacuated and about 15 missing after Grand Canyon flash flood
+### 6. Tennis great Djokovic exits US Open in first round amid tears and pain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
+Novak Djokovic&#039;s pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss)
 
 ---
 
-### 10. Iceberg A76C
+### 7. Hurricane Karina
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611)
 
 ---
 
-### 11. Iceberg C39
+### 8. Tropical Storm Lowell
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612)
 
 ---
 
-### 12. Iceberg A81
+### 9. Tropical Storm Bang-Lang
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613)
 
 ---
 
