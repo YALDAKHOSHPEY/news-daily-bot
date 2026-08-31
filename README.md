@@ -1,61 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 20:47:53
+**Last Update:** 2026-09-01 00:24:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Konrad Zuse Museum shutting down due to lack of funding
+### 1. A walkable ASCII cyberpunk city in one HTML file [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/computer-museum-schliesst-,konrad-zuse-kultur-news-100.html" rel="nofollow">https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer...</a> (auf Deutsch)</p>
+<p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511917">https://news.ycombinator.com/item?id=49511917</a></p>
-<p>Points: 24</p>
-<p># Comments: 5</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
+<p>Points: 104</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html](https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html)
+🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
 
 ---
 
-### 2. I turned my security cameras into an automatic bird identification system
+### 2. Weave (YC W25) is hiring ML, AI, product, & design engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511856">https://news.ycombinator.com/item?id=49511856</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512895">https://news.ycombinator.com/item?id=49512895</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
 
 ---
 
-### 3. Mental Health Workers Say Algorithmic Triage Is Hurting Patients
+### 3. 'Stunning' percolation proof solves decades-old puzzle about phase transitions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients">https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49511750">https://news.ycombinator.com/item?id=49511750</a></p>
-<p>Points: 39</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/">https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512311">https://news.ycombinator.com/item?id=49512311</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients](https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients)
+🔗 **Read more:** [https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
 
 ---
 
@@ -72,20 +72,20 @@ Conservative leader Kemi Badenoch is shaking up her top team ahead of the party'
 
 ---
 
-### 5. Once a village, now barren land - BBC in the valley devastated by floods
+### 5. Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.
+Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Messi retires from Argentina duty with 'nothing left to give'
+### 6. Messi retires from international football with 'nothing left to give'
 
 **Source:** BBC
 
@@ -98,42 +98,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. Tunisia protests: Water, power cuts and rising anger
+### 7. How will the Mecca agreement become an operational framework?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tunisia protests: Water, power cuts and rising anger
+Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/tunisia-protests-water-power-cuts-and-rising-anger?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss)
 
 ---
 
-### 8. Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000
+### 8. Ukrainians mourn community leader killed in Russian strike on Myla
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Outbreak in the DRC &#039;the fastest-spreading Ebola epidemic ever recorded,&#039; as country struggles to contain infections.
+Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/over-6000-ebola-cases-confirmed-in-drc-as-death-toll-nears-3000?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss)
 
 ---
 
-### 9. India rejects Hague court order to restore Indus waters pact with Pakistan
+### 9. GTA 6: Why is the world’s most anticipated game facing backlash?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Delhi says the Permanent Court of Arbitration has no jurisdiction over its sovereign choice.
+You paid for it. But do you actually own it? GTA 6 is exposing a bigger battle over the future of gaming.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/india-rejects-hague-court-order-to-restore-indus-waters-pact-with-pakistan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss)
 
 ---
 
