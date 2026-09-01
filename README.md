@@ -1,177 +1,177 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 05:00:24
+**Last Update:** 2026-09-01 09:53:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Carmack: Has early Scratch experience led to fulfilling careers?
+### 1. AI Can Make You Suck Faster Too
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/ID_AA_Carmack/status/2094450188911845827">https://twitter.com/ID_AA_Carmack/status/2094450188911845827</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516209">https://news.ycombinator.com/item?id=49516209</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/ID_AA_Carmack/status/2094450188911845827](https://twitter.com/ID_AA_Carmack/status/2094450188911845827)
+🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
 
 ---
 
-### 2. Evidence of Fraud in an Influential Study About Procrastination
+### 2. Vermell – Minimal, dependency-free C++ web framework using epoll
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://datacolada.org/138">https://datacolada.org/138</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516199">https://news.ycombinator.com/item?id=49516199</a></p>
-<p>Points: 50</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://datacolada.org/138](https://datacolada.org/138)
+🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
 
 ---
 
-### 3. Run macOS Software on Linux
+### 3. Restroom Archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515830">https://news.ycombinator.com/item?id=49515830</a></p>
-<p>Points: 78</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
+<p>Points: 66</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.darlinghq.org/](https://www.darlinghq.org/)
+🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
 
 ---
 
-### 4. Mel Stride and Priti Patel replaced in major Tory reshuffle
+### 4. Man charged after woman and her niece died in fire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.
+A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
+### 5. Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
+Duane "Keffe D" Davis's conviction ends decades of mystery as to who was behind the rapper's death.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US army secretary resigns after months of tension
+### 6. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.
+As of August, the number forced to return this year from Pakistan and Iran had reached another million.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Five years after Saied’s power grab, Tunisia’s old grievances resurface
+### 7. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Economic grievances persist while space for dissent has narrowed under President Kais Saied.
+Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
+### 8. Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.
+Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss)
 
 ---
 
-### 9. US Army Secretary Daniel Driscoll submits resignation, media reports say
+### 9. Former gang leader found guilty of Tupac Shakur’s 1996 murder
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Driscoll&#039;s resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.
+A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Karina
+### 10. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656)
 
 ---
 
-### 11. Tropical Storm Lowell
+### 11. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658)
 
 ---
 
-### 12. Tropical Storm Bang-Lang
+### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685)
 
 ---
 
