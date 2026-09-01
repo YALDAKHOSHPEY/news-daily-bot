@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T05:00:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/ID_AA_Carmack/status/2094450188911845827\">https://twitter.com/ID_AA_Carmack/status/2094450188911845827</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516209\">https://news.ycombinator.com/item?id=49516209</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+            "published": "Mon, 31 Aug 2026 23:46:38 +0000",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Evidence of Fraud in an Influential Study About Procrastination",
+            "description": "<p>Article URL: <a href=\"https://datacolada.org/138\">https://datacolada.org/138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516199\">https://news.ycombinator.com/item?id=49516199</a></p>\n<p>Points: 50</p>\n<p># Comments: 22</p>",
+            "url": "https://datacolada.org/138",
+            "published": "Mon, 31 Aug 2026 23:45:56 +0000",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Run macOS Software on Linux",
+            "description": "<p>Article URL: <a href=\"https://www.darlinghq.org/\">https://www.darlinghq.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515830\">https://news.ycombinator.com/item?id=49515830</a></p>\n<p>Points: 78</p>\n<p># Comments: 19</p>",
+            "url": "https://www.darlinghq.org/",
+            "published": "Mon, 31 Aug 2026 22:53:45 +0000",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+            "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 20:27:52 GMT",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+            "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 17:30:47 GMT",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US army secretary resigns after months of tension",
+            "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
+            "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 01:01:03 GMT",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
+            "description": "Economic grievances persist while space for dissent has narrowed under President Kais Saied.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 00:15:22 +0000",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+            "description": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+            "description": "Driscoll&#039;s resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 23:23:00 +0000",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-09-01T05:00:24+03:30"
+        }
+    ]
+}

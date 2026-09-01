@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 04:11:39
+**Last Update:** 2026-09-01 05:00:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Evidence of Fraud in an Influential Study About Procrastination
+### 1. Carmack: Has early Scratch experience led to fulfilling careers?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/ID_AA_Carmack/status/2094450188911845827">https://twitter.com/ID_AA_Carmack/status/2094450188911845827</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516209">https://news.ycombinator.com/item?id=49516209</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://twitter.com/ID_AA_Carmack/status/2094450188911845827](https://twitter.com/ID_AA_Carmack/status/2094450188911845827)
+
+---
+
+### 2. Evidence of Fraud in an Influential Study About Procrastination
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://datacolada.org/138">https://datacolada.org/138</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516199">https://news.ycombinator.com/item?id=49516199</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
+<p>Points: 50</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://datacolada.org/138](https://datacolada.org/138)
 
 ---
 
-### 2. Run macOS Software on Linux
+### 3. Run macOS Software on Linux
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515830">https://news.ycombinator.com/item?id=49515830</a></p>
-<p>Points: 56</p>
-<p># Comments: 13</p>
+<p>Points: 78</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.darlinghq.org/](https://www.darlinghq.org/)
-
----
-
-### 3. Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515662">https://news.ycombinator.com/item?id=49515662</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 
 ---
 
@@ -84,16 +84,16 @@ Rescuers have resorted to explosives as they struggle to reach trapped workers, 
 
 ---
 
-### 6. Messi retires from international football with 'nothing left to give'
+### 6. US army secretary resigns after months of tension
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that "hurt" but he understands "the time has come".
+Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
