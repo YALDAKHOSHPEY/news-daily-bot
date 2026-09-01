@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 15:50:09
+**Last Update:** 2026-09-01 20:17:52
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lake Ontario ("Lake America")
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://community.openstreetmap.org/t/lake-ontario-lake-america/146975">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520270">https://news.ycombinator.com/item?id=49520270</a></p>
-<p>Points: 31</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://community.openstreetmap.org/t/lake-ontario-lake-america/146975](https://community.openstreetmap.org/t/lake-ontario-lake-america/146975)
-
----
-
-### 2. AnkiDroid: Google Play no longer allowing Open Collective donation link
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/ankidroid/Anki-Android/issues/21656">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520022">https://news.ycombinator.com/item?id=49520022</a></p>
-<p>Points: 218</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://github.com/ankidroid/Anki-Android/issues/21656](https://github.com/ankidroid/Anki-Android/issues/21656)
-
----
-
-### 3. 44% on ARC-AGI-1 in 67 cents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mvakde.github.io/blog/44-on-arc-1/">https://mvakde.github.io/blog/44-on-arc-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49519939">https://news.ycombinator.com/item?id=49519939</a></p>
-<p>Points: 100</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://mvakde.github.io/blog/44-on-arc-1/](https://mvakde.github.io/blog/44-on-arc-1/)
-
----
-
-### 4. Keir Starmer announces he is standing down as MP
+### 1. UK long-term borrowing costs highest since 1998 ahead of October Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former prime minister said he would now turn his focus to international affairs.
+Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 2. Keir Starmer announces he is standing down as MP
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The move will trigger a by-election to replace the former prime minister in his London constituency.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Laundry rooms to be turned into cells to tackle prison overcrowding
+### 3. Germany says Russia behind Leipzig airport drone attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.
+A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-As of August, the number forced to return this year from Pakistan and Iran had reached another million.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Damascus goes car-free for 24 hours
+### 4. Germany accuses Russia of drone attack on Leipzig airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Damascus’ Old City went car-free for 24 hours, giving residents a rare chance to walk its streets without traffic.
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss)
 
 ---
 
-### 8. ‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?
+### 5. UK Foreign Secretary condemns Israeli settlements in the occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.
+UK Foreign Secretary condemns Israeli settlements in the occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Abroad and at odds: How the war has divided Iranians in the diaspora
+### 6. ‘No one else like him’: Argentinians rally for Lionel Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran.
+Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 7. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 8. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 
