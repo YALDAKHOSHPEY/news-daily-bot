@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 23:30:00
+**Last Update:** 2026-09-01 23:47:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What's the Scam?
+### 1. Refurbishing a Tektronix TDS7104 Oscilloscope
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html">https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49527232">https://news.ycombinator.com/item?id=49527232</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
+
+---
+
+### 2. What's the Scam?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html">https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526244">https://news.ycombinator.com/item?id=49526244</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html](https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html)
 
 ---
 
-### 2. How accurate have Ed Zitron's AI skeptic predictions been?
+### 3. How accurate have Ed Zitron's AI skeptic predictions been?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/zitron/">https://danluu.com/zitron/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526069">https://news.ycombinator.com/item?id=49526069</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Points: 91</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://danluu.com/zitron/](https://danluu.com/zitron/)
-
----
-
-### 3. There Is No AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://wadler.blogspot.com/2026/08/there-is-no-ai.html">https://wadler.blogspot.com/2026/08/there-is-no-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525791">https://news.ycombinator.com/item?id=49525791</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://wadler.blogspot.com/2026/08/there-is-no-ai.html](https://wadler.blogspot.com/2026/08/there-is-no-ai.html)
 
 ---
 
@@ -97,7 +97,20 @@ The move will trigger a by-election to replace the former prime minister in his 
 
 ---
 
-### 7. China’s Xi makes his first visit to Egypt in a decade
+### 7. Munitions vehicle explodes killing five in Idlib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least five people were killed and several others wounded when a vehicle carrying munitions exploded in Binnish
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss)
+
+---
+
+### 8. China’s Xi makes his first visit to Egypt in a decade
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian Presid
 
 ---
 
-### 8. Israel’s multiple wars see finance, defence ministries clash over spending
+### 9. Israel’s multiple wars see finance, defence ministries clash over spending
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian Presid
 Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss)
-
----
-
-### 9. Hakainde Hichilema returns as Zambia’s president following disputed vote
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Incumbent is inaugurated with his main rival in last month&#039;s election jailed and the courts shuttered.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss)
 
 ---
 
