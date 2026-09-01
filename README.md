@@ -1,59 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 01:40:15
+**Last Update:** 2026-09-01 04:11:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How we configured OpenTelemetry logs in Rails
+### 1. Evidence of Fraud in an Influential Study About Procrastination
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails">https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514895">https://news.ycombinator.com/item?id=49514895</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://datacolada.org/138">https://datacolada.org/138</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49516199">https://news.ycombinator.com/item?id=49516199</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
+🔗 **Read more:** [https://datacolada.org/138](https://datacolada.org/138)
 
 ---
 
-### 2. Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO
+### 2. Run macOS Software on Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/">https://webiterate.dev/google-removed-extensions-ublock-origin-108/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514878">https://news.ycombinator.com/item?id=49514878</a></p>
-<p>Points: 129</p>
-<p># Comments: 93</p>
+<p>Article URL: <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515830">https://news.ycombinator.com/item?id=49515830</a></p>
+<p>Points: 56</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://webiterate.dev/google-removed-extensions-ublock-origin-108/](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+🔗 **Read more:** [https://www.darlinghq.org/](https://www.darlinghq.org/)
 
 ---
 
-### 3. Autonomous (YC F25) Is Hiring Engineers
+### 3. Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514781">https://news.ycombinator.com/item?id=49514781</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515662">https://news.ycombinator.com/item?id=49515662</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49514781](https://news.ycombinator.com/item?id=49514781)
+🔗 **Read more:** [https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
 
 ---
 
@@ -96,42 +97,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. Poland opens terror probe into fire at drone factory
+### 7. Five years after Saied’s power grab, Tunisia’s old grievances resurface
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.
+Economic grievances persist while space for dissent has narrowed under President Kais Saied.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss)
 
 ---
 
-### 8. Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal
+### 8. Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Victory ​lifts Arsenal to six points ⁠along with Man ⁠City, Hull City and Chelsea, while Villa remain without a point.
+President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss)
 
 ---
 
-### 9. Putin and Xi affirm strategic alliance amid ‘unpredictable’ world
+### 9. US Army Secretary Daniel Driscoll submits resignation, media reports say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Russian and Chinese leaders met on the sidelines of the SCO summit.
+Driscoll&#039;s resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss)
 
 ---
 
