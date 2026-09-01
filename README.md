@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 02:12:01
+**Last Update:** 2026-09-02 02:23:39
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -20,8 +20,8 @@
 <p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href="https://github.com/masteranza/weedout-for-youtube" rel="nofollow">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528895">https://news.ycombinator.com/item?id=49528895</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://masteranza.github.io/weedout/](https://masteranza.github.io/weedout/)
 
@@ -36,7 +36,7 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears">https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528366">https://news.ycombinator.com/item?id=49528366</a></p>
-<p>Points: 9</p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
@@ -53,7 +53,7 @@
 <p>Hi!<p>Every month the "Who Wants to Be Hired?" and "Who's Hiring?" Threads come through I would think to myself, "there should be a match maker for these two threads".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.<p>If you've submitted a post to this month's 'Who Wants to Be Hired?", you can find your matching job listings at <a href="https://hnmatchmaker.com/user/:user_name" rel="nofollow">https://hnmatchmaker.com/user/:user_name</a>, for example <a href="https://hnmatchmaker.com/user/G4Vi" rel="nofollow">https://hnmatchmaker.com/user/G4Vi</a><p>---<p>Some observations when looking at the matches pair up right now:<p>Poke around, let me know what you think!<p>Ultimately, I hope this is actually helpful to some folks.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528057">https://news.ycombinator.com/item?id=49528057</a></p>
-<p>Points: 13</p>
+<p>Points: 16</p>
 <p># Comments: 7</p>
 
 🔗 **Read more:** [https://hnmatchmaker.com/](https://hnmatchmaker.com/)
