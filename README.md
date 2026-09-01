@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 09:53:28
+**Last Update:** 2026-09-01 10:27:49
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 46</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
-<p>Points: 66</p>
-<p># Comments: 6</p>
+<p>Points: 81</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
 
@@ -97,7 +97,33 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
+### 7. Ex-gang leader ‘Keffe D’ found guilty of killing rap legend Tupac Shakur
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jury finds Duane &quot;Keffe D&quot; Davis, 63, guilty of murdering the chart-topping artist in the 1996 shooting.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss)
+
+---
+
+### 8. Oil prices climb as US, Iranian attacks stoke fears of escalation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss)
+
+---
+
+### 9. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
-
----
-
-### 8. Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss)
-
----
-
-### 9. Former gang leader found guilty of Tupac Shakur’s 1996 murder
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss)
 
 ---
 
