@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 10:27:49
+**Last Update:** 2026-09-01 15:21:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Can Make You Suck Faster Too
+### 1. Lake Ontario ("Lake America")
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
-<p>Points: 46</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://community.openstreetmap.org/t/lake-ontario-lake-america/146975">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520270">https://news.ycombinator.com/item?id=49520270</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+🔗 **Read more:** [https://community.openstreetmap.org/t/lake-ontario-lake-america/146975](https://community.openstreetmap.org/t/lake-ontario-lake-america/146975)
 
 ---
 
-### 2. Vermell – Minimal, dependency-free C++ web framework using epoll
+### 2. AnkiDroid: Google Play no longer allowing Open Collective donation link
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/ankidroid/Anki-Android/issues/21656">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520022">https://news.ycombinator.com/item?id=49520022</a></p>
+<p>Points: 178</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
+🔗 **Read more:** [https://github.com/ankidroid/Anki-Android/issues/21656](https://github.com/ankidroid/Anki-Android/issues/21656)
 
 ---
 
-### 3. Restroom Archive
+### 3. 44% on ARC-AGI-1 in 67 cents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
-<p>Points: 81</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://mvakde.github.io/blog/44-on-arc-1/">https://mvakde.github.io/blog/44-on-arc-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49519939">https://news.ycombinator.com/item?id=49519939</a></p>
+<p>Points: 79</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
+🔗 **Read more:** [https://mvakde.github.io/blog/44-on-arc-1/](https://mvakde.github.io/blog/44-on-arc-1/)
 
 ---
 
-### 4. Man charged after woman and her niece died in fire
+### 4. Keir Starmer announces he is standing down as MP
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.
+The former prime minister said he would now turn his focus to international affairs.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur
+### 5. Laundry rooms to be turned into cells to tackle prison overcrowding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Duane "Keffe D" Davis's conviction ends decades of mystery as to who was behind the rapper's death.
+The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Ex-gang leader ‘Keffe D’ found guilty of killing rap legend Tupac Shakur
+### 7. Abroad and at odds: How the war has divided Iranians in the diaspora
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jury finds Duane &quot;Keffe D&quot; Davis, 63, guilty of murdering the chart-topping artist in the 1996 shooting.
+Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss)
 
 ---
 
-### 8. Oil prices climb as US, Iranian attacks stoke fears of escalation
+### 8. Transfer deadline day live: Premier League, La Liga news and done deals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
+Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
+### 9. Israeli attacks on Gaza kill at least four, including children
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
+At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss)
 
 ---
 
