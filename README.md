@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 00:55:58
+**Last Update:** 2026-09-03 02:14:06
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
+### 1. Uber shuts operations in Nigeria and Uganda with immediate effect
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c86xpv8l9y9o">https://www.bbc.com/news/articles/c86xpv8l9y9o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543007">https://news.ycombinator.com/item?id=49543007</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c86xpv8l9y9o](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+
+---
+
+### 2. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
 
 **Source:** Hacker News
 
@@ -26,35 +42,19 @@
 
 ---
 
-### 2. Altair Basic Interpreter Source Code (1975) [pdf]
+### 3. Mamdani Bans AI in NYC Schools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541754">https://news.ycombinator.com/item?id=49541754</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html">https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542443">https://news.ycombinator.com/item?id=49542443</a></p>
+<p>Points: 87</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
-
----
-
-### 3. I wanna live an NPC life
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/">https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541519">https://news.ycombinator.com/item?id=49541519</a></p>
-<p>Points: 75</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -97,42 +97,42 @@ British and French leaders will be at the British Museum to see the exhibition o
 
 ---
 
-### 7. Two Palestinians killed as settlers, Israeli forces raid West Bank village
+### 7. Republican senator calls on Trump to fire Secretary of Defence Hegseth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.
+Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss)
 
 ---
 
-### 8. The long-term implications of Pete Hegseth’s US military purges
+### 8. Israeli PM says Israel is working to overthrow Iran’s government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Resignation of US Army secretary is latest loss at the top for the military.
+Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss)
 
 ---
 
-### 9. Nepal families hold symbolic funerals, thousands still missing
+### 9. Children return to school in DR Congo amid growing concerns over Ebola
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families in Nepal hold symbolic funerals as rescuers search for survivors and bodies.
+Children return to school in DR Congo amid growing concerns over Ebola
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss)
 
 ---
 
