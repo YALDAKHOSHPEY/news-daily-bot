@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 08:44:25
+**Last Update:** 2026-09-02 09:33:34
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.29530">https://arxiv.org/abs/2608.29530</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531651">https://news.ycombinator.com/item?id=49531651</a></p>
-<p>Points: 25</p>
-<p># Comments: 0</p>
+<p>Points: 38</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.29530](https://arxiv.org/abs/2608.29530)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://webfpga.io/">https://webfpga.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531525">https://news.ycombinator.com/item?id=49531525</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
+<p>Points: 25</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://webfpga.io/](https://webfpga.io/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lisep.org/tru">https://www.lisep.org/tru</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530989">https://news.ycombinator.com/item?id=49530989</a></p>
-<p>Points: 83</p>
-<p># Comments: 25</p>
+<p>Points: 119</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://www.lisep.org/tru](https://www.lisep.org/tru)
 
@@ -97,42 +97,42 @@ Curiously, the questions at lunchtime may well feel like a minor extension of wh
 
 ---
 
-### 7. Germany says Russia preparing ‘hybrid’ attacks over Ukraine support
+### 7. Palestinian artist Saint Levant delays tour amid US visa complications
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.
+Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss)
 
 ---
 
-### 8. Hong Kong activist Joshua Wong pleads guilty to foreign collusion
+### 8. Syria’s restrained approach to Israel carries risks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.
+Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss)
 
 ---
 
-### 9. Tunisia’s civil society faces growing pressure as crackdown widens
+### 9. Hong Kong activist Joshua Wong pleads guilty in national security case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.
+Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss)
 
 ---
 
