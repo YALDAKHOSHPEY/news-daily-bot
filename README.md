@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 04:09:53
+**Last Update:** 2026-09-02 04:39:34
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529567">https://news.ycombinator.com/item?id=49529567</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.anthropic.com/news/improving-alignment-security-efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
 
@@ -51,40 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 38</p>
-<p># Comments: 9</p>
+<p>Points: 47</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
 
 ---
 
-### 4. Burnham promises more devolution and public control of essential services
+### 4. Iran retaliates after US strikes kills four at wedding party, state media reports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.
+Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. UK long-term borrowing costs highest since 1998 ahead of October Budget
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his fi
 Tyler Robinson is charged with aggravated murder, a capital offence in Utah, and six other counts.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham promises more devolution and public control of essential services
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
