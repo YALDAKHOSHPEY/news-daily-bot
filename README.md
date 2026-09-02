@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 15:02:42
+**Last Update:** 2026-09-02 18:18:04
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sweden pauses Denmark power cable over EU grid rules
+### 1. Exit the Cave
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/">https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533809">https://news.ycombinator.com/item?id=49533809</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://turtlespace.blog/p/exit-the-cave">https://turtlespace.blog/p/exit-the-cave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536606">https://news.ycombinator.com/item?id=49536606</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/](https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/)
+🔗 **Read more:** [https://turtlespace.blog/p/exit-the-cave](https://turtlespace.blog/p/exit-the-cave)
 
 ---
 
-### 2. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
+### 2. WebLLM: high-performance in-browser LLM inference engine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://careers.telli.com/">https://careers.telli.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533557">https://news.ycombinator.com/item?id=49533557</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://github.com/mlc-ai/web-llm">https://github.com/mlc-ai/web-llm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536411">https://news.ycombinator.com/item?id=49536411</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://careers.telli.com/](https://careers.telli.com/)
+🔗 **Read more:** [https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)
 
 ---
 
-### 3. Commodore 64 released September 1, 1982
+### 3. GrapheneOS says Pixel 11 has MTE support after all
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">https://dfarq.homeip.net/commodore-64-released-september-1-1982/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533497">https://news.ycombinator.com/item?id=49533497</a></p>
-<p>Points: 98</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117194007157499435">https://grapheneos.social/@GrapheneOS/117194007157499435</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536384">https://news.ycombinator.com/item?id=49536384</a></p>
+<p>Points: 33</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://dfarq.homeip.net/commodore-64-released-september-1-1982/](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117194007157499435](https://grapheneos.social/@GrapheneOS/117194007157499435)
 
 ---
 
-### 4. Four charged with murder after baby stabbed to death
+### 4. Burnham's PMQs debut shows the challenge of delivering new style of politics
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.
+Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Farage tells BBC 'we live in a complainants' society' after questions over Reform funding
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block succeeding".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Four in court over murder of baby stabbed to death
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Four people, aged between 19 and 38, appear in court charged with murdering the newborn.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What we know about reported strike on Iran wedding celebrations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. BBC gains rare access to occupied Lebanon as officials say Israel expanding positions
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Nigerian anticorruption agency sacks 40 staff over misconduct allegations
+### 7. How Trumpism is changing the world
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
+This US presidency is rewriting the rules of global governance and ushering the world into a new era.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss)
 
 ---
 
-### 8. What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
+### 8. Palestinians in fear as Israeli forces mount pogroms on West Bank mosques
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
+Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss](https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss)
 
 ---
 
-### 9. Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
+### 9. Summer transfers 2026: All to know as Premier League signings break records
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leandro ‌Paredes&#039;s 10-match ban, alongside Lionel Messi&#039;s Argentina retirement, leave former to ponder future.
+Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss)
 
 ---
 
