@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 04:39:34
+**Last Update:** 2026-09-02 08:44:25
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The efficient frontier of LLM inference
+### 1. The Emergent Symbolic Structure of Artificial Neural Networks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.29530">https://arxiv.org/abs/2608.29530</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531651">https://news.ycombinator.com/item?id=49531651</a></p>
+<p>Points: 25</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+🔗 **Read more:** [https://arxiv.org/abs/2608.29530](https://arxiv.org/abs/2608.29530)
 
 ---
 
-### 2. Improving our alignment and security efforts
+### 2. WebFPGA
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529567">https://news.ycombinator.com/item?id=49529567</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://webfpga.io/">https://webfpga.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531525">https://news.ycombinator.com/item?id=49531525</a></p>
+<p>Points: 20</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.anthropic.com/news/improving-alignment-security-efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+🔗 **Read more:** [https://webfpga.io/](https://webfpga.io/)
 
 ---
 
-### 3. My local model setup on an M4 Pro Mac Mini
+### 3. True Rate of Unemployment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 47</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.lisep.org/tru">https://www.lisep.org/tru</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530989">https://news.ycombinator.com/item?id=49530989</a></p>
+<p>Points: 83</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
+🔗 **Read more:** [https://www.lisep.org/tru](https://www.lisep.org/tru)
 
 ---
 
-### 4. Iran retaliates after US strikes kills four at wedding party, state media reports
+### 4. Iran attacks US bases in Middle East after reports US strike killed five at wedding party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
+The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
@@ -78,61 +78,61 @@ Iranian news agencies said retaliatory missile and drone attacks on US targets h
 **Category:** world
 
 **Description:**
-Tyler Robinson is charged with aggravated murder, a capital offence in Utah, and six other counts.
+The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham promises more devolution and public control of essential services
+### 6. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.
+Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
+### 7. Germany says Russia preparing ‘hybrid’ attacks over Ukraine support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.
+Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss)
 
 ---
 
-### 8. Fernandez transfers to Man City from Chelsea in joint British record fee
+### 8. Hong Kong activist Joshua Wong pleads guilty to foreign collusion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
+High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss)
 
 ---
 
-### 9. Cisco accused of fostering a hostile workplace for Muslim and Arab employees
+### 9. Tunisia’s civil society faces growing pressure as crackdown widens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
+Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T08:44:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.29530\">https://arxiv.org/abs/2608.29530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531651\">https://news.ycombinator.com/item?id=49531651</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2608.29530",
+            "published": "Wed, 02 Sep 2026 04:15:56 +0000",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WebFPGA",
+            "description": "<p>Article URL: <a href=\"https://webfpga.io/\">https://webfpga.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531525\">https://news.ycombinator.com/item?id=49531525</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
+            "url": "https://webfpga.io/",
+            "published": "Wed, 02 Sep 2026 03:54:58 +0000",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "True Rate of Unemployment",
+            "description": "<p>Article URL: <a href=\"https://www.lisep.org/tru\">https://www.lisep.org/tru</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49530989\">https://news.ycombinator.com/item?id=49530989</a></p>\n<p>Points: 83</p>\n<p># Comments: 25</p>",
+            "url": "https://www.lisep.org/tru",
+            "published": "Wed, 02 Sep 2026 02:21:10 +0000",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+            "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+            "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 05:12:07 GMT",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+            "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+            "description": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 04:49:23 GMT",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+            "description": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 04:43:57 +0000",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
+            "description": "High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 04:26:33 +0000",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
+            "description": "Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 04:01:08 +0000",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T08:44:25+03:30"
+        }
+    ]
+}
