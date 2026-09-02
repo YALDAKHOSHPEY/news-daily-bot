@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 18:18:04
+**Last Update:** 2026-09-02 20:13:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Exit the Cave
+### 1. Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://turtlespace.blog/p/exit-the-cave">https://turtlespace.blog/p/exit-the-cave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536606">https://news.ycombinator.com/item?id=49536606</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://frontierharness.org">https://frontierharness.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538490">https://news.ycombinator.com/item?id=49538490</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://turtlespace.blog/p/exit-the-cave](https://turtlespace.blog/p/exit-the-cave)
+🔗 **Read more:** [https://frontierharness.org](https://frontierharness.org)
 
 ---
 
-### 2. WebLLM: high-performance in-browser LLM inference engine
+### 2. Saving money on Google Photos with Immich: Your own personal photo storage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/mlc-ai/web-llm">https://github.com/mlc-ai/web-llm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536411">https://news.ycombinator.com/item?id=49536411</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/">https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538375">https://news.ycombinator.com/item?id=49538375</a></p>
+<p>Points: 21</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://github.com/mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)
+🔗 **Read more:** [https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
 
 ---
 
-### 3. GrapheneOS says Pixel 11 has MTE support after all
+### 3. Gemini 3.8 Flash and 3.8 Flash Cyber
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117194007157499435">https://grapheneos.social/@GrapheneOS/117194007157499435</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536384">https://news.ycombinator.com/item?id=49536384</a></p>
-<p>Points: 33</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538007">https://news.ycombinator.com/item?id=49538007</a></p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117194007157499435](https://grapheneos.social/@GrapheneOS/117194007157499435)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
 
 ---
 
@@ -84,94 +84,94 @@ The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block
 
 ---
 
-### 6. Four in court over murder of baby stabbed to death
+### 6. Watch: What we know about reported strike on Iran wedding celebrations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four people, aged between 19 and 38, appear in court charged with murdering the newborn.
+BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How Trumpism is changing the world
+### 7. WHO chief warns Ebola response must ramp up to stem DRC outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This US presidency is rewriting the rules of global governance and ushering the world into a new era.
+Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/how-trumpism-is-changing-the-world?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss)
 
 ---
 
-### 8. Palestinians in fear as Israeli forces mount pogroms on West Bank mosques
+### 8. Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian witnesses recount the coordinated Israeli army and settler attacks on mosques in the occupied West Bank.
+Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss](https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss)
 
 ---
 
-### 9. Summer transfers 2026: All to know as Premier League signings break records
+### 9. Israeli PM Netanyahu in Gaza, ‘we are not withdrawing’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.
+Israeli Prime Minister Benjamin Netanyahu has said Israel does not plan to withdraw from Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-netanyahu-in-gaza-we-are-not?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 10. Tropical Storm Marie
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 11. Tropical Storm Edouard
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 12. Tropical Storm Krovanh
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
 
 ---
 
