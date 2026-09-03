@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 15:50:50
+**Last Update:** 2026-09-03 18:36:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 9 Mothers (YC P26) Is Hiring in Austin, TX
+### 1. Elevated errors across ChatGPT and Codex
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://9mothers.com/careers">https://9mothers.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548864">https://news.ycombinator.com/item?id=49548864</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR">https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550886">https://news.ycombinator.com/item?id=49550886</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://9mothers.com/careers](https://9mothers.com/careers)
+🔗 **Read more:** [https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR](https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR)
 
 ---
 
-### 2. 4.5B Posts Scraped from TikTok
+### 2. Codex Is Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tiktok-api.seeksocial.io/">https://tiktok-api.seeksocial.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548625">https://news.ycombinator.com/item?id=49548625</a></p>
-<p>Points: 22</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://github.com/openai/codex/issues/28756">https://github.com/openai/codex/issues/28756</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550769">https://news.ycombinator.com/item?id=49550769</a></p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://tiktok-api.seeksocial.io/](https://tiktok-api.seeksocial.io/)
+🔗 **Read more:** [https://github.com/openai/codex/issues/28756](https://github.com/openai/codex/issues/28756)
 
 ---
 
-### 3. A dark horse enters China's AI race: StartLux
+### 3. ChatGPT Is Throwing 404
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector">https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548530">https://news.ycombinator.com/item?id=49548530</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://chatgpt.com/">https://chatgpt.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550614">https://news.ycombinator.com/item?id=49550614</a></p>
+<p>Points: 89</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
+🔗 **Read more:** [https://chatgpt.com/](https://chatgpt.com/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The pair are discussing small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
+The pair discussed small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Once-rival criminal groups are being forced to work together because of a shorta
 
 ---
 
-### 6. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
+### 6. Badenoch accuses Burnham of kicking defence spending into the long grass
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.
+Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Feminist icon Gloria Steinem dies aged 92
+### 7. Iranian drone damages residential building in Kuwait City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cofounder of Ms Magazine was a strong advocate for women&#039;s rights throughout her life.
+An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss)
 
 ---
 
-### 8. Families perform symbolic funerals for missing Nepal flood victims
+### 8. Ukrainian intel agencies in Kyiv firefight: What happened and why?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families in Nepal are performing symbolic funerals for loved ones still missing a week after the devastating floods.
+Three intelligence officers were wounded in shootout that Zelenskyy has described as &#039;absolutely disgraceful&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss)
 
 ---
 
-### 9. Kenya’s aviation strike is over, but the dispute is far from settled
+### 9. Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Years of wrangling over pay, union recognition and collective bargaining are now back on the negotiating table.
+They&#039;re not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss)
 
 ---
 
