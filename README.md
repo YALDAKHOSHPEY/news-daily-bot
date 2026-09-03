@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 01:29:34
+**Last Update:** 2026-09-04 03:19:44
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+### 1. Protecting Engineers' Skills in the AI Era
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://spectrum.ieee.org/ai-engineer-skills">https://spectrum.ieee.org/ai-engineer-skills</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558302">https://news.ycombinator.com/item?id=49558302</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/ai-engineer-skills](https://spectrum.ieee.org/ai-engineer-skills)
+
+---
+
+### 2. GLP-1s Are Being Linked to Fewer Serious Infections, Including TB
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796">https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558086">https://news.ycombinator.com/item?id=49558086</a></p>
+<p>Points: 17</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+
+---
+
+### 3. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 63</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
-
----
-
-### 2. Tasklet (YC P26) Is Hiring a Customer Success Engineer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556922">https://news.ycombinator.com/item?id=49556922</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
-
----
-
-### 3. OpenAI's GPT-6 Astra on ARC-AGI-3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arcprize.org/blog/astra">https://arcprize.org/blog/astra</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555691">https://news.ycombinator.com/item?id=49555691</a></p>
-<p>Points: 92</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://arcprize.org/blog/astra](https://arcprize.org/blog/astra)
 
 ---
 
@@ -71,68 +71,68 @@ A film broadcast by Channel 4 shows senior Reform UK figures discussing donation
 
 ---
 
-### 5. Schools to close early for A66 crash funeral amid safety concerns
+### 5. Controversial Jackdaw gas field set to be approved in weeks, sources say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The funeral of one of five young men killed in the crash with a police car is due to take place.
+The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fifa accuses Uefa of 'smear campaign' against Infantino
+### 6. Transplanted pig kidney works in US man's body for record 271 days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.
+A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Nepal flood victims to be identified through DNA
+### 7. Are Trump’s AI videos just memes or psychological warfare?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nepal flood victims to be identified through DNA
+Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss)
 
 ---
 
-### 8. El Nino: A phenomenon supercharged by climate change
+### 8. Tunisia’s top court upholds conviction of opposition figures, activists
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.
+Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss)
 
 ---
 
-### 9. US Vice President JD Vance declines to offer timeline for end of Iran war
+### 9. DR Congo joins countries pledging embassy move to Jerusalem
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.
+DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss)
 
 ---
 
