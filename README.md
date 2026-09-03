@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 14:58:50
+**Last Update:** 2026-09-03 15:50:50
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gloria Steinem, groundbreaking feminist campaigner, dies aged 92
+### 1. 9 Mothers (YC P26) Is Hiring in Austin, TX
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92">https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548256">https://news.ycombinator.com/item?id=49548256</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://9mothers.com/careers">https://9mothers.com/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548864">https://news.ycombinator.com/item?id=49548864</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92](https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92)
+🔗 **Read more:** [https://9mothers.com/careers](https://9mothers.com/careers)
 
 ---
 
-### 2. Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)
+### 2. 4.5B Posts Scraped from TikTok
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/">https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546800">https://news.ycombinator.com/item?id=49546800</a></p>
-<p>Points: 73</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://tiktok-api.seeksocial.io/">https://tiktok-api.seeksocial.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548625">https://news.ycombinator.com/item?id=49548625</a></p>
+<p>Points: 22</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+🔗 **Read more:** [https://tiktok-api.seeksocial.io/](https://tiktok-api.seeksocial.io/)
 
 ---
 
-### 3. Pre-Release of Polars 2.0
+### 3. A dark horse enters China's AI race: StartLux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pola.rs/posts/announcing-polars-2/">https://pola.rs/posts/announcing-polars-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546753">https://news.ycombinator.com/item?id=49546753</a></p>
-<p>Points: 194</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector">https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548530">https://news.ycombinator.com/item?id=49548530</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://pola.rs/posts/announcing-polars-2/](https://pola.rs/posts/announcing-polars-2/)
+🔗 **Read more:** [https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
 
 ---
 
-### 4. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
+### 4. Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The pair are discussing small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Once-rival criminal groups are being forced to work together because of a shorta
 
 ---
 
-### 5. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
+### 6. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ A BBC investigation has found smuggling gangs are running low on small boats, fo
 
 ---
 
-### 6. Feminist activist and journalist Gloria Steinem dies at 92
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Legendary Bosnian striker Edin Dzeko to retire from international football
+### 7. Feminist icon Gloria Steinem dies aged 92
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 40-year-old scored 73 goals in 151 appearances, making him Bosnia&#039;s most-capped ‌player and all-time leading scorer.
+Cofounder of Ms Magazine was a strong advocate for women&#039;s rights throughout her life.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss)
 
 ---
 
-### 8. Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts
+### 8. Families perform symbolic funerals for missing Nepal flood victims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities.
+Families in Nepal are performing symbolic funerals for loved ones still missing a week after the devastating floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss)
 
 ---
 
-### 9. Green Party leader Zack Polanski to stand in by-election for Starmer’s seat
+### 9. Kenya’s aviation strike is over, but the dispute is far from settled
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zack Polanski announces candidacy for the Holborn and St Pancras seat to be vacated by British ex-PM Keir Starmer.
+Years of wrangling over pay, union recognition and collective bargaining are now back on the negotiating table.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss)
 
 ---
 

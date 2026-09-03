@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T15:50:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+            "description": "<p>Article URL: <a href=\"https://9mothers.com/careers\">https://9mothers.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548864\">https://news.ycombinator.com/item?id=49548864</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://9mothers.com/careers",
+            "published": "Thu, 03 Sep 2026 12:00:52 +0000",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "4.5B Posts Scraped from TikTok",
+            "description": "<p>Article URL: <a href=\"https://tiktok-api.seeksocial.io/\">https://tiktok-api.seeksocial.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548625\">https://news.ycombinator.com/item?id=49548625</a></p>\n<p>Points: 22</p>\n<p># Comments: 8</p>",
+            "url": "https://tiktok-api.seeksocial.io/",
+            "published": "Thu, 03 Sep 2026 11:25:49 +0000",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A dark horse enters China's AI race: StartLux",
+            "description": "<p>Article URL: <a href=\"https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector\">https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548530\">https://news.ycombinator.com/item?id=49548530</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+            "published": "Thu, 03 Sep 2026 11:12:57 +0000",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
+            "description": "The pair are discussing small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 11:51:36 GMT",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+            "description": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
+            "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Feminist icon Gloria Steinem dies aged 92",
+            "description": "Cofounder of Ms Magazine was a strong advocate for women&#039;s rights throughout her life.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 12:13:54 +0000",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Families perform symbolic funerals for missing Nepal flood victims",
+            "description": "Families in Nepal are performing symbolic funerals for loved ones still missing a week after the devastating floods.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 11:58:26 +0000",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kenya’s aviation strike is over, but the dispute is far from settled",
+            "description": "Years of wrangling over pay, union recognition and collective bargaining are now back on the negotiating table.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/kenyas-aviation-strike-is-over-but-the-dispute-is-far-from-settled?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 11:55:28 +0000",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T15:50:50+03:30"
+        }
+    ]
+}
