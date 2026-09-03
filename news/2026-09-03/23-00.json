@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-03T23:00:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Macron agree to scale up action on small boats in first meeting",
+            "description": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 15:46:49 GMT",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Schools to close early for A66 crash funeral amid safety concerns",
+            "description": "The funeral of one of five young men killed in the crash with a police car is due to take place.",
+            "url": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 15:19:28 GMT",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+            "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 19:01:43 GMT",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Advocates decry US House vote to defund universities that boycott Israel",
+            "description": "Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 19:14:05 +0000",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Nepal leading the battle for climate justice?",
+            "description": "Foreign minister demands top three polluting nations compensate Nepal for recent disaster.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 18:58:05 +0000",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences",
+            "description": "Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 18:46:14 +0000",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T23:00:03+03:30"
+        }
+    ]
+}
