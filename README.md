@@ -1,29 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 23:00:03
+**Last Update:** 2026-09-04 01:16:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Burnham and Macron agree to scale up action on small boats in first meeting
+### 1. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
+
+---
+
+### 2. Tasklet (YC P26) Is Hiring a Customer Success Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556922">https://news.ycombinator.com/item?id=49556922</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
+
+---
+
+### 3. OpenAI's GPT-6 Astra on ARC-AGI-3
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arcprize.org/blog/astra">https://arcprize.org/blog/astra</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555691">https://news.ycombinator.com/item?id=49555691</a></p>
+<p>Points: 92</p>
+<p># Comments: 44</p>
+
+🔗 **Read more:** [https://arcprize.org/blog/astra](https://arcprize.org/blog/astra)
+
+---
+
+### 4. Farage senior aide filmed suggesting way to avoid donations law
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The leaders also discussed Ukraine and "the UK's drive to get closer to Europe", No 10 says.
+A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Schools to close early for A66 crash funeral amid safety concerns
+### 5. Schools to close early for A66 crash funeral amid safety concerns
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The funeral of one of five young men killed in the crash with a police car is du
 
 ---
 
-### 3. Fifa accuses Uefa of 'smear campaign' against Infantino
+### 6. Fifa accuses Uefa of 'smear campaign' against Infantino
 
 **Source:** BBC
 
@@ -49,81 +97,81 @@ The governing bodies have traded blows since Fifa president Gianni Infantino's s
 
 ---
 
-### 4. Advocates decry US House vote to defund universities that boycott Israel
+### 7. Nepal flood victims to be identified through DNA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.
+Nepal flood victims to be identified through DNA
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss)
 
 ---
 
-### 5. Is Nepal leading the battle for climate justice?
+### 8. El Nino: A phenomenon supercharged by climate change
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign minister demands top three polluting nations compensate Nepal for recent disaster.
+Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss)
 
 ---
 
-### 6. Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences
+### 9. US Vice President JD Vance declines to offer timeline for end of Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions.
+The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Marie
+### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868)
 
 ---
 
-### 8. Tropical Storm Edouard
+### 11. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869)
 
 ---
 
-### 9. Tropical Storm Krovanh
+### 12. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870)
 
 ---
 
