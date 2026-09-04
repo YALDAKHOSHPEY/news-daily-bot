@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T18:54:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GMails custom domain \"send as\" discontinues January 2027",
+            "description": "<p>Article URL: <a href=\"https://support.google.com/mail/answer/22370?hl=en\">https://support.google.com/mail/answer/22370?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565693\">https://news.ycombinator.com/item?id=49565693</a></p>\n<p>Points: 14</p>\n<p># Comments: 14</p>",
+            "url": "https://support.google.com/mail/answer/22370?hl=en",
+            "published": "Fri, 04 Sep 2026 15:03:03 +0000",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Burnt out on a three-day week",
+            "description": "<p>Article URL: <a href=\"https://jennywanger.com/articles/burnt-out-on-a-three-day-week/\">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564960\">https://news.ycombinator.com/item?id=49564960</a></p>\n<p>Points: 54</p>\n<p># Comments: 40</p>",
+            "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
+            "published": "Fri, 04 Sep 2026 14:14:05 +0000",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+            "description": "<p>Article URL: <a href=\"https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/\">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564714\">https://news.ycombinator.com/item?id=49564714</a></p>\n<p>Points: 43</p>\n<p># Comments: 3</p>",
+            "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+            "published": "Fri, 04 Sep 2026 13:54:26 +0000",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage unveils small boats deal with French National Rally party",
+            "description": "Reform says it would use the Navy to intercept boats and return migrants to France, if the party wins power.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 14:56:57 GMT",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+            "description": "Two people have been rescued more than a week after more than 1,300 people were killed in flash floods on the Nepal-Tibet border.",
+            "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 14:40:00 GMT",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+            "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+            "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 11:54:51 GMT",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel releases five detainees to Lebanon after US-mediated negotiations",
+            "description": "Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 15:16:34 +0000",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
+            "description": "Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 14:50:55 +0000",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
+            "description": "Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 14:38:30 +0000",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T18:54:37+03:30"
+        }
+    ]
+}

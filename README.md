@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 17:56:20
+**Last Update:** 2026-09-04 18:54:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Burnt out on a three-day week
+### 1. GMails custom domain "send as" discontinues January 2027
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.google.com/mail/answer/22370?hl=en">https://support.google.com/mail/answer/22370?hl=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49565693">https://news.ycombinator.com/item?id=49565693</a></p>
+<p>Points: 14</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://support.google.com/mail/answer/22370?hl=en](https://support.google.com/mail/answer/22370?hl=en)
+
+---
+
+### 2. Burnt out on a three-day week
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://jennywanger.com/articles/burnt-out-on-a-three-day-week/">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564960">https://news.ycombinator.com/item?id=49564960</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 54</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://jennywanger.com/articles/burnt-out-on-a-three-day-week/](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
 
 ---
 
-### 2. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+### 3. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
 
 **Source:** Hacker News
 
@@ -35,52 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564714">https://news.ycombinator.com/item?id=49564714</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 43</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
 
 ---
 
-### 3. 'People are going to get screwed' Pennsylvania voters unite against data centres
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5">http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564397">https://news.ycombinator.com/item?id=49564397</a></p>
-<p>Points: 42</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
-
----
-
-### 4. Chris Mason: 'This is not what Farage wanted today to look like'
+### 4. Farage unveils small boats deal with French National Rally party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.
+Reform says it would use the Navy to intercept boats and return migrants to France, if the party wins power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
+### 5. 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.
+Two people have been rescued more than a week after more than 1,300 people were killed in flash floods on the Nepal-Tibet border.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The comments come as Argentinian president Javier Milei says the "winds of chang
 
 ---
 
-### 7. Two Muslim women journalists allege police assault in India
+### 7. Israel releases five detainees to Lebanon after US-mediated negotiations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
+Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss)
 
 ---
 
-### 8. Philippine court orders arrest of VP Duterte over President Marcos threats
+### 8. Israel frees four more Lebanese prisoners in Red Cross-mediated handover
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
+Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss)
 
 ---
 
-### 9. Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
+### 9. Why is Farage’s Reform accused of violating the UK’s foreign funding rules?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
+Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss)
 
 ---
 
