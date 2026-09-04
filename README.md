@@ -1,62 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 22:11:33
+**Last Update:** 2026-09-05 00:23:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hayes AT command set
+### 1. How to Create a Tor Exit Node
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Hayes_AT_command_set">https://en.wikipedia.org/wiki/Hayes_AT_command_set</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567961">https://news.ycombinator.com/item?id=49567961</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://madpsy.uk/how-to-create-a-tor-exit-node/">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569702">https://news.ycombinator.com/item?id=49569702</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Hayes_AT_command_set](https://en.wikipedia.org/wiki/Hayes_AT_command_set)
+🔗 **Read more:** [https://madpsy.uk/how-to-create-a-tor-exit-node/](https://madpsy.uk/how-to-create-a-tor-exit-node/)
 
 ---
 
-### 2. Nobody Is Saying Why OpenAI and Anthropic Had Outages
+### 2. An open DNS recursive service for free security and high privacy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/3zcMG" rel="nofollow">https://archive.ph/3zcMG</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567594">https://news.ycombinator.com/item?id=49567594</a></p>
-<p>Points: 88</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://quad9.net/">https://quad9.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569663">https://news.ycombinator.com/item?id=49569663</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
+🔗 **Read more:** [https://quad9.net/](https://quad9.net/)
 
 ---
 
-### 3. Show HN: Open-Source eInk Bike Computer
+### 3. Can AI design circuit boards yet?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href="https://github.com/RaemondBW/esp32-ant" rel="nofollow">https://github.com/RaemondBW/esp32-ant</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567437">https://news.ycombinator.com/item?id=49567437</a></p>
-<p>Points: 76</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569366">https://news.ycombinator.com/item?id=49569366</a></p>
+<p>Points: 39</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://opentrailpaper.com](https://opentrailpaper.com)
+🔗 **Read more:** [https://eebench.org/blog/can-ai-design-circuit-boards-yet/](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 
 ---
 
@@ -73,68 +71,68 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 5. UN votes to adopt new world map to reflect Africa's true size
+### 5. BBC visits area at heart of police investigation after A66 crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.
+The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
+### 6. Farage threatens to overhaul Lords and judges to meet his pledges
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.
+The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Moment two workers are pulled alive from Nepal tunnel
+### 7. Mexico seizes 17 tonnes of meth in $347 million drug bust
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers pulled two workers alive from a hydropower tunnel in Nepal
+Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss)
 
 ---
 
-### 8. Indonesia wildfires send toxic haze across Southeast Asia
+### 8. Watchdog report alleges misconduct by Trump’s former labour secretary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indonesia’s Kalimantan province, sending smoke and toxic haze across Southeast Asia.
+Lori Chavez-DeRemer reportedly used staff for personal tasks, drank at work and violated ethics regulations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s army says recaptured key territory as clashes with Houthis continue
+### 9. Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.
+US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss)
 
 ---
 
