@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 13:17:33
+**Last Update:** 2026-09-04 15:22:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Raspberry Pi Interactive Timeline · 2006–2026
+### 1. OpenAI agents hijacked German website in previously undisclosed AI breakout
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562062">https://news.ycombinator.com/item?id=49562062</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/">https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562744">https://news.ycombinator.com/item?id=49562744</a></p>
+<p>Points: 28</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
+🔗 **Read more:** [https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
 
 ---
 
-### 2. Carbon-aware electricity pricing, measured daily on 38 grids
+### 2. Solving the Jane Street Reverse Engineering Challenge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://carbonawarepricing.com/">https://carbonawarepricing.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561975">https://news.ycombinator.com/item?id=49561975</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562657">https://news.ycombinator.com/item?id=49562657</a></p>
+<p>Points: 60</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://carbonawarepricing.com/](https://carbonawarepricing.com/)
+🔗 **Read more:** [https://jestoph.com/2026/09/04/jane-street-challenge.html](https://jestoph.com/2026/09/04/jane-street-challenge.html)
 
 ---
 
-### 3. Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
+### 3. CERN Transitioning Computers To Debian After Being A Longtime RHEL Institution
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561320">https://news.ycombinator.com/item?id=49561320</a></p>
-<p>Points: 123</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL">https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562262">https://news.ycombinator.com/item?id=49562262</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
+🔗 **Read more:** [https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL](https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL)
 
 ---
 
-### 4. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
+### 4. Chris Mason: 'This is not what Farage wanted today to look like'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ From searching for a buried tunnel entrance to blowing up rocks the size of cars
 
 ---
 
-### 5. Argentine leader threatens to sanction oil firms and reiterates Falklands claim
+### 6. UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Javier Milei reiterates his country's claim on the British overseas territory, saying the "winds of change" favour it.
+The comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British overseas territory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Controversial Jackdaw gas field set to be approved in weeks, sources say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Moment three-storey building collapses amid flooding in China
+### 7. Iran war: Why US midterms could be a pivotal moment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Severe flooding in China’s Fujian province has caused a three-storey building to collapse.
+Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss)
 
 ---
 
-### 8. Nepal search teams rescue two workers from hydropower tunnel
+### 8. Reform UK officials step down as new funding scandal hits far-right party
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Miracle&#039; rescue nine days after devastating flood raises hope that more people could still be found alive.
+Resignations come after documentary alleges party arranged for overseas company to fund polling.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss)
 
 ---
 
-### 9. Why has the Philippine peso plunged to a record low?
+### 9. Argentina’s Milei threatens sanctions as he refocuses on Falklands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.
+Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss)
 
 ---
 
