@@ -1,48 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 03:42:51
+**Last Update:** 2026-09-04 05:26:41
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Protecting Engineers' Skills in the AI Era
+### 1. GLP-1s are being linked to fewer serious infections, including TB
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/ai-engineer-skills">https://spectrum.ieee.org/ai-engineer-skills</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558302">https://news.ycombinator.com/item?id=49558302</a></p>
-<p>Points: 22</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/ai-engineer-skills](https://spectrum.ieee.org/ai-engineer-skills)
-
----
-
-### 2. GLP-1s Are Being Linked to Fewer Serious Infections, Including TB
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796">https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796</a></p>
+<p><a href="https://web.archive.org/web/20260903235256/https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796" rel="nofollow">https://web.archive.org/web/20260903235256/https://gizmodo.c...</a></p>
+<hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558086">https://news.ycombinator.com/item?id=49558086</a></p>
-<p>Points: 28</p>
-<p># Comments: 14</p>
+<p>Points: 54</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 
 ---
 
-### 3. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+### 2. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
 
 **Source:** Hacker News
 
@@ -51,10 +36,26 @@
 **Description:**
 <p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
-<p>Points: 66</p>
-<p># Comments: 17</p>
+<p>Points: 99</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
+
+---
+
+### 3. Tasklet (YC P26) Is Hiring a Customer Success Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556922">https://news.ycombinator.com/item?id=49556922</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
 
 ---
 
@@ -84,55 +85,55 @@ The government is set to give the go-ahead for the gas field off the coast of Ab
 
 ---
 
-### 6. Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial
+### 6. Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.
+The jury now faces a seventh day of deliberations in the triple-murder trial.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Are Trump’s AI videos just memes or psychological warfare?
+### 7. US continues to squeeze Cuban economy with new round of sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.
+Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss)
 
 ---
 
-### 8. Tunisia’s top court upholds conviction of opposition figures, activists
+### 8. Ghana tightens gold exports in push to keep more value at home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.
+The move is part of a broader effort to develop Ghana’s gold industry beyond raw exports.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss)
 
 ---
 
-### 9. DR Congo joins countries pledging embassy move to Jerusalem
+### 9. Pete Hegseth’s Pentagon: A list of controversies that define his tenure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.
+The defence secretary faces renewed scrutiny after a Republican senator called for his removal from the US cabinet.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T05:26:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLP-1s are being linked to fewer serious infections, including TB",
+            "description": "<p><a href=\"https://web.archive.org/web/20260903235256/https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796\" rel=\"nofollow\">https://web.archive.org/web/20260903235256/https://gizmodo.c...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49558086\">https://news.ycombinator.com/item?id=49558086</a></p>\n<p>Points: 54</p>\n<p># Comments: 34</p>",
+            "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+            "published": "Thu, 03 Sep 2026 22:37:31 +0000",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+            "description": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 99</p>\n<p># Comments: 31</p>",
+            "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+            "published": "Thu, 03 Sep 2026 21:20:34 +0000",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers/customer-success-engineer",
+            "published": "Thu, 03 Sep 2026 21:01:10 +0000",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:00:15 GMT",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+            "description": "The jury now faces a seventh day of deliberations in the triple-murder trial.",
+            "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 00:55:45 GMT",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US continues to squeeze Cuban economy with new round of sanctions",
+            "description": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 01:45:56 +0000",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ghana tightens gold exports in push to keep more value at home",
+            "description": "The move is part of a broader effort to develop Ghana’s gold industry beyond raw exports.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 01:29:48 +0000",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pete Hegseth’s Pentagon: A list of controversies that define his tenure",
+            "description": "The defence secretary faces renewed scrutiny after a Republican senator called for his removal from the US cabinet.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 01:26:39 +0000",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T05:26:41+03:30"
+        }
+    ]
+}
