@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 15:22:49
+**Last Update:** 2026-09-04 17:56:20
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI agents hijacked German website in previously undisclosed AI breakout
+### 1. Burnt out on a three-day week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/">https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562744">https://news.ycombinator.com/item?id=49562744</a></p>
-<p>Points: 28</p>
+<p>Article URL: <a href="https://jennywanger.com/articles/burnt-out-on-a-three-day-week/">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564960">https://news.ycombinator.com/item?id=49564960</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jennywanger.com/articles/burnt-out-on-a-three-day-week/](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
+
+---
+
+### 2. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564714">https://news.ycombinator.com/item?id=49564714</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+
+---
+
+### 3. 'People are going to get screwed' Pennsylvania voters unite against data centres
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5">http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564397">https://news.ycombinator.com/item?id=49564397</a></p>
+<p>Points: 42</p>
 <p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
-
----
-
-### 2. Solving the Jane Street Reverse Engineering Challenge
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562657">https://news.ycombinator.com/item?id=49562657</a></p>
-<p>Points: 60</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://jestoph.com/2026/09/04/jane-street-challenge.html](https://jestoph.com/2026/09/04/jane-street-challenge.html)
-
----
-
-### 3. CERN Transitioning Computers To Debian After Being A Longtime RHEL Institution
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL">https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562262">https://news.ycombinator.com/item?id=49562262</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL](https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL)
+🔗 **Read more:** [http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
 
 ---
 
@@ -97,42 +97,42 @@ The comments come as Argentinian president Javier Milei says the "winds of chang
 
 ---
 
-### 7. Iran war: Why US midterms could be a pivotal moment
+### 7. Two Muslim women journalists allege police assault in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.
+Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss)
 
 ---
 
-### 8. Reform UK officials step down as new funding scandal hits far-right party
+### 8. Philippine court orders arrest of VP Duterte over President Marcos threats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Resignations come after documentary alleges party arranged for overseas company to fund polling.
+Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss)
 
 ---
 
-### 9. Argentina’s Milei threatens sanctions as he refocuses on Falklands
+### 9. Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.
+Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss)
 
 ---
 
