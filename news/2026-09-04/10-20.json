@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T10:20:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+            "description": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 62</p>\n<p># Comments: 38</p>",
+            "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+            "published": "Fri, 04 Sep 2026 03:40:26 +0000",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A mysterious kidney disease has arrived in Texas",
+            "description": "<p>Article URL: <a href=\"https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/\">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559992\">https://news.ycombinator.com/item?id=49559992</a></p>\n<p>Points: 67</p>\n<p># Comments: 45</p>",
+            "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+            "published": "Fri, 04 Sep 2026 02:54:16 +0000",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "From Hookswitch to Grave",
+            "description": "<p>Article URL: <a href=\"https://computer.rip/2026-06-14-hookswitch-to-grave.html\">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559901\">https://news.ycombinator.com/item?id=49559901</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
+            "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+            "published": "Fri, 04 Sep 2026 02:40:12 +0000",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment workers are rescued from Nepal tunnel",
+            "description": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
+            "url": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 04:45:54 GMT",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+            "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+            "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 05:01:33 GMT",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
+            "description": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
+            "url": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 06:24:55 +0000",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+            "description": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 06:22:44 +0000",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After Gen Z, India’s Gen Alpha rises, demanding education reforms",
+            "description": "School students across multiple states have held protests in recent weeks, seeking better conditions.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 06:20:33 +0000",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T10:20:12+03:30"
+        }
+    ]
+}

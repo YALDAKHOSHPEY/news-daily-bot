@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 08:19:33
+**Last Update:** 2026-09-04 10:20:12
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560260">https://news.ycombinator.com/item?id=49560260</a></p>
-<p>Points: 27</p>
-<p># Comments: 10</p>
+<p>Points: 62</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://www.agentconnect.md/blog/grep-beat-lsp-harness/](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
 
 ---
 
-### 2. A Mysterious Kidney Disease Has Arrived in Texas
+### 2. A mysterious kidney disease has arrived in Texas
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559992">https://news.ycombinator.com/item?id=49559992</a></p>
-<p>Points: 32</p>
-<p># Comments: 27</p>
+<p>Points: 67</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559901">https://news.ycombinator.com/item?id=49559901</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://computer.rip/2026-06-14-hookswitch-to-grave.html](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
 
 ---
 
-### 4. Farage senior aide filmed suggesting way to avoid donations law
+### 4. Watch: Moment workers are rescued from Nepal tunnel
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Farage senior aide filmed suggesting way to avoid donations law
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ A film broadcast by Channel 4 shows senior Reform UK figures discussing donation
 
 ---
 
-### 5. Controversial Jackdaw gas field set to be approved in weeks, sources say
+### 6. Argentine leader threatens to sanction oil firms and reiterates Falklands claim
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
+Javier Milei reiterates his country's claim on the British overseas territory, saying the "winds of change" favour it.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Transplanted pig kidney works in US man's body for record 271 days
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Arsenal sell Martinelli to Al-Hilal in post-transfer deadline day deal
+### 7. In southern Lebanon, Israeli demolitions continue ‘day and night’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil forward Gabriel Martinelli transfers to Saudi Pro League side Al-Hilal from Premier League champions Arsenal.
+Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/arsenal-sell-martinelli-to-al-hilal-in-post-transfer-deadline-day-deal?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/arsenal-sell-martinelli-to-al-hilal-in-post-transfer-deadline-day-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss](https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss)
 
 ---
 
-### 8. Mladic’s body arrives to full military honours in Serbia
+### 8. Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.
+Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss)
 
 ---
 
-### 9. Entertainment over policy? White House arcade games ignite backlash
+### 9. After Gen Z, India’s Gen Alpha rises, demanding education reforms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.
+School students across multiple states have held protests in recent weeks, seeking better conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss)
 
 ---
 
