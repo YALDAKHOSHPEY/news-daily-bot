@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T22:11:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hayes AT command set",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Hayes_AT_command_set\">https://en.wikipedia.org/wiki/Hayes_AT_command_set</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567961\">https://news.ycombinator.com/item?id=49567961</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
+            "published": "Fri, 04 Sep 2026 17:56:14 +0000",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+            "description": "<p><a href=\"https://archive.ph/3zcMG\" rel=\"nofollow\">https://archive.ph/3zcMG</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567594\">https://news.ycombinator.com/item?id=49567594</a></p>\n<p>Points: 88</p>\n<p># Comments: 57</p>",
+            "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+            "published": "Fri, 04 Sep 2026 17:29:22 +0000",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Open-Source eInk Bike Computer",
+            "description": "<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https://github.com/RaemondBW/esp32-ant\" rel=\"nofollow\">https://github.com/RaemondBW/esp32-ant</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567437\">https://news.ycombinator.com/item?id=49567437</a></p>\n<p>Points: 76</p>\n<p># Comments: 17</p>",
+            "url": "https://opentrailpaper.com",
+            "published": "Fri, 04 Sep 2026 17:18:08 +0000",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 16:50:00 GMT",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UN votes to adopt new world map to reflect Africa's true size",
+            "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+            "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 17:26:40 GMT",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+            "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+            "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 14:40:00 GMT",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moment two workers are pulled alive from Nepal tunnel",
+            "description": "Rescuers pulled two workers alive from a hydropower tunnel in Nepal",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 18:02:30 +0000",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia wildfires send toxic haze across Southeast Asia",
+            "description": "Indonesia’s Kalimantan province, sending smoke and toxic haze across Southeast Asia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 17:38:48 +0000",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+            "description": "Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 17:29:20 +0000",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T22:11:33+03:30"
+        }
+    ]
+}
