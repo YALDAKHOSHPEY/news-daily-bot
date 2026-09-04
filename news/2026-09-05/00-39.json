@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T00:39:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Create a Tor Exit Node",
+            "description": "<p>Article URL: <a href=\"https://madpsy.uk/how-to-create-a-tor-exit-node/\">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569702\">https://news.ycombinator.com/item?id=49569702</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+            "published": "Fri, 04 Sep 2026 20:16:22 +0000",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An open DNS recursive service for free security and high privacy",
+            "description": "<p>Article URL: <a href=\"https://quad9.net/\">https://quad9.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569663\">https://news.ycombinator.com/item?id=49569663</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://quad9.net/",
+            "published": "Fri, 04 Sep 2026 20:13:08 +0000",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can AI design circuit boards yet?",
+            "description": "<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 39</p>\n<p># Comments: 24</p>",
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+            "published": "Fri, 04 Sep 2026 19:48:29 +0000",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleveland police chief proud of force but being 'let down' by funding",
+            "description": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 21:00:05 GMT",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+            "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:20:18 GMT",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
+            "description": "Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 20:28:40 +0000",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Watchdog report alleges misconduct by Trump’s former labour secretary",
+            "description": "Lori Chavez-DeRemer reportedly used staff for personal tasks, drank at work and violated ethics regulations.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 20:27:11 +0000",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+            "description": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 20:22:42 +0000",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T00:39:05+03:30"
+        }
+    ]
+}
