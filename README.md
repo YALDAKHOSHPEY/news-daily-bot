@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 10:20:12
+**Last Update:** 2026-09-04 13:17:33
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Grep beats LSP? Why coding agents ignore your fancier tools
+### 1. The Raspberry Pi Interactive Timeline · 2006–2026
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560260">https://news.ycombinator.com/item?id=49560260</a></p>
-<p>Points: 62</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562062">https://news.ycombinator.com/item?id=49562062</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.agentconnect.md/blog/grep-beat-lsp-harness/](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
+🔗 **Read more:** [https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
 
 ---
 
-### 2. A mysterious kidney disease has arrived in Texas
+### 2. Carbon-aware electricity pricing, measured daily on 38 grids
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559992">https://news.ycombinator.com/item?id=49559992</a></p>
-<p>Points: 67</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://carbonawarepricing.com/">https://carbonawarepricing.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561975">https://news.ycombinator.com/item?id=49561975</a></p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+🔗 **Read more:** [https://carbonawarepricing.com/](https://carbonawarepricing.com/)
 
 ---
 
-### 3. From Hookswitch to Grave
+### 3. Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559901">https://news.ycombinator.com/item?id=49559901</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561320">https://news.ycombinator.com/item?id=49561320</a></p>
+<p>Points: 123</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://computer.rip/2026-06-14-hookswitch-to-grave.html](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+🔗 **Read more:** [http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
 
 ---
 
-### 4. Watch: Moment workers are rescued from Nepal tunnel
+### 4. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.
+From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Farage senior aide filmed suggesting way to avoid donations law
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Argentine leader threatens to sanction oil firms and reiterates Falklands claim
+### 5. Argentine leader threatens to sanction oil firms and reiterates Falklands claim
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Javier Milei reiterates his country's claim on the British overseas territory, s
 
 ---
 
-### 7. In southern Lebanon, Israeli demolitions continue ‘day and night’
+### 6. Controversial Jackdaw gas field set to be approved in weeks, sources say
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.
+The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss](https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave
+### 7. Moment three-storey building collapses amid flooding in China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.
+Severe flooding in China’s Fujian province has caused a three-storey building to collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss)
 
 ---
 
-### 9. After Gen Z, India’s Gen Alpha rises, demanding education reforms
+### 8. Nepal search teams rescue two workers from hydropower tunnel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-School students across multiple states have held protests in recent weeks, seeking better conditions.
+&#039;Miracle&#039; rescue nine days after devastating flood raises hope that more people could still be found alive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss)
+
+---
+
+### 9. Why has the Philippine peso plunged to a record low?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss)
 
 ---
 
