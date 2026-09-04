@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 18:54:37
+**Last Update:** 2026-09-04 21:11:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. GMails custom domain "send as" discontinues January 2027
+### 1. Show HN: Open-Source eInk Bike Computer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.google.com/mail/answer/22370?hl=en">https://support.google.com/mail/answer/22370?hl=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49565693">https://news.ycombinator.com/item?id=49565693</a></p>
-<p>Points: 14</p>
-<p># Comments: 14</p>
+<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href="https://github.com/RaemondBW/esp32-ant" rel="nofollow">https://github.com/RaemondBW/esp32-ant</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567437">https://news.ycombinator.com/item?id=49567437</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://support.google.com/mail/answer/22370?hl=en](https://support.google.com/mail/answer/22370?hl=en)
+🔗 **Read more:** [https://opentrailpaper.com](https://opentrailpaper.com)
 
 ---
 
-### 2. Burnt out on a three-day week
+### 2. Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jennywanger.com/articles/burnt-out-on-a-three-day-week/">https://jennywanger.com/articles/burnt-out-on-a-three-day-week/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564960">https://news.ycombinator.com/item?id=49564960</a></p>
-<p>Points: 54</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://twitter.com/ggerganov/status/2095897173376618881">https://twitter.com/ggerganov/status/2095897173376618881</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567357">https://news.ycombinator.com/item?id=49567357</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://jennywanger.com/articles/burnt-out-on-a-three-day-week/](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
+🔗 **Read more:** [https://twitter.com/ggerganov/status/2095897173376618881](https://twitter.com/ggerganov/status/2095897173376618881)
 
 ---
 
-### 3. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+### 3. Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564714">https://news.ycombinator.com/item?id=49564714</a></p>
-<p>Points: 43</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567053">https://news.ycombinator.com/item?id=49567053</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+🔗 **Read more:** [https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)
 
 ---
 
-### 4. Farage unveils small boats deal with French National Rally party
+### 4. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Reform says it would use the Navy to intercept boats and return migrants to France, if the party wins power.
+BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gk35qnzp3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
+### 5. Farage says his aides' donor comments were 'loose pub talk'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two people have been rescued more than a week after more than 1,300 people were killed in flash floods on the Nepal-Tibet border.
+Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
+### 6. UN votes to adopt new world map to reflect Africa's true size
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British overseas territory.
+The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel releases five detainees to Lebanon after US-mediated negotiations
+### 7. Rescuers race to save10-year-old Algerian boy trapped in deep well
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has released five people to Lebanon after US-mediated negotiations. Dozens of Lebanese remain detained by Israel.
+Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-israel-lebanon-detainees-minisv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss)
 
 ---
 
-### 8. Israel frees four more Lebanese prisoners in Red Cross-mediated handover
+### 8. US adds 162,000 jobs in August, raising Fed rate hike expectations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lebanese President Joseph Aoun praises the release and thanks US President Donald Trump for his efforts.
+Unemployment rate steady as public schools and food services lead the surge in US job growth for August.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss)
 
 ---
 
-### 9. Why is Farage’s Reform accused of violating the UK’s foreign funding rules?
+### 9. The number 10 shirt must not retire with Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.
+Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss)
 
 ---
 
