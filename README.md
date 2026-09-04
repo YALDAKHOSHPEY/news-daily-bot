@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 03:19:44
+**Last Update:** 2026-09-04 03:42:51
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/ai-engineer-skills">https://spectrum.ieee.org/ai-engineer-skills</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558302">https://news.ycombinator.com/item?id=49558302</a></p>
-<p>Points: 15</p>
-<p># Comments: 6</p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/ai-engineer-skills](https://spectrum.ieee.org/ai-engineer-skills)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796">https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558086">https://news.ycombinator.com/item?id=49558086</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Points: 28</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
-<p>Points: 63</p>
+<p>Points: 66</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
@@ -84,16 +84,16 @@ The government is set to give the go-ahead for the gas field off the coast of Ab
 
 ---
 
-### 6. Transplanted pig kidney works in US man's body for record 271 days
+### 6. Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
+The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss)
 
 ---
 
