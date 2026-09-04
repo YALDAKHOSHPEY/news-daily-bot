@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 00:39:05
+**Last Update:** 2026-09-05 02:37:22
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to Create a Tor Exit Node
+### 1. Record-High 89% in U.S. Say Government Corruption Widespread
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://madpsy.uk/how-to-create-a-tor-exit-node/">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569702">https://news.ycombinator.com/item?id=49569702</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570772">https://news.ycombinator.com/item?id=49570772</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
+
+---
+
+### 2. Actively exploited sandbox RCE in all Chromium versions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570669">https://news.ycombinator.com/item?id=49570669</a></p>
+<p>Points: 50</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-85046](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+
+---
+
+### 3. Icons as a Service
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nravic.com/blog/images/">https://nravic.com/blog/images/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570597">https://news.ycombinator.com/item?id=49570597</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://madpsy.uk/how-to-create-a-tor-exit-node/](https://madpsy.uk/how-to-create-a-tor-exit-node/)
-
----
-
-### 2. An open DNS recursive service for free security and high privacy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://quad9.net/">https://quad9.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569663">https://news.ycombinator.com/item?id=49569663</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://quad9.net/](https://quad9.net/)
-
----
-
-### 3. Can AI design circuit boards yet?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569366">https://news.ycombinator.com/item?id=49569366</a></p>
-<p>Points: 39</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://eebench.org/blog/can-ai-design-circuit-boards-yet/](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+🔗 **Read more:** [https://nravic.com/blog/images/](https://nravic.com/blog/images/)
 
 ---
 
@@ -84,55 +84,55 @@ Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger,
 
 ---
 
-### 6. Farage threatens to overhaul Lords and judges to meet his pledges
+### 6. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.
+The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mexico seizes 17 tonnes of meth in $347 million drug bust
+### 7. Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa
+Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss)
 
 ---
 
-### 8. Watchdog report alleges misconduct by Trump’s former labour secretary
+### 8. Costa Rican president signals openness to domestic US military operations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lori Chavez-DeRemer reportedly used staff for personal tasks, drank at work and violated ethics regulations.
+President Laura Fernandez notes that Congress would need to approve any US military operations within the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss)
 
 ---
 
-### 9. Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war
+### 9. Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.
+Jose Mourinho&#039;s winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss)
 
 ---
 
