@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 23:11:44
+**Last Update:** 2026-09-06 00:55:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The moral panic over data centres is foolish
+### 1. Private German rocket makes history, reaches orbit from European soil
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish">https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49579714">https://news.ycombinator.com/item?id=49579714</a></p>
-<p>Points: 30</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket">https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580369">https://news.ycombinator.com/item?id=49580369</a></p>
+<p>Points: 105</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish](https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish)
+🔗 **Read more:** [https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
 
 ---
 
-### 2. The Luxuries in Life
+### 2. Finite time blowup for an averaged three-dimensional Navier-Stokes equation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578866">https://news.ycombinator.com/item?id=49578866</a></p>
-<p>Points: 104</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/">https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580329">https://news.ycombinator.com/item?id=49580329</a></p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://feld.com/archives/2026/09/the-real-luxuries-in-life/](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
+🔗 **Read more:** [https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
 
 ---
 
-### 3. Learn Programming with OCaml
+### 3. Isar Aerospace launch into orbit [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://usr.lmf.cnrs.fr/lpo/">https://usr.lmf.cnrs.fr/lpo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578280">https://news.ycombinator.com/item?id=49578280</a></p>
-<p>Points: 48</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=Ss1DUqLjecc">https://www.youtube.com/watch?v=Ss1DUqLjecc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580325">https://news.ycombinator.com/item?id=49580325</a></p>
+<p>Points: 38</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://usr.lmf.cnrs.fr/lpo/](https://usr.lmf.cnrs.fr/lpo/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=Ss1DUqLjecc](https://www.youtube.com/watch?v=Ss1DUqLjecc)
 
 ---
 
-### 4. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
+### 4. US envoys meet Putin in Moscow for Ukraine talks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation "is not so easy".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The government says it condemns "the behaviour in Dover" and the hours-long disr
 
 ---
 
-### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+### 6. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 6. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Woman beaten to death as bystanders watch in India’s Gujarat
+### 7. Building collapses after heavy rain in northern India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.
+A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss)
 
 ---
 
-### 8. Shoppers interact with Hong Kong’s first robot shopkeeper
+### 8. Why is Argentina reigniting the Falklands dispute?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
+President Javier Milei says sovereignty over the islands remains a national objective.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss)
 
 ---
 
-### 9. Two pilots killed after Greek fighter jet crashes during an air show
+### 9. Everton vs Manchester United: Premier League – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
+Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
