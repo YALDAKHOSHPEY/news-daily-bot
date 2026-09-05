@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 10:07:04
+**Last Update:** 2026-09-05 14:17:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why are European countries moving their gold out of North America?
+### 1. AI handles incidents, engineers lose touch with their systems
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvgyn8q8gqxo">https://www.bbc.com/news/articles/cvgyn8q8gqxo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573455">https://news.ycombinator.com/item?id=49573455</a></p>
-<p>Points: 56</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49574167">https://news.ycombinator.com/item?id=49574167</a></p>
+<p>Points: 135</p>
+<p># Comments: 106</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvgyn8q8gqxo](https://www.bbc.com/news/articles/cvgyn8q8gqxo)
+🔗 **Read more:** [https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 
 ---
 
-### 2. GPT-6 Astra in code review: Gains, privacy, and cost
+### 2. Git hosting that never leaves Europe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pushin.eu">https://pushin.eu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573680">https://news.ycombinator.com/item?id=49573680</a></p>
+<p>Points: 96</p>
+<p># Comments: 69</p>
+
+🔗 **Read more:** [https://pushin.eu](https://pushin.eu)
+
+---
+
+### 3. GPT-6 Astra in code review: Gains, privacy, and cost
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572875">https://news.ycombinator.com/item?id=49572875</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 48</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
-
----
-
-### 3. Nitter has more working instances than before the takedowns
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571634">https://news.ycombinator.com/item?id=49571634</a></p>
-<p>Points: 104</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://codeberg.org/mv12star/shitter/wiki/Instances](https://codeberg.org/mv12star/shitter/wiki/Instances)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.
+Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The party says the tax cut will be paid for by reducing public spending by £80b
 
 ---
 
-### 7. US imposes sanctions on Turkish bank, prompting legal threat
+### 7. At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
+Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss)
 
 ---
 
-### 8. Families of missing Ecuadorian fishermen allege US involvement
+### 8. Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families of eight Ecuadorian fishermen who vanished after reporting US surveillance at sea are demanding answers.
+As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss)
 
 ---
 
-### 9. ‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire
+### 9. US ambassador to Israel meets Palestinian-Americans in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The PIMS nurse who saved one newborn recalls the fire, the screams and the 14 babies she could not save.
+US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss](https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
