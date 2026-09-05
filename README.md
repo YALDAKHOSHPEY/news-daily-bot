@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 01:16:37
+**Last Update:** 2026-09-06 02:33:55
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Private German rocket makes history, reaches orbit from European soil
+### 1. Falsehoods Programmers Believe About LANs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket">https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580369">https://news.ycombinator.com/item?id=49580369</a></p>
-<p>Points: 124</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://dreamstation.systems/personal/lanfalsehoods.html">https://dreamstation.systems/personal/lanfalsehoods.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581179">https://news.ycombinator.com/item?id=49581179</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+🔗 **Read more:** [https://dreamstation.systems/personal/lanfalsehoods.html](https://dreamstation.systems/personal/lanfalsehoods.html)
 
 ---
 
-### 2. Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)
+### 2. America's Two Largest School Districts Impose AI Moratoriums
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/">https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580329">https://news.ycombinator.com/item?id=49580329</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580980">https://news.ycombinator.com/item?id=49580980</a></p>
+<p>Points: 19</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
+🔗 **Read more:** [https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
 
 ---
 
-### 3. Isar Aerospace launch into orbit [video]
+### 3. South African diamond mines are closing due to weak sales and lab-grown stones
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=Ss1DUqLjecc">https://www.youtube.com/watch?v=Ss1DUqLjecc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580325">https://news.ycombinator.com/item?id=49580325</a></p>
-<p>Points: 44</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf">https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580778">https://news.ycombinator.com/item?id=49580778</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=Ss1DUqLjecc](https://www.youtube.com/watch?v=Ss1DUqLjecc)
+🔗 **Read more:** [https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
 
 ---
 
