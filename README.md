@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 02:33:55
+**Last Update:** 2026-09-06 02:56:29
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Falsehoods Programmers Believe About LANs
+### 1. OKF Agent Memory – Git-native persistent memory for AI coding agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/okf-memory/okf-agent-memory">https://github.com/okf-memory/okf-agent-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581240">https://news.ycombinator.com/item?id=49581240</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
+
+---
+
+### 2. Falsehoods Programmers Believe About LANs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://dreamstation.systems/personal/lanfalsehoods.html">https://dreamstation.systems/personal/lanfalsehoods.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581179">https://news.ycombinator.com/item?id=49581179</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://dreamstation.systems/personal/lanfalsehoods.html](https://dreamstation.systems/personal/lanfalsehoods.html)
 
 ---
 
-### 2. America's Two Largest School Districts Impose AI Moratoriums
+### 3. America's Two Largest School Districts Impose AI Moratoriums
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580980">https://news.ycombinator.com/item?id=49580980</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
-
----
-
-### 3. South African diamond mines are closing due to weak sales and lab-grown stones
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf">https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580778">https://news.ycombinator.com/item?id=49580778</a></p>
-<p>Points: 22</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
 
 ---
 
