@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 17:42:10
+**Last Update:** 2026-09-05 20:23:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ig Nobel Prize Winners
+### 1. Bob and Van
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576611">https://news.ycombinator.com/item?id=49576611</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://marco.org/2026/09/04/bob-and-van">https://marco.org/2026/09/04/bob-and-van</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578136">https://news.ycombinator.com/item?id=49578136</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
+🔗 **Read more:** [https://marco.org/2026/09/04/bob-and-van](https://marco.org/2026/09/04/bob-and-van)
 
 ---
 
-### 2. The "$60 Gaming PC" – AMD BC-250 (2025)
+### 2. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/">https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576386">https://news.ycombinator.com/item?id=49576386</a></p>
-<p>Points: 21</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
+<p>Points: 54</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 
 ---
 
-### 3. Pentagon rescinds new testosterone screening policy without explanation
+### 3. Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/">https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576196">https://news.ycombinator.com/item?id=49576196</a></p>
-<p>Points: 53</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577975">https://news.ycombinator.com/item?id=49577975</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
+🔗 **Read more:** [https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
 
 ---
 
-### 4. Reform promises to increase tax-free personal allowance to £15,000
+### 4. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party says the tax cut will be paid for by reducing public spending by £80bn.
+The government says it condemns "the behaviour in Dover" and the hours-long disruption it caused.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
+### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Reform leader also told the BBC's Laura Kuenssberg that his family are "begging" him to leave his job.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Nigel Farage's admirers in the party are calling for a stronger operation as the
 
 ---
 
-### 6. Cleveland police chief proud of force but being 'let down' by funding
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why has the Trump administration ordered staff to take polygraph tests?
+### 7. Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.
+The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss)
 
 ---
 
-### 8. UK gov’t condemns masked anti-immigrant protesters blocking Dover port
+### 8. Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Traffic at Britain&#039;s largest international port briefly halted as &#039;stop the boats&#039; protesters blocked approaching roads.
+Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss)
 
 ---
 
-### 9. Arsenal vs Chelsea: Premier League – prediction, teams, lineups
+### 9. US says it hit three Iranian oil tankers after attacks on warships
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.
+US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss)
 
 ---
 
