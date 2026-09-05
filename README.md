@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 20:30:22
+**Last Update:** 2026-09-05 22:41:16
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
+### 1. The Luxuries in Life
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578866">https://news.ycombinator.com/item?id=49578866</a></p>
+<p>Points: 50</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://feld.com/archives/2026/09/the-real-luxuries-in-life/](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
+
+---
+
+### 2. Learn Programming with OCaml
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://usr.lmf.cnrs.fr/lpo/">https://usr.lmf.cnrs.fr/lpo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578280">https://news.ycombinator.com/item?id=49578280</a></p>
+<p>Points: 30</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://usr.lmf.cnrs.fr/lpo/](https://usr.lmf.cnrs.fr/lpo/)
+
+---
+
+### 3. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
+<p>Points: 112</p>
+<p># Comments: 66</p>
+
+🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
+
+---
+
+### 4. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The government says it condemns "the behaviour in Dover" and the hours-long disr
 
 ---
 
-### 2. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 3. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
+### 6. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Nigel Farage's admirers in the party are calling for a stronger operation as the
 
 ---
 
-### 4. Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
+### 7. Shoppers interact with Hong Kong’s first robot shopkeeper
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
+Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss)
 
 ---
 
-### 5. Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
+### 8. Two pilots killed after Greek fighter jet crashes during an air show
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.
+Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss)
 
 ---
 
-### 6. US says it hit three Iranian oil tankers after attacks on warships
+### 9. Thousands protest in Croatia to demand government clean up toxic waste
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
+Demonstrators in Zagreb accuse Croatia&#039;s government of dragging its feet on a hazardous waste scandal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss)
 
 ---
 
-### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Ayers Pond, Prairie, Montana
+### 11. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Snow, Custer, Montana
+### 12. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
