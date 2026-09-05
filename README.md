@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 14:17:07
+**Last Update:** 2026-09-05 14:31:57
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI handles incidents, engineers lose touch with their systems
+### 1. Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49575034">https://news.ycombinator.com/item?id=49575034</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
+
+---
+
+### 2. AI handles incidents, engineers lose touch with their systems
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49574167">https://news.ycombinator.com/item?id=49574167</a></p>
-<p>Points: 135</p>
-<p># Comments: 106</p>
+<p>Points: 145</p>
+<p># Comments: 114</p>
 
 🔗 **Read more:** [https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 
 ---
 
-### 2. Git hosting that never leaves Europe
+### 3. Git hosting that never leaves Europe
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://pushin.eu">https://pushin.eu</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573680">https://news.ycombinator.com/item?id=49573680</a></p>
-<p>Points: 96</p>
-<p># Comments: 69</p>
+<p>Points: 99</p>
+<p># Comments: 71</p>
 
 🔗 **Read more:** [https://pushin.eu](https://pushin.eu)
-
----
-
-### 3. GPT-6 Astra in code review: Gains, privacy, and cost
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572875">https://news.ycombinator.com/item?id=49572875</a></p>
-<p>Points: 48</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
 
 ---
 
@@ -97,7 +97,20 @@ The party says the tax cut will be paid for by reducing public spending by £80b
 
 ---
 
-### 7. At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
+### 7. Mudslide in eastern China kills one, leaves 11 missing
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A mudslide triggered by days of heavy rain in Jiangxi province, China, has killed one person and left 11 missing.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss)
+
+---
+
+### 8. At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys
 
 ---
 
-### 8. Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
+### 9. Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys
 As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss)
-
----
-
-### 9. US ambassador to Israel meets Palestinian-Americans in occupied West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
