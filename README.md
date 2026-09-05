@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 03:02:56
+**Last Update:** 2026-09-05 04:40:05
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Can guitar frets perform multiplication?
+### 1. Artificial Analysis Intelligence Index v4.2
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html">https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571047">https://news.ycombinator.com/item?id=49571047</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571632">https://news.ycombinator.com/item?id=49571632</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+
+---
+
+### 2. Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571627">https://news.ycombinator.com/item?id=49571627</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
+🔗 **Read more:** [https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/)
 
 ---
 
-### 2. Record-High 89% in U.S. Say Government Corruption Widespread
+### 3. Show HN: Moadim.io – A scheduler for agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570772">https://news.ycombinator.com/item?id=49570772</a></p>
-<p>Points: 70</p>
-<p># Comments: 30</p>
+<p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mcp/ui/http<p>- unlimited routines/crons<p>So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder.<p>With more than 1,000 users, I define this project as almost "done" and ready for production. Me and thousand more people are use it in a daily manner.<p>It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable.<p>You are welcome to have a look at the source code of the daemon in "<a href="http://github.com/moadim-io/daemon" rel="nofollow">http://github.com/moadim-io/daemon</a>"<p>Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a "done" software in the realm of agents schedulers that focus on cron-like work.<p>Also feel free to start the github repository and open issues and PRs for your suggestions.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571537">https://news.ycombinator.com/item?id=49571537</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
-
----
-
-### 3. Actively exploited sandbox RCE in all Chromium versions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570669">https://news.ycombinator.com/item?id=49570669</a></p>
-<p>Points: 86</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-85046](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+🔗 **Read more:** [https://moadim.io/](https://moadim.io/)
 
 ---
 
@@ -97,42 +98,42 @@ The mistrial now puts the murder case - and Clancy's future - in limbo as to whe
 
 ---
 
-### 7. Mock Republican convention website redirects users to Epstein Files
+### 7. Senior EU official cancels Serbia trip over planned tribute to Mladic
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democratic lawmakers poke fun at prank website, while Republicans slam &#039;fake news&#039; and redirect users to real one.
+EU&#039;s Marta Kos cancels Serbia visit, condemning Ratko Mladic &#039;glorification&#039; as incompatible with European values.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss)
 
 ---
 
-### 8. Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra
+### 8. Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.
+US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss)
 
 ---
 
-### 9. Costa Rican president signals openness to domestic US military operations
+### 9. ‘Small potatoes’: US President Trump downplays war on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Laura Fernandez notes that Congress would need to approve any US military operations within the country.
+Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss)
 
 ---
 
