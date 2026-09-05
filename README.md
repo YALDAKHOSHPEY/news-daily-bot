@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 20:23:08
+**Last Update:** 2026-09-05 20:30:22
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bob and Van
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://marco.org/2026/09/04/bob-and-van">https://marco.org/2026/09/04/bob-and-van</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578136">https://news.ycombinator.com/item?id=49578136</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://marco.org/2026/09/04/bob-and-van](https://marco.org/2026/09/04/bob-and-van)
-
----
-
-### 2. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
-<p>Points: 54</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
-
----
-
-### 3. Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577975">https://news.ycombinator.com/item?id=49577975</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
-
----
-
-### 4. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
+### 1. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The government says it condemns "the behaviour in Dover" and the hours-long disr
 
 ---
 
-### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+### 2. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 6. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
+### 3. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ Nigel Farage's admirers in the party are calling for a stronger operation as the
 
 ---
 
-### 7. Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
+### 4. Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ The victims, all from one Palestinian family, had been sheltering at their famil
 
 ---
 
-### 8. Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
+### 5. Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Israeli Defence Ministry asserts operational control over strategic highland; He
 
 ---
 
-### 9. US says it hit three Iranian oil tankers after attacks on warships
+### 6. US says it hit three Iranian oil tankers after attacks on warships
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ US Central Command says its forces struck three Iranian crude oil carriers on Sa
 
 ---
 
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 8. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 9. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
