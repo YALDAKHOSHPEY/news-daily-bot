@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 04:40:05
+**Last Update:** 2026-09-05 05:27:10
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571632">https://news.ycombinator.com/item?id=49571632</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Points: 42</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571627">https://news.ycombinator.com/item?id=49571627</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/)
 
@@ -52,8 +52,8 @@
 <p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mcp/ui/http<p>- unlimited routines/crons<p>So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder.<p>With more than 1,000 users, I define this project as almost "done" and ready for production. Me and thousand more people are use it in a daily manner.<p>It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable.<p>You are welcome to have a look at the source code of the daemon in "<a href="http://github.com/moadim-io/daemon" rel="nofollow">http://github.com/moadim-io/daemon</a>"<p>Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a "done" software in the realm of agents schedulers that focus on cron-like work.<p>Also feel free to start the github repository and open issues and PRs for your suggestions.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571537">https://news.ycombinator.com/item?id=49571537</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://moadim.io/](https://moadim.io/)
 
@@ -85,55 +85,55 @@ Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger,
 
 ---
 
-### 6. Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
+### 6. How the Lindsay Clancy trial gripped America - and ultimately fell apart
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.
+A Massachusetts judge has declared a mistrial in the murder case against the US mother after jurors were unable to reach a unanimous verdict.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Senior EU official cancels Serbia trip over planned tribute to Mladic
+### 7. Ecuador defends US sinking of vessels as joint anti-drug operation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU&#039;s Marta Kos cancels Serbia visit, condemning Ratko Mladic &#039;glorification&#039; as incompatible with European values.
+Relatives of detained crew say US forces acted without evidence, claiming the men were fishermen, not smugglers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/senior-eu-official-cancels-serbia-trip-over-planned-tribute-to-mladic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’
+### 8. Asylum seekers caught in US immigration crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has repeated an earlier warning that the US may attack Iran&#039;s Pickaxe Mountain &quot;very soon&quot;.
+Dree Collopy argues it could make people who lawfully enter the US more vulnerable to arrest and deportation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss)
 
 ---
 
-### 9. ‘Small potatoes’: US President Trump downplays war on Iran
+### 9. Judge declares mistrial in Lindsay Clancy children’s murder case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump tells reporters the US is &#039;not fighting right now&#039; despite a recent exchange of fire with Iran.
+Lindsay Clancy’s high-profile trial for the murder of her three children has ended in a mistrial.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss)
 
 ---
 
