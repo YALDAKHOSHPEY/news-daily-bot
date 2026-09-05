@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 22:41:16
+**Last Update:** 2026-09-05 23:11:44
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Luxuries in Life
+### 1. The moral panic over data centres is foolish
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish">https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49579714">https://news.ycombinator.com/item?id=49579714</a></p>
+<p>Points: 30</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish](https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish)
+
+---
+
+### 2. The Luxuries in Life
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578866">https://news.ycombinator.com/item?id=49578866</a></p>
-<p>Points: 50</p>
-<p># Comments: 8</p>
+<p>Points: 104</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://feld.com/archives/2026/09/the-real-luxuries-in-life/](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 
 ---
 
-### 2. Learn Programming with OCaml
+### 3. Learn Programming with OCaml
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://usr.lmf.cnrs.fr/lpo/">https://usr.lmf.cnrs.fr/lpo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578280">https://news.ycombinator.com/item?id=49578280</a></p>
-<p>Points: 30</p>
-<p># Comments: 0</p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://usr.lmf.cnrs.fr/lpo/](https://usr.lmf.cnrs.fr/lpo/)
-
----
-
-### 3. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
-<p>Points: 112</p>
-<p># Comments: 66</p>
-
-🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 
 ---
 
@@ -97,7 +97,20 @@ Nigel Farage's admirers in the party are calling for a stronger operation as the
 
 ---
 
-### 7. Shoppers interact with Hong Kong’s first robot shopkeeper
+### 7. Woman beaten to death as bystanders watch in India’s Gujarat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss)
+
+---
+
+### 8. Shoppers interact with Hong Kong’s first robot shopkeeper
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
 
 ---
 
-### 8. Two pilots killed after Greek fighter jet crashes during an air show
+### 9. Two pilots killed after Greek fighter jet crashes during an air show
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
 Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss)
-
----
-
-### 9. Thousands protest in Croatia to demand government clean up toxic waste
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Demonstrators in Zagreb accuse Croatia&#039;s government of dragging its feet on a hazardous waste scandal.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss)
 
 ---
 
