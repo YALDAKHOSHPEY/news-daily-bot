@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 17:26:08
+**Last Update:** 2026-09-05 17:42:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pentagon rescinds new testosterone screening policy without explanation
+### 1. Ig Nobel Prize Winners
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576611">https://news.ycombinator.com/item?id=49576611</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
+
+---
+
+### 2. The "$60 Gaming PC" – AMD BC-250 (2025)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/">https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576386">https://news.ycombinator.com/item?id=49576386</a></p>
+<p>Points: 21</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+
+---
+
+### 3. Pentagon rescinds new testosterone screening policy without explanation
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/">https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576196">https://news.ycombinator.com/item?id=49576196</a></p>
-<p>Points: 27</p>
-<p># Comments: 11</p>
+<p>Points: 53</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
-
----
-
-### 2. Terpstra Keyboard
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://terpstrakeyboard.com/">http://terpstrakeyboard.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49575150">https://news.ycombinator.com/item?id=49575150</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [http://terpstrakeyboard.com/](http://terpstrakeyboard.com/)
-
----
-
-### 3. Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49575034">https://news.ycombinator.com/item?id=49575034</a></p>
-<p>Points: 126</p>
-<p># Comments: 81</p>
-
-🔗 **Read more:** [https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
 
 ---
 
@@ -97,7 +97,33 @@ Victoria Fuller tells the BBC the force's resources need a rethink, speaking aft
 
 ---
 
-### 7. Arsenal vs Chelsea: Premier League – prediction, teams, lineups
+### 7. Why has the Trump administration ordered staff to take polygraph tests?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss)
+
+---
+
+### 8. UK gov’t condemns masked anti-immigrant protesters blocking Dover port
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Traffic at Britain&#039;s largest international port briefly halted as &#039;stop the boats&#039; protesters blocked approaching roads.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss)
+
+---
+
+### 9. Arsenal vs Chelsea: Premier League – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Victoria Fuller tells the BBC the force's resources need a rethink, speaking aft
 Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss)
-
----
-
-### 8. ‘Stop the boats’ masked protesters block England’s Port of Dover
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Masked protesters blocked major roads around England’s Port of Dover on Saturday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss)
-
----
-
-### 9. Iran President Pezeshkian calls for unity as US ramps up economic pressure
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss)
 
 ---
 
