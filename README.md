@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 14:39:36
+**Last Update:** 2026-09-06 14:55:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Changed My License
+### 1. Pigeon, a signed Pass for what a sub-agent may do
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pigeonlabsHQ/pigeon">https://github.com/pigeonlabsHQ/pigeon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585209">https://news.ycombinator.com/item?id=49585209</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/pigeonlabsHQ/pigeon](https://github.com/pigeonlabsHQ/pigeon)
+
+---
+
+### 2. I Changed My License
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://bergie.iki.fi/blog/eupl/">https://bergie.iki.fi/blog/eupl/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585161">https://news.ycombinator.com/item?id=49585161</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Points: 20</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://bergie.iki.fi/blog/eupl/](https://bergie.iki.fi/blog/eupl/)
 
 ---
 
-### 2. You Don't Have a Right to Safe Drinking Water, US Court Rules
+### 3. You Don't Have a Right to Safe Drinking Water, US Court Rules
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/">https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584637">https://news.ycombinator.com/item?id=49584637</a></p>
-<p>Points: 111</p>
-<p># Comments: 62</p>
+<p>Points: 134</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
-
----
-
-### 3. Play GTA Vice City in the Browser
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://quenq.com/apps/vice-city-online/">https://quenq.com/apps/vice-city-online/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584123">https://news.ycombinator.com/item?id=49584123</a></p>
-<p>Points: 69</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://quenq.com/apps/vice-city-online/](https://quenq.com/apps/vice-city-online/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
+Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday, having "discussed substantive plans for next steps" with Putin on Saturday, according to the White House.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. LIVE: Everton vs Manchester United – Premier League
+### 7. US, Iran engaged in tanker war: Where is the months-long conflict headed?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss)
+
+---
+
+### 8. Palestinians in Gaza bury remains of 100 people recovered from rubble
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss)
+
+---
+
+### 9. LIVE: Everton vs Manchester United – Premier League
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The company is struggling with the impact of tariffs as well as the fallout from
 All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss)
-
----
-
-### 8. Israeli flags become the latest weapon of settlers in West Bank domination
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel&#039;s visual colonisation aims to make Palestinians feel like guests in their own homeland.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss)
-
----
-
-### 9. Israeli air attacks on Lebanon kill at least four
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss)
 
 ---
 
