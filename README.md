@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 04:38:34
+**Last Update:** 2026-09-06 05:22:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://cloudinabottle.org/blog/launch-post">https://cloudinabottle.org/blog/launch-post</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582000">https://news.ycombinator.com/item?id=49582000</a></p>
-<p>Points: 42</p>
-<p># Comments: 16</p>
+<p>Points: 76</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://cloudinabottle.org/blog/launch-post](https://cloudinabottle.org/blog/launch-post)
 
 ---
 
-### 2. OKF Agent Memory – Git-native persistent memory for AI coding agents
+### 2. Chrome again exempts Google from user site data settings
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/9/1.html">https://lapcatsoftware.com/articles/2026/9/1.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581870">https://news.ycombinator.com/item?id=49581870</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/9/1.html](https://lapcatsoftware.com/articles/2026/9/1.html)
+
+---
+
+### 3. OKF Agent Memory – Git-native persistent memory for AI coding agents
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/okf-memory/okf-agent-memory">https://github.com/okf-memory/okf-agent-memory</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581240">https://news.ycombinator.com/item?id=49581240</a></p>
-<p>Points: 25</p>
-<p># Comments: 11</p>
+<p>Points: 29</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
-
----
-
-### 3. The revolt of the reader
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580939">https://news.ycombinator.com/item?id=49580939</a></p>
-<p>Points: 60</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 
 ---
 
@@ -97,7 +97,33 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 7. German company launches rocket as Europe enters satellite race
+### 7. ‘People laughed at me’: Indian youth cleans up a trash-filled river
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss)
+
+---
+
+### 8. Netanyahu boasts about bombing Qatar, says Gaza funds used for aid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss)
+
+---
+
+### 9. German company launches rocket as Europe enters satellite race
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss)
-
----
-
-### 8. Iran war live: IRGC claims new attacks on US warships over naval blockade
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss)
-
----
-
-### 9. Fuel tanker blast in western Iran kills at least 10
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss)
 
 ---
 
