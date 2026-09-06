@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 20:54:14
+**Last Update:** 2026-09-06 22:50:33
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Opalite Health (YC W26) Is Hiring – Founding GTM
+### 1. Following legal advice, the Nitter project will continue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589003">https://news.ycombinator.com/item?id=49589003</a></p>
+<p>Points: 173</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://github.com/zedeus/nitter](https://github.com/zedeus/nitter)
+
+---
+
+### 2. Nitter is unarchived and will continue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588988">https://news.ycombinator.com/item?id=49588988</a></p>
+<p>Points: 59</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+
+---
+
+### 3. Opalite Health (YC W26) Is Hiring – Founding GTM
 
 **Source:** Hacker News
 
@@ -26,52 +58,7 @@
 
 ---
 
-### 2. OpenAI: We monitor internal coding agents for misalignment
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588214">https://news.ycombinator.com/item?id=49588214</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
-
----
-
-### 3. An Alien Mind
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/an-alien-mind/">https://openai.com/index/an-alien-mind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588080">https://news.ycombinator.com/item?id=49588080</a></p>
-<p>Points: 33</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://openai.com/index/an-alien-mind/](https://openai.com/index/an-alien-mind/)
-
----
-
-### 4. US envoys hold talks with Zelensky in Kyiv after meeting Putin
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Steve Witkoff tells reporters the US team feels "encouraged" by a "substantive" and important discussion.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. German far-right set for big win in eastern state - projections
+### 4. German far-right set for big win in eastern state, projections show
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ Steve Witkoff tells reporters the US team feels "encouraged" by a "substantive" 
 Germany's AfD has hailed a "historic result" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Zelensky says he expects war to continue into winter after talks with US envoys
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Palestinian farmers battle settler sabotage to save Hebron crops, livestock
+### 7. Adidas faces boycott calls over campaign featuring former Israeli soldier
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.
+Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss)
 
 ---
 
-### 8. Trump official says ‘there may not be a nuclear agreement’ with Iran
+### 8. Trump administration appeals again to US Supreme Court over mail-in voting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Energy Secretary Chris Wright&#039;s comments could signal that US hopes for a nuclear deal are dimming.
+How the nation&#039;s highest court rules could have major implications in this year’s midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss)
 
 ---
 
-### 9. Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia
+### 9. Why is Argentina reviving the Falklands dispute?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lamine Yamal scored twice and Fermin Lopez shone as Barcelona romped to a 5-0 win at La Liga strugglers Valencia.
+More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss)
 
 ---
 
