@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 23:14:28
+**Last Update:** 2026-09-07 00:59:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Finder is so frustrating and has been since day one
+### 1. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kepter.app/finder">https://kepter.app/finder</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589722">https://news.ycombinator.com/item?id=49589722</a></p>
-<p>Points: 38</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://github.com/marsbos/mador">https://github.com/marsbos/mador</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590738">https://news.ycombinator.com/item?id=49590738</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://kepter.app/finder](https://kepter.app/finder)
+🔗 **Read more:** [https://github.com/marsbos/mador](https://github.com/marsbos/mador)
 
 ---
 
-### 2. Following legal advice, the Nitter project will continue
+### 2. It took a year to ship WebAssembly in Anubis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589003">https://news.ycombinator.com/item?id=49589003</a></p>
-<p>Points: 205</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590611">https://news.ycombinator.com/item?id=49590611</a></p>
+<p>Points: 28</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/zedeus/nitter](https://github.com/zedeus/nitter)
+🔗 **Read more:** [https://anubis.techaro.lol/blog/2026/anubis-wasm/](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 
 ---
 
-### 3. Nitter is unarchived and will continue
+### 3. GrapheneOS Overhauled Default Apps and Secure Clipboard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588988">https://news.ycombinator.com/item?id=49588988</a></p>
-<p>Points: 136</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117225539756835649">https://grapheneos.social/@GrapheneOS/117225539756835649</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590512">https://news.ycombinator.com/item?id=49590512</a></p>
+<p>Points: 27</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117225539756835649](https://grapheneos.social/@GrapheneOS/117225539756835649)
 
 ---
 
@@ -78,7 +78,7 @@ Germany's AfD has hailed a "historic result" and is projected to win more than 4
 **Category:** world
 
 **Description:**
-Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
+There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Indonesia volcano eruption disrupts hundreds of flights
+### 7. Amazon cargo plane crashes in US while landing at Miami airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two new eruptions were recorded as Indonesia’s Anak Krakatau continued to spew volcanic ash.
+The cause of the crash is being investigated.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss)
 
 ---
 
-### 8. Adidas faces boycott calls over campaign featuring former Israeli soldier
+### 8. At least 10 killed in central Mexico fireworks blast during festival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.
+Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss)
 
 ---
 
-### 9. Trump administration appeals again to US Supreme Court over mail-in voting
+### 9. Amazon Prime plane overruns runway at Miami Airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How the nation&#039;s highest court rules could have major implications in this year’s midterm elections.
+An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss)
 
 ---
 
