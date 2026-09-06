@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 20:41:15
+**Last Update:** 2026-09-06 20:54:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588214">https://news.ycombinator.com/item?id=49588214</a></p>
-<p>Points: 4</p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/an-alien-mind/">https://openai.com/index/an-alien-mind/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588080">https://news.ycombinator.com/item?id=49588080</a></p>
-<p>Points: 28</p>
-<p># Comments: 10</p>
+<p>Points: 33</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://openai.com/index/an-alien-mind/](https://openai.com/index/an-alien-mind/)
 
@@ -78,7 +78,7 @@ Steve Witkoff tells reporters the US team feels "encouraged" by a "substantive" 
 **Category:** world
 
 **Description:**
-Germany's AfD has hailed a "historic result" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.
+Germany's AfD has hailed a "historic result" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Iran touts military response as US maintains blockade, hits tankers
+### 7. Palestinian farmers battle settler sabotage to save Hebron crops, livestock
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.
+West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss)
 
 ---
 
-### 8. Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls
+### 8. Trump official says ‘there may not be a nuclear agreement’ with Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.
+US Energy Secretary Chris Wright&#039;s comments could signal that US hopes for a nuclear deal are dimming.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss)
 
 ---
 
-### 9. Maitland-Niles stuns Manchester United as Everton claim last-ditch point
+### 9. Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.
+Lamine Yamal scored twice and Fermin Lopez shone as Barcelona romped to a 5-0 win at La Liga strugglers Valencia.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss)
 
 ---
 
