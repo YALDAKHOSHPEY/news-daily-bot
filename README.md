@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 17:46:42
+**Last Update:** 2026-09-06 18:05:28
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry">https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586435">https://news.ycombinator.com/item?id=49586435</a></p>
-<p>Points: 6</p>
+<p>Points: 12</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
 
 ---
 
-### 2. Schemy Lisp En DOS
+### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586151">https://news.ycombinator.com/item?id=49586151</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
+
+---
+
+### 3. Schemy Lisp En DOS
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sled.neocities.org/">https://sled.neocities.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586139">https://news.ycombinator.com/item?id=49586139</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://sled.neocities.org/](https://sled.neocities.org/)
-
----
-
-### 3. 2026 Hugo Awards
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thehugoawards.org/">https://www.thehugoawards.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586005">https://news.ycombinator.com/item?id=49586005</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.thehugoawards.org/](https://www.thehugoawards.org/)
 
 ---
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. How significant are the Yemeni government’s military gains against the Houthis?
+### 7. Why potluck parties are making a big comeback in America
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government forces make gains as fighting escalates, raising fears of a return to full-scale war.
+As Americans spend less time socialising, communities are rediscovering an old way of bringing people together.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/6/why-potluck-parties-are-making-a-big-comeback-in-america?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/6/why-potluck-parties-are-making-a-big-comeback-in-america?traffic_source=rss)
 
 ---
 
-### 8. Seven mouths, one meal: Feeding a family through Gaza’s food crisis
+### 8. China, Nepal race to find thousands still missing 12 days after floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.
+More than 5,500 people are still missing in China and Nepal after catastrophic floods across the two countries.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss)
 
 ---
 
-### 9. How the West’s promise of freedom created a world of anger
+### 9. What the US militarisation of Latin America could look like
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.
+More US military involvement and larger regional defence budgets mean less social spending and worse democracy outcomes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/6/what-the-us-militarisation-of-latin-america-could-look-like?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/6/what-the-us-militarisation-of-latin-america-could-look-like?traffic_source=rss)
 
 ---
 
