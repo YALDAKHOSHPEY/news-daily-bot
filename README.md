@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 00:59:36
+**Last Update:** 2026-09-07 01:19:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/marsbos/mador">https://github.com/marsbos/mador</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590738">https://news.ycombinator.com/item?id=49590738</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://github.com/marsbos/mador](https://github.com/marsbos/mador)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590611">https://news.ycombinator.com/item?id=49590611</a></p>
-<p>Points: 28</p>
-<p># Comments: 11</p>
+<p>Points: 46</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://anubis.techaro.lol/blog/2026/anubis-wasm/](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117225539756835649">https://grapheneos.social/@GrapheneOS/117225539756835649</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590512">https://news.ycombinator.com/item?id=49590512</a></p>
-<p>Points: 27</p>
-<p># Comments: 8</p>
+<p>Points: 36</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117225539756835649](https://grapheneos.social/@GrapheneOS/117225539756835649)
 
 ---
 
-### 4. German far-right set for big win in eastern state, projections show
+### 4. Germany's far-right AfD set for big win in eastern state, just short of majority
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Germany's AfD has hailed a "historic result" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.
+Germany's AfD has hailed a "historic result" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
 
