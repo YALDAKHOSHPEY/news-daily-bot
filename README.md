@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 10:08:14
+**Last Update:** 2026-09-06 14:39:36
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AMD Based FreeBSD Desktop Reloaded
+### 1. I Changed My License
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/">https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582719">https://news.ycombinator.com/item?id=49582719</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bergie.iki.fi/blog/eupl/">https://bergie.iki.fi/blog/eupl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585161">https://news.ycombinator.com/item?id=49585161</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/](https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/)
+🔗 **Read more:** [https://bergie.iki.fi/blog/eupl/](https://bergie.iki.fi/blog/eupl/)
 
 ---
 
-### 2. AI, Tools and Transformation
+### 2. You Don't Have a Right to Safe Drinking Water, US Court Rules
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582656">https://news.ycombinator.com/item?id=49582656</a></p>
-<p>Points: 21</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/">https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584637">https://news.ycombinator.com/item?id=49584637</a></p>
+<p>Points: 111</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+🔗 **Read more:** [https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
 
 ---
 
-### 3. GPT-6 Astra on robot arms
+### 3. Play GTA Vice City in the Browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.robocurve.org/gpt-6-astra/">https://openai.robocurve.org/gpt-6-astra/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582582">https://news.ycombinator.com/item?id=49582582</a></p>
-<p>Points: 139</p>
-<p># Comments: 92</p>
+<p>Article URL: <a href="https://quenq.com/apps/vice-city-online/">https://quenq.com/apps/vice-city-online/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584123">https://news.ycombinator.com/item?id=49584123</a></p>
+<p>Points: 69</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://openai.robocurve.org/gpt-6-astra/](https://openai.robocurve.org/gpt-6-astra/)
+🔗 **Read more:** [https://quenq.com/apps/vice-city-online/](https://quenq.com/apps/vice-city-online/)
 
 ---
 
-### 4. US envoys set for Ukraine talks after meeting Putin in Russia
+### 4. US envoys arrive in Ukraine for talks after meeting Putin in Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
+It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. TV presenter among 11 sentenced to death in Egypt drugs case
+### 5. Police slow to respond to Dover protest, says council boss
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.
+The "exceptionally well organised" protest "caught several agencies on the hoof", the leader says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Temperatures could climb to 28C in late burst of warmth
+### 6. Minister to meet Jaguar Land Rover boss as thousands of job cuts expected
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.
+The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Flames burst from Qantas plane engine after New Zealand takeoff
+### 7. LIVE: Everton vs Manchester United – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.
+All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss)
 
 ---
 
-### 8. Yemeni forces claim strategic district amid intensified Houthi clashes
+### 8. Israeli flags become the latest weapon of settlers in West Bank domination
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.
+Israel&#039;s visual colonisation aims to make Palestinians feel like guests in their own homeland.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss)
 
 ---
 
-### 9. Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’
+### 9. Israeli air attacks on Lebanon kill at least four
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’
+Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss)
 
 ---
 
