@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 02:30:57
+**Last Update:** 2026-09-07 02:49:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Windows 11's "special" developer edition looks like another marketing misfire
+### 1. Political meddling at the Census Bureau damages the US statistical system
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system">https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591620">https://news.ycombinator.com/item?id=49591620</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
+
+---
+
+### 2. Windows 11's "special" developer edition looks like another marketing misfire
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/">https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591036">https://news.ycombinator.com/item?id=49591036</a></p>
-<p>Points: 28</p>
-<p># Comments: 10</p>
+<p>Points: 33</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
 
 ---
 
-### 2. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
+### 3. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/marsbos/mador">https://github.com/marsbos/mador</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590738">https://news.ycombinator.com/item?id=49590738</a></p>
-<p>Points: 44</p>
-<p># Comments: 18</p>
+<p>Points: 47</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/marsbos/mador](https://github.com/marsbos/mador)
-
----
-
-### 3. It took a year to ship WebAssembly in Anubis
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590611">https://news.ycombinator.com/item?id=49590611</a></p>
-<p>Points: 95</p>
-<p># Comments: 60</p>
-
-🔗 **Read more:** [https://anubis.techaro.lol/blog/2026/anubis-wasm/](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 
 ---
 
