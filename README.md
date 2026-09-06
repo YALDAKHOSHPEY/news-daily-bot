@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 18:05:28
+**Last Update:** 2026-09-06 20:41:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The many mysteries and lessons of the Bayeux tapestry
+### 1. Opalite Health (YC W26) Is Hiring – Founding GTM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry">https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586435">https://news.ycombinator.com/item?id=49586435</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
-
----
-
-### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586151">https://news.ycombinator.com/item?id=49586151</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
-
----
-
-### 3. Schemy Lisp En DOS
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sled.neocities.org/">https://sled.neocities.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586139">https://news.ycombinator.com/item?id=49586139</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588466">https://news.ycombinator.com/item?id=49588466</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://sled.neocities.org/](https://sled.neocities.org/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
 
 ---
 
-### 4. US envoys meet Zelensky in Ukraine after talks with Putin in Russia
+### 2. OpenAI: We monitor internal coding agents for misalignment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588214">https://news.ycombinator.com/item?id=49588214</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
+
+---
+
+### 3. An Alien Mind
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/an-alien-mind/">https://openai.com/index/an-alien-mind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588080">https://news.ycombinator.com/item?id=49588080</a></p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://openai.com/index/an-alien-mind/](https://openai.com/index/an-alien-mind/)
+
+---
+
+### 4. US envoys hold talks with Zelensky in Kyiv after meeting Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.
+Steve Witkoff tells reporters the US team feels "encouraged" by a "substantive" and important discussion.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Police slow to respond to Dover protest, says council boss
+### 5. German far-right set for big win in eastern state - projections
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The "exceptionally well organised" protest "caught several agencies on the hoof", the leader says.
+Germany's AfD has hailed a "historic result" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Why potluck parties are making a big comeback in America
+### 7. Iran touts military response as US maintains blockade, hits tankers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Americans spend less time socialising, communities are rediscovering an old way of bringing people together.
+Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/6/why-potluck-parties-are-making-a-big-comeback-in-america?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/6/why-potluck-parties-are-making-a-big-comeback-in-america?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss)
 
 ---
 
-### 8. China, Nepal race to find thousands still missing 12 days after floods
+### 8. Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 5,500 people are still missing in China and Nepal after catastrophic floods across the two countries.
+The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss)
 
 ---
 
-### 9. What the US militarisation of Latin America could look like
+### 9. Maitland-Niles stuns Manchester United as Everton claim last-ditch point
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More US military involvement and larger regional defence budgets mean less social spending and worse democracy outcomes.
+Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/6/what-the-us-militarisation-of-latin-america-could-look-like?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/6/what-the-us-militarisation-of-latin-america-could-look-like?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss)
 
 ---
 
