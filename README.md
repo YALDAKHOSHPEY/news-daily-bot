@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 10:16:27
+**Last Update:** 2026-09-07 16:20:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
+### 1. Smartphone makers don't bother to comply with EU repairability requirements
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/timgordontg/engrim">https://github.com/timgordontg/engrim</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49594008">https://news.ycombinator.com/item?id=49594008</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49597189">https://news.ycombinator.com/item?id=49597189</a></p>
+<p>Points: 58</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/timgordontg/engrim](https://github.com/timgordontg/engrim)
+🔗 **Read more:** [https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
 
 ---
 
-### 2. TiVo to charge money for skipping commercials in your own recordings
+### 2. Apparently CodePen 2.0 sends data to their servers as you type
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/">https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593971">https://news.ycombinator.com/item?id=49593971</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with "save:false", and the marker then appeared verbatim in the HTML served from the generated "*.codepen.dev preview". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596976">https://news.ycombinator.com/item?id=49596976</a></p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49596976](https://news.ycombinator.com/item?id=49596976)
 
 ---
 
-### 3. I refused to train the AI that could replace me
+### 3. VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://restofworld.org/2026/ai-training-jobs-expert-replacement/">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593959">https://news.ycombinator.com/item?id=49593959</a></p>
-<p>Points: 43</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/">https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596797">https://news.ycombinator.com/item?id=49596797</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://restofworld.org/2026/ai-training-jobs-expert-replacement/](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+🔗 **Read more:** [https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
 
 ---
 
-### 4. Watch: Anti-migrant boat protesters block roads in Portsmouth
+### 4. How anti-migrant boat protests were organised and who is behind them
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government condemned "the intimidating and thuggish behaviour" of the demonstrators.
+Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state
+### 5. Jaguar Land Rover to cut 4,000 jobs over next two years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.
+The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Germany's far-right AfD hails big victory in east, but falls short of majority
+### 6. Murder arrests over baby girl's death in woodland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Alternative for Germany hails a "historic" success as preliminary results show a big margin of victory with almost 44% of the vote.
+Police say they have arrested two men and two women as part of their investigation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Six children among 11 people killed in Indonesian market fire
+### 7. Moment Amazon plane crash lands in Miami
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.
+Moment Amazon plane crash lands in Miami
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss)
 
 ---
 
-### 8. Ten killed and dozens injured in Mexico fireworks blast
+### 8. Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.
+US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss)
 
 ---
 
-### 9. Anti-immigration protesters clash with police in UK after boat arrival
+### 9. Balogun red card U-turn prompts Belgium to withdraw support for Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.
+Belgian football association says it will not back Infantino&#039;s bid for re-election, citing the World Cup controversy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss)
 
 ---
 
