@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 21:58:28
+**Last Update:** 2026-09-08 01:08:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. No constitutional right to clean water, federal court finds
+### 1. Macbeth and His Problems
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/">https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600997">https://news.ycombinator.com/item?id=49600997</a></p>
+<p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602716">https://news.ycombinator.com/item?id=49602716</a></p>
 <p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
+🔗 **Read more:** [https://porticoquarterly.com/essay/macbeth-and-his-problems/](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
 
 ---
 
-### 2. PostgreSQL 19 Interactive Tour
+### 2. A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://victoriametrics.com/blog/postgres-19/index.html">https://victoriametrics.com/blog/postgres-19/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600432">https://news.ycombinator.com/item?id=49600432</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602582">https://news.ycombinator.com/item?id=49602582</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://victoriametrics.com/blog/postgres-19/index.html](https://victoriametrics.com/blog/postgres-19/index.html)
+🔗 **Read more:** [https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
 
 ---
 
-### 3. Tell HN: OpenAI brings back 5 hour limit for plus and business standard users
+### 3. Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600233">https://news.ycombinator.com/item?id=49600233</a></p>
-<p>Points: 87</p>
-<p># Comments: 64</p>
+<p>Article URL: <a href="https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/">https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602320">https://news.ycombinator.com/item?id=49602320</a></p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49600233](https://news.ycombinator.com/item?id=49600233)
+🔗 **Read more:** [https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/](https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/)
 
 ---
 
-### 4. What we know about anti-migrant protests and organiser Danny Thomas
+### 4. Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was "intimidating and thuggish".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about anti-migrant protests and organiser Danny Thomas
 
 **Source:** BBC
 
@@ -69,19 +81,6 @@
 UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Jaguar Land Rover to cut 4,000 jobs over next two years
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Israel’s plan to split the West Bank
+### 7. Israel’s removal of Gaza rubble risk to war crimes evidence: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s E1 plan risks splitting the West Bank in two.
+International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss)
 
 ---
 
-### 8. Thousands attend funeral of war criminal Ratko Mladic in Serbia
+### 8. Yemen fighting escalates as forces battle for Bab al-Mandeb Strait
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands attend funeral of war criminal Ratko Mladic in Serbia
+Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss)
 
 ---
 
-### 9. Board of Peace touts progress as Palestinians’ situation worsens
+### 9. Robots protest in Poland over AI regulation concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.
+Robots protest in Poland over AI regulation concerns
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss)
 
 ---
 
