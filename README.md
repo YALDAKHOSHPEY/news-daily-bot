@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 09:47:46
+**Last Update:** 2026-09-07 10:16:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/timgordontg/engrim">https://github.com/timgordontg/engrim</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49594008">https://news.ycombinator.com/item?id=49594008</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://github.com/timgordontg/engrim](https://github.com/timgordontg/engrim)
 
 ---
 
-### 2. I refused to train the AI that could replace me
+### 2. TiVo to charge money for skipping commercials in your own recordings
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/">https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593971">https://news.ycombinator.com/item?id=49593971</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/](https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/)
+
+---
+
+### 3. I refused to train the AI that could replace me
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://restofworld.org/2026/ai-training-jobs-expert-replacement/">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593959">https://news.ycombinator.com/item?id=49593959</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 43</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://restofworld.org/2026/ai-training-jobs-expert-replacement/](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
 
 ---
 
-### 3. Coop – Isolated VM Environments for Running Claude Code and Codex
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/trailofbits/coop">https://github.com/trailofbits/coop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593842">https://news.ycombinator.com/item?id=49593842</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/trailofbits/coop](https://github.com/trailofbits/coop)
-
----
-
-### 4. Watch: Anti-migrant protesters block roads in Portsmouth
+### 4. Watch: Anti-migrant boat protesters block roads in Portsmouth
 
 **Source:** BBC
 
