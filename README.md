@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 16:20:22
+**Last Update:** 2026-09-07 16:37:34
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49597189">https://news.ycombinator.com/item?id=49597189</a></p>
-<p>Points: 58</p>
-<p># Comments: 12</p>
+<p>Points: 60</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
 
@@ -36,8 +36,8 @@
 <p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with "save:false", and the marker then appeared verbatim in the HTML served from the generated "*.codepen.dev preview". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596976">https://news.ycombinator.com/item?id=49596976</a></p>
-<p>Points: 34</p>
-<p># Comments: 13</p>
+<p>Points: 36</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49596976](https://news.ycombinator.com/item?id=49596976)
 
@@ -52,14 +52,14 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/">https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596797">https://news.ycombinator.com/item?id=49596797</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
 
 ---
 
-### 4. How anti-migrant boat protests were organised and who is behind them
+### 4. What we know about anti-migrant protests and organiser Danny Thomas
 
 **Source:** BBC
 
@@ -85,16 +85,16 @@ The cuts come as the carmaker struggles with Chinese competition, US tariffs, an
 
 ---
 
-### 6. Murder arrests over baby girl's death in woodland
+### 6. Chancellor John Healey refuses to rule out tax hikes in October Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say they have arrested two men and two women as part of their investigation.
+John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss)
 
 ---
 
