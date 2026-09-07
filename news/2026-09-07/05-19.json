@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T05:19:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+            "description": "<p>Article URL: <a href=\"https://github.com/Staatsgeheim/MathKernel\">https://github.com/Staatsgeheim/MathKernel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592366\">https://news.ycombinator.com/item?id=49592366</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/Staatsgeheim/MathKernel",
+            "published": "Mon, 07 Sep 2026 00:21:01 +0000",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hard-Chat – A serverless, RAM-only P2P terminal chat",
+            "description": "<p>Article URL: <a href=\"https://github.com/mrhardlint/Hard-Chat\">https://github.com/mrhardlint/Hard-Chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49592210\">https://news.ycombinator.com/item?id=49592210</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/mrhardlint/Hard-Chat",
+            "published": "Sun, 06 Sep 2026 23:59:43 +0000",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making a Python interpreter in 1024 bytes",
+            "description": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 81</p>\n<p># Comments: 28</p>",
+            "url": "https://austinhenley.com/blog/python1024.html",
+            "published": "Sun, 06 Sep 2026 23:14:08 +0000",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+            "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 23:02:45 GMT",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+            "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+            "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 00:57:38 GMT",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+            "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 23:34:18 GMT",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Kenya cracking down on foreign traders and small retailers?",
+            "description": "President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 01:08:55 +0000",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
+            "description": "Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 00:49:33 +0000",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+            "description": "Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 00:20:04 +0000",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T05:19:11+03:30"
+        }
+    ]
+}

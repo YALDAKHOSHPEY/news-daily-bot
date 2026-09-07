@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 04:39:26
+**Last Update:** 2026-09-07 05:19:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Making a Python interpreter in 1024 bytes
+### 1. MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Staatsgeheim/MathKernel">https://github.com/Staatsgeheim/MathKernel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592366">https://news.ycombinator.com/item?id=49592366</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/Staatsgeheim/MathKernel](https://github.com/Staatsgeheim/MathKernel)
+
+---
+
+### 2. Hard-Chat – A serverless, RAM-only P2P terminal chat
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/mrhardlint/Hard-Chat">https://github.com/mrhardlint/Hard-Chat</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592210">https://news.ycombinator.com/item?id=49592210</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/mrhardlint/Hard-Chat](https://github.com/mrhardlint/Hard-Chat)
+
+---
+
+### 3. Making a Python interpreter in 1024 bytes
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://austinhenley.com/blog/python1024.html">https://austinhenley.com/blog/python1024.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591876">https://news.ycombinator.com/item?id=49591876</a></p>
-<p>Points: 57</p>
-<p># Comments: 20</p>
+<p>Points: 81</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://austinhenley.com/blog/python1024.html](https://austinhenley.com/blog/python1024.html)
-
----
-
-### 2. Is mathematics about to enter the conservatory?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mbmccoy.dev/posts/mathematical-conservatory/">https://mbmccoy.dev/posts/mathematical-conservatory/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591793">https://news.ycombinator.com/item?id=49591793</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://mbmccoy.dev/posts/mathematical-conservatory/](https://mbmccoy.dev/posts/mathematical-conservatory/)
-
----
-
-### 3. Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/Liquid_BTC/status/2096696272447218108">https://twitter.com/Liquid_BTC/status/2096696272447218108</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591672">https://news.ycombinator.com/item?id=49591672</a></p>
-<p>Points: 52</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://twitter.com/Liquid_BTC/status/2096696272447218108](https://twitter.com/Liquid_BTC/status/2096696272447218108)
 
 ---
 
@@ -84,20 +84,33 @@ Five people are dead and five seriously injured after a Boeing 767-300 cargo pla
 
 ---
 
-### 6. Zelensky says he expects war to continue into winter after talks with US envoys
+### 6. Chancellor to say UK economy 'turning a corner' despite debt concerns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
+John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Serbia’s Red Star Belgrade honour Ratko Mladic with tifo
+### 7. Why is Kenya cracking down on foreign traders and small retailers?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss)
+
+---
+
+### 8. Serbia’s Red Star Belgrade honour Ratko Mladic with tifo
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade de
 
 ---
 
-### 8. North Korea deploys warship ‘capable of annihilating retaliatory strikes’
+### 9. North Korea deploys warship ‘capable of annihilating retaliatory strikes’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade de
 Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss)
-
----
-
-### 9. Iran war live: Tehran to announce new Hormuz shipping route in coming days
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss)
 
 ---
 
