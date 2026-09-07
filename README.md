@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 21:48:18
+**Last Update:** 2026-09-07 21:58:28
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. PostgreSQL 19 Interactive Tour
+### 1. No constitutional right to clean water, federal court finds
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/">https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600997">https://news.ycombinator.com/item?id=49600997</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/](https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/)
+
+---
+
+### 2. PostgreSQL 19 Interactive Tour
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://victoriametrics.com/blog/postgres-19/index.html">https://victoriametrics.com/blog/postgres-19/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600432">https://news.ycombinator.com/item?id=49600432</a></p>
-<p>Points: 20</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://victoriametrics.com/blog/postgres-19/index.html](https://victoriametrics.com/blog/postgres-19/index.html)
 
 ---
 
-### 2. Tell HN: OpenAI brings back 5 hour limit for plus and business standard users
+### 3. Tell HN: OpenAI brings back 5 hour limit for plus and business standard users
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 <p>In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49600233">https://news.ycombinator.com/item?id=49600233</a></p>
-<p>Points: 77</p>
-<p># Comments: 50</p>
+<p>Points: 87</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49600233](https://news.ycombinator.com/item?id=49600233)
-
----
-
-### 3. Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set">https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49599719">https://news.ycombinator.com/item?id=49599719</a></p>
-<p>Points: 70</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
 
 ---
 
