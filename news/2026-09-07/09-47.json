@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T09:47:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+            "description": "<p>Article URL: <a href=\"https://github.com/timgordontg/engrim\">https://github.com/timgordontg/engrim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594008\">https://news.ycombinator.com/item?id=49594008</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/timgordontg/engrim",
+            "published": "Mon, 07 Sep 2026 04:49:36 +0000",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I refused to train the AI that could replace me",
+            "description": "<p>Article URL: <a href=\"https://restofworld.org/2026/ai-training-jobs-expert-replacement/\">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593959\">https://news.ycombinator.com/item?id=49593959</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+            "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+            "published": "Mon, 07 Sep 2026 04:38:22 +0000",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+            "description": "<p>Article URL: <a href=\"https://github.com/trailofbits/coop\">https://github.com/trailofbits/coop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593842\">https://news.ycombinator.com/item?id=49593842</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/trailofbits/coop",
+            "published": "Mon, 07 Sep 2026 04:18:28 +0000",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Anti-migrant protesters block roads in Portsmouth",
+            "description": "The government condemned \"the intimidating and thuggish behaviour\" of the demonstrators.",
+            "url": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 05:57:30 GMT",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
+            "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+            "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 05:31:06 GMT",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+            "description": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 06:17:08 GMT",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six children among 11 people killed in Indonesian market fire",
+            "description": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 05:37:32 +0000",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ten killed and dozens injured in Mexico fireworks blast",
+            "description": "Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 04:56:51 +0000",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anti-immigration protesters clash with police in UK after boat arrival",
+            "description": "Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 04:55:34 +0000",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T09:47:46+03:30"
+        }
+    ]
+}

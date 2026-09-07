@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 05:19:11
+**Last Update:** 2026-09-07 09:47:46
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server
+### 1. Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Staatsgeheim/MathKernel">https://github.com/Staatsgeheim/MathKernel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592366">https://news.ycombinator.com/item?id=49592366</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://github.com/timgordontg/engrim">https://github.com/timgordontg/engrim</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49594008">https://news.ycombinator.com/item?id=49594008</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/Staatsgeheim/MathKernel](https://github.com/Staatsgeheim/MathKernel)
+🔗 **Read more:** [https://github.com/timgordontg/engrim](https://github.com/timgordontg/engrim)
 
 ---
 
-### 2. Hard-Chat – A serverless, RAM-only P2P terminal chat
+### 2. I refused to train the AI that could replace me
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/mrhardlint/Hard-Chat">https://github.com/mrhardlint/Hard-Chat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49592210">https://news.ycombinator.com/item?id=49592210</a></p>
+<p>Article URL: <a href="https://restofworld.org/2026/ai-training-jobs-expert-replacement/">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593959">https://news.ycombinator.com/item?id=49593959</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://restofworld.org/2026/ai-training-jobs-expert-replacement/](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+
+---
+
+### 3. Coop – Isolated VM Environments for Running Claude Code and Codex
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/trailofbits/coop">https://github.com/trailofbits/coop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593842">https://news.ycombinator.com/item?id=49593842</a></p>
 <p>Points: 5</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/mrhardlint/Hard-Chat](https://github.com/mrhardlint/Hard-Chat)
-
----
-
-### 3. Making a Python interpreter in 1024 bytes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://austinhenley.com/blog/python1024.html">https://austinhenley.com/blog/python1024.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591876">https://news.ycombinator.com/item?id=49591876</a></p>
-<p>Points: 81</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://austinhenley.com/blog/python1024.html](https://austinhenley.com/blog/python1024.html)
+🔗 **Read more:** [https://github.com/trailofbits/coop](https://github.com/trailofbits/coop)
 
 ---
 
-### 4. Germany's far-right AfD set for big win in eastern state, just short of majority
+### 4. Watch: Anti-migrant protesters block roads in Portsmouth
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Germany's AfD hails a "historic result" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.
+The government condemned "the intimidating and thuggish behaviour" of the demonstrators.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Germany's far-right AfD hails big victory in east, but falls short of majority
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Alternative for Germany hails a "historic" success as preliminary results show a big margin of victory with almost 44% of the vote.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Five dead after Amazon cargo plane crashes at Miami airport
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Chancellor to say UK economy 'turning a corner' despite debt concerns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why is Kenya cracking down on foreign traders and small retailers?
+### 7. Six children among 11 people killed in Indonesian market fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Ruto says small businesses should be reserved for Kenyans as his government moves against foreign traders.
+A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss)
 
 ---
 
-### 8. Serbia’s Red Star Belgrade honour Ratko Mladic with tifo
+### 8. Ten killed and dozens injured in Mexico fireworks blast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.
+Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss)
 
 ---
 
-### 9. North Korea deploys warship ‘capable of annihilating retaliatory strikes’
+### 9. Anti-immigration protesters clash with police in UK after boat arrival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.
+Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss)
 
 ---
 
