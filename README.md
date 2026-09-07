@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 01:19:50
+**Last Update:** 2026-09-08 03:20:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Education of a Doomer
+### 1. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603546">https://news.ycombinator.com/item?id=49603546</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
+
+---
+
+### 2. The Education of a Doomer
 
 **Source:** Hacker News
 
@@ -19,42 +36,26 @@
 **Description:**
 <p>Article URL: <a href="https://borretti.me/article/the-education-of-a-doomer">https://borretti.me/article/the-education-of-a-doomer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603092">https://news.ycombinator.com/item?id=49603092</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 45</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://borretti.me/article/the-education-of-a-doomer](https://borretti.me/article/the-education-of-a-doomer)
 
 ---
 
-### 2. Macbeth and His Problems
+### 3. Working on Economics with Fable 5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602716">https://news.ycombinator.com/item?id=49602716</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/">https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603086">https://news.ycombinator.com/item?id=49603086</a></p>
+<p>Points: 33</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://porticoquarterly.com/essay/macbeth-and-his-problems/](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-
----
-
-### 3. A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602582">https://news.ycombinator.com/item?id=49602582</a></p>
-<p>Points: 53</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
+🔗 **Read more:** [https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
 
 ---
 
@@ -97,7 +98,33 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
+### 7. Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss)
+
+---
+
+### 8. Hawaii braces for Hurricane Lowell
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss)
+
+---
+
+### 9. Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss)
-
----
-
-### 8. Indian temple collapses into Ganges as riverbank erodes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss)
-
----
-
-### 9. Israel’s removal of Gaza rubble risk to war crimes evidence: UN
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss)
 
 ---
 
