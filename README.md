@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 23:29:38
+**Last Update:** 2026-09-09 01:39:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Muse: Meta's personal AI agent, features and capabilities
+### 1. Large Language Models Develop Novel Social Biases Through Adaptive Exploration
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=49615537</a></p>
-<p>Points: 74</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://ai.meta.com/muse/](https://ai.meta.com/muse/)
+🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
 ---
 
-### 2. Function Arguments Are Not Function Colors
+### 2. Mercury 2.5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615139">https://news.ycombinator.com/item?id=49615139</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616354">https://news.ycombinator.com/item?id=49616354</a></p>
+<p>Points: 76</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.inceptionlabs.ai/blog/introducing-mercury-2-5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+
+---
+
+### 3. Animation in Bevy: The Big Picture
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://glocq.com/en/blog/20260827/">https://glocq.com/en/blog/20260827/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616272">https://news.ycombinator.com/item?id=49616272</a></p>
+<p>Points: 23</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://jerf.org/iri/post/2026/func_args_are_not_colors/](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
-
----
-
-### 3. ChatGPT Images 2.5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614720">https://news.ycombinator.com/item?id=49614720</a></p>
-<p>Points: 177</p>
-<p># Comments: 217</p>
-
-🔗 **Read more:** [https://openai.com/index/introducing-chatgpt-images-2-5/](https://openai.com/index/introducing-chatgpt-images-2-5/)
+🔗 **Read more:** [https://glocq.com/en/blog/20260827/](https://glocq.com/en/blog/20260827/)
 
 ---
 
@@ -71,68 +71,68 @@ Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansi
 
 ---
 
-### 5. Ports denied request to land 120 migrants in RNLI boats
+### 5. Paul Adams: British-Israeli relations at lowest ebb in decades
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.
+Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump shares misleading video of King and fainting worker
+### 6. More flight delays expected after hundreds cancelled by air traffic control glitch
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.
+Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Philippine defence chief calls out China over note handed to him mid-panel
+### 7. Haaland to the double as Manchester City beat Porto in Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
+Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss)
 
 ---
 
-### 8. Does the UK have a legal obligation to redress the harms of slavery?
+### 8. What the UK ban on goods from illegal Israeli settlements really means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.
+Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss)
 
 ---
 
-### 9. China and Qatar are strengthening bilateral ties: What that really means
+### 9. US warns Ford over ties with Chinese firms amid tensions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.
+US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss](https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss)
 
 ---
 
