@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 15:52:39
+**Last Update:** 2026-09-08 20:15:38
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why getting your hands dirty is good for you
+### 1. Young Americans have never witnessed a functioning foreign policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49608023">https://news.ycombinator.com/item?id=49608023</a></p>
-<p>Points: 68</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc">https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612430">https://news.ycombinator.com/item?id=49612430</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+🔗 **Read more:** [https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc](https://www.ft.com/content/2e97fb28-24cf-4ab0-89b1-454b4f97cdbc)
 
 ---
 
-### 2. Antiquated HTML Snippets and Artefacts
+### 2. LG TVs caught spying even when offline or on standby
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vale.rocks/posts/html-relics">https://vale.rocks/posts/html-relics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607991">https://news.ycombinator.com/item?id=49607991</a></p>
-<p>Points: 70</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus">https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612329">https://news.ycombinator.com/item?id=49612329</a></p>
+<p>Points: 35</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://vale.rocks/posts/html-relics](https://vale.rocks/posts/html-relics)
+🔗 **Read more:** [https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
 
 ---
 
-### 3. Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
+### 3. Why I'm Not Excited About the Graphene OS and Motorola Partnership
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607443">https://news.ycombinator.com/item?id=49607443</a></p>
-<p>Points: 190</p>
-<p># Comments: 166</p>
+<p>Article URL: <a href="https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership">https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49612327">https://news.ycombinator.com/item?id=49612327</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+🔗 **Read more:** [https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership](https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership)
 
 ---
 
-### 4. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
+### 4. Ports denied request to land 120 migrants in RNLI boats
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ A spokesman says they were not told in advance about the letter sent on behalf o
 
 ---
 
-### 5. Nottingham attacks victim's death 'potentially preventable'
+### 6. Renoir paintings worth millions stolen in French museum heist
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.
+It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Monty Don to leave Gardeners' World after more than 20 years
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The presenter said it had been "deeply rewarding" but added that "now is the right time for a change".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Sudan’s healthcare system on brink of collapse, MSF warns
+### 7. UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than a third of Sudan&#039;s health facilities are nonoperational as aid cuts deepen crisis, medical charity says.
+UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss)
 
 ---
 
-### 8. BRICS summit may be the only place another Iran ceasefire can be built
+### 8. Israeli academia accused of systemic apartheid against Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.
+A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss)
 
 ---
 
-### 9. Former Philippines lawmaker arrested for pocketing millions in flood aid
+### 9. LIVE: Real Madrid vs Inter Milan – UEFA Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A former Philippine lawmaker was arrested for allegedly stealing millions of dollars intended for flood control.
+Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss)
 
 ---
 
