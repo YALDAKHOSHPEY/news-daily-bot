@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 15:01:53
+**Last Update:** 2026-09-08 15:52:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49608023">https://news.ycombinator.com/item?id=49608023</a></p>
-<p>Points: 45</p>
-<p># Comments: 23</p>
+<p>Points: 68</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://vale.rocks/posts/html-relics">https://vale.rocks/posts/html-relics</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607991">https://news.ycombinator.com/item?id=49607991</a></p>
-<p>Points: 39</p>
-<p># Comments: 5</p>
+<p>Points: 70</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://vale.rocks/posts/html-relics](https://vale.rocks/posts/html-relics)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607443">https://news.ycombinator.com/item?id=49607443</a></p>
-<p>Points: 153</p>
-<p># Comments: 137</p>
+<p>Points: 190</p>
+<p># Comments: 166</p>
 
 🔗 **Read more:** [https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
 
@@ -84,59 +84,59 @@ The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims 
 
 ---
 
-### 6. Drought and hosepipe bans remain despite wettest week since early February
+### 6. Monty Don to leave Gardeners' World after more than 20 years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Parts of England and Wales have seen more rain than any other week since early February but are still in drought.
+The presenter said it had been "deeply rewarding" but added that "now is the right time for a change".
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. As Sweden heads to polls, Israel and Palestine policies are on the ballot
+### 7. Sudan’s healthcare system on brink of collapse, MSF warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With the left-wing coalition ahead in polling, the current right-wing government&#039;s policies could soon be up for debate.
+More than a third of Sudan&#039;s health facilities are nonoperational as aid cuts deepen crisis, medical charity says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss)
 
 ---
 
-### 8. Saudi political analyst says ‘No prolonged war with the Houthis’
+### 8. BRICS summit may be the only place another Iran ceasefire can be built
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.
+Its members and partners have brokered every ceasefire so far and hold the relationships needed to build the next one.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss)
 
 ---
 
-### 9. ‘Limit overshoot, peak, decline’: A new global goal for climate change?
+### 9. Former Philippines lawmaker arrested for pocketing millions in flood aid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The world agreed to limit temperature rises in 2015; that aim is proving impossible. Is it time for a course correction?
+A former Philippine lawmaker was arrested for allegedly stealing millions of dollars intended for flood control.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/former-philippines-lawmaker-arrested-for-pocketing-millions-in-flood-aid?traffic_source=rss)
 
 ---
 
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 10. Wildfire S7, Broward, Florida
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ The world agreed to limit temperature rises in 2015; that aim is proving impossi
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100)
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 11. Wildfire Needles, Oglala Lakota, South Dakota
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096)
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 12. Incident Complex Rattlesnake Complex, Prairie, Montana
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095)
 
 ---
 
