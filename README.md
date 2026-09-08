@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 23:09:18
+**Last Update:** 2026-09-08 23:29:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT Images 2.5
+### 1. Muse: Meta's personal AI agent, features and capabilities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=49615537</a></p>
+<p>Points: 74</p>
+<p># Comments: 52</p>
+
+🔗 **Read more:** [https://ai.meta.com/muse/](https://ai.meta.com/muse/)
+
+---
+
+### 2. Function Arguments Are Not Function Colors
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615139">https://news.ycombinator.com/item?id=49615139</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://jerf.org/iri/post/2026/func_args_are_not_colors/](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
+
+---
+
+### 3. ChatGPT Images 2.5
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614720">https://news.ycombinator.com/item?id=49614720</a></p>
-<p>Points: 125</p>
-<p># Comments: 104</p>
+<p>Points: 177</p>
+<p># Comments: 217</p>
 
 🔗 **Read more:** [https://openai.com/index/introducing-chatgpt-images-2-5/](https://openai.com/index/introducing-chatgpt-images-2-5/)
-
----
-
-### 2. 100s of flights cancelled at UK airports due to ATC issue
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/live/c6x2z0yy32ejt">https://www.bbc.com/news/live/c6x2z0yy32ejt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614557">https://news.ycombinator.com/item?id=49614557</a></p>
-<p>Points: 21</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/live/c6x2z0yy32ejt](https://www.bbc.com/news/live/c6x2z0yy32ejt)
-
----
-
-### 3. On the Navier–Stokes Millennium Prize Problem
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/navier-stokes-solution/">https://openai.com/index/navier-stokes-solution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613262">https://news.ycombinator.com/item?id=49613262</a></p>
-<p>Points: 614</p>
-<p># Comments: 450</p>
-
-🔗 **Read more:** [https://openai.com/index/navier-stokes-solution/](https://openai.com/index/navier-stokes-solution/)
 
 ---
 
@@ -97,7 +97,20 @@ The president shares a misleading video which appears to show Charles shrugging 
 
 ---
 
-### 7. Does the UK have a legal obligation to redress the harms of slavery?
+### 7. Philippine defence chief calls out China over note handed to him mid-panel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss)
+
+---
+
+### 8. Does the UK have a legal obligation to redress the harms of slavery?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Jamaica petitions the British monarch over questions about the legality of the t
 
 ---
 
-### 8. China and Qatar are strengthening bilateral ties: What that really means
+### 9. China and Qatar are strengthening bilateral ties: What that really means
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Jamaica petitions the British monarch over questions about the legality of the t
 Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss](https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss)
-
----
-
-### 9. Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The phone call comes after US special envoys travelled to Russia and Ukraine to discuss &#039;a proposal to end the war&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss)
 
 ---
 
