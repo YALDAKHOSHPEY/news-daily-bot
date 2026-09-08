@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 11:01:52
+**Last Update:** 2026-09-08 15:01:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. UAE-based Falcon AI NSFW classifier among top global open-source models (2025)
+### 1. Why getting your hands dirty is good for you
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly">https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49606339">https://news.ycombinator.com/item?id=49606339</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49608023">https://news.ycombinator.com/item?id=49608023</a></p>
+<p>Points: 45</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
+🔗 **Read more:** [https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
 
 ---
 
-### 2. Navier-Stokes – Tristan Buckmaster [pdf]
+### 2. Antiquated HTML Snippets and Artefacts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cims.nyu.edu/~tristanb/statement.pdf">https://cims.nyu.edu/~tristanb/statement.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605915">https://news.ycombinator.com/item?id=49605915</a></p>
-<p>Points: 107</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://vale.rocks/posts/html-relics">https://vale.rocks/posts/html-relics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607991">https://news.ycombinator.com/item?id=49607991</a></p>
+<p>Points: 39</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://cims.nyu.edu/~tristanb/statement.pdf](https://cims.nyu.edu/~tristanb/statement.pdf)
+🔗 **Read more:** [https://vale.rocks/posts/html-relics](https://vale.rocks/posts/html-relics)
 
 ---
 
-### 3. Multi-Agents LLM Financial Trading Framework
+### 3. Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/TauricResearch/TradingAgents">https://github.com/TauricResearch/TradingAgents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605822">https://news.ycombinator.com/item?id=49605822</a></p>
-<p>Points: 16</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607443">https://news.ycombinator.com/item?id=49607443</a></p>
+<p>Points: 153</p>
+<p># Comments: 137</p>
 
-🔗 **Read more:** [https://github.com/TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+🔗 **Read more:** [https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
 
 ---
 
-### 4. Fears for children's safety in West Bank school as settler attacks rise
+### 4. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.
+A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. A&E did not get the basics right - my son's life was ruined at 32
+### 5. Nottingham attacks victim's death 'potentially preventable'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.
+The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Canadian counter-tariffs come into force as US trade dispute escalates
+### 6. Drought and hosepipe bans remain despite wettest week since early February
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.
+Parts of England and Wales have seen more rain than any other week since early February but are still in drought.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters
+### 7. As Sweden heads to polls, Israel and Palestine policies are on the ballot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men&#039;s.
+With the left-wing coalition ahead in polling, the current right-wing government&#039;s policies could soon be up for debate.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss)
 
 ---
 
-### 8. Palestine weekly: Israeli ministers push for depopulation of Gaza
+### 8. Saudi political analyst says ‘No prolonged war with the Houthis’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.
+Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss)
 
 ---
 
-### 9. Forest fires force evacuations near resorts in Antalya
+### 9. ‘Limit overshoot, peak, decline’: A new global goal for climate change?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.
+The world agreed to limit temperature rises in 2015; that aim is proving impossible. Is it time for a course correction?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss)
 
 ---
 
