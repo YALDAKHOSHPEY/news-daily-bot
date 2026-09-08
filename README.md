@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 01:39:00
+**Last Update:** 2026-09-09 02:18:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
 ---
 
-### 2. Mercury 2.5
+### 2. How to Build a Printer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616354">https://news.ycombinator.com/item?id=49616354</a></p>
-<p>Points: 76</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617255">https://news.ycombinator.com/item?id=49617255</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.inceptionlabs.ai/blog/introducing-mercury-2-5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+🔗 **Read more:** [https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
 
 ---
 
-### 3. Animation in Bevy: The Big Picture
+### 3. Tao: Open math problems being non-renewably mined by AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://glocq.com/en/blog/20260827/">https://glocq.com/en/blog/20260827/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616272">https://news.ycombinator.com/item?id=49616272</a></p>
-<p>Points: 23</p>
+<p>Article URL: <a href="https://mathstodon.xyz/@tao/117237320796901560">https://mathstodon.xyz/@tao/117237320796901560</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616968">https://news.ycombinator.com/item?id=49616968</a></p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://glocq.com/en/blog/20260827/](https://glocq.com/en/blog/20260827/)
+🔗 **Read more:** [https://mathstodon.xyz/@tao/117237320796901560](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
@@ -97,7 +97,33 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Haaland to the double as Manchester City beat Porto in Champions League
+### 7. What we know about masked anti-migrant protesters in the UK
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of masked men shut down UK ports over the weekend.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss)
+
+---
+
+### 8. Protesters, police clash in Albania over Trump-linked project
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss)
+
+---
+
+### 9. Haaland to the double as Manchester City beat Porto in Champions League
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Departures from a number of airports are affected by a technical problem affecti
 Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss)
-
----
-
-### 8. What the UK ban on goods from illegal Israeli settlements really means
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss)
-
----
-
-### 9. US warns Ford over ties with Chinese firms amid tensions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss)
 
 ---
 

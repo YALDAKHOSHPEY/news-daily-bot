@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T02:18:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+            "description": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617581\">https://news.ycombinator.com/item?id=49617581</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+            "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+            "published": "Tue, 08 Sep 2026 21:47:38 +0000",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Build a Printer",
+            "description": "<p>Article URL: <a href=\"https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617255\">https://news.ycombinator.com/item?id=49617255</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+            "published": "Tue, 08 Sep 2026 21:22:11 +0000",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tao: Open math problems being non-renewably mined by AI",
+            "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://mathstodon.xyz/@tao/117237320796901560",
+            "published": "Tue, 08 Sep 2026 21:00:52 +0000",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 19:11:39 GMT",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+            "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:21 GMT",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What we know about masked anti-migrant protesters in the UK",
+            "description": "Hundreds of masked men shut down UK ports over the weekend.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 22:28:56 +0000",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters, police clash in Albania over Trump-linked project",
+            "description": "Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 22:05:17 +0000",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haaland to the double as Manchester City beat Porto in Champions League",
+            "description": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
+            "url": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 21:46:58 +0000",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T02:18:44+03:30"
+        }
+    ]
+}
