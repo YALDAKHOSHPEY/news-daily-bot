@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 04:03:56
+**Last Update:** 2026-09-08 05:30:20
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. TALA Is Open-Source
+### 1. I've factored the RSA keys of a Certificate Authority from the 90s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mcpherrin.ca/2026/09/07/rsa.html">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49604637">https://news.ycombinator.com/item?id=49604637</a></p>
+<p>Points: 42</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://mcpherrin.ca/2026/09/07/rsa.html](https://mcpherrin.ca/2026/09/07/rsa.html)
+
+---
+
+### 2. Disconnect your LG television from the internet, now
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now">https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49604537">https://news.ycombinator.com/item?id=49604537</a></p>
+<p>Points: 18</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now)
+
+---
+
+### 3. TALA Is Open-Source
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://d2lang.com/blog/tala-is-open-source/">https://d2lang.com/blog/tala-is-open-source/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49604150">https://news.ycombinator.com/item?id=49604150</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://d2lang.com/blog/tala-is-open-source/](https://d2lang.com/blog/tala-is-open-source/)
-
----
-
-### 2. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603546">https://news.ycombinator.com/item?id=49603546</a></p>
-<p>Points: 34</p>
+<p>Points: 80</p>
 <p># Comments: 7</p>
 
-🔗 **Read more:** [https://github.com/Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
-
----
-
-### 3. Working on Economics with Fable 5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/">https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603086">https://news.ycombinator.com/item?id=49603086</a></p>
-<p>Points: 45</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+🔗 **Read more:** [https://d2lang.com/blog/tala-is-open-source/](https://d2lang.com/blog/tala-is-open-source/)
 
 ---
 
@@ -98,42 +97,42 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues
+### 7. EU pledges more than $200m to Greenland amid Trump threats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.
+Brussels has proposed doubling direct EU aid to Greenland under the bloc&#039;s next budget as military exercises kick off.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss)
 
 ---
 
-### 8. Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike
+### 8. IAEA warns over Iran nuclear access as Western powers push UN referral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.
+UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss)
 
 ---
 
-### 9. Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
+### 9. Panama Canal may cut ship traffic further as El Niño strengthens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
+Canal authorities may further reduce ship traffic if a strengthening El Niño worsens the country&#039;s drought.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss)
 
 ---
 

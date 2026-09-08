@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T05:30:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+            "description": "<p>Article URL: <a href=\"https://mcpherrin.ca/2026/09/07/rsa.html\">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604637\">https://news.ycombinator.com/item?id=49604637</a></p>\n<p>Points: 42</p>\n<p># Comments: 1</p>",
+            "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+            "published": "Tue, 08 Sep 2026 01:16:59 +0000",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Disconnect your LG television from the internet, now",
+            "description": "<p>Article URL: <a href=\"https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now\">https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604537\">https://news.ycombinator.com/item?id=49604537</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+            "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
+            "published": "Tue, 08 Sep 2026 01:00:48 +0000",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TALA Is Open-Source",
+            "description": "<p>Article URL: <a href=\"https://d2lang.com/blog/tala-is-open-source/\">https://d2lang.com/blog/tala-is-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604150\">https://news.ycombinator.com/item?id=49604150</a></p>\n<p>Points: 80</p>\n<p># Comments: 7</p>",
+            "url": "https://d2lang.com/blog/tala-is-open-source/",
+            "published": "Mon, 07 Sep 2026 23:37:42 +0000",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+            "description": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 19:04:09 GMT",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+            "description": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 15:20:48 GMT",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King makes clear Harry and Meghan remain non-working royals",
+            "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+            "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 18:23:31 GMT",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU pledges more than $200m to Greenland amid Trump threats",
+            "description": "Brussels has proposed doubling direct EU aid to Greenland under the bloc&#039;s next budget as military exercises kick off.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 01:52:45 +0000",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+            "description": "UN nuclear watchdog urges Iran to cooperate, as Western powers push to refer its nuclear file to the Security Council.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 01:50:37 +0000",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Panama Canal may cut ship traffic further as El Niño strengthens",
+            "description": "Canal authorities may further reduce ship traffic if a strengthening El Niño worsens the country&#039;s drought.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/panama-canal-may-cut-ship-traffic-further-as-el-nio-strengthens?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 01:16:10 +0000",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-08T05:30:20+03:30"
+        }
+    ]
+}
