@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 20:15:38
+**Last Update:** 2026-09-08 20:23:52
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ It is the latest in a string of high-profile art thefts in Europe that has again
 
 ---
 
-### 7. UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
+### 7. Israeli strikes transform Lebanese city into ghost town
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss)
+
+---
+
+### 8. UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seis
 
 ---
 
-### 8. Israeli academia accused of systemic apartheid against Palestinians
+### 9. Israeli academia accused of systemic apartheid against Palestinians
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seis
 A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss)
-
----
-
-### 9. LIVE: Real Madrid vs Inter Milan – UEFA Champions League
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss)
 
 ---
 
