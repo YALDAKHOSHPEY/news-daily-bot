@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T11:01:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+            "description": "<p>Article URL: <a href=\"https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly\">https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49606339\">https://news.ycombinator.com/item?id=49606339</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+            "published": "Tue, 08 Sep 2026 06:39:20 +0000",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+            "description": "<p>Article URL: <a href=\"https://cims.nyu.edu/~tristanb/statement.pdf\">https://cims.nyu.edu/~tristanb/statement.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605915\">https://news.ycombinator.com/item?id=49605915</a></p>\n<p>Points: 107</p>\n<p># Comments: 18</p>",
+            "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+            "published": "Tue, 08 Sep 2026 05:42:28 +0000",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Multi-Agents LLM Financial Trading Framework",
+            "description": "<p>Article URL: <a href=\"https://github.com/TauricResearch/TradingAgents\">https://github.com/TauricResearch/TradingAgents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605822\">https://news.ycombinator.com/item?id=49605822</a></p>\n<p>Points: 16</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/TauricResearch/TradingAgents",
+            "published": "Tue, 08 Sep 2026 05:20:23 +0000",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fears for children's safety in West Bank school as settler attacks rise",
+            "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 06:58:02 GMT",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A&E did not get the basics right - my son's life was ruined at 32",
+            "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 03:49:39 GMT",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
+            "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 04:39:14 GMT",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
+            "description": "Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men&#039;s.",
+            "url": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 06:58:00 +0000",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
+            "description": "Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 05:34:30 +0000",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Forest fires force evacuations near resorts in Antalya",
+            "description": "Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 04:55:59 +0000",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-08T11:01:52+03:30"
+        }
+    ]
+}

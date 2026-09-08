@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 09:37:31
+**Last Update:** 2026-09-08 11:01:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. My Feed, My Way
+### 1. UAE-based Falcon AI NSFW classifier among top global open-source models (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pm.gov.au/media/my-feed-my-way">https://www.pm.gov.au/media/my-feed-my-way</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605782">https://news.ycombinator.com/item?id=49605782</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.pm.gov.au/media/my-feed-my-way](https://www.pm.gov.au/media/my-feed-my-way)
-
----
-
-### 2. Mistral raises €3B to make sovereign, open-weight AI the technology frontier
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605767">https://news.ycombinator.com/item?id=49605767</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly">https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49606339">https://news.ycombinator.com/item?id=49606339</a></p>
+<p>Points: 3</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+🔗 **Read more:** [https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly](https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly)
 
 ---
 
-### 3. We have a year to fix security everywhere
+### 2. Navier-Stokes – Tristan Buckmaster [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jyn.dev/a-year-to-fix-security/">https://jyn.dev/a-year-to-fix-security/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605691">https://news.ycombinator.com/item?id=49605691</a></p>
-<p>Points: 68</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://cims.nyu.edu/~tristanb/statement.pdf">https://cims.nyu.edu/~tristanb/statement.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605915">https://news.ycombinator.com/item?id=49605915</a></p>
+<p>Points: 107</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://jyn.dev/a-year-to-fix-security/](https://jyn.dev/a-year-to-fix-security/)
+🔗 **Read more:** [https://cims.nyu.edu/~tristanb/statement.pdf](https://cims.nyu.edu/~tristanb/statement.pdf)
 
 ---
 
-### 4. UK government expected to announce restrictions on trade with West Bank settlements
+### 3. Multi-Agents LLM Financial Trading Framework
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/TauricResearch/TradingAgents">https://github.com/TauricResearch/TradingAgents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605822">https://news.ycombinator.com/item?id=49605822</a></p>
+<p>Points: 16</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://github.com/TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+
+---
+
+### 4. Fears for children's safety in West Bank school as settler attacks rise
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.
+Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. A&E did not get the basics right - now my son's life is ruined at 32
+### 5. A&E did not get the basics right - my son's life was ruined at 32
 
 **Source:** BBC
 
@@ -84,20 +84,33 @@ Oli's experience is one of a growing number of clinical negligence claims being 
 
 ---
 
-### 6. Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt
+### 6. Canadian counter-tariffs come into force as US trade dispute escalates
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was "intimidating and thuggish".
+The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Palestine weekly: Israeli ministers push for depopulation of Gaza
+### 7. US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men&#039;s.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss)
+
+---
+
+### 8. Palestine weekly: Israeli ministers push for depopulation of Gaza
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ethnic cleansing plans move from slogans to policy proposals, amid West Bank dem
 
 ---
 
-### 8. Forest fires force evacuations near resorts in Antalya
+### 9. Forest fires force evacuations near resorts in Antalya
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ethnic cleansing plans move from slogans to policy proposals, amid West Bank dem
 Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss)
-
----
-
-### 9. Mladic’s funeral: Were no lessons learned?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thirty years of international justice has taught political leaders little.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss)
 
 ---
 
