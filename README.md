@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 15:07:04
+**Last Update:** 2026-09-09 18:24:08
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flock Wants a Closely Surveilled World with No Exit
+### 1. The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit">https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624394">https://news.ycombinator.com/item?id=49624394</a></p>
-<p>Points: 21</p>
+<p>Article URL: <a href="https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html">https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49626634">https://news.ycombinator.com/item?id=49626634</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html](https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html)
+
+---
+
+### 2. Playing whack-a-mole is losing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dadrian.io/blog/posts/whack-a-mole-is-losing/">https://dadrian.io/blog/posts/whack-a-mole-is-losing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49626429">https://news.ycombinator.com/item?id=49626429</a></p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+🔗 **Read more:** [https://dadrian.io/blog/posts/whack-a-mole-is-losing/](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
 
 ---
 
-### 2. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+### 3. What will our economic future look like?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/ckgwy1k42w4o">https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624255">https://news.ycombinator.com/item?id=49624255</a></p>
-<p>Points: 17</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.anthropic.com/institute/econ-scenarios">https://www.anthropic.com/institute/econ-scenarios</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49626373">https://news.ycombinator.com/item?id=49626373</a></p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
-
----
-
-### 3. How An AI math breakthrough ignited a controversy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624163">https://news.ycombinator.com/item?id=49624163</a></p>
-<p>Points: 56</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+🔗 **Read more:** [https://www.anthropic.com/institute/econ-scenarios](https://www.anthropic.com/institute/econ-scenarios)
 
 ---
 
-### 4. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 4. National security can't come at expense of social security, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four victims describe being targeted by criminals and then not being taken seriously by the authorities.
+The prime minister says he will fund defence and get the welfare bill down in "the Labour way".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Oil hits $100 a barrel for first time since July after US and Houthi strikes
+### 5. Police launch criminal investigation into Reform UK donations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
+The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+### 6. Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.
+The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The losers of the US-Canada trade war
+### 7. Hutu and Tutsi: The history behind the divide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The losers of the US-Canada trade war
+How a colonial legacy continues to shape conflict and identity.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss)
 
 ---
 
-### 8. ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
+### 8. What is Jordan’s Al-Azraq base and why is Iran targeting it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.
+Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss)
 
 ---
 
-### 9. Yemen war escalates: Who are the key actors involved?
+### 9. Pakistan all out for 133 in third Test vs England after squad changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Here is a look at the main actors currently involved in the conflict.
+England&#039;s pacers cleaned up Pakistan in 34 overs after the visitors&#039; top five batters failed to score double figures.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T18:24:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
+            "description": "<p>Article URL: <a href=\"https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html\">https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626634\">https://news.ycombinator.com/item?id=49626634</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
+            "published": "Wed, 09 Sep 2026 13:54:48 +0000",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Playing whack-a-mole is losing",
+            "description": "<p>Article URL: <a href=\"https://dadrian.io/blog/posts/whack-a-mole-is-losing/\">https://dadrian.io/blog/posts/whack-a-mole-is-losing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626429\">https://news.ycombinator.com/item?id=49626429</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
+            "published": "Wed, 09 Sep 2026 13:41:53 +0000",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What will our economic future look like?",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/institute/econ-scenarios\">https://www.anthropic.com/institute/econ-scenarios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49626373\">https://news.ycombinator.com/item?id=49626373</a></p>\n<p>Points: 28</p>\n<p># Comments: 16</p>",
+            "url": "https://www.anthropic.com/institute/econ-scenarios",
+            "published": "Wed, 09 Sep 2026 13:38:23 +0000",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "National security can't come at expense of social security, Burnham says",
+            "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 14:53:26 GMT",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 14:40:23 GMT",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+            "description": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
+            "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 13:28:58 GMT",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hutu and Tutsi: The history behind the divide",
+            "description": "How a colonial legacy continues to shape conflict and identity.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 14:22:28 +0000",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+            "description": "Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 14:19:00 +0000",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan all out for 133 in third Test vs England after squad changes",
+            "description": "England&#039;s pacers cleaned up Pakistan in 34 overs after the visitors&#039; top five batters failed to score double figures.",
+            "url": "https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 14:15:26 +0000",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T18:24:08+03:30"
+        }
+    ]
+}
