@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 09:42:11
+**Last Update:** 2026-09-09 13:51:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Navier–Stokes Millennium Prize Problem
+### 1. Gambling with our lives: AI researcher quits Anthropic with warning about safety
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Sep/8/on-navier-stokes/">https://simonwillison.net/2026/Sep/8/on-navier-stokes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621697">https://news.ycombinator.com/item?id=49621697</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/">https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49623306">https://news.ycombinator.com/item?id=49623306</a></p>
+<p>Points: 53</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Sep/8/on-navier-stokes/](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)
+🔗 **Read more:** [https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/)
 
 ---
 
-### 2. A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
+### 2. How GPT‑5.6 Sol helps run quantum computing experiments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621102">https://news.ycombinator.com/item?id=49621102</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://openai.com/index/codex-quantum-computing-experiments/">https://openai.com/index/codex-quantum-computing-experiments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622561">https://news.ycombinator.com/item?id=49622561</a></p>
+<p>Points: 60</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
+🔗 **Read more:** [https://openai.com/index/codex-quantum-computing-experiments/](https://openai.com/index/codex-quantum-computing-experiments/)
 
 ---
 
-### 3. The Nonfiction Book Market is Collapsing?
+### 3. On Really Trying (2009)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing">https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621074">https://news.ycombinator.com/item?id=49621074</a></p>
-<p>Points: 13</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinator.com/item?id=49622305</a></p>
+<p>Points: 53</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
+🔗 **Read more:** [https://gwern.net/on-really-trying](https://gwern.net/on-really-trying)
 
 ---
 
-### 4. Paul Adams: British-Israeli relations at lowest ebb in decades
+### 4. Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
+It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. More flight delays expected after hundreds cancelled by air traffic control glitch
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 5. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Four victims describe being targeted by criminals and then not being taken serio
 
 ---
 
-### 7. Israel’s war leaves Lebanon’s schools balancing students and the displaced
+### 6. Oil hits $100 a barrel for first time since July after US and Houthi strikes
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Schools in Lebanon are set to start on September 15, but many still host people displaced by Israel&#039;s war.
+Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss](https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open
+### 7. Which countries banned goods from settlements but trade with Israel?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pegula claims a 3-6, 6-4, 6-3 win over Navarro in an all-American quarterfinal and will face Sabalenka on Thursday.
+More European countries calling to ban products from illegal settlements, despite sizable overall trade with Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss)
 
 ---
 
-### 9. 600-year-old tomb of pre-Incan Chimu kingdom found in Peru
+### 8. Israeli parties submit slates for October Knesset elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Archaeologists in Peru have uncovered an almost intact Chimu funerary platform.
+Israeli political parties submitted their lists for the October 27 Knesset elections before Tuesday&#039;s deadline.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss)
+
+---
+
+### 9. Authorities in India rescue baby orangutans dumped in forest
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities in India rescue baby orangutans dumped in forest
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss)
 
 ---
 

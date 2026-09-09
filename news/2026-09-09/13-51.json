@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T13:51:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+            "description": "<p>Article URL: <a href=\"https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/\">https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623306\">https://news.ycombinator.com/item?id=49623306</a></p>\n<p>Points: 53</p>\n<p># Comments: 46</p>",
+            "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+            "published": "Wed, 09 Sep 2026 08:43:27 +0000",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/codex-quantum-computing-experiments/\">https://openai.com/index/codex-quantum-computing-experiments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622561\">https://news.ycombinator.com/item?id=49622561</a></p>\n<p>Points: 60</p>\n<p># Comments: 46</p>",
+            "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+            "published": "Wed, 09 Sep 2026 07:22:46 +0000",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "On Really Trying (2009)",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/on-really-trying\">https://gwern.net/on-really-trying</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622305\">https://news.ycombinator.com/item?id=49622305</a></p>\n<p>Points: 53</p>\n<p># Comments: 26</p>",
+            "url": "https://gwern.net/on-really-trying",
+            "published": "Wed, 09 Sep 2026 06:58:44 +0000",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+            "description": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 23:52:28 GMT",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+            "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+            "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+            "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 09:47:39 GMT",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Which countries banned goods from settlements but trade with Israel?",
+            "description": "More European countries calling to ban products from illegal settlements, despite sizable overall trade with Israel.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 09:52:50 +0000",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli parties submit slates for October Knesset elections",
+            "description": "Israeli political parties submitted their lists for the October 27 Knesset elections before Tuesday&#039;s deadline.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 09:51:01 +0000",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Authorities in India rescue baby orangutans dumped in forest",
+            "description": "Authorities in India rescue baby orangutans dumped in forest",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 09:45:17 +0000",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T13:51:38+03:30"
+        }
+    ]
+}
