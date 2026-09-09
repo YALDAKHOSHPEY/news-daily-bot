@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T15:07:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock Wants a Closely Surveilled World with No Exit",
+            "description": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit\">https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624394\">https://news.ycombinator.com/item?id=49624394</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+            "published": "Wed, 09 Sep 2026 10:54:18 +0000",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/ckgwy1k42w4o\">https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624255\">https://news.ycombinator.com/item?id=49624255</a></p>\n<p>Points: 17</p>\n<p># Comments: 23</p>",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+            "published": "Wed, 09 Sep 2026 10:37:16 +0000",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How An AI math breakthrough ignited a controversy",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy\">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624163\">https://news.ycombinator.com/item?id=49624163</a></p>\n<p>Points: 56</p>\n<p># Comments: 28</p>",
+            "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+            "published": "Wed, 09 Sep 2026 10:25:41 +0000",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+            "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+            "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+            "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 09:47:39 GMT",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+            "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 10:46:43 GMT",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The losers of the US-Canada trade war",
+            "description": "The losers of the US-Canada trade war",
+            "url": "https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 10:58:04 +0000",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
+            "description": "UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 10:47:47 +0000",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen war escalates: Who are the key actors involved?",
+            "description": "Here is a look at the main actors currently involved in the conflict.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 10:45:09 +0000",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T15:07:04+03:30"
+        }
+    ]
+}

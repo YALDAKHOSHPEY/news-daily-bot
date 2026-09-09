@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 13:51:38
+**Last Update:** 2026-09-09 15:07:04
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gambling with our lives: AI researcher quits Anthropic with warning about safety
+### 1. Flock Wants a Closely Surveilled World with No Exit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/">https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49623306">https://news.ycombinator.com/item?id=49623306</a></p>
-<p>Points: 53</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit">https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624394">https://news.ycombinator.com/item?id=49624394</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/)
+🔗 **Read more:** [https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
 
 ---
 
-### 2. How GPT‑5.6 Sol helps run quantum computing experiments
+### 2. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/codex-quantum-computing-experiments/">https://openai.com/index/codex-quantum-computing-experiments/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622561">https://news.ycombinator.com/item?id=49622561</a></p>
-<p>Points: 60</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/ckgwy1k42w4o">https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624255">https://news.ycombinator.com/item?id=49624255</a></p>
+<p>Points: 17</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://openai.com/index/codex-quantum-computing-experiments/](https://openai.com/index/codex-quantum-computing-experiments/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o)
 
 ---
 
-### 3. On Really Trying (2009)
+### 3. How An AI math breakthrough ignited a controversy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinator.com/item?id=49622305</a></p>
-<p>Points: 53</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49624163">https://news.ycombinator.com/item?id=49624163</a></p>
+<p>Points: 56</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://gwern.net/on-really-trying](https://gwern.net/on-really-trying)
-
----
-
-### 4. Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
 ---
 
-### 5. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 4. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Four victims describe being targeted by criminals and then not being taken serio
 
 ---
 
-### 6. Oil hits $100 a barrel for first time since July after US and Houthi strikes
+### 5. Oil hits $100 a barrel for first time since July after US and Houthi strikes
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Brent crude - the global benchmark for prices - rises after the US hit five Iran
 
 ---
 
-### 7. Which countries banned goods from settlements but trade with Israel?
+### 6. Anthropic researcher believes more than 10% chance AI 'could kill all humans'
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-More European countries calling to ban products from illegal settlements, despite sizable overall trade with Israel.
+It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/which-countries-banned-goods-from-settlements-but-trade-with-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Israeli parties submit slates for October Knesset elections
+### 7. The losers of the US-Canada trade war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli political parties submitted their lists for the October 27 Knesset elections before Tuesday&#039;s deadline.
+The losers of the US-Canada trade war
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/israeli-parties-submit-slates-for-october-knesset-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/9/9/the-losers-of-the-us-canada-trade-war?traffic_source=rss)
 
 ---
 
-### 9. Authorities in India rescue baby orangutans dumped in forest
+### 8. ‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities in India rescue baby orangutans dumped in forest
+UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/authorities-in-india-rescue-baby-orangutans-dumped-in-forest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss)
+
+---
+
+### 9. Yemen war escalates: Who are the key actors involved?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Here is a look at the main actors currently involved in the conflict.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-war-escalates-who-are-the-key-actors-involved?traffic_source=rss)
 
 ---
 
