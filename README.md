@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 04:49:43
+**Last Update:** 2026-09-09 09:01:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Resigned from Anthropic Today
+### 1. A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xcancel.com/hilbertspaess/status/2097476196791709843#m">https://xcancel.com/hilbertspaess/status/2097476196791709843#m</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621102">https://news.ycombinator.com/item?id=49621102</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://xcancel.com/hilbertspaess/status/2097476196791709843#m](https://xcancel.com/hilbertspaess/status/2097476196791709843#m)
+🔗 **Read more:** [https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en](https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en)
 
 ---
 
-### 2. A Topological Picture Book, Rendered
+### 2. 27.5KB language-agnostic WebGPU syntax highlighter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.ycombinator.com/item?id=49618050</a></p>
+<p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item?id=49619464</a></p>
 <p>Points: 40</p>
-<p># Comments: 5</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://e-infinity.space/picture-book/](https://e-infinity.space/picture-book/)
+🔗 **Read more:** [https://gpu-lexer.vercel.app/](https://gpu-lexer.vercel.app/)
 
 ---
 
-### 3. Large language models develop novel social biases through adaptive exploration
+### 3. I resigned from Anthropic today
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
-<p>Points: 83</p>
-<p># Comments: 44</p>
+<p><a href="https://xcancel.com/hilbertspaess/status/2097476196791709843#m" rel="nofollow">https://xcancel.com/hilbertspaess/status/2097476196791709843...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
+<p>Points: 256</p>
+<p># Comments: 310</p>
 
-🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+🔗 **Read more:** [https://twitter.com/hilbertspaess/status/2097476196791709843#m](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
 
 ---
 
@@ -97,42 +98,42 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Jordanian air defences intercept Iranian missile barrage
+### 7. 600-year-old tomb of pre-Incan Chimu kingdom found in Peru
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Witnesses have captured the moment Jordanian air defence systems intercepted a barrage of Iranian ballistic missiles.
+Archaeologists in Peru have uncovered an almost intact Chimu funerary platform.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss)
 
 ---
 
-### 8. Sharpeville massacre, 66 years on: Families still wait for justice
+### 8. The case for the US going back to the firing squad
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.
+John Malcolm of the Meese Institute tells Al Jazeera that the US should ‘go back to a firing squad’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss)
 
 ---
 
-### 9. Anti-AfD protesters rally in Cologne after far-right election win
+### 9. Cluster munitions kill, wound over 1,000 globally in 2025
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of protesters rallied in Cologne against the AfD after the far-right group&#039;s election victory.
+The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss)
 
 ---
 
