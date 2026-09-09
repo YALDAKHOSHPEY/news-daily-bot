@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-10T03:09:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Air traffic failure was avoidable, says transport secretary",
+            "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 18:21:16 GMT",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+            "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
+            "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 21:23:45 GMT",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says the US-Iran war will end right after midterms",
+            "description": "Seven months after launching the war on Iran, US President Donald Trump says it will end immediately after midterms.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 23:22:46 +0000",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+            "description": "Trump supporters say he can rally Republican voters despite concerns over the unpopular war and rising prices.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 23:15:38 +0000",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
+            "description": "Coco Gauff sets up US Open semifinal with Elena Rybakina after saving two match points against Mirra Andreeva.",
+            "url": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 22:08:01 +0000",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T03:09:31+03:30"
+        }
+    ]
+}
