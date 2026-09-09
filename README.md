@@ -1,60 +1,63 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 21:39:15
+**Last Update:** 2026-09-09 23:24:26
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Introduces AirPods 5
+### 1. iPhone Duo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/">https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630253">https://news.ycombinator.com/item?id=49630253</a></p>
-<p>Points: 36</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
+<p>Points: 336</p>
+<p># Comments: 787</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
 ---
 
-### 2. Apple debuts iPhone 18 Pro and iPhone 18 Pro Max
+### 2. Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630151">https://news.ycombinator.com/item?id=49630151</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Hi HN, I am Dimitris. 
+This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.<p>Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).<p>The agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.<p>Trying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.<p>AI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.<p>I would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.<p>GitHub: <a href="https://github.com/OtoDock/oto-dock" rel="nofollow">https://github.com/OtoDock/oto-dock</a>
+Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
 
 ---
 
-### 3. Qwen 3.8 follows GPT-5.5 Pro reasoning prefills
+### 3. Apple Watch Ultra 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3">https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630026">https://news.ycombinator.com/item?id=49630026</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630583">https://news.ycombinator.com/item?id=49630583</a></p>
+<p>Points: 35</p>
+<p># Comments: 69</p>
 
-🔗 **Read more:** [https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
 
 ---
 
@@ -71,7 +74,20 @@ The investigation, which follows a broadcast by Channel 4 News, is being folded 
 
 ---
 
-### 5. National security can't come at expense of social security, Burnham says
+### 5. Air traffic failure was avoidable, says transport secretary
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. National security can't come at expense of social security, Burnham says
 
 **Source:** BBC
 
@@ -84,55 +100,42 @@ The prime minister says he will fund defence and get the welfare bill down in "t
 
 ---
 
-### 6. Watch: Europe's royalty pay last respects to King Harald V in Norway
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
+### 7. Israeli strike targets home in Gaza’s al-Shati refugee camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.
+An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss)
 
 ---
 
-### 8. Sudanese refugee returning home ’to make buildings for our country’
+### 8. Two rescued after plane makes emergency landing in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.
+Two Belgian nationals were rescued by Turkish authorities after their private aircraft suffered engine failure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss)
 
 ---
 
-### 9. Bombardier looks to hire 500 new workers in US, despite Trump threat
+### 9. China slams US claims of ‘industrial-scale’ AI theft
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Canadian aircraft manufacturer has received support from Republican lawmakers on its economic impact record.
+The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss)
 
 ---
 
