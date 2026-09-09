@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T21:39:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Introduces AirPods 5",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\">https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630253\">https://news.ycombinator.com/item?id=49630253</a></p>\n<p>Points: 36</p>\n<p># Comments: 33</p>",
+            "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+            "published": "Wed, 09 Sep 2026 17:39:24 +0000",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/\">https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630151\">https://news.ycombinator.com/item?id=49630151</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+            "published": "Wed, 09 Sep 2026 17:33:20 +0000",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+            "description": "<p>Article URL: <a href=\"https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3\">https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630026\">https://news.ycombinator.com/item?id=49630026</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+            "published": "Wed, 09 Sep 2026 17:24:28 +0000",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 17:21:14 GMT",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "National security can't come at expense of social security, Burnham says",
+            "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 14:53:26 GMT",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+            "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+            "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 16:36:45 GMT",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
+            "description": "The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.",
+            "url": "https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:47:11 +0000",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudanese refugee returning home ’to make buildings for our country’",
+            "description": "The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:46:44 +0000",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat",
+            "description": "The Canadian aircraft manufacturer has received support from Republican lawmakers on its economic impact record.",
+            "url": "https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:37:50 +0000",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T21:39:15+03:30"
+        }
+    ]
+}

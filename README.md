@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 20:17:54
+**Last Update:** 2026-09-09 21:39:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Defining AI Psychosis. Part 2: "Prolific AI Psychosis"
+### 1. Apple Introduces AirPods 5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific">https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628880">https://news.ycombinator.com/item?id=49628880</a></p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/">https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630253">https://news.ycombinator.com/item?id=49630253</a></p>
+<p>Points: 36</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+
+---
+
+### 2. Apple debuts iPhone 18 Pro and iPhone 18 Pro Max
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630151">https://news.ycombinator.com/item?id=49630151</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
+
+---
+
+### 3. Qwen 3.8 follows GPT-5.5 Pro reasoning prefills
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3">https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630026">https://news.ycombinator.com/item?id=49630026</a></p>
 <p>Points: 15</p>
-<p># Comments: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
-
----
-
-### 2. Anthropic Is Building a Predictive Surveillance System to Monitor Activists
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/">https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628704">https://news.ycombinator.com/item?id=49628704</a></p>
-<p>Points: 135</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
-
----
-
-### 3. Understanding the Recent DDoS Attack Against Read the Docs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/">https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628614">https://news.ycombinator.com/item?id=49628614</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/)
+🔗 **Read more:** [https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)
 
 ---
 
@@ -97,42 +97,42 @@ Tens of thousands of people lined the streets to pay their respects after 13 day
 
 ---
 
-### 7. LIVE: Napoli vs Arsenal – UEFA Champions League
+### 7. Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow live updates from our text commentary stream coverage as favourites Arsenal begin their Champions League season.
+The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss)
 
 ---
 
-### 8. Attackers kill police officer, kidnap teachers in Cameroon’s northwest
+### 8. Sudanese refugee returning home ’to make buildings for our country’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.
+The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Liverpool vs Atletico Madrid – Champions League
+### 9. Bombardier looks to hire 500 new workers in US, despite Trump threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from the league phase clash, including the build-up, analysis and live text commentary of the game.
+The Canadian aircraft manufacturer has received support from Republican lawmakers on its economic impact record.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss)
 
 ---
 
