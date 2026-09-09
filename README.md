@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 23:24:26
+**Last Update:** 2026-09-10 00:51:59
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
-<p>Points: 336</p>
-<p># Comments: 787</p>
+<p>Points: 563</p>
+<p># Comments: 1229</p>
 
 🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
@@ -38,8 +38,8 @@ This is a company OS that I built and use to run my business and anyone can inst
 Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
 
@@ -54,8 +54,8 @@ Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630583">https://news.ycombinator.com/item?id=49630583</a></p>
-<p>Points: 35</p>
-<p># Comments: 69</p>
+<p>Points: 63</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
 
@@ -100,42 +100,42 @@ The prime minister says he will fund defence and get the welfare bill down in "t
 
 ---
 
-### 7. Israeli strike targets home in Gaza’s al-Shati refugee camp
+### 7. Trump says Putin wants to make a deal to end Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli strike devastated a home in Gaza City’s al-Shati refugee camp, heavily damaging surrounding homes.
+US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss)
 
 ---
 
-### 8. Two rescued after plane makes emergency landing in Black Sea
+### 8. Pro-Palestinian protesters oppose Israel embassy opening in Slovenia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Belgian nationals were rescued by Turkish authorities after their private aircraft suffered engine failure.
+Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss)
 
 ---
 
-### 9. China slams US claims of ‘industrial-scale’ AI theft
+### 9. Burnham defends UK ban on Israeli settlement trade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The response comes after three US agencies accused Chinese AI companies of exploiting American AI models.
+UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss)
 
 ---
 
