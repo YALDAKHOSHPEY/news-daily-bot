@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 05:32:25
+**Last Update:** 2026-09-10 09:42:04
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm sorry, you're not going to die from an AI-engineered supervirus
+### 1. OpenAI have no mathematicians capable of understanding what they put out
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from">https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49636906">https://news.ycombinator.com/item?id=49636906</a></p>
-<p>Points: 37</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://mastodon.social/@tristanbuckmaster/117237555794407063">https://mastodon.social/@tristanbuckmaster/117237555794407063</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638622">https://news.ycombinator.com/item?id=49638622</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from)
+🔗 **Read more:** [https://mastodon.social/@tristanbuckmaster/117237555794407063](https://mastodon.social/@tristanbuckmaster/117237555794407063)
 
 ---
 
-### 2. Automattic's board forces CEO Matt Mullenweg into leave of absence
+### 2. OpenAI might have stolen another major proof
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/">https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49636283">https://news.ycombinator.com/item?id=49636283</a></p>
-<p>Points: 27</p>
-<p># Comments: 99</p>
+<p>Article URL: <a href="https://twitter.com/ValerioCapraro/status/2097791836269977996">https://twitter.com/ValerioCapraro/status/2097791836269977996</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638353">https://news.ycombinator.com/item?id=49638353</a></p>
+<p>Points: 70</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+🔗 **Read more:** [https://twitter.com/ValerioCapraro/status/2097791836269977996](https://twitter.com/ValerioCapraro/status/2097791836269977996)
 
 ---
 
-### 3. Blizzard Workers Win Historic Union Contract
+### 3. All grown-ups were once children… but only few of them remember it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers">https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49635384">https://news.ycombinator.com/item?id=49635384</a></p>
-<p>Points: 95</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://mathstodon.xyz/@tao/117244102901892965">https://mathstodon.xyz/@tao/117244102901892965</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638280">https://news.ycombinator.com/item?id=49638280</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
+🔗 **Read more:** [https://mathstodon.xyz/@tao/117244102901892965](https://mathstodon.xyz/@tao/117244102901892965)
 
 ---
 
-### 4. Police launch criminal investigation into Reform UK donations
+### 4. England's mayors to be given power to introduce tourist tax
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
+The government is expected to outline how local leaders will be able to impose levies on overnight stays.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -78,61 +78,61 @@ The investigation, which follows a broadcast by Channel 4 News, is being folded 
 **Category:** world
 
 **Description:**
-The president also tells reporters he does not think oil prices will come down until after the crucial November vote.
+The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Air traffic failure was avoidable, says transport secretary
+### 6. Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.
+He covered many of the subjects he has returned to time and again - with a few surprises thrown in.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pro-Israel Democrat John Fetterman makes video appearance at GOP convention
+### 7. Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pennsylvania senator who has clashed with party over Israel support says he will reject &#039;the extremes and socialism&#039;.
+The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men&#039;s draw.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss)
 
 ---
 
-### 8. Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows
+### 8. Anthropic discloses 4th AI hacking incident as researcher quits over safety
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Federal employees are generally barred from receiving compensation beyond their government salaries.
+Claude Opus 4.6 hacked third-party systems during testing, adding to Anthropic&#039;s mounting security breaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss)
 
 ---
 
-### 9. Spain’s spy agency warned of mass crossings into Ceuta before border crisis
+### 9. Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.
+Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss)
 
 ---
 
