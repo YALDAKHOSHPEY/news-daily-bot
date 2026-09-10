@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 09:42:04
+**Last Update:** 2026-09-10 11:06:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI have no mathematicians capable of understanding what they put out
+### 1. DeepSeek v4.1 Flash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mastodon.social/@tristanbuckmaster/117237555794407063">https://mastodon.social/@tristanbuckmaster/117237555794407063</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638622">https://news.ycombinator.com/item?id=49638622</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://twitter.com/deepseek_ai/status/2097930608790167907">https://twitter.com/deepseek_ai/status/2097930608790167907</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639090">https://news.ycombinator.com/item?id=49639090</a></p>
+<p>Points: 103</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://mastodon.social/@tristanbuckmaster/117237555794407063](https://mastodon.social/@tristanbuckmaster/117237555794407063)
+🔗 **Read more:** [https://twitter.com/deepseek_ai/status/2097930608790167907](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/ValerioCapraro/status/2097791836269977996">https://twitter.com/ValerioCapraro/status/2097791836269977996</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638353">https://news.ycombinator.com/item?id=49638353</a></p>
-<p>Points: 70</p>
-<p># Comments: 8</p>
+<p>Points: 153</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://twitter.com/ValerioCapraro/status/2097791836269977996](https://twitter.com/ValerioCapraro/status/2097791836269977996)
 
@@ -51,53 +51,79 @@
 **Description:**
 <p>Article URL: <a href="https://mathstodon.xyz/@tao/117244102901892965">https://mathstodon.xyz/@tao/117244102901892965</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638280">https://news.ycombinator.com/item?id=49638280</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Points: 89</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://mathstodon.xyz/@tao/117244102901892965](https://mathstodon.xyz/@tao/117244102901892965)
 
 ---
 
-### 4. England's mayors to be given power to introduce tourist tax
+### 4. Trump says every adult American would get $5,000 if Republicans win midterms
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government is expected to outline how local leaders will be able to impose levies on overnight stays.
+Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Is Trump's $5,000 election pledge legal?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. England's mayors to be given power to introduce tourist tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The government is expected to detail how local leaders will be able to impose levies on overnight stays.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Iran war will not end until after November US elections, says Trump
+### 7. Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86
 
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention
-
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-He covered many of the subjects he has returned to time and again - with a few surprises thrown in.
+Harimoto, whose record 3,085 career hits still stands, was inducted into the Japanese Baseball Hall of Fame in 1990.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss)
 
 ---
 
-### 7. Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
+### 8. Europe’s far right: Putin’s best friend?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Its gains threaten to deepen Europe’s divisions over Ukraine and Russia.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss)
+
+---
+
+### 9. Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ He covered many of the subjects he has returned to time and again - with a few s
 The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men&#039;s draw.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss)
-
----
-
-### 8. Anthropic discloses 4th AI hacking incident as researcher quits over safety
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Claude Opus 4.6 hacked third-party systems during testing, adding to Anthropic&#039;s mounting security breaches.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety?traffic_source=rss)
-
----
-
-### 9. Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Yemen&#039;s government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss)
 
 ---
 

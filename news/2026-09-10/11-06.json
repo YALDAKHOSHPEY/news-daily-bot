@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T11:06:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek v4.1 Flash",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/deepseek_ai/status/2097930608790167907\">https://twitter.com/deepseek_ai/status/2097930608790167907</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49639090\">https://news.ycombinator.com/item?id=49639090</a></p>\n<p>Points: 103</p>\n<p># Comments: 13</p>",
+            "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+            "published": "Thu, 10 Sep 2026 06:11:05 +0000",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI might have stolen another major proof",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/ValerioCapraro/status/2097791836269977996\">https://twitter.com/ValerioCapraro/status/2097791836269977996</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49638353\">https://news.ycombinator.com/item?id=49638353</a></p>\n<p>Points: 153</p>\n<p># Comments: 48</p>",
+            "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+            "published": "Thu, 10 Sep 2026 04:19:48 +0000",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "All grown-ups were once children… but only few of them remember it",
+            "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117244102901892965\">https://mathstodon.xyz/@tao/117244102901892965</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49638280\">https://news.ycombinator.com/item?id=49638280</a></p>\n<p>Points: 89</p>\n<p># Comments: 35</p>",
+            "url": "https://mathstodon.xyz/@tao/117244102901892965",
+            "published": "Thu, 10 Sep 2026 04:04:38 +0000",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+            "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+            "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 06:56:38 GMT",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Is Trump's $5,000 election pledge legal?",
+            "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+            "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England's mayors to be given power to introduce tourist tax",
+            "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 07:17:03 GMT",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
+            "description": "Harimoto, whose record 3,085 career hits still stands, was inducted into the Japanese Baseball Hall of Fame in 1990.",
+            "url": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 06:16:36 +0000",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe’s far right: Putin’s best friend?",
+            "description": "Its gains threaten to deepen Europe’s divisions over Ukraine and Russia.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 05:55:57 +0000",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
+            "description": "The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men&#039;s draw.",
+            "url": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 05:33:55 +0000",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T11:06:38+03:30"
+        }
+    ]
+}
