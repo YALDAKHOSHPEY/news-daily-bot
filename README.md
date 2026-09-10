@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 23:24:10
+**Last Update:** 2026-09-11 01:33:48
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Genuine Creativity Is Your New Moat (2026)
+### 1. NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49648732">https://news.ycombinator.com/item?id=49648732</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650418">https://news.ycombinator.com/item?id=49650418</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+
+---
+
+### 2. The part of Navier-Stokes no one is talking about
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
+<p>Points: 39</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+
+---
+
+### 3. Bodily Oddities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://vester.si/bodily-oddities/">https://vester.si/bodily-oddities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649789">https://news.ycombinator.com/item?id=49649789</a></p>
+<p>Points: 6</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
-
----
-
-### 2. JEP 544: Ahead-of-Time Code Compilation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
-<p>Points: 29</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
-
----
-
-### 3. Music Theory for the 21st-Century Classroom
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
-<p>Points: 42</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+🔗 **Read more:** [https://vester.si/bodily-oddities/](https://vester.si/bodily-oddities/)
 
 ---
 
@@ -97,42 +97,42 @@ Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
 ---
 
-### 7. Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
+### 7. Spain’s Parliament backs citizenship for Western Saharans born before 1977
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.
+After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss)
 
 ---
 
-### 8. Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+### 8. LG defends smart-TV features amid audio surveillance allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Report reveals foreign nationals were misled with job offers, then forced into Russia&#039;s army upon arrival.
+Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss)
 
 ---
 
-### 9. Fire onboard ship at Chinese shipyard kills 25 people
+### 9. Peru joins US-led ‘Shield of the Americas’ security alliance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.
+Fujimori administration is latest right-wing government to join alliance for a more aggressive approach against crime.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss)
 
 ---
 
