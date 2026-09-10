@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 11:06:38
+**Last Update:** 2026-09-10 15:05:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek v4.1 Flash
+### 1. Mathematicians want proof OpenAI didn't use their work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/deepseek_ai/status/2097930608790167907">https://twitter.com/deepseek_ai/status/2097930608790167907</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639090">https://news.ycombinator.com/item?id=49639090</a></p>
-<p>Points: 103</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data">https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641792">https://news.ycombinator.com/item?id=49641792</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/deepseek_ai/status/2097930608790167907](https://twitter.com/deepseek_ai/status/2097930608790167907)
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
 
 ---
 
-### 2. OpenAI might have stolen another major proof
+### 2. Thanks to Siri Recaps, your Apple Watch is always listening
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/ValerioCapraro/status/2097791836269977996">https://twitter.com/ValerioCapraro/status/2097791836269977996</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638353">https://news.ycombinator.com/item?id=49638353</a></p>
-<p>Points: 153</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash">https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641401">https://news.ycombinator.com/item?id=49641401</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://twitter.com/ValerioCapraro/status/2097791836269977996](https://twitter.com/ValerioCapraro/status/2097791836269977996)
+🔗 **Read more:** [https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
 
 ---
 
-### 3. All grown-ups were once children… but only few of them remember it
+### 3. PlayStation cancels Kojima's PHYSINT, Xbox steps in
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@tao/117244102901892965">https://mathstodon.xyz/@tao/117244102901892965</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49638280">https://news.ycombinator.com/item?id=49638280</a></p>
-<p>Points: 89</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://twitter.com/hideo_kojima_en/status/2097877506401681753">https://twitter.com/hideo_kojima_en/status/2097877506401681753</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641393">https://news.ycombinator.com/item?id=49641393</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://mathstodon.xyz/@tao/117244102901892965](https://mathstodon.xyz/@tao/117244102901892965)
+🔗 **Read more:** [https://twitter.com/hideo_kojima_en/status/2097877506401681753](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
 
 ---
 
-### 4. Trump says every adult American would get $5,000 if Republicans win midterms
+### 4. England's mayors to be given power to introduce tourist tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump says every adult American would get $5,000 if Republicans win midterm elections
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Speaking at a party convention, the US president gave no details on how the plan
 
 ---
 
-### 5. Watch: Is Trump's $5,000 election pledge legal?
+### 6. Watch: Is Trump's $5,000 election pledge legal?
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The US president has said every American will get $5,000 (£3,700) if the Republ
 
 ---
 
-### 6. England's mayors to be given power to introduce tourist tax
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government is expected to detail how local leaders will be able to impose levies on overnight stays.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86
+### 7. The Houthis are testing the limits of Saudi restraint
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Harimoto, whose record 3,085 career hits still stands, was inducted into the Japanese Baseball Hall of Fame in 1990.
+Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss)
 
 ---
 
-### 8. Europe’s far right: Putin’s best friend?
+### 8. IAEA accuses Iran of ‘noncompliance’: Why, and what now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Its gains threaten to deepen Europe’s divisions over Ukraine and Russia.
+Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss)
 
 ---
 
-### 9. Zverev defeats Van de Zandschulp in straight sets to enter US Open semis
+### 9. Hong Kong court rules Dow Jones tried to stop journalist taking union role
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The German, who faces Russia’s Karen Khachanov, is the only Grand Slam winner left standing in the men&#039;s draw.
+Dow Jones was acquitted of the charge of dismissal over Selina Cheng&#039;s leadership role.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss)
 
 ---
 

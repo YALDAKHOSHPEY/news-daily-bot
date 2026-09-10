@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T15:05:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mathematicians want proof OpenAI didn't use their work",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data\">https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49641792\">https://news.ycombinator.com/item?id=49641792</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+            "published": "Thu, 10 Sep 2026 11:18:58 +0000",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
+            "description": "<p>Article URL: <a href=\"https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash\">https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49641401\">https://news.ycombinator.com/item?id=49641401</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
+            "published": "Thu, 10 Sep 2026 10:36:00 +0000",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PlayStation cancels Kojima's PHYSINT, Xbox steps in",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/hideo_kojima_en/status/2097877506401681753\">https://twitter.com/hideo_kojima_en/status/2097877506401681753</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49641393\">https://news.ycombinator.com/item?id=49641393</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+            "url": "https://twitter.com/hideo_kojima_en/status/2097877506401681753",
+            "published": "Thu, 10 Sep 2026 10:35:09 +0000",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England's mayors to be given power to introduce tourist tax",
+            "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 11:02:47 GMT",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+            "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+            "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 10:07:19 GMT",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Is Trump's $5,000 election pledge legal?",
+            "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+            "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Houthis are testing the limits of Saudi restraint",
+            "description": "Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 11:17:23 +0000",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "IAEA accuses Iran of ‘noncompliance’: Why, and what now?",
+            "description": "Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 10:59:39 +0000",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hong Kong court rules Dow Jones tried to stop journalist taking union role",
+            "description": "Dow Jones was acquitted of the charge of dismissal over Selina Cheng&#039;s leadership role.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 10:48:51 +0000",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T15:05:37+03:30"
+        }
+    ]
+}
