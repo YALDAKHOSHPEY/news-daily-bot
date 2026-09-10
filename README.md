@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 20:03:41
+**Last Update:** 2026-09-10 20:14:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.interconnects.ai/p/one-resignation-turned-the-embers">https://www.interconnects.ai/p/one-resignation-turned-the-embers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646123">https://news.ycombinator.com/item?id=49646123</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.interconnects.ai/p/one-resignation-turned-the-embers](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.thecollector.com/casablanca-unproduced-play-movie-history/">https://www.thecollector.com/casablanca-unproduced-play-movie-history/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49645826">https://news.ycombinator.com/item?id=49645826</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.thecollector.com/casablanca-unproduced-play-movie-history/](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
 
@@ -97,7 +97,20 @@ Speaking at a party convention, the US president gave no details on how the plan
 
 ---
 
-### 7. Oil jumps to $105, pushing up chances of a US interest rate increase
+### 7. Jerusalem Daily: Israeli strikes devastate Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli air strikes have killed and injured dozens across Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss)
+
+---
+
+### 8. Oil jumps to $105, pushing up chances of a US interest rate increase
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Prices spiked as attacks on oil tankers escalated in the Middle East.
 
 ---
 
-### 8. LIVE: Manchester United vs Sabah – UEFA Champions League
+### 9. LIVE: Manchester United vs Sabah – UEFA Champions League
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Prices spiked as attacks on oil tankers escalated in the Middle East.
 Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss)
-
----
-
-### 9. UN expert Albanese, protesters warn against Italy’s anti-Semitism bill
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss)
 
 ---
 

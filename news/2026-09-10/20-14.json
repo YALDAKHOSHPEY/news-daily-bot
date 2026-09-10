@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T20:14:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software Drives People Insane",
+            "description": "<p>Article URL: <a href=\"https://graybeard.ing/software-drives-people-insane/\">https://graybeard.ing/software-drives-people-insane/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49646181\">https://news.ycombinator.com/item?id=49646181</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://graybeard.ing/software-drives-people-insane/",
+            "published": "Thu, 10 Sep 2026 16:13:42 +0000",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One resignation turned the embers of AI fear into a wildfire",
+            "description": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/one-resignation-turned-the-embers\">https://www.interconnects.ai/p/one-resignation-turned-the-embers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49646123\">https://news.ycombinator.com/item?id=49646123</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+            "published": "Thu, 10 Sep 2026 16:09:43 +0000",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Casablanca: How an unproduced play marched into movie history",
+            "description": "<p>Article URL: <a href=\"https://www.thecollector.com/casablanca-unproduced-play-movie-history/\">https://www.thecollector.com/casablanca-unproduced-play-movie-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645826\">https://news.ycombinator.com/item?id=49645826</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+            "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+            "published": "Thu, 10 Sep 2026 15:52:02 +0000",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England's mayors to get power to impose tourist tax",
+            "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 14:46:09 GMT",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 15:56:33 GMT",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+            "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+            "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 13:23:37 GMT",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
+            "description": "Israeli air strikes have killed and injured dozens across Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 16:27:37 +0000",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil jumps to $105, pushing up chances of a US interest rate increase",
+            "description": "Prices spiked as attacks on oil tankers escalated in the Middle East.",
+            "url": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 16:05:06 +0000",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Manchester United vs Sabah – UEFA Champions League",
+            "description": "Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 16:04:07 +0000",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-10T20:14:47+03:30"
+        }
+    ]
+}
