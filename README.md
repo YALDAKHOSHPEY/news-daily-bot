@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 04:44:21
+**Last Update:** 2026-09-10 05:32:25
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Blizzard Workers Win Historic Union Contract
+### 1. I'm sorry, you're not going to die from an AI-engineered supervirus
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from">https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49636906">https://news.ycombinator.com/item?id=49636906</a></p>
+<p>Points: 37</p>
+<p># Comments: 34</p>
+
+🔗 **Read more:** [https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from)
+
+---
+
+### 2. Automattic's board forces CEO Matt Mullenweg into leave of absence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/">https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49636283">https://news.ycombinator.com/item?id=49636283</a></p>
+<p>Points: 27</p>
+<p># Comments: 99</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
+
+---
+
+### 3. Blizzard Workers Win Historic Union Contract
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers">https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49635384">https://news.ycombinator.com/item?id=49635384</a></p>
-<p>Points: 73</p>
-<p># Comments: 4</p>
+<p>Points: 95</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
-
----
-
-### 2. Factoring RSA 260
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cognition.com/blog/factoring-rsa-260">https://cognition.com/blog/factoring-rsa-260</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49633534">https://news.ycombinator.com/item?id=49633534</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://cognition.com/blog/factoring-rsa-260](https://cognition.com/blog/factoring-rsa-260)
-
----
-
-### 3. iPhone Duo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
-<p>Points: 859</p>
-<p># Comments: 1657</p>
-
-🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
 ---
 
@@ -97,42 +97,42 @@ Heidi Alexander orders an investigation into the glitch that caused more than 2,
 
 ---
 
-### 7. Republicans divided over Trump’s economy as RNC begins
+### 7. Pro-Israel Democrat John Fetterman makes video appearance at GOP convention
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican strategist Adolfo Franco and GOP adviser Rina Shah clash over Trump’s handling of the economy.
+Pennsylvania senator who has clashed with party over Israel support says he will reject &#039;the extremes and socialism&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_republicans-divided-over-trumps-economy-as-rnc-090926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_republicans-divided-over-trumps-economy-as-rnc-090926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss)
 
 ---
 
-### 8. Trump administration proposes excluding certain immigrants from US census
+### 8. Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The proposal aims to exclude some legal and undocumented immigrants from the count used to determine US House seats.
+Federal employees are generally barred from receiving compensation beyond their government salaries.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trump-administration-proposes-excluding-certain-immigrants-from-us-census?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trump-administration-proposes-excluding-certain-immigrants-from-us-census?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas
+### 9. Spain’s spy agency warned of mass crossings into Ceuta before border crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says ready for dialogue with nations in the region to &#039;foster mutual trust&#039; and &#039;achieve sustainable security&#039;.
+Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss)
 
 ---
 

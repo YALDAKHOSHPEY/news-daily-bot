@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T05:32:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+            "description": "<p>Article URL: <a href=\"https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from\">https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49636906\">https://news.ycombinator.com/item?id=49636906</a></p>\n<p>Points: 37</p>\n<p># Comments: 34</p>",
+            "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+            "published": "Thu, 10 Sep 2026 01:02:44 +0000",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/\">https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49636283\">https://news.ycombinator.com/item?id=49636283</a></p>\n<p>Points: 27</p>\n<p># Comments: 99</p>",
+            "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+            "published": "Wed, 09 Sep 2026 23:49:29 +0000",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blizzard Workers Win Historic Union Contract",
+            "description": "<p>Article URL: <a href=\"https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers\">https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49635384\">https://news.ycombinator.com/item?id=49635384</a></p>\n<p>Points: 95</p>\n<p># Comments: 17</p>",
+            "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+            "published": "Wed, 09 Sep 2026 22:22:53 +0000",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran war will not end until after November US elections, says Trump",
+            "description": "The president also tells reporters he does not think oil prices will come down until after the crucial November vote.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 23:46:06 GMT",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Air traffic failure was avoidable, says transport secretary",
+            "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 18:21:16 GMT",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+            "description": "Pennsylvania senator who has clashed with party over Israel support says he will reject &#039;the extremes and socialism&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 01:54:05 +0000",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
+            "description": "Federal employees are generally barred from receiving compensation beyond their government salaries.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/trump-gave-aide-natalie-harp-a-45000-holiday-cash-gift-disclosure-shows?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 01:38:43 +0000",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis",
+            "description": "Declassified documents show Madrid and Morocco were warned of plans by migrants to breach the Ceuta border.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/spains-spy-agency-warned-of-mass-migrant-crossing-to-ceuta-before-crisis?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 01:26:46 +0000",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T05:32:25+03:30"
+        }
+    ]
+}
