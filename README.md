@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 15:58:29
+**Last Update:** 2026-09-10 20:03:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thanks to Siri Recaps, your Apple Watch is always listening
+### 1. Software Drives People Insane
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash">https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641401">https://news.ycombinator.com/item?id=49641401</a></p>
-<p>Points: 34</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://graybeard.ing/software-drives-people-insane/">https://graybeard.ing/software-drives-people-insane/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646181">https://news.ycombinator.com/item?id=49646181</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
+🔗 **Read more:** [https://graybeard.ing/software-drives-people-insane/](https://graybeard.ing/software-drives-people-insane/)
 
 ---
 
-### 2. PlayStation cancels Kojima's PHYSINT, Xbox steps in
+### 2. One resignation turned the embers of AI fear into a wildfire
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/hideo_kojima_en/status/2097877506401681753">https://twitter.com/hideo_kojima_en/status/2097877506401681753</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641393">https://news.ycombinator.com/item?id=49641393</a></p>
-<p>Points: 39</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.interconnects.ai/p/one-resignation-turned-the-embers">https://www.interconnects.ai/p/one-resignation-turned-the-embers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646123">https://news.ycombinator.com/item?id=49646123</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://twitter.com/hideo_kojima_en/status/2097877506401681753](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
+🔗 **Read more:** [https://www.interconnects.ai/p/one-resignation-turned-the-embers](https://www.interconnects.ai/p/one-resignation-turned-the-embers)
 
 ---
 
-### 3. Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
+### 3. Casablanca: How an unproduced play marched into movie history
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://honestlyranked.com/guides/streaming-price-increases/">https://honestlyranked.com/guides/streaming-price-increases/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641215">https://news.ycombinator.com/item?id=49641215</a></p>
-<p>Points: 125</p>
-<p># Comments: 126</p>
+<p>Article URL: <a href="https://www.thecollector.com/casablanca-unproduced-play-movie-history/">https://www.thecollector.com/casablanca-unproduced-play-movie-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49645826">https://news.ycombinator.com/item?id=49645826</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://honestlyranked.com/guides/streaming-price-increases/](https://honestlyranked.com/guides/streaming-price-increases/)
+🔗 **Read more:** [https://www.thecollector.com/casablanca-unproduced-play-movie-history/](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
 
 ---
 
-### 4. England's mayors to be given power to introduce tourist tax
+### 4. England's mayors to get power to impose tourist tax
 
 **Source:** BBC
 
@@ -71,7 +71,20 @@ Hospitality leaders warn the uncapped levy would risk jobs and push prices up fo
 
 ---
 
-### 5. Trump says every adult American would get $5,000 if Republicans win midterm elections
+### 5. Oil, gas and borrowing costs surge as fears over Middle East escalate
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump says every adult American would get $5,000 if Republicans win midterm elections
 
 **Source:** BBC
 
@@ -84,59 +97,59 @@ Speaking at a party convention, the US president gave no details on how the plan
 
 ---
 
-### 6. Watch: Is Trump's $5,000 election pledge legal?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. The Houthis are testing the limits of Saudi restraint
+### 7. Oil jumps to $105, pushing up chances of a US interest rate increase
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riyadh needs to restore deterrence without being pulled back into a prolonged Yemen war.
+Prices spiked as attacks on oil tankers escalated in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss)
 
 ---
 
-### 8. IAEA accuses Iran of ‘noncompliance’: Why, and what now?
+### 8. LIVE: Manchester United vs Sabah – UEFA Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nuclear watchdog has gone more than a year without inspecting key sites; Iran says US attacks have made access unsafe.
+Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss)
 
 ---
 
-### 9. Hong Kong court rules Dow Jones tried to stop journalist taking union role
+### 9. UN expert Albanese, protesters warn against Italy’s anti-Semitism bill
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dow Jones was acquitted of the charge of dismissal over Selina Cheng&#039;s leadership role.
+Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss)
 
 ---
 
-### 10. Wildfire S7, Broward, Florida
+### 10. Tropical Storm Norbert
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
+
+---
+
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -145,11 +158,11 @@ Dow Jones was acquitted of the charge of dismissal over Selina Cheng&#039;s lead
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
 
 ---
 
-### 11. Wildfire Needles, Oglala Lakota, South Dakota
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
@@ -158,20 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096)
-
----
-
-### 12. Incident Complex Rattlesnake Complex, Prairie, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 
