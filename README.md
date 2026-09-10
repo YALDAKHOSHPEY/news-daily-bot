@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 22:50:27
+**Last Update:** 2026-09-10 23:24:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49648732">https://news.ycombinator.com/item?id=49648732</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
+<p>Points: 29</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
-<p>Points: 30</p>
-<p># Comments: 11</p>
+<p>Points: 42</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
@@ -97,42 +97,42 @@ Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
 ---
 
-### 7. England close in on Pakistan whitewash in third Test as Robinson shines
+### 7. Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.
+The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss)
 
 ---
 
-### 8. More than a dozen children killed in fire in eastern DR Congo schools
+### 8. Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.
+Report reveals foreign nationals were misled with job offers, then forced into Russia&#039;s army upon arrival.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss)
 
 ---
 
-### 9. Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF
+### 9. Fire onboard ship at Chinese shipyard kills 25 people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 171 million students affected globally with girls disproportionately impacted.
+At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss)
 
 ---
 

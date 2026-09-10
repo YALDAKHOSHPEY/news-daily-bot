@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T23:24:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Genuine Creativity Is Your New Moat (2026)",
+            "description": "<p>Article URL: <a href=\"https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat\">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49648732\">https://news.ycombinator.com/item?id=49648732</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+            "published": "Thu, 10 Sep 2026 19:03:34 +0000",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "JEP 544: Ahead-of-Time Code Compilation",
+            "description": "<p>Article URL: <a href=\"https://openjdk.org/jeps/544\">https://openjdk.org/jeps/544</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647404\">https://news.ycombinator.com/item?id=49647404</a></p>\n<p>Points: 29</p>\n<p># Comments: 15</p>",
+            "url": "https://openjdk.org/jeps/544",
+            "published": "Thu, 10 Sep 2026 17:30:39 +0000",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Music Theory for the 21st-Century Classroom",
+            "description": "<p>Article URL: <a href=\"https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647134\">https://news.ycombinator.com/item?id=49647134</a></p>\n<p>Points: 42</p>\n<p># Comments: 16</p>",
+            "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+            "published": "Thu, 10 Sep 2026 17:14:12 +0000",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour mayors in England vow to cap tourist tax at 5%",
+            "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 16:59:38 GMT",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+            "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 16:57:06 GMT",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC",
+            "description": "The decision follows a year of surging regulatory hurdles over candidate appearances on the Disney-owned network.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/jimmy-kimmel-moves-senate-interview-to-youtube-in-latest-collision-with-fcc?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 19:03:14 +0000",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
+            "description": "Report reveals foreign nationals were misled with job offers, then forced into Russia&#039;s army upon arrival.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 19:02:30 +0000",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire onboard ship at Chinese shipyard kills 25 people",
+            "description": "At least 25 people were killed after a fire broke out aboard a ship at a shipyard in China.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-china-shipyard-fire-clip-mp4?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 18:59:21 +0000",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-10T23:24:10+03:30"
+        }
+    ]
+}
