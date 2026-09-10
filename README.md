@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 15:05:37
+**Last Update:** 2026-09-10 15:58:29
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mathematicians want proof OpenAI didn't use their work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data">https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641792">https://news.ycombinator.com/item?id=49641792</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
-
----
-
-### 2. Thanks to Siri Recaps, your Apple Watch is always listening
+### 1. Thanks to Siri Recaps, your Apple Watch is always listening
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash">https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641401">https://news.ycombinator.com/item?id=49641401</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 34</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash](https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash)
 
 ---
 
-### 3. PlayStation cancels Kojima's PHYSINT, Xbox steps in
+### 2. PlayStation cancels Kojima's PHYSINT, Xbox steps in
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/hideo_kojima_en/status/2097877506401681753">https://twitter.com/hideo_kojima_en/status/2097877506401681753</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641393">https://news.ycombinator.com/item?id=49641393</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Points: 39</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://twitter.com/hideo_kojima_en/status/2097877506401681753](https://twitter.com/hideo_kojima_en/status/2097877506401681753)
+
+---
+
+### 3. Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://honestlyranked.com/guides/streaming-price-increases/">https://honestlyranked.com/guides/streaming-price-increases/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49641215">https://news.ycombinator.com/item?id=49641215</a></p>
+<p>Points: 125</p>
+<p># Comments: 126</p>
+
+🔗 **Read more:** [https://honestlyranked.com/guides/streaming-price-increases/](https://honestlyranked.com/guides/streaming-price-increases/)
 
 ---
 
