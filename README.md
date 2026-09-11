@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 09:45:15
+**Last Update:** 2026-09-11 13:41:37
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Gemini app is now available for Windows
+### 1. Cherenkov Radiation - traveling faster than light
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653699">https://news.ycombinator.com/item?id=49653699</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655286">https://news.ycombinator.com/item?id=49655286</a></p>
+<p>Points: 38</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+🔗 **Read more:** [http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 
 ---
 
-### 2. Exercise intensity is associated with cardiometabolic health
+### 2. Neijuan
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
-<p>Points: 64</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycombinator.com/item?id=49655176</a></p>
+<p>Points: 26</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 
 ---
 
-### 3. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+### 3. CSS Curiosities of the Past
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
-<p>Points: 134</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://vale.rocks/posts/css-relics">https://vale.rocks/posts/css-relics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654962">https://news.ycombinator.com/item?id=49654962</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-
----
-
-### 4. Legalised dying bill for England and Wales faces new vote in Commons
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://vale.rocks/posts/css-relics](https://vale.rocks/posts/css-relics)
 
 ---
 
-### 5. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
+### 4. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
 
 **Source:** BBC
 
@@ -84,7 +71,20 @@ Twenty-five years on, the attacks have come to define a generation of foreign, s
 
 ---
 
-### 6. Anthropic blocks 'malicious use' of AI that could develop biological weapons
+### 5. AI boom helps drive surprise UK growth in July
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Anthropic blocks possible attempt to use AI to make biological weapons
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The revelations in Anthropic's threat intelligence report come after a former to
 
 ---
 
-### 7. Is the US more anti-Muslim now than after 9/11?
+### 7. Japan, India, Ukraine: Why some countries are uneasy about new UN map
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Twenty-five years after 9/11, negative perceptions of Islam persist even as Muslim political representation grows.
+The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss)
 
 ---
 
-### 8. Hundreds flee as fire destroys migrant shelters in Ceuta
+### 8. World Athletics Ultimate Championship opens with record $10m prize pot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.
+The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss)
 
 ---
 
-### 9. How 9/11 conspiracy theories moved into mainstream American politics
+### 9. Pro-Palestine student suspended by King’s College London returns to campus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Social media and distrust of government has helped disinformation reach increasingly large audiences.
+College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss)
 
 ---
 
