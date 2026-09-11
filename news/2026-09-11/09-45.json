@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T09:45:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Gemini app is now available for Windows",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/\">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653699\">https://news.ycombinator.com/item?id=49653699</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+            "published": "Fri, 11 Sep 2026 04:52:20 +0000",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Exercise intensity is associated with cardiometabolic health",
+            "description": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2\">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49653328\">https://news.ycombinator.com/item?id=49653328</a></p>\n<p>Points: 64</p>\n<p># Comments: 29</p>",
+            "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+            "published": "Fri, 11 Sep 2026 03:48:10 +0000",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+            "description": "<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 134</p>\n<p># Comments: 50</p>",
+            "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+            "published": "Fri, 11 Sep 2026 01:00:56 +0000",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Legalised dying bill for England and Wales faces new vote in Commons",
+            "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 06:12:23 GMT",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+            "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 05:53:06 GMT",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+            "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 02:46:30 GMT",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is the US more anti-Muslim now than after 9/11?",
+            "description": "Twenty-five years after 9/11, negative perceptions of Islam persist even as Muslim political representation grows.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 06:00:55 +0000",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds flee as fire destroys migrant shelters in Ceuta",
+            "description": "Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 05:35:12 +0000",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How 9/11 conspiracy theories moved into mainstream American politics",
+            "description": "Social media and distrust of government has helped disinformation reach increasingly large audiences.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 05:30:05 +0000",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T09:45:15+03:30"
+        }
+    ]
+}

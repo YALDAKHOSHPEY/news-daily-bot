@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 08:54:22
+**Last Update:** 2026-09-11 09:45:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Exercise intensity is associated with cardiometabolic health
+### 1. The Gemini app is now available for Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653699">https://news.ycombinator.com/item?id=49653699</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
+
+---
+
+### 2. Exercise intensity is associated with cardiometabolic health
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
-<p>Points: 23</p>
-<p># Comments: 10</p>
+<p>Points: 64</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 
 ---
 
-### 2. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+### 3. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
-<p>Points: 110</p>
-<p># Comments: 43</p>
+<p>Points: 134</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 
 ---
 
-### 3. Herdr Studio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://powerfooI.github.io/herdr-studio/">https://powerfooI.github.io/herdr-studio/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652188">https://news.ycombinator.com/item?id=49652188</a></p>
-<p>Points: 16</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://powerfooI.github.io/herdr-studio/](https://powerfooI.github.io/herdr-studio/)
-
----
-
-### 4. MPs to vote on legalising assisted dying in England and Wales
+### 4. Legalised dying bill for England and Wales faces new vote in Commons
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Twenty-five years on, the attacks have come to define a generation of foreign, s
 
 ---
 
-### 6. Oil, gas and borrowing costs surge as fears over Middle East escalate
+### 6. Anthropic blocks 'malicious use' of AI that could develop biological weapons
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.
+The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Sabalenka beats Pegula to set up Rybakina epic in US Open final
+### 7. Is the US more anti-Muslim now than after 9/11?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aryna Sabalenka beat Jessica Pegula 7-5, 6-2 to reach US Open final with Elena Rybakina, who toppled her as World No 1.
+Twenty-five years after 9/11, negative perceptions of Islam persist even as Muslim political representation grows.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss)
 
 ---
 
-### 8. Anthropic claims Claude AI used for missile projects, global espionage
+### 8. Hundreds flee as fire destroys migrant shelters in Ceuta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.
+Hundreds of people fled a massive fire that destroyed dozens of migrant shelters in Ceuta, Spain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_migrants-flee-as-fire-destroys-shelteres-in-ceuta-110926?traffic_source=rss)
 
 ---
 
-### 9. BRICS red carpet sparks anger in India’s capital
+### 9. How 9/11 conspiracy theories moved into mainstream American politics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Delhi is rolling out the red carpet for BRICS, but blocked roads, evictions and restrictions have caused anger.
+Social media and distrust of government has helped disinformation reach increasingly large audiences.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/how-9-11-conspiracy-theories-moved-into-mainstream-american?traffic_source=rss)
 
 ---
 
