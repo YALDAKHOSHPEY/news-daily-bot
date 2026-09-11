@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T20:08:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hacker News with reduced priority for AI driven content",
+            "description": "<p>Article URL: <a href=\"https://sprinklz.io/public/pdwt4dve5uai\">https://sprinklz.io/public/pdwt4dve5uai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660482\">https://news.ycombinator.com/item?id=49660482</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://sprinklz.io/public/pdwt4dve5uai",
+            "published": "Fri, 11 Sep 2026 15:52:49 +0000",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/\">https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660104\">https://news.ycombinator.com/item?id=49660104</a></p>\n<p>Points: 32</p>\n<p># Comments: 12</p>",
+            "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+            "published": "Fri, 11 Sep 2026 15:29:35 +0000",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Hacker News, without AI",
+            "description": "<p>Article URL: <a href=\"https://hcker.news/?ai=exclude\">https://hcker.news/?ai=exclude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659647\">https://news.ycombinator.com/item?id=49659647</a></p>\n<p>Points: 62</p>\n<p># Comments: 38</p>",
+            "url": "https://hcker.news/?ai=exclude",
+            "published": "Fri, 11 Sep 2026 15:01:19 +0000",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 15:54:46 GMT",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government rejects 'kill switch' idea for dangerous AI",
+            "description": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+            "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 15:07:07 GMT",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kate visits cancer patients in hospital she helped fund with climb",
+            "description": "The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 14:19:21 GMT",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Erdogan: The Making of Modern Turkiye",
+            "description": "An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 16:00:00 +0000",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump pays tribute to the victims of 9/11 at Pentagon ceremony",
+            "description": "US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 15:45:46 +0000",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Philippines ferry fire death toll rises to 35 after bodies recovered",
+            "description": "Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday&#039;s disaster.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 15:41:54 +0000",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T20:08:23+03:30"
+        }
+    ]
+}

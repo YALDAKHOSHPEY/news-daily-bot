@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 18:11:19
+**Last Update:** 2026-09-11 20:08:23
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you
+### 1. Hacker News with reduced priority for AI driven content
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Field-Logic-Ltd/ClaudeStatsBar">https://github.com/Field-Logic-Ltd/ClaudeStatsBar</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658328">https://news.ycombinator.com/item?id=49658328</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://sprinklz.io/public/pdwt4dve5uai">https://sprinklz.io/public/pdwt4dve5uai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49660482">https://news.ycombinator.com/item?id=49660482</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/Field-Logic-Ltd/ClaudeStatsBar](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)
+🔗 **Read more:** [https://sprinklz.io/public/pdwt4dve5uai](https://sprinklz.io/public/pdwt4dve5uai)
 
 ---
 
-### 2. If coding is solved, what now?: Measuring the sloppiness of code
+### 2. Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://earendil.com/posts/measuring-code-sloppiness/">https://earendil.com/posts/measuring-code-sloppiness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658311">https://news.ycombinator.com/item?id=49658311</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/">https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49660104">https://news.ycombinator.com/item?id=49660104</a></p>
+<p>Points: 32</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://earendil.com/posts/measuring-code-sloppiness/](https://earendil.com/posts/measuring-code-sloppiness/)
+🔗 **Read more:** [https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
 
 ---
 
-### 3. Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK
+### 3. Show HN: Hacker News, without AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html">https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658302">https://news.ycombinator.com/item?id=49658302</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://hcker.news/?ai=exclude">https://hcker.news/?ai=exclude</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49659647">https://news.ycombinator.com/item?id=49659647</a></p>
+<p>Points: 62</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
+🔗 **Read more:** [https://hcker.news/?ai=exclude](https://hcker.news/?ai=exclude)
 
 ---
 
-### 4. Anthropic blocks possible attempt to use AI to make biological weapons
+### 4. MPs vote against fresh attempt to legalise assisted dying
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
+The proposed law sought to introduce one of the biggest societal changes in recent years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. AI boom helps drive surprise UK growth in July
+### 5. UK government rejects 'kill switch' idea for dangerous AI
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.
+The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Princess Diana's 'revenge dress' goes up for auction
+### 6. Kate visits cancer patients in hospital she helped fund with climb
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.
+The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza
+### 7. Erdogan: The Making of Modern Turkiye
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.
+An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss)
 
 ---
 
-### 8. Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates
+### 8. Trump pays tribute to the victims of 9/11 at Pentagon ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.
+US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss)
 
 ---
 
-### 9. The vanishing pharmacy of the Sundarbans
+### 9. Philippines ferry fire death toll rises to 35 after bodies recovered
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As rising seas push salt into the world&#039;s largest mangrove, traditional medicinal plants are being lost.
+Coast Guard says 30 more bodies recovered after five people were initially confirmed dead in Wednesday&#039;s disaster.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/11/the-vanishing-pharmacy-of-the-sundarbans?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/11/the-vanishing-pharmacy-of-the-sundarbans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss)
 
 ---
 
