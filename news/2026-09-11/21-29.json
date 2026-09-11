@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T21:29:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+            "description": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://snap.berkeley.edu/",
+            "published": "Fri, 11 Sep 2026 17:36:11 +0000",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+            "description": "<p>Article URL: <a href=\"https://www.getzep.com/careers/\">https://www.getzep.com/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49661645\">https://news.ycombinator.com/item?id=49661645</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.getzep.com/careers/",
+            "published": "Fri, 11 Sep 2026 17:00:17 +0000",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
+            "description": "<p>Article URL: <a href=\"https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000\">https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660884\">https://news.ycombinator.com/item?id=49660884</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
+            "published": "Fri, 11 Sep 2026 16:13:51 +0000",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 17:22:39 GMT",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+            "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:49:47 GMT",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+            "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+            "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:58:34 GMT",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US declares end of largest recorded cyclosporiasis outbreak",
+            "description": "The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 17:35:36 +0000",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK lawmakers vote against bill to legalise assisted dying",
+            "description": "Parliament&#039;s lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 17:31:22 +0000",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rising petrol costs drive sharp inflation increase in US in August",
+            "description": "Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August.",
+            "url": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 17:28:11 +0000",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T21:29:20+03:30"
+        }
+    ]
+}
