@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T23:24:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS' rewritten Messages app is released",
+            "description": "<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+            "published": "Fri, 11 Sep 2026 18:50:36 +0000",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Litelm: LiteLLM Without the Bloat",
+            "description": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+            "url": "https://github.com/kennethwolters/litelm",
+            "published": "Fri, 11 Sep 2026 18:10:20 +0000",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+            "description": "<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 131</p>\n<p># Comments: 83</p>",
+            "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+            "published": "Fri, 11 Sep 2026 18:05:21 +0000",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 17:22:39 GMT",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+            "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:49:47 GMT",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+            "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+            "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 19:16:32 GMT",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+            "description": "Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 19:21:48 +0000",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi advance in Yemen is about more than just the Red Sea",
+            "description": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 19:01:07 +0000",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+            "description": "France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 18:44:57 +0000",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T23:24:11+03:30"
+        }
+    ]
+}

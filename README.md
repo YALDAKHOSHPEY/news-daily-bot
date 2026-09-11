@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 21:29:20
+**Last Update:** 2026-09-11 23:24:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Λ Snap – An inviting programming language for kids and adults for CS study
+### 1. GrapheneOS' rewritten Messages app is released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://snap.berkeley.edu/">https://snap.berkeley.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662214">https://news.ycombinator.com/item?id=49662214</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/GrapheneOS/Messaging/releases/tag/13">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663373">https://news.ycombinator.com/item?id=49663373</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://snap.berkeley.edu/](https://snap.berkeley.edu/)
+🔗 **Read more:** [https://github.com/GrapheneOS/Messaging/releases/tag/13](https://github.com/GrapheneOS/Messaging/releases/tag/13)
 
 ---
 
-### 2. Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering
+### 2. Litelm: LiteLLM Without the Bloat
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.getzep.com/careers/">https://www.getzep.com/careers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49661645">https://news.ycombinator.com/item?id=49661645</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/kennethwolters/litelm">https://github.com/kennethwolters/litelm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662767">https://news.ycombinator.com/item?id=49662767</a></p>
+<p>Points: 34</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.getzep.com/careers/](https://www.getzep.com/careers/)
+🔗 **Read more:** [https://github.com/kennethwolters/litelm](https://github.com/kennethwolters/litelm)
 
 ---
 
-### 3. Triple H Writes Anniversary Story for Spider-Man #1000
+### 3. The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000">https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49660884">https://news.ycombinator.com/item?id=49660884</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://capitalbnews.org/data-centers-permit-rules-epa/">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662672">https://news.ycombinator.com/item?id=49662672</a></p>
+<p>Points: 131</p>
+<p># Comments: 83</p>
 
-🔗 **Read more:** [https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000](https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000)
+🔗 **Read more:** [https://capitalbnews.org/data-centers-permit-rules-epa/](https://capitalbnews.org/data-centers-permit-rules-epa/)
 
 ---
 
@@ -84,55 +84,55 @@ Although supporters say they will try again, for now the momentum has fallen awa
 
 ---
 
-### 6. Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
+### 6. 'Never, ever forget' - America marks 25th anniversary of 9/11 attacks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
+In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US declares end of largest recorded cyclosporiasis outbreak
+### 7. How US leaders remembered the 25th anniversary of the 9/11 attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.
+Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss)
 
 ---
 
-### 8. UK lawmakers vote against bill to legalise assisted dying
+### 8. Houthi advance in Yemen is about more than just the Red Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parliament&#039;s lower ⁠chamber, the House of Commons, rejected the legislation by 286 votes to 270.
+Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss)
 
 ---
 
-### 9. Rising petrol costs drive sharp inflation increase in US in August
+### 9. Real Madrid’s Mbappe: AI dictator memes show lack of political awareness
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August.
+France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss)
 
 ---
 
