@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 00:05:53
+**Last Update:** 2026-09-12 02:11:07
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. NAZA a Devastating Exposé of Israeli Genocidal Policy in Gaza
+### 1. Project Blinkenlights
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://variety.com/2026/film/news/naza-review-1236857356/">https://variety.com/2026/film/news/naza-review-1236857356/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49664530">https://news.ycombinator.com/item?id=49664530</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://blinkenlights.de/en/">https://blinkenlights.de/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666146">https://news.ycombinator.com/item?id=49666146</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://variety.com/2026/film/news/naza-review-1236857356/](https://variety.com/2026/film/news/naza-review-1236857356/)
+🔗 **Read more:** [https://blinkenlights.de/en/](https://blinkenlights.de/en/)
 
 ---
 
-### 2. GrapheneOS' rewritten Messages app is released
+### 2. Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/GrapheneOS/Messaging/releases/tag/13">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663373">https://news.ycombinator.com/item?id=49663373</a></p>
-<p>Points: 61</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://github.com/mirza-rizvi/ResolveHQ">https://github.com/mirza-rizvi/ResolveHQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665864">https://news.ycombinator.com/item?id=49665864</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/GrapheneOS/Messaging/releases/tag/13](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+🔗 **Read more:** [https://github.com/mirza-rizvi/ResolveHQ](https://github.com/mirza-rizvi/ResolveHQ)
 
 ---
 
-### 3. CIA Releases President's Daily Briefs in Commemoration of 9/11
+### 3. GPT-6 built this earth exploration site in 5 prompts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/" rel="nofollow">https://www.cia.gov/stories/story/cia-releases-presidents-da...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663054">https://news.ycombinator.com/item?id=49663054</a></p>
-<p>Points: 36</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://earth.ethanplus.ai/">https://earth.ethanplus.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665756">https://news.ycombinator.com/item?id=49665756</a></p>
+<p>Points: 11</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
+🔗 **Read more:** [https://earth.ethanplus.ai/](https://earth.ethanplus.ai/)
 
 ---
 
@@ -98,42 +97,42 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 
 ---
 
-### 7. Razaullah’s six-hitting debut caps Pakistan’s fightback against England
+### 7. Israeli demolitions threaten schools and homes in Masafer Yatta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.
+Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss](https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss)
 
 ---
 
-### 8. Can BRICS help reshape global order by strengthening emerging economies?
+### 8. Saudi Arabia says East-West pipeline hit by drones launched from Iraq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leaders of BRICS member states are meeting at a summit in New Delhi, India.
+Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss)
 
 ---
 
-### 9. Hot pursuit: Man who robbed Indian bank using chilli powder arrested
+### 9. Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.
+Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss)
 
 ---
 
