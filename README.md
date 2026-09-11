@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 23:24:11
+**Last Update:** 2026-09-12 00:05:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. GrapheneOS' rewritten Messages app is released
+### 1. NAZA a Devastating Exposé of Israeli Genocidal Policy in Gaza
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://variety.com/2026/film/news/naza-review-1236857356/">https://variety.com/2026/film/news/naza-review-1236857356/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49664530">https://news.ycombinator.com/item?id=49664530</a></p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://variety.com/2026/film/news/naza-review-1236857356/](https://variety.com/2026/film/news/naza-review-1236857356/)
+
+---
+
+### 2. GrapheneOS' rewritten Messages app is released
 
 **Source:** Hacker News
 
@@ -19,42 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/GrapheneOS/Messaging/releases/tag/13">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663373">https://news.ycombinator.com/item?id=49663373</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Points: 61</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://github.com/GrapheneOS/Messaging/releases/tag/13](https://github.com/GrapheneOS/Messaging/releases/tag/13)
 
 ---
 
-### 2. Litelm: LiteLLM Without the Bloat
+### 3. CIA Releases President's Daily Briefs in Commemoration of 9/11
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kennethwolters/litelm">https://github.com/kennethwolters/litelm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662767">https://news.ycombinator.com/item?id=49662767</a></p>
-<p>Points: 34</p>
-<p># Comments: 12</p>
+<p><a href="https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/" rel="nofollow">https://www.cia.gov/stories/story/cia-releases-presidents-da...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663054">https://news.ycombinator.com/item?id=49663054</a></p>
+<p>Points: 36</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/kennethwolters/litelm](https://github.com/kennethwolters/litelm)
-
----
-
-### 3. The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://capitalbnews.org/data-centers-permit-rules-epa/">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662672">https://news.ycombinator.com/item?id=49662672</a></p>
-<p>Points: 131</p>
-<p># Comments: 83</p>
-
-🔗 **Read more:** [https://capitalbnews.org/data-centers-permit-rules-epa/](https://capitalbnews.org/data-centers-permit-rules-epa/)
+🔗 **Read more:** [https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/)
 
 ---
 
@@ -97,42 +98,42 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 
 ---
 
-### 7. How US leaders remembered the 25th anniversary of the 9/11 attacks
+### 7. Razaullah’s six-hitting debut caps Pakistan’s fightback against England
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.
+Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss)
 
 ---
 
-### 8. Houthi advance in Yemen is about more than just the Red Sea
+### 8. Can BRICS help reshape global order by strengthening emerging economies?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.
+Leaders of BRICS member states are meeting at a summit in New Delhi, India.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss)
 
 ---
 
-### 9. Real Madrid’s Mbappe: AI dictator memes show lack of political awareness
+### 9. Hot pursuit: Man who robbed Indian bank using chilli powder arrested
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-France international and World Cup record holder Kylian Mbappe speaks out over memes using his image.
+A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss)
 
 ---
 

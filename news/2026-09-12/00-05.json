@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T00:05:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NAZA a Devastating Exposé of Israeli Genocidal Policy in Gaza",
+            "description": "<p>Article URL: <a href=\"https://variety.com/2026/film/news/naza-review-1236857356/\">https://variety.com/2026/film/news/naza-review-1236857356/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49664530\">https://news.ycombinator.com/item?id=49664530</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+            "url": "https://variety.com/2026/film/news/naza-review-1236857356/",
+            "published": "Fri, 11 Sep 2026 20:02:38 +0000",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS' rewritten Messages app is released",
+            "description": "<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 61</p>\n<p># Comments: 21</p>",
+            "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+            "published": "Fri, 11 Sep 2026 18:50:36 +0000",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+            "description": "<p><a href=\"https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/\" rel=\"nofollow\">https://www.cia.gov/stories/story/cia-releases-presidents-da...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663054\">https://news.ycombinator.com/item?id=49663054</a></p>\n<p>Points: 36</p>\n<p># Comments: 11</p>",
+            "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+            "published": "Fri, 11 Sep 2026 18:30:07 +0000",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 17:22:39 GMT",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+            "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:49:47 GMT",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+            "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+            "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 20:12:01 GMT",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+            "description": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 20:07:15 +0000",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+            "description": "Leaders of BRICS member states are meeting at a summit in New Delhi, India.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 20:04:02 +0000",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+            "description": "A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 20:00:55 +0000",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T00:05:53+03:30"
+        }
+    ]
+}
