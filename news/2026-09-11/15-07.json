@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T15:07:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Waymo effect: how AI is quietly making research less collaborative",
+            "description": "<p>Article URL: <a href=\"https://www.researchagenda.news/articles/the-waymo-effect.html\">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656496\">https://news.ycombinator.com/item?id=49656496</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+            "published": "Fri, 11 Sep 2026 11:17:50 +0000",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RTK reports token savings, but our cost benchmarks disagree",
+            "description": "<p>Article URL: <a href=\"https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/\">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656471\">https://news.ycombinator.com/item?id=49656471</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+            "published": "Fri, 11 Sep 2026 11:15:13 +0000",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude is no longer available for minors",
+            "description": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 49</p>\n<p># Comments: 51</p>",
+            "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+            "published": "Fri, 11 Sep 2026 10:48:00 +0000",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+            "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 05:53:06 GMT",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI boom helps drive surprise UK growth in July",
+            "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 10:17:28 GMT",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+            "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiss police report five killed in Dutch tour bus crash",
+            "description": "Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 11:18:08 +0000",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republican midterm message: Democrats are the threat",
+            "description": "Republican speakers portrayed Democrats as a threat to America on night two of their midterm convention in Dallas.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 10:50:33 +0000",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera explains massive Israeli blasts on south Lebanon hill",
+            "description": "Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 10:48:30 +0000",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T15:07:08+03:30"
+        }
+    ]
+}

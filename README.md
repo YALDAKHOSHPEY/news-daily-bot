@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 13:41:37
+**Last Update:** 2026-09-11 15:07:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cherenkov Radiation - traveling faster than light
+### 1. The Waymo effect: how AI is quietly making research less collaborative
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655286">https://news.ycombinator.com/item?id=49655286</a></p>
-<p>Points: 38</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.researchagenda.news/articles/the-waymo-effect.html">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656496">https://news.ycombinator.com/item?id=49656496</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+🔗 **Read more:** [https://www.researchagenda.news/articles/the-waymo-effect.html](https://www.researchagenda.news/articles/the-waymo-effect.html)
 
 ---
 
-### 2. Neijuan
+### 2. RTK reports token savings, but our cost benchmarks disagree
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycombinator.com/item?id=49655176</a></p>
-<p>Points: 26</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Neijuan](https://en.wikipedia.org/wiki/Neijuan)
-
----
-
-### 3. CSS Curiosities of the Past
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vale.rocks/posts/css-relics">https://vale.rocks/posts/css-relics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654962">https://news.ycombinator.com/item?id=49654962</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656471">https://news.ycombinator.com/item?id=49656471</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://vale.rocks/posts/css-relics](https://vale.rocks/posts/css-relics)
+🔗 **Read more:** [https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+
+---
+
+### 3. Claude is no longer available for minors
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49656225">https://news.ycombinator.com/item?id=49656225</a></p>
+<p>Points: 49</p>
+<p># Comments: 51</p>
+
+🔗 **Read more:** [https://support.claude.com/en/articles/15171100-age-assurance-on-claude](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
 
 ---
 
@@ -97,42 +97,42 @@ The revelations in Anthropic's threat intelligence report come after a former to
 
 ---
 
-### 7. Japan, India, Ukraine: Why some countries are uneasy about new UN map
+### 7. Swiss police report five killed in Dutch tour bus crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.
+Bus carrying 45 Dutch tourists overturned and landed in a construction zone near an Alpine village.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/swiss-police-report-five-killed-in-dutch-tour-bus-crash?traffic_source=rss)
 
 ---
 
-### 8. World Athletics Ultimate Championship opens with record $10m prize pot
+### 8. Republican midterm message: Democrats are the threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.
+Republican speakers portrayed Democrats as a threat to America on night two of their midterm convention in Dallas.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/republican-midterm-message-democrats-are-the-threat?traffic_source=rss)
 
 ---
 
-### 9. Pro-Palestine student suspended by King’s College London returns to campus
+### 9. Al Jazeera explains massive Israeli blasts on south Lebanon hill
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.
+Israeli forces say they used more than 1,100 tonnes of explosives to demolish alleged Hezbollah tunnels in south Lebanon
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?traffic_source=rss)
 
 ---
 
