@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T04:46:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google will buy half the electricity of a nuclear power plant",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8r6y4me2g6o\">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652105\">https://news.ycombinator.com/item?id=49652105</a></p>\n<p>Points: 29</p>\n<p># Comments: 22</p>",
+            "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+            "published": "Fri, 11 Sep 2026 00:42:41 +0000",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "YuE2 · Frontier Music with Symbolic Planning",
+            "description": "<p>Article URL: <a href=\"https://map-yue2.github.io/\">https://map-yue2.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652028\">https://news.ycombinator.com/item?id=49652028</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://map-yue2.github.io/",
+            "published": "Fri, 11 Sep 2026 00:33:26 +0000",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Details.so",
+            "description": "<p>Article URL: <a href=\"https://www.details.so/inspo\">https://www.details.so/inspo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49651982\">https://news.ycombinator.com/item?id=49651982</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.details.so/inspo",
+            "published": "Fri, 11 Sep 2026 00:27:10 +0000",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour mayors in England vow to cap tourist tax at 5%",
+            "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 21:22:06 GMT",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+            "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 23:21:00 GMT",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+            "description": "Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 01:07:23 +0000",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Uber pulling out of some African markets?",
+            "description": "Uber’s exits from Nigeria and Uganda highlight the growing challenges of making ride-hailing work in Africa.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 00:51:50 +0000",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
+            "description": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 00:24:24 +0000",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T04:46:03+03:30"
+        }
+    ]
+}

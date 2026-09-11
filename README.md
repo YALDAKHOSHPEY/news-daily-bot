@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 04:09:57
+**Last Update:** 2026-09-11 04:46:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. NTSB issues investigative update on B-767 runway excursion accident in Miami
+### 1. Google will buy half the electricity of a nuclear power plant
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650418">https://news.ycombinator.com/item?id=49650418</a></p>
-<p>Points: 43</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c8r6y4me2g6o">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652105">https://news.ycombinator.com/item?id=49652105</a></p>
+<p>Points: 29</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c8r6y4me2g6o](https://www.bbc.com/news/articles/c8r6y4me2g6o)
 
 ---
 
-### 2. OpenAI’s Navier-Stokes release included a Lean 4 formal proof
+### 2. YuE2 · Frontier Music with Symbolic Planning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
-<p>Points: 128</p>
-<p># Comments: 129</p>
+<p>Article URL: <a href="https://map-yue2.github.io/">https://map-yue2.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652028">https://news.ycombinator.com/item?id=49652028</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+🔗 **Read more:** [https://map-yue2.github.io/](https://map-yue2.github.io/)
 
 ---
 
-### 3. Proof of Capture: Apple Reference Image, but open source and using steganography
+### 3. Details.so
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://merybenavente.me/blog/proof-of-capture">https://merybenavente.me/blog/proof-of-capture</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649222">https://news.ycombinator.com/item?id=49649222</a></p>
-<p>Points: 60</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://www.details.so/inspo">https://www.details.so/inspo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49651982">https://news.ycombinator.com/item?id=49651982</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://merybenavente.me/blog/proof-of-capture](https://merybenavente.me/blog/proof-of-capture)
+🔗 **Read more:** [https://www.details.so/inspo](https://www.details.so/inspo)
 
 ---
 
@@ -97,7 +97,33 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 
 ---
 
-### 7. Iran claims to have captured a US ‘sail drone’ near Hormuz Strait
+### 7. Maduro’s wife seeks home detention as heart condition worsens in US custody
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Her lawyers say Flores needs cardiac treatment and recovery facilities a detention centre cannot provide.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss)
+
+---
+
+### 8. Why is Uber pulling out of some African markets?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Uber’s exits from Nigeria and Uganda highlight the growing challenges of making ride-hailing work in Africa.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets?traffic_source=rss)
+
+---
+
+### 9. Iran claims to have captured a US ‘sail drone’ near Hormuz Strait
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss)
-
----
-
-### 8. Will Trump pay all US adults $5,000? Some Trump supporters are sceptical
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Observers on both sides of the political divide express concern about Trump&#039;s pledge to pay &#039;dividend&#039; for midterm wins.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/will-trump-pay-all-us-adults-5000-some-trump-supporters-are-sceptical?traffic_source=rss)
-
----
-
-### 9. Israeli film on Gaza receives 25-minute ovation at Venice premiere
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Venice Film Festival honours NAZA, an expose on Israel&#039;s use of AI systems in Gaza.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere?traffic_source=rss)
 
 ---
 
