@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 01:55:31
+**Last Update:** 2026-09-13 03:03:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
+### 1. Killing with a car costs $1.6M, California requires drivers to carry $30K
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://maxmautner.com/2026/09/11/liability-coverage.html">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677836">https://news.ycombinator.com/item?id=49677836</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://maxmautner.com/2026/09/11/liability-coverage.html](https://maxmautner.com/2026/09/11/liability-coverage.html)
+
+---
+
+### 2. StarCraft returns in 2030 as an open-world shooter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter">https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677715">https://news.ycombinator.com/item?id=49677715</a></p>
+<p>Points: 26</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+
+---
+
+### 3. OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676849">https://news.ycombinator.com/item?id=49676849</a></p>
-<p>Points: 20</p>
-<p># Comments: 18</p>
+<p>Points: 54</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
-
----
-
-### 2. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
-<p>Points: 37</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
-
----
-
-### 3. Benchmark: CadQuery vs. OpenSCAD for agentic CAD work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://modelrift.com/blog/cadquery-vs-openscad/">https://modelrift.com/blog/cadquery-vs-openscad/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676577">https://news.ycombinator.com/item?id=49676577</a></p>
-<p>Points: 22</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://modelrift.com/blog/cadquery-vs-openscad/](https://modelrift.com/blog/cadquery-vs-openscad/)
 
 ---
 
@@ -71,68 +71,68 @@ The call comes amid growing concerns that AI models may become able to inflict s
 
 ---
 
-### 5. Dramatic insider warnings over AI fall flat with some in Silicon Valley
+### 5. Will the Thirlwall report change the debate about Lucy Letby?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
+The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Reform receives second £36m donation in two days as crypto investor matches record
+### 6. Trump's comments on a united Ireland may have targeted audience across the Atlantic
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party says the money will allow it to fight the next election on a "level playing field", while rivals have renewed calls for donations from individuals to be capped.
+Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. USA edge Spain to book Women’s Basketball World Cup final against France
+### 7. Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.
+Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss)
 
 ---
 
-### 8. First naval battle between drones takes place in the Black Sea
+### 8. Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.
+The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 7-5, 6-2 win in New York as the new world No 1.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss)
 
 ---
 
-### 9. Ebola spreads to seventh DRC province as gov’t insists cases are declining
+### 9. Arteta seethes at Sunderland penalty decision despite Arsenal win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
+Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss)
 
 ---
 

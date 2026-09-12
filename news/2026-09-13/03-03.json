@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T03:03:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
+            "description": "<p>Article URL: <a href=\"https://maxmautner.com/2026/09/11/liability-coverage.html\">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677836\">https://news.ycombinator.com/item?id=49677836</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
+            "published": "Sat, 12 Sep 2026 22:22:31 +0000",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "StarCraft returns in 2030 as an open-world shooter",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter\">https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677715\">https://news.ycombinator.com/item?id=49677715</a></p>\n<p>Points: 26</p>\n<p># Comments: 23</p>",
+            "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+            "published": "Sat, 12 Sep 2026 22:07:19 +0000",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/\">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676849\">https://news.ycombinator.com/item?id=49676849</a></p>\n<p>Points: 54</p>\n<p># Comments: 42</p>",
+            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+            "published": "Sat, 12 Sep 2026 20:28:29 +0000",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+            "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 23:15:54 GMT",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+            "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+            "description": "Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 23:25:22 +0000",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
+            "description": "The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 7-5, 6-2 win in New York as the new world No 1.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 23:14:28 +0000",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
+            "description": "Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 22:51:28 +0000",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T03:03:22+03:30"
+        }
+    ]
+}
