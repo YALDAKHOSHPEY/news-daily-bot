@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 17:45:16
+**Last Update:** 2026-09-12 20:07:10
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Compiler Can Undo Your Security Checks
+### 1. LG responds to TV spying allegations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://davidbombal.com/your-compiler-can-undo-your-security-checks/">https://davidbombal.com/your-compiler-can-undo-your-security-checks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49672474">https://news.ycombinator.com/item?id=49672474</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673392">https://news.ycombinator.com/item?id=49673392</a></p>
+<p>Points: 45</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://davidbombal.com/your-compiler-can-undo-your-security-checks/](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
+🔗 **Read more:** [https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
 
 ---
 
-### 2. My last six months at Evernote
+### 2. Is it time for a Luddite Renaissance?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/">https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49672342">https://news.ycombinator.com/item?id=49672342</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance">https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673281">https://news.ycombinator.com/item?id=49673281</a></p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
+🔗 **Read more:** [https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
 
 ---
 
-### 3. Coding Is Over. Get over It
+### 3. Nvidia is the central bank of AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./">https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49672045">https://news.ycombinator.com/item?id=49672045</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673098">https://news.ycombinator.com/item?id=49673098</a></p>
+<p>Points: 98</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)
+🔗 **Read more:** [https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 ---
 
@@ -84,55 +84,55 @@ As Reform slip back in the polls, Labour and the Conservatives rediscover a fami
 
 ---
 
-### 6. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+### 6. Trump says united Ireland would be 'fantastic' during visit to Dublin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.
+Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will "stick to the Good Friday Agreement".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran-backed Houthis seize strategic Mayun Island: Can they hold it?
+### 7. Will the Houthi attacks activate the Mecca Pact?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The takeover solidifies the group&#039;s position in the Bab al-Mandeb, but holding it long-term could be difficult.
+If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss)
 
 ---
 
-### 8. ‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast
+### 8. DR Congo’s worst Ebola epidemic ever passes 7,000 cases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.
+DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss)
 
 ---
 
-### 9. India’s Modi calls for empowerment of Global South at BRICS Summit
+### 9. US court rejects Trump’s emergency order keeping Michigan coal plant open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s Prime Minister Narendra Modi has called for an overhaul of global governance.
+The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss)
 
 ---
 
