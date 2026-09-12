@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T09:31:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI agents attacked RubyGems back in May",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668914\">https://news.ycombinator.com/item?id=49668914</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+            "published": "Sat, 12 Sep 2026 04:46:43 +0000",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Usenet rewind archive search engine",
+            "description": "<p>Article URL: <a href=\"https://www.usenet-rewind.com/\">https://www.usenet-rewind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668777\">https://news.ycombinator.com/item?id=49668777</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://www.usenet-rewind.com/",
+            "published": "Sat, 12 Sep 2026 04:19:52 +0000",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+            "description": "<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 52</p>\n<p># Comments: 15</p>",
+            "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+            "published": "Sat, 12 Sep 2026 04:09:43 +0000",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives record £36m donation from crypto billionaire",
+            "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 23:27:18 GMT",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+            "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+            "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 04:43:10 GMT",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+            "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘War on terror’: How 9/11 changed the language of conflict",
+            "description": "The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 05:26:05 +0000",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chileans clash over 9/11 military coup legacy",
+            "description": "Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 05:22:29 +0000",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "BRICS meets in India: What’s on the agenda, why it matters",
+            "description": "This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 05:22:09 +0000",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T09:31:44+03:30"
+        }
+    ]
+}

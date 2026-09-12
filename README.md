@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 08:44:41
+**Last Update:** 2026-09-12 09:31:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Usenet rewind archive search engine
+### 1. OpenAI agents attacked RubyGems back in May
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668914">https://news.ycombinator.com/item?id=49668914</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)
+
+---
+
+### 2. Usenet rewind archive search engine
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/item?id=49668777</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 26</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.usenet-rewind.com/](https://www.usenet-rewind.com/)
 
 ---
 
-### 2. Clay Mathematics Institute on the Navier-Stokes Problem
+### 3. Clay Mathematics Institute on the Navier-Stokes Problem
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668706">https://news.ycombinator.com/item?id=49668706</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.claymath.org/news/navier-stokes-announcement/](https://www.claymath.org/news/navier-stokes-announcement/)
-
----
-
-### 3. Google no longer provides direct URLs in search results
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668386">https://news.ycombinator.com/item?id=49668386</a></p>
-<p>Points: 142</p>
-<p># Comments: 74</p>
-
-🔗 **Read more:** [https://www.autom.dev/blog/google-search-goto-links](https://www.autom.dev/blog/google-search-goto-links)
 
 ---
 
@@ -97,42 +97,42 @@ The capture by the rebels of a stretch Yemen's strategic coastline is the group'
 
 ---
 
-### 7. ‘The family paid the price’: India’s deadly online gambling crisis
+### 7. ‘War on terror’: How 9/11 changed the language of conflict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.
+The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss)
 
 ---
 
-### 8. China’s Xi heads to India for BRICS summit overshadowed by wars
+### 8. Chileans clash over 9/11 military coup legacy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.
+Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss)
 
 ---
 
-### 9. A stable Afghanistan post 9/11 is in US interests says former US diplomat
+### 9. BRICS meets in India: What’s on the agenda, why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
+This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss)
 
 ---
 
