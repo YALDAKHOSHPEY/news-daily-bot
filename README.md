@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 04:16:57
+**Last Update:** 2026-09-12 04:48:08
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs
+### 1. Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667375">https://news.ycombinator.com/item?id=49667375</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+
+---
+
+### 2. Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zachsaw/graphify-csharp">https://github.com/zachsaw/graphify-csharp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667188">https://news.ycombinator.com/item?id=49667188</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/zachsaw/graphify-csharp](https://github.com/zachsaw/graphify-csharp)
+
+---
+
+### 3. How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.firecrawl.dev/blog/ai-software-factory">https://www.firecrawl.dev/blog/ai-software-factory</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666960">https://news.ycombinator.com/item?id=49666960</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.firecrawl.dev/blog/ai-software-factory](https://www.firecrawl.dev/blog/ai-software-factory)
-
----
-
-### 2. OpenAI agents carried out an undisclosed attack on RubyGems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.rubyhack.ai/">https://www.rubyhack.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666735">https://news.ycombinator.com/item?id=49666735</a></p>
-<p>Points: 220</p>
-<p># Comments: 110</p>
-
-🔗 **Read more:** [https://www.rubyhack.ai/](https://www.rubyhack.ai/)
-
----
-
-### 3. QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666155">https://news.ycombinator.com/item?id=49666155</a></p>
-<p>Points: 15</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
 
 ---
 
@@ -97,7 +97,33 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 
 ---
 
-### 7. Former top US diplomat reveals mistakes made after 9/11 attacks
+### 7. How Canadians are bracing for the impact of Trump’s trade war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss)
+
+---
+
+### 8. Passenger train derails in France, leaving 44 injured, 1 critical
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French train derailment sparks emergency response, with 130 firefighters and five medical teams dispatched to the scene.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/passenger-train-derails-in-france-leaving-44-injured-1-critical?traffic_source=rss)
+
+---
+
+### 9. Former top US diplomat reveals mistakes made after 9/11 attacks
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 Ambassador Zalmay Khalilzad describes misgivings about the US handling of the Afghanistan and Iraq wars.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss)
-
----
-
-### 8. Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss)
-
----
-
-### 9. UN extends partial Sudan arms embargo for a month
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss)
 
 ---
 
