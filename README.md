@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 20:07:10
+**Last Update:** 2026-09-12 20:48:46
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. LG responds to TV spying allegations
+### 1. Anthropic boss Dario Amodei calls for AI development to slow down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673392">https://news.ycombinator.com/item?id=49673392</a></p>
-<p>Points: 45</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c14dpgm0rg4o">https://www.bbc.com/news/articles/c14dpgm0rg4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674395">https://news.ycombinator.com/item?id=49674395</a></p>
+<p>Points: 8</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c14dpgm0rg4o](https://www.bbc.com/news/articles/c14dpgm0rg4o)
 
 ---
 
-### 2. Is it time for a Luddite Renaissance?
+### 2. Make Your First Edit to OpenStreetMap in the Next 15 Minutes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance">https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673281">https://news.ycombinator.com/item?id=49673281</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
+🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
 
 ---
 
-### 3. Nvidia is the central bank of AI
+### 3. Microcode in Intel's 8087 floating-point chip: the scale instruction
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673098">https://news.ycombinator.com/item?id=49673098</a></p>
-<p>Points: 98</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673580">https://news.ycombinator.com/item?id=49673580</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+🔗 **Read more:** [https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.
+The party says the money will allow it to fight the next election on a "level playing field", while rivals have renewed calls for donations from individuals to be capped.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss)
 
@@ -133,45 +133,6 @@ DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 
 The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Norbert
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
-
----
-
-### 11. Wildfire MEERS, Comanche, Oklahoma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
-
----
-
-### 12. Wildfire Kurk, San Saba, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 
