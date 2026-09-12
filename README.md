@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 09:31:44
+**Last Update:** 2026-09-12 13:16:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI agents attacked RubyGems back in May
+### 1. Retrospectively Reverse-Engineering Apple's Neural Engine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668914">https://news.ycombinator.com/item?id=49668914</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://eiln.github.io/posts/ane.html">https://eiln.github.io/posts/ane.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670032">https://news.ycombinator.com/item?id=49670032</a></p>
+<p>Points: 61</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)
+🔗 **Read more:** [https://eiln.github.io/posts/ane.html](https://eiln.github.io/posts/ane.html)
 
 ---
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/item?id=49668777</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Points: 59</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.usenet-rewind.com/](https://www.usenet-rewind.com/)
 
 ---
 
-### 3. Clay Mathematics Institute on the Navier-Stokes Problem
+### 3. Navier-Stokes Announcement
 
 **Source:** Hacker News
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668706">https://news.ycombinator.com/item?id=49668706</a></p>
-<p>Points: 52</p>
-<p># Comments: 15</p>
+<p>Points: 155</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://www.claymath.org/news/navier-stokes-announcement/](https://www.claymath.org/news/navier-stokes-announcement/)
 
@@ -91,48 +91,48 @@ Iraq removes a military commander and opens investigations into the attack that 
 **Category:** world
 
 **Description:**
-The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.
+The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘War on terror’: How 9/11 changed the language of conflict
+### 7. 9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.
+The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss)
 
 ---
 
-### 8. Chileans clash over 9/11 military coup legacy
+### 8. Guatemalan judge clears deputy minister, three leaders of terrorism charges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.
+Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss)
 
 ---
 
-### 9. BRICS meets in India: What’s on the agenda, why it matters
+### 9. Sweden heads to the polls: What’s at stake in the knife-edge election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.
+Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss)
 
 ---
 
