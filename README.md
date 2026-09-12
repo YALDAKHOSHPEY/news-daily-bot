@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 23:00:45
+**Last Update:** 2026-09-13 00:35:38
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. An open letter to Dario: if you mean it, open the weights
+### 1. Benchmark: CadQuery vs. OpenSCAD for agentic CAD work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676085">https://news.ycombinator.com/item?id=49676085</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://modelrift.com/blog/cadquery-vs-openscad/">https://modelrift.com/blog/cadquery-vs-openscad/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676577">https://news.ycombinator.com/item?id=49676577</a></p>
+<p>Points: 7</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
+🔗 **Read more:** [https://modelrift.com/blog/cadquery-vs-openscad/](https://modelrift.com/blog/cadquery-vs-openscad/)
 
 ---
 
-### 2. Will There Be a 7G?
+### 2. Linux Zoom client proactively reading everything written to X11 clipboard
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hachyderm.io/@simontatham/117201594980991062">https://hachyderm.io/@simontatham/117201594980991062</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49675902">https://news.ycombinator.com/item?id=49675902</a></p>
+<p>Points: 25</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://hachyderm.io/@simontatham/117201594980991062](https://hachyderm.io/@simontatham/117201594980991062)
+
+---
+
+### 3. Will There Be a 7G?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.01877">https://arxiv.org/abs/2609.01877</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674498">https://news.ycombinator.com/item?id=49674498</a></p>
-<p>Points: 40</p>
-<p># Comments: 62</p>
+<p>Points: 58</p>
+<p># Comments: 93</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.01877](https://arxiv.org/abs/2609.01877)
-
----
-
-### 3. Make your first edit to OpenStreetMap
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
-<p>Points: 119</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
 
 ---
 
@@ -97,42 +97,42 @@ Trump made the comments during a meeting with Irish leader Micheál Martin, but 
 
 ---
 
-### 7. Afghan woman deported in first use of US Alien Terrorist Removal Court
+### 7. Ebola spreads to seventh DRC province as gov’t insists cases are declining
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Court was created in 1996, but had never been used before Nazira Haji Zada’s case.
+Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss)
 
 ---
 
-### 8. Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran
+### 8. Second crypto billionaire donates record $49m to far-right Reform UK
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.
+The two donations increase the total sum of money pledged to Reform since Friday to $98m.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss)
 
 ---
 
-### 9. Iran, UAE hold first talks at BRICS summit since conflict began
+### 9. Fire at nursing home in Chile kills 16 elderly residents
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.
+The facility had faced fines and enforcement proceedings over regulatory violations since 2019.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss)
 
 ---
 

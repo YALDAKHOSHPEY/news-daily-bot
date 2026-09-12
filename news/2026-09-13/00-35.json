@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T00:35:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+            "description": "<p>Article URL: <a href=\"https://modelrift.com/blog/cadquery-vs-openscad/\">https://modelrift.com/blog/cadquery-vs-openscad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676577\">https://news.ycombinator.com/item?id=49676577</a></p>\n<p>Points: 7</p>\n<p># Comments: 5</p>",
+            "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+            "published": "Sat, 12 Sep 2026 19:57:19 +0000",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+            "description": "<p>Article URL: <a href=\"https://hachyderm.io/@simontatham/117201594980991062\">https://hachyderm.io/@simontatham/117201594980991062</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49675902\">https://news.ycombinator.com/item?id=49675902</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
+            "url": "https://hachyderm.io/@simontatham/117201594980991062",
+            "published": "Sat, 12 Sep 2026 18:58:57 +0000",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Will There Be a 7G?",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.01877\">https://arxiv.org/abs/2609.01877</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674498\">https://news.ycombinator.com/item?id=49674498</a></p>\n<p>Points: 58</p>\n<p># Comments: 93</p>",
+            "url": "https://arxiv.org/abs/2609.01877",
+            "published": "Sat, 12 Sep 2026 17:05:31 +0000",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+            "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
+            "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:36:45 GMT",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+            "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+            "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 12:51:24 GMT",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+            "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 13:56:20 GMT",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+            "description": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 20:44:18 +0000",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
+            "description": "The two donations increase the total sum of money pledged to Reform since Friday to $98m.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 20:43:57 +0000",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire at nursing home in Chile kills 16 elderly residents",
+            "description": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 20:42:23 +0000",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T00:35:38+03:30"
+        }
+    ]
+}
