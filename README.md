@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 22:21:32
+**Last Update:** 2026-09-12 23:00:45
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic CEO Says It's Time to Slow AI Model Advances
+### 1. An open letter to Dario: if you mean it, open the weights
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models">https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49675247">https://news.ycombinator.com/item?id=49675247</a></p>
-<p>Points: 13</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
-
----
-
-### 2. My favorite sci-fi books about how we build societies and keep justifying them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying">https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674525">https://news.ycombinator.com/item?id=49674525</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676085">https://news.ycombinator.com/item?id=49676085</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying](https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying)
+🔗 **Read more:** [https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
 
 ---
 
-### 3. Will There Be a 7G?
+### 2. Will There Be a 7G?
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.01877">https://arxiv.org/abs/2609.01877</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674498">https://news.ycombinator.com/item?id=49674498</a></p>
-<p>Points: 31</p>
-<p># Comments: 45</p>
+<p>Points: 40</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.01877](https://arxiv.org/abs/2609.01877)
+
+---
+
+### 3. Make your first edit to OpenStreetMap
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
+<p>Points: 119</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
 
 ---
 
@@ -97,42 +97,42 @@ Trump made the comments during a meeting with Irish leader Micheál Martin, but 
 
 ---
 
-### 7. Selling the war: Purges, polygraphs and propaganda
+### 7. Afghan woman deported in first use of US Alien Terrorist Removal Court
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Iran war has become ever more challenging for the Trump administration to sell.
+Court was created in 1996, but had never been used before Nazira Haji Zada’s case.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss)
 
 ---
 
-### 8. India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form
+### 8. Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aiming for a record-extending eighth title, India take on defending champions Sri Lanka in Sunday&#039;s final in Dubai.
+PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss)
 
 ---
 
-### 9. Man arrested over killing of Tasia Fortune, found hanging from tree
+### 9. Iran, UAE hold first talks at BRICS summit since conflict began
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police have arrested a man in connection with the murder of Tasia Fortune, a Black woman found hanging from a tree.
+Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss)
 
 ---
 
