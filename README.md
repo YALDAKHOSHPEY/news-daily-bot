@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 20:48:46
+**Last Update:** 2026-09-12 22:21:32
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic boss Dario Amodei calls for AI development to slow down
+### 1. Anthropic CEO Says It's Time to Slow AI Model Advances
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c14dpgm0rg4o">https://www.bbc.com/news/articles/c14dpgm0rg4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674395">https://news.ycombinator.com/item?id=49674395</a></p>
-<p>Points: 8</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models">https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49675247">https://news.ycombinator.com/item?id=49675247</a></p>
+<p>Points: 13</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c14dpgm0rg4o](https://www.bbc.com/news/articles/c14dpgm0rg4o)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
 
 ---
 
-### 2. Make Your First Edit to OpenStreetMap in the Next 15 Minutes
+### 2. My favorite sci-fi books about how we build societies and keep justifying them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying">https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674525">https://news.ycombinator.com/item?id=49674525</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
+🔗 **Read more:** [https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying](https://bookdna.com/best-books/how-we-build-absurd-societies-and-keep-justifying)
 
 ---
 
-### 3. Microcode in Intel's 8087 floating-point chip: the scale instruction
+### 3. Will There Be a 7G?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673580">https://news.ycombinator.com/item?id=49673580</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.01877">https://arxiv.org/abs/2609.01877</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674498">https://news.ycombinator.com/item?id=49674498</a></p>
+<p>Points: 31</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
+🔗 **Read more:** [https://arxiv.org/abs/2609.01877](https://arxiv.org/abs/2609.01877)
 
 ---
 
@@ -97,42 +97,81 @@ Trump made the comments during a meeting with Irish leader Micheál Martin, but 
 
 ---
 
-### 7. Will the Houthi attacks activate the Mecca Pact?
+### 7. Selling the war: Purges, polygraphs and propaganda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.
+The Iran war has become ever more challenging for the Trump administration to sell.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss)
 
 ---
 
-### 8. DR Congo’s worst Ebola epidemic ever passes 7,000 cases
+### 8. India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.
+Aiming for a record-extending eighth title, India take on defending champions Sri Lanka in Sunday&#039;s final in Dubai.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss)
 
 ---
 
-### 9. US court rejects Trump’s emergency order keeping Michigan coal plant open
+### 9. Man arrested over killing of Tasia Fortune, found hanging from tree
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
+Police have arrested a man in connection with the murder of Tasia Fortune, a Black woman found hanging from a tree.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Norbert
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
+
+---
+
+### 11. Wildfire MEERS, Comanche, Oklahoma
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
+
+---
+
+### 12. Wildfire Kurk, San Saba, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 
