@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 18:00:14
+**Last Update:** 2026-09-13 20:15:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
+### 1. Garry Tan wants US open-weight AI labs to 'distill' frontier models, too
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=xJzrU38pGWc">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684042">https://news.ycombinator.com/item?id=49684042</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685253">https://news.ycombinator.com/item?id=49685253</a></p>
+<p>Points: 35</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=xJzrU38pGWc](https://www.youtube.com/watch?v=xJzrU38pGWc)
+🔗 **Read more:** [https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
 ---
 
-### 2. Your car is selling your data
+### 2. Libraries Run Rust Inside Python (With PyO3)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data">https://www.theverge.com/column/994172/your-car-is-selling-your-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683953">https://news.ycombinator.com/item?id=49683953</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://belderbos.dev/blog/how-libraries-run-rust-inside-python/">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685037">https://news.ycombinator.com/item?id=49685037</a></p>
+<p>Points: 18</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.theverge.com/column/994172/your-car-is-selling-your-data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+🔗 **Read more:** [https://belderbos.dev/blog/how-libraries-run-rust-inside-python/](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
 
 ---
 
-### 3. Flock worker calls police on reporter filming public camera installation
+### 3. Predictive intelligence to anticipate anything.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/">https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683853">https://news.ycombinator.com/item?id=49683853</a></p>
-<p>Points: 74</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://prior.chat/">https://prior.chat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684879">https://news.ycombinator.com/item?id=49684879</a></p>
+<p>Points: 10</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
+🔗 **Read more:** [https://prior.chat/](https://prior.chat/)
 
 ---
 
-### 4. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+### 4. Reform confident it won't need to repay any of £72m under proposed new donor rules
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have "to return that money".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ It comes as the AI firm's boss has called for the technology's development to be
 
 ---
 
-### 5. Reform's £72m donations 'entirely in line with law', Jenrick says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government is trying to change the law on donations to UK political parties from British expats.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Andy Burnham among Great North Run finishers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-This year's event sees 63,000 people take on the half marathon - including the prime minister.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?
+### 7. Ukrainian drone evades Russian helicopter fire to strike oil tanker
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.
+Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss)
 
 ---
 
-### 8. Villagers in India tie technician to cell tower over 5G failure
+### 8. Kosovo approves new government after months of political deadlock
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Villagers in India tie technician to cell tower over 5G failure
+A newly approved government offers Kosovo only brief respite before a contentious presidential vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss)
 
 ---
 
-### 9. Renewed fighting worsens Yemen’s humanitarian crisis
+### 9. F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Renewed fighting worsens Yemen’s humanitarian crisis
+The 20-year-old Italian has extended his championship lead to 81 points after 14 rounds.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss)
 
 ---
 
