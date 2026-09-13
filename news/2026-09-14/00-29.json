@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T00:29:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+            "description": "<p>Article URL: <a href=\"https://pages.cs.wisc.edu/~plonka/netgear-sntp/\">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688391\">https://news.ycombinator.com/item?id=49688391</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+            "published": "Sun, 13 Sep 2026 20:33:18 +0000",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/TechEmails/status/2099214399840059428\">https://twitter.com/TechEmails/status/2099214399840059428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688157\">https://news.ycombinator.com/item?id=49688157</a></p>\n<p>Points: 92</p>\n<p># Comments: 9</p>",
+            "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+            "published": "Sun, 13 Sep 2026 20:08:45 +0000",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There Is No AI (It's Just People) with Jaron Lanier",
+            "description": "<p>Article URL: <a href=\"https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/\">https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49687869\">https://news.ycombinator.com/item?id=49687869</a></p>\n<p>Points: 28</p>\n<p># Comments: 14</p>",
+            "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+            "published": "Sun, 13 Sep 2026 19:41:06 +0000",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Questions mount over what an AI 'slowdown' would look like",
+            "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:20:22 GMT",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+            "description": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 20:33:28 +0000",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US will scrap Irish whisky tariff, Trump says",
+            "description": "The announcement comes several months after the US decreased the tariff by 5 percent.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 20:29:57 +0000",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swedes vote in election that could see far-right in government",
+            "description": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 19:58:11 +0000",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T00:29:07+03:30"
+        }
+    ]
+}
