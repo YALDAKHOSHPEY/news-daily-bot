@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T02:46:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
+            "description": "<p>My buddy, Dario, says agents are getting more aggressive and will soon kill everybody, and I feel like I've seen this movie before.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688761\">https://news.ycombinator.com/item?id=49688761</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+            "url": "https://news.ycombinator.com/item?id=49688761",
+            "published": "Sun, 13 Sep 2026 21:13:13 +0000",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+            "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 226</p>\n<p># Comments: 72</p>",
+            "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+            "published": "Sun, 13 Sep 2026 21:06:13 +0000",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+            "description": "<p>Article URL: <a href=\"https://pages.cs.wisc.edu/~plonka/netgear-sntp/\">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688391\">https://news.ycombinator.com/item?id=49688391</a></p>\n<p>Points: 31</p>\n<p># Comments: 2</p>",
+            "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+            "published": "Sun, 13 Sep 2026 20:33:18 +0000",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Culture shift' needed in how UK does business, PM urges",
+            "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+            "description": "Germany&#039;s Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men&#039;s singles trophy in New York.",
+            "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 22:33:34 +0000",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could AI really kill us within a decade?",
+            "description": "AI companies are warning that their technology could wipe out humanity.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 22:17:15 +0000",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+            "description": "Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.",
+            "url": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 22:10:04 +0000",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T02:46:22+03:30"
+        }
+    ]
+}
