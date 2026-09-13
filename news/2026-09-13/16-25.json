@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T16:25:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+            "description": "<p>Article URL: <a href=\"https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet\">https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683033\">https://news.ycombinator.com/item?id=49683033</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+            "published": "Sun, 13 Sep 2026 12:01:52 +0000",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+            "description": "<p>Article URL: <a href=\"https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/\">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49682319\">https://news.ycombinator.com/item?id=49682319</a></p>\n<p>Points: 83</p>\n<p># Comments: 90</p>",
+            "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+            "published": "Sun, 13 Sep 2026 10:29:18 +0000",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Revolut confirms customer data breach through fake government requests",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/\">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49682087\">https://news.ycombinator.com/item?id=49682087</a></p>\n<p>Points: 50</p>\n<p># Comments: 42</p>",
+            "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+            "published": "Sun, 13 Sep 2026 09:59:58 +0000",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 11:13:07 GMT",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+            "description": "The government is trying to change the law on donations to UK political parties from British expats.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 12:05:43 GMT",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+            "description": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.",
+            "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 11:16:06 GMT",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Houthis’ escalation in Yemen could flop",
+            "description": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 12:39:50 +0000",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Manchester United vs Manchester City – Premier League",
+            "description": "Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 12:31:30 +0000",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India vs Sri Lanka live: Asia Cup final",
+            "description": "Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 12:06:09 +0000",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T16:25:29+03:30"
+        }
+    ]
+}

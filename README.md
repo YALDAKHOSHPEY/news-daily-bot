@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 13:55:10
+**Last Update:** 2026-09-13 16:25:29
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Norton Neo Browser
+### 1. 'Fingerprints' inside the Sun could reveal if it once swallowed a planet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neobrowser.ai/">https://neobrowser.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681724">https://news.ycombinator.com/item?id=49681724</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet">https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683033">https://news.ycombinator.com/item?id=49683033</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://neobrowser.ai/](https://neobrowser.ai/)
+🔗 **Read more:** [https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
 
 ---
 
-### 2. JetKVM Mini
+### 2. Nvidia dismisses "circular financing", says every $1 it invests brings back $100
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681152">https://news.ycombinator.com/item?id=49681152</a></p>
-<p>Points: 106</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682319">https://news.ycombinator.com/item?id=49682319</a></p>
+<p>Points: 83</p>
+<p># Comments: 90</p>
 
-🔗 **Read more:** [https://jetkvm.com/blog/introducing-jetkvm-mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+🔗 **Read more:** [https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
 
 ---
 
-### 3. A wandering black hole caught feeding on the run
+### 3. Revolut confirms customer data breach through fake government requests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phys.org/news/2026-08-black-hole-caught.html">https://phys.org/news/2026-08-black-hole-caught.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679734">https://news.ycombinator.com/item?id=49679734</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
+<p>Points: 50</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://phys.org/news/2026-08-black-hole-caught.html](https://phys.org/news/2026-08-black-hole-caught.html)
+🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
 
 ---
 
@@ -84,55 +84,55 @@ The government is trying to change the law on donations to UK political parties 
 
 ---
 
-### 6. Will the Thirlwall report change the debate about Lucy Letby?
+### 6. 'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
+High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Niger military government reshuffles army command weeks after deadly mutiny
+### 7. The Houthis’ escalation in Yemen could flop
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New chief of staff appointed after failed mutiny tested military rulers&#039; grip on power.
+The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss)
 
 ---
 
-### 8. Voting under way in Sweden election that could see far right in government
+### 8. LIVE: Manchester United vs Manchester City – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.
+Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss)
 
 ---
 
-### 9. Mosque and homes damaged in Saudi Arabia after alleged Houthi strike
+### 9. India vs Sri Lanka live: Asia Cup final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mosque and homes damaged in Saudi Arabia after alleged Houthi strike
+Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss)
 
 ---
 
