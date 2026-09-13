@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 21:46:15
+**Last Update:** 2026-09-13 22:35:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm being cyberattacked by Tesla, Inc
+### 1. Flock cameras used to arrest a child for playing on a swing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.youtube.com/watch?v=koclOnlde0E">https://www.youtube.com/watch?v=koclOnlde0E</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49687312">https://news.ycombinator.com/item?id=49687312</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.youtube.com/watch?v=koclOnlde0E](https://www.youtube.com/watch?v=koclOnlde0E)
+
+---
+
+### 2. I'm being cyberattacked by Tesla, Inc
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://dreamstation.systems/personal/tesla.html">https://dreamstation.systems/personal/tesla.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686766">https://news.ycombinator.com/item?id=49686766</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 199</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://dreamstation.systems/personal/tesla.html](https://dreamstation.systems/personal/tesla.html)
 
 ---
 
-### 2. Why is Google still serving dodgy ads?
+### 3. Why is Google still serving dodgy ads?
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686445">https://news.ycombinator.com/item?id=49686445</a></p>
-<p>Points: 30</p>
-<p># Comments: 14</p>
+<p>Points: 122</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
-
----
-
-### 3. Ask HN: What are you working on? (September 2026)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>What are you working on? What have you been curious about lately?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686380">https://news.ycombinator.com/item?id=49686380</a></p>
-<p>Points: 17</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49686380](https://news.ycombinator.com/item?id=49686380)
 
 ---
 
@@ -85,7 +84,7 @@ The former UK PM said "I don't know what warped logic drove Putin to blow up a s
 
 ---
 
-### 6. Trump downplays warnings of AI risks, citing rivalry with China
+### 6. Trump downplays warnings of AI risks as he cites rivalry with China
 
 **Source:** BBC
 
@@ -98,42 +97,42 @@ The US President said "negative forces" were airing concerns about "things that 
 
 ---
 
-### 7. French TV programme pulled after actress speaks out on Gaza
+### 7. ​Bangsamoro’s parliamentary election is a turning point
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.
+It&#039;s a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss)
 
 ---
 
-### 8. Ukrainian drone evades Russian helicopter fire to strike oil tanker
+### 8. Haaland goal sees 10-men City beat United in controversial Manchester derby
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
+Phil Foden is sent off for City, but Erling Haaland&#039;s controversial goal settles Manchester derby 1-0 at United.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss)
 
 ---
 
-### 9. Kosovo approves new government after months of political deadlock
+### 9. Syrian child killed after roadside object explodes near Damascus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A newly approved government offers Kosovo only brief respite before a contentious presidential vote.
+A child has been killed after an explosive object detonated when he touched it near Damascus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss)
 
 ---
 
