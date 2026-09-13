@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 16:25:29
+**Last Update:** 2026-09-13 18:00:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Fingerprints' inside the Sun could reveal if it once swallowed a planet
+### 1. Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet">https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683033">https://news.ycombinator.com/item?id=49683033</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=xJzrU38pGWc">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684042">https://news.ycombinator.com/item?id=49684042</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+🔗 **Read more:** [https://www.youtube.com/watch?v=xJzrU38pGWc](https://www.youtube.com/watch?v=xJzrU38pGWc)
 
 ---
 
-### 2. Nvidia dismisses "circular financing", says every $1 it invests brings back $100
+### 2. Your car is selling your data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682319">https://news.ycombinator.com/item?id=49682319</a></p>
-<p>Points: 83</p>
-<p># Comments: 90</p>
+<p>Article URL: <a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data">https://www.theverge.com/column/994172/your-car-is-selling-your-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683953">https://news.ycombinator.com/item?id=49683953</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
+🔗 **Read more:** [https://www.theverge.com/column/994172/your-car-is-selling-your-data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
 
 ---
 
-### 3. Revolut confirms customer data breach through fake government requests
+### 3. Flock worker calls police on reporter filming public camera installation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
-<p>Points: 50</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/">https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49683853">https://news.ycombinator.com/item?id=49683853</a></p>
+<p>Points: 74</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+🔗 **Read more:** [https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
 
 ---
 
@@ -84,55 +84,55 @@ The government is trying to change the law on donations to UK political parties 
 
 ---
 
-### 6. 'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC
+### 6. Andy Burnham among Great North Run finishers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.
+This year's event sees 63,000 people take on the half marathon - including the prime minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The Houthis’ escalation in Yemen could flop
+### 7. Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.
+Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss)
 
 ---
 
-### 8. LIVE: Manchester United vs Manchester City – Premier League
+### 8. Villagers in India tie technician to cell tower over 5G failure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.
+Villagers in India tie technician to cell tower over 5G failure
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss)
 
 ---
 
-### 9. India vs Sri Lanka live: Asia Cup final
+### 9. Renewed fighting worsens Yemen’s humanitarian crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow our live build-up, team news, predictions, scores, photos and text commentary stream from the final in Dubai.
+Renewed fighting worsens Yemen’s humanitarian crisis
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss)
 
 ---
 

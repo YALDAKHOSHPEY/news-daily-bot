@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T18:00:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xJzrU38pGWc\">https://www.youtube.com/watch?v=xJzrU38pGWc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684042\">https://news.ycombinator.com/item?id=49684042</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+            "published": "Sun, 13 Sep 2026 13:54:25 +0000",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Your car is selling your data",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/column/994172/your-car-is-selling-your-data\">https://www.theverge.com/column/994172/your-car-is-selling-your-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683953\">https://news.ycombinator.com/item?id=49683953</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+            "published": "Sun, 13 Sep 2026 13:45:08 +0000",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock worker calls police on reporter filming public camera installation",
+            "description": "<p>Article URL: <a href=\"https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/\">https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49683853\">https://news.ycombinator.com/item?id=49683853</a></p>\n<p>Points: 74</p>\n<p># Comments: 25</p>",
+            "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+            "published": "Sun, 13 Sep 2026 13:35:31 +0000",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 11:13:07 GMT",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+            "description": "The government is trying to change the law on donations to UK political parties from British expats.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 12:05:43 GMT",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham among Great North Run finishers",
+            "description": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
+            "url": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 13:53:55 GMT",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+            "description": "Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 13:59:27 +0000",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Villagers in India tie technician to cell tower over 5G failure",
+            "description": "Villagers in India tie technician to cell tower over 5G failure",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 13:34:42 +0000",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Renewed fighting worsens Yemen’s humanitarian crisis",
+            "description": "Renewed fighting worsens Yemen’s humanitarian crisis",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/renewed-fighting-worsens-yemens-humanitarian-crisis?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 13:26:45 +0000",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T18:00:14+03:30"
+        }
+    ]
+}
