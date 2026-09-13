@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 20:15:09
+**Last Update:** 2026-09-13 21:46:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Garry Tan wants US open-weight AI labs to 'distill' frontier models, too
+### 1. I'm being cyberattacked by Tesla, Inc
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685253">https://news.ycombinator.com/item?id=49685253</a></p>
-<p>Points: 35</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://dreamstation.systems/personal/tesla.html">https://dreamstation.systems/personal/tesla.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686766">https://news.ycombinator.com/item?id=49686766</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+🔗 **Read more:** [https://dreamstation.systems/personal/tesla.html](https://dreamstation.systems/personal/tesla.html)
 
 ---
 
-### 2. Libraries Run Rust Inside Python (With PyO3)
+### 2. Why is Google still serving dodgy ads?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://belderbos.dev/blog/how-libraries-run-rust-inside-python/">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685037">https://news.ycombinator.com/item?id=49685037</a></p>
-<p>Points: 18</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686445">https://news.ycombinator.com/item?id=49686445</a></p>
+<p>Points: 30</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://belderbos.dev/blog/how-libraries-run-rust-inside-python/](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
+🔗 **Read more:** [https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
 
 ---
 
-### 3. Predictive intelligence to anticipate anything.
+### 3. Ask HN: What are you working on? (September 2026)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prior.chat/">https://prior.chat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684879">https://news.ycombinator.com/item?id=49684879</a></p>
-<p>Points: 10</p>
-<p># Comments: 9</p>
+<p>What are you working on? What have you been curious about lately?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686380">https://news.ycombinator.com/item?id=49686380</a></p>
+<p>Points: 17</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://prior.chat/](https://prior.chat/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49686380](https://news.ycombinator.com/item?id=49686380)
 
 ---
 
@@ -71,7 +72,7 @@ Housing Secretary Angela Rayner says rule changes on donations from UK expats wo
 
 ---
 
-### 5. Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through
+### 5. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
 
 **Source:** BBC
 
@@ -84,20 +85,33 @@ The former UK PM said "I don't know what warped logic drove Putin to blow up a s
 
 ---
 
-### 6. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+### 6. Trump downplays warnings of AI risks, citing rivalry with China
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.
+The US President said "negative forces" were airing concerns about "things that won't happen".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ukrainian drone evades Russian helicopter fire to strike oil tanker
+### 7. French TV programme pulled after actress speaks out on Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss)
+
+---
+
+### 8. Ukrainian drone evades Russian helicopter fire to strike oil tanker
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Ukraine has released footage showing a drone evading fire from a Russian helicop
 
 ---
 
-### 8. Kosovo approves new government after months of political deadlock
+### 9. Kosovo approves new government after months of political deadlock
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Ukraine has released footage showing a drone evading fire from a Russian helicop
 A newly approved government offers Kosovo only brief respite before a contentious presidential vote.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss)
-
----
-
-### 9. F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 20-year-old Italian has extended his championship lead to 81 points after 14 rounds.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss)
 
 ---
 
