@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 00:29:07
+**Last Update:** 2026-09-14 01:25:10
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flawed Routers Flood University of Wisconsin Internet Time Server (2003)
+### 1. Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688695">https://news.ycombinator.com/item?id=49688695</a></p>
+<p>Points: 22</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.vals.ai/blogs/fable-solves-cyphral-distich](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+
+---
+
+### 2. Flawed Routers Flood University of Wisconsin Internet Time Server (2003)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://pages.cs.wisc.edu/~plonka/netgear-sntp/">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688391">https://news.ycombinator.com/item?id=49688391</a></p>
-<p>Points: 6</p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://pages.cs.wisc.edu/~plonka/netgear-sntp/](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
 
 ---
 
-### 2. Mark Zuckerberg: "Cambridge Analytica" (2017)
+### 3. Mark Zuckerberg: "Cambridge Analytica" (2017)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/TechEmails/status/2099214399840059428">https://twitter.com/TechEmails/status/2099214399840059428</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688157">https://news.ycombinator.com/item?id=49688157</a></p>
-<p>Points: 92</p>
-<p># Comments: 9</p>
+<p>Points: 153</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://twitter.com/TechEmails/status/2099214399840059428](https://twitter.com/TechEmails/status/2099214399840059428)
-
----
-
-### 3. There Is No AI (It's Just People) with Jaron Lanier
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/">https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49687869">https://news.ycombinator.com/item?id=49687869</a></p>
-<p>Points: 28</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
 
 ---
 
@@ -71,7 +71,20 @@ The former UK PM said "I don't know what warped logic drove Putin to blow up a s
 
 ---
 
-### 5. Trump downplays warnings of AI risks as he cites rivalry with China
+### 5. 'Culture shift' needed in how UK does business, PM urges
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump downplays warnings of AI risks as he cites rivalry with China
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The US President said "negative forces" were airing concerns about "things that 
 
 ---
 
-### 6. Questions mount over what an AI 'slowdown' would look like
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-While pacing AI development might sound like a quick fix, it is far from an easy solution.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’
+### 7. A third person has died of measles in the US, health officials say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;
+Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss)
 
 ---
 
-### 8. US will scrap Irish whisky tariff, Trump says
+### 8. USA defeat France to win 12th FIBA Women’s Basketball World Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The announcement comes several months after the US decreased the tariff by 5 percent.
+Breanna Stewart leads comeback win for the record champions despite France&#039;s early lead in the Berlin final.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss)
 
 ---
 
-### 9. Swedes vote in election that could see far-right in government
+### 9. Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Voting is under way in Sweden in a closely fought election that could see the far-right enter government.
+Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss)
 
 ---
 
