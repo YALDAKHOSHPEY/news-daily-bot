@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 05:30:22
+**Last Update:** 2026-09-13 08:33:21
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Scientists Create a New Form of Ice at More Than 2000°C
+### 1. The Succession Crisis That Tore England Apart
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c">https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49678918">https://news.ycombinator.com/item?id=49678918</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679647">https://news.ycombinator.com/item?id=49679647</a></p>
+<p>Points: 10</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c](https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c)
+🔗 **Read more:** [https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
 
 ---
 
-### 2. Align AI and Mathematics–To Something Else
+### 2. The Interim Computer Museum
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/">https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49678783">https://news.ycombinator.com/item?id=49678783</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://icm.museum/">https://icm.museum/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679459">https://news.ycombinator.com/item?id=49679459</a></p>
+<p>Points: 49</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/)
+🔗 **Read more:** [https://icm.museum/](https://icm.museum/)
 
 ---
 
-### 3. Everyone should slow down AI development except for me
+### 3. Don't call yourself an artisanal programmer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49678683">https://news.ycombinator.com/item?id=49678683</a></p>
-<p>Points: 110</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/">https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679360">https://news.ycombinator.com/item?id=49679360</a></p>
+<p>Points: 13</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://xeiaso.net/notes/2026/everyone-slowdown-but-me/](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+🔗 **Read more:** [https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
 
 ---
 
@@ -97,42 +97,81 @@ Nobody could have predicted that today's main global headline would be Trump's d
 
 ---
 
-### 7. Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’
+### 7. Wildfire rages on Croatia’s Dalmatian Coast island of Brac
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.
+Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss)
 
 ---
 
-### 8. Trump says he would ‘love to see’ a united Ireland during Irish visit
+### 8. One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said he would ‘love to see’ a united Ireland.
+Rescuers continue searching for survivors as the government scales back operations in open waters.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss)
 
 ---
 
-### 9. Houthi projectile wounds two, damages mosque in Jazan region, Saudi says
+### 9. Yemen’s Houthis seize strategic Mayun Island in Red Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Houthis claim their attack targeted a Saudi military base in Sharurah.
+Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Norbert
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
+
+---
+
+### 11. Wildfire MEERS, Comanche, Oklahoma
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
+
+---
+
+### 12. Wildfire Kurk, San Saba, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 

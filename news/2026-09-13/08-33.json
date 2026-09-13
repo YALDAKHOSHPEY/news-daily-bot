@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T08:33:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Succession Crisis That Tore England Apart",
+            "description": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart\">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679647\">https://news.ycombinator.com/item?id=49679647</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+            "published": "Sun, 13 Sep 2026 03:18:29 +0000",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Interim Computer Museum",
+            "description": "<p>Article URL: <a href=\"https://icm.museum/\">https://icm.museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679459\">https://news.ycombinator.com/item?id=49679459</a></p>\n<p>Points: 49</p>\n<p># Comments: 6</p>",
+            "url": "https://icm.museum/",
+            "published": "Sun, 13 Sep 2026 02:43:57 +0000",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't call yourself an artisanal programmer",
+            "description": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/\">https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679360\">https://news.ycombinator.com/item?id=49679360</a></p>\n<p>Points: 13</p>\n<p># Comments: 10</p>",
+            "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+            "published": "Sun, 13 Sep 2026 02:29:39 +0000",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 04:30:44 GMT",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+            "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 23:15:54 GMT",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+            "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+            "description": "Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 04:22:41 +0000",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+            "description": "Rescuers continue searching for survivors as the government scales back operations in open waters.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 03:41:14 +0000",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+            "description": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 02:44:32 +0000",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T08:33:21+03:30"
+        }
+    ]
+}
