@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 11:14:54
+**Last Update:** 2026-09-13 13:55:10
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+### 1. Norton Neo Browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://neobrowser.ai/">https://neobrowser.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681724">https://news.ycombinator.com/item?id=49681724</a></p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://neobrowser.ai/](https://neobrowser.ai/)
+
+---
+
+### 2. JetKVM Mini
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681152">https://news.ycombinator.com/item?id=49681152</a></p>
+<p>Points: 106</p>
+<p># Comments: 59</p>
+
+🔗 **Read more:** [https://jetkvm.com/blog/introducing-jetkvm-mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+
+---
+
+### 3. A wandering black hole caught feeding on the run
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://phys.org/news/2026-08-black-hole-caught.html">https://phys.org/news/2026-08-black-hole-caught.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679734">https://news.ycombinator.com/item?id=49679734</a></p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://phys.org/news/2026-08-black-hole-caught.html](https://phys.org/news/2026-08-black-hole-caught.html)
+
+---
+
+### 4. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
@@ -23,72 +71,72 @@ It comes as the AI firm's boss has called for the technology's development to be
 
 ---
 
-### 2. Dramatic insider warnings over AI fall flat with some in Silicon Valley
+### 5. Reform's £72m donations 'entirely in line with law', Jenrick says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
+The government is trying to change the law on donations to UK political parties from British expats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. PM's top security adviser says Europe faces hard winter to keep pressure on Putin
+### 6. Will the Thirlwall report change the debate about Lucy Letby?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In rare public remarks, Jonathan Powell said now was not the time for European nations to take their "foot off the gas".
+The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Mystery son and disputed heir: Uganda’s king buried amid succession dispute
+### 7. Niger military government reshuffles army command weeks after deadly mutiny
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 34-year-old monarch’s death has opened a rare challenge to the traditional process of choosing Tooro’s next king.
+New chief of staff appointed after failed mutiny tested military rulers&#039; grip on power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss)
 
 ---
 
-### 5. Rescuers searching for 140 people after Indonesian passenger ship sinks
+### 8. Voting under way in Sweden election that could see far right in government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Search and rescue ongoing after Virgo Transport 8, with 243 people on board, lost contact with its operator.
+The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss)
 
 ---
 
-### 6. About 1,400 Yemenis flee to Djibouti within 24 hours
+### 9. Mosque and homes damaged in Saudi Arabia after alleged Houthi strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.
+Mosque and homes damaged in Saudi Arabia after alleged Houthi strike
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Norbert
+### 10. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire MEERS, Comanche, Oklahoma
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Kurk, San Saba, Texas
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 

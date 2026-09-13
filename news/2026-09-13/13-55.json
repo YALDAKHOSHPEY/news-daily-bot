@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T13:55:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Norton Neo Browser",
+            "description": "<p>Article URL: <a href=\"https://neobrowser.ai/\">https://neobrowser.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681724\">https://news.ycombinator.com/item?id=49681724</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
+            "url": "https://neobrowser.ai/",
+            "published": "Sun, 13 Sep 2026 09:07:59 +0000",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "JetKVM Mini",
+            "description": "<p>Article URL: <a href=\"https://jetkvm.com/blog/introducing-jetkvm-mini\">https://jetkvm.com/blog/introducing-jetkvm-mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681152\">https://news.ycombinator.com/item?id=49681152</a></p>\n<p>Points: 106</p>\n<p># Comments: 59</p>",
+            "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+            "published": "Sun, 13 Sep 2026 07:49:46 +0000",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A wandering black hole caught feeding on the run",
+            "description": "<p>Article URL: <a href=\"https://phys.org/news/2026-08-black-hole-caught.html\">https://phys.org/news/2026-08-black-hole-caught.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679734\">https://news.ycombinator.com/item?id=49679734</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+            "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+            "published": "Sun, 13 Sep 2026 03:34:53 +0000",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 07:06:41 GMT",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+            "description": "The government is trying to change the law on donations to UK political parties from British expats.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 09:16:23 GMT",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+            "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 23:15:54 GMT",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Niger military government reshuffles army command weeks after deadly mutiny",
+            "description": "New chief of staff appointed after failed mutiny tested military rulers&#039; grip on power.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 08:54:32 +0000",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Voting under way in Sweden election that could see far right in government",
+            "description": "The far-right Sweden Democrats party could enter government for the first time if right-wing bloc wins.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 08:39:49 +0000",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+            "description": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 08:13:56 +0000",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T13:55:10+03:30"
+        }
+    ]
+}
