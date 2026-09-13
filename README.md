@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 02:46:22
+**Last Update:** 2026-09-14 03:16:13
 
 **Total News:** 12
 
@@ -10,52 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?
+### 1. Due to concerns about malicious applications, GPT2 will not be released (2019)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>My buddy, Dario, says agents are getting more aggressive and will soon kill everybody, and I feel like I've seen this movie before.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688761">https://news.ycombinator.com/item?id=49688761</a></p>
-<p>Points: 17</p>
+<p>Article URL: <a href="https://openai.com/index/better-language-models/">https://openai.com/index/better-language-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689706">https://news.ycombinator.com/item?id=49689706</a></p>
+<p>Points: 26</p>
 <p># Comments: 8</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49688761](https://news.ycombinator.com/item?id=49688761)
+🔗 **Read more:** [https://openai.com/index/better-language-models/](https://openai.com/index/better-language-models/)
 
 ---
 
-### 2. Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+### 2. The Contagion of Fear
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688695">https://news.ycombinator.com/item?id=49688695</a></p>
-<p>Points: 226</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689460">https://news.ycombinator.com/item?id=49689460</a></p>
+<p>Points: 55</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://www.vals.ai/blogs/fable-solves-cyphral-distich](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
 
 ---
 
-### 3. Flawed Routers Flood University of Wisconsin Internet Time Server (2003)
+### 3. Registration without a phone number on Signal will use zero-knowledge proofs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pages.cs.wisc.edu/~plonka/netgear-sntp/">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688391">https://news.ycombinator.com/item?id=49688391</a></p>
-<p>Points: 31</p>
+<p>Article URL: <a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689048">https://news.ycombinator.com/item?id=49689048</a></p>
+<p>Points: 18</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://pages.cs.wisc.edu/~plonka/netgear-sntp/](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
+🔗 **Read more:** [https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 
 ---
 
@@ -92,48 +91,48 @@ Burnham has said those who take risks should be backed by government, but his go
 **Category:** world
 
 **Description:**
-The US President said "negative forces" were airing concerns about "things that won't happen".
+The US president said "negative forces" were airing concerns about "things that won't happen".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zverev defeats Shelton in four sets to win his first US Open title
+### 7. Israeli quadcopter terrorises homes in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Germany&#039;s Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men&#039;s singles trophy in New York.
+Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss)
+
+---
+
+### 8. Trump dismisses calls for AI slowdown from leading tech CEOs
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump downplays AI risks, saying he wants to maintain the US&#039;s lead over China in the emerging technology.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss)
+
+---
+
+### 9. Zverev defeats Shelton in four sets to win his first US Open title
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Germany&#039;s Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men&#039;s singles title in New York.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss)
-
----
-
-### 8. Could AI really kill us within a decade?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-AI companies are warning that their technology could wipe out humanity.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss)
-
----
-
-### 9. Barcelona beat Levante as Yamal scores twice to maintain perfect start
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss)
 
 ---
 
