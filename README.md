@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 03:03:22
+**Last Update:** 2026-09-13 03:34:59
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://maxmautner.com/2026/09/11/liability-coverage.html">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677836">https://news.ycombinator.com/item?id=49677836</a></p>
-<p>Points: 15</p>
-<p># Comments: 6</p>
+<p>Points: 29</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://maxmautner.com/2026/09/11/liability-coverage.html](https://maxmautner.com/2026/09/11/liability-coverage.html)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter">https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677715">https://news.ycombinator.com/item?id=49677715</a></p>
-<p>Points: 26</p>
-<p># Comments: 23</p>
+<p>Points: 33</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
 
 ---
 
-### 3. OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
+### 3. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676849">https://news.ycombinator.com/item?id=49676849</a></p>
-<p>Points: 54</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
+<p>Points: 77</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
 
 ---
 
@@ -97,42 +97,42 @@ Nobody could have predicted that today's main global headline would be Trump's d
 
 ---
 
-### 7. Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know
+### 7. Teen rescued after clinging to boat for two days off Alaska
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.
+A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss)
 
 ---
 
-### 8. Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final
+### 8. Death toll from Philippine ferry fire rises to 76
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 7-5, 6-2 win in New York as the new world No 1.
+The Philippine Coast Guard says 41 more bodies have been recovered from the M/V June Aster, with 13 people still missing
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss)
 
 ---
 
-### 9. Arteta seethes at Sunderland penalty decision despite Arsenal win
+### 9. Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
+Goals from Bellingham and Carreras ease pressure on Madrid manager Mourinho after they lost their last league game.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss)
 
 ---
 
