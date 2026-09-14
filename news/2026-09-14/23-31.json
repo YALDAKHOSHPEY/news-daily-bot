@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T23:31:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Neo Emacs – Emacs from the Future",
+            "description": "<p>Article URL: <a href=\"https://neomacs.org/\">https://neomacs.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49702779\">https://news.ycombinator.com/item?id=49702779</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://neomacs.org/",
+            "published": "Mon, 14 Sep 2026 19:42:22 +0000",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "iOS 27, iPadOS 27, and macOS 27",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 213</p>\n<p># Comments: 208</p>",
+            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+            "published": "Mon, 14 Sep 2026 17:50:29 +0000",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Steam Frame starts at $1059",
+            "description": "<p>Article URL: <a href=\"https://store.steampowered.com/hardware/steamframe\">https://store.steampowered.com/hardware/steamframe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700661\">https://news.ycombinator.com/item?id=49700661</a></p>\n<p>Points: 281</p>\n<p># Comments: 156</p>",
+            "url": "https://store.steampowered.com/hardware/steamframe",
+            "published": "Mon, 14 Sep 2026 17:27:55 +0000",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife over 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+            "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:54:16 GMT",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:53:38 GMT",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan aid networks at risk of collapse, UN agencies warn",
+            "description": "Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 19:51:26 +0000",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Funerals for children killed after fire spreads to school in DR Congo",
+            "description": "Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 19:50:27 +0000",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s the VAR mistake controversy in Haaland’s Man City goal vs United?",
+            "description": "Football players, fans, managers, and experts call for more accountability and less reliance on VAR for crucial calls.",
+            "url": "https://www.aljazeera.com/sports/2026/9/14/erling-haaland-goal-var-controversy-manchester-derby-referee?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 19:46:56 +0000",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T23:31:31+03:30"
+        }
+    ]
+}

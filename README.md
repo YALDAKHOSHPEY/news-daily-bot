@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 23:00:29
+**Last Update:** 2026-09-14 23:31:31
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. iOS 27, iPadOS 27, and macOS 27
+### 1. Neo Emacs – Emacs from the Future
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://neomacs.org/">https://neomacs.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49702779">https://news.ycombinator.com/item?id=49702779</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://neomacs.org/](https://neomacs.org/)
+
+---
+
+### 2. iOS 27, iPadOS 27, and macOS 27
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701004">https://news.ycombinator.com/item?id=49701004</a></p>
-<p>Points: 188</p>
-<p># Comments: 178</p>
+<p>Points: 213</p>
+<p># Comments: 208</p>
 
 🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
 
 ---
 
-### 2. Steam Frame starts at $1059
+### 3. Steam Frame starts at $1059
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://store.steampowered.com/hardware/steamframe">https://store.steampowered.com/hardware/steamframe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49700661">https://news.ycombinator.com/item?id=49700661</a></p>
-<p>Points: 219</p>
-<p># Comments: 115</p>
+<p>Points: 281</p>
+<p># Comments: 156</p>
 
 🔗 **Read more:** [https://store.steampowered.com/hardware/steamframe](https://store.steampowered.com/hardware/steamframe)
-
----
-
-### 3. Pion, an agent designed to run any company autonomously
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://andonlabs.com/blog/why-we-built-pion">https://andonlabs.com/blog/why-we-built-pion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49700477">https://news.ycombinator.com/item?id=49700477</a></p>
-<p>Points: 137</p>
-<p># Comments: 130</p>
-
-🔗 **Read more:** [https://andonlabs.com/blog/why-we-built-pion](https://andonlabs.com/blog/why-we-built-pion)
 
 ---
 
@@ -97,42 +97,42 @@ Burnham has previously said his father did not know he had become prime minister
 
 ---
 
-### 7. Djibouti humanitarian situation worsens as Yemenis seek refuge
+### 7. Sudan aid networks at risk of collapse, UN agencies warn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Djibouti humanitarian situation worsens as Yemenis seek refuge
+Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss)
 
 ---
 
-### 8. NATO pledges increased Ukraine support as Russia strikes near border
+### 8. Funerals for children killed after fire spreads to school in DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to &#039;scare&#039; them off.
+Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: A new report on the erosion of Palestinian life
+### 9. What’s the VAR mistake controversy in Haaland’s Man City goal vs United?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.
+Football players, fans, managers, and experts call for more accountability and less reliance on VAR for crucial calls.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/14/erling-haaland-goal-var-controversy-manchester-derby-referee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/14/erling-haaland-goal-var-controversy-manchester-derby-referee?traffic_source=rss)
 
 ---
 
