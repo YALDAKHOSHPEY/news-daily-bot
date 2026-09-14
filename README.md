@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 11:46:11
+**Last Update:** 2026-09-14 17:47:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Of Gods and Languages: On "When God Spoke Greek" (2013)
+### 1. Temporal raises $550M at a $12.55B valuation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/">https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692765">https://news.ycombinator.com/item?id=49692765</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai">https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49696335">https://news.ycombinator.com/item?id=49696335</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
+🔗 **Read more:** [https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai](https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai)
 
 ---
 
-### 2. Who gets to define the rules for AI?
+### 2. What a time to be alive – rouge AI agents attack RubyGems.org
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692118">https://news.ycombinator.com/item?id=49692118</a></p>
-<p>Points: 32</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695876">https://news.ycombinator.com/item?id=49695876</a></p>
+<p>Points: 77</p>
+<p># Comments: 102</p>
 
-🔗 **Read more:** [https://cohere.com/blog/who-gets-to-define-the-rules-for-ai](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
+🔗 **Read more:** [https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
 
 ---
 
-### 3. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
+### 3. Texas judge rules TikTok misled users on child safety feature
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691584">https://news.ycombinator.com/item?id=49691584</a></p>
+<p>Article URL: <a href="https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695829">https://news.ycombinator.com/item?id=49695829</a></p>
 <p>Points: 54</p>
-<p># Comments: 19</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+🔗 **Read more:** [https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
 
 ---
 
-### 4. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 4. Burnham cancels engagements after death of his father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Why Russian strike on train could be sign of escalation
+### 5. What you need to know about the latest donations to Reform UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.
+Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. MPs and Lords call for new law to address AI threat to human rights
+### 6. Member of UK armed forces dies in road traffic incident in Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
+The incident is not the result of hostile action, the BBC understands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why Bangladesh is struggling against measles epidemic despite 20m vaccines
+### 7. ‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 1,000 people have died from the disease over the past six months, despite record vaccinations this year.
+Automated AI drones are just one component of an ultimate chain of destruction both sides are building.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss)
 
 ---
 
-### 8. US Kennedy Center faces bankruptcy, Washington Post reports
+### 8. Why Saudi Arabia’s East-West pipeline matters for global oil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Board of trustees recommends that the main building be closed immediately due to costs, US newspaper reports.
+The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss)
 
 ---
 
-### 9. The Zionist dream of a state stretching from the Mediterranean to Iraq
+### 9. Israel working to eliminate Palestinian presence from West Bank, NGO warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The story of the idea of a &#039;Greater Israel&#039; and the Americans who want it to be a reality
+Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-originals/2026/9/14/the-zionist-dream-of-a-state-stretching-from-the-mediterranean-to-iraq?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-originals/2026/9/14/the-zionist-dream-of-a-state-stretching-from-the-mediterranean-to-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss)
 
 ---
 
