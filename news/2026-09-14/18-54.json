@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T18:54:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RubyGems Open Source Supply Chain Security and OpenAI",
+            "description": "<p>Article URL: <a href=\"https://rietta.com/blog/rubygems-supply-chain-openai/\">https://rietta.com/blog/rubygems-supply-chain-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697666\">https://news.ycombinator.com/item?id=49697666</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://rietta.com/blog/rubygems-supply-chain-openai/",
+            "published": "Mon, 14 Sep 2026 14:39:01 +0000",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jabber/XMPP: How Do We Gain Traction?",
+            "description": "<p>Article URL: <a href=\"https://gultsch.de/posts/how-do-we-gain-traction/\">https://gultsch.de/posts/how-do-we-gain-traction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697643\">https://news.ycombinator.com/item?id=49697643</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
+            "url": "https://gultsch.de/posts/how-do-we-gain-traction/",
+            "published": "Mon, 14 Sep 2026 14:37:49 +0000",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Graphic Rants: Nanite Tessellation",
+            "description": "<p>Article URL: <a href=\"http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html\">http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697444\">https://news.ycombinator.com/item?id=49697444</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
+            "published": "Mon, 14 Sep 2026 14:27:24 +0000",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 14:24:10 GMT",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage says £72m donations are compliant 'with the law today'",
+            "description": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+            "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 14:36:49 GMT",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What you need to know about the latest donations to Reform UK",
+            "description": "Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 11:07:25 GMT",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
+            "description": "Delaying scrutiny will not make questions about UK complicity in Gaza disappear.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/14/burnham-must-establish-an-inquiry-into-britains-role-in-the-gaza-genocide?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 14:58:38 +0000",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China rejects AI ‘threat narratives’, urges global cooperation",
+            "description": "China called for international cooperation on artificial intelligence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/china-rejects-ai-threat-narratives-urges-global-cooperation?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 14:50:55 +0000",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
+            "description": "Gulf nations may prioritise domestic investments over US commitments amid economic pressures, says new report.",
+            "url": "https://www.aljazeera.com/economy/2026/9/14/fiscal-pressure-from-iran-war-clouds-gulf-states-us-spending-plans?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 14:34:25 +0000",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T18:54:44+03:30"
+        }
+    ]
+}
