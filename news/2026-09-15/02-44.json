@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T02:44:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/JamesRyanATX/fcbnerd\">https://github.com/JamesRyanATX/fcbnerd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49705442\">https://news.ycombinator.com/item?id=49705442</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/JamesRyanATX/fcbnerd",
+            "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Charts built for Chat",
+            "description": "<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+            "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+            "published": "Mon, 14 Sep 2026 21:22:54 +0000",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+            "description": "<p>Article URL: <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html\">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704008\">https://news.ycombinator.com/item?id=49704008</a></p>\n<p>Points: 135</p>\n<p># Comments: 139</p>",
+            "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+            "published": "Mon, 14 Sep 2026 21:05:22 +0000",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife over 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+            "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 22:10:10 GMT",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:53:38 GMT",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Landowners in Texas ask court to stop Trump border wall",
+            "description": "Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 21:44:03 +0000",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli attack targets Gaza displacement camp",
+            "description": "Israeli attack targets Gaza displacement camp",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 21:37:04 +0000",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US repeals rules limiting greenhouse gas emissions by power plants",
+            "description": "The Trump administration says it could save power plants more than $300bn and &#039;unleash&#039; American energy.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 21:36:09 +0000",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T02:44:31+03:30"
+        }
+    ]
+}

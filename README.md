@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 23:31:31
+**Last Update:** 2026-09-15 02:44:31
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Neo Emacs – Emacs from the Future
+### 1. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neomacs.org/">https://neomacs.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49702779">https://news.ycombinator.com/item?id=49702779</a></p>
+<p>Article URL: <a href="https://github.com/JamesRyanATX/fcbnerd">https://github.com/JamesRyanATX/fcbnerd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49705442">https://news.ycombinator.com/item?id=49705442</a></p>
 <p>Points: 3</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://neomacs.org/](https://neomacs.org/)
+🔗 **Read more:** [https://github.com/JamesRyanATX/fcbnerd](https://github.com/JamesRyanATX/fcbnerd)
 
 ---
 
-### 2. iOS 27, iPadOS 27, and macOS 27
+### 2. Charts built for Chat
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701004">https://news.ycombinator.com/item?id=49701004</a></p>
-<p>Points: 213</p>
-<p># Comments: 208</p>
+<p>Article URL: <a href="https://dbtcharts.com/blog/charts-built-for-chat/">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704246">https://news.ycombinator.com/item?id=49704246</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+🔗 **Read more:** [https://dbtcharts.com/blog/charts-built-for-chat/](https://dbtcharts.com/blog/charts-built-for-chat/)
 
 ---
 
-### 3. Steam Frame starts at $1059
+### 3. Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://store.steampowered.com/hardware/steamframe">https://store.steampowered.com/hardware/steamframe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49700661">https://news.ycombinator.com/item?id=49700661</a></p>
-<p>Points: 281</p>
-<p># Comments: 156</p>
+<p>Article URL: <a href="https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704008">https://news.ycombinator.com/item?id=49704008</a></p>
+<p>Points: 135</p>
+<p># Comments: 139</p>
 
-🔗 **Read more:** [https://store.steampowered.com/hardware/steamframe](https://store.steampowered.com/hardware/steamframe)
+🔗 **Read more:** [https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
 
 ---
 
@@ -97,42 +97,42 @@ Burnham has previously said his father did not know he had become prime minister
 
 ---
 
-### 7. Sudan aid networks at risk of collapse, UN agencies warn
+### 7. Landowners in Texas ask court to stop Trump border wall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Without immediate donations, shelter and aid relief supplies could be depleted by the end of the month, says IOM.
+Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/sudan-aid-networks-at-risk-of-collapse-un-agencies-warn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss)
 
 ---
 
-### 8. Funerals for children killed after fire spreads to school in DR Congo
+### 8. Israeli attack targets Gaza displacement camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Memorial services were held for at least 28 children who were killed after a fire spread to their school in DR Congo.
+Israeli attack targets Gaza displacement camp
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/funerals-for-children-killed-after-fire-spreads-to-school-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss)
 
 ---
 
-### 9. What’s the VAR mistake controversy in Haaland’s Man City goal vs United?
+### 9. US repeals rules limiting greenhouse gas emissions by power plants
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Football players, fans, managers, and experts call for more accountability and less reliance on VAR for crucial calls.
+The Trump administration says it could save power plants more than $300bn and &#039;unleash&#039; American energy.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/14/erling-haaland-goal-var-controversy-manchester-derby-referee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/14/erling-haaland-goal-var-controversy-manchester-derby-referee?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss)
 
 ---
 
