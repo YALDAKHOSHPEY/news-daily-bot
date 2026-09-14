@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 10:05:48
+**Last Update:** 2026-09-14 11:46:11
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Who gets to define the rules for AI?
+### 1. Of Gods and Languages: On "When God Spoke Greek" (2013)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/">https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692765">https://news.ycombinator.com/item?id=49692765</a></p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/](https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/)
+
+---
+
+### 2. Who gets to define the rules for AI?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692118">https://news.ycombinator.com/item?id=49692118</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Points: 32</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://cohere.com/blog/who-gets-to-define-the-rules-for-ai](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
 
 ---
 
-### 2. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
+### 3. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
 
 **Source:** Hacker News
 
@@ -35,44 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691584">https://news.ycombinator.com/item?id=49691584</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
+<p>Points: 54</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
 
 ---
 
-### 3. Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?id=49691343</a></p>
-<p>Points: 63</p>
-<p># Comments: 64</p>
-
-🔗 **Read more:** [https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
-
----
-
-### 4. MPs and Lords call for new law to address AI threat to human rights
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 4. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
 
 **Source:** BBC
 
@@ -85,7 +71,7 @@ The former UK PM said: "I don't know what warped logic drove Putin to blow up a 
 
 ---
 
-### 6. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
+### 5. Watch: Why Russian strike on train could be sign of escalation
 
 **Source:** BBC
 
@@ -98,42 +84,55 @@ No casualties were reported after a Russian drone struck a train shortly after B
 
 ---
 
-### 7. Animated map shows spread of illegal Israeli settlements across Palestine
+### 6. MPs and Lords call for new law to address AI threat to human rights
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
+Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Indonesia intensifies search for 129 people missing after ship capsizes
+### 7. Why Bangladesh is struggling against measles epidemic despite 20m vaccines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials say more than 600 rescuers battle stormy seas in search for missing people.
+More than 1,000 people have died from the disease over the past six months, despite record vaccinations this year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-bangladesh-is-struggling-against-measles-epidemic-despite-20m-vaccines?traffic_source=rss)
 
 ---
 
-### 9. Protests break out across Syria over fuel price increases
+### 8. US Kennedy Center faces bankruptcy, Washington Post reports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
+Board of trustees recommends that the main building be closed immediately due to costs, US newspaper reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports?traffic_source=rss)
+
+---
+
+### 9. The Zionist dream of a state stretching from the Mediterranean to Iraq
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The story of the idea of a &#039;Greater Israel&#039; and the Americans who want it to be a reality
+
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-originals/2026/9/14/the-zionist-dream-of-a-state-stretching-from-the-mediterranean-to-iraq?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-originals/2026/9/14/the-zionist-dream-of-a-state-stretching-from-the-mediterranean-to-iraq?traffic_source=rss)
 
 ---
 
