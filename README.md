@@ -1,77 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 05:48:22
+**Last Update:** 2026-09-14 10:05:48
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The case against JPEG XL
+### 1. Who gets to define the rules for AI?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://giannirosato.com/blog/post/case-against-jxl/">https://giannirosato.com/blog/post/case-against-jxl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690554">https://news.ycombinator.com/item?id=49690554</a></p>
-<p>Points: 35</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692118">https://news.ycombinator.com/item?id=49692118</a></p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://giannirosato.com/blog/post/case-against-jxl/](https://giannirosato.com/blog/post/case-against-jxl/)
+🔗 **Read more:** [https://cohere.com/blog/who-gets-to-define-the-rules-for-ai](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
 
 ---
 
-### 2. Open-Source AI and Open Models Reading List
+### 2. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690260">https://news.ycombinator.com/item?id=49690260</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.interconnects.ai/p/open-source-ai-reading-list](https://www.interconnects.ai/p/open-source-ai-reading-list)
-
----
-
-### 3. The Coming War on General Computation (2011)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690051">https://news.ycombinator.com/item?id=49690051</a></p>
-<p>Points: 48</p>
+<p>Article URL: <a href="https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691584">https://news.ycombinator.com/item?id=49691584</a></p>
+<p>Points: 29</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+🔗 **Read more:** [https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
 
 ---
 
-### 4. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 3. Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?id=49691343</a></p>
+<p>Points: 63</p>
+<p># Comments: 64</p>
+
+🔗 **Read more:** [https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
+
+---
+
+### 4. MPs and Lords call for new law to address AI threat to human rights
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
+### 6. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
 
 **Source:** BBC
 
@@ -84,55 +98,42 @@ No casualties were reported after a Russian drone struck a train shortly after B
 
 ---
 
-### 6. 'Culture shift' needed in how UK does business, PM urges
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Protests erupt across Syria over sharp fuel price hikes
+### 7. Animated map shows spread of illegal Israeli settlements across Palestine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests have erupted in Syria after the government raised fuel prices.
+Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss)
 
 ---
 
-### 8. Heavy rain falls over the Kaaba in Mecca
+### 8. Indonesia intensifies search for 129 people missing after ship capsizes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy rain and thunderstorms hit Mecca creating dramatic scenes as worshippers prayed at the Grand Mosque.
+Officials say more than 600 rescuers battle stormy seas in search for missing people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss)
 
 ---
 
-### 9. Charlie Kirk statue vandalised outside Turning Point USA headquarters
+### 9. Protests break out across Syria over fuel price increases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.
+Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss)
 
 ---
 
