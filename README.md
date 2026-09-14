@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 04:47:29
+**Last Update:** 2026-09-14 05:48:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open-Source AI and Open Models Reading List
+### 1. The case against JPEG XL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://giannirosato.com/blog/post/case-against-jxl/">https://giannirosato.com/blog/post/case-against-jxl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690554">https://news.ycombinator.com/item?id=49690554</a></p>
+<p>Points: 35</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://giannirosato.com/blog/post/case-against-jxl/](https://giannirosato.com/blog/post/case-against-jxl/)
+
+---
+
+### 2. Open-Source AI and Open Models Reading List
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690260">https://news.ycombinator.com/item?id=49690260</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.interconnects.ai/p/open-source-ai-reading-list](https://www.interconnects.ai/p/open-source-ai-reading-list)
 
 ---
 
-### 2. The Coming War on General Computation (2011)
+### 3. The Coming War on General Computation (2011)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690051">https://news.ycombinator.com/item?id=49690051</a></p>
-<p>Points: 31</p>
-<p># Comments: 4</p>
+<p>Points: 48</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
-
----
-
-### 3. The contagion of fear
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689460">https://news.ycombinator.com/item?id=49689460</a></p>
-<p>Points: 122</p>
-<p># Comments: 87</p>
-
-🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
 
 ---
 
@@ -71,7 +71,20 @@ The former UK PM said "I don't know what warped logic drove Putin to blow up a s
 
 ---
 
-### 5. 'Culture shift' needed in how UK does business, PM urges
+### 5. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'Culture shift' needed in how UK does business, PM urges
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ The former UK PM said "I don't know what warped logic drove Putin to blow up a s
 Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Trump downplays warnings of AI risks as he cites rivalry with China
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US president said "negative forces" were airing concerns about "things that won't happen".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
