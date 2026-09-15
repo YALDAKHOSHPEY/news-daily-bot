@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 01:03:27
+**Last Update:** 2026-09-16 02:47:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 84</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Points: 67</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
 ---
 
-### 3. How much oil-market buffer is left?
+### 3. Building a Linux GPU Driver for the M4 Mac Mini in One Month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=49718025</a></p>
-<p>Points: 62</p>
-<p># Comments: 86</p>
+<p>Article URL: <a href="https://codyho.dev/blog/gpu-driver/">https://codyho.dev/blog/gpu-driver/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717638">https://news.ycombinator.com/item?id=49717638</a></p>
+<p>Points: 101</p>
+<p># Comments: 53</p>
 
-🔗 **Read more:** [https://www.depletion.org](https://www.depletion.org)
+🔗 **Read more:** [https://codyho.dev/blog/gpu-driver/](https://codyho.dev/blog/gpu-driver/)
 
 ---
 
@@ -97,42 +97,42 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 7. Hundreds protest in DR Congo against third presidential term
+### 7. Republican congressman calls to impeach US Defence Secretary Pete Hegseth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds protest in DR Congo against third presidential term
+GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss)
 
 ---
 
-### 8. Romanian shepards and farmers clash with police
+### 8. Ed Sheeran blames US tour promoter for dropping Macklemore
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
+The British musician said it was important to &quot;set out some facts&quot; after US rapper voiced support for Palestine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss)
 
 ---
 
-### 9. What makes these midterms so pivotal?
+### 9. Why is the far-right embracing crypto?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
+From billionaire donors backing parties to far-right activists raising funds in Bitcoin.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss)
 
 ---
 
