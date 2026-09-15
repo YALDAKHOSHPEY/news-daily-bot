@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 21:49:07
+**Last Update:** 2026-09-16 00:07:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dystopian Surveillance Is Becoming a Reality
+### 1. How much oil-market buffer is left?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality">https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715934">https://news.ycombinator.com/item?id=49715934</a></p>
-<p>Points: 114</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=49718025</a></p>
+<p>Points: 42</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
+🔗 **Read more:** [https://www.depletion.org](https://www.depletion.org)
 
 ---
 
-### 2. GEFS on OpenBSD: A Early Preview
+### 2. WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2">https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715590">https://news.ycombinator.com/item?id=49715590</a></p>
+<p>Article URL: <a href="https://github.com/GraafHenk/numberwang">https://github.com/GraafHenk/numberwang</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717605">https://news.ycombinator.com/item?id=49717605</a></p>
 <p>Points: 25</p>
-<p># Comments: 9</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://marc.info/?l=openbsd-tech&m=178948744271633&w=2](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+🔗 **Read more:** [https://github.com/GraafHenk/numberwang](https://github.com/GraafHenk/numberwang)
 
 ---
 
-### 3. Jiga (YC W21) Is Hiring Product Engineer (Remote/US)
+### 3. Jev: New frontier model 40-400x cheaper and 20-200x faster
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd">https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715446">https://news.ycombinator.com/item?id=49715446</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717558">https://news.ycombinator.com/item?id=49717558</a></p>
+<p>Points: 223</p>
+<p># Comments: 78</p>
 
-🔗 **Read more:** [https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
+🔗 **Read more:** [https://typesafe.ai/blog/introducing-system-one-models-and-jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
 ---
 
@@ -71,20 +71,7 @@ Plans will be "urgently" developed for live-streaming cameras after an inquiry r
 
 ---
 
-### 5. Letby failings go beyond one hospital - the whole system has been found lacking
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
+### 5. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 7. Police crack down on protests against constitutional change in DR Congo
+### 6. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Demonstrations held across country against president&#039;s proposed constitutional changes seeking third term.
+The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. More than 100,000 displaced as they flee violence in Yemen: UN
+### 7. NATO jet shoots down suspected Russian drone over Lithuania
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands making risky maritime journey to Djibouti as conflict between Yemen gov&#039;t and Houthis intensifies.
+EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss)
 
 ---
 
-### 9. How an Israeli cell orchestrated an anti-Qatar campaign
+### 8. Israel lacking respect for dead buried in Gaza rubble: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.
+Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss)
+
+---
+
+### 9. NATO downs drone over Lithuania, ‘probably’ launched by Russia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A NATO fighter jet shot down a drone in southern Lithuania shortly after midnight on Tuesday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss)
 
 ---
 
