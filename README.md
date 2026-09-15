@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 17:13:08
+**Last Update:** 2026-09-15 17:27:50
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Java 27 Released
+### 1. How the New York Times Framed the War Between Israel and Hamas
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712041">https://news.ycombinator.com/item?id=49712041</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract">https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712337">https://news.ycombinator.com/item?id=49712337</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
+🔗 **Read more:** [https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract](https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract)
 
 ---
 
-### 2. Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+### 2. Australia 'on the same page' as Canada as it seeks deeper EU alliance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/arnegiacomo/fugleramme">https://github.com/arnegiacomo/fugleramme</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49711544">https://news.ycombinator.com/item?id=49711544</a></p>
-<p>Points: 57</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/">https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712186">https://news.ycombinator.com/item?id=49712186</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
+🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/](https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/)
 
 ---
 
-### 3. 25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]
+### 3. Show HN: Hacking a $20 4G wireless hotspot into a texting device
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49711309">https://news.ycombinator.com/item?id=49711309</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://bkovac.github.io/modem-thing/">https://bkovac.github.io/modem-thing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712102">https://news.ycombinator.com/item?id=49712102</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
+🔗 **Read more:** [https://bkovac.github.io/modem-thing/](https://bkovac.github.io/modem-thing/)
 
 ---
 
@@ -97,7 +97,20 @@ The Danish prime minister has accused Russia of "reckless" behaviour, while the 
 
 ---
 
-### 7. South Korea embraces Central Asian leaders, looking to boost regional clout
+### 7. Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss)
+
+---
+
+### 8. South Korea embraces Central Asian leaders, looking to boost regional clout
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Seoul is set to host its first presidential meeting with five Russia-allied stat
 
 ---
 
-### 8. Houthi-run TV releases video of abandoned Mocha airport
+### 9. Houthi-run TV releases video of abandoned Mocha airport
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Seoul is set to host its first presidential meeting with five Russia-allied stat
 Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss)
-
----
-
-### 9. El Nino reaches super status: Where will it bring rain, drought and heat?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Forecasters say the Pacific Ocean warming pattern could be the strongest on record. Here is what that means for you.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss)
 
 ---
 
