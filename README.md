@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 00:07:54
+**Last Update:** 2026-09-16 01:03:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How much oil-market buffer is left?
+### 1. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+
+---
+
+### 2. Jean-Pierre Serre is 100 years old today
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
+<p>Points: 19</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+
+---
+
+### 3. How much oil-market buffer is left?
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=49718025</a></p>
-<p>Points: 42</p>
-<p># Comments: 39</p>
+<p>Points: 62</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://www.depletion.org](https://www.depletion.org)
-
----
-
-### 2. WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/GraafHenk/numberwang">https://github.com/GraafHenk/numberwang</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717605">https://news.ycombinator.com/item?id=49717605</a></p>
-<p>Points: 25</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/GraafHenk/numberwang](https://github.com/GraafHenk/numberwang)
-
----
-
-### 3. Jev: New frontier model 40-400x cheaper and 20-200x faster
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717558">https://news.ycombinator.com/item?id=49717558</a></p>
-<p>Points: 223</p>
-<p># Comments: 78</p>
-
-🔗 **Read more:** [https://typesafe.ai/blog/introducing-system-one-models-and-jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
 ---
 
@@ -71,7 +71,20 @@ Plans will be "urgently" developed for live-streaming cameras after an inquiry r
 
 ---
 
-### 5. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
+### 5. All support acts on Ed Sheeran's US tour quit after Macklemore dropped
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 6. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. NATO jet shoots down suspected Russian drone over Lithuania
+### 7. Hundreds protest in DR Congo against third presidential term
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.
+Hundreds protest in DR Congo against third presidential term
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss)
 
 ---
 
-### 8. Israel lacking respect for dead buried in Gaza rubble: UN
+### 8. Romanian shepards and farmers clash with police
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.
+Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss)
 
 ---
 
-### 9. NATO downs drone over Lithuania, ‘probably’ launched by Russia
+### 9. What makes these midterms so pivotal?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A NATO fighter jet shot down a drone in southern Lithuania shortly after midnight on Tuesday.
+The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss)
 
 ---
 
