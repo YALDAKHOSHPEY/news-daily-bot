@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 05:54:23
+**Last Update:** 2026-09-15 11:24:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
+### 1. Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49708774">https://news.ycombinator.com/item?id=49708774</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
+
+---
+
+### 2. Linux from Scratch
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.linuxfromscratch.org/">https://www.linuxfromscratch.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707627">https://news.ycombinator.com/item?id=49707627</a></p>
+<p>Points: 118</p>
+<p># Comments: 39</p>
+
+🔗 **Read more:** [https://www.linuxfromscratch.org/](https://www.linuxfromscratch.org/)
+
+---
+
+### 3. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
 
 **Source:** Hacker News
 
@@ -19,46 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49706223">https://news.ycombinator.com/item?id=49706223</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Points: 153</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
 
 ---
 
-### 2. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+### 4. State pension likely to rise by £488 a year in April
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://github.com/JamesRyanATX/fcbnerd">https://github.com/JamesRyanATX/fcbnerd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49705442">https://news.ycombinator.com/item?id=49705442</a></p>
-<p>Points: 37</p>
-<p># Comments: 4</p>
+The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.
 
-🔗 **Read more:** [https://github.com/JamesRyanATX/fcbnerd](https://github.com/JamesRyanATX/fcbnerd)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Charts built for Chat
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dbtcharts.com/blog/charts-built-for-chat/">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704246">https://news.ycombinator.com/item?id=49704246</a></p>
-<p>Points: 102</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://dbtcharts.com/blog/charts-built-for-chat/](https://dbtcharts.com/blog/charts-built-for-chat/)
-
----
-
-### 4. Lucy Letby public inquiry findings set to be published
+### 5. Lucy Letby public inquiry findings set to be published
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The Thirlwall Inquiry has been investigating how concerns about killer nurse Let
 
 ---
 
-### 5. AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+### 6. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it "taking over the World" are a "HOAX".
+The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Chris Mason: Row over Reform's mega donations has mileage in it yet
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Viral hit-and-run raises road rage questions in India
+### 7. Palestine weekly: Settlement sanctions spark diplomatic crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle.
+New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss)
 
 ---
 
-### 8. B’Tselem: Israeli settler violence aims to eliminate Palestinian existence
+### 8. BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.
+Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss](https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss)
 
 ---
 
-### 9. Russia resupplies military bases in Syria for first time under new deal
+### 9. Leeds United defeat Newcastle 4-1 to go third in Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow maintains military foothold in the Mediterranean following talks with Damascus
+Goals from in-form forward Calvert-Lewin, Okafor and Bogle boost Leeds&#039; standing in the league table.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss)
 
 ---
 
