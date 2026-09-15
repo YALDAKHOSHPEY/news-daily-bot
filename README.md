@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 11:38:33
+**Last Update:** 2026-09-15 17:13:08
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
+### 1. Java 27 Released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49708774">https://news.ycombinator.com/item?id=49708774</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712041">https://news.ycombinator.com/item?id=49712041</a></p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
+🔗 **Read more:** [https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
 
 ---
 
-### 2. Linux from Scratch
+### 2. Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.linuxfromscratch.org/">https://www.linuxfromscratch.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707627">https://news.ycombinator.com/item?id=49707627</a></p>
-<p>Points: 133</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://github.com/arnegiacomo/fugleramme">https://github.com/arnegiacomo/fugleramme</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49711544">https://news.ycombinator.com/item?id=49711544</a></p>
+<p>Points: 57</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.linuxfromscratch.org/](https://www.linuxfromscratch.org/)
+🔗 **Read more:** [https://github.com/arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
 
 ---
 
-### 3. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
+### 3. 25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49706223">https://news.ycombinator.com/item?id=49706223</a></p>
-<p>Points: 158</p>
-<p># Comments: 88</p>
+<p>Article URL: <a href="https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49711309">https://news.ycombinator.com/item?id=49711309</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+🔗 **Read more:** [https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
 
 ---
 
-### 4. State pension likely to rise by £488 a year in April
+### 4. Key findings from Lucy Letby Thirlwall Inquiry
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.
+The inquiry found a "complete failure to protect babies on the neonatal unit" where the nurse worked.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The increase has reignited the debate about the state pension's long-term affordability and generational fairness.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Lucy Letby public inquiry findings set to be published
+### 6. Denmark says Russian warship fired flares at military helicopter
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.
+The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What to watch in the US’s Delaware primary elections
+### 7. South Korea embraces Central Asian leaders, looking to boost regional clout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It&#039;s the last state primary scheduled before November&#039;s midterm elections.
+Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss)
 
 ---
 
-### 8. Hungary to amend anti-LGBTQ law to align with EU standards
+### 8. Houthi-run TV releases video of abandoned Mocha airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new bill will remove references to banning the &#039;promotion&#039; of homosexuality.
+Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss)
 
 ---
 
-### 9. Palestine weekly: Settlement sanctions spark diplomatic crisis
+### 9. El Nino reaches super status: Where will it bring rain, drought and heat?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.
+Forecasters say the Pacific Ocean warming pattern could be the strongest on record. Here is what that means for you.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss)
 
 ---
 
