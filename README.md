@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 17:27:50
+**Last Update:** 2026-09-15 21:24:51
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the New York Times Framed the War Between Israel and Hamas
+### 1. Dystopian Surveillance Is Becoming a Reality
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract">https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712337">https://news.ycombinator.com/item?id=49712337</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality">https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715934">https://news.ycombinator.com/item?id=49715934</a></p>
+<p>Points: 54</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract](https://www.tandfonline.com/doi/full/10.1080/1057610X.2026.2707956#abstract)
+🔗 **Read more:** [https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
 
 ---
 
-### 2. Australia 'on the same page' as Canada as it seeks deeper EU alliance
+### 2. Why Personal Websites Are Coming Back
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/">https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712186">https://news.ycombinator.com/item?id=49712186</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://deadparrotbbs.com/why-personal-websites-are-coming-back/">https://deadparrotbbs.com/why-personal-websites-are-coming-back/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715802">https://news.ycombinator.com/item?id=49715802</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/](https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/)
+🔗 **Read more:** [https://deadparrotbbs.com/why-personal-websites-are-coming-back/](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)
 
 ---
 
-### 3. Show HN: Hacking a $20 4G wireless hotspot into a texting device
+### 3. GEFS on OpenBSD: A Early Preview
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bkovac.github.io/modem-thing/">https://bkovac.github.io/modem-thing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712102">https://news.ycombinator.com/item?id=49712102</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2">https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715590">https://news.ycombinator.com/item?id=49715590</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://bkovac.github.io/modem-thing/](https://bkovac.github.io/modem-thing/)
+🔗 **Read more:** [https://marc.info/?l=openbsd-tech&m=178948744271633&w=2](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
 
 ---
 
-### 4. Key findings from Lucy Letby Thirlwall Inquiry
+### 4. Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The inquiry found a "complete failure to protect babies on the neonatal unit" where the nurse worked.
+Plans will be "urgently" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+### 5. The key findings and recommendations from the Lucy Letby inquiry
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The increase has reignited the debate about the state pension's long-term affordability and generational fairness.
+Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Denmark says Russian warship fired flares at military helicopter
+### 6. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
+Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina
+### 7. How an Israeli cell orchestrated an anti-Qatar campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.
+Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss)
 
 ---
 
-### 8. South Korea embraces Central Asian leaders, looking to boost regional clout
+### 8. Can China play peacemaker as Iran’s foreign minister heads to Beijing?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seoul is set to host its first presidential meeting with five Russia-allied states positioning themselves as a bloc.
+Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/south-korea-embraces-central-asian-leaders-looking-to-boost-regional-clout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss)
 
 ---
 
-### 9. Houthi-run TV releases video of abandoned Mocha airport
+### 9. Election in Philippines’ Bangsamoro region ends in hung parliament
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.
+No party wins majority in parliamentary polls in southern Philippines&#039; Muslim-majority region, unofficial results show.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss)
 
 ---
 

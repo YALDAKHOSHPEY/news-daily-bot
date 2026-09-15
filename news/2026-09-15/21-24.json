@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T21:24:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dystopian Surveillance Is Becoming a Reality",
+            "description": "<p>Article URL: <a href=\"https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality\">https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715934\">https://news.ycombinator.com/item?id=49715934</a></p>\n<p>Points: 54</p>\n<p># Comments: 12</p>",
+            "url": "https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality",
+            "published": "Tue, 15 Sep 2026 17:37:36 +0000",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Personal Websites Are Coming Back",
+            "description": "<p>Article URL: <a href=\"https://deadparrotbbs.com/why-personal-websites-are-coming-back/\">https://deadparrotbbs.com/why-personal-websites-are-coming-back/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715802\">https://news.ycombinator.com/item?id=49715802</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://deadparrotbbs.com/why-personal-websites-are-coming-back/",
+            "published": "Tue, 15 Sep 2026 17:27:50 +0000",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GEFS on OpenBSD: A Early Preview",
+            "description": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2\">https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715590\">https://news.ycombinator.com/item?id=49715590</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+            "published": "Tue, 15 Sep 2026 17:12:19 +0000",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+            "description": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+            "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 16:53:53 GMT",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The key findings and recommendations from the Lucy Letby inquiry",
+            "description": "Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.",
+            "url": "https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 15:11:40 GMT",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+            "description": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 16:45:49 GMT",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+            "description": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 16:50:46 +0000",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+            "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 16:15:13 +0000",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
+            "description": "No party wins majority in parliamentary polls in southern Philippines&#039; Muslim-majority region, unofficial results show.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 16:14:10 +0000",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T21:24:51+03:30"
+        }
+    ]
+}
