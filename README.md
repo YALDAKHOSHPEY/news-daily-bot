@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 21:24:51
+**Last Update:** 2026-09-15 21:49:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality">https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715934">https://news.ycombinator.com/item?id=49715934</a></p>
-<p>Points: 54</p>
-<p># Comments: 12</p>
+<p>Points: 114</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
 
 ---
 
-### 2. Why Personal Websites Are Coming Back
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://deadparrotbbs.com/why-personal-websites-are-coming-back/">https://deadparrotbbs.com/why-personal-websites-are-coming-back/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715802">https://news.ycombinator.com/item?id=49715802</a></p>
-<p>Points: 5</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://deadparrotbbs.com/why-personal-websites-are-coming-back/](https://deadparrotbbs.com/why-personal-websites-are-coming-back/)
-
----
-
-### 3. GEFS on OpenBSD: A Early Preview
+### 2. GEFS on OpenBSD: A Early Preview
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2">https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715590">https://news.ycombinator.com/item?id=49715590</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://marc.info/?l=openbsd-tech&m=178948744271633&w=2](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
+
+---
+
+### 3. Jiga (YC W21) Is Hiring Product Engineer (Remote/US)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd">https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715446">https://news.ycombinator.com/item?id=49715446</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
 
 ---
 
@@ -71,16 +71,16 @@ Plans will be "urgently" developed for live-streaming cameras after an inquiry r
 
 ---
 
-### 5. The key findings and recommendations from the Lucy Letby inquiry
+### 5. Letby failings go beyond one hospital - the whole system has been found lacking
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.
+Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 7. How an Israeli cell orchestrated an anti-Qatar campaign
+### 7. Police crack down on protests against constitutional change in DR Congo
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Demonstrations held across country against president&#039;s proposed constitutional changes seeking third term.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss)
+
+---
+
+### 8. More than 100,000 displaced as they flee violence in Yemen: UN
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands making risky maritime journey to Djibouti as conflict between Yemen gov&#039;t and Houthis intensifies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss)
+
+---
+
+### 9. How an Israeli cell orchestrated an anti-Qatar campaign
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss)
-
----
-
-### 8. Can China play peacemaker as Iran’s foreign minister heads to Beijing?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss)
-
----
-
-### 9. Election in Philippines’ Bangsamoro region ends in hung parliament
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-No party wins majority in parliamentary polls in southern Philippines&#039; Muslim-majority region, unofficial results show.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss)
 
 ---
 
