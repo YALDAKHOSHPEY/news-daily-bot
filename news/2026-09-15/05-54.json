@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T05:54:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49706223\">https://news.ycombinator.com/item?id=49706223</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+            "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/JamesRyanATX/fcbnerd\">https://github.com/JamesRyanATX/fcbnerd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49705442\">https://news.ycombinator.com/item?id=49705442</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/JamesRyanATX/fcbnerd",
+            "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Charts built for Chat",
+            "description": "<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 102</p>\n<p># Comments: 35</p>",
+            "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+            "published": "Mon, 14 Sep 2026 21:22:54 +0000",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lucy Letby public inquiry findings set to be published",
+            "description": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
+            "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 01:54:35 GMT",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+            "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 00:32:21 GMT",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
+            "description": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
+            "url": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 23:51:03 GMT",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Viral hit-and-run raises road rage questions in India",
+            "description": "Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 02:07:17 +0000",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
+            "description": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 01:23:53 +0000",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia resupplies military bases in Syria for first time under new deal",
+            "description": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
+            "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 00:43:47 +0000",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T05:54:23+03:30"
+        }
+    ]
+}
