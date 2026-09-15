@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 11:24:54
+**Last Update:** 2026-09-15 11:38:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.linuxfromscratch.org/">https://www.linuxfromscratch.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707627">https://news.ycombinator.com/item?id=49707627</a></p>
-<p>Points: 118</p>
-<p># Comments: 39</p>
+<p>Points: 133</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://www.linuxfromscratch.org/](https://www.linuxfromscratch.org/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49706223">https://news.ycombinator.com/item?id=49706223</a></p>
-<p>Points: 153</p>
-<p># Comments: 82</p>
+<p>Points: 158</p>
+<p># Comments: 88</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
 
@@ -97,7 +97,33 @@ The US president's comments come after Anthropic co-founder Jack Clark told the 
 
 ---
 
-### 7. Palestine weekly: Settlement sanctions spark diplomatic crisis
+### 7. What to watch in the US’s Delaware primary elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+It&#039;s the last state primary scheduled before November&#039;s midterm elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss)
+
+---
+
+### 8. Hungary to amend anti-LGBTQ law to align with EU standards
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A new bill will remove references to banning the &#039;promotion&#039; of homosexuality.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss)
+
+---
+
+### 9. Palestine weekly: Settlement sanctions spark diplomatic crisis
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The US president's comments come after Anthropic co-founder Jack Clark told the 
 New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss)
-
----
-
-### 8. BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss](https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss)
-
----
-
-### 9. Leeds United defeat Newcastle 4-1 to go third in Premier League
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Goals from in-form forward Calvert-Lewin, Okafor and Bogle boost Leeds&#039; standing in the league table.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss)
 
 ---
 
