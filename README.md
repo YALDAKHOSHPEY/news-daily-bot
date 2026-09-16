@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 17:21:46
+**Last Update:** 2026-09-16 20:40:35
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hackers Got Inside a Flock Camera. Its Data Shows How the System Works
+### 1. Claude Cowork and chat are now one Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726586">https://news.ycombinator.com/item?id=49726586</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/)
-
----
-
-### 2. Scaling Golang CI by Replacing actions/setup-go
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cloudx.ai/posts/setup-go">https://www.cloudx.ai/posts/setup-go</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726350">https://news.ycombinator.com/item?id=49726350</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.cloudx.ai/posts/setup-go](https://www.cloudx.ai/posts/setup-go)
-
----
-
-### 3. ImpactGate: A merge gate that scores the structural decay AI adds
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/officefloor/ImpactGate">https://github.com/officefloor/ImpactGate</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726329">https://news.ycombinator.com/item?id=49726329</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
+<p>Points: 22</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://github.com/officefloor/ImpactGate](https://github.com/officefloor/ImpactGate)
+🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
 
 ---
 
-### 4. Petrol and diesel price rises push UK inflation higher
+### 2. Code Is CRAP [2011]
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.
+<p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
+<p>Points: 41</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 
 ---
 
-### 5. EU chief backs plan for Canada to become 'associate member'
+### 3. Small Programming Tricks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
+<p>Points: 66</p>
+<p># Comments: 46</p>
+
+🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
+
+---
+
+### 4. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 6. How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career
+### 5. 'Putney pusher' suspect found dead at home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.
+Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun
+### 6. Photos show widespread damage at US sites from Iranian attacks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Poll shows Americans are increasingly alarmed by AI’s ecological footprint
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From aboard a Djiboutian naval vessel in the Bab al-Mandeb Strait, an Al Jazeera team is monitoring the situation.
+New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss)
 
 ---
 
-### 8. EU chief von der Leyen proposes ‘associate member’ status for Canada
+### 8. Malaysia offers to invite Myanmar leader in Rohingya repatriation push
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Mark Carney said earlier this week that Canada was seeking a &#039;unique alliance&#039; with the European Union.
+Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss)
 
 ---
 
-### 9. Gold mine collapse kills at least 70 people in Sudan’s West Kordofan
+### 9. Angry Dutch farmers blamed for railway sabotage: What happened?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of artisanal miners have been killed after a series of adjoining mining shafts collapsed.
+Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss)
 
 ---
 
