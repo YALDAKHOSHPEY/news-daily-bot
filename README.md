@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 05:47:53
+**Last Update:** 2026-09-16 09:47:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Saving Jet Fuel
+### 1. Datamimic – don't let your coding agent invent its own test world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49720164">https://news.ycombinator.com/item?id=49720164</a></p>
-<p>Points: 29</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
 
 ---
 
-### 2. Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
+### 2. Negativland, Culture Jamming, and the Art of Making Something New
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nand2mario.github.io/posts/2026/zsst-voodoo/">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49719938">https://news.ycombinator.com/item?id=49719938</a></p>
-<p>Points: 33</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721548">https://news.ycombinator.com/item?id=49721548</a></p>
+<p>Points: 64</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://nand2mario.github.io/posts/2026/zsst-voodoo/](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+🔗 **Read more:** [https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
 
 ---
 
-### 3. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+### 3. Stay discoverable in search while disallowing AI training
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 133</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721435">https://news.ycombinator.com/item?id=49721435</a></p>
+<p>Points: 48</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+🔗 **Read more:** [https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 
 ---
 
-### 4. OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
+### 4. OpenAI boss says world 'right to be afraid' but should trust AI firms
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ The star said he was not responsible for Macklemore being dropped from the line-
 
 ---
 
-### 6. Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'
+### 6. UK in talks about joining global defence bank led by Canada
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.
+Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?
+### 7. US House votes to end Iran war, 7 Republicans join in favour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.
+For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss)
 
 ---
 
-### 8. Israel started an anti-Qatar campaign, then scrapped it
+### 8. Seoul court orders North Korea to pay $32.5m for blowing up office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Days after October 7, Israel began building a global campaign to pressure and isolate Qatar.
+Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss)
 
 ---
 
-### 9. Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions
+### 9. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A senior Iraqi source points to a resistance &#039;splinter&#039; group for the September attack on the East-West pipeline.
+China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss)
 
 ---
 
