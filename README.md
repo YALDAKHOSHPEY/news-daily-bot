@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 04:05:47
+**Last Update:** 2026-09-16 05:47:53
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49720164">https://news.ycombinator.com/item?id=49720164</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Points: 29</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
 
 ---
 
-### 2. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+### 2. Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nand2mario.github.io/posts/2026/zsst-voodoo/">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49719938">https://news.ycombinator.com/item?id=49719938</a></p>
+<p>Points: 33</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://nand2mario.github.io/posts/2026/zsst-voodoo/](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+
+---
+
+### 3. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 105</p>
-<p># Comments: 28</p>
+<p>Points: 133</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
-
----
-
-### 3. Jean-Pierre Serre is 100 years old today
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 76</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
 ---
 
@@ -97,42 +97,42 @@ Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 201
 
 ---
 
-### 7. Iran war live: Iran’s top diplomat heads to China as war drags on
+### 7. DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.
+M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss)
 
 ---
 
-### 8. Panic on board Iranian plane as violent shaking rips cabin apart
+### 8. Israel started an anti-Qatar campaign, then scrapped it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.
+Days after October 7, Israel began building a global campaign to pressure and isolate Qatar.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss)
 
 ---
 
-### 9. Argentina intensifies campaign against Falklands oil companies
+### 9. Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.
+A senior Iraqi source points to a resistance &#039;splinter&#039; group for the September attack on the East-West pipeline.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss)
 
 ---
 
