@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 21:20:05
+**Last Update:** 2026-09-16 23:47:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Cowork and chat are now one Claude
+### 1. How good are frontier models at physics?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
-<p>Points: 66</p>
-<p># Comments: 81</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
+🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
 
 ---
 
-### 2. This Code Is CRAP (2011)
+### 2. Fed Raises Rates for First Time in Three Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
-<p>Points: 52</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731515">https://news.ycombinator.com/item?id=49731515</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+🔗 **Read more:** [https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)
 
 ---
 
-### 3. Small Programming Tricks
+### 3. Accurate Models of AMD Matrix Cores
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
-<p>Points: 113</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
 
 ---
 
-### 4. EU chief backs plan for Canada to become 'associate member'
+### 4. Body found in search for missing three-year-old Noah Woods
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
+Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. 'Putney pusher' suspect found dead at home
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
+### 5. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Buckingham Palace has pushed back against the claim, saying grief can "colour me
 
 ---
 
-### 7. Kosovo’s former president guilty of war crimes
+### 6. EU chief backs plan for Canada to become 'associate member'
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hashim Thaci, former President of Kosovo and KLA leader, has been found guilty of war crimes in the Hague.
+Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Why has the response to Nepal’s floods been so muted?
+### 7. Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Because wealthy nations do not want to take responsibility for their role in the current climate crisis.
+A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/16/why-has-the-response-to-nepals-floods-been-so-muted?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/16/why-has-the-response-to-nepals-floods-been-so-muted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss)
 
 ---
 
-### 9. South Africa slam planned US sanctions over alleged racial discrimination
+### 8. US Fed raises interest rates for first time in three years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump administration falling for misinformation from &#039;fringe groups&#039; alleging discrimination against white Afrikaners.
+The 25 basis-point hike is the first raise in three years and comes before critical midterm elections in the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/south-africa-slam-planned-us-sanctions-over-alleged-racial-discrimination?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss)
+
+---
+
+### 9. Geopolitical divides fueling UN Security Council inaction, Guterres warns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss)
 
 ---
 
