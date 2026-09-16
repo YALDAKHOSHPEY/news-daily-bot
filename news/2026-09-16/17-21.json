@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T17:21:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726586\">https://news.ycombinator.com/item?id=49726586</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+            "published": "Wed, 16 Sep 2026 13:18:47 +0000",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scaling Golang CI by Replacing actions/setup-go",
+            "description": "<p>Article URL: <a href=\"https://www.cloudx.ai/posts/setup-go\">https://www.cloudx.ai/posts/setup-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726350\">https://news.ycombinator.com/item?id=49726350</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://www.cloudx.ai/posts/setup-go",
+            "published": "Wed, 16 Sep 2026 13:02:14 +0000",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+            "description": "<p>Article URL: <a href=\"https://github.com/officefloor/ImpactGate\">https://github.com/officefloor/ImpactGate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726329\">https://news.ycombinator.com/item?id=49726329</a></p>\n<p>Points: 12</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/officefloor/ImpactGate",
+            "published": "Wed, 16 Sep 2026 13:01:09 +0000",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Petrol and diesel price rises push UK inflation higher",
+            "description": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:16:56 GMT",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+            "description": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+            "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 11:50:12 GMT",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
+            "description": "From aboard a Djiboutian naval vessel in the Bab al-Mandeb Strait, an Al Jazeera team is monitoring the situation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 13:23:55 +0000",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU chief von der Leyen proposes ‘associate member’ status for Canada",
+            "description": "Prime Minister Mark Carney said earlier this week that Canada was seeking a &#039;unique alliance&#039; with the European Union.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 13:18:51 +0000",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
+            "description": "Dozens of artisanal miners have been killed after a series of adjoining mining shafts collapsed.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 13:15:22 +0000",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T17:21:46+03:30"
+        }
+    ]
+}
