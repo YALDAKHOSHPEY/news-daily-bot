@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 23:47:52
+**Last Update:** 2026-09-17 00:07:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
-<p>Points: 17</p>
+<p>Points: 21</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
 
 ---
 
-### 2. Fed Raises Rates for First Time in Three Years
+### 2. A coffee shop owner used AI to make a menu poster. Then came the angry DMs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731515">https://news.ycombinator.com/item?id=49731515</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9">https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731395">https://news.ycombinator.com/item?id=49731395</a></p>
+<p>Points: 33</p>
+<p># Comments: 85</p>
 
-🔗 **Read more:** [https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)
+🔗 **Read more:** [https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
 
@@ -97,42 +97,42 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 7. Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
+### 7. Al-Mughayyir: A village under siege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.
+In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss)
 
 ---
 
-### 8. US Fed raises interest rates for first time in three years
+### 8. Republican US senator slams Trump vaccine policy amid rising measles deaths
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 25 basis-point hike is the first raise in three years and comes before critical midterm elections in the US.
+US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss)
 
 ---
 
-### 9. Geopolitical divides fueling UN Security Council inaction, Guterres warns
+### 9. Lebanon returns 37 artefacts smuggled out of Egypt six years ago
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guterres calls for urgent Security Council reform, says geopolitical divides hindering action on global crises.
+The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss)
 
 ---
 
