@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 00:07:06
+**Last Update:** 2026-09-17 02:35:05
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How good are frontier models at physics?
+### 1. Breaking the 1.58-bit Barrier for Ternary LLMs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
+<p>Points: 82</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
+🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
 
 ---
 
-### 2. A coffee shop owner used AI to make a menu poster. Then came the angry DMs
+### 2. Backups Aren't Simple
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9">https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731395">https://news.ycombinator.com/item?id=49731395</a></p>
-<p>Points: 33</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://filipovski.net/2026/09/16/backups-arent-simple.html">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732513">https://news.ycombinator.com/item?id=49732513</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
+🔗 **Read more:** [https://filipovski.net/2026/09/16/backups-arent-simple.html](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 
 ---
 
-### 3. Accurate Models of AMD Matrix Cores
+### 3. Xiaomi Mimo 2.6 live post-training dashboard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://mimo.xiaomi.com/rl/">https://mimo.xiaomi.com/rl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732270">https://news.ycombinator.com/item?id=49732270</a></p>
+<p>Points: 168</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
+🔗 **Read more:** [https://mimo.xiaomi.com/rl/](https://mimo.xiaomi.com/rl/)
 
 ---
 
@@ -71,68 +71,68 @@ Police divers discover child's body in a pond after Noah went missing from a pla
 
 ---
 
-### 5. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
+### 5. US interest rates raised for first time in three years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Buckingham Palace has pushed back against the claim, saying grief can "colour memory" of events.
+Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Diana's brother claimed the then-Prince of Wales said she would be forgotten "soon enough" days after her death.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. EU chief backs plan for Canada to become 'associate member'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Al-Mughayyir: A village under siege
+### 7. For checkpoint and settler attack news, Palestinians tune into the radio
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.
+Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss)
 
 ---
 
-### 8. Republican US senator slams Trump vaccine policy amid rising measles deaths
+### 8. Macklemore pledges $1m in tour earnings to Palestinian groups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.
+The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss)
 
 ---
 
-### 9. Lebanon returns 37 artefacts smuggled out of Egypt six years ago
+### 9. Manchester United lose 3-2 to Brighton, crash out of League Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.
+Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
 
 ---
 
