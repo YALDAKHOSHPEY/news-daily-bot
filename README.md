@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 02:53:04
+**Last Update:** 2026-09-17 05:03:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSpec – A lightweight and configurable AI spec framework
+### 1. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735180">https://news.ycombinator.com/item?id=49735180</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
+
+---
+
+### 2. OpenSpec – A lightweight and configurable AI spec framework
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://openspec.dev/">https://openspec.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734264">https://news.ycombinator.com/item?id=49734264</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 57</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://openspec.dev/](https://openspec.dev/)
 
 ---
 
-### 2. Australia says it could follow Canada in forging deeper ties with EU
+### 3. Australia says it could follow Canada in forging deeper ties with EU
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734171">https://news.ycombinator.com/item?id=49734171</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 117</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
-
----
-
-### 3. Breaking the 1.58-bit Barrier for Ternary LLMs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
-<p>Points: 88</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
 
 ---
 
@@ -97,42 +97,42 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 
 ---
 
-### 7. For checkpoint and settler attack news, Palestinians tune into the radio
+### 7. UK and Canada discuss AI risks and defence ties in first bilateral meeting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.
+UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss)
 
 ---
 
-### 8. Macklemore pledges $1m in tour earnings to Palestinian groups
+### 8. Congress passes sweeping US sanctions bill targeting Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.
+The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss)
 
 ---
 
-### 9. Manchester United lose 3-2 to Brighton, crash out of League Cup
+### 9. US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
+The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss)
 
 ---
 
