@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 21:53:10
+**Last Update:** 2026-09-18 00:13:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Economic Policy for AGI
+### 1. Astra for Law
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://institute.deepmind.com/essays/economic-policy-for-agi/">https://institute.deepmind.com/essays/economic-policy-for-agi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743685">https://news.ycombinator.com/item?id=49743685</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://openai.com/index/astra-for-law/">https://openai.com/index/astra-for-law/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745940">https://news.ycombinator.com/item?id=49745940</a></p>
+<p>Points: 25</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://institute.deepmind.com/essays/economic-policy-for-agi/](https://institute.deepmind.com/essays/economic-policy-for-agi/)
+🔗 **Read more:** [https://openai.com/index/astra-for-law/](https://openai.com/index/astra-for-law/)
 
 ---
 
-### 2. Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI
+### 2. Everybody's Lost Their Minds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://zscc.ai/careers?job_id=109821">https://zscc.ai/careers?job_id=109821</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743567">https://news.ycombinator.com/item?id=49743567</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745570">https://news.ycombinator.com/item?id=49745570</a></p>
+<p>Points: 34</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://zscc.ai/careers?job_id=109821](https://zscc.ai/careers?job_id=109821)
+🔗 **Read more:** [https://www.netmeister.org/blog/everybodys-lost-their-minds.html](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
 
 ---
 
-### 3. Towards Self-Driving Codebases
+### 3. Don't Just Say Hello
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.detail.dev/posts/towards-self-driving-codebases/">https://blog.detail.dev/posts/towards-self-driving-codebases/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743527">https://news.ycombinator.com/item?id=49743527</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://nohello.net/en/">https://nohello.net/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745266">https://news.ycombinator.com/item?id=49745266</a></p>
+<p>Points: 32</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://blog.detail.dev/posts/towards-self-driving-codebases/](https://blog.detail.dev/posts/towards-self-driving-codebases/)
+🔗 **Read more:** [https://nohello.net/en/](https://nohello.net/en/)
 
 ---
 
@@ -71,7 +71,20 @@ A 56-year-old man is arrested after the remains of Joanne Sheen were found in Lo
 
 ---
 
-### 5. Interest rates held but Bank signals rise if energy prices stay high
+### 5. Charles 'sounded giddily elated' after Diana died, Earl Spencer claims
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Interest rates held but Bank signals rise if energy prices stay high
 
 **Source:** BBC
 
@@ -84,59 +97,72 @@ Rates are held for the sixth time in a row but the Bank of England says high ene
 
 ---
 
-### 6. Father's tribute to 'sweetest little boy' Noah Woods
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude" to local people.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. English FA calls for Infantino to release FIFA World Cup sell-off documents
+### 7. Russia’s plans may include strikes against Ukraine’s allies, Poland says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gianni Infantino&#039;s World Cup selloff plan has faced global backlash with English FA latest to seek document release.
+Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss)
 
 ---
 
-### 8. Brazil’s Lula announces welfare increases ahead of presidential election
+### 8. Ilhan Omar attacker sentenced to more than a year in prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023.
+The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss)
 
 ---
 
-### 9. Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks
+### 9. Four bodies found in Nepal tunnel as flood search continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.
+Rescuers in Nepal have recovered four bodies from a flooded hydropower tunnel in Chilime.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Dujuan
+### 10. Wildfire Breezy, Starr, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483)
+
+---
+
+### 11. Wildfire FLORISTON, Nevada, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488)
+
+---
+
+### 12. Tropical Storm Dujuan
 
 **Source:** NASA
 
@@ -146,32 +172,6 @@ The French presidency said the aim of the Paris talks was to review a Lebanese a
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317)
-
----
-
-### 11. Cyclone Norbert
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
-
----
-
-### 12. Wildfire MEERS, Comanche, Oklahoma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
 
 ---
 
