@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 01:03:11
+**Last Update:** 2026-09-18 02:44:43
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bend
+### 1. How to Write with an LLM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bend-lang.com/">https://bend-lang.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746163">https://news.ycombinator.com/item?id=49746163</a></p>
-<p>Points: 74</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49747070">https://news.ycombinator.com/item?id=49747070</a></p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://bend-lang.com/](https://bend-lang.com/)
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 
 ---
 
-### 2. Astra for Law
+### 2. Sex, AI, and the Apocalypse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/astra-for-law/">https://openai.com/index/astra-for-law/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745940">https://news.ycombinator.com/item?id=49745940</a></p>
-<p>Points: 116</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746654">https://news.ycombinator.com/item?id=49746654</a></p>
+<p>Points: 64</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://openai.com/index/astra-for-law/](https://openai.com/index/astra-for-law/)
+🔗 **Read more:** [https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
-### 3. Everybody's Lost Their Minds
+### 3. How Uber Protects Against Retry Storms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745570">https://news.ycombinator.com/item?id=49745570</a></p>
-<p>Points: 138</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746628">https://news.ycombinator.com/item?id=49746628</a></p>
+<p>Points: 13</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.netmeister.org/blog/everybodys-lost-their-minds.html](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
+🔗 **Read more:** [https://www.uber.com/us/en/blog/protecting-against-retry-storms/](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
 
 ---
 
@@ -97,42 +97,42 @@ Rates are held for the sixth time in a row but the Bank of England says high ene
 
 ---
 
-### 7. Pennsylvania seeks CDC help amid dispute over US measles deaths
+### 7. Russia election: Could other parties challenge United Russia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.
+Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss)
 
 ---
 
-### 8. Russia, China veto UN mandate to monitor Iran sanctions
+### 8. Trinidad and Tobago ends state of emergency amid pushback over mass arrests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move ends the Security Council’s watchdog panel on Iran sanctions.
+Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss)
 
 ---
 
-### 9. At least 26 killed in clashes along Sudan-South Sudan border region
+### 9. US judge orders 30-day notice prior to any Kennedy Center physical changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.
+The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss)
 
 ---
 
