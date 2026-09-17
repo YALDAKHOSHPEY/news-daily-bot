@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 11:22:43
+**Last Update:** 2026-09-17 11:38:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/cloudflare/security-audit-skill">https://github.com/cloudflare/security-audit-skill</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49736466">https://news.ycombinator.com/item?id=49736466</a></p>
-<p>Points: 27</p>
-<p># Comments: 4</p>
+<p>Points: 33</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/browser-use/jev-ultrafast">https://github.com/browser-use/jev-ultrafast</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735979">https://news.ycombinator.com/item?id=49735979</a></p>
-<p>Points: 39</p>
-<p># Comments: 3</p>
+<p>Points: 42</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://ryan.science/blog/keys-not-included">https://ryan.science/blog/keys-not-included</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735930">https://news.ycombinator.com/item?id=49735930</a></p>
-<p>Points: 139</p>
-<p># Comments: 50</p>
+<p>Points: 143</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://ryan.science/blog/keys-not-included](https://ryan.science/blog/keys-not-included)
 
@@ -97,7 +97,20 @@ Enhertu, which can give patients an extra seven months to live on average, has b
 
 ---
 
-### 7. Israel weaponises AI for West Bank demolitions
+### 7. India warns new US tariffs over Russian oil could impact ties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New Delhi says it has &#039;made clear&#039; its determination to &#039;protect its trade and economic interests&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss)
+
+---
+
+### 8. Israel weaponises AI for West Bank demolitions
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ AI tools push forced evictions of Palestinians, automating demolitions in occupi
 
 ---
 
-### 8. OpenAI reports more incidents of models acting deceptively
+### 9. OpenAI reports more incidents of models acting deceptively
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ AI tools push forced evictions of Palestinians, automating demolitions in occupi
 The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss)
-
----
-
-### 9. What are the biggest AI companies and how much are they worth?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss)
 
 ---
 
