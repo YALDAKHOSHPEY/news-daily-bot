@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 05:51:57
+**Last Update:** 2026-09-17 11:22:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior
+### 1. Cloudflare/Security-Audit-Skill
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735180">https://news.ycombinator.com/item?id=49735180</a></p>
-<p>Points: 42</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://github.com/cloudflare/security-audit-skill">https://github.com/cloudflare/security-audit-skill</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49736466">https://news.ycombinator.com/item?id=49736466</a></p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
+🔗 **Read more:** [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 ---
 
-### 2. The Return of Sail Power: Cargo Ships Are Turning Back to the Wind
+### 2. Jev Ultrafast: A browser agent with a dynamic, indexed action space
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/">https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734929">https://news.ycombinator.com/item?id=49734929</a></p>
-<p>Points: 20</p>
+<p>Article URL: <a href="https://github.com/browser-use/jev-ultrafast">https://github.com/browser-use/jev-ultrafast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735979">https://news.ycombinator.com/item?id=49735979</a></p>
+<p>Points: 39</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
+🔗 **Read more:** [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
 
 ---
 
-### 3. OpenSpec – A lightweight and configurable AI spec framework
+### 3. Keys Not Included: recovering the signing keys for US driver's license barcodes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openspec.dev/">https://openspec.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734264">https://news.ycombinator.com/item?id=49734264</a></p>
-<p>Points: 74</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://ryan.science/blog/keys-not-included">https://ryan.science/blog/keys-not-included</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735930">https://news.ycombinator.com/item?id=49735930</a></p>
+<p>Points: 139</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://openspec.dev/](https://openspec.dev/)
+🔗 **Read more:** [https://ryan.science/blog/keys-not-included](https://ryan.science/blog/keys-not-included)
 
 ---
 
-### 4. Body found in search for missing three-year-old Noah Woods
+### 4. Palace in war of words with Earl Spencer over claims in Diana book
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.
+The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US interest rates raised for first time in three years
+### 5. Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
+Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book
+### 6. New hope for breast cancer patients as life-extending drug now on NHS in England
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Diana's brother claimed the then-Prince of Wales said she would be forgotten "soon enough" days after her death.
+Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Reports: US, Houthis make secret deal over Yemen war
+### 7. Israel weaponises AI for West Bank demolitions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen’s Houthis have agreed to allow US shipping unfettered Red Sea access if Washington refrains from military action.
+AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss)
 
 ---
 
-### 8. UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation
+### 8. OpenAI reports more incidents of models acting deceptively
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.
+The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss)
 
 ---
 
-### 9. Congress passes sweeping US sanctions bill targeting Russia
+### 9. What are the biggest AI companies and how much are they worth?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine
+As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss)
 
 ---
 
