@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 00:13:57
+**Last Update:** 2026-09-18 01:03:11
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Astra for Law
+### 1. Bend
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bend-lang.com/">https://bend-lang.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746163">https://news.ycombinator.com/item?id=49746163</a></p>
+<p>Points: 74</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://bend-lang.com/](https://bend-lang.com/)
+
+---
+
+### 2. Astra for Law
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/astra-for-law/">https://openai.com/index/astra-for-law/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745940">https://news.ycombinator.com/item?id=49745940</a></p>
-<p>Points: 25</p>
-<p># Comments: 11</p>
+<p>Points: 116</p>
+<p># Comments: 85</p>
 
 🔗 **Read more:** [https://openai.com/index/astra-for-law/](https://openai.com/index/astra-for-law/)
 
 ---
 
-### 2. Everybody's Lost Their Minds
+### 3. Everybody's Lost Their Minds
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745570">https://news.ycombinator.com/item?id=49745570</a></p>
-<p>Points: 34</p>
-<p># Comments: 11</p>
+<p>Points: 138</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://www.netmeister.org/blog/everybodys-lost-their-minds.html](https://www.netmeister.org/blog/everybodys-lost-their-minds.html)
-
----
-
-### 3. Don't Just Say Hello
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nohello.net/en/">https://nohello.net/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49745266">https://news.ycombinator.com/item?id=49745266</a></p>
-<p>Points: 32</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://nohello.net/en/](https://nohello.net/en/)
 
 ---
 
@@ -97,42 +97,42 @@ Rates are held for the sixth time in a row but the Bank of England says high ene
 
 ---
 
-### 7. Russia’s plans may include strikes against Ukraine’s allies, Poland says
+### 7. Pennsylvania seeks CDC help amid dispute over US measles deaths
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.
+The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss)
 
 ---
 
-### 8. Ilhan Omar attacker sentenced to more than a year in prison
+### 8. Russia, China veto UN mandate to monitor Iran sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The assailant sprayed vinegar at Ilhan Omar, admitting political motives were behind the assault at a townhall.
+Move ends the Security Council’s watchdog panel on Iran sanctions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss)
 
 ---
 
-### 9. Four bodies found in Nepal tunnel as flood search continues
+### 9. At least 26 killed in clashes along Sudan-South Sudan border region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers in Nepal have recovered four bodies from a flooded hydropower tunnel in Chilime.
+UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/four-bodies-found-in-nepal-tunnel-as-flood-search-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss)
 
 ---
 
