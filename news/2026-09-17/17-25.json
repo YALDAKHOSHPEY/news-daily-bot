@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-17T17:25:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canada welcomes EU proposal to become 'associate member'",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cwly7vkke4jxo\">https://www.bbc.com/news/articles/cwly7vkke4jxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740507\">https://news.ycombinator.com/item?id=49740507</a></p>\n<p>Points: 34</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+            "published": "Thu, 17 Sep 2026 13:30:37 +0000",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I had Gemini train its own replacement for $9",
+            "description": "<p>Article URL: <a href=\"https://www.petervijeh.com/projects/reddit-ner\">https://www.petervijeh.com/projects/reddit-ner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740330\">https://news.ycombinator.com/item?id=49740330</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.petervijeh.com/projects/reddit-ner",
+            "published": "Thu, 17 Sep 2026 13:17:16 +0000",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The American Religion of Self-Storage Facilities",
+            "description": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities\">https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740260\">https://news.ycombinator.com/item?id=49740260</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+            "published": "Thu, 17 Sep 2026 13:12:28 +0000",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+            "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+            "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 12:58:18 GMT",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+            "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 12:52:56 GMT",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Remains found after London wildfire identified as mother-of-three missing since 2019",
+            "description": "Human remains found in London belong to Joanne Sheen from Southampton, police confirm.",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 13:52:57 GMT",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
+            "description": "Pakistan says an Indian warship entered its EEZ, while India says the collision occurred in international waters.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 13:25:25 +0000",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How far will Egypt go to help Saudi Arabia secure the Red Sea?",
+            "description": "Regional analysts highlight the growing security alignment between Cairo and Riyadh amid escalating Red Sea tensions.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/17/how-far-will-egypt-go-to-help-saudi-arabia-secure-the-red-sea?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 13:24:10 +0000",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid fan group demands Mbappe apology for Ceuta shirt snub",
+            "description": "Mbappe, Vinicius Jr and Ibrahima Konate wore a tribute shirt partially rolled up ahead of Madrid&#039;s 3-2 win at Elche.",
+            "url": "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 13:12:45 +0000",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-17T17:25:22+03:30"
+        }
+    ]
+}

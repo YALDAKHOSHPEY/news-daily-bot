@@ -1,63 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 17:08:52
+**Last Update:** 2026-09-17 17:25:22
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: I built a new version of my fun spatial 3D online meeting app
+### 1. Canada welcomes EU proposal to become 'associate member'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN!<p>flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).<p>Live demo to try it out: <a href="https://app.flat.social/f/demo-flat" rel="nofollow">https://app.flat.social/f/demo-flat</a><p>Here's a quick demo video: <a href="https://www.youtube.com/watch?v=GeinBNqL23s" rel="nofollow">https://www.youtube.com/watch?v=GeinBNqL23s</a><p>It's a solo, bootstrapped project built with Three.js, LiveKit and Rapier for physics. I built the first version during the pandemic and posted it here back then: <a href="https://news.ycombinator.com/item?id=31833415">https://news.ycombinator.com/item?id=31833415</a><p>I had a couple of months off this year, so I locked myself in an (almost) jungle house in Brazil and rebuilt it into what I've always wanted it to be.<p>Would love to hear what you think!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49740047">https://news.ycombinator.com/item?id=49740047</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cwly7vkke4jxo">https://www.bbc.com/news/articles/cwly7vkke4jxo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49740507">https://news.ycombinator.com/item?id=49740507</a></p>
+<p>Points: 34</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://flat.social](https://flat.social)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cwly7vkke4jxo](https://www.bbc.com/news/articles/cwly7vkke4jxo)
 
 ---
 
-### 2. Neovim have a ~$800k Bitcoin donation sitting untouched since 2023
+### 2. I had Gemini train its own replacement for $9
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.<p>Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)<p>From the activity history, neovim last sent bitcoin out of the address in 2019 so it's been max 7 years since they've definitely had access.<p>Does anyone from the neovim project know about this? 
-Seems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily.<p>https://www.blockchain.com/explorer/addresses/btc/1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49738879">https://news.ycombinator.com/item?id=49738879</a></p>
-<p>Points: 213</p>
-<p># Comments: 125</p>
+<p>Article URL: <a href="https://www.petervijeh.com/projects/reddit-ner">https://www.petervijeh.com/projects/reddit-ner</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49740330">https://news.ycombinator.com/item?id=49740330</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49738879](https://news.ycombinator.com/item?id=49738879)
+🔗 **Read more:** [https://www.petervijeh.com/projects/reddit-ner](https://www.petervijeh.com/projects/reddit-ner)
 
 ---
 
-### 3. Better Vector Search for Long Documents: Chunking Inside Manticore Search
+### 3. The American Religion of Self-Storage Facilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://manticoresearch.com/blog/auto-chunking/">https://manticoresearch.com/blog/auto-chunking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49738766">https://news.ycombinator.com/item?id=49738766</a></p>
-<p>Points: 35</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities">https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49740260">https://news.ycombinator.com/item?id=49740260</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://manticoresearch.com/blog/auto-chunking/](https://manticoresearch.com/blog/auto-chunking/)
+🔗 **Read more:** [https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities)
 
 ---
 
@@ -87,20 +84,46 @@ Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude"
 
 ---
 
-### 6. Family of 'Putney pusher' suspect say he was innocent and blame police for his death
+### 6. Remains found after London wildfire identified as mother-of-three missing since 2019
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.
+Human remains found in London belong to Joanne Sheen from Southampton, police confirm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Real Madrid fan group demands Mbappe apologies over Ceuta shirt snub
+### 7. India-Pakistan navy ship collision sparks alarm over unintended escalation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan says an Indian warship entered its EEZ, while India says the collision occurred in international waters.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss)
+
+---
+
+### 8. How far will Egypt go to help Saudi Arabia secure the Red Sea?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Regional analysts highlight the growing security alignment between Cairo and Riyadh amid escalating Red Sea tensions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/17/how-far-will-egypt-go-to-help-saudi-arabia-secure-the-red-sea?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/17/how-far-will-egypt-go-to-help-saudi-arabia-secure-the-red-sea?traffic_source=rss)
+
+---
+
+### 9. Real Madrid fan group demands Mbappe apology for Ceuta shirt snub
 
 **Source:** Al Jazeera
 
@@ -110,32 +133,6 @@ The family of Nicholas Brandram said there was no forensic evidence linking him 
 Mbappe, Vinicius Jr and Ibrahima Konate wore a tribute shirt partially rolled up ahead of Madrid&#039;s 3-2 win at Elche.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss)
-
----
-
-### 8. Sweden prime minister to resign as left-wing bloc seals narrow election win
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-⁠Sweden&#039;s ⁠centre-right Prime Minister Ulf Kristersson said he will resign after losing the parliamentary elections.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss)
-
----
-
-### 9. US tariffs against Russian oil buyers pass: What it means for China, India
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US sanctions aim to weaken Russian oil exports, heavily targeting China and India as Moscow&#039;s largest energy buyers.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss](https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss)
 
 ---
 
