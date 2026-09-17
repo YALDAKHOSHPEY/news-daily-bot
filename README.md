@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 21:21:26
+**Last Update:** 2026-09-17 21:53:10
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI
+### 1. Economic Policy for AGI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://institute.deepmind.com/essays/economic-policy-for-agi/">https://institute.deepmind.com/essays/economic-policy-for-agi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743685">https://news.ycombinator.com/item?id=49743685</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://institute.deepmind.com/essays/economic-policy-for-agi/](https://institute.deepmind.com/essays/economic-policy-for-agi/)
+
+---
+
+### 2. Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI
 
 **Source:** Hacker News
 
@@ -26,37 +42,19 @@
 
 ---
 
-### 2. Show HN: AutoBot – live voice control for long-running AI work
+### 3. Towards Self-Driving Codebases
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I wanted to manage long horizon agentic workstreams via voice, then put my phone down, and have a harness manage completion - extending into full computer use.<p>I was trying to build a personal Jarvis, so I benchmarked AutoBot to see how close I could get:<p>- OSWorld: 32.41% (moved Sol Max from 4th to 1st, beating Opus 5)<p>- AssistantBench: 50.70%<p>Hermes and OpenClaw, but without needing a weekend and VMs. And with the ability to manage deep personalization AND keep strict privacy rules, storing data on encrypted disk.<p>AutoBot is a passion project that grew out of trying to make this all work for myself.<p>I’m sharing it here because I suspect other here have the same frustration. And I’m curious what else everyone is doing for this.<p>It’s an MIT-licensed harness that lives within a project.<p>Native voice lets me discuss tasks, check progress, and steer work; a local ledger tracks unfinished outputs and the evidence needed to call them done. Memory drives more autonomy over time, and “defrags and locks in learning nightly” while a heartbeat system persists execution.<p>I’m not selling anything. If you’re building something similar for yourself, I’d love to compare notes.<p>GitHub: <a href="https://github.com/demeyer1/Autobot" rel="nofollow">https://github.com/demeyer1/Autobot</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743478">https://news.ycombinator.com/item?id=49743478</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/demeyer1/Autobot](https://github.com/demeyer1/Autobot)
-
----
-
-### 3. Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Simple discovery of the provider's default schemas is possible without any credentials (since they are built into the binary). If you want it to fetch customizations of your specific instance, give it credentials to your org.<p>The repo has more details. <a href="https://github.com/agent-cli-framework/aclif" rel="nofollow">https://github.com/agent-cli-framework/aclif</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743382">https://news.ycombinator.com/item?id=49743382</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://blog.detail.dev/posts/towards-self-driving-codebases/">https://blog.detail.dev/posts/towards-self-driving-codebases/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49743527">https://news.ycombinator.com/item?id=49743527</a></p>
+<p>Points: 10</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.aclif.ai/](https://www.aclif.ai/)
+🔗 **Read more:** [https://blog.detail.dev/posts/towards-self-driving-codebases/](https://blog.detail.dev/posts/towards-self-driving-codebases/)
 
 ---
 
@@ -99,42 +97,42 @@ Rhys Woods pays tribute to his three-year-old son and offers "deepest gratitude"
 
 ---
 
-### 7. The UK’s King Charles warns AI leaders of ‘existential dangers’
+### 7. English FA calls for Infantino to release FIFA World Cup sell-off documents
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-British monarch highlights AI&#039;s potential darker capacities, urging safety and humanity-focused development.
+Gianni Infantino&#039;s World Cup selloff plan has faced global backlash with English FA latest to seek document release.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss)
 
 ---
 
-### 8. UN fact-finding mission says US committed possible war crimes in Iran
+### 8. Brazil’s Lula announces welfare increases ahead of presidential election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.
+Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss)
 
 ---
 
-### 9. Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends
+### 9. Macron and Aoun discuss efforts to back Lebanon’s army, end Israeli attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.
+The French presidency said the aim of the Paris talks was to review a Lebanese armed forces deployment plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/macron-aoun-discuss-lebanese-sovereignty-efforts-to-end-israeli-attacks?traffic_source=rss)
 
 ---
 
