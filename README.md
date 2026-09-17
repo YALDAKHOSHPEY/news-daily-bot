@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 05:03:26
+**Last Update:** 2026-09-17 05:51:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735180">https://news.ycombinator.com/item?id=49735180</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
+<p>Points: 42</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
 
 ---
 
-### 2. OpenSpec – A lightweight and configurable AI spec framework
+### 2. The Return of Sail Power: Cargo Ships Are Turning Back to the Wind
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/">https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734929">https://news.ycombinator.com/item?id=49734929</a></p>
+<p>Points: 20</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
+
+---
+
+### 3. OpenSpec – A lightweight and configurable AI spec framework
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openspec.dev/">https://openspec.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734264">https://news.ycombinator.com/item?id=49734264</a></p>
-<p>Points: 57</p>
-<p># Comments: 15</p>
+<p>Points: 74</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://openspec.dev/](https://openspec.dev/)
-
----
-
-### 3. Australia says it could follow Canada in forging deeper ties with EU
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734171">https://news.ycombinator.com/item?id=49734171</a></p>
-<p>Points: 117</p>
-<p># Comments: 70</p>
-
-🔗 **Read more:** [https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
 
 ---
 
@@ -97,7 +97,20 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 
 ---
 
-### 7. UK and Canada discuss AI risks and defence ties in first bilateral meeting
+### 7. Reports: US, Houthis make secret deal over Yemen war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemen’s Houthis have agreed to allow US shipping unfettered Red Sea access if Washington refrains from military action.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss)
+
+---
+
+### 8. UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ UK and Canada explore AI risks, defence cooperation and joint initiatives during
 
 ---
 
-### 8. Congress passes sweeping US sanctions bill targeting Russia
+### 9. Congress passes sweeping US sanctions bill targeting Russia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ UK and Canada explore AI risks, defence cooperation and joint initiatives during
 The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss)
-
----
-
-### 9. US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss)
 
 ---
 
