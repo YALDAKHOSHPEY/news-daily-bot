@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 22:47:19
+**Last Update:** 2026-09-18 23:18:41
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Implications of Linguistic Illegibility for LLM Security
+### 1. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
+
+---
+
+### 2. The Implications of Linguistic Illegibility for LLM Security
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.02852">https://arxiv.org/abs/2609.02852</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758689">https://news.ycombinator.com/item?id=49758689</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.02852](https://arxiv.org/abs/2609.02852)
 
 ---
 
-### 2. Border agents can search cellphones without a warrant or reasonable suspicion
+### 3. Cache-to-Cache: Direct Semantic Communication Between Large Language Models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/">https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758028">https://news.ycombinator.com/item?id=49758028</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2510.03215">https://arxiv.org/abs/2510.03215</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758615">https://news.ycombinator.com/item?id=49758615</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/](https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/)
-
----
-
-### 3. US Military had close call after using AI for hallucinated intelligence report
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757520">https://news.ycombinator.com/item?id=49757520</a></p>
-<p>Points: 156</p>
-<p># Comments: 86</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+🔗 **Read more:** [https://arxiv.org/abs/2510.03215](https://arxiv.org/abs/2510.03215)
 
 ---
 
@@ -97,42 +97,42 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. Warren Buffett steps down as Berkshire Hathaway chairman
+### 7. Two injured by Israeli shelling as troops advance in southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Buffet will become chairman emeritus immediately and his son Howard will become chairman.
+Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss)
 
 ---
 
-### 8. Russia’s drones threaten Kyiv-bound Western officials as war effort stalls
+### 8. England fast bowler Carse to face no charges over alleged nightclub assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in Ukraine’s east.
+Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss)
 
 ---
 
-### 9. Police clear Ceuta migrants off beaches in Spanish enclave
+### 9. Pentagon resumes paused testosterone policy amid medical experts’ concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.
+New policy mandates testosterone testing for US service members over 30, citing readiness while experts warn of risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss)
 
 ---
 
