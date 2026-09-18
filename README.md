@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 11:13:37
+**Last Update:** 2026-09-18 15:02:36
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Jemalloc 5.4.0
+### 1. Microsoft exec called AI scraping 'the largest theft of labor in human history'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752056">https://news.ycombinator.com/item?id=49752056</a></p>
+<p>Points: 143</p>
+<p># Comments: 79</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+
+---
+
+### 2. OpenJev
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openjev.com/">https://openjev.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752041">https://news.ycombinator.com/item?id=49752041</a></p>
+<p>Points: 118</p>
+<p># Comments: 58</p>
+
+🔗 **Read more:** [https://openjev.com/](https://openjev.com/)
+
+---
+
+### 3. Jemalloc 5.4.0
 
 **Source:** Hacker News
 
@@ -19,120 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 53</p>
-<p># Comments: 11</p>
+<p>Points: 171</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
 ---
 
-### 2. The scourge of x86 emulation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://news.ycombinator.com/item?id=49750094</a></p>
-<p>Points: 67</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://fex-emu.com/Scourge-of-emulation/](https://fex-emu.com/Scourge-of-emulation/)
-
----
-
-### 3. Waymo in Singapore
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://waymo.com/waymo-in-singapore/">https://waymo.com/waymo-in-singapore/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749981">https://news.ycombinator.com/item?id=49749981</a></p>
-<p>Points: 100</p>
-<p># Comments: 90</p>
-
-🔗 **Read more:** [https://waymo.com/waymo-in-singapore/](https://waymo.com/waymo-in-singapore/)
-
----
-
-### 4. Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits
+### 4. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The women were among hundreds who were harmed by their treatment at County Durham health trust.
+It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the abusive informant.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The trust's new chief executive says he apologises unreservedly - "What happened was utterly unacceptable."
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Charles 'sounded giddily elated' after Diana died, Earl Spencer claims
+### 6. Woman tells BBC of trauma after unnecessary breast cancer surgery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.
+Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. War may be coming. Are we psychologically ready?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The military and government say the risk of conflict is growing, but we may not be mentally ready for it
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions
+### 7. Who gets to decide how quickly AI moves?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New sanctions highlight Israel&#039;s isolation, yet analysts say they won&#039;t sway voters before October&#039;s elections.
+The biggest AI companies want to slow development together. The real question is what power they gain in return.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss)
 
 ---
 
-### 8. In Yemen, war at home and in the region drives up prices
+### 8. North Korea anthem played at South’s Bangladesh hockey match at Asian Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.
+Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss](https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss)
 
 ---
 
-### 9. Nigerian police probe death in custody of 37 illegal mining suspects
+### 9. Palmer and Alexander-Arnold recalled after England World Cup snub
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials blame disease outbreak for deaths as survivor suggests they suffocated.
+Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss)
 
 ---
 

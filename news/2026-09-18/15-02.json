@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T15:02:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752056\">https://news.ycombinator.com/item?id=49752056</a></p>\n<p>Points: 143</p>\n<p># Comments: 79</p>",
+            "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+            "published": "Fri, 18 Sep 2026 09:45:07 +0000",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenJev",
+            "description": "<p>Article URL: <a href=\"https://openjev.com/\">https://openjev.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752041\">https://news.ycombinator.com/item?id=49752041</a></p>\n<p>Points: 118</p>\n<p># Comments: 58</p>",
+            "url": "https://openjev.com/",
+            "published": "Fri, 18 Sep 2026 09:42:22 +0000",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jemalloc 5.4.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750152\">https://news.ycombinator.com/item?id=49750152</a></p>\n<p>Points: 171</p>\n<p># Comments: 49</p>",
+            "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+            "published": "Fri, 18 Sep 2026 04:20:24 +0000",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the abusive informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 10:19:46 GMT",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+            "description": "The trust's new chief executive says he apologises unreservedly - \"What happened was utterly unacceptable.\"",
+            "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:46:17 GMT",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman tells BBC of trauma after unnecessary breast cancer surgery",
+            "description": "Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.",
+            "url": "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:43:19 GMT",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who gets to decide how quickly AI moves?",
+            "description": "The biggest AI companies want to slow development together. The real question is what power they gain in return.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 11:04:01 +0000",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+            "description": "Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 10:59:04 +0000",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+            "description": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 10:49:33 +0000",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T15:02:36+03:30"
+        }
+    ]
+}
