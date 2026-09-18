@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 02:44:43
+**Last Update:** 2026-09-18 04:01:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to Write with an LLM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49747070">https://news.ycombinator.com/item?id=49747070</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-
----
-
-### 2. Sex, AI, and the Apocalypse
+### 1. Sex, AI, and the Apocalypse
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746654">https://news.ycombinator.com/item?id=49746654</a></p>
-<p>Points: 64</p>
-<p># Comments: 38</p>
+<p>Points: 124</p>
+<p># Comments: 104</p>
 
 🔗 **Read more:** [https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
-### 3. How Uber Protects Against Retry Storms
+### 2. How Uber Protects Against Retry Storms
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746628">https://news.ycombinator.com/item?id=49746628</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
+<p>Points: 25</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.uber.com/us/en/blog/protecting-against-retry-storms/](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
+
+---
+
+### 3. Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://prismml.com/news/bonsai-2-27b">https://prismml.com/news/bonsai-2-27b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746618">https://news.ycombinator.com/item?id=49746618</a></p>
+<p>Points: 155</p>
+<p># Comments: 51</p>
+
+🔗 **Read more:** [https://prismml.com/news/bonsai-2-27b](https://prismml.com/news/bonsai-2-27b)
 
 ---
 
@@ -84,55 +84,55 @@ Buckingham Palace has strongly pushed back against claims in a new book by the l
 
 ---
 
-### 6. Interest rates held but Bank signals rise if energy prices stay high
+### 6. War may be coming. Are we psychologically ready?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.
+The military and government say the risk of conflict is growing, but we may not be mentally ready for it
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia election: Could other parties challenge United Russia?
+### 7. Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
+Trump says he faces a &#039;big decision&#039; on whether to &#039;annihilate&#039; his Iranian foes, adding that &#039;anything could happen&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Trinidad and Tobago ends state of emergency amid pushback over mass arrests
+### 8. Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.
+More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss)
 
 ---
 
-### 9. US judge orders 30-day notice prior to any Kennedy Center physical changes
+### 9. US approves $414M uranium investment in Niger, two years after troops left
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.
+Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss)
 
 ---
 
