@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 09:39:13
+**Last Update:** 2026-09-18 11:13:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 53</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
 ---
 
-### 2. The Scourge of x86 Emulation
+### 2. The scourge of x86 emulation
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://news.ycombinator.com/item?id=49750094</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Points: 67</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://fex-emu.com/Scourge-of-emulation/](https://fex-emu.com/Scourge-of-emulation/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://waymo.com/waymo-in-singapore/">https://waymo.com/waymo-in-singapore/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749981">https://news.ycombinator.com/item?id=49749981</a></p>
-<p>Points: 65</p>
-<p># Comments: 33</p>
+<p>Points: 100</p>
+<p># Comments: 90</p>
 
 🔗 **Read more:** [https://waymo.com/waymo-in-singapore/](https://waymo.com/waymo-in-singapore/)
 
@@ -97,42 +97,42 @@ The military and government say the risk of conflict is growing, but we may not 
 
 ---
 
-### 7. Russia’s parliamentary election: Who’s on the ballot, and why it matters
+### 7. ‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-United Russia won more than two-thirds of the Duma&#039;s seats in the 2021 election and is poised to dominate the body again
+New sanctions highlight Israel&#039;s isolation, yet analysts say they won&#039;t sway voters before October&#039;s elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss)
 
 ---
 
-### 8. UN mission alleges crimes against humanity in Iranian protest crackdown
+### 8. In Yemen, war at home and in the region drives up prices
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.
+Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss](https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss)
 
 ---
 
-### 9. South Korea says US-North Korea talks possible, rules out Hormuz deployment
+### 9. Nigerian police probe death in custody of 37 illegal mining suspects
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.
+Officials blame disease outbreak for deaths as survivor suggests they suffocated.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss)
 
 ---
 
