@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 23:18:41
+**Last Update:** 2026-09-19 01:32:45
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
+### 1. Claude Code now reads AGENTS.md if there is no Claude.md
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://news.ycombinator.com/item?id=49760187</a></p>
+<p>Points: 161</p>
+<p># Comments: 68</p>
+
+🔗 **Read more:** [https://code.claude.com/docs/en/changelog](https://code.claude.com/docs/en/changelog)
+
+---
+
+### 2. Korea raises data breach fines to 10% of revenue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49759466">https://news.ycombinator.com/item?id=49759466</a></p>
+<p>Points: 189</p>
+<p># Comments: 53</p>
+
+🔗 **Read more:** [https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
+
+---
+
+### 3. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 338</p>
+<p># Comments: 156</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
-
----
-
-### 2. The Implications of Linguistic Illegibility for LLM Security
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.02852">https://arxiv.org/abs/2609.02852</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758689">https://news.ycombinator.com/item?id=49758689</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.02852](https://arxiv.org/abs/2609.02852)
-
----
-
-### 3. Cache-to-Cache: Direct Semantic Communication Between Large Language Models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2510.03215">https://arxiv.org/abs/2510.03215</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758615">https://news.ycombinator.com/item?id=49758615</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2510.03215](https://arxiv.org/abs/2510.03215)
 
 ---
 
@@ -97,42 +97,42 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. Two injured by Israeli shelling as troops advance in southern Lebanon
+### 7. Brighton vs Arsenal: Premier League – predictions, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.
+Premier League holders Arsenal have won all seven of their matches to start the new season.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss)
 
 ---
 
-### 8. England fast bowler Carse to face no charges over alleged nightclub assault
+### 8. New cat species found, first in more than 100 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.
+A new species of living cat has been identified for the first time in more than a century.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss)
 
 ---
 
-### 9. Pentagon resumes paused testosterone policy amid medical experts’ concerns
+### 9. Germany receives first F-35 jet from US as NATO boosts military spending
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New policy mandates testosterone testing for US service members over 30, citing readiness while experts warn of risks.
+Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss)
 
 ---
 
