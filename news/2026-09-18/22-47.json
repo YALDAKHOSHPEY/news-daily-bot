@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T22:47:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Implications of Linguistic Illegibility for LLM Security",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.02852\">https://arxiv.org/abs/2609.02852</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758689\">https://news.ycombinator.com/item?id=49758689</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2609.02852",
+            "published": "Fri, 18 Sep 2026 19:00:06 +0000",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+            "description": "<p>Article URL: <a href=\"https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/\">https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758028\">https://news.ycombinator.com/item?id=49758028</a></p>\n<p>Points: 34</p>\n<p># Comments: 15</p>",
+            "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+            "published": "Fri, 18 Sep 2026 18:08:32 +0000",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Military had close call after using AI for hallucinated intelligence report",
+            "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship\">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757520\">https://news.ycombinator.com/item?id=49757520</a></p>\n<p>Points: 156</p>\n<p># Comments: 86</p>",
+            "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+            "published": "Fri, 18 Sep 2026 17:28:01 +0000",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+            "description": "Buffet will become chairman emeritus immediately and his son Howard will become chairman.",
+            "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 18:32:24 +0000",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+            "description": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in Ukraine’s east.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 18:19:47 +0000",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+            "description": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 18:16:20 +0000",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T22:47:19+03:30"
+        }
+    ]
+}
