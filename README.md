@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 05:37:37
+**Last Update:** 2026-09-18 09:39:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Code from Source
+### 1. Jemalloc 5.4.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude-code-from-source.com/">https://claude-code-from-source.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749019">https://news.ycombinator.com/item?id=49749019</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://claude-code-from-source.com/](https://claude-code-from-source.com/)
-
----
-
-### 2. Telstra outage: The night a network decided the year was 2006
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006">https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49748957">https://news.ycombinator.com/item?id=49748957</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
+🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
 ---
 
-### 3. Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe
+### 2. The Scourge of x86 Emulation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/aardappel/goose/tree/master">https://github.com/aardappel/goose/tree/master</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49748954">https://news.ycombinator.com/item?id=49748954</a></p>
-<p>Points: 20</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://news.ycombinator.com/item?id=49750094</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/aardappel/goose/tree/master](https://github.com/aardappel/goose/tree/master)
+🔗 **Read more:** [https://fex-emu.com/Scourge-of-emulation/](https://fex-emu.com/Scourge-of-emulation/)
 
 ---
 
-### 4. Remains found after wildfire identified as mother-of-three missing since 2019
+### 3. Waymo in Singapore
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://waymo.com/waymo-in-singapore/">https://waymo.com/waymo-in-singapore/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749981">https://news.ycombinator.com/item?id=49749981</a></p>
+<p>Points: 65</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://waymo.com/waymo-in-singapore/](https://waymo.com/waymo-in-singapore/)
+
+---
+
+### 4. Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.
+The women were among hundreds who were harmed by their treatment at County Durham health trust.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The military and government say the risk of conflict is growing, but we may not 
 
 ---
 
-### 7. White House withdraws Lance Schroyer’s nomination to lead ICE
+### 7. Russia’s parliamentary election: Who’s on the ballot, and why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.
+United Russia won more than two-thirds of the Duma&#039;s seats in the 2021 election and is poised to dominate the body again
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss)
 
 ---
 
-### 8. Former Assad officer sentenced to 60 years in US for torture
+### 8. UN mission alleges crimes against humanity in Iranian protest crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad&#039;s regime.
+A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss)
 
 ---
 
-### 9. Tunisia floods disrupt capital as heavy rain traps motorists and residents
+### 9. South Korea says US-North Korea talks possible, rules out Hormuz deployment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.
+South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss)
 
 ---
 

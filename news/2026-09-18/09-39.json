@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T09:39:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jemalloc 5.4.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750152\">https://news.ycombinator.com/item?id=49750152</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+            "published": "Fri, 18 Sep 2026 04:20:24 +0000",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Scourge of x86 Emulation",
+            "description": "<p>Article URL: <a href=\"https://fex-emu.com/Scourge-of-emulation/\">https://fex-emu.com/Scourge-of-emulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750094\">https://news.ycombinator.com/item?id=49750094</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://fex-emu.com/Scourge-of-emulation/",
+            "published": "Fri, 18 Sep 2026 04:09:48 +0000",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Waymo in Singapore",
+            "description": "<p>Article URL: <a href=\"https://waymo.com/waymo-in-singapore/\">https://waymo.com/waymo-in-singapore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749981\">https://news.ycombinator.com/item?id=49749981</a></p>\n<p>Points: 65</p>\n<p># Comments: 33</p>",
+            "url": "https://waymo.com/waymo-in-singapore/",
+            "published": "Fri, 18 Sep 2026 03:49:24 +0000",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
+            "description": "The women were among hundreds who were harmed by their treatment at County Durham health trust.",
+            "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 04:58:31 GMT",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+            "description": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 02:55:18 GMT",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "War may be coming. Are we psychologically ready?",
+            "description": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
+            "url": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 23:22:17 GMT",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
+            "description": "United Russia won more than two-thirds of the Duma&#039;s seats in the 2021 election and is poised to dominate the body again",
+            "url": "https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 05:37:46 +0000",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN mission alleges crimes against humanity in Iranian protest crackdown",
+            "description": "A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 05:26:51 +0000",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+            "description": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 05:23:10 +0000",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T09:39:13+03:30"
+        }
+    ]
+}
