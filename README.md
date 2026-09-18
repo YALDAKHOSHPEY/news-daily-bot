@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 04:01:36
+**Last Update:** 2026-09-18 05:37:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sex, AI, and the Apocalypse
+### 1. Claude Code from Source
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746654">https://news.ycombinator.com/item?id=49746654</a></p>
-<p>Points: 124</p>
-<p># Comments: 104</p>
+<p>Article URL: <a href="https://claude-code-from-source.com/">https://claude-code-from-source.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749019">https://news.ycombinator.com/item?id=49749019</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+🔗 **Read more:** [https://claude-code-from-source.com/](https://claude-code-from-source.com/)
 
 ---
 
-### 2. How Uber Protects Against Retry Storms
+### 2. Telstra outage: The night a network decided the year was 2006
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746628">https://news.ycombinator.com/item?id=49746628</a></p>
-<p>Points: 25</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006">https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49748957">https://news.ycombinator.com/item?id=49748957</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.uber.com/us/en/blog/protecting-against-retry-storms/](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
+🔗 **Read more:** [https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
 
 ---
 
-### 3. Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
+### 3. Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prismml.com/news/bonsai-2-27b">https://prismml.com/news/bonsai-2-27b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746618">https://news.ycombinator.com/item?id=49746618</a></p>
-<p>Points: 155</p>
-<p># Comments: 51</p>
+<p>Article URL: <a href="https://github.com/aardappel/goose/tree/master">https://github.com/aardappel/goose/tree/master</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49748954">https://news.ycombinator.com/item?id=49748954</a></p>
+<p>Points: 20</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://prismml.com/news/bonsai-2-27b](https://prismml.com/news/bonsai-2-27b)
+🔗 **Read more:** [https://github.com/aardappel/goose/tree/master](https://github.com/aardappel/goose/tree/master)
 
 ---
 
@@ -97,42 +97,42 @@ The military and government say the risk of conflict is growing, but we may not 
 
 ---
 
-### 7. Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz
+### 7. White House withdraws Lance Schroyer’s nomination to lead ICE
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says he faces a &#039;big decision&#039; on whether to &#039;annihilate&#039; his Iranian foes, adding that &#039;anything could happen&#039;.
+The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss)
 
 ---
 
-### 8. Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM
+### 8. Former Assad officer sentenced to 60 years in US for torture
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.
+Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad&#039;s regime.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss)
 
 ---
 
-### 9. US approves $414M uranium investment in Niger, two years after troops left
+### 9. Tunisia floods disrupt capital as heavy rain traps motorists and residents
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
+Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss)
 
 ---
 
@@ -162,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Tropical Storm Dujuan
+### 12. Typhoon Dujuan
 
 **Source:** NASA
 
