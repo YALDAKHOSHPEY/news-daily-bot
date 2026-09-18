@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 15:02:36
+**Last Update:** 2026-09-18 15:58:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft exec called AI scraping 'the largest theft of labor in human history'
+### 1. Bend 2 and the Vibe-Coding Trap
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752056">https://news.ycombinator.com/item?id=49752056</a></p>
-<p>Points: 143</p>
-<p># Comments: 79</p>
+<p>Article URL: <a href="https://blog.liampwll.com/posts/bend_vibe_coding/">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753179">https://news.ycombinator.com/item?id=49753179</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+🔗 **Read more:** [https://blog.liampwll.com/posts/bend_vibe_coding/](https://blog.liampwll.com/posts/bend_vibe_coding/)
 
 ---
 
-### 2. OpenJev
+### 2. Cekura (YC F24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openjev.com/">https://openjev.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752041">https://news.ycombinator.com/item?id=49752041</a></p>
-<p>Points: 118</p>
-<p># Comments: 58</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753131">https://news.ycombinator.com/item?id=49753131</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openjev.com/](https://openjev.com/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
 
 ---
 
-### 3. Jemalloc 5.4.0
+### 3. Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 171</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html">https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49752614">https://news.ycombinator.com/item?id=49752614</a></p>
+<p>Points: 44</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the abusive informant.
+It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
 
@@ -84,20 +84,33 @@ The trust's new chief executive says he apologises unreservedly - "What happened
 
 ---
 
-### 6. Woman tells BBC of trauma after unnecessary breast cancer surgery
+### 6. Sisters of 'Putney pusher' suspect say DNA will clear his name
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.
+Nicholas Brandram's sisters tell the BBC he did a DNA test to speed up the inquiry but never got the results.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Who gets to decide how quickly AI moves?
+### 7. Deadly blast hits mosque at Pakistan police complex
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Several people have reportedly been killed in an explosion at a mosque near a police complex in northwest Pakistan.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss)
+
+---
+
+### 8. Who gets to decide how quickly AI moves?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The biggest AI companies want to slow development together. The real question is
 
 ---
 
-### 8. North Korea anthem played at South’s Bangladesh hockey match at Asian Games
+### 9. North Korea anthem played at South’s Bangladesh hockey match at Asian Games
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The biggest AI companies want to slow development together. The real question is
 Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss)
-
----
-
-### 9. Palmer and Alexander-Arnold recalled after England World Cup snub
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss)
 
 ---
 

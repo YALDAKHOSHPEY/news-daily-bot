@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T15:58:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bend 2 and the Vibe-Coding Trap",
+            "description": "<p>Article URL: <a href=\"https://blog.liampwll.com/posts/bend_vibe_coding/\">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753179\">https://news.ycombinator.com/item?id=49753179</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+            "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+            "published": "Fri, 18 Sep 2026 12:03:55 +0000",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cekura (YC F24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753131\">https://news.ycombinator.com/item?id=49753131</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+            "published": "Fri, 18 Sep 2026 12:00:10 +0000",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html\">https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49752614\">https://news.ycombinator.com/item?id=49752614</a></p>\n<p>Points: 44</p>\n<p># Comments: 18</p>",
+            "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+            "published": "Fri, 18 Sep 2026 11:01:44 +0000",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 11:39:50 GMT",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+            "description": "The trust's new chief executive says he apologises unreservedly - \"What happened was utterly unacceptable.\"",
+            "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:46:17 GMT",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sisters of 'Putney pusher' suspect say DNA will clear his name",
+            "description": "Nicholas Brandram's sisters tell the BBC he did a DNA test to speed up the inquiry but never got the results.",
+            "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 11:59:13 GMT",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly blast hits mosque at Pakistan police complex",
+            "description": "Several people have reportedly been killed in an explosion at a mosque near a police complex in northwest Pakistan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 11:15:52 +0000",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who gets to decide how quickly AI moves?",
+            "description": "The biggest AI companies want to slow development together. The real question is what power they gain in return.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/18/who-gets-to-decide-how-quickly-ai-moves?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 11:04:01 +0000",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea anthem played at South’s Bangladesh hockey match at Asian Games",
+            "description": "Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/north-korea-anthem-played-at-souths-bangladesh-hockey-match-at-asian-games?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 10:59:04 +0000",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T15:58:04+03:30"
+        }
+    ]
+}
