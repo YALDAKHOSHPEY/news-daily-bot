@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 20:05:39
+**Last Update:** 2026-09-18 20:18:02
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
+### 7. Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss)
+
+---
+
+### 8. More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ United Nations says 22 million people need humanitarian aid as conflict intensif
 
 ---
 
-### 8. Nigerian forces fire at protesters rallying over deaths of detained miners
+### 9. Nigerian forces fire at protesters rallying over deaths of detained miners
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ United Nations says 22 million people need humanitarian aid as conflict intensif
 Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss)
-
----
-
-### 9. Police hit migrants with batons during camp transfer in Ceuta
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss)
 
 ---
 
