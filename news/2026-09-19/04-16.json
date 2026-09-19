@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T04:16:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 36</p>\n<p># Comments: 35</p>",
+            "url": "https://spectrum.ieee.org/llms-for-chip-design",
+            "published": "Fri, 18 Sep 2026 23:04:17 +0000",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+            "description": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/changelog\">https://code.claude.com/docs/en/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49760187\">https://news.ycombinator.com/item?id=49760187</a></p>\n<p>Points: 479</p>\n<p># Comments: 177</p>",
+            "url": "https://code.claude.com/docs/en/changelog",
+            "published": "Fri, 18 Sep 2026 21:00:32 +0000",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Korea raises data breach fines to 10% of revenue",
+            "description": "<p>Article URL: <a href=\"https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899\">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49759466\">https://news.ycombinator.com/item?id=49759466</a></p>\n<p>Points: 263</p>\n<p># Comments: 87</p>",
+            "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+            "published": "Fri, 18 Sep 2026 20:02:54 +0000",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 22:58:55 GMT",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+            "description": "Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 00:02:03 +0000",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+            "description": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 00:00:26 +0000",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+            "description": "Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 23:56:09 +0000",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T04:16:05+03:30"
+        }
+    ]
+}

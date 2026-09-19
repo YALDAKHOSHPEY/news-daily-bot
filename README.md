@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 02:11:50
+**Last Update:** 2026-09-19 04:16:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Code now reads AGENTS.md if there is no Claude.md
+### 1. How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://spectrum.ieee.org/llms-for-chip-design">https://spectrum.ieee.org/llms-for-chip-design</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49761432">https://news.ycombinator.com/item?id=49761432</a></p>
+<p>Points: 36</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/llms-for-chip-design](https://spectrum.ieee.org/llms-for-chip-design)
+
+---
+
+### 2. Claude Code now reads AGENTS.md if there is no Claude.md
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://news.ycombinator.com/item?id=49760187</a></p>
-<p>Points: 237</p>
-<p># Comments: 93</p>
+<p>Points: 479</p>
+<p># Comments: 177</p>
 
 🔗 **Read more:** [https://code.claude.com/docs/en/changelog](https://code.claude.com/docs/en/changelog)
 
 ---
 
-### 2. Korea raises data breach fines to 10% of revenue
+### 3. Korea raises data breach fines to 10% of revenue
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49759466">https://news.ycombinator.com/item?id=49759466</a></p>
-<p>Points: 208</p>
-<p># Comments: 65</p>
+<p>Points: 263</p>
+<p># Comments: 87</p>
 
 🔗 **Read more:** [https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 
 ---
 
-### 3. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
-<p>Points: 368</p>
-<p># Comments: 170</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
-
----
-
-### 4. US and Denmark reach deal over Greenland's security
+### 4. US and Denmark reach deal over Greenland after Trump annexation threats
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her
 
 ---
 
-### 6. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
+### 6. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.
+Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
+### 7. Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss)
 
 ---
 
-### 8. Brighton vs Arsenal: Premier League – predictions, teams, lineups
+### 8. Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League holders Arsenal have won all seven of their matches to start the new season.
+Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss)
 
 ---
 
-### 9. New cat species found, first in more than 100 years
+### 9. Trump says Denmark deal gives US security ‘control’ over Greenland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new species of living cat has been identified for the first time in more than a century.
+Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss)
 
 ---
 
