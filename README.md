@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 14:46:25
+**Last Update:** 2026-09-19 17:04:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI-generated posters don’t have to be horrible
+### 1. Laya the open source version of Jev
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://laya.convaiinnovations.com/">https://laya.convaiinnovations.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49765348">https://news.ycombinator.com/item?id=49765348</a></p>
+<p>Points: 172</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://laya.convaiinnovations.com/](https://laya.convaiinnovations.com/)
+
+---
+
+### 2. AI-generated posters don’t have to be horrible
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49764791">https://news.ycombinator.com/item?id=49764791</a></p>
-<p>Points: 142</p>
-<p># Comments: 94</p>
+<p>Points: 428</p>
+<p># Comments: 281</p>
 
 🔗 **Read more:** [https://john.hartnup.uk/2026/06/07/ai-event-posters.html](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 
 ---
 
-### 2. GPT-6 Astra Solves a WWI German Radio Cipher
+### 3. GPT-6 Astra Solves a WWI German Radio Cipher
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763987">https://news.ycombinator.com/item?id=49763987</a></p>
-<p>Points: 129</p>
-<p># Comments: 62</p>
+<p>Points: 181</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
-
----
-
-### 3. If math is more than proof, we need to better celebrate the rest of it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763928">https://news.ycombinator.com/item?id=49763928</a></p>
-<p>Points: 114</p>
-<p># Comments: 82</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Trump says the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics have not been confirmed by Danish officials.
+Denmark and Greenland have welcomed the deal, which Trump claims will give the US "permanent control over security and all other needs" in the Danish territory.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. Nigerian forces fire at protesters rallying over deaths of detained miners
+### 7. An unaffordable car market highlights Iran’s cost-of-living crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian security forces have opened fire on protesters angry over the deaths of 37 miners who died in detention.
+Some officials and state media have long openly described the industry as a ‘mafia’ system.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss)
 
 ---
 
-### 8. NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message
+### 8. Taiwan flexes military capabilities ahead of Trump-Xi talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.
+Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss)
 
 ---
 
-### 9. Trump says US has ‘permanent control’ of Greenland security: Does it?
+### 9. Child among three Palestinians killed in Israeli attacks across Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New agreement with Denmark falls short of Trump’s previously stated goal of US &#039;ownership&#039; of the island.
+Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss)
 
 ---
 
