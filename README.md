@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 22:33:40
+**Last Update:** 2026-09-20 00:22:24
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 1. Measure internet censorship. Contribute to the largest open dataset
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ooni.org/install">https://ooni.org/install</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769676">https://news.ycombinator.com/item?id=49769676</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://ooni.org/install](https://ooni.org/install)
+
+---
+
+### 2. ZK-JPEG: Zero-Knowledge Image Editing and Compression
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eprint.iacr.org/2026/2039">https://eprint.iacr.org/2026/2039</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769405">https://news.ycombinator.com/item?id=49769405</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://eprint.iacr.org/2026/2039](https://eprint.iacr.org/2026/2039)
+
+---
+
+### 3. Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bartosz.fenski.pl/modern-fs-benchmark/">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49768833">https://news.ycombinator.com/item?id=49768833</a></p>
+<p>Points: 60</p>
+<p># Comments: 47</p>
+
+🔗 **Read more:** [https://bartosz.fenski.pl/modern-fs-benchmark/](https://bartosz.fenski.pl/modern-fs-benchmark/)
+
+---
+
+### 4. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Denmark and the US have reached an agreement after months of threats from Donald
 
 ---
 
-### 2. Major seaside hotel fire treated as suspicious
+### 5. Major seaside hotel fire that evacuated guests during night treated as suspicious
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 3. Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
+### 6. Houthis say they targeted Saudi capital with ballistic missiles
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.
+A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Iran says conditions to re-engage in talks, end war sent to US via Qatar
+### 7. Israel’s president pardons soldier who killed wounded Palestinian in 2016
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.
+Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss)
 
 ---
 
-### 5. Israel targets paramedics in southern Lebanon
+### 8. Lacking equipment, but not ambition: Gaza students try to keep up with tech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.
+Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss)
 
 ---
 
-### 6. Cuba works to restore power after another major nationwide blackout
+### 9. Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.
+US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Breezy, Starr, Texas
+### 10. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire FLORISTON, Nevada, California
+### 11. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Typhoon Dujuan
+### 12. Typhoon Dujuan
 
 **Source:** NASA
 
