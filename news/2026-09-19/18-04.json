@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T18:04:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A graphical desktop for the ZX Spectrum",
+            "description": "<p>Article URL: <a href=\"https://github.com/mindbox77/zxdesk\">https://github.com/mindbox77/zxdesk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766676\">https://news.ycombinator.com/item?id=49766676</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/mindbox77/zxdesk",
+            "published": "Sat, 19 Sep 2026 14:01:58 +0000",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Zig felt like, coming from Rust",
+            "description": "<p>Article URL: <a href=\"https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766637\">https://news.ycombinator.com/item?id=49766637</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+            "published": "Sat, 19 Sep 2026 13:55:18 +0000",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tin: full-text search for Postgres",
+            "description": "<p>Article URL: <a href=\"https://planetscale.com/blog/introducing-tin\">https://planetscale.com/blog/introducing-tin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766611\">https://news.ycombinator.com/item?id=49766611</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://planetscale.com/blog/introducing-tin",
+            "published": "Sat, 19 Sep 2026 13:52:06 +0000",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
+            "description": "Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday&#039;s La Liga clash.",
+            "url": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 13:58:40 +0000",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
+            "description": "Police examining &#039;all possibilities&#039; as women in Ekurhuleni, Johannesburg, fear murders could be linked.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 13:55:44 +0000",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+            "description": "Some officials and state media have long openly described the industry as a ‘mafia’ system.",
+            "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 13:21:52 +0000",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T18:04:46+03:30"
+        }
+    ]
+}

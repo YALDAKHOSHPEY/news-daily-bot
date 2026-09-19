@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 17:04:50
+**Last Update:** 2026-09-19 18:04:46
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Laya the open source version of Jev
+### 1. A graphical desktop for the ZX Spectrum
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://laya.convaiinnovations.com/">https://laya.convaiinnovations.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49765348">https://news.ycombinator.com/item?id=49765348</a></p>
-<p>Points: 172</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://github.com/mindbox77/zxdesk">https://github.com/mindbox77/zxdesk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766676">https://news.ycombinator.com/item?id=49766676</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://laya.convaiinnovations.com/](https://laya.convaiinnovations.com/)
+🔗 **Read more:** [https://github.com/mindbox77/zxdesk](https://github.com/mindbox77/zxdesk)
 
 ---
 
-### 2. AI-generated posters don’t have to be horrible
+### 2. What Zig felt like, coming from Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49764791">https://news.ycombinator.com/item?id=49764791</a></p>
-<p>Points: 428</p>
-<p># Comments: 281</p>
+<p>Article URL: <a href="https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766637">https://news.ycombinator.com/item?id=49766637</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://john.hartnup.uk/2026/06/07/ai-event-posters.html](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+🔗 **Read more:** [https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 
 ---
 
-### 3. GPT-6 Astra Solves a WWI German Radio Cipher
+### 3. Tin: full-text search for Postgres
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763987">https://news.ycombinator.com/item?id=49763987</a></p>
-<p>Points: 181</p>
-<p># Comments: 101</p>
+<p>Article URL: <a href="https://planetscale.com/blog/introducing-tin">https://planetscale.com/blog/introducing-tin</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766611">https://news.ycombinator.com/item?id=49766611</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+🔗 **Read more:** [https://planetscale.com/blog/introducing-tin](https://planetscale.com/blog/introducing-tin)
 
 ---
 
@@ -97,7 +97,33 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. An unaffordable car market highlights Iran’s cost-of-living crisis
+### 7. Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday&#039;s La Liga clash.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss)
+
+---
+
+### 8. Fear and anger in South Africa as bodies of nine women found: What we know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police examining &#039;all possibilities&#039; as women in Ekurhuleni, Johannesburg, fear murders could be linked.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss)
+
+---
+
+### 9. An unaffordable car market highlights Iran’s cost-of-living crisis
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 Some officials and state media have long openly described the industry as a ‘mafia’ system.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss)
-
----
-
-### 8. Taiwan flexes military capabilities ahead of Trump-Xi talks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss)
-
----
-
-### 9. Child among three Palestinians killed in Israeli attacks across Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss)
 
 ---
 
