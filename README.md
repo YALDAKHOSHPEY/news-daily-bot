@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 21:37:52
+**Last Update:** 2026-09-19 22:33:40
 
 **Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
@@ -49,7 +49,33 @@ The King Khalid International Airport incident caused hours of flight disruption
 
 ---
 
-### 4. Cuba works to restore power after another major nationwide blackout
+### 4. Iran says conditions to re-engage in talks, end war sent to US via Qatar
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss)
+
+---
+
+### 5. Israel targets paramedics in southern Lebanon
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss)
+
+---
+
+### 6. Cuba works to restore power after another major nationwide blackout
 
 **Source:** Al Jazeera
 
@@ -59,32 +85,6 @@ The King Khalid International Airport incident caused hours of flight disruption
 The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss)
-
----
-
-### 5. Dutch riot police break up violent far-right protest in The Hague
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Justice minister condemns &#039;Hitler salutes, antisemitic slogans, violence&#039; at the anti-immigration rally.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss)
-
----
-
-### 6. A ‘ban on the free press’: White House bars journalists from three outlets
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss)
 
 ---
 
