@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 18:04:46
+**Last Update:** 2026-09-19 20:23:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A graphical desktop for the ZX Spectrum
+### 1. Agreement between the USA and Denmark (1951,2004) [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf">https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766976">https://news.ycombinator.com/item?id=49766976</a></p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
+
+---
+
+### 2. Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951">https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766821">https://news.ycombinator.com/item?id=49766821</a></p>
+<p>Points: 41</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
+
+---
+
+### 3. A graphical desktop for the ZX Spectrum
 
 **Source:** Hacker News
 
@@ -19,120 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/mindbox77/zxdesk">https://github.com/mindbox77/zxdesk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766676">https://news.ycombinator.com/item?id=49766676</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Points: 63</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://github.com/mindbox77/zxdesk](https://github.com/mindbox77/zxdesk)
 
 ---
 
-### 2. What Zig felt like, coming from Rust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/">https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766637">https://news.ycombinator.com/item?id=49766637</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
-
----
-
-### 3. Tin: full-text search for Postgres
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://planetscale.com/blog/introducing-tin">https://planetscale.com/blog/introducing-tin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766611">https://news.ycombinator.com/item?id=49766611</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://planetscale.com/blog/introducing-tin](https://planetscale.com/blog/introducing-tin)
-
----
-
-### 4. US and Denmark reach deal over Greenland after Trump annexation threats
+### 4. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Denmark and Greenland have welcomed the deal, which Trump claims will give the US "permanent control over security and all other needs" in the Danish territory.
+Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
+### 5. Journalists report being denied White House access after Trump bans some outlets
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
+CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
+### 6. Major seaside hotel fire treated as suspicious
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
+About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction
+### 7. Demonstrators in US form human chain to protest Kennedy Center closure vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid coach Jose Mourinho admits his team does not know how to control matches before Sunday&#039;s La Liga clash.
+&#039;Hands Around the Kennedy Center&#039; rally drew thousands after Trump-backed board votes to close the iconic arts venue.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss)
 
 ---
 
-### 8. Fear and anger in South Africa as bodies of nine women found: What we know
+### 8. Police hiring standards matter. But they alone cannot stop abuse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police examining &#039;all possibilities&#039; as women in Ekurhuleni, Johannesburg, fear murders could be linked.
+Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss)
 
 ---
 
-### 9. An unaffordable car market highlights Iran’s cost-of-living crisis
+### 9. Jerusalem Daily: Gaza’s children return to schools
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some officials and state media have long openly described the industry as a ‘mafia’ system.
+It&#039;s the first official day back to school for Gaza&#039;s children.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss)
 
 ---
 
