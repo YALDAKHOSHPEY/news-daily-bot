@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 00:22:24
+**Last Update:** 2026-09-20 01:25:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Measure internet censorship. Contribute to the largest open dataset
+### 1. English: A vs. An
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/">https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769944">https://news.ycombinator.com/item?id=49769944</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+
+---
+
+### 2. Measure internet censorship. Contribute to the largest open dataset
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://ooni.org/install">https://ooni.org/install</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769676">https://news.ycombinator.com/item?id=49769676</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Points: 36</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://ooni.org/install](https://ooni.org/install)
 
 ---
 
-### 2. ZK-JPEG: Zero-Knowledge Image Editing and Compression
+### 3. ZK-JPEG: Zero-Knowledge Image Editing and Compression
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://eprint.iacr.org/2026/2039">https://eprint.iacr.org/2026/2039</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769405">https://news.ycombinator.com/item?id=49769405</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 36</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://eprint.iacr.org/2026/2039](https://eprint.iacr.org/2026/2039)
 
 ---
 
-### 3. Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bartosz.fenski.pl/modern-fs-benchmark/">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49768833">https://news.ycombinator.com/item?id=49768833</a></p>
-<p>Points: 60</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://bartosz.fenski.pl/modern-fs-benchmark/](https://bartosz.fenski.pl/modern-fs-benchmark/)
-
----
-
-### 4. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 4. Houthis say they targeted Saudi capital with ballistic missiles
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
+A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,20 +84,33 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 6. Houthis say they targeted Saudi capital with ballistic missiles
+### 6. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.
+Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel’s president pardons soldier who killed wounded Palestinian in 2016
+### 7. Fulham vs Manchester United: Premier League – prediction, teams, lineups
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss)
+
+---
+
+### 8. Israel’s president pardons soldier who killed wounded Palestinian in 2016
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli
 
 ---
 
-### 8. Lacking equipment, but not ambition: Gaza students try to keep up with tech
+### 9. Lacking equipment, but not ambition: Gaza students try to keep up with tech
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli
 Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss)
-
----
-
-### 9. Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss)
 
 ---
 
