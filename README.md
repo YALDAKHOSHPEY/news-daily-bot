@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 20:23:43
+**Last Update:** 2026-09-19 21:37:52
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Agreement between the USA and Denmark (1951,2004) [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf">https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766976">https://news.ycombinator.com/item?id=49766976</a></p>
-<p>Points: 13</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
-
----
-
-### 2. Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951">https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766821">https://news.ycombinator.com/item?id=49766821</a></p>
-<p>Points: 41</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
-
----
-
-### 3. A graphical desktop for the ZX Spectrum
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/mindbox77/zxdesk">https://github.com/mindbox77/zxdesk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766676">https://news.ycombinator.com/item?id=49766676</a></p>
-<p>Points: 63</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://github.com/mindbox77/zxdesk](https://github.com/mindbox77/zxdesk)
-
----
-
-### 4. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 1. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 **Source:** BBC
 
@@ -71,20 +23,7 @@ Denmark and the US have reached an agreement after months of threats from Donald
 
 ---
 
-### 5. Journalists report being denied White House access after Trump bans some outlets
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Major seaside hotel fire treated as suspicious
+### 2. Major seaside hotel fire treated as suspicious
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 7. Demonstrators in US form human chain to protest Kennedy Center closure vote
+### 3. Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Cuba works to restore power after another major nationwide blackout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Hands Around the Kennedy Center&#039; rally drew thousands after Trump-backed board votes to close the iconic arts venue.
+The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss)
 
 ---
 
-### 8. Police hiring standards matter. But they alone cannot stop abuse
+### 5. Dutch riot police break up violent far-right protest in The Hague
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.
+Justice minister condemns &#039;Hitler salutes, antisemitic slogans, violence&#039; at the anti-immigration rally.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Gaza’s children return to schools
+### 6. A ‘ban on the free press’: White House bars journalists from three outlets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It&#039;s the first official day back to school for Gaza&#039;s children.
+Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Breezy, Starr, Texas
+### 7. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire FLORISTON, Nevada, California
+### 8. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Typhoon Dujuan
+### 9. Typhoon Dujuan
 
 **Source:** NASA
 
