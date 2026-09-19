@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 13:25:26
+**Last Update:** 2026-09-19 14:46:25
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. GPT-6 Astra Solves a WWI German Radio Cipher
+### 1. AI-generated posters don’t have to be horrible
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49764791">https://news.ycombinator.com/item?id=49764791</a></p>
+<p>Points: 142</p>
+<p># Comments: 94</p>
+
+🔗 **Read more:** [https://john.hartnup.uk/2026/06/07/ai-event-posters.html](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+
+---
+
+### 2. GPT-6 Astra Solves a WWI German Radio Cipher
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763987">https://news.ycombinator.com/item?id=49763987</a></p>
-<p>Points: 102</p>
-<p># Comments: 45</p>
+<p>Points: 129</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 
 ---
 
-### 2. If math is more than proof, we need to better celebrate the rest of it
+### 3. If math is more than proof, we need to better celebrate the rest of it
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763928">https://news.ycombinator.com/item?id=49763928</a></p>
-<p>Points: 84</p>
-<p># Comments: 46</p>
+<p>Points: 114</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-
----
-
-### 3. Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://browser.geekbench.com/v7/cpu/389219">https://browser.geekbench.com/v7/cpu/389219</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763883">https://news.ycombinator.com/item?id=49763883</a></p>
-<p>Points: 40</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://browser.geekbench.com/v7/cpu/389219](https://browser.geekbench.com/v7/cpu/389219)
 
 ---
 
@@ -97,42 +97,42 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. Africa’s Green Revolution threatens traditional foods
+### 7. Nigerian forces fire at protesters rallying over deaths of detained miners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The promotion of monocultures is hurting the production of much more nutritious and climate-resistant traditional crops.
+Nigerian security forces have opened fire on protesters angry over the deaths of 37 miners who died in detention.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss)
 
 ---
 
-### 8. EU urges US to lift travel ban on Palestinian delegation for UNGA meeting
+### 8. NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.
+Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss)
 
 ---
 
-### 9. Can Trump ban CNN, news outlets he doesn’t like from the White House?
+### 9. Trump says US has ‘permanent control’ of Greenland security: Does it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.
+New agreement with Denmark falls short of Trump’s previously stated goal of US &#039;ownership&#039; of the island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss)
 
 ---
 

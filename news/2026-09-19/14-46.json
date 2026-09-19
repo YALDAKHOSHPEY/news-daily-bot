@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T14:46:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-generated posters don’t have to be horrible",
+            "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 142</p>\n<p># Comments: 94</p>",
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "published": "Sat, 19 Sep 2026 09:20:58 +0000",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+            "description": "<p>Article URL: <a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763987\">https://news.ycombinator.com/item?id=49763987</a></p>\n<p>Points: 129</p>\n<p># Comments: 62</p>",
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+            "published": "Sat, 19 Sep 2026 06:41:44 +0000",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If math is more than proof, we need to better celebrate the rest of it",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763928\">https://news.ycombinator.com/item?id=49763928</a></p>\n<p>Points: 114</p>\n<p># Comments: 82</p>",
+            "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+            "published": "Sat, 19 Sep 2026 06:28:02 +0000",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:01:34 GMT",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
+            "description": "Nigerian security forces have opened fire on protesters angry over the deaths of 37 miners who died in detention.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 10:42:44 +0000",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
+            "description": "Houston Texans’ linebacker Azeez Al-Shaair has spoken to sports journalists about his $11,941 fine by the NFL.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 10:40:12 +0000",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
+            "description": "New agreement with Denmark falls short of Trump’s previously stated goal of US &#039;ownership&#039; of the island.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 09:50:30 +0000",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T14:46:25+03:30"
+        }
+    ]
+}
