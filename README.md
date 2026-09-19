@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 01:25:03
+**Last Update:** 2026-09-20 02:46:40
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. English: A vs. An
+### 1. Mayday Mysteries
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/">https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769944">https://news.ycombinator.com/item?id=49769944</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="http://www.maydaymystery.org/mayday/">http://www.maydaymystery.org/mayday/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770362">https://news.ycombinator.com/item?id=49770362</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+🔗 **Read more:** [http://www.maydaymystery.org/mayday/](http://www.maydaymystery.org/mayday/)
 
 ---
 
-### 2. Measure internet censorship. Contribute to the largest open dataset
+### 2. How Hacker News ranking works: scoring, controversy, and penalties (2013)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ooni.org/install">https://ooni.org/install</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769676">https://news.ycombinator.com/item?id=49769676</a></p>
-<p>Points: 36</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html">https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770293">https://news.ycombinator.com/item?id=49770293</a></p>
+<p>Points: 45</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://ooni.org/install](https://ooni.org/install)
+🔗 **Read more:** [https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
 
 ---
 
-### 3. ZK-JPEG: Zero-Knowledge Image Editing and Compression
+### 3. You can defeat the Dream Devourer from Chrono Trigger using an int overflow
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eprint.iacr.org/2026/2039">https://eprint.iacr.org/2026/2039</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769405">https://news.ycombinator.com/item?id=49769405</a></p>
-<p>Points: 36</p>
+<p>Article URL: <a href="https://chrono.fandom.com/wiki/Dream_Devourer">https://chrono.fandom.com/wiki/Dream_Devourer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770256">https://news.ycombinator.com/item?id=49770256</a></p>
+<p>Points: 15</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://eprint.iacr.org/2026/2039](https://eprint.iacr.org/2026/2039)
+🔗 **Read more:** [https://chrono.fandom.com/wiki/Dream_Devourer](https://chrono.fandom.com/wiki/Dream_Devourer)
 
 ---
 
@@ -97,7 +97,20 @@ Denmark and the US have reached an agreement after months of threats from Donald
 
 ---
 
-### 7. Fulham vs Manchester United: Premier League – prediction, teams, lineups
+### 7. Saudi-led coalition says defences intercept Houthi missile fired at Riyadh
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss)
+
+---
+
+### 8. Fulham vs Manchester United: Premier League – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Man United have won only one league game this season, putting Michael Carrick un
 
 ---
 
-### 8. Israel’s president pardons soldier who killed wounded Palestinian in 2016
+### 9. Israel’s president pardons soldier who killed wounded Palestinian in 2016
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Man United have won only one league game this season, putting Michael Carrick un
 Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss)
-
----
-
-### 9. Lacking equipment, but not ambition: Gaza students try to keep up with tech
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss)
 
 ---
 
