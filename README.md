@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 23:27:13
+**Last Update:** 2026-09-21 01:38:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Hierarchy of Money
+### 1. Nipple tattooist 'frustrated' by online censorship
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779253">https://news.ycombinator.com/item?id=49779253</a></p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cx2z7ejn891o">https://www.bbc.com/news/articles/cx2z7ejn891o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780466">https://news.ycombinator.com/item?id=49780466</a></p>
 <p>Points: 4</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cx2z7ejn891o](https://www.bbc.com/news/articles/cx2z7ejn891o)
 
 ---
 
-### 2. Software Sandboxing: The Basics
+### 2. Nobody pays for FOSS, we can force them to
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/">https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778670">https://news.ycombinator.com/item?id=49778670</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780064">https://news.ycombinator.com/item?id=49780064</a></p>
+<p>Points: 45</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://blog.emilua.org/2025/01/12/software-sandboxing-basics/](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
+🔗 **Read more:** [https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 
 ---
 
-### 3. A Necessary History of the Oddest Letter: W
+### 3. Ogre Battle 64 Recompiled Project at 99.05%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lithub.com/a-necessary-history-of-the-oddest-letter-w/">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778195">https://news.ycombinator.com/item?id=49778195</a></p>
-<p>Points: 43</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://github.com/lfarroco/ogre-battle-64-recomp">https://github.com/lfarroco/ogre-battle-64-recomp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780022">https://news.ycombinator.com/item?id=49780022</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://lithub.com/a-necessary-history-of-the-oddest-letter-w/](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+🔗 **Read more:** [https://github.com/lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp)
 
 ---
 
@@ -97,42 +97,42 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. Qatar says it is working to revive Iran-US talks
+### 7. Qatar PM urges Gulf security framework with Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.
+Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss)
 
 ---
 
-### 8. France’s Macron and Canada’s Carney announce plans to build stronger ties
+### 8. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
+Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)
 
 ---
 
-### 9. How will Saudi Arabia deal with the Houthis?
+### 9. Eighteen suspects extradited to US over Haitian president’s 2021 killing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni group warns of further attacks on the kingdom.
+Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss)
 
 ---
 
