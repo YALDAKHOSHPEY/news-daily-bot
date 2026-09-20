@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 01:38:18
+**Last Update:** 2026-09-21 02:04:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cx2z7ejn891o">https://www.bbc.com/news/articles/cx2z7ejn891o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780466">https://news.ycombinator.com/item?id=49780466</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 12</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cx2z7ejn891o](https://www.bbc.com/news/articles/cx2z7ejn891o)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780064">https://news.ycombinator.com/item?id=49780064</a></p>
-<p>Points: 45</p>
-<p># Comments: 18</p>
+<p>Points: 46</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/lfarroco/ogre-battle-64-recomp">https://github.com/lfarroco/ogre-battle-64-recomp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780022">https://news.ycombinator.com/item?id=49780022</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp)
 
@@ -97,7 +97,20 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. Qatar PM urges Gulf security framework with Iran
+### 7. France to summon Iran envoy after language centre closure in Tehran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss)
+
+---
+
+### 8. Qatar PM urges Gulf security framework with Iran
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framewo
 
 ---
 
-### 8. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
+### 9. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framewo
 Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)
-
----
-
-### 9. Eighteen suspects extradited to US over Haitian president’s 2021 killing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss)
 
 ---
 
