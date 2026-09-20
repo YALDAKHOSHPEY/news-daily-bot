@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 16:01:44
+**Last Update:** 2026-09-20 16:48:01
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. If AI coding is lowering your code quality, you're not managing quality right
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code">https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774795">https://news.ycombinator.com/item?id=49774795</a></p>
-<p>Points: 19</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
-
----
-
-### 2. I'm Tired of the AI Tone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sagivo.com/blog/im-tired-of-the-ai-tone">https://sagivo.com/blog/im-tired-of-the-ai-tone</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774665">https://news.ycombinator.com/item?id=49774665</a></p>
-<p>Points: 26</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://sagivo.com/blog/im-tired-of-the-ai-tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
-
----
-
-### 3. Why Do We Need Human Mathematicians Anymore?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/">https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774521">https://news.ycombinator.com/item?id=49774521</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
-
----
-
-### 4. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
+### 1. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Princess Diana's brother describes press coverage of Prince Harry and Meghan as 
 
 ---
 
-### 5. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
+### 2. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Earl Spencer says that he can see echoes of Princess Diana's treatment from the 
 
 ---
 
-### 6. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
+### 3. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Moscow's mayor says 450 drones were downed during the overnight barrage, in whic
 
 ---
 
-### 7. Israeli forces kill Palestinian near Jenin in occupied West Bank
+### 4. Gaza’s children return to classrooms after years of Israeli attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces killed a Palestinian man near Jenin and an Israeli settler died from his wounds in a separate shooting.
+Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss)
+
+---
+
+### 5. LIVE: Fulham vs Manchester United – Premier League
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Follow live updates, with build-up, predictions, team news and lineups, ahead of our text commentary stream coverage.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/20/live-fulham-vs-manchester-united-premier-league?traffic_source=rss)
+
+---
+
+### 6. Israeli forces kill Palestinian near Jenin in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli forces killed a Palestinian man near Jenin and an Israeli settler was fatally shot in separate incident.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Pro-Palestine protesters demonstrate outside Ed Sheeran concert
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss)
-
----
-
-### 9. Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss)
-
----
-
-### 10. Wildfire Breezy, Starr, Texas
+### 7. Wildfire Breezy, Starr, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire FLORISTON, Nevada, California
+### 8. Wildfire FLORISTON, Nevada, California
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Typhoon Dujuan
+### 9. Typhoon Dujuan
 
 **Source:** NASA
 
