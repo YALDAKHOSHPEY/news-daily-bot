@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 11:32:25
+**Last Update:** 2026-09-20 16:01:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dropbox's Jan 1st 2027 terms of service
+### 1. If AI coding is lowering your code quality, you're not managing quality right
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dropbox.com/terms2026">https://www.dropbox.com/terms2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49773104">https://news.ycombinator.com/item?id=49773104</a></p>
+<p>Article URL: <a href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code">https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774795">https://news.ycombinator.com/item?id=49774795</a></p>
+<p>Points: 19</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
+
+---
+
+### 2. I'm Tired of the AI Tone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sagivo.com/blog/im-tired-of-the-ai-tone">https://sagivo.com/blog/im-tired-of-the-ai-tone</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774665">https://news.ycombinator.com/item?id=49774665</a></p>
 <p>Points: 26</p>
-<p># Comments: 34</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.dropbox.com/terms2026](https://www.dropbox.com/terms2026)
+🔗 **Read more:** [https://sagivo.com/blog/im-tired-of-the-ai-tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
 
 ---
 
-### 2. Spain Orders Blocks on Archive.today and Its Mirrors
+### 3. Why Do We Need Human Mathematicians Anymore?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772961">https://news.ycombinator.com/item?id=49772961</a></p>
-<p>Points: 42</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/">https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774521">https://news.ycombinator.com/item?id=49774521</a></p>
+<p>Points: 20</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
-
----
-
-### 3. Orchestrating Claude Code Agents: The Chief of Staff Pattern
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/">https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772806">https://news.ycombinator.com/item?id=49772806</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Princess Diana's brother says she was "really brought low by all that criticism" and he saw her in "tears of despair".
+Princess Diana's brother describes press coverage of Prince Harry and Meghan as a "cancerous influence in their life" and says he saw his sister cry "tears of despair" over interest in her.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Earl Spencer says that he can see echoes of Princess Diana's treatment from the 
 
 ---
 
-### 6. Ed Sheeran admits 'mistakes' at first show since Macklemore controversy
+### 6. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.
+Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mass Ukrainian drone attack on Moscow kills two, Russia says
+### 7. Israeli forces kill Palestinian near Jenin in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow mayor reports intercepting 1,600 drones during &#039;unprecedented&#039; attack, accusing Ukraine of election interference.
+Israeli forces killed a Palestinian man near Jenin and an Israeli settler died from his wounds in a separate shooting.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331
+### 8. Pro-Palestine protesters demonstrate outside Ed Sheeran concert
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.
+Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss)
 
 ---
 
-### 9. Journalists locked out of the White House after Trump ban
+### 9. Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.
+Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss)
 
 ---
 
