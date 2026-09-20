@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 23:04:49
+**Last Update:** 2026-09-20 23:27:13
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Necessary History of the Oddest Letter: W
+### 1. The Hierarchy of Money
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779253">https://news.ycombinator.com/item?id=49779253</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
+
+---
+
+### 2. Software Sandboxing: The Basics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/">https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778670">https://news.ycombinator.com/item?id=49778670</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.emilua.org/2025/01/12/software-sandboxing-basics/](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
+
+---
+
+### 3. A Necessary History of the Oddest Letter: W
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lithub.com/a-necessary-history-of-the-oddest-letter-w/">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778195">https://news.ycombinator.com/item?id=49778195</a></p>
-<p>Points: 31</p>
-<p># Comments: 19</p>
+<p>Points: 43</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://lithub.com/a-necessary-history-of-the-oddest-letter-w/](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
-
----
-
-### 2. I turned Jev into a (lousy) chatbot
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/kyle-pena-nlp/jevchat/">https://github.com/kyle-pena-nlp/jevchat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778162">https://news.ycombinator.com/item?id=49778162</a></p>
-<p>Points: 37</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://github.com/kyle-pena-nlp/jevchat/](https://github.com/kyle-pena-nlp/jevchat/)
-
----
-
-### 3. Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say">https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778029">https://news.ycombinator.com/item?id=49778029</a></p>
-<p>Points: 91</p>
-<p># Comments: 55</p>
-
-🔗 **Read more:** [https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
 
 ---
 
@@ -97,7 +97,33 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. How will Saudi Arabia deal with the Houthis?
+### 7. Qatar says it is working to revive Iran-US talks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss)
+
+---
+
+### 8. France’s Macron and Canada’s Carney announce plans to build stronger ties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss)
+
+---
+
+### 9. How will Saudi Arabia deal with the Houthis?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 Yemeni group warns of further attacks on the kingdom.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss)
-
----
-
-### 8. Man Utd salvage Fulham draw as pressure mounts on Carrick
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss)
-
----
-
-### 9. Gaza artists honour Macklemore for supporting Palestine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss)
 
 ---
 

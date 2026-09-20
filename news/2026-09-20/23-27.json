@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T23:27:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Hierarchy of Money",
+            "description": "<p>Article URL: <a href=\"https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/\">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49779253\">https://news.ycombinator.com/item?id=49779253</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+            "published": "Sun, 20 Sep 2026 19:37:43 +0000",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software Sandboxing: The Basics",
+            "description": "<p>Article URL: <a href=\"https://blog.emilua.org/2025/01/12/software-sandboxing-basics/\">https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778670\">https://news.ycombinator.com/item?id=49778670</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+            "published": "Sun, 20 Sep 2026 18:42:47 +0000",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Necessary History of the Oddest Letter: W",
+            "description": "<p>Article URL: <a href=\"https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778195\">https://news.ycombinator.com/item?id=49778195</a></p>\n<p>Points: 43</p>\n<p># Comments: 28</p>",
+            "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+            "published": "Sun, 20 Sep 2026 17:55:57 +0000",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 19:21:28 GMT",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+            "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:00:09 GMT",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar says it is working to revive Iran-US talks",
+            "description": "Qatar’s Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 19:36:12 +0000",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+            "description": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 19:28:43 +0000",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will Saudi Arabia deal with the Houthis?",
+            "description": "Yemeni group warns of further attacks on the kingdom.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 18:34:36 +0000",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T23:27:13+03:30"
+        }
+    ]
+}
