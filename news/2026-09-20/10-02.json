@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T10:02:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Telling a Computer to Do Things",
+            "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/telling-your-computer-to-do-things/\">https://will-keleher.com/posts/telling-your-computer-to-do-things/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772662\">https://news.ycombinator.com/item?id=49772662</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
+            "published": "Sun, 20 Sep 2026 05:11:33 +0000",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0\">https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772541\">https://news.ycombinator.com/item?id=49772541</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
+            "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+            "published": "Sun, 20 Sep 2026 04:38:00 +0000",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Step 5 Preview: Advancing the Pareto Frontier",
+            "description": "<p>Article URL: <a href=\"https://www.stepfun.com/step-5-preview\">https://www.stepfun.com/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772532\">https://news.ycombinator.com/item?id=49772532</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://www.stepfun.com/step-5-preview",
+            "published": "Sun, 20 Sep 2026 04:35:59 +0000",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother says she was \"really brought low by all that criticism\" and he saw her in \"tears of despair\".",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+            "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+            "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+            "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+            "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 04:49:11 GMT",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
+            "description": "Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.",
+            "url": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 06:03:14 +0000",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Journalists locked out of the White House after Trump ban",
+            "description": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 05:43:01 +0000",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
+            "description": "About 3.8 million voters in Berlin and Mecklenburg-Western Pomerania are heading to polls on Sunday.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 05:42:50 +0000",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T10:02:47+03:30"
+        }
+    ]
+}
