@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T11:32:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dropbox's Jan 1st 2027 terms of service",
+            "description": "<p>Article URL: <a href=\"https://www.dropbox.com/terms2026\">https://www.dropbox.com/terms2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773104\">https://news.ycombinator.com/item?id=49773104</a></p>\n<p>Points: 26</p>\n<p># Comments: 34</p>",
+            "url": "https://www.dropbox.com/terms2026",
+            "published": "Sun, 20 Sep 2026 06:42:45 +0000",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+            "description": "<p>Article URL: <a href=\"https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors\">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772961\">https://news.ycombinator.com/item?id=49772961</a></p>\n<p>Points: 42</p>\n<p># Comments: 17</p>",
+            "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+            "published": "Sun, 20 Sep 2026 06:16:42 +0000",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+            "description": "<p>Article URL: <a href=\"https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/\">https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772806\">https://news.ycombinator.com/item?id=49772806</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+            "published": "Sun, 20 Sep 2026 05:46:19 +0000",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother says she was \"really brought low by all that criticism\" and he saw her in \"tears of despair\".",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+            "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+            "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+            "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 04:49:11 GMT",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+            "description": "Moscow mayor reports intercepting 1,600 drones during &#039;unprecedented&#039; attack, accusing Ukraine of election interference.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 06:57:05 +0000",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
+            "description": "Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.",
+            "url": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 06:03:14 +0000",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Journalists locked out of the White House after Trump ban",
+            "description": "Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 05:43:01 +0000",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T11:32:25+03:30"
+        }
+    ]
+}

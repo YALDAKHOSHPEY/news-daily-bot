@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 10:02:47
+**Last Update:** 2026-09-20 11:32:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Telling a Computer to Do Things
+### 1. Dropbox's Jan 1st 2027 terms of service
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://will-keleher.com/posts/telling-your-computer-to-do-things/">https://will-keleher.com/posts/telling-your-computer-to-do-things/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772662">https://news.ycombinator.com/item?id=49772662</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.dropbox.com/terms2026">https://www.dropbox.com/terms2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49773104">https://news.ycombinator.com/item?id=49773104</a></p>
+<p>Points: 26</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://will-keleher.com/posts/telling-your-computer-to-do-things/](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+🔗 **Read more:** [https://www.dropbox.com/terms2026](https://www.dropbox.com/terms2026)
 
 ---
 
-### 2. Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters
+### 2. Spain Orders Blocks on Archive.today and Its Mirrors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0">https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772541">https://news.ycombinator.com/item?id=49772541</a></p>
-<p>Points: 19</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772961">https://news.ycombinator.com/item?id=49772961</a></p>
+<p>Points: 42</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0](https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0)
+🔗 **Read more:** [https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
 
 ---
 
-### 3. Step 5 Preview: Advancing the Pareto Frontier
+### 3. Orchestrating Claude Code Agents: The Chief of Staff Pattern
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.stepfun.com/step-5-preview">https://www.stepfun.com/step-5-preview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772532">https://news.ycombinator.com/item?id=49772532</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/">https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772806">https://news.ycombinator.com/item?id=49772806</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.stepfun.com/step-5-preview](https://www.stepfun.com/step-5-preview)
+🔗 **Read more:** [https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
 
 ---
 
@@ -84,20 +84,33 @@ Earl Spencer says that he can see echoes of Princess Diana's treatment from the 
 
 ---
 
-### 6. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+### 6. Ed Sheeran admits 'mistakes' at first show since Macklemore controversy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.
+The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331
+### 7. Mass Ukrainian drone attack on Moscow kills two, Russia says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Moscow mayor reports intercepting 1,600 drones during &#039;unprecedented&#039; attack, accusing Ukraine of election interference.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss)
+
+---
+
+### 8. Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazil
 
 ---
 
-### 8. Journalists locked out of the White House after Trump ban
+### 9. Journalists locked out of the White House after Trump ban
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazil
 Reporters from CNN, MS NOW and Politico have been denied White House access after Donald Trump banned the three outlets.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss)
-
----
-
-### 9. Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-About 3.8 million voters in Berlin and Mecklenburg-Western Pomerania are heading to polls on Sunday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss)
 
 ---
 
