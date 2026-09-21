@@ -1,72 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 20:53:40
+**Last Update:** 2026-09-21 23:07:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents
+### 1. The Advisory Group on Mathematics and Artificial Intelligence
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local "git like" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent "$A" \
-        --summary "Replace PaymentService with StripePaymentService" \
-        --scope symbol:PaymentService=replace
-    foremerge intent publish --agent "$B" \
-        --summary "Add PayPal support to PaymentService" \
-        --scope symbol:PaymentService=extend
-</code></pre>
-The publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: 
-`curl -fsSL <a href="https://foremerge.com/install.sh" rel="nofollow">https://foremerge.com/install.sh</a> | sh` or `cargo install
---locked foremerge`, then `foremerge init && foremerge setup all` in a repo.
-Apache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href="https://github.com/naw103/foremerge" rel="nofollow">https://github.com/naw103/foremerge</a>
-Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a><p>More information on the problems this solves: <a href="https://foremerge.com/blog/" rel="nofollow">https://foremerge.com/blog/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789356">https://news.ycombinator.com/item?id=49789356</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791997">https://news.ycombinator.com/item?id=49791997</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/naw103/foremerge](https://github.com/naw103/foremerge)
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
 
 ---
 
-### 2. This Digital Radio Gets Messages to the World’s Remotest Locations
+### 2. In Search of a Compositional Theory of Self-Stabilization
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/hermes-shortwave-radio-digital-data">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789228">https://news.ycombinator.com/item?id=49789228</a></p>
+<p>Article URL: <a href="http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html">http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791797">https://news.ycombinator.com/item?id=49791797</a></p>
 <p>Points: 10</p>
-<p># Comments: 2</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/hermes-shortwave-radio-digital-data](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
+🔗 **Read more:** [http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html)
 
 ---
 
-### 3. Fable 5 – Median thinking declined in August
+### 3. US halts flights at busy East Coast airports, says fiber line cut
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/Lon/status/2101793422487204027">https://twitter.com/Lon/status/2101793422487204027</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789224">https://news.ycombinator.com/item?id=49789224</a></p>
-<p>Points: 47</p>
+<p>Article URL: <a href="https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/">https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791509">https://news.ycombinator.com/item?id=49791509</a></p>
+<p>Points: 67</p>
 <p># Comments: 26</p>
 
-🔗 **Read more:** [https://twitter.com/Lon/status/2101793422487204027](https://twitter.com/Lon/status/2101793422487204027)
+🔗 **Read more:** [https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
 
 ---
 
@@ -109,42 +97,42 @@ Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Ma
 
 ---
 
-### 7. How is Europe dealing with ‘hybrid war’?
+### 7. Protesters blockade Elbit Systems factory over Israel weapons supply
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European leaders accuse Russia of hybrid warfare.
+Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss)
 
 ---
 
-### 8. China expels two top ‘disloyal’ military leaders from Communist Party
+### 8. Trump’s approval rating hits record low amid Iran war, economy fallout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.
+Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss)
 
 ---
 
-### 9. State of world getting worse as UN Security Council paralysed: Guterres
+### 9. Photos: Gaza’s children return to class in tents and ruins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN chief&#039;s mandate ends on December 31 this year, with a successor yet to be named.
+Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss)
 
 ---
 
