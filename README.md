@@ -1,138 +1,150 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 17:53:37
+**Last Update:** 2026-09-21 20:53:40
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Uber arbitration award over Emily Normandin-Parker's death
+### 1. Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death">https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787523">https://news.ycombinator.com/item?id=49787523</a></p>
+<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local "git like" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent "$A" \
+        --summary "Replace PaymentService with StripePaymentService" \
+        --scope symbol:PaymentService=replace
+    foremerge intent publish --agent "$B" \
+        --summary "Add PayPal support to PaymentService" \
+        --scope symbol:PaymentService=extend
+</code></pre>
+The publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: 
+`curl -fsSL <a href="https://foremerge.com/install.sh" rel="nofollow">https://foremerge.com/install.sh</a> | sh` or `cargo install
+--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.
+Apache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href="https://github.com/naw103/foremerge" rel="nofollow">https://github.com/naw103/foremerge</a>
+Website: <a href="https://foremerge.com" rel="nofollow">https://foremerge.com</a><p>More information on the problems this solves: <a href="https://foremerge.com/blog/" rel="nofollow">https://foremerge.com/blog/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789356">https://news.ycombinator.com/item?id=49789356</a></p>
 <p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
+🔗 **Read more:** [https://github.com/naw103/foremerge](https://github.com/naw103/foremerge)
 
 ---
 
-### 2. What Sun Got Wrong
+### 2. This Digital Radio Gets Messages to the World’s Remotest Locations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787436">https://news.ycombinator.com/item?id=49787436</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/hermes-shortwave-radio-digital-data">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789228">https://news.ycombinator.com/item?id=49789228</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+🔗 **Read more:** [https://spectrum.ieee.org/hermes-shortwave-radio-digital-data](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
 
 ---
 
-### 3. M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
+### 3. Fable 5 – Median thinking declined in August
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/">https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787313">https://news.ycombinator.com/item?id=49787313</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://twitter.com/Lon/status/2101793422487204027">https://twitter.com/Lon/status/2101793422487204027</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49789224">https://news.ycombinator.com/item?id=49789224</a></p>
+<p>Points: 47</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)
+🔗 **Read more:** [https://twitter.com/Lon/status/2101793422487204027](https://twitter.com/Lon/status/2101793422487204027)
 
 ---
 
-### 4. Young people aren't snowflakes - mental distress is rising, says head of official review
+### 4. Airlines criticise air traffic control as second glitch causes more disruption
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.
+Airlines are angry about the delays, with EasyJet saying the latest incident "once again calls into question the resilience" of the system.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment
+### 5. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Men who sexually abused them as underage girls are still walking around the city, they say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's Frank Gardner speaks some of those who have fled the war by crossing the Red Sea to Djibouti
+The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19
+### 6. First UK charges brought over 1994 Rwanda genocide
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Orfi, the reigning senior and junior world champion, topped the rankings with victory at the Qatar Classic last week.
+Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?
+### 7. How is Europe dealing with ‘hybrid war’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.
+European leaders accuse Russia of hybrid warfare.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss)
 
 ---
 
-### 9. Inside Kazakhstan’s push to become a regional AI centre
+### 8. China expels two top ‘disloyal’ military leaders from Communist Party
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kazakhstan accelerates AI development but experts warn of impact on the environment and human rights.
+China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss)
+
+---
+
+### 9. State of world getting worse as UN Security Council paralysed: Guterres
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The UN chief&#039;s mandate ends on December 31 this year, with a successor yet to be named.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss)
 
 ---
 

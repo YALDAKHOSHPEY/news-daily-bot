@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T20:53:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
+            "description": "<p>At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.<p>Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.<p><pre><code>    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n</code></pre>\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.<p>It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.<p>Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.<p>We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)<p>I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.<p>Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL <a href=\"https://foremerge.com/install.sh\" rel=\"nofollow\">https://foremerge.com/install.sh</a> | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.<p>The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?<p>Repo here: <a href=\"https://github.com/naw103/foremerge\" rel=\"nofollow\">https://github.com/naw103/foremerge</a>\nWebsite: <a href=\"https://foremerge.com\" rel=\"nofollow\">https://foremerge.com</a><p>More information on the problems this solves: <a href=\"https://foremerge.com/blog/\" rel=\"nofollow\">https://foremerge.com/blog/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789356\">https://news.ycombinator.com/item?id=49789356</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/naw103/foremerge",
+            "published": "Mon, 21 Sep 2026 16:22:06 +0000",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/hermes-shortwave-radio-digital-data\">https://spectrum.ieee.org/hermes-shortwave-radio-digital-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789228\">https://news.ycombinator.com/item?id=49789228</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+            "published": "Mon, 21 Sep 2026 16:14:16 +0000",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fable 5 – Median thinking declined in August",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/Lon/status/2101793422487204027\">https://twitter.com/Lon/status/2101793422487204027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789224\">https://news.ycombinator.com/item?id=49789224</a></p>\n<p>Points: 47</p>\n<p># Comments: 26</p>",
+            "url": "https://twitter.com/Lon/status/2101793422487204027",
+            "published": "Mon, 21 Sep 2026 16:13:57 +0000",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+            "description": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+            "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 16:39:16 GMT",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "First UK charges brought over 1994 Rwanda genocide",
+            "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+            "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 17:01:28 GMT",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How is Europe dealing with ‘hybrid war’?",
+            "description": "European leaders accuse Russia of hybrid warfare.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 17:12:32 +0000",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China expels two top ‘disloyal’ military leaders from Communist Party",
+            "description": "China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 16:56:30 +0000",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "State of world getting worse as UN Security Council paralysed: Guterres",
+            "description": "The UN chief&#039;s mandate ends on December 31 this year, with a successor yet to be named.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 16:46:36 +0000",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T20:53:40+03:30"
+        }
+    ]
+}
