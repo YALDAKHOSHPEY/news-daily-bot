@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 10:09:21
+**Last Update:** 2026-09-21 14:54:23
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Grim Fandango Puzzle Document (1996) [pdf]
+### 1. ZuckOff Know when a camera is in the room
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf">http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783495">https://news.ycombinator.com/item?id=49783495</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://zuckoff.app/">https://zuckoff.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49785429">https://news.ycombinator.com/item?id=49785429</a></p>
+<p>Points: 133</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://zuckoff.app/](https://zuckoff.app/)
+
+---
+
+### 2. ZuckOff Is a Free App That Sees Meta Glasses Before They See You
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff">https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49785397">https://news.ycombinator.com/item?id=49785397</a></p>
+<p>Points: 78</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+🔗 **Read more:** [https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
 
 ---
 
-### 2. Far-left party wins Berlin election, pledging to nationalise housing
+### 3. Jev-Leftpad
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/">https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783406">https://news.ycombinator.com/item?id=49783406</a></p>
-<p>Points: 13</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/f/jev-leftpad">https://github.com/f/jev-leftpad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784706">https://news.ycombinator.com/item?id=49784706</a></p>
+<p>Points: 80</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/](https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/)
-
----
-
-### 3. AI chatbots give wrong answers to financial queries 'most of the time'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666">https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783062">https://news.ycombinator.com/item?id=49783062</a></p>
-<p>Points: 48</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
+🔗 **Read more:** [https://github.com/f/jev-leftpad](https://github.com/f/jev-leftpad)
 
 ---
 
-### 4. Specialist courts for rape cases to be rolled out across England and Wales
+### 4. Young people aren't snowflakes - mental distress is rising, says head of official review
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.
+Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free
+### 5. 'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Men who sexually abused them as underage girls are still walking around the city
 
 ---
 
-### 7. Who actually has power at the United Nations?
+### 6. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Every country at the United Nations gets a vote. But five countries have a power the other 188 don’t.
+Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Meloni promises to ban burqas, niqabs in Italy’s schools
+### 7. Why is the US trying ‘regime change’ again?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italy is planning to ban the burqa and niqab in schools and cap the number of foreign students per class.
+The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss)
 
 ---
 
-### 9. Iran’s military says US preparing to resume strikes
+### 8. How oil, gas losses have shrunk Iran’s GDP by 10 percent during war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.
+The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss)
+
+---
+
+### 9. Mystery object spotted hovering over Tehran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A mysterious object filmed hovering over Tehran has sparked online speculation.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss)
 
 ---
 

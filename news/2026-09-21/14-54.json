@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T14:54:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZuckOff Know when a camera is in the room",
+            "description": "<p>Article URL: <a href=\"https://zuckoff.app/\">https://zuckoff.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49785429\">https://news.ycombinator.com/item?id=49785429</a></p>\n<p>Points: 133</p>\n<p># Comments: 36</p>",
+            "url": "https://zuckoff.app/",
+            "published": "Mon, 21 Sep 2026 10:33:14 +0000",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+            "description": "<p>Article URL: <a href=\"https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff\">https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49785397\">https://news.ycombinator.com/item?id=49785397</a></p>\n<p>Points: 78</p>\n<p># Comments: 2</p>",
+            "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+            "published": "Mon, 21 Sep 2026 10:27:50 +0000",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev-Leftpad",
+            "description": "<p>Article URL: <a href=\"https://github.com/f/jev-leftpad\">https://github.com/f/jev-leftpad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784706\">https://news.ycombinator.com/item?id=49784706</a></p>\n<p>Points: 80</p>\n<p># Comments: 37</p>",
+            "url": "https://github.com/f/jev-leftpad",
+            "published": "Mon, 21 Sep 2026 08:39:32 +0000",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+            "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 04:00:05 GMT",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
+            "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+            "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 08:56:27 GMT",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is the US trying ‘regime change’ again?",
+            "description": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
+            "url": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 11:00:49 +0000",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+            "description": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 10:38:41 +0000",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mystery object spotted hovering over Tehran",
+            "description": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 10:10:14 +0000",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T14:54:23+03:30"
+        }
+    ]
+}
