@@ -1,61 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 00:52:46
+**Last Update:** 2026-09-22 02:55:31
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Xiaomi MiMo v2.6
+### 1. Data Protection Commission fines Google €403M over processing of location data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mimo.xiaomi.com/mimo-v2-6">https://mimo.xiaomi.com/mimo-v2-6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792730">https://news.ycombinator.com/item?id=49792730</a></p>
-<p>Points: 180</p>
-<p># Comments: 67</p>
-
-🔗 **Read more:** [https://mimo.xiaomi.com/mimo-v2-6](https://mimo.xiaomi.com/mimo-v2-6)
-
----
-
-### 2. Transformers Explained Visually
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://poloclub.github.io/transformer-explainer/">https://poloclub.github.io/transformer-explainer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792342">https://news.ycombinator.com/item?id=49792342</a></p>
-<p>Points: 39</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/)
-
----
-
-### 3. Show HN: A website that tracks US food prices every day
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:<p>- what growers were paid at shipping point<p>- what buyers paid at the big city wholesale markets<p>- what prices supermarkets advertised in their weekly ads<p>This data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.<p>I think this should be public data that is easy to access and understand, so I built an open-source tracker for it.<p>Github: <a href="https://github.com/kadoa-org/food-price-monitor" rel="nofollow">https://github.com/kadoa-org/food-price-monitor</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49792076">https://news.ycombinator.com/item?id=49792076</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794354">https://news.ycombinator.com/item?id=49794354</a></p>
+<p>Points: 22</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.kadoa.com/food-prices](https://www.kadoa.com/food-prices)
+🔗 **Read more:** [https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+
+---
+
+### 2. I don't want to read what you didn't write
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794330">https://news.ycombinator.com/item?id=49794330</a></p>
+<p>Points: 64</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+
+---
+
+### 3. Suspension of the de minimis administrative exemption for imports $800 or less
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry" rel="nofollow">https://www.federalregister.gov/documents/2026/06/24/2026-12...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49793322">https://news.ycombinator.com/item?id=49793322</a></p>
+<p>Points: 93</p>
+<p># Comments: 48</p>
+
+🔗 **Read more:** [https://www.personalimportation.org/advocacy](https://www.personalimportation.org/advocacy)
 
 ---
 
@@ -98,7 +98,20 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 
 ---
 
-### 7. Former ‘death squad’ leader appears in military trial in The Gambia
+### 7. How thousands of migrants stranded in Ceuta are surviving
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss)
+
+---
+
+### 8. Former ‘death squad’ leader appears in military trial in The Gambia
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 
 
 ---
 
-### 8. Trump speech inaudible as US networks boycott White House event
+### 9. Trump speech inaudible as US networks boycott White House event
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 
 US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss)
-
----
-
-### 9. Putin’s party wins supermajority in Russia’s parliamentary election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Victory of United Russia party strengthens Putin&#039;s hand even as the war with Ukraine grows more unpopular.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss)
 
 ---
 
