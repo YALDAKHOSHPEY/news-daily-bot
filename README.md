@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 02:04:23
+**Last Update:** 2026-09-21 04:08:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nipple tattooist 'frustrated' by online censorship
+### 1. Amiga Unix, Again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cx2z7ejn891o">https://www.bbc.com/news/articles/cx2z7ejn891o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780466">https://news.ycombinator.com/item?id=49780466</a></p>
-<p>Points: 12</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://amigaux.org/">https://amigaux.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49781436">https://news.ycombinator.com/item?id=49781436</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cx2z7ejn891o](https://www.bbc.com/news/articles/cx2z7ejn891o)
+🔗 **Read more:** [https://amigaux.org/](https://amigaux.org/)
 
 ---
 
-### 2. Nobody pays for FOSS, we can force them to
+### 2. DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780064">https://news.ycombinator.com/item?id=49780064</a></p>
-<p>Points: 46</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/BytedTsinghua-SIA/DAPO">https://github.com/BytedTsinghua-SIA/DAPO</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49781138">https://news.ycombinator.com/item?id=49781138</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+🔗 **Read more:** [https://github.com/BytedTsinghua-SIA/DAPO](https://github.com/BytedTsinghua-SIA/DAPO)
 
 ---
 
-### 3. Ogre Battle 64 Recompiled Project at 99.05%
+### 3. What happened to the Snowden archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/lfarroco/ogre-battle-64-recomp">https://github.com/lfarroco/ogre-battle-64-recomp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780022">https://news.ycombinator.com/item?id=49780022</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://libroot.org/posts/what-happened-to-the-snowden-archive">https://libroot.org/posts/what-happened-to-the-snowden-archive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780820">https://news.ycombinator.com/item?id=49780820</a></p>
+<p>Points: 100</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://github.com/lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp)
+🔗 **Read more:** [https://libroot.org/posts/what-happened-to-the-snowden-archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
 
 ---
 
@@ -84,55 +84,55 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 6. Watch: Emotional Earl Spencer says he misses sister Diana every day
+### 6. Specialist courts for rape cases to be rolled out across England and Wales
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her", Earl Spencer told presenter Laura Kuenssberg.
+Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. France to summon Iran envoy after language centre closure in Tehran
+### 7. Iran war live: Tehran warns US against new strikes; fighting rages in Yemen
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.
+Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation &#039;without limitations&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss)
 
 ---
 
-### 8. Qatar PM urges Gulf security framework with Iran
+### 8. ICE officer shoots and wounds man in Austin, Texas, officials say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.
+The unnamed man is in serious but stable condition at a hospital after being shot once in the torso, police say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss)
 
 ---
 
-### 9. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
+### 9. Polls close in Russian wartime election with ruling party set to dominate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
+Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss)
 
 ---
 
