@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 14:54:23
+**Last Update:** 2026-09-21 17:53:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ZuckOff Know when a camera is in the room
+### 1. Uber arbitration award over Emily Normandin-Parker's death
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://zuckoff.app/">https://zuckoff.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49785429">https://news.ycombinator.com/item?id=49785429</a></p>
-<p>Points: 133</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death">https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787523">https://news.ycombinator.com/item?id=49787523</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://zuckoff.app/](https://zuckoff.app/)
+🔗 **Read more:** [https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
 
 ---
 
-### 2. ZuckOff Is a Free App That Sees Meta Glasses Before They See You
+### 2. What Sun Got Wrong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff">https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49785397">https://news.ycombinator.com/item?id=49785397</a></p>
-<p>Points: 78</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787436">https://news.ycombinator.com/item?id=49787436</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
+🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 
 ---
 
-### 3. Jev-Leftpad
+### 3. M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/f/jev-leftpad">https://github.com/f/jev-leftpad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49784706">https://news.ycombinator.com/item?id=49784706</a></p>
-<p>Points: 80</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/">https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787313">https://news.ycombinator.com/item?id=49787313</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/f/jev-leftpad](https://github.com/f/jev-leftpad)
+🔗 **Read more:** [https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)
 
 ---
 
@@ -84,55 +84,55 @@ Men who sexually abused them as underage girls are still walking around the city
 
 ---
 
-### 6. German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
+### 6. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.
+The BBC's Frank Gardner speaks some of those who have fled the war by crossing the Red Sea to Djibouti
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why is the US trying ‘regime change’ again?
+### 7. Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway
+Orfi, the reigning senior and junior world champion, topped the rankings with victory at the Qatar Classic last week.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss)
 
 ---
 
-### 8. How oil, gas losses have shrunk Iran’s GDP by 10 percent during war
+### 8. What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.
+Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss)
 
 ---
 
-### 9. Mystery object spotted hovering over Tehran
+### 9. Inside Kazakhstan’s push to become a regional AI centre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A mysterious object filmed hovering over Tehran has sparked online speculation.
+Kazakhstan accelerates AI development but experts warn of impact on the environment and human rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss)
 
 ---
 
