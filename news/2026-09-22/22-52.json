@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T22:52:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+            "description": "<p>Article URL: <a href=\"https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477\">https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806430\">https://news.ycombinator.com/item?id=49806430</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+            "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+            "published": "Tue, 22 Sep 2026 19:03:38 +0000",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SAML: A Fractal of Bad Design",
+            "description": "<p>Article URL: <a href=\"https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/\">https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806335\">https://news.ycombinator.com/item?id=49806335</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+            "published": "Tue, 22 Sep 2026 18:57:17 +0000",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero-downtime Linux kernel zero-day mitigation via eBPF and SECCOMP",
+            "description": "<p>Article URL: <a href=\"https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-\">https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806050\">https://news.ycombinator.com/item?id=49806050</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-",
+            "published": "Tue, 22 Sep 2026 18:34:36 +0000",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+            "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+            "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 18:00:17 GMT",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New EU industry rules would damage UK, warns Burnham",
+            "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 13:10:23 GMT",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tim Westwood charged with two more sexual offences",
+            "description": "The alleged sexual offences date back to 1991 and 2004.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 14:29:31 GMT",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Erdogan accuses Israel of ‘genocidal mindset’ at UNGA",
+            "description": "Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 19:14:41 +0000",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Ethiopia heading towards renewed civil war?",
+            "description": "Seven armed groups announce alliance to topple government.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 18:51:53 +0000",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
+            "description": "Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 18:49:36 +0000",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-22T22:52:20+03:30"
+        }
+    ]
+}
