@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 09:05:53
+**Last Update:** 2026-09-22 11:19:51
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Claude Status – Elevated errors for multiple models
+### 1. Can gzip be a language model?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795579">https://news.ycombinator.com/item?id=49795579</a></p>
-<p>Points: 87</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://nathan.rs/posts/gzip-lm/">https://nathan.rs/posts/gzip-lm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797323">https://news.ycombinator.com/item?id=49797323</a></p>
+<p>Points: 32</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://status.claude.com/incidents/7g1qpkyz5gxh](https://status.claude.com/incidents/7g1qpkyz5gxh)
+🔗 **Read more:** [https://nathan.rs/posts/gzip-lm/](https://nathan.rs/posts/gzip-lm/)
 
 ---
 
-### 2. Socrates vs. the Written Word (2011)
+### 2. Apple Music to open concert venue in Battersea Power Station
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https://news.ycombinator.com/item?id=49795122</a></p>
-<p>Points: 27</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c607l2j2rj8ro">https://www.bbc.com/news/articles/c607l2j2rj8ro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797139">https://news.ycombinator.com/item?id=49797139</a></p>
+<p>Points: 50</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://wondermark.com/socrates-vs-writing/](https://wondermark.com/socrates-vs-writing/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c607l2j2rj8ro](https://www.bbc.com/news/articles/c607l2j2rj8ro)
 
 ---
 
-### 3. Looking forward to Git 2.56 – and 3.0
+### 3. MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794736">https://news.ycombinator.com/item?id=49794736</a></p>
-<p>Points: 67</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/models/mimo-v2-6-pro">https://artificialanalysis.ai/models/mimo-v2-6-pro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49796660">https://news.ycombinator.com/item?id=49796660</a></p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+🔗 **Read more:** [https://artificialanalysis.ai/models/mimo-v2-6-pro](https://artificialanalysis.ai/models/mimo-v2-6-pro)
 
 ---
 
@@ -97,42 +97,42 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 7. UN General Assembly 2026: When is it, who is speaking and when?
+### 7. ‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.
+The Left party, led by Turkish-origin Elif Eralp, won Berlin, offering a contrast to the far right&#039;s wins in the east.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss)
 
 ---
 
-### 8. Why does the US want to send Israel 40,000 bombs?
+### 8. Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Is the planned $2.8bn US arms deal proportionate to Israel’s threat, or could it cause more civilian casualties in Gaza?
+Pakistani interior minister&#039;s trip to Tehran is his sixth and comes as Islamabad, Doha seek to revive diplomacy with US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss)
 
 ---
 
-### 9. Houthis battle for strategic heights in Yemen as thousands more flee homes
+### 9. Palestinians turn to communal ovens to bake bread in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.
+Amid Gaza’s food crisis, bread remains a staple as displaced families use communal ovens to save on costly fuel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss)
 
 ---
 
