@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 03:52:55
+**Last Update:** 2026-09-22 05:11:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 7 out of 9 Planetary Boundaries are breached
+### 1. Claude Status – Elevated errors for multiple models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.planetaryhealthcheck.org/">https://www.planetaryhealthcheck.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795019">https://news.ycombinator.com/item?id=49795019</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.planetaryhealthcheck.org/](https://www.planetaryhealthcheck.org/)
-
----
-
-### 2. Spymarks, Not Watermarks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://brand.io/article/spymarks/">https://brand.io/article/spymarks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794615">https://news.ycombinator.com/item?id=49794615</a></p>
-<p>Points: 27</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://brand.io/article/spymarks/](https://brand.io/article/spymarks/)
-
----
-
-### 3. Data Protection Commission fines Google €403M over processing of location data
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794354">https://news.ycombinator.com/item?id=49794354</a></p>
-<p>Points: 54</p>
+<p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795579">https://news.ycombinator.com/item?id=49795579</a></p>
+<p>Points: 37</p>
 <p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
+🔗 **Read more:** [https://status.claude.com/incidents/7g1qpkyz5gxh](https://status.claude.com/incidents/7g1qpkyz5gxh)
+
+---
+
+### 2. Socrates vs. the Written Word (2011)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https://news.ycombinator.com/item?id=49795122</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://wondermark.com/socrates-vs-writing/](https://wondermark.com/socrates-vs-writing/)
+
+---
+
+### 3. Looking forward to Git 2.56 – and 3.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794736">https://news.ycombinator.com/item?id=49794736</a></p>
+<p>Points: 28</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham said further issues today "cause even greater concern" about the UK's air traffic control and the head of the organisation that runs it.
+Prime Minister Andy Burnham said further issues "cause even greater concern" about the UK's air traffic control and the head of the organisation that runs it.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 
 ---
 
-### 7. Mali marks independence amid a worsening security crisis
+### 7. Influencers Jake and Logan Paul visit the Pentagon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 66th anniversary comes as armed groups expand their reach and the government struggles to secure key supply routes.
+Influencers Logan and Jake Paul visited the Pentagon and addressed US troops, praising them for serving the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region
+### 8. Here’s what to pay attention to at the UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The IRGC says the US and Israel &quot;must accept the region&#039;s freedom from their vile and criminal presence&quot;.
+World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss)
 
 ---
 
-### 9. How thousands of migrants stranded in Ceuta are surviving
+### 9. Trump returns to the UN, what will he say?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
+Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss)
 
 ---
 
