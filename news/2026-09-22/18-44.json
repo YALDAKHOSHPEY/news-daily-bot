@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T18:44:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+            "description": "<p>Article URL: <a href=\"https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802161\">https://news.ycombinator.com/item?id=49802161</a></p>\n<p>Points: 38</p>\n<p># Comments: 19</p>",
+            "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+            "published": "Tue, 22 Sep 2026 14:42:59 +0000",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
+            "description": "<p>Article URL: <a href=\"https://github.com/Amal-David/awesome-jev\">https://github.com/Amal-David/awesome-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802160\">https://news.ycombinator.com/item?id=49802160</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/Amal-David/awesome-jev",
+            "published": "Tue, 22 Sep 2026 14:42:57 +0000",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/\">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49802030\">https://news.ycombinator.com/item?id=49802030</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+            "published": "Tue, 22 Sep 2026 14:35:15 +0000",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New EU industry rules would damage UK, warns Burnham",
+            "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 13:10:23 GMT",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tim Westwood charged with two more sexual offences",
+            "description": "The alleged sexual offences date back to 1991 and 2004.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 14:29:31 GMT",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father admits causing death of his son in hotel fall",
+            "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 14:31:34 GMT",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind French protests against a new police bill?",
+            "description": "Critics say controversial law will give police officers a &#039;licence to kill&#039;.",
+            "url": "https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 15:01:19 +0000",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
+            "description": "Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 14:47:25 +0000",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN Chief condemns Gaza destruction, West Bank settlements",
+            "description": "In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 14:37:24 +0000",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-22T18:44:49+03:30"
+        }
+    ]
+}

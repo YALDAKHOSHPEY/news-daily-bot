@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 17:01:18
+**Last Update:** 2026-09-22 18:44:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Has No Wisdom and Neither Will You
+### 1. OpenAI is about to eat Jev's lunch – Arcturus Labs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799965">https://news.ycombinator.com/item?id=49799965</a></p>
-<p>Points: 109</p>
-<p># Comments: 122</p>
+<p>Article URL: <a href="https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/">https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49802161">https://news.ycombinator.com/item?id=49802161</a></p>
+<p>Points: 38</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+🔗 **Read more:** [https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
 
 ---
 
-### 2. Will Open Source Survive the Agents That Replaced It?
+### 2. Jev – a curation of Jev demos on X, tools, skills, and integrations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/">https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799910">https://news.ycombinator.com/item?id=49799910</a></p>
-<p>Points: 22</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://github.com/Amal-David/awesome-jev">https://github.com/Amal-David/awesome-jev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49802160">https://news.ycombinator.com/item?id=49802160</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/](https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/)
+🔗 **Read more:** [https://github.com/Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev)
 
 ---
 
-### 3. Type Punning in C and C++
+### 3. Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html">https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799577">https://news.ycombinator.com/item?id=49799577</a></p>
-<p>Points: 32</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49802030">https://news.ycombinator.com/item?id=49802030</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
+🔗 **Read more:** [https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
 
 ---
 
@@ -71,68 +71,68 @@ The prime minister says he will raise his concerns when he meets the European Co
 
 ---
 
-### 5. Martha's Rule rolled out at every A&E department in England
+### 5. Tim Westwood charged with two more sexual offences
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.
+The alleged sexual offences date back to 1991 and 2004.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
+### 6. Father admits causing death of his son in hotel fall
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.
+The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?
+### 7. What’s behind French protests against a new police bill?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan.
+Critics say controversial law will give police officers a &#039;licence to kill&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss](https://www.aljazeera.com/features/2026/9/22/whats-behind-french-protests-against-a-new-police-bill?traffic_source=rss)
 
 ---
 
-### 8. UN warns of rising Yemen displacement as thousands flee to Djibouti
+### 8. Why are the Houthis fighting for Yemen’s Kahboub Mountains?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.
+Kahboub could help the Houthis consolidate control near one of the world’s busiest shipping routes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss)
 
 ---
 
-### 9. White House launches ‘Trump TV’ after press bans
+### 9. UN Chief condemns Gaza destruction, West Bank settlements
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Days after banning a group of news organisations from the White House, the Trump administration launches &#039;Trump TV&#039;.
+In his final UN General Assembly address as secretary-general, Antonio Guterres condemned the killing in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss)
 
 ---
 
