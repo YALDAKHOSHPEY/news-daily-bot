@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 14:03:16
+**Last Update:** 2026-09-22 17:01:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
+### 1. AI Has No Wisdom and Neither Will You
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/">https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798451">https://news.ycombinator.com/item?id=49798451</a></p>
-<p>Points: 41</p>
-<p># Comments: 51</p>
+<p>Article URL: <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799965">https://news.ycombinator.com/item?id=49799965</a></p>
+<p>Points: 109</p>
+<p># Comments: 122</p>
 
-🔗 **Read more:** [https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
+🔗 **Read more:** [https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 
 ---
 
-### 2. AMD's random number generator can't generate a 0?
+### 2. Will Open Source Survive the Agents That Replaced It?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://board.flatassembler.net/topic.php?t=24261">https://board.flatassembler.net/topic.php?t=24261</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798204">https://news.ycombinator.com/item?id=49798204</a></p>
-<p>Points: 41</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/">https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799910">https://news.ycombinator.com/item?id=49799910</a></p>
+<p>Points: 22</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://board.flatassembler.net/topic.php?t=24261](https://board.flatassembler.net/topic.php?t=24261)
+🔗 **Read more:** [https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/](https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/)
 
 ---
 
-### 3. I said no and Apple said yes
+### 3. Type Punning in C and C++
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dbushell.com/2026/09/22/apple-intelligence/">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797982">https://news.ycombinator.com/item?id=49797982</a></p>
-<p>Points: 173</p>
-<p># Comments: 101</p>
+<p>Article URL: <a href="https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html">https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799577">https://news.ycombinator.com/item?id=49799577</a></p>
+<p>Points: 32</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://dbushell.com/2026/09/22/apple-intelligence/](https://dbushell.com/2026/09/22/apple-intelligence/)
+🔗 **Read more:** [https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
 
 ---
 
-### 4. Martha's Rule rolled out at every A&E department in England
+### 4. New EU industry rules would damage UK, warns Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister says he will raise his concerns when he meets the European Commission President later.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Martha's Rule rolled out at every A&E department in England
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 5. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
+### 6. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Borrowing was higher than expected in August as inflation piles pressure on the 
 
 ---
 
-### 6. Burnham expects to find 'common ground' with Trump in first meeting
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final
+### 7. ‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sri Lanka were bowled out for 69 runs, 10 less than Mandhana&#039;s belligerent match-winning innings as India retained gold.
+India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss)
 
 ---
 
-### 8. Gunman opens fire near high school in western Turkiye, wounding eight
+### 8. UN warns of rising Yemen displacement as thousands flee to Djibouti
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police arrest suspect in shooting near high school as injured are rushed to local hospitals for treatment.
+Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss)
 
 ---
 
-### 9. ‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation
+### 9. White House launches ‘Trump TV’ after press bans
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.
+Days after banning a group of news organisations from the White House, the Trump administration launches &#039;Trump TV&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/white-house-launches-trump-tv-after-press-bans?traffic_source=rss)
 
 ---
 
