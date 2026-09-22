@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T09:05:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Status – Elevated errors for multiple models",
+            "description": "<p>Article URL: <a href=\"https://status.claude.com/incidents/7g1qpkyz5gxh\">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795579\">https://news.ycombinator.com/item?id=49795579</a></p>\n<p>Points: 87</p>\n<p># Comments: 66</p>",
+            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+            "published": "Tue, 22 Sep 2026 01:05:19 +0000",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Socrates vs. the Written Word (2011)",
+            "description": "<p>Article URL: <a href=\"https://wondermark.com/socrates-vs-writing/\">https://wondermark.com/socrates-vs-writing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795122\">https://news.ycombinator.com/item?id=49795122</a></p>\n<p>Points: 27</p>\n<p># Comments: 7</p>",
+            "url": "https://wondermark.com/socrates-vs-writing/",
+            "published": "Tue, 22 Sep 2026 00:06:55 +0000",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Looking forward to Git 2.56 – and 3.0",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794736\">https://news.ycombinator.com/item?id=49794736</a></p>\n<p>Points: 67</p>\n<p># Comments: 25</p>",
+            "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+            "published": "Mon, 21 Sep 2026 23:16:51 +0000",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+            "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 01:31:29 GMT",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+            "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 00:58:52 GMT",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Martha's Rule rolled out at every A&E department in England",
+            "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 23:38:57 GMT",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN General Assembly 2026: When is it, who is speaking and when?",
+            "description": "September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 05:15:59 +0000",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why does the US want to send Israel 40,000 bombs?",
+            "description": "Is the planned $2.8bn US arms deal proportionate to Israel’s threat, or could it cause more civilian casualties in Gaza?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 05:15:34 +0000",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
+            "description": "Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 04:48:29 +0000",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-22T09:05:53+03:30"
+        }
+    ]
+}
