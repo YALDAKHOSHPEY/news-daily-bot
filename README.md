@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 22:52:20
+**Last Update:** 2026-09-23 01:01:17
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children
+### 1. The UV index is not the warm sensation of sunlight on bare skin
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477">https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49806430">https://news.ycombinator.com/item?id=49806430</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477](https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477)
-
----
-
-### 2. SAML: A Fractal of Bad Design
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/">https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49806335">https://news.ycombinator.com/item?id=49806335</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/)
+🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 
 ---
 
-### 3. Zero-downtime Linux kernel zero-day mitigation via eBPF and SECCOMP
+### 2. No Sloptober
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49806050">https://news.ycombinator.com/item?id=49806050</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://no-sloptober.com/">https://no-sloptober.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808096">https://news.ycombinator.com/item?id=49808096</a></p>
+<p>Points: 27</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)
+🔗 **Read more:** [https://no-sloptober.com/](https://no-sloptober.com/)
 
 ---
 
-### 4. Plot targeting Manchester's Jewish community disrupted, say police
+### 3. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://foxscript.org/">https://foxscript.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
+
+---
+
+### 4. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the "terrible" Chagos deal.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Plot targeting Manchester's Jewish community disrupted, say police
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 Two men were arrested in Manchester on Sunday, say counter-terror police.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. New EU industry rules would damage UK, warns Burnham
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister says he will raise his concerns when he meets the European Commission President later.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The alleged sexual offences date back to 1991 and 2004.
 
 ---
 
-### 7. Erdogan accuses Israel of ‘genocidal mindset’ at UNGA
+### 7. US signs ‘tremendous’ security deal with Denmark and Greenland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkish President Recep Tayyip Erdogan accused Israel of a “genocidal mindset” at the UN General Assembly.
+Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/erdogan-accuses-israel-of-genocidal-mindset-at-unga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss)
 
 ---
 
-### 8. Is Ethiopia heading towards renewed civil war?
+### 8. Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven armed groups announce alliance to topple government.
+Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss)
 
 ---
 
-### 9. UN Goodwill Ambassador: Millions of refugee children missing school
+### 9. Macron: France won’t ‘yield an inch’ on Ukraine support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mary Maker says education changed the course of her life and urges world leaders to invest in education for refugees.
+French President Emmanuel Macron says the “coalition of the willing&quot; will not back down in its support of Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss)
 
 ---
 
