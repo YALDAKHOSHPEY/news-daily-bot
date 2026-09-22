@@ -1,90 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 11:19:51
+**Last Update:** 2026-09-22 14:03:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Can gzip be a language model?
+### 1. Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nathan.rs/posts/gzip-lm/">https://nathan.rs/posts/gzip-lm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797323">https://news.ycombinator.com/item?id=49797323</a></p>
-<p>Points: 32</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/">https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798451">https://news.ycombinator.com/item?id=49798451</a></p>
+<p>Points: 41</p>
+<p># Comments: 51</p>
 
-🔗 **Read more:** [https://nathan.rs/posts/gzip-lm/](https://nathan.rs/posts/gzip-lm/)
+🔗 **Read more:** [https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/)
 
 ---
 
-### 2. Apple Music to open concert venue in Battersea Power Station
+### 2. AMD's random number generator can't generate a 0?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c607l2j2rj8ro">https://www.bbc.com/news/articles/c607l2j2rj8ro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797139">https://news.ycombinator.com/item?id=49797139</a></p>
-<p>Points: 50</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://board.flatassembler.net/topic.php?t=24261">https://board.flatassembler.net/topic.php?t=24261</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49798204">https://news.ycombinator.com/item?id=49798204</a></p>
+<p>Points: 41</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c607l2j2rj8ro](https://www.bbc.com/news/articles/c607l2j2rj8ro)
+🔗 **Read more:** [https://board.flatassembler.net/topic.php?t=24261](https://board.flatassembler.net/topic.php?t=24261)
 
 ---
 
-### 3. MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis
+### 3. I said no and Apple said yes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/mimo-v2-6-pro">https://artificialanalysis.ai/models/mimo-v2-6-pro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49796660">https://news.ycombinator.com/item?id=49796660</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://dbushell.com/2026/09/22/apple-intelligence/">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797982">https://news.ycombinator.com/item?id=49797982</a></p>
+<p>Points: 173</p>
+<p># Comments: 101</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/models/mimo-v2-6-pro](https://artificialanalysis.ai/models/mimo-v2-6-pro)
-
----
-
-### 4. Burnham expects to find 'common ground' with Trump in first meeting
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://dbushell.com/2026/09/22/apple-intelligence/](https://dbushell.com/2026/09/22/apple-intelligence/)
 
 ---
 
-### 5. UK to provide Saudi Arabia with 'defensive' military support, says Burnham
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister says "defensive air-to-air refuelling" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Martha's Rule rolled out at every A&E department in England
+### 4. Martha's Rule rolled out at every A&E department in England
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 7. ‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains
+### 5. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Left party, led by Turkish-origin Elif Eralp, won Berlin, offering a contrast to the far right&#039;s wins in the east.
+Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise
+### 6. Burnham expects to find 'common ground' with Trump in first meeting
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pakistani interior minister&#039;s trip to Tehran is his sixth and comes as Islamabad, Doha seek to revive diplomacy with US.
+In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Palestinians turn to communal ovens to bake bread in Gaza
+### 7. India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amid Gaza’s food crisis, bread remains a staple as displaced families use communal ovens to save on costly fuel.
+Sri Lanka were bowled out for 69 runs, 10 less than Mandhana&#039;s belligerent match-winning innings as India retained gold.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss)
+
+---
+
+### 8. Gunman opens fire near high school in western Turkiye, wounding eight
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police arrest suspect in shooting near high school as injured are rushed to local hospitals for treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss)
+
+---
+
+### 9. ‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss)
 
 ---
 
