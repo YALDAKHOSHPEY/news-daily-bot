@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 01:01:17
+**Last Update:** 2026-09-23 02:00:36
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 
 ---
 
-### 2. No Sloptober
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://no-sloptober.com/">https://no-sloptober.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808096">https://news.ycombinator.com/item?id=49808096</a></p>
-<p>Points: 27</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://no-sloptober.com/](https://no-sloptober.com/)
-
----
-
-### 3. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+### 2. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://foxscript.org/">https://foxscript.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 71</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
 
 ---
 
-### 4. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
+### 3. LLM Ass Bench
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.assbench.com/">https://www.assbench.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49807688">https://news.ycombinator.com/item?id=49807688</a></p>
+<p>Points: 113</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://www.assbench.com/](https://www.assbench.com/)
+
+---
+
+### 4. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Donald Trump says he can do business with Andy Burnham at their first face-to-fa
 
 ---
 
-### 5. Plot targeting Manchester's Jewish community disrupted, say police
+### 6. Plot targeting Manchester's Jewish community disrupted, say police
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Two men were arrested in Manchester on Sunday, say counter-terror police.
 
 ---
 
-### 6. Tim Westwood charged with two more sexual offences
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The alleged sexual offences date back to 1991 and 2004.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US signs ‘tremendous’ security deal with Denmark and Greenland
+### 7. Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.
+Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss)
 
 ---
 
-### 8. Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’
+### 8. US Republican calls for probe into Donald Trump Jr’s business dealings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.
+US Senator John Curtis&#039;s letter marks a rare effort by a member of the president&#039;s own party to hold him accountable.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss)
 
 ---
 
-### 9. Macron: France won’t ‘yield an inch’ on Ukraine support
+### 9. Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French President Emmanuel Macron says the “coalition of the willing&quot; will not back down in its support of Ukraine.
+Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss)
 
 ---
 
