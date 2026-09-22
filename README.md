@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 02:55:31
+**Last Update:** 2026-09-22 03:52:55
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Data Protection Commission fines Google €403M over processing of location data
+### 1. 7 out of 9 Planetary Boundaries are breached
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.planetaryhealthcheck.org/">https://www.planetaryhealthcheck.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795019">https://news.ycombinator.com/item?id=49795019</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.planetaryhealthcheck.org/](https://www.planetaryhealthcheck.org/)
+
+---
+
+### 2. Spymarks, Not Watermarks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://brand.io/article/spymarks/">https://brand.io/article/spymarks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794615">https://news.ycombinator.com/item?id=49794615</a></p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://brand.io/article/spymarks/](https://brand.io/article/spymarks/)
+
+---
+
+### 3. Data Protection Commission fines Google €403M over processing of location data
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794354">https://news.ycombinator.com/item?id=49794354</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Points: 54</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
-
----
-
-### 2. I don't want to read what you didn't write
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794330">https://news.ycombinator.com/item?id=49794330</a></p>
-<p>Points: 64</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-
----
-
-### 3. Suspension of the de minimis administrative exemption for imports $800 or less
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry" rel="nofollow">https://www.federalregister.gov/documents/2026/06/24/2026-12...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49793322">https://news.ycombinator.com/item?id=49793322</a></p>
-<p>Points: 93</p>
-<p># Comments: 48</p>
-
-🔗 **Read more:** [https://www.personalimportation.org/advocacy](https://www.personalimportation.org/advocacy)
 
 ---
 
@@ -98,7 +97,33 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 
 ---
 
-### 7. How thousands of migrants stranded in Ceuta are surviving
+### 7. Mali marks independence amid a worsening security crisis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 66th anniversary comes as armed groups expand their reach and the government struggles to secure key supply routes.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/mali-marks-independence-amid-a-worsening-security-crisis?traffic_source=rss)
+
+---
+
+### 8. Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The IRGC says the US and Israel &quot;must accept the region&#039;s freedom from their vile and criminal presence&quot;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss)
+
+---
+
+### 9. How thousands of migrants stranded in Ceuta are surviving
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss)
-
----
-
-### 8. Former ‘death squad’ leader appears in military trial in The Gambia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 20-year rule.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss)
-
----
-
-### 9. Trump speech inaudible as US networks boycott White House event
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss)
 
 ---
 
