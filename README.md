@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 15:59:59
+**Last Update:** 2026-09-23 20:49:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. QuestDB (YC S20) Is Hiring a Sales Engineer
+### 1. 28% of job postings on company career sites have been open over 90 days
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://questdb.com/careers/pre-sales-engineer-north-america/">https://questdb.com/careers/pre-sales-engineer-north-america/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814780">https://news.ycombinator.com/item?id=49814780</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://unlisted.careers/ghost-jobs/report/2026-09">https://unlisted.careers/ghost-jobs/report/2026-09</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49818698">https://news.ycombinator.com/item?id=49818698</a></p>
+<p>Points: 23</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://questdb.com/careers/pre-sales-engineer-north-america/](https://questdb.com/careers/pre-sales-engineer-north-america/)
+🔗 **Read more:** [https://unlisted.careers/ghost-jobs/report/2026-09](https://unlisted.careers/ghost-jobs/report/2026-09)
 
 ---
 
-### 2. Z80 REPL
+### 2. Gemini 3.8 text-to-speech
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://abagames.github.io/z80-repl/index.html">https://abagames.github.io/z80-repl/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814236">https://news.ycombinator.com/item?id=49814236</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817615">https://news.ycombinator.com/item?id=49817615</a></p>
+<p>Points: 78</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://abagames.github.io/z80-repl/index.html](https://abagames.github.io/z80-repl/index.html)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
 
 ---
 
-### 3. The darker side of being a doctor
+### 3. Radicle: Disclosure of Vulnerability in the Network Protocol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
-<p>Points: 125</p>
-<p># Comments: 101</p>
+<p>Article URL: <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817524">https://news.ycombinator.com/item?id=49817524</a></p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
+🔗 **Read more:** [https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
 
 ---
 
-### 4. UK to review Chagos Islands deal over lack of US support, Streeting tells BBC
+### 4. UK military jamming other nation's satellites to defend itself, BBC told
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".
+The head of the RAF says the UK faces "unprecedented threats" from adversaries in space, as a new unit is created to defend Britain's satellites.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+### 5. Home secretary says undetected migrant landings 'unacceptable'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.
+The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
+### 6. Watch: Moment pilots eject as RAF jet crashes in Anglesey
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A concerning number of patients are reporting problems from treatment abroad, say doctors.
+The two pilots ejected from the jet before crash and sustained minor injuries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+### 7. Israel’s destruction leaves Lebanon’s border villages in ruins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.
+Israel’s destruction leaves Lebanon’s border villages in ruins
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss)
 
 ---
 
-### 8. UEFA’s Ceferin says FIFA trust still broken after Infantino investment row
+### 8. Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA president speaks for the first time since FIFA said it would review its decision-making, says trust still broken.
+President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss)
 
 ---
 
-### 9. Qatar on mediation efforts: ‘We can’t let diplomacy fail’
+### 9. How and why the UN General Assembly is gaining prominence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
+The gridlock in the UNSC and emerging multipolarity are shifting political weight to the UNGA.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss)
 
 ---
 
