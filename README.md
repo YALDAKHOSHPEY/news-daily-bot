@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 09:41:47
+**Last Update:** 2026-09-23 10:26:53
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811484">https://news.ycombinator.com/item?id=49811484</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
+<p>Points: 57</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Points: 27</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
 
 ---
 
-### 3. Transit rewards (Waymo pays you to take the train)
+### 3. Transit rewards
 
 **Source:** Hacker News
 
@@ -51,14 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
-<p>Points: 93</p>
-<p># Comments: 68</p>
+<p>Points: 103</p>
+<p># Comments: 85</p>
 
 🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
 
 ---
 
-### 4. UK to fight Russian disinformation and push new global AI standards, Burnham says
+### 4. UK to step up fight against Russian disinformation and push global AI standards, PM says
 
 **Source:** BBC
 
@@ -97,14 +97,14 @@ Burnham seemed nervous at first, knowing how explosive these encounters with Tru
 
 ---
 
-### 7. Trump rallies Shield of the Americas coalition against drug cartels
+### 7. Trump rallies Latin American allies against drug cartels
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US-led anti-cartel alliance backs sanctions against crime groups after Trump urges stronger action.
+US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss)
 

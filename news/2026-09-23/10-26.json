@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T10:26:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/\">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811484\">https://news.ycombinator.com/item?id=49811484</a></p>\n<p>Points: 57</p>\n<p># Comments: 11</p>",
+            "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+            "published": "Wed, 23 Sep 2026 04:00:43 +0000",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data-only attacks are easier than you think (2024)",
+            "description": "<p>Article URL: <a href=\"https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811429\">https://news.ycombinator.com/item?id=49811429</a></p>\n<p>Points: 27</p>\n<p># Comments: 12</p>",
+            "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+            "published": "Wed, 23 Sep 2026 03:49:28 +0000",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Transit rewards",
+            "description": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/09/transit-rewards/\">https://waymo.com/blog/2026/09/transit-rewards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811065\">https://news.ycombinator.com/item?id=49811065</a></p>\n<p>Points: 103</p>\n<p># Comments: 85</p>",
+            "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+            "published": "Wed, 23 Sep 2026 02:52:29 +0000",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to step up fight against Russian disinformation and push global AI standards, PM says",
+            "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 01:08:40 GMT",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Key moments from Andy Burnham's first UN speech",
+            "description": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+            "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 01:25:47 GMT",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+            "description": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 04:32:59 GMT",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump rallies Latin American allies against drug cartels",
+            "description": "US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 05:34:40 +0000",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cooperation is the goal at the UNGA, but is it possible?",
+            "description": "Debate opened at the UN General Assembly and leaders from across the world made their arguments.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 05:07:26 +0000",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six-year-old sets Rubik’s Cube world record twice in three days",
+            "description": "Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 04:58:08 +0000",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T10:26:53+03:30"
+        }
+    ]
+}
