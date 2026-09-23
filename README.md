@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 00:03:51
+**Last Update:** 2026-09-24 00:19:35
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link">https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821925">https://news.ycombinator.com/item?id=49821925</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 14</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link](https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/">https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821608">https://news.ycombinator.com/item?id=49821608</a></p>
-<p>Points: 66</p>
-<p># Comments: 12</p>
+<p>Points: 84</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821196">https://news.ycombinator.com/item?id=49821196</a></p>
-<p>Points: 70</p>
-<p># Comments: 36</p>
+<p>Points: 73</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://claude.dev/blog/how-we-made-claude-ai-faster/](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 
@@ -97,7 +97,20 @@ The two pilots ejected from the jet before crash and sustained minor injuries.
 
 ---
 
-### 7. Harvey Weinstein sentenced to 15 years in sexual assault retrial
+### 7. Trump administration invites Putin to attend G20 summit in Miami
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss)
+
+---
+
+### 8. Harvey Weinstein sentenced to 15 years in New York sexual assault retrial
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The ruling seals six years of legal battles after Weinstein’s initial convicti
 
 ---
 
-### 8. As major powers act unilaterally, experts say UN faces crisis in New York
+### 9. As major powers act unilaterally, experts say UN faces crisis in New York
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The ruling seals six years of legal battles after Weinstein’s initial convicti
 Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss)
-
----
-
-### 9. Manchester United losses jump nearly a third to $57m despite record revenue
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Manchester United&#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss)
 
 ---
 
