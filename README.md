@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 21:03:55
+**Last Update:** 2026-09-24 00:03:51
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 28% of job postings on company career sites have been open over 90 days
+### 1. How can this Amazon scammer keep going, not shipping any goods?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unlisted.careers/ghost-jobs/report/2026-09">https://unlisted.careers/ghost-jobs/report/2026-09</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49818698">https://news.ycombinator.com/item?id=49818698</a></p>
-<p>Points: 23</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link">https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821925">https://news.ycombinator.com/item?id=49821925</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://unlisted.careers/ghost-jobs/report/2026-09](https://unlisted.careers/ghost-jobs/report/2026-09)
+🔗 **Read more:** [https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link](https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link)
 
 ---
 
-### 2. Gemini 3.8 text-to-speech
+### 2. DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817615">https://news.ycombinator.com/item?id=49817615</a></p>
-<p>Points: 78</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/">https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821608">https://news.ycombinator.com/item?id=49821608</a></p>
+<p>Points: 66</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
+🔗 **Read more:** [https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/)
 
 ---
 
-### 3. Radicle: Disclosure of Vulnerability in the Network Protocol
+### 3. How we made claude.ai 3x faster in two weeks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817524">https://news.ycombinator.com/item?id=49817524</a></p>
-<p>Points: 33</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49821196">https://news.ycombinator.com/item?id=49821196</a></p>
+<p>Points: 70</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
+🔗 **Read more:** [https://claude.dev/blog/how-we-made-claude-ai-faster/](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 
 ---
 
-### 4. UK military jamming other nation's satellites to defend itself, BBC told
+### 4. UK military jamming other nations' satellites to defend itself, BBC told
 
 **Source:** BBC
 
@@ -97,46 +97,59 @@ The two pilots ejected from the jet before crash and sustained minor injuries.
 
 ---
 
-### 7. Ethiopia faces renewed war as armed groups launch offensive
+### 7. Harvey Weinstein sentenced to 15 years in sexual assault retrial
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There are fears of a renewed war in Ethiopia after seven armed groups formed an alliance to overthrow the government.
+The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss)
 
 ---
 
-### 8. Israel’s destruction leaves Lebanon’s border villages in ruins
+### 8. As major powers act unilaterally, experts say UN faces crisis in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s destruction leaves Lebanon’s border villages in ruins
+Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss)
 
 ---
 
-### 9. Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery
+### 9. Manchester United losses jump nearly a third to $57m despite record revenue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.
+Manchester United&#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Polo
+### 10. Tropical Cyclone 01B
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785)
+
+---
+
+### 11. Hurricane Polo
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Round Prarie, Morehouse, Louisiana
+### 12. Wildfire Round Prarie, Morehouse, Louisiana
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
-
----
-
-### 12. Tropical Storm Fay
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722)
 
 ---
 
