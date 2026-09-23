@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 10:26:53
+**Last Update:** 2026-09-23 15:24:01
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Grammarly will send unhinged messages to all your users if you try to cancel
+### 1. Z80 REPL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811484">https://news.ycombinator.com/item?id=49811484</a></p>
-<p>Points: 57</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://abagames.github.io/z80-repl/index.html">https://abagames.github.io/z80-repl/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814236">https://news.ycombinator.com/item?id=49814236</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/)
+🔗 **Read more:** [https://abagames.github.io/z80-repl/index.html](https://abagames.github.io/z80-repl/index.html)
 
 ---
 
-### 2. Data-only attacks are easier than you think (2024)
+### 2. The Download: why AI's latest breakthroughs and fears may be more hype than rea
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
-<p>Points: 27</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/">https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814211">https://news.ycombinator.com/item?id=49814211</a></p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
+🔗 **Read more:** [https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
 
 ---
 
-### 3. Transit rewards
+### 3. The darker side of being a doctor
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
-<p>Points: 103</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
+<p>Points: 91</p>
+<p># Comments: 53</p>
 
-🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
+🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
 
 ---
 
-### 4. UK to step up fight against Russian disinformation and push global AI standards, PM says
+### 4. UK to review Chagos Islands deal over lack of US support, Streeting tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.
+Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: Key moments from Andy Burnham's first UN speech
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+### 5. Chris Mason: From inside the room, how Burnham survived first Trump meeting
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Burnham seemed nervous at first, knowing how explosive these encounters with Tru
 
 ---
 
-### 7. Trump rallies Latin American allies against drug cartels
+### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-US-led Shield of the Americas coalition backs sanctions against crime groups after Trump urges stronger action.
+A concerning number of patients are reporting problems from treatment abroad, say doctors.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Cooperation is the goal at the UNGA, but is it possible?
+### 7. UEFA’s Ceferin says FIFA trust still broken after Infantino investment row
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Debate opened at the UN General Assembly and leaders from across the world made their arguments.
+UEFA president speaks for the first time since FIFA said it would review its decision-making, says trust still broken.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss)
 
 ---
 
-### 9. Six-year-old sets Rubik’s Cube world record twice in three days
+### 8. Qatar on mediation efforts: ‘We can’t let diplomacy fail’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
+Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss)
+
+---
+
+### 9. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss)
 
 ---
 
