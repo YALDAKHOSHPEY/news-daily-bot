@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 15:24:01
+**Last Update:** 2026-09-23 15:59:59
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Z80 REPL
+### 1. QuestDB (YC S20) Is Hiring a Sales Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://questdb.com/careers/pre-sales-engineer-north-america/">https://questdb.com/careers/pre-sales-engineer-north-america/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814780">https://news.ycombinator.com/item?id=49814780</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://questdb.com/careers/pre-sales-engineer-north-america/](https://questdb.com/careers/pre-sales-engineer-north-america/)
+
+---
+
+### 2. Z80 REPL
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://abagames.github.io/z80-repl/index.html">https://abagames.github.io/z80-repl/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814236">https://news.ycombinator.com/item?id=49814236</a></p>
-<p>Points: 4</p>
+<p>Points: 19</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://abagames.github.io/z80-repl/index.html](https://abagames.github.io/z80-repl/index.html)
-
----
-
-### 2. The Download: why AI's latest breakthroughs and fears may be more hype than rea
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/">https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814211">https://news.ycombinator.com/item?id=49814211</a></p>
-<p>Points: 20</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
-<p>Points: 91</p>
-<p># Comments: 53</p>
+<p>Points: 125</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
 
@@ -97,7 +97,20 @@ A concerning number of patients are reporting problems from treatment abroad, sa
 
 ---
 
-### 7. UEFA’s Ceferin says FIFA trust still broken after Infantino investment row
+### 7. UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Second day of UN General Assembly kicks off with speeches from world leaders, including from Syria, Iran and Ukraine.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss)
+
+---
+
+### 8. UEFA’s Ceferin says FIFA trust still broken after Infantino investment row
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ UEFA president speaks for the first time since FIFA said it would review its dec
 
 ---
 
-### 8. Qatar on mediation efforts: ‘We can’t let diplomacy fail’
+### 9. Qatar on mediation efforts: ‘We can’t let diplomacy fail’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ UEFA president speaks for the first time since FIFA said it would review its dec
 Qatar’s Majed al-Ansari says Doha is determined to make diplomacy work to end the US-Iran conflict.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss)
-
----
-
-### 9. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss)
 
 ---
 
