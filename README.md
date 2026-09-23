@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 02:00:36
+**Last Update:** 2026-09-23 04:16:55
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The UV index is not the warm sensation of sunlight on bare skin
+### 1. The new CC, an AI agent built for families
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49809806">https://news.ycombinator.com/item?id=49809806</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
+
+---
+
+### 2. The current balance of power in open models
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
+
+---
+
+### 3. The UV index is not the warm sensation of sunlight on bare skin
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
-<p>Points: 31</p>
-<p># Comments: 15</p>
+<p>Points: 53</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
-
----
-
-### 2. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://foxscript.org/">https://foxscript.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
-<p>Points: 71</p>
-<p># Comments: 43</p>
-
-🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
-
----
-
-### 3. LLM Ass Bench
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.assbench.com/">https://www.assbench.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49807688">https://news.ycombinator.com/item?id=49807688</a></p>
-<p>Points: 113</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://www.assbench.com/](https://www.assbench.com/)
 
 ---
 
@@ -97,42 +97,42 @@ Two men were arrested in Manchester on Sunday, say counter-terror police.
 
 ---
 
-### 7. Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
+### 7. Iran war live: Trump confirms ‘very good’ meeting with Iran at UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.
+President Trump says US officials held a &#039;very good&#039; meeting on Tuesday with the Iranian delegation at UN.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss)
 
 ---
 
-### 8. US Republican calls for probe into Donald Trump Jr’s business dealings
+### 8. Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Senator John Curtis&#039;s letter marks a rare effort by a member of the president&#039;s own party to hold him accountable.
+Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss)
 
 ---
 
-### 9. Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel
+### 9. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.
+The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss)
 
 ---
 
