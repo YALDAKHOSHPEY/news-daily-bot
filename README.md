@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 20:49:31
+**Last Update:** 2026-09-23 21:03:55
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ The two pilots ejected from the jet before crash and sustained minor injuries.
 
 ---
 
-### 7. Israel’s destruction leaves Lebanon’s border villages in ruins
+### 7. Ethiopia faces renewed war as armed groups launch offensive
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+There are fears of a renewed war in Ethiopia after seven armed groups formed an alliance to overthrow the government.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss)
+
+---
+
+### 8. Israel’s destruction leaves Lebanon’s border villages in ruins
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel’s destruction leaves Lebanon’s border villages in ruins
 
 ---
 
-### 8. Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery
+### 9. Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel’s destruction leaves Lebanon’s border villages in ruins
 President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss)
-
----
-
-### 9. How and why the UN General Assembly is gaining prominence
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The gridlock in the UNSC and emerging multipolarity are shifting political weight to the UNGA.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss)
 
 ---
 
