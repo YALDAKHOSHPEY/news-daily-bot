@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 02:49:05
+**Last Update:** 2026-09-24 03:19:00
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823582">https://news.ycombinator.com/item?id=49823582</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Points: 44</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/models/mercury-2-5">https://artificialanalysis.ai/models/mercury-2-5</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823348">https://news.ycombinator.com/item?id=49823348</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Points: 11</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/models/mercury-2-5](https://artificialanalysis.ai/models/mercury-2-5)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/vary-support/">https://blog.cloudflare.com/vary-support/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823195">https://news.ycombinator.com/item?id=49823195</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/vary-support/](https://blog.cloudflare.com/vary-support/)
 
@@ -97,7 +97,20 @@ The head of the RAF says the UK faces "unprecedented threats" from adversaries i
 
 ---
 
-### 7. Trump greets China’s Xi Jinping on arrival for three-day US trip
+### 7. China’s Xi arrives to Trump welcome on state visit
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+China&#039;s President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss)
+
+---
+
+### 8. Trump greets China’s Xi Jinping on arrival for three-day US trip
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump takes rare step of meeting foreign leader at the airport, underscoring sig
 
 ---
 
-### 8. FBI says investigating breach of ‘very sensitive’ data by hackers
+### 9. FBI says investigating breach of ‘very sensitive’ data by hackers
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump takes rare step of meeting foreign leader at the airport, underscoring sig
 Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss)
-
----
-
-### 9. US aviation sanctions disrupt Iran flights, push travellers overland
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss)
 
 ---
 
