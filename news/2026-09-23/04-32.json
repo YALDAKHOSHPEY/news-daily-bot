@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T04:32:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The new CC, an AI agent built for families",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49809806\">https://news.ycombinator.com/item?id=49809806</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+            "published": "Tue, 22 Sep 2026 23:46:07 +0000",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The current balance of power in open models",
+            "description": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/the-current-balance-of-power-in-open\">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808816\">https://news.ycombinator.com/item?id=49808816</a></p>\n<p>Points: 31</p>\n<p># Comments: 9</p>",
+            "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+            "published": "Tue, 22 Sep 2026 22:03:46 +0000",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The UV index is not the warm sensation of sunlight on bare skin",
+            "description": "<p>Article URL: <a href=\"https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/\">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808109\">https://news.ycombinator.com/item?id=49808109</a></p>\n<p>Points: 59</p>\n<p># Comments: 51</p>",
+            "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+            "published": "Tue, 22 Sep 2026 21:06:40 +0000",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+            "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 21:22:36 GMT",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+            "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 19:15:57 GMT",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+            "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+            "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 20:54:49 GMT",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
+            "description": "President Trump says US officials held a &#039;very good&#039; meeting on Tuesday with the Iranian delegation at UN.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+            "description": "Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 23:46:06 +0000",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
+            "description": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 23:20:17 +0000",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T04:32:35+03:30"
+        }
+    ]
+}
