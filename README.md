@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 13:46:35
+**Last Update:** 2026-09-24 16:34:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI has no intent and no motivation
+### 1. 'That's so AI ' What gen Alpha's biggest insult tells us
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828133">https://news.ycombinator.com/item?id=49828133</a></p>
-<p>Points: 14</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us">https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829650">https://news.ycombinator.com/item?id=49829650</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
+🔗 **Read more:** [https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
 
 ---
 
-### 2. Meta takes down a critical video about meta AI Glasses after filming at Meta
+### 2. Hackers influence ChatGPT and Gemini to direct users to scam centers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49827794">https://news.ycombinator.com/item?id=49827794</a></p>
-<p>Points: 105</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073">https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829387">https://news.ycombinator.com/item?id=49829387</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+🔗 **Read more:** [https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
 
 ---
 
-### 3. Early rogue AI agent activity and attempts to hack found on urlquery.net
+### 3. The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
-<p>Points: 127</p>
-<p># Comments: 87</p>
+<p>Article URL: <a href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/">https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828969">https://news.ycombinator.com/item?id=49828969</a></p>
+<p>Points: 46</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
+🔗 **Read more:** [https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
 
 ---
 
-### 4. NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found
+### 4. Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.
+Group Captain Gez Currie said the pilots were in hospital being cared for and were with their families.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Anti-migrant activist arrested over video of dinghy slashing
+### 5. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Anti-migrant activist arrested after dinghy slashed in Channel
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Police had been looking into footage appearing to show the man, also known as Da
 
 ---
 
-### 6. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
+### 7. Morocco’s elections: Fragmentation, disengagement and PJD’s major return
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
+PAM leads as the PJD quadruples its seats and turnout hits its second-lowest level under King Mohammed VI.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss)
 
 ---
 
-### 8. Yemeni forces say they repel Houthi attacks in Taiz as fighting rages
+### 8. Far-right UK activist Daniel Thomas arrested after slashing dinghy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.
+Thomas, 37, arrested on suspicion of criminal damage with intent to endanger life, endangering the safety of a ship.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/far-right-uk-activist-daniel-thomas-arrested-after-slashing-dinghy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/far-right-uk-activist-daniel-thomas-arrested-after-slashing-dinghy?traffic_source=rss)
 
 ---
 
-### 9. ‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat
+### 9. Fighting widens across Ethiopia as Tigray clashes escalate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.
+Armed groups clashed with government forces across northern Ethiopia as fears mount of regional spillover.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss)
 
 ---
 

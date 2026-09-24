@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T16:34:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us\">https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49829650\">https://news.ycombinator.com/item?id=49829650</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+            "published": "Thu, 24 Sep 2026 12:23:41 +0000",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+            "description": "<p>Article URL: <a href=\"https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073\">https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49829387\">https://news.ycombinator.com/item?id=49829387</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+            "published": "Thu, 24 Sep 2026 11:54:38 +0000",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+            "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/\">https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828969\">https://news.ycombinator.com/item?id=49828969</a></p>\n<p>Points: 46</p>\n<p># Comments: 7</p>",
+            "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+            "published": "Thu, 24 Sep 2026 11:08:39 +0000",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
+            "description": "Group Captain Gez Currie said the pilots were in hospital being cared for and were with their families.",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 12:29:39 GMT",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+            "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 11:59:23 GMT",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist arrested after dinghy slashed in Channel",
+            "description": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 08:42:35 GMT",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco’s elections: Fragmentation, disengagement and PJD’s major return",
+            "description": "PAM leads as the PJD quadruples its seats and turnout hits its second-lowest level under King Mohammed VI.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 12:41:15 +0000",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Far-right UK activist Daniel Thomas arrested after slashing dinghy",
+            "description": "Thomas, 37, arrested on suspicion of criminal damage with intent to endanger life, endangering the safety of a ship.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/far-right-uk-activist-daniel-thomas-arrested-after-slashing-dinghy?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 12:40:27 +0000",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting widens across Ethiopia as Tigray clashes escalate",
+            "description": "Armed groups clashed with government forces across northern Ethiopia as fears mount of regional spillover.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 12:25:20 +0000",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T16:34:04+03:30"
+        }
+    ]
+}
