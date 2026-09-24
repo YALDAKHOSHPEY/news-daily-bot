@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 11:26:13
+**Last Update:** 2026-09-24 13:46:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Early rogue AI agent activity and attempts to hack found on urlquery.net
+### 1. AI has no intent and no motivation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828133">https://news.ycombinator.com/item?id=49828133</a></p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
+
+---
+
+### 2. Meta takes down a critical video about meta AI Glasses after filming at Meta
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49827794">https://news.ycombinator.com/item?id=49827794</a></p>
+<p>Points: 105</p>
+<p># Comments: 47</p>
+
+🔗 **Read more:** [https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+
+---
+
+### 3. Early rogue AI agent activity and attempts to hack found on urlquery.net
 
 **Source:** Hacker News
 
@@ -19,59 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
-<p>Points: 52</p>
-<p># Comments: 27</p>
+<p>Points: 127</p>
+<p># Comments: 87</p>
 
 🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
 
 ---
 
-### 2. Six-year-old breaks women's world Rubik's Cube record [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=UCMRgvyTm08">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826482">https://news.ycombinator.com/item?id=49826482</a></p>
-<p>Points: 41</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=UCMRgvyTm08](https://www.youtube.com/watch?v=UCMRgvyTm08)
-
----
-
-### 3. Contrastive Language Models
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://contrastive-lm.notion.site/">https://contrastive-lm.notion.site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826221">https://news.ycombinator.com/item?id=49826221</a></p>
-<p>Points: 41</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://contrastive-lm.notion.site/](https://contrastive-lm.notion.site/)
-
----
-
-### 4. Blood tests find high level of cancer-causing forever chemical in residents near factory
+### 4. NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.
+The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
+### 5. Anti-migrant activist arrested over video of dinghy slashing
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The two B-1 bombers that flew overhead are a key part of the US's combat arsenal
 
 ---
 
-### 6. What we know after video shows moment of RAF training jet crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The RAF said training on their Hawk jets had been "temporarily" paused while an investigation is under way.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Gaza watches Israel’s elections with fear and antipathy
+### 7. To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.
+Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss)
 
 ---
 
-### 8. Pakistan says it launches air strikes on Afghanistan after drone attacks
+### 8. Yemeni forces say they repel Houthi attacks in Taiz as fighting rages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Strikes carried out in southeastern province of Khost cause no casualties, governor&#039;s office says.
+Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss)
 
 ---
 
-### 9. Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan
+### 9. ‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Media reports say US withheld army chief&#039;s visa to pressure him into accepting a 90-day truce in Sudan&#039;s civil war.
+As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss)
 
 ---
 
