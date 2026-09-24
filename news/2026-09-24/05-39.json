@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T05:39:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Australia says OpenAI agent hacked into government website",
+            "description": "<p>Article URL: <a href=\"https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825024\">https://news.ycombinator.com/item?id=49825024</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+            "published": "Thu, 24 Sep 2026 01:24:00 +0000",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FLAWED's Flaws and What This Means for Industry Research",
+            "description": "<p>Article URL: <a href=\"https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824969\">https://news.ycombinator.com/item?id=49824969</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+            "published": "Thu, 24 Sep 2026 01:16:33 +0000",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+            "description": "<p>Article URL: <a href=\"https://github.com/nestrilabs/virtio-nvgpu\">https://github.com/nestrilabs/virtio-nvgpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824864\">https://news.ycombinator.com/item?id=49824864</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/nestrilabs/virtio-nvgpu",
+            "published": "Thu, 24 Sep 2026 01:02:23 +0000",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What video footage tells us about RAF training jet crash",
+            "description": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 22:48:29 GMT",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A red carpet and military flyover - How Trump welcomed Xi",
+            "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+            "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela’s Delcy Rodriguez promises elections at UN, gives no date",
+            "description": "Rodriguez says Venezuela is transitioning to full democracy and has opened dialogue with opposition sectors.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 01:26:30 +0000",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
+            "description": "Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 01:04:28 +0000",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s Xi visits US as Trump bets on stabilising global relations",
+            "description": "US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 00:43:10 +0000",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T05:39:55+03:30"
+        }
+    ]
+}

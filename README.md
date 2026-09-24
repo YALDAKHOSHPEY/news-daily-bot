@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 03:19:00
+**Last Update:** 2026-09-24 05:39:55
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Linux support is coming to Snapdragon X2 Series
+### 1. Australia says OpenAI agent hacked into government website
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823582">https://news.ycombinator.com/item?id=49823582</a></p>
-<p>Points: 44</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-
----
-
-### 2. Mercury 2.5 LLM hits 770 tokens per second
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/mercury-2-5">https://artificialanalysis.ai/models/mercury-2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823348">https://news.ycombinator.com/item?id=49823348</a></p>
+<p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825024">https://news.ycombinator.com/item?id=49825024</a></p>
 <p>Points: 11</p>
-<p># Comments: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/models/mercury-2-5](https://artificialanalysis.ai/models/mercury-2-5)
+🔗 **Read more:** [https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
 
 ---
 
-### 3. We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog
+### 2. FLAWED's Flaws and What This Means for Industry Research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/vary-support/">https://blog.cloudflare.com/vary-support/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823195">https://news.ycombinator.com/item?id=49823195</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824969">https://news.ycombinator.com/item?id=49824969</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/vary-support/](https://blog.cloudflare.com/vary-support/)
+🔗 **Read more:** [https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
+
+---
+
+### 3. Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/nestrilabs/virtio-nvgpu">https://github.com/nestrilabs/virtio-nvgpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824864">https://news.ycombinator.com/item?id=49824864</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/nestrilabs/virtio-nvgpu](https://github.com/nestrilabs/virtio-nvgpu)
 
 ---
 
@@ -84,55 +84,55 @@ The RAF said training on their Hawk jets had been "temporarily" paused while an 
 
 ---
 
-### 6. UK military jamming other nations' satellites to defend itself, BBC told
+### 6. A red carpet and military flyover - How Trump welcomed Xi
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of the RAF says the UK faces "unprecedented threats" from adversaries in space, as a new unit is created to defend Britain's satellites.
+The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s Xi arrives to Trump welcome on state visit
+### 7. Venezuela’s Delcy Rodriguez promises elections at UN, gives no date
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China&#039;s President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit
+Rodriguez says Venezuela is transitioning to full democracy and has opened dialogue with opposition sectors.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss)
 
 ---
 
-### 8. Trump greets China’s Xi Jinping on arrival for three-day US trip
+### 8. Turkiye agrees to gradual handover of Bashiqa base to Iraq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.
+Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss)
 
 ---
 
-### 9. FBI says investigating breach of ‘very sensitive’ data by hackers
+### 9. China’s Xi visits US as Trump bets on stabilising global relations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.
+US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss)
 
 ---
 
