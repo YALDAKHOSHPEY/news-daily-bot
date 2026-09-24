@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 16:34:04
+**Last Update:** 2026-09-24 18:49:05
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'That's so AI ' What gen Alpha's biggest insult tells us
+### 1. Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us">https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829650">https://news.ycombinator.com/item?id=49829650</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram">https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49831201">https://news.ycombinator.com/item?id=49831201</a></p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
+🔗 **Read more:** [https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
 
 ---
 
-### 2. Hackers influence ChatGPT and Gemini to direct users to scam centers
+### 2. Best LLM for every budget, updated daily
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073">https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829387">https://news.ycombinator.com/item?id=49829387</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://bestmodelforyourbudget.terrydjony.com/">https://bestmodelforyourbudget.terrydjony.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830866">https://news.ycombinator.com/item?id=49830866</a></p>
+<p>Points: 52</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073](https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073)
+🔗 **Read more:** [https://bestmodelforyourbudget.terrydjony.com/](https://bestmodelforyourbudget.terrydjony.com/)
 
 ---
 
-### 3. The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+### 3. Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/">https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828969">https://news.ycombinator.com/item?id=49828969</a></p>
-<p>Points: 46</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center">https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830037">https://news.ycombinator.com/item?id=49830037</a></p>
+<p>Points: 45</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
 
 ---
 
-### 4. Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says
+### 4. White House 'repeatedly violated' court order to restore press access, say media outlets
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Group Captain Gez Currie said the pilots were in hospital being cared for and were with their families.
+Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House "repeatedly violated" the order.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
+### 6. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The satellite station is used in part to provide internet coverage to neighbouri
 
 ---
 
-### 6. Anti-migrant activist arrested after dinghy slashed in Channel
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Morocco’s elections: Fragmentation, disengagement and PJD’s major return
+### 7. Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PAM leads as the PJD quadruples its seats and turnout hits its second-lowest level under King Mohammed VI.
+No response by Yemen&#039;s Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis?traffic_source=rss)
 
 ---
 
-### 8. Far-right UK activist Daniel Thomas arrested after slashing dinghy
+### 8. Why are Ireland vs Israel football matches so controversial?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thomas, 37, arrested on suspicion of criminal damage with intent to endanger life, endangering the safety of a ship.
+Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/far-right-uk-activist-daniel-thomas-arrested-after-slashing-dinghy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/far-right-uk-activist-daniel-thomas-arrested-after-slashing-dinghy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss)
 
 ---
 
-### 9. Fighting widens across Ethiopia as Tigray clashes escalate
+### 9. Forever Chemicals: Ground Zero
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Armed groups clashed with government forces across northern Ethiopia as fears mount of regional spillover.
+Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss)
 
 ---
 
