@@ -1,61 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 22:50:51
+**Last Update:** 2026-09-25 01:23:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Radix – Visual UI for agentic programming
+### 1. Show HN: Koi.rest – watch some fish and regain your balance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN, I'm Jordan from Radix.<p>Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.<p>I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.<p>I wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.<p>I've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!<p>Note: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit "artisanally" if you want).<p>If you have any questions please reply here or email me hello@radix-os.com<p>Thank you!</p>
+<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49834964">https://news.ycombinator.com/item?id=49834964</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://radix-os.com](https://radix-os.com)
-
----
-
-### 2. Stable (YC W20) Is Hiring Product Engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.usestable.com/careers/product-engineer">https://www.usestable.com/careers/product-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49834893">https://news.ycombinator.com/item?id=49834893</a></p>
-<p>Points: 0</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.usestable.com/careers/product-engineer](https://www.usestable.com/careers/product-engineer)
+🔗 **Read more:** [https://koi.rest](https://koi.rest)
 
 ---
 
-### 3. Creatine uptake enhances antitumor immunity
+### 2. The Board Game of the Alpha Nerds (2014)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4">https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49834825">https://news.ycombinator.com/item?id=49834825</a></p>
-<p>Points: 65</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
+<p>Points: 18</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4](https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4)
+🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+
+---
+
+### 3. Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rackcrunch.com/security-headers-2026">https://rackcrunch.com/security-headers-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836494">https://news.ycombinator.com/item?id=49836494</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://rackcrunch.com/security-headers-2026](https://rackcrunch.com/security-headers-2026)
 
 ---
 
@@ -72,7 +72,20 @@ President Donald Trump has been talking about Chinese President Xi Jinping's vis
 
 ---
 
-### 5. White House restores access to media outlets banned by Trump after judge's order
+### 5. Anti-migrant activist charged after dinghy slashed in Channel
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. White House restores access to media outlets banned by Trump after judge's order
 
 **Source:** BBC
 
@@ -85,55 +98,42 @@ Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, say
 
 ---
 
-### 6. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Ethiopian army says 272 Tigrayan fighters killed in Amhara
+### 7. Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tigray People’s Liberation Front says in a &#039;situation of full-blown war&#039; with Ethiopia&#039;s government.
+Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss)
 
 ---
 
-### 8. US and China presidents discuss cooperation, trade and AI risks
+### 8. Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House
+Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss)
 
 ---
 
-### 9. Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction
+### 9. Portugal beat Wales 1-0 with Felix goal as Nations League defence begins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.
+Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss)
 
 ---
 
