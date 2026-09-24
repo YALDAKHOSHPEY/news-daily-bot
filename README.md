@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 05:39:55
+**Last Update:** 2026-09-24 08:36:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Australia says OpenAI agent hacked into government website
+### 1. Show HN: How long do I need to work at my salary before I can coast, or retire?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826059">https://news.ycombinator.com/item?id=49826059</a></p>
+<p>Points: 25</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://github.com/karmanyaahm/budget-tools/tree/main/fire](https://github.com/karmanyaahm/budget-tools/tree/main/fire)
+
+---
+
+### 2. Ideas on modernizing the open-source desktop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825642">https://news.ycombinator.com/item?id=49825642</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://lwn.net/SubscriberLink/1095425/2d9f411252325784/](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+
+---
+
+### 3. Australia says OpenAI agent hacked into government website
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825024">https://news.ycombinator.com/item?id=49825024</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 69</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
-
----
-
-### 2. FLAWED's Flaws and What This Means for Industry Research
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/">https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824969">https://news.ycombinator.com/item?id=49824969</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
-
----
-
-### 3. Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/nestrilabs/virtio-nvgpu">https://github.com/nestrilabs/virtio-nvgpu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824864">https://news.ycombinator.com/item?id=49824864</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/nestrilabs/virtio-nvgpu](https://github.com/nestrilabs/virtio-nvgpu)
 
 ---
 
@@ -84,55 +85,55 @@ The RAF said training on their Hawk jets had been "temporarily" paused while an 
 
 ---
 
-### 6. A red carpet and military flyover - How Trump welcomed Xi
+### 6. Trump offers warm welcome as China's Xi arrives for US visit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
+The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Venezuela’s Delcy Rodriguez promises elections at UN, gives no date
+### 7. AI model Claude discovers CRISPR-like enzyme system, Anthropic says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rodriguez says Venezuela is transitioning to full democracy and has opened dialogue with opposition sectors.
+AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss)
 
 ---
 
-### 8. Turkiye agrees to gradual handover of Bashiqa base to Iraq
+### 8. ‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iraqi Prime Minister al-Zaidi and Turkish President Erdogan pledged deeper security cooperation at UNGA.
+Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/turkiye-agrees-to-gradual-handover-of-bashiqa-base-to-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss)
 
 ---
 
-### 9. China’s Xi visits US as Trump bets on stabilising global relations
+### 9. Spain’s Sanchez warns of far-right threat in UNGA speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.
+Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_trump-hosts-xi-amid-rising-tensions-1-230926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss)
 
 ---
 
