@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T22:50:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Radix – Visual UI for agentic programming",
+            "description": "<p>Hey HN, I'm Jordan from Radix.<p>Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.<p>I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.<p>I wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.<p>I've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!<p>Note: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit \"artisanally\" if you want).<p>If you have any questions please reply here or email me hello@radix-os.com<p>Thank you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49834964\">https://news.ycombinator.com/item?id=49834964</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+            "url": "https://radix-os.com",
+            "published": "Thu, 24 Sep 2026 18:35:20 +0000",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stable (YC W20) Is Hiring Product Engineers",
+            "description": "<p>Article URL: <a href=\"https://www.usestable.com/careers/product-engineer\">https://www.usestable.com/careers/product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49834893\">https://news.ycombinator.com/item?id=49834893</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.usestable.com/careers/product-engineer",
+            "published": "Thu, 24 Sep 2026 18:29:18 +0000",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Creatine uptake enhances antitumor immunity",
+            "description": "<p>Article URL: <a href=\"https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4\">https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49834825\">https://news.ycombinator.com/item?id=49834825</a></p>\n<p>Points: 65</p>\n<p># Comments: 66</p>",
+            "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+            "published": "Thu, 24 Sep 2026 18:24:52 +0000",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has Trump been so eager to welcome Xi?",
+            "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "White House restores access to media outlets banned by Trump after judge's order",
+            "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+            "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 16:00:29 GMT",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+            "description": "Tigray People’s Liberation Front says in a &#039;situation of full-blown war&#039; with Ethiopia&#039;s government.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 18:19:03 +0000",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and China presidents discuss cooperation, trade and AI risks",
+            "description": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 18:19:01 +0000",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+            "description": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
+            "url": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 18:13:32 +0000",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T22:50:51+03:30"
+        }
+    ]
+}
