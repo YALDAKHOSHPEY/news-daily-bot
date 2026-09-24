@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 08:36:43
+**Last Update:** 2026-09-24 11:26:13
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: How long do I need to work at my salary before I can coast, or retire?
+### 1. Early rogue AI agent activity and attempts to hack found on urlquery.net
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826059">https://news.ycombinator.com/item?id=49826059</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
+<p>Points: 52</p>
+<p># Comments: 27</p>
 
-🔗 **Read more:** [https://github.com/karmanyaahm/budget-tools/tree/main/fire](https://github.com/karmanyaahm/budget-tools/tree/main/fire)
+🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
 
 ---
 
-### 2. Ideas on modernizing the open-source desktop
+### 2. Six-year-old breaks women's world Rubik's Cube record [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825642">https://news.ycombinator.com/item?id=49825642</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=UCMRgvyTm08">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826482">https://news.ycombinator.com/item?id=49826482</a></p>
+<p>Points: 41</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1095425/2d9f411252325784/](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=UCMRgvyTm08](https://www.youtube.com/watch?v=UCMRgvyTm08)
 
 ---
 
-### 3. Australia says OpenAI agent hacked into government website
+### 3. Contrastive Language Models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825024">https://news.ycombinator.com/item?id=49825024</a></p>
-<p>Points: 69</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://contrastive-lm.notion.site/">https://contrastive-lm.notion.site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826221">https://news.ycombinator.com/item?id=49826221</a></p>
+<p>Points: 41</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
+🔗 **Read more:** [https://contrastive-lm.notion.site/](https://contrastive-lm.notion.site/)
 
 ---
 
@@ -72,7 +71,20 @@ People living near a major chemical factory in Lancashire are told they could be
 
 ---
 
-### 5. What video footage tells us about RAF training jet crash
+### 5. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. What we know after video shows moment of RAF training jet crash
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The RAF said training on their Hawk jets had been "temporarily" paused while an 
 
 ---
 
-### 6. Trump offers warm welcome as China's Xi arrives for US visit
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. AI model Claude discovers CRISPR-like enzyme system, Anthropic says
+### 7. Gaza watches Israel’s elections with fear and antipathy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.
+Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss)
 
 ---
 
-### 8. ‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves
+### 8. Pakistan says it launches air strikes on Afghanistan after drone attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.
+Strikes carried out in southeastern province of Khost cause no casualties, governor&#039;s office says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss)
 
 ---
 
-### 9. Spain’s Sanchez warns of far-right threat in UNGA speech
+### 9. Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.
+Media reports say US withheld army chief&#039;s visa to pressure him into accepting a 90-day truce in Sudan&#039;s civil war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss)
 
 ---
 

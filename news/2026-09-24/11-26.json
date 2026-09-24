@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T11:26:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+            "description": "<p>Article URL: <a href=\"https://transluce.org/agent-activity\">https://transluce.org/agent-activity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826565\">https://news.ycombinator.com/item?id=49826565</a></p>\n<p>Points: 52</p>\n<p># Comments: 27</p>",
+            "url": "https://transluce.org/agent-activity",
+            "published": "Thu, 24 Sep 2026 05:21:10 +0000",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=UCMRgvyTm08\">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826482\">https://news.ycombinator.com/item?id=49826482</a></p>\n<p>Points: 41</p>\n<p># Comments: 18</p>",
+            "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+            "published": "Thu, 24 Sep 2026 05:07:58 +0000",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Contrastive Language Models",
+            "description": "<p>Article URL: <a href=\"https://contrastive-lm.notion.site/\">https://contrastive-lm.notion.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826221\">https://news.ycombinator.com/item?id=49826221</a></p>\n<p>Points: 41</p>\n<p># Comments: 6</p>",
+            "url": "https://contrastive-lm.notion.site/",
+            "published": "Thu, 24 Sep 2026 04:20:59 +0000",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 07:10:19 GMT",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
+            "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+            "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know after video shows moment of RAF training jet crash",
+            "description": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 22:48:29 GMT",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza watches Israel’s elections with fear and antipathy",
+            "description": "Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 07:07:02 +0000",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan says it launches air strikes on Afghanistan after drone attacks",
+            "description": "Strikes carried out in southeastern province of Khost cause no casualties, governor&#039;s office says.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/pakistan-says-it-launches-air-strikes-on-afghanistan-after-drone-attacks?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 06:29:46 +0000",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan",
+            "description": "Media reports say US withheld army chief&#039;s visa to pressure him into accepting a 90-day truce in Sudan&#039;s civil war.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 06:25:08 +0000",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T11:26:13+03:30"
+        }
+    ]
+}
