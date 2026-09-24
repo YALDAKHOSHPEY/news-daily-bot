@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 01:23:02
+**Last Update:** 2026-09-25 02:05:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -20,14 +20,30 @@
 <p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 40</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://koi.rest](https://koi.rest)
 
 ---
 
-### 2. The Board Game of the Alpha Nerds (2014)
+### 2. International observers to investigate Swedish election fraud
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken">https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836612">https://news.ycombinator.com/item?id=49836612</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
+
+---
+
+### 3. The Board Game of the Alpha Nerds (2014)
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
-<p>Points: 18</p>
-<p># Comments: 10</p>
+<p>Points: 23</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-
----
-
-### 3. Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rackcrunch.com/security-headers-2026">https://rackcrunch.com/security-headers-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836494">https://news.ycombinator.com/item?id=49836494</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://rackcrunch.com/security-headers-2026](https://rackcrunch.com/security-headers-2026)
 
 ---
 
@@ -98,42 +98,42 @@ Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, say
 
 ---
 
-### 7. Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest
+### 7. DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.
+DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss)
 
 ---
 
-### 8. Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu
+### 8. Croatian court approves extradition in Nord Stream bombing case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.
+Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss)
 
 ---
 
-### 9. Portugal beat Wales 1-0 with Felix goal as Nations League defence begins
+### 9. Trump and Xi hold critical talks at White House summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Joao Felix nets the only goal of the game, while Cristiano Ronaldo has an effort ruled out, as Portugal beat Wales 1-0.
+US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss)
 
 ---
 
