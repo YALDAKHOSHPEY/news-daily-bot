@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T22:15:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+            "description": "<p>Article URL: <a href=\"https://ollaya.dev/\">https://ollaya.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49848269\">https://news.ycombinator.com/item?id=49848269</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://ollaya.dev/",
+            "published": "Fri, 25 Sep 2026 18:33:50 +0000",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Yes, Claude can do Nine Loops",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/yes-claude-can-do-nine-loops\">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49848033\">https://news.ycombinator.com/item?id=49848033</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+            "published": "Fri, 25 Sep 2026 18:11:48 +0000",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+            "description": "<p>Map your AI worldview by answering a few questions, and see how you compare with others.<p>only takes a few minutes && free & open source && private by default && powered by Jev<p>I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49846953\">https://news.ycombinator.com/item?id=49846953</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+            "url": "https://www.doom-or-bloom.com",
+            "published": "Fri, 25 Sep 2026 16:51:28 +0000",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What could the potential sanctions for Man City be?",
+            "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 14:55:14 GMT",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'm not tempted to call an early election, Burnham says",
+            "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 17:15:35 GMT",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Special agents' blood and urine test results stolen in FBI hack",
+            "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+            "description": "Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran&#039;s aviation sector.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 18:30:20 +0000",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s Cockroach movement joins opposition push to oust election chief",
+            "description": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 18:16:47 +0000",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
+            "description": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 18:15:43 +0000",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T22:15:54+03:30"
+        }
+    ]
+}
