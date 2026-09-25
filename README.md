@@ -1,65 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 23:11:04
+**Last Update:** 2026-09-26 02:04:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Advice to a Beginning Graduate Student (2001)
+### 1. What Even Is an OS Now?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cs.cmu.edu/~mblum/research/pdf/grad.html">https://www.cs.cmu.edu/~mblum/research/pdf/grad.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848680">https://news.ycombinator.com/item?id=49848680</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850305">https://news.ycombinator.com/item?id=49850305</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+
+---
+
+### 2. Revealing the details of how OpenAI agents hacked Hugging Face
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://swarmtraces.org/">https://swarmtraces.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849985">https://news.ycombinator.com/item?id=49849985</a></p>
+<p>Points: 45</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://swarmtraces.org/](https://swarmtraces.org/)
+
+---
+
+### 3. Excel now supports multiple values in a single cell
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Related: <a href="https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395" rel="nofollow">https://techcommunity.microsoft.com/blog/microsoft365insider...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849832">https://news.ycombinator.com/item?id=49849832</a></p>
+<p>Points: 14</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.cs.cmu.edu/~mblum/research/pdf/grad.html](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+🔗 **Read more:** [https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
 
 ---
 
-### 2. Zelensky says Russia has widened attacks to hit Ukraine's data centres
+### 4. Man City found guilty of majority of 115 financial rule breaches
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c84gkwgk7d06o">https://www.bbc.com/news/articles/c84gkwgk7d06o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848495">https://news.ycombinator.com/item?id=49848495</a></p>
-<p>Points: 46</p>
-<p># Comments: 17</p>
+The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c84gkwgk7d06o](https://www.bbc.com/news/articles/c84gkwgk7d06o)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Alan Kay: Shannon gave us a way of dealing with noisy channels [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>The following explanation is taken from <a href="https://news.ycombinator.com/item?id=49622607">https://news.ycombinator.com/item?id=49622607</a>:<p>Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard's 100-year birthday celebration.<p>Alan was scheduled to talk about how encountering Simula sparked his early thoughts about objects. During setup, somebody had the live stream playing out loud near an open Zoom mic, so his own voice kept arriving back in his ears about 21 seconds late, over and over.<p>What he said was not random: "Shannon gave us a way of dealing with noisy channels." And: "I think about that almost every day. I realize what the fuck is going on and it's just so amazing." Shannon's noisy channel coding theorem is the math for exactly the kind of channel that was garbling him as he praised it.<p>Alan joked it was "being rerouted to Mars and back." At the speed of light, a 21 second round trip is about 3 million km one way -- eight trips to the Moon and back, not even a twentieth of the way to Mars at closest approach.<p>This is an accidental Zoom performance of Alvin Lucier's "I Am Sitting in a Room" (1969), where Lucier re-recorded his own voice in a room until only the room's resonance remained. Here what remains is the network: delay, compression, dropouts.<p>Bonus noise: YouTube's auto-transcript bleeps Alan's enthusiasm into [ __ ]. So the full chain is: Alan's voice, Zoom, stream, room, Zoom again times three, my screen recording, YouTube's speech recognizer, a censored transcript.<p>The fix: "Just turn off the audio at your end on Zoom."<p>This is an accidental Zoom performance of Alvin Lucier's "I Am Sitting in a Room" (1969), where Lucier re-recorded his own voice in a room until only the room's resonance remained. Here what remains is the network: delay, compression, dropouts.<p>Bonus noise: YouTube's auto-transcript bleeps Alan's enthusiasm into [ __ ]. So the full chain is: Alan's voice, Zoom, stream, room, Zoom again times three, my screen recording, YouTube's speech recognizer, a censored transcript.<p>The fix: "Just turn off the audio at your end on Zoom."<p>I Am Sitting in a Room: <a href="https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room" rel="nofollow">https://en.wikipedia.org/wiki/I_Am_Sitting_in_a_Room</a><p>Alvin Lucier on "I am sitting in a room": <a href="https://www.youtube.com/watch?v=v9XJWBZBzq4" rel="nofollow">https://www.youtube.com/watch?v=v9XJWBZBzq4</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848295">https://news.ycombinator.com/item?id=49848295</a></p>
-<p>Points: 38</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=Cjntrqhn8pk](https://www.youtube.com/watch?v=Cjntrqhn8pk)
-
----
-
-### 4. Watch: What could the potential sanctions for Man City be?
+### 5. Watch: What could the potential sanctions for Man City be?
 
 **Source:** BBC
 
@@ -72,68 +85,55 @@ Football finance expert Kieran Maguire says the potential sanctions for Manchest
 
 ---
 
-### 5. I'm not tempted to call an early election, Burnham says
+### 6. Iran offers US deal to reopen Strait of Hormuz in seven days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister told the BBC an early poll would throw the country into a "backward-looking process".
+Asked about the Iranian offer, a US official said discussions were taking place through mediators.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Special agents' blood and urine test results stolen in FBI hack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran threatens widespread disruption as Iraq halts Iran flights
+### 7. DR Congo’s Ebola outbreak spreads to two new health zones, WHO says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iraq has suspended Iranian flights at all four airports where they operated
+Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss)
 
 ---
 
-### 8. Will Turkiye end its military presence in northern Iraq?
+### 8. Netanyahu calls Al Jazeera a ‘toxic media outlet’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ankara agrees to gradually hand over a base in Sinjar.
+Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss)
 
 ---
 
-### 9. Iraqi airports halt Iranian flights after new US aviation sanctions
+### 9. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran&#039;s aviation sector.
+Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss)
 
 ---
 
