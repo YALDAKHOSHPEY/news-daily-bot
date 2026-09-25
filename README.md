@@ -1,49 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 05:10:08
+**Last Update:** 2026-09-25 09:05:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. GitLab Outage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://status.gitlab.com/">https://status.gitlab.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49838034">https://news.ycombinator.com/item?id=49838034</a></p>
-<p>Points: 52</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://status.gitlab.com/](https://status.gitlab.com/)
-
----
-
-### 2. Back and shoulder surgery is often worse than useless
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/j6oeD" rel="nofollow">https://archive.ph/j6oeD</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837473">https://news.ycombinator.com/item?id=49837473</a></p>
-<p>Points: 74</p>
-<p># Comments: 69</p>
-
-🔗 **Read more:** [https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless](https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless)
-
----
-
-### 3. Show HN: Koi.rest – watch some fish and regain your balance
+### 1. Show HN: Koi.rest – watch some fish and regain your balance
 
 **Source:** Hacker News
 
@@ -53,10 +20,42 @@
 <p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
-<p>Points: 125</p>
-<p># Comments: 29</p>
+<p>Points: 156</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://koi.rest](https://koi.rest)
+
+---
+
+### 2. The Board Game of the Alpha Nerds (2014)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
+<p>Points: 71</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+
+---
+
+### 3. California is chasing wealth that has feet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.landeconomics.org/p/california-is-chasing-wealth-that">https://blog.landeconomics.org/p/california-is-chasing-wealth-that</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836419">https://news.ycombinator.com/item?id=49836419</a></p>
+<p>Points: 198</p>
+<p># Comments: 550</p>
+
+🔗 **Read more:** [https://blog.landeconomics.org/p/california-is-chasing-wealth-that](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
 
 ---
 
@@ -73,20 +72,7 @@ The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for
 
 ---
 
-### 5. Anti-migrant activist charged after dinghy slashed in Channel
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. From weeks to hours - the rapid new test transforming brain tumour diagnosis
+### 5. Brain tumour diagnosis cut from weeks to hours with rapid new test
 
 **Source:** BBC
 
@@ -99,42 +85,55 @@ The test means patients can start treatment sooner and are spared weeks of uncer
 
 ---
 
-### 7. At least 41 die as boat capsizes in DRC’s Lake Tanganyika
+### 6. Anti-migrant activist charged after dinghy slashed in Channel
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Forty-nine passengers have been rescued and a search is under way for the missing.
+Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll
+### 7. Multiple regions in Russia come under Ukrainian drone attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.
+Ukraine has targeted an industrial plant in Russia&#039;s Perm region with a massive drone swarm.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss)
 
 ---
 
-### 9. UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector
+### 8. Israeli football player sent off after gun-firing goal celebration
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.
+Israeli footballer Saied Abu Farchi has been sent off during a Nations League match after using a corner flag.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss)
+
+---
+
+### 9. Pakistani forces kill Afghan Taliban fighters in border escalation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan&#039;s security forces report ongoing cross-border fire in latest fighting with Afghanistan.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss)
 
 ---
 
