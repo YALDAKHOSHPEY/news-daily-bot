@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 17:29:47
+**Last Update:** 2026-09-25 19:09:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobody Asked for a Crab Chair
+### 1. Factorio that you can touch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newmobility.com/nobody-asked-for-a-crab-chair/">https://newmobility.com/nobody-asked-for-a-crab-chair/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843899">https://news.ycombinator.com/item?id=49843899</a></p>
-<p>Points: 18</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://factorio.com/blog/post/fff-447">https://factorio.com/blog/post/fff-447</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845133">https://news.ycombinator.com/item?id=49845133</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://newmobility.com/nobody-asked-for-a-crab-chair/](https://newmobility.com/nobody-asked-for-a-crab-chair/)
+🔗 **Read more:** [https://factorio.com/blog/post/fff-447](https://factorio.com/blog/post/fff-447)
 
 ---
 
-### 2. The Test
+### 2. Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tante.cc/2026/09/24/the-test/">https://tante.cc/2026/09/24/the-test/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843550">https://news.ycombinator.com/item?id=49843550</a></p>
-<p>Points: 34</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot">https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49844896">https://news.ycombinator.com/item?id=49844896</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://tante.cc/2026/09/24/the-test/](https://tante.cc/2026/09/24/the-test/)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
 
 ---
 
-### 3. I'm Tired of Being on the Network
+### 3. Allow Carriers on Planes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://matduggan.com/im-tired-of-being-on-the-network/">https://matduggan.com/im-tired-of-being-on-the-network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843547">https://news.ycombinator.com/item?id=49843547</a></p>
-<p>Points: 70</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.jefftk.com/p/allow-carriers-on-planes">https://www.jefftk.com/p/allow-carriers-on-planes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49844786">https://news.ycombinator.com/item?id=49844786</a></p>
+<p>Points: 86</p>
+<p># Comments: 68</p>
 
-🔗 **Read more:** [https://matduggan.com/im-tired-of-being-on-the-network/](https://matduggan.com/im-tired-of-being-on-the-network/)
+🔗 **Read more:** [https://www.jefftk.com/p/allow-carriers-on-planes](https://www.jefftk.com/p/allow-carriers-on-planes)
 
 ---
 
-### 4. Noah Woods left playground through gap in fence, inquest hears
+### 4. Watch: What could the potential sanctions for Man City be?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Noah's mother tells parents to "hold their children a little tighter and cherish every moment".
+Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Daniel Thomas pleads not guilty after dinghy slashed
+### 5. Special agents' blood and urine test results stolen in FBI hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.
+Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. NHS to suspend staff suspected of snooping on patient records
+### 6. Some BBC channels and radio stations may well have to close, director general says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.
+The BBC's financial situation "may well mean" some channels and stations close, Matt Brittin says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. India’s ‘cockroach’ movement demands election chief’s resignation
+### 7. Lebanon PM calls for full Israeli withdrawal in UN address
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.
+Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss)
 
 ---
 
-### 8. Israeli official takes notes after UN walkout against Netanyahu
+### 8. Iraq calls for a ‘sovereign Palestinian state’ at UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.
+Iraqi Prime Minister Ali Falih Al-Zaidi called for a sovereign state of Palestine at the 81st session of the UNGA.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss)
 
 ---
 
-### 9. Fighting in northern Ethiopia spurs fears of blackout and blockade
+### 9. China swimmer makes Asian Games history as Thai sprinter wins track 100m
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.
+China&#039;s Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss)
 
 ---
 
