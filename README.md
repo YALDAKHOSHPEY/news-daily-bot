@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 11:31:46
+**Last Update:** 2026-09-25 14:17:33
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
+### 1. Oracle on the hook to pay data centre investors even if site has no electricity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2">https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841115">https://news.ycombinator.com/item?id=49841115</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016">https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49842483">https://news.ycombinator.com/item?id=49842483</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+🔗 **Read more:** [https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)
 
 ---
 
-### 2. The Efficiency-Throughput Gap with GitHub Copilot
+### 2. Ink and Switch Interactive Homepage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/">https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841103">https://news.ycombinator.com/item?id=49841103</a></p>
-<p>Points: 4</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.inkandswitch.com/">https://www.inkandswitch.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49842270">https://news.ycombinator.com/item?id=49842270</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)
+🔗 **Read more:** [https://www.inkandswitch.com/](https://www.inkandswitch.com/)
 
 ---
 
-### 3. Jev Based Code Review
+### 3. Tech Needs Humanists More
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/egma-ai/jev-code-reviewer">https://github.com/egma-ai/jev-code-reviewer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49840300">https://news.ycombinator.com/item?id=49840300</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://passo.uno/tech-needs-humanists-more-than-ever/">https://passo.uno/tech-needs-humanists-more-than-ever/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49842127">https://news.ycombinator.com/item?id=49842127</a></p>
+<p>Points: 46</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://github.com/egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer)
+🔗 **Read more:** [https://passo.uno/tech-needs-humanists-more-than-ever/](https://passo.uno/tech-needs-humanists-more-than-ever/)
 
 ---
 
-### 4. US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner
+### 4. Noah Woods left playground through gap in fence, inquest hears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump said he and Xi had "never gotten along better" as he hosted the Chinese president at the lavish White House event.
+An inquest is told the three-year-old's body was found among submerged tree roots.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: The world’s two most powerful men just met. How did it go?
+### 5. Families failed by decision to bail sex offender to flat near playground, victims commissioner says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.
+Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Brain tumour diagnosis cut from weeks to hours with rapid new test
+### 6. Xi got Trump's red carpet welcome - but not everything he wanted
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The test means patients can start treatment sooner and are spared weeks of uncertainty.
+China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pope Leo heads to France amid assisted dying, abuse debates
+### 7. Rising malnutrition in Nigeria as US war on Iran raises food costs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-First papal state visit to country in 18 years comes as church confronts contentious issues.
+The war on Iran is raising the cost of living in Nigeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss)
 
 ---
 
-### 8. Nepal’s leader labels devastating flood a ‘warning to the world’
+### 8. Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Balendra Shah says world leaders must act on climate change.
+Europe&#039;s top leagues, from England, Spain, Italy and Germany, add pressure on Gianni Infantino after World Cup plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss)
 
 ---
 
-### 9. Israel’s Abu Farchi sent off for gun celebration in Nations League match
+### 9. Iran pitches seven-day roadmap to end conflict with US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.
+Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss)
 
 ---
 
