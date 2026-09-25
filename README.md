@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 14:17:33
+**Last Update:** 2026-09-25 17:29:47
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Oracle on the hook to pay data centre investors even if site has no electricity
+### 1. Nobody Asked for a Crab Chair
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016">https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49842483">https://news.ycombinator.com/item?id=49842483</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://newmobility.com/nobody-asked-for-a-crab-chair/">https://newmobility.com/nobody-asked-for-a-crab-chair/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843899">https://news.ycombinator.com/item?id=49843899</a></p>
+<p>Points: 18</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)
+🔗 **Read more:** [https://newmobility.com/nobody-asked-for-a-crab-chair/](https://newmobility.com/nobody-asked-for-a-crab-chair/)
 
 ---
 
-### 2. Ink and Switch Interactive Homepage
+### 2. The Test
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inkandswitch.com/">https://www.inkandswitch.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49842270">https://news.ycombinator.com/item?id=49842270</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://tante.cc/2026/09/24/the-test/">https://tante.cc/2026/09/24/the-test/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843550">https://news.ycombinator.com/item?id=49843550</a></p>
+<p>Points: 34</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.inkandswitch.com/](https://www.inkandswitch.com/)
+🔗 **Read more:** [https://tante.cc/2026/09/24/the-test/](https://tante.cc/2026/09/24/the-test/)
 
 ---
 
-### 3. Tech Needs Humanists More
+### 3. I'm Tired of Being on the Network
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://passo.uno/tech-needs-humanists-more-than-ever/">https://passo.uno/tech-needs-humanists-more-than-ever/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49842127">https://news.ycombinator.com/item?id=49842127</a></p>
-<p>Points: 46</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://matduggan.com/im-tired-of-being-on-the-network/">https://matduggan.com/im-tired-of-being-on-the-network/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843547">https://news.ycombinator.com/item?id=49843547</a></p>
+<p>Points: 70</p>
+<p># Comments: 57</p>
 
-🔗 **Read more:** [https://passo.uno/tech-needs-humanists-more-than-ever/](https://passo.uno/tech-needs-humanists-more-than-ever/)
+🔗 **Read more:** [https://matduggan.com/im-tired-of-being-on-the-network/](https://matduggan.com/im-tired-of-being-on-the-network/)
 
 ---
 
@@ -65,78 +65,78 @@
 **Category:** world
 
 **Description:**
-An inquest is told the three-year-old's body was found among submerged tree roots.
+Noah's mother tells parents to "hold their children a little tighter and cherish every moment".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Families failed by decision to bail sex offender to flat near playground, victims commissioner says
+### 5. Daniel Thomas pleads not guilty after dinghy slashed
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.
+Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Xi got Trump's red carpet welcome - but not everything he wanted
+### 6. NHS to suspend staff suspected of snooping on patient records
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
+There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Rising malnutrition in Nigeria as US war on Iran raises food costs
+### 7. India’s ‘cockroach’ movement demands election chief’s resignation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The war on Iran is raising the cost of living in Nigeria.
+Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss)
 
 ---
 
-### 8. Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan
+### 8. Israeli official takes notes after UN walkout against Netanyahu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Europe&#039;s top leagues, from England, Spain, Italy and Germany, add pressure on Gianni Infantino after World Cup plan.
+An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss)
 
 ---
 
-### 9. Iran pitches seven-day roadmap to end conflict with US
+### 9. Fighting in northern Ethiopia spurs fears of blackout and blockade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.
+Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Nolo
+### 10. Hurricane Nolo
 
 **Source:** NASA
 
