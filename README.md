@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 09:05:12
+**Last Update:** 2026-09-25 11:31:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Koi.rest – watch some fish and regain your balance
+### 1. CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
-<p>Points: 156</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2">https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841115">https://news.ycombinator.com/item?id=49841115</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://koi.rest](https://koi.rest)
+🔗 **Read more:** [https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
 
 ---
 
-### 2. The Board Game of the Alpha Nerds (2014)
+### 2. The Efficiency-Throughput Gap with GitHub Copilot
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
-<p>Points: 71</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/">https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841103">https://news.ycombinator.com/item?id=49841103</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+🔗 **Read more:** [https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/](https://cacm.acm.org/research/beyond-the-hype-the-efficiency-throughput-gap-with-github-copilot/)
 
 ---
 
-### 3. California is chasing wealth that has feet
+### 3. Jev Based Code Review
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.landeconomics.org/p/california-is-chasing-wealth-that">https://blog.landeconomics.org/p/california-is-chasing-wealth-that</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836419">https://news.ycombinator.com/item?id=49836419</a></p>
-<p>Points: 198</p>
-<p># Comments: 550</p>
+<p>Article URL: <a href="https://github.com/egma-ai/jev-code-reviewer">https://github.com/egma-ai/jev-code-reviewer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49840300">https://news.ycombinator.com/item?id=49840300</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://blog.landeconomics.org/p/california-is-chasing-wealth-that](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+🔗 **Read more:** [https://github.com/egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer)
 
 ---
 
-### 4. Watch: The world’s two most powerful men just met. How did it go?
+### 4. US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Trump said he and Xi had "never gotten along better" as he hosted the Chinese president at the lavish White House event.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: The world’s two most powerful men just met. How did it go?
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for
 
 ---
 
-### 5. Brain tumour diagnosis cut from weeks to hours with rapid new test
+### 6. Brain tumour diagnosis cut from weeks to hours with rapid new test
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The test means patients can start treatment sooner and are spared weeks of uncer
 
 ---
 
-### 6. Anti-migrant activist charged after dinghy slashed in Channel
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Multiple regions in Russia come under Ukrainian drone attacks
+### 7. Pope Leo heads to France amid assisted dying, abuse debates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine has targeted an industrial plant in Russia&#039;s Perm region with a massive drone swarm.
+First papal state visit to country in 18 years comes as church confronts contentious issues.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/pope-leo-heads-to-france-amid-assisted-dying-abuse-debates?traffic_source=rss)
 
 ---
 
-### 8. Israeli football player sent off after gun-firing goal celebration
+### 8. Nepal’s leader labels devastating flood a ‘warning to the world’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli footballer Saied Abu Farchi has been sent off during a Nations League match after using a corner flag.
+Prime Minister Balendra Shah says world leaders must act on climate change.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss)
 
 ---
 
-### 9. Pakistani forces kill Afghan Taliban fighters in border escalation
+### 9. Israel’s Abu Farchi sent off for gun celebration in Nations League match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan&#039;s security forces report ongoing cross-border fire in latest fighting with Afghanistan.
+Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss)
 
 ---
 
