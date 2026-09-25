@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 02:04:01
+**Last Update:** 2026-09-26 02:26:25
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850305">https://news.ycombinator.com/item?id=49850305</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://swarmtraces.org/">https://swarmtraces.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849985">https://news.ycombinator.com/item?id=49849985</a></p>
-<p>Points: 45</p>
-<p># Comments: 19</p>
+<p>Points: 58</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://swarmtraces.org/](https://swarmtraces.org/)
 
@@ -52,8 +52,8 @@
 <p>Related: <a href="https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395" rel="nofollow">https://techcommunity.microsoft.com/blog/microsoft365insider...</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849832">https://news.ycombinator.com/item?id=49849832</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
 
@@ -98,20 +98,7 @@ Asked about the Iranian offer, a US official said discussions were taking place 
 
 ---
 
-### 7. DR Congo’s Ebola outbreak spreads to two new health zones, WHO says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss)
-
----
-
-### 8. Netanyahu calls Al Jazeera a ‘toxic media outlet’
+### 7. Netanyahu calls Al Jazeera a ‘toxic media outlet’
 
 **Source:** Al Jazeera
 
@@ -124,7 +111,7 @@ Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media out
 
 ---
 
-### 9. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
+### 8. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
 
 **Source:** Al Jazeera
 
@@ -134,6 +121,19 @@ Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media out
 Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss)
+
+---
+
+### 9. What would a US diesel export ban mean for global fuel prices?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss)
 
 ---
 
