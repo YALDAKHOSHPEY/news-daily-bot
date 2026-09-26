@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 15:26:30
+**Last Update:** 2026-09-26 16:45:38
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
-<p>Points: 54</p>
-<p># Comments: 1</p>
+<p>Points: 161</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855018">https://news.ycombinator.com/item?id=49855018</a></p>
-<p>Points: 47</p>
-<p># Comments: 29</p>
+<p>Points: 87</p>
+<p># Comments: 75</p>
 
 🔗 **Read more:** [https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
 ---
 
-### 3. Fifteen years later, the Apple Cards origin story
+### 3. The Copilot+ PC brand is dead
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story">https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854693">https://news.ycombinator.com/item?id=49854693</a></p>
-<p>Points: 74</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854945">https://news.ycombinator.com/item?id=49854945</a></p>
+<p>Points: 29</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+🔗 **Read more:** [https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
 
 ---
 
@@ -71,68 +71,68 @@ Christian Purslow's comments come after Manchester City was found guilty of doze
 
 ---
 
-### 5. The computer hacker who tried to take down Man City
+### 5. British national among six dead in building explosion close to Acropolis in Athens
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.
+Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Iran offers US deal to reopen Strait of Hormuz in seven days
+### 6. How long can Labour's feel-good factor last?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Asked about the Iranian proposal, a US official told the BBC "constructive discussions" were taking place through mediators.
+The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pezeshkian says Iran ‘no longer trusts talks with Washington’
+### 7. The media battle behind Brazil’s election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.
+A corruption scandal, Bolsonaro’s comeback, and Trump’s influence collide as Brazil heads into elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss)
 
 ---
 
-### 8. Ebola spreads in DR Congo, putting neighbouring nations at risk
+### 8. Manchester City face ‘drastic’ sanctions, says club’s former chairman
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Ebola outbreak has spread to new areas in the Democratic Republic of the Congo, with 10 countries at high risk.
+Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss)
 
 ---
 
-### 9. An unexpected welcome: Syrian Kurds return to their homes in Afrin
+### 9. Mecca defence alliance chiefs meet amid Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.
+Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss](https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss)
 
 ---
 
@@ -162,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Surigae
+### 12. Typhoon Surigae
 
 **Source:** NASA
 
