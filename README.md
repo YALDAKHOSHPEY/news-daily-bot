@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 10:19:49
+**Last Update:** 2026-09-26 11:23:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Can AI Shopping Agents Be Trusted?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out">https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853522">https://news.ycombinator.com/item?id=49853522</a></p>
-<p>Points: 12</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out](https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out)
-
----
-
-### 2. A single function Jev-like wrapper for LLMs, including vision models
+### 1. A single function Jev-like wrapper for LLMs, including vision models
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853175">https://news.ycombinator.com/item?id=49853175</a></p>
-<p>Points: 31</p>
-<p># Comments: 2</p>
+<p>Points: 47</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
 
 ---
 
-### 3. We're gonna need a lot more mathematicians
+### 2. We're gonna need a lot more mathematicians
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852717">https://news.ycombinator.com/item?id=49852717</a></p>
-<p>Points: 81</p>
-<p># Comments: 81</p>
+<p>Points: 93</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+
+---
+
+### 3. HomelabFest will be in St. Louis in September 2027
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.homelabfest.org">https://www.homelabfest.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852462">https://news.ycombinator.com/item?id=49852462</a></p>
+<p>Points: 22</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.homelabfest.org](https://www.homelabfest.org)
 
 ---
 
@@ -97,42 +97,42 @@ OpenAI said its bots accessed public data from a range of institutions during te
 
 ---
 
-### 7. ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
+### 7. Disaster zone declared across Bangkok as heavy rain triggers flooding
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.
+Nonstop rain since Thursday has submerged Thai capital&#039;s roads and canals, sending water into homes and stores.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss](https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss)
 
 ---
 
-### 8. Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
+### 8. Could AI firms be held responsible for mass shootings?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.
+Canadian lawsuits against OpenAI raise questions about liability and duty to warn in the AI industry, say experts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss)
 
 ---
 
-### 9. ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?
+### 9. Manchester City found guilty? What we know; what could the punishment be?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.
+The fallout begins as football and lawyers prepare for the next phase of 115 Premier League charges against Man City.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/manchester-city-found-guilty-what-we-know-what-could-the-punishment-be?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/manchester-city-found-guilty-what-we-know-what-could-the-punishment-be?traffic_source=rss)
 
 ---
 
