@@ -1,16 +1,50 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 02:26:25
+**Last Update:** 2026-09-26 04:35:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What Even Is an OS Now?
+### 1. Show HN: A game about fake news and memes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I made this game to help me with media literacy. View it like Wordle but for fake news.<p>I would appreciate your honest feedback since I'm serious about making it way better.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49851776">https://news.ycombinator.com/item?id=49851776</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://unspin.app/](https://unspin.app/)
+
+---
+
+### 2. Tell HN: Codex Is Down [fixed]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Shows an Incorrect API Key error...which is weird. Nothing on the status page. (EDIT: Added to incident page: <a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39" rel="nofollow">https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...</a>)<p>Per Twitter/X this appears to be widespread<p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39" rel="nofollow">https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49851032">https://news.ycombinator.com/item?id=49851032</a></p>
+<p>Points: 63</p>
+<p># Comments: 66</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49851032](https://news.ycombinator.com/item?id=49851032)
+
+---
+
+### 3. What even is an OS now?
 
 **Source:** Hacker News
 
@@ -19,47 +53,27 @@
 **Description:**
 <p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850305">https://news.ycombinator.com/item?id=49850305</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Points: 68</p>
+<p># Comments: 79</p>
 
 🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 
 ---
 
-### 2. Revealing the details of how OpenAI agents hacked Hugging Face
+### 4. Iran offers US deal to reopen Strait of Hormuz in seven days
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://swarmtraces.org/">https://swarmtraces.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849985">https://news.ycombinator.com/item?id=49849985</a></p>
-<p>Points: 58</p>
-<p># Comments: 27</p>
+Asked about the Iranian offer, a US official told the BBC "constructive discussions" were taking place through mediators.
 
-🔗 **Read more:** [https://swarmtraces.org/](https://swarmtraces.org/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Excel now supports multiple values in a single cell
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Related: <a href="https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395" rel="nofollow">https://techcommunity.microsoft.com/blog/microsoft365insider...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849832">https://news.ycombinator.com/item?id=49849832</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
-
----
-
-### 4. Man City found guilty of majority of 115 financial rule breaches
+### 5. Man City found guilty of majority of 115 financial rule breaches
 
 **Source:** BBC
 
@@ -72,68 +86,55 @@ The club, which denies all wrongdoing, is accused of breaching the Premier Leagu
 
 ---
 
-### 5. Watch: What could the potential sanctions for Man City be?
+### 6. Relegation? Titles stripped? Appeals? What next for Man City
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.
+It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Iran offers US deal to reopen Strait of Hormuz in seven days
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Asked about the Iranian offer, a US official said discussions were taking place through mediators.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Netanyahu calls Al Jazeera a ‘toxic media outlet’
+### 7. Pro-Imran Khan rally delayed amid government closures
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”
+Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss)
 
 ---
 
-### 8. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
+### 8. Iran war live: Tehran offers US plan to reopen Hormuz within seven days
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.
+Iran&#039;s FM says the &quot;choice rests with the US&quot; to approve the proposed seven-day proposal to reopen Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss)
 
 ---
 
-### 9. What would a US diesel export ban mean for global fuel prices?
+### 9. US court rules against Kalshi, says states can regulate prediction markets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.
+US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss)
 
 ---
 
