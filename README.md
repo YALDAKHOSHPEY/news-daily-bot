@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 16:45:38
+**Last Update:** 2026-09-26 19:01:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking Up with Google Play: Why Conversations Is Now Free
+### 1. Earth is tearing apart beneath the Pacific Northwest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/09/260924231343.htm">https://www.sciencedaily.com/releases/2026/09/260924231343.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49856971">https://news.ycombinator.com/item?id=49856971</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/09/260924231343.htm](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)
+
+---
+
+### 2. Understanding the Impact of LLM Watermarking on AI Agent Behavior
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior">https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49856149">https://news.ycombinator.com/item?id=49856149</a></p>
+<p>Points: 54</p>
+<p># Comments: 49</p>
+
+🔗 **Read more:** [https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
+
+---
+
+### 3. Breaking Up with Google Play: Why Conversations Is Now Free
 
 **Source:** Hacker News
 
@@ -19,68 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
-<p>Points: 161</p>
-<p># Comments: 42</p>
+<p>Points: 341</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
 
 ---
 
-### 2. One Month Without AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855018">https://news.ycombinator.com/item?id=49855018</a></p>
-<p>Points: 87</p>
-<p># Comments: 75</p>
-
-🔗 **Read more:** [https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-
----
-
-### 3. The Copilot+ PC brand is dead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854945">https://news.ycombinator.com/item?id=49854945</a></p>
-<p>Points: 29</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
-
----
-
-### 4. Man City legal fight could spiral out of control, former Premier League club executive warns
+### 4. Heathrow Airport warns third runway could be delayed by four years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.
+The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has "always been ambitious".
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. British national among six dead in building explosion close to Acropolis in Athens
+### 5. No Premier League appetite to strip Man City of titles - but threat remains
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.
+After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The party’s spirits have been transformed since Burnham became PM, but what's 
 
 ---
 
-### 7. The media battle behind Brazil’s election
+### 7. Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A corruption scandal, Bolsonaro’s comeback, and Trump’s influence collide as Brazil heads into elections.
+Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Manchester City face ‘drastic’ sanctions, says club’s former chairman
+### 8. Olympics: Germany picks Munich for Summer Games bid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.
+Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss)
 
 ---
 
-### 9. Mecca defence alliance chiefs meet amid Houthi attacks
+### 9. Israel-Ireland match to go ahead in Nations League after player vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.
+Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss)
 
 ---
 
