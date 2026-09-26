@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 19:01:19
+**Last Update:** 2026-09-26 20:48:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Earth is tearing apart beneath the Pacific Northwest
+### 1. I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/09/260924231343.htm">https://www.sciencedaily.com/releases/2026/09/260924231343.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49856971">https://news.ycombinator.com/item?id=49856971</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857899">https://news.ycombinator.com/item?id=49857899</a></p>
+<p>Points: 59</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/09/260924231343.htm](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)
+🔗 **Read more:** [https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 
 ---
 
-### 2. Understanding the Impact of LLM Watermarking on AI Agent Behavior
+### 2. Make Claude your assistant in excalidraw
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior">https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49856149">https://news.ycombinator.com/item?id=49856149</a></p>
-<p>Points: 54</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://tangled.org/yanndegat.tngl.sh/drawgent">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857729">https://news.ycombinator.com/item?id=49857729</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
+🔗 **Read more:** [https://tangled.org/yanndegat.tngl.sh/drawgent](https://tangled.org/yanndegat.tngl.sh/drawgent)
 
 ---
 
-### 3. Breaking Up with Google Play: Why Conversations Is Now Free
+### 3. Banks and Credit Unions to Team Up Against Apple Pay Fees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
-<p>Points: 341</p>
-<p># Comments: 132</p>
+<p>Article URL: <a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857651">https://news.ycombinator.com/item?id=49857651</a></p>
+<p>Points: 18</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
+🔗 **Read more:** [https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
 
 ---
 
-### 4. Heathrow Airport warns third runway could be delayed by four years
+### 4. Burnham announces scheme to help first-time buyers onto housing ladder
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Heathrow Airport warns third runway could be delayed by four years
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The UK's busiest airport cautions it may miss the government target of 2035 as m
 
 ---
 
-### 5. No Premier League appetite to strip Man City of titles - but threat remains
+### 6. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?
+The US president says Tehran had only put forward the proposal because it is losing the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How long can Labour's feel-good factor last?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz
+### 7. Venezuelan government, opposition agree to work towards reform of top court
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.
+The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss)
 
 ---
 
-### 8. Olympics: Germany picks Munich for Summer Games bid
+### 8. Women take up arms as sexual violence ravages eastern DRC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.
+As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/olympics-summer-games-germany-munich-host-candidate-bid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss)
 
 ---
 
-### 9. Israel-Ireland match to go ahead in Nations League after player vote
+### 9. At least 10 people killed in Russian and Ukrainian attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.
+New strikes come as Russian FM accuses Europe of doing &#039;everything it can to thwart peace talks&#039; with Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss)
 
 ---
 
