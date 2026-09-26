@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-26T22:19:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+            "description": "<p>Article URL: <a href=\"https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt\">https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49858810\">https://news.ycombinator.com/item?id=49858810</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+            "published": "Sat, 26 Sep 2026 17:43:11 +0000",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/\">https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49858253\">https://news.ycombinator.com/item?id=49858253</a></p>\n<p>Points: 34</p>\n<p># Comments: 27</p>",
+            "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
+            "published": "Sat, 26 Sep 2026 16:46:24 +0000",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+            "description": "<p>Article URL: <a href=\"https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857899\">https://news.ycombinator.com/item?id=49857899</a></p>\n<p>Points: 233</p>\n<p># Comments: 91</p>",
+            "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+            "published": "Sat, 26 Sep 2026 16:12:18 +0000",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 18:46:01 GMT",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heathrow Airport warns third runway could be delayed by four years",
+            "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 16:32:42 GMT",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+            "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 18:17:12 GMT",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South African police discover body of 10th woman near Johannesburg",
+            "description": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 18:08:12 +0000",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+            "description": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 18:00:43 +0000",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+            "description": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 17:55:22 +0000",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-26T22:19:56+03:30"
+        }
+    ]
+}
