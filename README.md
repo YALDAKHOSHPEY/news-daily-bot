@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 23:06:29
+**Last Update:** 2026-09-28 01:54:20
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi
+### 1. Lunar Terminator Paradox
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://loficities.com/">https://loficities.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869574">https://news.ycombinator.com/item?id=49869574</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://loficities.com/](https://loficities.com/)
+🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 
 ---
 
-### 2. Oral history of John Chowning, inventor of FM synthesis [video]
+### 2. When did Google get so weird?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://en.wikipedia.org/wiki/John_Chowning" rel="nofollow">https://en.wikipedia.org/wiki/John_Chowning</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869142">https://news.ycombinator.com/item?id=49869142</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://sancho.bearblog.dev/google-weird/">https://sancho.bearblog.dev/google-weird/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870367">https://news.ycombinator.com/item?id=49870367</a></p>
+<p>Points: 399</p>
+<p># Comments: 199</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=e1Xn3030IvM](https://www.youtube.com/watch?v=e1Xn3030IvM)
+🔗 **Read more:** [https://sancho.bearblog.dev/google-weird/](https://sancho.bearblog.dev/google-weird/)
 
 ---
 
-### 3. SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
+### 3. Alan Kay's answer to "Did the ENIAC have a BIOS"?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
-<p>Points: 145</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870070">https://news.ycombinator.com/item?id=49870070</a></p>
+<p>Points: 44</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
+🔗 **Read more:** [https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 
 ---
 
-### 4. What we know about RAF base counter-terror investigation
+### 4. Five arrested as counter-terror police investigate major incident near RAF Fairford
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about RAF Fairford counter-terror probe
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 5. Burnham proposes NHS-style social care system for England
+### 6. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The prime minister told the BBC that social care in England is "as unfair as Ame
 
 ---
 
-### 6. Orange Order march row goes to heart of ongoing divisions in Northern Ireland
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The dispute over the controversial parade is a reminder that the peace process is not over.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Stuck between Israeli military checkpoints
+### 7. Ireland defeats Israel in controversial UEFA Nations League match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.
+Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss)
 
 ---
 
-### 8. Palestine Action protesters arrested in Liverpool
+### 8. Alleged rape on campus sparks violent protest at Indian university
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.
+Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss)
 
 ---
 
-### 9. At least 12 dead and dozens missing after a vessel capsizes in DRC
+### 9. Floods inundate roads in southeastern Algeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This incident comes only two days after at least 41 people died in another boat capsizing in DRC.
+Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss)
 
 ---
 
