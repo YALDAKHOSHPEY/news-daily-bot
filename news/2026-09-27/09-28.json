@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T09:28:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If we do not stop to help each other, what do we become?",
+            "description": "<p>Article URL: <a href=\"https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/\">https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49863062\">https://news.ycombinator.com/item?id=49863062</a></p>\n<p>Points: 123</p>\n<p># Comments: 41</p>",
+            "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+            "published": "Sun, 27 Sep 2026 03:20:46 +0000",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What is the size of Yemen? (2024)",
+            "description": "<p>Article URL: <a href=\"https://theborys.substack.com/p/what-is-the-size-of-yemen\">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862809\">https://news.ycombinator.com/item?id=49862809</a></p>\n<p>Points: 83</p>\n<p># Comments: 14</p>",
+            "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+            "published": "Sun, 27 Sep 2026 02:40:26 +0000",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+            "description": "<p>Article URL: <a href=\"https://swarmcha.se/posts/openai-unctad\">https://swarmcha.se/posts/openai-unctad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862299\">https://news.ycombinator.com/item?id=49862299</a></p>\n<p>Points: 39</p>\n<p># Comments: 16</p>",
+            "url": "https://swarmcha.se/posts/openai-unctad",
+            "published": "Sun, 27 Sep 2026 01:08:07 +0000",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+            "description": "The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.",
+            "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 04:15:40 GMT",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 05:00:42 GMT",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+            "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+            "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 23:00:42 GMT",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Several killed in South Africa shooting",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 05:48:47 +0000",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+            "description": "Pope Leo XIV drew around 800,000 people to central Paris for an open-air Mass at Place de la Concorde",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 05:09:01 +0000",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopia’s army promises restraint amid fears of new civil war",
+            "description": "Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 04:59:50 +0000",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T09:28:32+03:30"
+        }
+    ]
+}
