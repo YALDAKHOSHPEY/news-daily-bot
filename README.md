@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 01:54:20
+**Last Update:** 2026-09-28 02:10:59
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Points: 25</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 
 ---
 
-### 2. When did Google get so weird?
+### 2. Show HN: Cartopolis, interactive globe-sized 3D world
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://code.garage44.eu/jeroen/cartopolis">https://code.garage44.eu/jeroen/cartopolis</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870394">https://news.ycombinator.com/item?id=49870394</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://code.garage44.eu/jeroen/cartopolis](https://code.garage44.eu/jeroen/cartopolis)
+
+---
+
+### 3. When did Google get so weird?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sancho.bearblog.dev/google-weird/">https://sancho.bearblog.dev/google-weird/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870367">https://news.ycombinator.com/item?id=49870367</a></p>
-<p>Points: 399</p>
-<p># Comments: 199</p>
+<p>Points: 433</p>
+<p># Comments: 212</p>
 
 🔗 **Read more:** [https://sancho.bearblog.dev/google-weird/](https://sancho.bearblog.dev/google-weird/)
-
----
-
-### 3. Alan Kay's answer to "Did the ENIAC have a BIOS"?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870070">https://news.ycombinator.com/item?id=49870070</a></p>
-<p>Points: 44</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 
 ---
 
