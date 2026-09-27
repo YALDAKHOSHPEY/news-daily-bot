@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 09:28:32
+**Last Update:** 2026-09-27 11:54:39
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. If we do not stop to help each other, what do we become?
+### 1. Kidnapping kids remains legal in USA, this site has you experience it first-hand
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/">https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863062">https://news.ycombinator.com/item?id=49863062</a></p>
-<p>Points: 123</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://elan.school/">https://elan.school/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864064">https://news.ycombinator.com/item?id=49864064</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+🔗 **Read more:** [https://elan.school/](https://elan.school/)
 
 ---
 
-### 2. What is the size of Yemen? (2024)
+### 2. OpenAI Feared "Optics" of what might appear on Hacker News
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863864">https://news.ycombinator.com/item?id=49863864</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+
+---
+
+### 3. What is the size of Yemen? (2024)
 
 **Source:** Hacker News
 
@@ -35,52 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
-<p>Points: 83</p>
-<p># Comments: 14</p>
+<p>Points: 145</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
 
 ---
 
-### 3. OpenAI agents tried to bruteforce a UN website's API fields
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://swarmcha.se/posts/openai-unctad">https://swarmcha.se/posts/openai-unctad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862299">https://news.ycombinator.com/item?id=49862299</a></p>
-<p>Points: 39</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://swarmcha.se/posts/openai-unctad](https://swarmcha.se/posts/openai-unctad)
-
----
-
-### 4. Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama
+### 4. Men arrested and houses evacuated in major incident near RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.
+A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham announces scheme to help first-time buyers on to housing ladder
+### 5. Ten NHS staff removed over Noah Woods data breach
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
+East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ He must consider the longevity of Iran war economic pressures and how to sustain
 
 ---
 
-### 7. Several killed in South Africa shooting
+### 7. Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss)
 
 ---
 
-### 8. Huge crowds cheer Pope Leo as he leads open-air Mass in Paris
+### 8. Photos: Heavy rains and flooding in Bangkok force thousands into shelters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV drew around 800,000 people to central Paris for an open-air Mass at Place de la Concorde
+Continuous downpours have hammered several areas of Thailand’s capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss)
 
 ---
 
-### 9. Ethiopia’s army promises restraint amid fears of new civil war
+### 9. Kylian Mbappe’s knee injury to keep him out for two weeks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.
+Mbappe suffers hyperextension of left knee against Turkiye but is expected to be fit to face Barcelona in El Clasico.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss)
 
 ---
 
