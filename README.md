@@ -1,73 +1,74 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 11:54:39
+**Last Update:** 2026-09-27 14:57:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kidnapping kids remains legal in USA, this site has you experience it first-hand
+### 1. "As a Language Model": Chat Template Switches LLM Self-Referential Voice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://elan.school/">https://elan.school/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864064">https://news.ycombinator.com/item?id=49864064</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
+<p>Points: 23</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://elan.school/](https://elan.school/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
 
 ---
 
-### 2. OpenAI Feared "Optics" of what might appear on Hacker News
+### 2. Show HN: LightCloud – A cloud console organised like file system
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863864">https://news.ycombinator.com/item?id=49863864</a></p>
-<p>Points: 12</p>
+<p>Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865067">https://news.ycombinator.com/item?id=49865067</a></p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+🔗 **Read more:** [https://www.light-cloud.com/](https://www.light-cloud.com/)
 
 ---
 
-### 3. What is the size of Yemen? (2024)
+### 3. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
-<p>Points: 145</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
+<p>Points: 192</p>
+<p># Comments: 104</p>
 
-🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
 
 ---
 
-### 4. Men arrested and houses evacuated in major incident near RAF Fairford
+### 4. 'Broken social care will in the end break the NHS,' says Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.
+Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +85,55 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 
 ---
 
-### 6. Faisal Islam: The two big calls the chancellor has to make ahead of the Budget
+### 6. Two mass shootings in South Africa leave 27 dead
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
+The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark
+### 7. ‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.
+Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss)
 
 ---
 
-### 8. Photos: Heavy rains and flooding in Bangkok force thousands into shelters
+### 8. ‘My hands are empty’: Displaced Palestinians struggle to survive
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Continuous downpours have hammered several areas of Thailand’s capital.
+In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss](https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss)
 
 ---
 
-### 9. Kylian Mbappe’s knee injury to keep him out for two weeks
+### 9. Israeli minister Bezalel Smotrich calls for war in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mbappe suffers hyperextension of left knee against Turkiye but is expected to be fit to face Barcelona in El Clasico.
+Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
