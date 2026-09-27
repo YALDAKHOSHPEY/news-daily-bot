@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 17:39:29
+**Last Update:** 2026-09-27 19:29:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. "As a Language Model": Chat Template Switches LLM Self-Referential Voice
+### 1. postmarketOS Rebrand: Nura
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
-<p>Points: 69</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://nura.eco/blog/2026/09/27/nura-rename/">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867553">https://news.ycombinator.com/item?id=49867553</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
+🔗 **Read more:** [https://nura.eco/blog/2026/09/27/nura-rename/](https://nura.eco/blog/2026/09/27/nura-rename/)
 
 ---
 
-### 2. Rusty thoughts on "Parse, don't validate"
+### 2. The Normalization of Inexplicable Failures
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864743">https://news.ycombinator.com/item?id=49864743</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html">https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867486">https://news.ycombinator.com/item?id=49867486</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
+🔗 **Read more:** [https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
 
 ---
 
-### 3. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+### 3. "They had no concept of a duty of care to their users."
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
-<p>Points: 303</p>
-<p># Comments: 216</p>
+<p>Article URL: <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867067">https://news.ycombinator.com/item?id=49867067</a></p>
+<p>Points: 100</p>
+<p># Comments: 63</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
+🔗 **Read more:** [https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
 
 ---
 
-### 4. Burnham proposes NHS-style social care system for England
+### 4. Watch: At the scene of counter-terrorism operation near RAF Fairford
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The prime minister told the BBC that social care in England is "as unfair as Ame
 
 ---
 
-### 5. 'Broken social care will in the end break the NHS,' says Burnham
+### 6. Orange Order march row goes to heart of ongoing divisions in Northern Ireland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
+The dispute over the controversial parade is a reminder that the peace process is not over.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ten NHS staff removed over Noah Woods data breach
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ethiopians celebrate Meskel and call for peace amid fighting
+### 7. Finding Desert Angels: Searching for the missing at the US-Mexico border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethiopians celebrate Meskel and call for peace amid fighting
+An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss)
 
 ---
 
-### 8. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
+### 8. For Libya, the Hormuz crisis can be a trap or an opportunity
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
+Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss)
 
 ---
 
-### 9. Swiss voters set to reject tighter neutrality rules in referendum
+### 9. Strait of Hormuz tensions linger as Iran and US move further from a deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.
+There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss)
 
 ---
 

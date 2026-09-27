@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T19:29:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "postmarketOS Rebrand: Nura",
+            "description": "<p>Article URL: <a href=\"https://nura.eco/blog/2026/09/27/nura-rename/\">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49867553\">https://news.ycombinator.com/item?id=49867553</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+            "published": "Sun, 27 Sep 2026 15:31:15 +0000",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Normalization of Inexplicable Failures",
+            "description": "<p>Article URL: <a href=\"https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\">https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49867486\">https://news.ycombinator.com/item?id=49867486</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+            "published": "Sun, 27 Sep 2026 15:26:40 +0000",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"They had no concept of a duty of care to their users.\"",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/\">https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49867067\">https://news.ycombinator.com/item?id=49867067</a></p>\n<p>Points: 100</p>\n<p># Comments: 63</p>",
+            "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+            "published": "Sun, 27 Sep 2026 14:45:07 +0000",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: At the scene of counter-terrorism operation near RAF Fairford",
+            "description": "Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.",
+            "url": "https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 15:25:47 GMT",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:48:05 GMT",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+            "description": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 14:07:17 GMT",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Finding Desert Angels: Searching for the missing at the US-Mexico border",
+            "description": "An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.",
+            "url": "https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 15:30:00 +0000",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
+            "description": "Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 15:29:19 +0000",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+            "description": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
+            "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 14:36:44 +0000",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T19:29:33+03:30"
+        }
+    ]
+}
