@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 02:32:13
+**Last Update:** 2026-09-27 03:32:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Welcome to the Medical Clinic at the Interplanetary Relay Station
+### 1. Claude Deleted 48k Files
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&amp;js_challenge=1&amp;jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&amp;jsc_orig_r=">https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&amp;js_challenge=1&amp;jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&amp;jsc_orig_r=</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49861717">https://news.ycombinator.com/item?id=49861717</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=](https://web.archive.org/web/20260920145334/https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/?solution=7a8eb446d9dfaf1c7a8eb446d9dfaf1c&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ecebcc8a5a54d4e96f970086c157293d95&jsc_orig_r=)
+
+---
+
+### 2. God's Eye UAP – documented UFO cases on a 3D globe, with the evidence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://domw99.github.io/Gods-Eye-UAPs/">https://domw99.github.io/Gods-Eye-UAPs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49861272">https://news.ycombinator.com/item?id=49861272</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://domw99.github.io/Gods-Eye-UAPs/](https://domw99.github.io/Gods-Eye-UAPs/)
+
+---
+
+### 3. Welcome to the Medical Clinic at the Interplanetary Relay Station
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49860074">https://news.ycombinator.com/item?id=49860074</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 37</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
-
----
-
-### 2. DeepSeek Elastic Compute (DSec)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.22978">https://arxiv.org/abs/2609.22978</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49859112">https://news.ycombinator.com/item?id=49859112</a></p>
-<p>Points: 103</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.22978](https://arxiv.org/abs/2609.22978)
-
----
-
-### 3. Japan moves to tighten rules for foreigners
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt">https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49858810">https://news.ycombinator.com/item?id=49858810</a></p>
-<p>Points: 77</p>
-<p># Comments: 143</p>
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
 
 ---
 
@@ -71,68 +71,68 @@ The prime minister says he wants people without support from the "bank of mum an
 
 ---
 
-### 5. Heathrow Airport warns third runway could be delayed by four years
+### 5. Faisal Islam: The two big calls the chancellor has to make ahead of the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has "always been ambitious".
+He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+### 6. Court of Appeal overturns ban on Drumcree parade
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.
+Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Student protesters disrupt NVIDIA AI climate panel
+### 7. Pezeshkian says Iran ‘no longer trusts talks with Washington’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protesters have interrupted an NVIDIA panel during NYC Climate Week.
+Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss)
 
 ---
 
-### 8. Trump says he is rolling back Biden-era US fuel economy rules for cars
+### 8. Four American tourists among 6 killed in suspected gas leak blast in Athens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president said he would end a so-called &#039;EV mandate&#039; that steered consumers to electric vehicles.
+Two women reportedly injured after building collapse in Athens&#039; historic Plaka district.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss)
 
 ---
 
-### 9. Yamal nets in Spain’s 3-2 comeback win against England in Nations League
+### 9. Powerful storm brings flooding, power outages to northeastern United States
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.
+Authorities warn residents that extreme conditions in the region could pose risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss)
 
 ---
 
