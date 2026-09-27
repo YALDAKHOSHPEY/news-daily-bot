@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 14:57:41
+**Last Update:** 2026-09-27 17:39:29
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,27 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
-<p>Points: 23</p>
-<p># Comments: 10</p>
+<p>Points: 69</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
 
 ---
 
-### 2. Show HN: LightCloud – A cloud console organised like file system
+### 2. Rusty thoughts on "Parse, don't validate"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865067">https://news.ycombinator.com/item?id=49865067</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864743">https://news.ycombinator.com/item?id=49864743</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.light-cloud.com/](https://www.light-cloud.com/)
+🔗 **Read more:** [https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
 
 ---
 
@@ -52,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
-<p>Points: 192</p>
-<p># Comments: 104</p>
+<p>Points: 303</p>
+<p># Comments: 216</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
 
 ---
 
-### 4. 'Broken social care will in the end break the NHS,' says Burnham
+### 4. Burnham proposes NHS-style social care system for England
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister told the BBC that social care in England is "as unfair as American healthcare".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. 'Broken social care will in the end break the NHS,' says Burnham
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Andy Burnham said the proposed care service would be laid out in detail and put 
 
 ---
 
-### 5. Ten NHS staff removed over Noah Woods data breach
+### 6. Ten NHS staff removed over Noah Woods data breach
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 
 ---
 
-### 6. Two mass shootings in South Africa leave 27 dead
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. ‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?
+### 7. Ethiopians celebrate Meskel and call for peace amid fighting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.
+Ethiopians celebrate Meskel and call for peace amid fighting
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss)
 
 ---
 
-### 8. ‘My hands are empty’: Displaced Palestinians struggle to survive
+### 8. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.
+Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss](https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
 
 ---
 
-### 9. Israeli minister Bezalel Smotrich calls for war in occupied West Bank
+### 9. Swiss voters set to reject tighter neutrality rules in referendum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.
+About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss)
 
 ---
 
