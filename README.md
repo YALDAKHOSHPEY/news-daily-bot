@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 19:29:33
+**Last Update:** 2026-09-27 22:03:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. postmarketOS Rebrand: Nura
+### 1. SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nura.eco/blog/2026/09/27/nura-rename/">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867553">https://news.ycombinator.com/item?id=49867553</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
+<p>Points: 80</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://nura.eco/blog/2026/09/27/nura-rename/](https://nura.eco/blog/2026/09/27/nura-rename/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
 
 ---
 
-### 2. The Normalization of Inexplicable Failures
+### 2. Ember-1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html">https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867486">https://news.ycombinator.com/item?id=49867486</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator.com/item?id=49868830</a></p>
+<p>Points: 52</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+🔗 **Read more:** [https://fireworks.ai/blog/ember-1](https://fireworks.ai/blog/ember-1)
 
 ---
 
-### 3. "They had no concept of a duty of care to their users."
+### 3. There are no "rogue" AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867067">https://news.ycombinator.com/item?id=49867067</a></p>
-<p>Points: 100</p>
-<p># Comments: 63</p>
+<p>Article URL: <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868083">https://news.ycombinator.com/item?id=49868083</a></p>
+<p>Points: 169</p>
+<p># Comments: 108</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
+🔗 **Read more:** [https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 
 ---
 
-### 4. Watch: At the scene of counter-terrorism operation near RAF Fairford
+### 4. What we know about RAF base counter-terror investigation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.
+Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The dispute over the controversial parade is a reminder that the peace process i
 
 ---
 
-### 7. Finding Desert Angels: Searching for the missing at the US-Mexico border
+### 7. ‘Iran ready for doomsday war’, FM Araghchi says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.
+Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss)
 
 ---
 
-### 8. For Libya, the Hormuz crisis can be a trap or an opportunity
+### 8. Mike Waltz: US offered to sell Iran uranium for civilian programme
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.
+US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss)
 
 ---
 
-### 9. Strait of Hormuz tensions linger as Iran and US move further from a deal
+### 9. One month after Nepal’s catastrophic floods, thousands remain missing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.
+A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss)
 
 ---
 
