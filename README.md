@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 11:25:53
+**Last Update:** 2026-09-28 19:11:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thinking fast and slow in AI: The role of metacognition (2021)
+### 1. Jensen Huang says AI distillation is 'competition.'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2110.01834">https://arxiv.org/abs/2110.01834</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873241">https://news.ycombinator.com/item?id=49873241</a></p>
-<p>Points: 75</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879032">https://news.ycombinator.com/item?id=49879032</a></p>
+<p>Points: 26</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2110.01834](https://arxiv.org/abs/2110.01834)
+🔗 **Read more:** [https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html](https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html)
 
 ---
 
-### 2. TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14
+### 2. MongoDB CEO resigns "effective immediately" to join Meta, stock drops 20%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://efraingaray.com/en/blog/tabpfn-vs-xgboost/">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872864">https://news.ycombinator.com/item?id=49872864</a></p>
-<p>Points: 21</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879000">https://news.ycombinator.com/item?id=49879000</a></p>
+<p>Points: 17</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://efraingaray.com/en/blog/tabpfn-vs-xgboost/](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
+🔗 **Read more:** [https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
 
 ---
 
-### 3. Owed a billion dollars in Nvidia stock
+### 3. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colo.to/nvidia-stock-narrative.html">https://colo.to/nvidia-stock-narrative.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872723">https://news.ycombinator.com/item?id=49872723</a></p>
-<p>Points: 565</p>
-<p># Comments: 235</p>
+<p>Article URL: <a href="https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49878900">https://news.ycombinator.com/item?id=49878900</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://colo.to/nvidia-stock-narrative.html](https://colo.to/nvidia-stock-narrative.html)
+🔗 **Read more:** [https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
 
 ---
 
@@ -71,68 +71,68 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 5. Police block Protestant Orange Order from controversial parade route
+### 5. Best thing we can offer young people is a job, not benefits, says chancellor
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.
+John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Inside Yemen's front-line city as Houthis battle for control
+### 6. UK diesel price hits all-time high, the RAC says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
+The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Rescuers search for 12 missing after Nepal avalanche kills two
+### 7. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescue teams resume search for missing people after avalanche on Himlung Himal killed two people during severe weather.
+Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss)
 
 ---
 
-### 8. US, China list goods recommended for tariff cuts following Trump-Xi summit
+### 8. SpaceX’s showpiece Starship rocket reaches orbit for first time
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.
+Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss)
 
 ---
 
-### 9. Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?
+### 9. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The country&#039;s early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.
+Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss](https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
 
 ---
 
