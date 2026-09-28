@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 19:11:28
+**Last Update:** 2026-09-28 19:47:22
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jensen Huang says AI distillation is 'competition.'
+### 1. Pirating the Pirates
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879032">https://news.ycombinator.com/item?id=49879032</a></p>
-<p>Points: 26</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">https://mubi.com/en/notebook/posts/pirating-the-pirates</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49880036">https://news.ycombinator.com/item?id=49880036</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html](https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html)
+🔗 **Read more:** [https://mubi.com/en/notebook/posts/pirating-the-pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 
 ---
 
-### 2. MongoDB CEO resigns "effective immediately" to join Meta, stock drops 20%
+### 2. Nvidia wants to put a watchdog chip next to every AI agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879000">https://news.ycombinator.com/item?id=49879000</a></p>
-<p>Points: 17</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/">https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879883">https://news.ycombinator.com/item?id=49879883</a></p>
+<p>Points: 18</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
+🔗 **Read more:** [https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/](https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/)
 
 ---
 
-### 3. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
+### 3. Hijacking the PS5's RTMP Stream
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49878900">https://news.ycombinator.com/item?id=49878900</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/">https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879702">https://news.ycombinator.com/item?id=49879702</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
+🔗 **Read more:** [https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
 
 ---
 
@@ -97,7 +97,33 @@ The US-Israel war with Iran has caused fuel prices to soar due to disruption of 
 
 ---
 
-### 7. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
+### 7. At least 33 killed after Myanmar military air strike hits market
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Dozens of people have been killed in a military air strike on an opposition-controlled area of Rakhine State, Myanmar.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss)
+
+---
+
+### 8. UK pledges tougher stance on Israeli actions in Gaza, West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+British foreign minister vows to &#039;match word with action&#039; when it comes to defending Palestinian rights.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss)
+
+---
+
+### 9. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The US-Israel war with Iran has caused fuel prices to soar due to disruption of 
 Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss)
-
----
-
-### 8. SpaceX’s showpiece Starship rocket reaches orbit for first time
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss)
-
----
-
-### 9. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
 
 ---
 

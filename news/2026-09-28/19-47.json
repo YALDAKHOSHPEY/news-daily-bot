@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T19:47:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pirating the Pirates",
+            "description": "<p>Article URL: <a href=\"https://mubi.com/en/notebook/posts/pirating-the-pirates\">https://mubi.com/en/notebook/posts/pirating-the-pirates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49880036\">https://news.ycombinator.com/item?id=49880036</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+            "published": "Mon, 28 Sep 2026 15:54:15 +0000",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+            "description": "<p>Article URL: <a href=\"https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/\">https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879883\">https://news.ycombinator.com/item?id=49879883</a></p>\n<p>Points: 18</p>\n<p># Comments: 21</p>",
+            "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+            "published": "Mon, 28 Sep 2026 15:46:36 +0000",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hijacking the PS5's RTMP Stream",
+            "description": "<p>Article URL: <a href=\"https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\">https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879702\">https://news.ycombinator.com/item?id=49879702</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+            "published": "Mon, 28 Sep 2026 15:35:23 +0000",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 15:40:24 GMT",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+            "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+            "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 15:37:59 GMT",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK diesel price hits all-time high, the RAC says",
+            "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 10:00:18 GMT",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 33 killed after Myanmar military air strike hits market",
+            "description": "Dozens of people have been killed in a military air strike on an opposition-controlled area of Rakhine State, Myanmar.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 15:38:16 +0000",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+            "description": "British foreign minister vows to &#039;match word with action&#039; when it comes to defending Palestinian rights.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 15:35:21 +0000",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+            "description": "Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 15:29:48 +0000",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T19:47:22+03:30"
+        }
+    ]
+}
