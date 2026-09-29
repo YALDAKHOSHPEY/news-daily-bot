@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 12:45:13
+**Last Update:** 2026-09-29 19:31:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Using any C++ library in Godot
+### 1. macOS Golden Gate Is a Buggy Mess
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html">https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49890051">https://news.ycombinator.com/item?id=49890051</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/">https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49894005">https://news.ycombinator.com/item?id=49894005</a></p>
+<p>Points: 176</p>
+<p># Comments: 115</p>
 
-🔗 **Read more:** [https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
+🔗 **Read more:** [https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
 
 ---
 
-### 2. Firebase SDK is CRASHING ALLLL iOS Apps, since today morning
+### 2. Claude partial outage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/GergelyOrosz/status/2104825886922911981">https://twitter.com/GergelyOrosz/status/2104825886922911981</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49889934">https://news.ycombinator.com/item?id=49889934</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://status.claude.com/incidents/4xvtc2gnq73l">https://status.claude.com/incidents/4xvtc2gnq73l</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49893876">https://news.ycombinator.com/item?id=49893876</a></p>
+<p>Points: 142</p>
+<p># Comments: 104</p>
 
-🔗 **Read more:** [https://twitter.com/GergelyOrosz/status/2104825886922911981](https://twitter.com/GergelyOrosz/status/2104825886922911981)
+🔗 **Read more:** [https://status.claude.com/incidents/4xvtc2gnq73l](https://status.claude.com/incidents/4xvtc2gnq73l)
 
 ---
 
-### 3. Uncensored and Offensive Security AI Models Benchmark
+### 3. Why Doesn't Anyone Want to Fix One of America's Scariest Roads?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/JoasASantos/Offensive-Security-AI-Models">https://github.com/JoasASantos/Offensive-Security-AI-Models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49888937">https://news.ycombinator.com/item?id=49888937</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads">https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49893850">https://news.ycombinator.com/item?id=49893850</a></p>
+<p>Points: 11</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
+🔗 **Read more:** [https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads](https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads)
 
 ---
 
-### 4. OpenAI scraps rollout of new model over safety concerns
+### 4. Watch: How did Burnham's speech go down in the conference hall?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The firm also issued an update on incidents in which its models accessed Australian government systems.
+The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him
+### 5. Rayner announces crackdown on 'cowboy' leasehold property agents
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.
+The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'We don't know where he is': Relatives of the explorer speak to BBC
+### 6. Daniel Sandford on what's next in the RAF Fairford investigation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking to BBC Newsnight, his former sister-in-law told the BBC that she did not know where he was, and nobody had been able to see him.
+BBC correspondent Daniel Sandford explains where the investigation goes from here.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck8d3v9635vvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck8d3v9635vvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UNGA 81: Five key takeaways from general debate
+### 7. ‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 81st United Nations General Assembly ends with AI, Palestine and wars dominating speeches.
+UEFA slams Infantino over his aborted plan to sell off stakes in FIFA competitions to private investors.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss)
 
 ---
 
-### 8. Novak Djokovic ready for tennis comeback at China Open
+### 8. Yemen’s war disrupts roads and ports, deepening humanitarian crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 39-year-old will step back onto the court for a competitive match on Wednesday for the first time since the US Open.
+Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/novak-djokovic-china-open-beijing-tennis-comeback?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/novak-djokovic-china-open-beijing-tennis-comeback?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss)
 
 ---
 
-### 9. Fighting in Ethiopia intensifies: What’s the latest?
+### 9. Ireland undecided on approach for next game against Israel, coach says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Capture of key town could pave the way for federal forces to push towards Tigray&#039;s capital, Mekelle.
+Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss)
 
 ---
 
