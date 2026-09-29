@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 00:25:48
+**Last Update:** 2026-09-30 00:39:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899090">https://news.ycombinator.com/item?id=49899090</a></p>
-<p>Points: 37</p>
-<p># Comments: 24</p>
+<p>Points: 53</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market">https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899051">https://news.ycombinator.com/item?id=49899051</a></p>
-<p>Points: 45</p>
-<p># Comments: 13</p>
+<p>Points: 51</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
 
 ---
 
-### 3. Galaxy Game – Interim Computer Museum
+### 3. AI needs $6T in annual revenue to justify data centre boom
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://icm.museum/blog/?p=698">https://icm.museum/blog/?p=698</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899004">https://news.ycombinator.com/item?id=49899004</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/">https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49898952">https://news.ycombinator.com/item?id=49898952</a></p>
+<p>Points: 142</p>
+<p># Comments: 152</p>
 
-🔗 **Read more:** [https://icm.museum/blog/?p=698](https://icm.museum/blog/?p=698)
+🔗 **Read more:** [https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
 
 ---
 
@@ -97,7 +97,33 @@ The Premier League confirms that Manchester City have been found guilty of all c
 
 ---
 
-### 7. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
+### 7. What we know about RAF Fairford ‘bomb plot’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss)
+
+---
+
+### 8. US sanctions 10 entities for allegedly supporting Iran’s military
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss)
+
+---
+
+### 9. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Premier League confirms that Manchester City have been found guilty of all c
 Trump retaliated against Canada&#039;s counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss)
-
----
-
-### 8. Has Gaza broken the Israel consensus in the US?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss)
-
----
-
-### 9. US troops fully withdraw from Baghdad base after two decades
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Army soldiers have fully withdrawn from the US base in Baghdad.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss)
 
 ---
 
