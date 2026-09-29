@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 05:53:41
+**Last Update:** 2026-09-29 12:17:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. We found 24 Android vulnerabilities using our open source AI security agent
+### 1. Uncensored and Offensive Security AI Models Benchmark
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886609">https://news.ycombinator.com/item?id=49886609</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/JoasASantos/Offensive-Security-AI-Models">https://github.com/JoasASantos/Offensive-Security-AI-Models</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49888937">https://news.ycombinator.com/item?id=49888937</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)
+🔗 **Read more:** [https://github.com/JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="http://www.jimsitu.com">http://www.jimsitu.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886482">https://news.ycombinator.com/item?id=49886482</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
+<p>Points: 96</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [http://www.jimsitu.com](http://www.jimsitu.com)
 
@@ -51,88 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://lolchat.rip/">https://lolchat.rip/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886195">https://news.ycombinator.com/item?id=49886195</a></p>
-<p>Points: 20</p>
-<p># Comments: 11</p>
+<p>Points: 106</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://lolchat.rip/](https://lolchat.rip/)
 
 ---
 
-### 4. Five men arrested in RAF Fairford incident released on police bail
+### 4. OpenAI scraps rollout of new model over safety concerns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Burnham to unveil public body to invest in electricity grid
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. OpenAI scraps rollout of new model over safety concerns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-OpenAI also issued an update on incidents in which its models accessed Australian government systems.
+The firm also issued an update on incidents in which its models accessed Australian government systems.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers
+### 5. Sir Ranulph Fiennes' relatives tell BBC it's 'very painful' not being able to visit him
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hungary&#039;s Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.
+It has been alleged that Sir Ranulph has been admitted to a number of care homes under assumed names.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy7zr6d2lj4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. OpenAI scraps release of latest AI model over safety concerns
+### 6. Lives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
+Baroness Brown says there must be better training and planning, after a record year for wildfires in England and Wales.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Africa’s space ambitions are moving from policy to practice
+### 7. UNGA 81: Five key takeaways from general debate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
+The 81st United Nations General Assembly ends with AI, Palestine and wars dominating speeches.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss)
+
+---
+
+### 8. Novak Djokovic ready for tennis comeback at China Open
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 39-year-old will step back onto the court for a competitive match on Wednesday for the first time since the US Open.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/novak-djokovic-china-open-beijing-tennis-comeback?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/novak-djokovic-china-open-beijing-tennis-comeback?traffic_source=rss)
+
+---
+
+### 9. Fighting in Ethiopia intensifies: What’s the latest?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Capture of key town could pave the way for federal forces to push towards Tigray&#039;s capital, Mekelle.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss)
 
 ---
 
