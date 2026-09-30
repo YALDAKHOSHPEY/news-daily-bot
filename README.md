@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 04:22:24
+**Last Update:** 2026-09-30 09:38:49
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How our vibe coded website looks like a designer made it
+### 1. Tesla takes on $30B in credit as it approaches unprofitability
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://railcode.dev/blog/vibe-coded-website">https://railcode.dev/blog/vibe-coded-website</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901973">https://news.ycombinator.com/item?id=49901973</a></p>
-<p>Points: 50</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/">https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49904408">https://news.ycombinator.com/item?id=49904408</a></p>
+<p>Points: 59</p>
+<p># Comments: 51</p>
 
-🔗 **Read more:** [https://railcode.dev/blog/vibe-coded-website](https://railcode.dev/blog/vibe-coded-website)
+🔗 **Read more:** [https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/)
 
 ---
 
-### 2. Livenerf: Has Opus 5.5 been nerfed yet?
+### 2. PSSA: A non-transformer language model written from scratch in Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ninjahawk/livenerf">https://github.com/ninjahawk/livenerf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901736">https://news.ycombinator.com/item?id=49901736</a></p>
-<p>Points: 150</p>
-<p># Comments: 80</p>
+<p>Article URL: <a href="https://github.com/Sparticle62ops/pssa">https://github.com/Sparticle62ops/pssa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903993">https://news.ycombinator.com/item?id=49903993</a></p>
+<p>Points: 49</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/ninjahawk/livenerf](https://github.com/ninjahawk/livenerf)
+🔗 **Read more:** [https://github.com/Sparticle62ops/pssa](https://github.com/Sparticle62ops/pssa)
 
 ---
 
-### 3. UnoDOS
+### 3. RSS Feeds for Last.fm
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/hmofet/unodos">https://github.com/hmofet/unodos</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901437">https://news.ycombinator.com/item?id=49901437</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://lfm.xiffy.nl/">https://lfm.xiffy.nl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903862">https://news.ycombinator.com/item?id=49903862</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/hmofet/unodos](https://github.com/hmofet/unodos)
+🔗 **Read more:** [https://lfm.xiffy.nl/](https://lfm.xiffy.nl/)
 
 ---
 
-### 4. One of the five men arrested near RAF Fairford called 999 himself
+### 4. Chris Mason: Burnham delivers deeply political speech with a personal core
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Household energy bills forecast to see biggest rise in four years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. One of the five men arrested near RAF Fairford called 999 himself
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ He made the call almost an hour before a farmer also called police after seeing 
 
 ---
 
-### 5. How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham vows to end existing pension triple lock in 2030 to help fund care
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran war live: Trump claims war will end ‘very soon’, gives no details
+### 7. Hegseth to cut number of US general and admiral positions by 20%
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump reiterates that Tehran will not have a nuclear weapon.
+Pentagon official says the plan will be announced in the defence secretary&#039;s &#039;State of the Force&#039; address in Virginia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss)
 
 ---
 
-### 8. Trump says he plans to campaign for 32 days before midterm elections
+### 8. Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.
+Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss)
 
 ---
 
-### 9. ‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza
+### 9. South African president orders action on femicide after killings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.
+South Africa’s President Cyril Ramaphosa has announced new measures to combat femicide and gender-based violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss)
 
 ---
 
