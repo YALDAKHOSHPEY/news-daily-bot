@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 00:39:01
+**Last Update:** 2026-09-30 04:07:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. U.S. postal inspectors shut down website selling counterfeit postage labels
+### 1. How our vibe coded website looks like a designer made it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899090">https://news.ycombinator.com/item?id=49899090</a></p>
-<p>Points: 53</p>
+<p>Article URL: <a href="https://railcode.dev/blog/vibe-coded-website">https://railcode.dev/blog/vibe-coded-website</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901973">https://news.ycombinator.com/item?id=49901973</a></p>
+<p>Points: 48</p>
 <p># Comments: 29</p>
 
-🔗 **Read more:** [https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+🔗 **Read more:** [https://railcode.dev/blog/vibe-coded-website](https://railcode.dev/blog/vibe-coded-website)
 
 ---
 
-### 2. Memory Companies Have Destroyed the Consumer Market
+### 2. Livenerf: Has Opus 5.5 been nerfed yet?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market">https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899051">https://news.ycombinator.com/item?id=49899051</a></p>
-<p>Points: 51</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://github.com/ninjahawk/livenerf">https://github.com/ninjahawk/livenerf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901736">https://news.ycombinator.com/item?id=49901736</a></p>
+<p>Points: 135</p>
+<p># Comments: 73</p>
 
-🔗 **Read more:** [https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
+🔗 **Read more:** [https://github.com/ninjahawk/livenerf](https://github.com/ninjahawk/livenerf)
 
 ---
 
-### 3. AI needs $6T in annual revenue to justify data centre boom
+### 3. UnoDOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/">https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49898952">https://news.ycombinator.com/item?id=49898952</a></p>
-<p>Points: 142</p>
-<p># Comments: 152</p>
+<p>Article URL: <a href="https://github.com/hmofet/unodos">https://github.com/hmofet/unodos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901437">https://news.ycombinator.com/item?id=49901437</a></p>
+<p>Points: 13</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/](https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/)
+🔗 **Read more:** [https://github.com/hmofet/unodos](https://github.com/hmofet/unodos)
 
 ---
 
-### 4. Burnham vows to end existing pension triple lock in 2030 to help fund care
+### 4. One of the five men arrested near RAF Fairford called 999 himself
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+He made the call almost an hour before a farmer also called police after seeing men in balaclavas.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham vows to end existing pension triple lock in 2030 to help fund care
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The PM was at times emotional during his conference speech in which he outlined 
 
 ---
 
-### 5. Chris Mason: Burnham delivers deeply political speech with a personal core
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Man City guilty of 'sham' contracts and misleading accounts
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. What we know about RAF Fairford ‘bomb plot’
+### 7. Iran war live: Trump claims war will end ‘very soon’, gives no details
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.
+US President Donald Trump reiterates that Tehran will not have a nuclear weapon.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss)
 
 ---
 
-### 8. US sanctions 10 entities for allegedly supporting Iran’s military
+### 8. Trump says he plans to campaign for 32 days before midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.
+US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss)
 
 ---
 
-### 9. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
+### 9. ‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump retaliated against Canada&#039;s counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.
+Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss)
 
 ---
 
