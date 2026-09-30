@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 09:38:49
+**Last Update:** 2026-09-30 10:27:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tesla takes on $30B in credit as it approaches unprofitability
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/">https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49904408">https://news.ycombinator.com/item?id=49904408</a></p>
-<p>Points: 59</p>
-<p># Comments: 51</p>
-
-🔗 **Read more:** [https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/)
-
----
-
-### 2. PSSA: A non-transformer language model written from scratch in Rust
+### 1. PSSA: A non-transformer language model written from scratch in Rust
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Sparticle62ops/pssa">https://github.com/Sparticle62ops/pssa</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903993">https://news.ycombinator.com/item?id=49903993</a></p>
-<p>Points: 49</p>
-<p># Comments: 12</p>
+<p>Points: 66</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://github.com/Sparticle62ops/pssa](https://github.com/Sparticle62ops/pssa)
 
 ---
 
-### 3. RSS Feeds for Last.fm
+### 2. RSS Feeds for Last.fm
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://lfm.xiffy.nl/">https://lfm.xiffy.nl/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903862">https://news.ycombinator.com/item?id=49903862</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Points: 36</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://lfm.xiffy.nl/](https://lfm.xiffy.nl/)
+
+---
+
+### 3. Responsible Release of AI-Generated Mathematics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://agmai.org/general-sep29/">https://agmai.org/general-sep29/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903713">https://news.ycombinator.com/item?id=49903713</a></p>
+<p>Points: 33</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://agmai.org/general-sep29/](https://agmai.org/general-sep29/)
 
 ---
 
@@ -97,7 +97,33 @@ He made the call almost an hour before a farmer also called police after seeing 
 
 ---
 
-### 7. Hegseth to cut number of US general and admiral positions by 20%
+### 7. OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+AI giant launches &#039;dots&#039; to rival Meta&#039;s Muse and Google&#039;s Gemini Spark.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss)
+
+---
+
+### 8. India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fearing outright demolition, Muslims volunteer to take down parts of the city&#039;s Shahi Mosque themselves.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss)
+
+---
+
+### 9. Hegseth to cut number of US general and admiral positions by 20%
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ He made the call almost an hour before a farmer also called police after seeing 
 Pentagon official says the plan will be announced in the defence secretary&#039;s &#039;State of the Force&#039; address in Virginia.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss)
-
----
-
-### 8. Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss)
-
----
-
-### 9. South African president orders action on femicide after killings
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-South Africa’s President Cyril Ramaphosa has announced new measures to combat femicide and gender-based violence.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss)
 
 ---
 
