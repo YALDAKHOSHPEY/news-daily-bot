@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 10:27:34
+**Last Update:** 2026-09-30 16:39:30
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. PSSA: A non-transformer language model written from scratch in Rust
+### 1. Most data centers refusing to say how much water, electricity they use
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Sparticle62ops/pssa">https://github.com/Sparticle62ops/pssa</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903993">https://news.ycombinator.com/item?id=49903993</a></p>
-<p>Points: 66</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use">https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49907057">https://news.ycombinator.com/item?id=49907057</a></p>
+<p>Points: 82</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://github.com/Sparticle62ops/pssa](https://github.com/Sparticle62ops/pssa)
+🔗 **Read more:** [https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
 
 ---
 
-### 2. RSS Feeds for Last.fm
+### 2. Pi.dev: You Said No MCP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lfm.xiffy.nl/">https://lfm.xiffy.nl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903862">https://news.ycombinator.com/item?id=49903862</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://earendil.com/posts/you-said-no-mcp/">https://earendil.com/posts/you-said-no-mcp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49906637">https://news.ycombinator.com/item?id=49906637</a></p>
+<p>Points: 215</p>
+<p># Comments: 92</p>
 
-🔗 **Read more:** [https://lfm.xiffy.nl/](https://lfm.xiffy.nl/)
+🔗 **Read more:** [https://earendil.com/posts/you-said-no-mcp/](https://earendil.com/posts/you-said-no-mcp/)
 
 ---
 
-### 3. Responsible Release of AI-Generated Mathematics
+### 3. September 2026: The world today, as seen by one Polish guy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://agmai.org/general-sep29/">https://agmai.org/general-sep29/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903713">https://news.ycombinator.com/item?id=49903713</a></p>
-<p>Points: 33</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/">https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49905487">https://news.ycombinator.com/item?id=49905487</a></p>
+<p>Points: 362</p>
+<p># Comments: 224</p>
 
-🔗 **Read more:** [https://agmai.org/general-sep29/](https://agmai.org/general-sep29/)
+🔗 **Read more:** [https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
 
 ---
 
-### 4. Chris Mason: Burnham delivers deeply political speech with a personal core
+### 4. What we know about the Dubai-Israel plane diversion
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
+The Saudi Arabian airport where the plane was diverted to said the captain and first officer were injured.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Household energy bills forecast to see biggest rise in four years
+### 5. Move to rejoin EU among options for UK, says Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.
+The prime minister tells the BBC the current Brexit settlement has caused "more harm than good".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. One of the five men arrested near RAF Fairford called 999 himself
+### 6. Watch: Detail about new call to police changes RAF Fairford timeline
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He made the call almost an hour before a farmer also called police after seeing men in balaclavas.
+One of five men arrested near RAF Fairford in the early hours of Sunday morning had dialled 999 himself, the BBC understands. BBC's UK correspondent Daniel Sandford explains the timeline of events.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’
+### 7. Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI giant launches &#039;dots&#039; to rival Meta&#039;s Muse and Google&#039;s Gemini Spark.
+At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss)
 
 ---
 
-### 8. India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage
+### 8. Settlers closing in on Ramallah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fearing outright demolition, Muslims volunteer to take down parts of the city&#039;s Shahi Mosque themselves.
+Israeli settlers are encroaching ever closer to Ramallah,  the de facto capital of the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss)
 
 ---
 
-### 9. Hegseth to cut number of US general and admiral positions by 20%
+### 9. Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pentagon official says the plan will be announced in the defence secretary&#039;s &#039;State of the Force&#039; address in Virginia.
+Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Rachel
+### 11. Hurricane Rachel
 
 **Source:** NASA
 
