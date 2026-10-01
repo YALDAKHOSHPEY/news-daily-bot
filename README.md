@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 03:30:46
+**Last Update:** 2026-10-01 05:10:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. EDG C++ Compiler is open source
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/edgcpp/compiler">https://github.com/edgcpp/compiler</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915484">https://news.ycombinator.com/item?id=49915484</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/edgcpp/compiler](https://github.com/edgcpp/compiler)
-
----
-
-### 2. 56k.rip – the 1996 dial-up internet experience
+### 1. 56k.rip – the 1996 dial-up internet experience
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://56k.rip/">https://56k.rip/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915126">https://news.ycombinator.com/item?id=49915126</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 48</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://56k.rip/](https://56k.rip/)
 
 ---
 
-### 3. Automating Wi-Fi setup testing on the ESP32
+### 2. Automating Wi-Fi setup testing on the ESP32
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915119">https://news.ycombinator.com/item?id=49915119</a></p>
-<p>Points: 9</p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
+
+---
+
+### 3. The top secret URSALA, RAQUEL, and FARRAH satellites
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thespacereview.com/article/4951/1">https://www.thespacereview.com/article/4951/1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915082">https://news.ycombinator.com/item?id=49915082</a></p>
+<p>Points: 127</p>
+<p># Comments: 45</p>
+
+🔗 **Read more:** [https://www.thespacereview.com/article/4951/1](https://www.thespacereview.com/article/4951/1)
 
 ---
 
@@ -71,68 +71,68 @@ Rantzen, who fronted the BBC's That's Life for two decades, went on to found Chi
 
 ---
 
-### 5. Dame Esther Rantzen: A presenter who campaigned for change
+### 5. How That's Life! gave Esther Rantzen a career-defining moment
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.
+Sir Nicholas Winton's story became national news when he appeared on That's Life! in February 1988.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US Supreme Court allows execution of Christa Pike to go ahead
+### 6. 'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.
+Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight
+### 7. Iraq celebrates Sovereignty Day as US troops complete withdrawal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight.
+Night time celebrations filled the air as Iraqis observed the start of a four-day holiday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss)
 
 ---
 
-### 8. Pennsylvania confirms fifth measles-associated death as US outbreak grows
+### 8. Passengers tell of ‘nightmare’ onboard diverted Flydubai flight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cases have more than doubled since August as a dispute with federal health officials over the death count continues.
+Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss)
 
 ---
 
-### 9. US judge approves settlement allowing Paramount to acquire Warner Bros
+### 9. Iran parades Shahed drones through capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
+Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss)
 
 ---
 
