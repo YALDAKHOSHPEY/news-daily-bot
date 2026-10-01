@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 17:07:49
+**Last Update:** 2026-10-01 18:41:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes
+### 1. Polyedergarten: Garden of Paper Polyhedron Models
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.polyedergarten.de/e_index.htm">https://www.polyedergarten.de/e_index.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49922594">https://news.ycombinator.com/item?id=49922594</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.polyedergarten.de/e_index.htm](https://www.polyedergarten.de/e_index.htm)
+
+---
+
+### 2. Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/">https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49922278">https://news.ycombinator.com/item?id=49922278</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
+
+---
+
+### 3. Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes
 
 **Source:** Hacker News
 
@@ -19,59 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html">https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49921118">https://news.ycombinator.com/item?id=49921118</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 126</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html)
 
 ---
 
-### 2. An AI sovereign wealth fund isn't progressive – it's techno-imperialism
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243">https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49921051">https://news.ycombinator.com/item?id=49921051</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243](https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)
-
----
-
-### 3. FTC is investigating OpenAI, Anthropic and other AI companies over product risks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html">https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49921050">https://news.ycombinator.com/item?id=49921050</a></p>
-<p>Points: 28</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
-
----
-
-### 4. We fear for our lives after being told our abusive exes will be freed from jail early
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. US death row inmate survives execution attempt after two lethal injections
+### 4. US death row inmate survives execution attempt after two lethal injections
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Killer Christa Pike's lawyer says she is being given "life-saving measures" in h
 
 ---
 
-### 6. What happened in failed execution of Christa Pike - and what next?
+### 5. What happened in failed execution of Christa Pike - and what next?
 
 **Source:** BBC
 
@@ -97,46 +84,59 @@ The convicted killer is in hospital in Tennessee after surviving two lethal inje
 
 ---
 
-### 7. Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault
+### 6. Travelodge failed sex assault victim 'at every stage', review finds
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. HIV prevention drug hailed as breakthrough, but who gets access?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian drone strikes hit a school in Kyiv and the main bridge, disrupting transport in the latest wave of attacks.
+Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss)
 
 ---
 
-### 8. Activists protest Indian police raid over kite-flying event for Palestine
+### 8. UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event.
+UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss)
 
 ---
 
-### 9. Botswana at 60 challenges the story of postcolonial African failure
+### 9. Blasts heard in Addis Ababa as Ethiopia conflict widens in the north
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment.
+Thousands flee Mekelle amid advancing troops and disrupted services as tensions rise in Ethiopia&#039;s northern territories.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Hanna
+### 10. Tropical Storm Choi-wan
 
 **Source:** NASA
 
@@ -145,24 +145,11 @@ Botswana showed that resource wealth need not condemn a country to corruption an
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
 
 ---
 
-### 11. Hurricane Rachel
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875)
-
----
-
-### 12. Wildfire Rafter 4B, Schleicher, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
+
+---
+
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T18:41:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+            "description": "<p>Article URL: <a href=\"https://www.polyedergarten.de/e_index.htm\">https://www.polyedergarten.de/e_index.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922594\">https://news.ycombinator.com/item?id=49922594</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.polyedergarten.de/e_index.htm",
+            "published": "Thu, 01 Oct 2026 15:02:51 +0000",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\">https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922278\">https://news.ycombinator.com/item?id=49922278</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+            "published": "Thu, 01 Oct 2026 14:38:35 +0000",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\">https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49921118\">https://news.ycombinator.com/item?id=49921118</a></p>\n<p>Points: 126</p>\n<p># Comments: 68</p>",
+            "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+            "published": "Thu, 01 Oct 2026 13:05:51 +0000",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US death row inmate survives execution attempt after two lethal injections",
+            "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+            "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 09:59:59 GMT",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What happened in failed execution of Christa Pike - and what next?",
+            "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+            "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 12:51:14 GMT",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge failed sex assault victim 'at every stage', review finds",
+            "description": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
+            "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 11:44:40 GMT",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "HIV prevention drug hailed as breakthrough, but who gets access?",
+            "description": "Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 13:54:50 +0000",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
+            "description": "UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 13:51:58 +0000",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+            "description": "Thousands flee Mekelle amid advancing troops and disrupted services as tensions rise in Ethiopia&#039;s northern territories.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 13:25:54 +0000",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-01T18:41:19+03:30"
+        }
+    ]
+}
