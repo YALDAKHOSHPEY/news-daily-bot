@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 00:09:44
+**Last Update:** 2026-10-02 03:29:12
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pi 1.0
+### 1. Apple's smart home camera reportedly won't record video
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://earendil.com/posts/pi-1-0/">https://earendil.com/posts/pi-1-0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49926069">https://news.ycombinator.com/item?id=49926069</a></p>
-<p>Points: 182</p>
-<p># Comments: 69</p>
-
-🔗 **Read more:** [https://earendil.com/posts/pi-1-0/](https://earendil.com/posts/pi-1-0/)
-
----
-
-### 2. Pi Durable
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earendil.com/posts/pi-durable/">https://earendil.com/posts/pi-durable/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49925969">https://news.ycombinator.com/item?id=49925969</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/">https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928054">https://news.ycombinator.com/item?id=49928054</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://earendil.com/posts/pi-durable/](https://earendil.com/posts/pi-durable/)
+🔗 **Read more:** [https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
 
 ---
 
-### 3. Oxygen-deprived underwater zones may not be "dead zones" but clue to early life
+### 2. 2026 International Utility Locate Rodeo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49925742">https://news.ycombinator.com/item?id=49925742</a></p>
-<p>Points: 30</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://locaterodeo.net/">https://locaterodeo.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927844">https://news.ycombinator.com/item?id=49927844</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
+🔗 **Read more:** [https://locaterodeo.net/](https://locaterodeo.net/)
+
+---
+
+### 3. Aweb – Communication for AI Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://aweb.ai">https://aweb.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927587">https://news.ycombinator.com/item?id=49927587</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://aweb.ai](https://aweb.ai)
 
 ---
 
@@ -71,68 +71,68 @@ The 25-year-old man was arrested in Westminster, London, marking the sixth arres
 
 ---
 
-### 5. Christa Pike in critical condition after surviving two lethal injections, lawyer says
+### 5. Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
+The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'
+### 6. US says Europe should ready fuel supplies as Trump threatens diesel ban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
+President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ICC ends contract with French insurer amid US sanctions threat
+### 7. Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.
+1,439 Palestinians have been killed in Gaza and 5,052 injured since the &#039;ceasefire&#039; began in October 2025.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move
+### 8. Brazilian government calls for probe into US funding of far-right causes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.
+Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss)
 
 ---
 
-### 9. UK Parliament told answers on tax implications are needed in Manchester City ruling
+### 9. 94-year-old Jewish barrister arrested for supporting Palestine Action
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-HM Revenue and Customs (HMRC) has been contacted in the United Kingdom about Man City&#039;s financial breaches.
+A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss)
 
 ---
 
