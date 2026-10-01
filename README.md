@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 18:41:19
+**Last Update:** 2026-10-01 23:09:03
 
 **Total News:** 12
 
@@ -10,129 +10,129 @@
 
 ## 📰 Latest News
 
-### 1. Polyedergarten: Garden of Paper Polyhedron Models
+### 1. Oxygen-deprived underwater zones may not be "dead zones" but clue to early life
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.polyedergarten.de/e_index.htm">https://www.polyedergarten.de/e_index.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49922594">https://news.ycombinator.com/item?id=49922594</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49925742">https://news.ycombinator.com/item?id=49925742</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.polyedergarten.de/e_index.htm](https://www.polyedergarten.de/e_index.htm)
+🔗 **Read more:** [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
 
 ---
 
-### 2. Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones
+### 2. Bez: Generating a browser engine from specs and tests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/">https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49922278">https://news.ycombinator.com/item?id=49922278</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://tangled.org/burrito.space/bez">https://tangled.org/burrito.space/bez</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49925036">https://news.ycombinator.com/item?id=49925036</a></p>
+<p>Points: 23</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/)
+🔗 **Read more:** [https://tangled.org/burrito.space/bez](https://tangled.org/burrito.space/bez)
 
 ---
 
-### 3. Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes
+### 3. SlutCon
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html">https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49921118">https://news.ycombinator.com/item?id=49921118</a></p>
-<p>Points: 126</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://www.thenewcritic.com/p/safe-at-slutcon">https://www.thenewcritic.com/p/safe-at-slutcon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49924354">https://news.ycombinator.com/item?id=49924354</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html)
+🔗 **Read more:** [https://www.thenewcritic.com/p/safe-at-slutcon](https://www.thenewcritic.com/p/safe-at-slutcon)
 
 ---
 
-### 4. US death row inmate survives execution attempt after two lethal injections
+### 4. UK-Iranian dual national arrested over RAF Fairford incident, police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Killer Christa Pike's lawyer says she is being given "life-saving measures" in hospital after two syringes of pentobarbital.
+The 27-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What happened in failed execution of Christa Pike - and what next?
+### 5. Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
+Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Travelodge failed sex assault victim 'at every stage', review finds
+### 6. Christa Pike in critical condition after surviving two lethal injections, lawyer says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.
+Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. HIV prevention drug hailed as breakthrough, but who gets access?
+### 7. After Red Sea losses, Yemen’s government forces hold the line
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all.
+Air strikes and difficult terrain have prevented the Houthis from turning coastal gains into a wider breakthrough.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss)
 
 ---
 
-### 8. UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?
+### 8. Saudi-led coalition says power station attacked in Medina, blames Houthis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.
+At the same time in Yemen, the Saudi-backed government army says it is inflicting heavy losses on the Houthis in Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss)
 
 ---
 
-### 9. Blasts heard in Addis Ababa as Ethiopia conflict widens in the north
+### 9. Canada to fast track oil pipeline meant to diversify economy away from US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands flee Mekelle amid advancing troops and disrupted services as tensions rise in Ethiopia&#039;s northern territories.
+Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss)
 
 ---
 
