@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 09:26:23
+**Last Update:** 2026-10-02 09:55:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Shimano Bicycle Museum Review
+### 1. US tells France and Germany to release diesel stocks or face US export ban
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/">https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930086">https://news.ycombinator.com/item?id=49930086</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/](https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/)
+
+---
+
+### 2. Shimano Bicycle Museum Review
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930047">https://news.ycombinator.com/item?id=49930047</a></p>
-<p>Points: 6</p>
+<p>Points: 15</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://inrng.com/2026/10/shimano-bicycle-museum/](https://inrng.com/2026/10/shimano-bicycle-museum/)
 
 ---
 
-### 2. Meta's Muse is fantastic for web scraping
+### 3. Building reliable (and fast) directory sync
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/">https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929970">https://news.ycombinator.com/item?id=49929970</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.firezone.dev/blog/building-reliable-directory-sync">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929925">https://news.ycombinator.com/item?id=49929925</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
-
----
-
-### 3. DeepSeek Harness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.deepseek.com/en/harness/">https://www.deepseek.com/en/harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929489">https://news.ycombinator.com/item?id=49929489</a></p>
-<p>Points: 87</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://www.deepseek.com/en/harness/](https://www.deepseek.com/en/harness/)
+🔗 **Read more:** [https://www.firezone.dev/blog/building-reliable-directory-sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
 
 ---
 
@@ -97,7 +97,20 @@ The prime minister's comments on Man City were revealing on several levels - and
 
 ---
 
-### 7. How Switzerland lost 20 percent of its ice in five years
+### 7. Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Lin bags her second Asian Games gold medal, three years on from her success in Hangzhou in the 57kg class.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/2/asian-games-aichi-nagoya-2026-boxing-taiwan-lin-yu-ting-gold?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/2/asian-games-aichi-nagoya-2026-boxing-taiwan-lin-yu-ting-gold?traffic_source=rss)
+
+---
+
+### 8. How Switzerland lost 20 percent of its ice in five years
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Swiss glaciers have lost more than 5 percent of their ice, threatening the count
 
 ---
 
-### 8. Nepal avalanche kills at least 15 expedition workers
+### 9. Nepal avalanche kills at least 15 expedition workers
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Swiss glaciers have lost more than 5 percent of their ice, threatening the count
 Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss)
-
----
-
-### 9. Student protests in Chile turn to violent clashes with police
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss)
 
 ---
 
