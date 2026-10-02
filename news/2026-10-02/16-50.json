@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T16:50:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+            "description": "<p>Article URL: <a href=\"https://github.com/kvoltmer/Audionaut\">https://github.com/kvoltmer/Audionaut</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49931031\">https://news.ycombinator.com/item?id=49931031</a></p>\n<p>Points: 51</p>\n<p># Comments: 18</p>",
+            "url": "https://github.com/kvoltmer/Audionaut",
+            "published": "Fri, 02 Oct 2026 08:05:48 +0000",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shimano Bicycle Museum Review",
+            "description": "<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 175</p>\n<p># Comments: 33</p>",
+            "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+            "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek Harness Desktop for macOS and Windows",
+            "description": "<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 285</p>\n<p># Comments: 149</p>",
+            "url": "https://www.deepseek.com/en/harness/",
+            "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+            "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+            "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 09:08:06 GMT",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+            "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "School protests send shivers down French government's spine",
+            "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+            "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
+            "description": "Burning of a Ebola-hit transit camp sends 19,000 fleeing, illustrating the difficulties of controlling epidemic.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 12:56:18 +0000",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sea off Thai island turns green",
+            "description": "The water off Thailand&#039;s Ko Lan island has turned a vibrant shade of green thanks to a plankton bloom.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 12:53:04 +0000",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+            "description": "Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 12:47:30 +0000",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T16:50:21+03:30"
+        }
+    ]
+}

@@ -1,48 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 16:25:45
+**Last Update:** 2026-10-02 16:50:21
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/">https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49932606">https://news.ycombinator.com/item?id=49932606</a></p>
-<p>Points: 26</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/](https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/)
-
----
-
-### 2. European payments groups join forces to challenge US dominance
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/">https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49932383">https://news.ycombinator.com/item?id=49932383</a></p>
-<p>Points: 29</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/](https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/)
-
----
-
-### 3. Show HN: Audionaut – an open-source cross-platform multitrack audio editor
+### 1. Show HN: Audionaut – an open-source cross-platform multitrack audio editor
 
 **Source:** Hacker News
 
@@ -51,10 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/kvoltmer/Audionaut">https://github.com/kvoltmer/Audionaut</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49931031">https://news.ycombinator.com/item?id=49931031</a></p>
-<p>Points: 46</p>
-<p># Comments: 14</p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://github.com/kvoltmer/Audionaut](https://github.com/kvoltmer/Audionaut)
+
+---
+
+### 2. Shimano Bicycle Museum Review
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930047">https://news.ycombinator.com/item?id=49930047</a></p>
+<p>Points: 175</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://inrng.com/2026/10/shimano-bicycle-museum/](https://inrng.com/2026/10/shimano-bicycle-museum/)
+
+---
+
+### 3. DeepSeek Harness Desktop for macOS and Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.deepseek.com/en/harness/">https://www.deepseek.com/en/harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929489">https://news.ycombinator.com/item?id=49929489</a></p>
+<p>Points: 285</p>
+<p># Comments: 149</p>
+
+🔗 **Read more:** [https://www.deepseek.com/en/harness/](https://www.deepseek.com/en/harness/)
 
 ---
 
@@ -84,55 +84,55 @@ He has been hailed a hero for opening the cockpit door, allowing passengers to o
 
 ---
 
-### 6. Man City lodge appeal after being found guilty of breaching financial rules
+### 6. School protests send shivers down French government's spine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The club's statement says the ruling contains "clear material errors, of law, principle and fact, and is unsafe".
+A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Moment mother bear slams into car to protect cub
+### 7. Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This mother bear was not going to let a driver in Japan pass her cub without a warning.
+Burning of a Ebola-hit transit camp sends 19,000 fleeing, illustrating the difficulties of controlling epidemic.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss)
 
 ---
 
-### 8. 12 minutes of madness: How Flydubai pilot, passengers saved plane midfall
+### 8. Sea off Thai island turns green
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.
+The water off Thailand&#039;s Ko Lan island has turned a vibrant shade of green thanks to a plankton bloom.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss)
 
 ---
 
-### 9. Ethiopian gov’t-aligned group claims close to full control of Tigray region
+### 9. Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.
+Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss)
 
 ---
 
