@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 02:10:39
+**Last Update:** 2026-10-03 02:36:29
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,33 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 7. Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
+### 7. Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss)
+
+---
+
+### 8. Why Carney’s economic overhaul is clashing with Canada’s unions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss)
+
+---
+
+### 9. Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss)
-
----
-
-### 8. Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Newly released bodycam footage shows police arresting and searching Luigi Mangione at a McDonald’s in Altoona in 2024.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss)
-
----
-
-### 9. Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Retired General Nitzan Alon says more captives could have returned alive and a deal was possible &#039;maybe a year earlier&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss)
 
 ---
 
