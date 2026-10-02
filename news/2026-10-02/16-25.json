@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T16:25:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/\">https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932606\">https://news.ycombinator.com/item?id=49932606</a></p>\n<p>Points: 26</p>\n<p># Comments: 20</p>",
+            "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
+            "published": "Fri, 02 Oct 2026 12:12:38 +0000",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "European payments groups join forces to challenge US dominance",
+            "description": "<p>Article URL: <a href=\"https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/\">https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932383\">https://news.ycombinator.com/item?id=49932383</a></p>\n<p>Points: 29</p>\n<p># Comments: 36</p>",
+            "url": "https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/",
+            "published": "Fri, 02 Oct 2026 11:39:59 +0000",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+            "description": "<p>Article URL: <a href=\"https://github.com/kvoltmer/Audionaut\">https://github.com/kvoltmer/Audionaut</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49931031\">https://news.ycombinator.com/item?id=49931031</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+            "url": "https://github.com/kvoltmer/Audionaut",
+            "published": "Fri, 02 Oct 2026 08:05:48 +0000",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+            "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+            "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 09:08:06 GMT",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+            "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man City lodge appeal after being found guilty of breaching financial rules",
+            "description": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 08:50:24 GMT",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moment mother bear slams into car to protect cub",
+            "description": "This mother bear was not going to let a driver in Japan pass her cub without a warning.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 12:42:11 +0000",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
+            "description": "As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 12:37:20 +0000",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+            "description": "Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 12:27:52 +0000",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T16:25:45+03:30"
+        }
+    ]
+}
