@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 22:03:55
+**Last Update:** 2026-10-02 22:17:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Leaderboards and speedrun.com's new terms of service
+### 1. What if we stopped using GPUs? [video]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.youtube.com/watch?v=xc2FTBGRSJo">https://www.youtube.com/watch?v=xc2FTBGRSJo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49936671">https://news.ycombinator.com/item?id=49936671</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.youtube.com/watch?v=xc2FTBGRSJo](https://www.youtube.com/watch?v=xc2FTBGRSJo)
+
+---
+
+### 2. Leaderboards and speedrun.com's new terms of service
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://therun.gg/blog/leaderboards-speedruncom">https://therun.gg/blog/leaderboards-speedruncom</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49936641">https://news.ycombinator.com/item?id=49936641</a></p>
-<p>Points: 3</p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://therun.gg/blog/leaderboards-speedruncom](https://therun.gg/blog/leaderboards-speedruncom)
-
----
-
-### 2. ICC judge on what U.S. sanctions mean for her and global courts
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost">https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49935867">https://news.ycombinator.com/item?id=49935867</a></p>
-<p>Points: 147</p>
-<p># Comments: 64</p>
-
-🔗 **Read more:** [https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost)
 
 ---
 
@@ -52,14 +52,27 @@
 <p>Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.<p>Some 2015 coverage of this mission:<p><a href="https://www.americaspace.com/2015/07/25/going-to-spain-30-years-since-the-unlucky-success-of-mission-51f-part-1/" rel="nofollow">https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...</a><p><a href="https://www.americaspace.com/2015/07/26/cola-and-solar-wars-30-years-since-the-unlucky-success-of-mission-51f-part-2/" rel="nofollow">https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49935797">https://news.ycombinator.com/item?id=49935797</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://en.wikipedia.org/wiki/STS-51-F](https://en.wikipedia.org/wiki/STS-51-F)
 
 ---
 
-### 4. Watch: Why has UK diesel price hit an all time high?
+### 4. Widdecombe suspect charged with planning terror act against Farage
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Counter terror police say the further charge comes after a "hugely intensive and complex investigation".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Why has UK diesel price hit an all time high?
 
 **Source:** BBC
 
@@ -72,7 +85,7 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 5. Riot police clash with students as education protests rage in France
+### 6. Riot police clash with students as education protests rage in France
 
 **Source:** BBC
 
@@ -82,19 +95,6 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 More than 600 schools have faced disruption as protests over standards and lack of teachers continue.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Intensified Russian strikes are tearing Kyiv apart, warns mayor
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation" as Russia hits critical infrastructure.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
