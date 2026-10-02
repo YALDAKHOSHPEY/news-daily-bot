@@ -1,142 +1,143 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 16:50:21
+**Last Update:** 2026-10-02 22:03:55
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Audionaut – an open-source cross-platform multitrack audio editor
+### 1. Leaderboards and speedrun.com's new terms of service
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kvoltmer/Audionaut">https://github.com/kvoltmer/Audionaut</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49931031">https://news.ycombinator.com/item?id=49931031</a></p>
-<p>Points: 51</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://therun.gg/blog/leaderboards-speedruncom">https://therun.gg/blog/leaderboards-speedruncom</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49936641">https://news.ycombinator.com/item?id=49936641</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/kvoltmer/Audionaut](https://github.com/kvoltmer/Audionaut)
+🔗 **Read more:** [https://therun.gg/blog/leaderboards-speedruncom](https://therun.gg/blog/leaderboards-speedruncom)
 
 ---
 
-### 2. Shimano Bicycle Museum Review
+### 2. ICC judge on what U.S. sanctions mean for her and global courts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930047">https://news.ycombinator.com/item?id=49930047</a></p>
-<p>Points: 175</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost">https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49935867">https://news.ycombinator.com/item?id=49935867</a></p>
+<p>Points: 147</p>
+<p># Comments: 64</p>
 
-🔗 **Read more:** [https://inrng.com/2026/10/shimano-bicycle-museum/](https://inrng.com/2026/10/shimano-bicycle-museum/)
+🔗 **Read more:** [https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost)
 
 ---
 
-### 3. DeepSeek Harness Desktop for macOS and Windows
+### 3. STS-51-F Abort-to-Orbit (1985)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.deepseek.com/en/harness/">https://www.deepseek.com/en/harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929489">https://news.ycombinator.com/item?id=49929489</a></p>
-<p>Points: 285</p>
-<p># Comments: 149</p>
+<p>Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.<p>Some 2015 coverage of this mission:<p><a href="https://www.americaspace.com/2015/07/25/going-to-spain-30-years-since-the-unlucky-success-of-mission-51f-part-1/" rel="nofollow">https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...</a><p><a href="https://www.americaspace.com/2015/07/26/cola-and-solar-wars-30-years-since-the-unlucky-success-of-mission-51f-part-2/" rel="nofollow">https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49935797">https://news.ycombinator.com/item?id=49935797</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.deepseek.com/en/harness/](https://www.deepseek.com/en/harness/)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/STS-51-F](https://en.wikipedia.org/wiki/STS-51-F)
 
 ---
 
-### 4. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+### 4. Watch: Why has UK diesel price hit an all time high?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
+Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Emotional pilot recounts moment of Flydubai attack
+### 5. Riot police clash with students as education protests rage in France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.
+More than 600 schools have faced disruption as protests over standards and lack of teachers continue.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. School protests send shivers down French government's spine
+### 6. Intensified Russian strikes are tearing Kyiv apart, warns mayor
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.
+Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation" as Russia hits critical infrastructure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak
+### 7. Israeli barrier cuts off water to West Bank Palestinians before elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Burning of a Ebola-hit transit camp sends 19,000 fleeing, illustrating the difficulties of controlling epidemic.
+Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss)
 
 ---
 
-### 8. Sea off Thai island turns green
+### 8. Israel’s Supreme Court overturns election panel ban on Arab parties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The water off Thailand&#039;s Ko Lan island has turned a vibrant shade of green thanks to a plankton bloom.
+Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-thailand-plankton-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss)
 
 ---
 
-### 9. Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock
+### 9. ‘I want the truth’: NY governor appoints prosecutor in Cornell rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.
+New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Choi-wan
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
