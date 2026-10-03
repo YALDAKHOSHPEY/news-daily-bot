@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 05:02:53
+**Last Update:** 2026-10-03 05:39:11
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Where Is the Planet
+### 1. Show HN: Google Maps Scraper MCP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://whereistheplanet.com">http://whereistheplanet.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940233">https://news.ycombinator.com/item?id=49940233</a></p>
-<p>Points: 4</p>
+<p>Connect your AI agent to synchronous business search and structured listing data through one secure MCP connection.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940653">https://news.ycombinator.com/item?id=49940653</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [http://whereistheplanet.com](http://whereistheplanet.com)
+🔗 **Read more:** [https://gmapscrawl.com/google-maps-scraper-mcp](https://gmapscrawl.com/google-maps-scraper-mcp)
 
 ---
 
-### 2. Things That Apparently Cause Cancer
+### 2. Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer">https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940219">https://news.ycombinator.com/item?id=49940219</a></p>
+<p>Article URL: <a href="https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821">https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940505">https://news.ycombinator.com/item?id=49940505</a></p>
+<p>Points: 23</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821](https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821)
+
+---
+
+### 3. NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf">https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940467">https://news.ycombinator.com/item?id=49940467</a></p>
 <p>Points: 10</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
-
----
-
-### 3. Open-sourcing AstaBrief, the fast report-generation model in Asta
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://allenai.org/blog/astabrief">https://allenai.org/blog/astabrief</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938783">https://news.ycombinator.com/item?id=49938783</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://allenai.org/blog/astabrief](https://allenai.org/blog/astabrief)
+🔗 **Read more:** [https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
 
 ---
 
@@ -78,7 +79,7 @@ Counter terror police say the further charge comes after a "hugely intensive and
 **Category:** world
 
 **Description:**
-The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +98,33 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 7. US and Australia suspend diplomatic operations in Brazil before election
+### 7. India vs Pakistan live: Asian Games cricket final
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss)
+
+---
+
+### 8. Schools ablaze as student protests spread across France
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Students have set fire to schools and clashed with police as protests spread across France
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss)
+
+---
+
+### 9. US and Australia suspend diplomatic operations in Brazil before election
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss)
-
----
-
-### 8. Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss)
-
----
-
-### 9. North Korea fires ballistic missile towards the sea, South Korea says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea&#039;s military says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss)
 
 ---
 
