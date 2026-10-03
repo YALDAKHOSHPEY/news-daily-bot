@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 11:52:19
+**Last Update:** 2026-10-03 16:20:46
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Understanding Frontier Artificial Intelligence
+### 1. Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://casp.ac/reports/intelligence-explosion">https://casp.ac/reports/intelligence-explosion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942002">https://news.ycombinator.com/item?id=49942002</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943524">https://news.ycombinator.com/item?id=49943524</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://casp.ac/reports/intelligence-explosion](https://casp.ac/reports/intelligence-explosion)
+🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
 
 ---
 
-### 2. An Update on Orion for Linux and Windows
+### 2. Show HN: Germany's new sovereign AI model Kolibri
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.kagi.com/update-orion-linux-windows">https://blog.kagi.com/update-orion-linux-windows</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941447">https://news.ycombinator.com/item?id=49941447</a></p>
-<p>Points: 28</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://tej.as/blog/aleph-alpha-kolibri">https://tej.as/blog/aleph-alpha-kolibri</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943034">https://news.ycombinator.com/item?id=49943034</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.kagi.com/update-orion-linux-windows](https://blog.kagi.com/update-orion-linux-windows)
+🔗 **Read more:** [https://tej.as/blog/aleph-alpha-kolibri](https://tej.as/blog/aleph-alpha-kolibri)
 
 ---
 
-### 3. Extra Big Ass Intelligence
+### 3. GitHub's new dashboard experience now the default
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.extrabigassintelligence.com/">https://www.extrabigassintelligence.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941114">https://news.ycombinator.com/item?id=49941114</a></p>
-<p>Points: 232</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942818">https://news.ycombinator.com/item?id=49942818</a></p>
+<p>Points: 39</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://www.extrabigassintelligence.com/](https://www.extrabigassintelligence.com/)
+🔗 **Read more:** [https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
 
 ---
 
-### 4. Widdecombe suspect charged with planning terror act against Farage
+### 4. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Counter terror police say the further charge comes after a "hugely intensive and complex investigation".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Flydubai co-pilot attacked captain with axe, UAE official says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.
+The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russia strikes second major bridge in Kyiv, mayor says
+### 5. UK-Iranian dual national arrested over RAF Fairford released on bail
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.
+The 25-year-old man was arrested in the London borough of Westminster on Thursday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Man City whistleblower Pinto to lose witness protection amid death threats
+### 6. Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. South Africa’s Pretorius smashes Gayle’s T20 cricket record score
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pinto says he will go into hiding for an indefinite period following the Premier League&#039;s guilty verdict against City.
+South African Lhuan-dre Pretorius hit 50 in 24 balls, needed 16 more to reach 100 and took another 18 to hit 150.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss)
 
 ---
 
-### 8. Bosnian Serb leader says Bosnia is ‘dead’ ahead of election
+### 8. Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.
+Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Israeli air attack on residential apartment in Gaza kills 5 Palestinians
+### 9. World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.
+Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss)
 
 ---
 

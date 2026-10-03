@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T16:20:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack\">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943524\">https://news.ycombinator.com/item?id=49943524</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+            "published": "Sat, 03 Oct 2026 12:02:10 +0000",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Germany's new sovereign AI model Kolibri",
+            "description": "<p>Article URL: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://tej.as/blog/aleph-alpha-kolibri",
+            "published": "Sat, 03 Oct 2026 10:43:51 +0000",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub's new dashboard experience now the default",
+            "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/\">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942818\">https://news.ycombinator.com/item?id=49942818</a></p>\n<p>Points: 39</p>\n<p># Comments: 49</p>",
+            "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+            "published": "Sat, 03 Oct 2026 09:59:01 +0000",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 11:20:21 GMT",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+            "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+            "description": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:27:57 GMT",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Africa’s Pretorius smashes Gayle’s T20 cricket record score",
+            "description": "South African Lhuan-dre Pretorius hit 50 in 24 balls, needed 16 more to reach 100 and took another 18 to hit 150.",
+            "url": "https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 12:19:29 +0000",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+            "description": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 12:18:24 +0000",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
+            "description": "Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
+            "url": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 11:51:22 +0000",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T16:20:46+03:30"
+        }
+    ]
+}
