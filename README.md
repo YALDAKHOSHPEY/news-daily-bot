@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 10:46:22
+**Last Update:** 2026-10-03 11:52:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. An Update on Orion for Linux and Windows
+### 1. Understanding Frontier Artificial Intelligence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://casp.ac/reports/intelligence-explosion">https://casp.ac/reports/intelligence-explosion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942002">https://news.ycombinator.com/item?id=49942002</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://casp.ac/reports/intelligence-explosion](https://casp.ac/reports/intelligence-explosion)
+
+---
+
+### 2. An Update on Orion for Linux and Windows
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.kagi.com/update-orion-linux-windows">https://blog.kagi.com/update-orion-linux-windows</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941447">https://news.ycombinator.com/item?id=49941447</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://blog.kagi.com/update-orion-linux-windows](https://blog.kagi.com/update-orion-linux-windows)
 
 ---
 
-### 2. Extra Big Ass Intelligence
+### 3. Extra Big Ass Intelligence
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.extrabigassintelligence.com/">https://www.extrabigassintelligence.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941114">https://news.ycombinator.com/item?id=49941114</a></p>
-<p>Points: 142</p>
-<p># Comments: 31</p>
+<p>Points: 232</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://www.extrabigassintelligence.com/](https://www.extrabigassintelligence.com/)
-
----
-
-### 3. Cloudflare OHTTP gateway
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941091">https://news.ycombinator.com/item?id=49941091</a></p>
-<p>Points: 54</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 
 ---
 
@@ -71,68 +71,68 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 5. Russia strikes second major bridge in Kyiv, mayor says
+### 5. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.
+The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Russia strikes second major bridge in Kyiv, mayor says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. G7 to release millions of barrels of oil and diesel after Trump threat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium
+### 7. Man City whistleblower Pinto to lose witness protection amid death threats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US singer Zach Bryan wore a ‘Free Palestine’ shirt while performing at Gillette Stadium, owned by Robert Kraft.
+Pinto says he will go into hiding for an indefinite period following the Premier League&#039;s guilty verdict against City.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss)
 
 ---
 
-### 8. ‘Trauma still there’: A decades-old standoff returns to Northern Ireland
+### 8. Bosnian Serb leader says Bosnia is ‘dead’ ahead of election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.
+Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss)
 
 ---
 
-### 9. India vs Pakistan live: Asian Games cricket final
+### 9. Israeli air attack on residential apartment in Gaza kills 5 Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.
+An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss)
 
 ---
 
