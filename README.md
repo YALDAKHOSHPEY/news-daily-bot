@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 16:20:46
+**Last Update:** 2026-10-03 17:03:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -26,7 +26,23 @@
 
 ---
 
-### 2. Show HN: Germany's new sovereign AI model Kolibri
+### 2. The Escalation of War in Ethiopia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia">https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943451">https://news.ycombinator.com/item?id=49943451</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+
+---
+
+### 3. Show HN: Germany's new sovereign AI model Kolibri
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://tej.as/blog/aleph-alpha-kolibri">https://tej.as/blog/aleph-alpha-kolibri</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943034">https://news.ycombinator.com/item?id=49943034</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 59</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://tej.as/blog/aleph-alpha-kolibri](https://tej.as/blog/aleph-alpha-kolibri)
-
----
-
-### 3. GitHub's new dashboard experience now the default
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49942818">https://news.ycombinator.com/item?id=49942818</a></p>
-<p>Points: 39</p>
-<p># Comments: 49</p>
-
-🔗 **Read more:** [https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
 
 ---
 
@@ -97,42 +97,42 @@ The Conservative leader is expected to set out a return to core conservative pri
 
 ---
 
-### 7. South Africa’s Pretorius smashes Gayle’s T20 cricket record score
+### 7. LIVE: Croatia vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South African Lhuan-dre Pretorius hit 50 in 24 balls, needed 16 more to reach 100 and took another 18 to hit 150.
+Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 8. Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters
+### 8. Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.
+Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss)
 
 ---
 
-### 9. World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers
+### 9. French high school engulfed in flames as student protests continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.
+A French high school in Metz went up in flames as student protests over school conditions spread across the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss)
 
 ---
 
