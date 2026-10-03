@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 23:05:26
+**Last Update:** 2026-10-04 01:05:15
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. ADHD, autism or complex trauma? [pdf]
+### 1. We want you to build the next Git platform on Cloudflare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946403">https://news.ycombinator.com/item?id=49946403</a></p>
-<p>Points: 121</p>
-<p># Comments: 74</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947051">https://news.ycombinator.com/item?id=49947051</a></p>
+<p>Points: 53</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
+🔗 **Read more:** [https://blog.cloudflare.com/next-git-platform-on-cloudflare/](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
 
 ---
 
-### 2. Hole Punch: Sling your spaceship around gravitational fields
+### 2. Anthropic tried to persuade Pope that AI could be conscious being
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notoriousbfg.com/hole-punch/">https://notoriousbfg.com/hole-punch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946393">https://news.ycombinator.com/item?id=49946393</a></p>
-<p>Points: 30</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947050">https://news.ycombinator.com/item?id=49947050</a></p>
+<p>Points: 33</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://notoriousbfg.com/hole-punch/](https://notoriousbfg.com/hole-punch/)
+🔗 **Read more:** [https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
 
 ---
 
-### 3. Pop!_OS bans AI-generated code from much of its codebase
+### 3. Our AI Midwife
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/">https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946321">https://news.ycombinator.com/item?id=49946321</a></p>
-<p>Points: 41</p>
+<p>Article URL: <a href="https://www.astralcodexten.com/p/our-ai-midwife">https://www.astralcodexten.com/p/our-ai-midwife</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946873">https://news.ycombinator.com/item?id=49946873</a></p>
+<p>Points: 46</p>
 <p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/)
+🔗 **Read more:** [https://www.astralcodexten.com/p/our-ai-midwife](https://www.astralcodexten.com/p/our-ai-midwife)
 
 ---
 
@@ -71,7 +71,20 @@ The man accused of trying to take over the Israel-bound jet is named as Hamam al
 
 ---
 
-### 5. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Party leader Kemi Badenoch tells the BBC that she wants to see "people who work harder" not getting punished for doing so.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 6. Tennessee prison chief to resign after Christa Pike's failed execution
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Is the CJP changing India’s political landscape?
+### 7. Israeli settlers attack Palestinian farmers during olive harvest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youth-led movement demands resignation of chief election commissioner.
+Israeli settlers attack Palestinian farmers during olive harvest
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss](https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera speaks to Palestinian schoolboy from viral photograph
+### 8. Fernandes denies Portugal rift, hails Ronaldo after walk out
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.
+Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss)
 
 ---
 
-### 9. Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game
+### 9. Trump ramps up pressure on US Republicans to end US clock switching
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team&#039;s &#039;greatest symbol&#039;.
+The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss)
 
 ---
 
