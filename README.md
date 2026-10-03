@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 20:21:44
+**Last Update:** 2026-10-03 21:34:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. City building games have a Soul Problem pt.2
+### 1. RetailReady (YC W24) Is Hiring
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945904">https://news.ycombinator.com/item?id=49945904</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+
+---
+
+### 2. City building games have a Soul Problem pt.2
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945323">https://news.ycombinator.com/item?id=49945323</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
+<p>Points: 77</p>
+<p># Comments: 68</p>
 
 🔗 **Read more:** [https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
 
 ---
 
-### 2. FTL: A new operating system for clouds
+### 3. FTL: A new operating system for clouds
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ftl-os.org/">https://ftl-os.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49944912">https://news.ycombinator.com/item?id=49944912</a></p>
-<p>Points: 33</p>
-<p># Comments: 11</p>
+<p>Points: 62</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://ftl-os.org/](https://ftl-os.org/)
-
----
-
-### 3. US killer's sentence quashed because of AI video of victim shown in court
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cwgkvygg5nzvo">https://www.bbc.com/news/articles/cwgkvygg5nzvo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49944127">https://news.ycombinator.com/item?id=49944127</a></p>
-<p>Points: 48</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cwgkvygg5nzvo](https://www.bbc.com/news/articles/cwgkvygg5nzvo)
 
 ---
 
@@ -97,7 +97,33 @@ The Conservative leader is expected to set out a return to core conservative pri
 
 ---
 
-### 7. Somalia won’t accept Israeli presence ‘under any circumstances’: President
+### 7. Tennessee prisons official resigns after Christa Pike’s failed US execution
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The state&#039;s governor said Frank Strada would step down as an independent review examines what went wrong.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss)
+
+---
+
+### 8. Israeli reporter’s ‘verbal attack’ ends Ireland football news conference
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland&#039;s players.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss)
+
+---
+
+### 9. Somalia won’t accept Israeli presence ‘under any circumstances’: President
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Conservative leader is expected to set out a return to core conservative pri
 In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss)
-
----
-
-### 8. Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss)
-
----
-
-### 9. Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss)
 
 ---
 
