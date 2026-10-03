@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 01:05:15
+**Last Update:** 2026-10-04 02:01:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. We want you to build the next Git platform on Cloudflare
+### 1. Federal judge calls Flock 'indiscriminate mass surveillance'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947051">https://news.ycombinator.com/item?id=49947051</a></p>
-<p>Points: 53</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/">https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948254">https://news.ycombinator.com/item?id=49948254</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/next-git-platform-on-cloudflare/](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+🔗 **Read more:** [https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
 
 ---
 
-### 2. Anthropic tried to persuade Pope that AI could be conscious being
+### 2. Reasons I didn't become an EMT, ranked
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947050">https://news.ycombinator.com/item?id=49947050</a></p>
-<p>Points: 33</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://ben.stolovitz.com/posts/reasons-not-emt-ranked/">https://ben.stolovitz.com/posts/reasons-not-emt-ranked/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947631">https://news.ycombinator.com/item?id=49947631</a></p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
+🔗 **Read more:** [https://ben.stolovitz.com/posts/reasons-not-emt-ranked/](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
 
 ---
 
-### 3. Our AI Midwife
+### 3. Surely you have ultra-wideband radios on your bins too?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.astralcodexten.com/p/our-ai-midwife">https://www.astralcodexten.com/p/our-ai-midwife</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946873">https://news.ycombinator.com/item?id=49946873</a></p>
-<p>Points: 46</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/">https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947472">https://news.ycombinator.com/item?id=49947472</a></p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.astralcodexten.com/p/our-ai-midwife](https://www.astralcodexten.com/p/our-ai-midwife)
+🔗 **Read more:** [https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
 
 ---
 
