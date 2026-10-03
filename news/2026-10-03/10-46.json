@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T10:46:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Update on Orion for Linux and Windows",
+            "description": "<p>Article URL: <a href=\"https://blog.kagi.com/update-orion-linux-windows\">https://blog.kagi.com/update-orion-linux-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941447\">https://news.ycombinator.com/item?id=49941447</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.kagi.com/update-orion-linux-windows",
+            "published": "Sat, 03 Oct 2026 04:53:57 +0000",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Extra Big Ass Intelligence",
+            "description": "<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 142</p>\n<p># Comments: 31</p>",
+            "url": "https://www.extrabigassintelligence.com/",
+            "published": "Sat, 03 Oct 2026 03:19:10 +0000",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloudflare OHTTP gateway",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941091\">https://news.ycombinator.com/item?id=49941091</a></p>\n<p>Points: 54</p>\n<p># Comments: 11</p>",
+            "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+            "published": "Sat, 03 Oct 2026 03:15:05 +0000",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia strikes second major bridge in Kyiv, mayor says",
+            "description": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+            "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 06:27:15 GMT",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+            "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 04:38:31 GMT",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+            "description": "US singer Zach Bryan wore a ‘Free Palestine’ shirt while performing at Gillette Stadium, owned by Robert Kraft.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 06:53:09 +0000",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+            "description": "Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 06:51:09 +0000",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India vs Pakistan live: Asian Games cricket final",
+            "description": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 06:37:31 +0000",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T10:46:22+03:30"
+        }
+    ]
+}

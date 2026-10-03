@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 05:39:11
+**Last Update:** 2026-10-03 10:46:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Google Maps Scraper MCP
+### 1. An Update on Orion for Linux and Windows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Connect your AI agent to synchronous business search and structured listing data through one secure MCP connection.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940653">https://news.ycombinator.com/item?id=49940653</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.kagi.com/update-orion-linux-windows">https://blog.kagi.com/update-orion-linux-windows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941447">https://news.ycombinator.com/item?id=49941447</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://gmapscrawl.com/google-maps-scraper-mcp](https://gmapscrawl.com/google-maps-scraper-mcp)
+🔗 **Read more:** [https://blog.kagi.com/update-orion-linux-windows](https://blog.kagi.com/update-orion-linux-windows)
 
 ---
 
-### 2. Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble
+### 2. Extra Big Ass Intelligence
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821">https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940505">https://news.ycombinator.com/item?id=49940505</a></p>
-<p>Points: 23</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.extrabigassintelligence.com/">https://www.extrabigassintelligence.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941114">https://news.ycombinator.com/item?id=49941114</a></p>
+<p>Points: 142</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821](https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821)
+🔗 **Read more:** [https://www.extrabigassintelligence.com/](https://www.extrabigassintelligence.com/)
 
 ---
 
-### 3. NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]
+### 3. Cloudflare OHTTP gateway
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf">https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940467">https://news.ycombinator.com/item?id=49940467</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941091">https://news.ycombinator.com/item?id=49941091</a></p>
+<p>Points: 54</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
+🔗 **Read more:** [https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 
 ---
 
@@ -72,7 +71,20 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 5. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+### 5. Russia strikes second major bridge in Kyiv, mayor says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. G7 to release millions of barrels of oil and diesel after Trump threat
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The co-ordinated release is aimed at heading off further price spikes and avoidi
 
 ---
 
-### 6. Watch: Why has UK diesel price hit an all time high?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. India vs Pakistan live: Asian Games cricket final
+### 7. Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.
+US singer Zach Bryan wore a ‘Free Palestine’ shirt while performing at Gillette Stadium, owned by Robert Kraft.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss)
+
+---
+
+### 8. ‘Trauma still there’: A decades-old standoff returns to Northern Ireland
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families who lived through one of the Troubles’ worst flashpoints fear its legacy is reaching another generation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss)
+
+---
+
+### 9. India vs Pakistan live: Asian Games cricket final
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss)
-
----
-
-### 8. Schools ablaze as student protests spread across France
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Students have set fire to schools and clashed with police as protests spread across France
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss)
-
----
-
-### 9. US and Australia suspend diplomatic operations in Brazil before election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss)
 
 ---
 
