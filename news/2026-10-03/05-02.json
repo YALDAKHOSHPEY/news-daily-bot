@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T05:02:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Where Is the Planet",
+            "description": "<p>Article URL: <a href=\"http://whereistheplanet.com\">http://whereistheplanet.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940233\">https://news.ycombinator.com/item?id=49940233</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "http://whereistheplanet.com",
+            "published": "Sat, 03 Oct 2026 00:26:19 +0000",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Things That Apparently Cause Cancer",
+            "description": "<p>Article URL: <a href=\"https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\">https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940219\">https://news.ycombinator.com/item?id=49940219</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+            "published": "Sat, 03 Oct 2026 00:23:11 +0000",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+            "description": "<p>Article URL: <a href=\"https://allenai.org/blog/astabrief\">https://allenai.org/blog/astabrief</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938783\">https://news.ycombinator.com/item?id=49938783</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://allenai.org/blog/astabrief",
+            "published": "Fri, 02 Oct 2026 21:25:25 +0000",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+            "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 20:25:19 GMT",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has UK diesel price hit an all time high?",
+            "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+            "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Australia suspend diplomatic operations in Brazil before election",
+            "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 00:46:10 +0000",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+            "description": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+            "description": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea&#039;s military says.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 23:55:24 +0000",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T05:02:53+03:30"
+        }
+    ]
+}

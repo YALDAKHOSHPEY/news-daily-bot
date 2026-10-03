@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 02:36:29
+**Last Update:** 2026-10-03 05:02:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open-sourcing AstaBrief, the fast report-generation model in Asta
+### 1. Where Is the Planet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://whereistheplanet.com">http://whereistheplanet.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940233">https://news.ycombinator.com/item?id=49940233</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://whereistheplanet.com](http://whereistheplanet.com)
+
+---
+
+### 2. Things That Apparently Cause Cancer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer">https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49940219">https://news.ycombinator.com/item?id=49940219</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
+
+---
+
+### 3. Open-sourcing AstaBrief, the fast report-generation model in Asta
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://allenai.org/blog/astabrief">https://allenai.org/blog/astabrief</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938783">https://news.ycombinator.com/item?id=49938783</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://allenai.org/blog/astabrief](https://allenai.org/blog/astabrief)
-
----
-
-### 2. The Harness Is the Company
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.sshh.io/p/the-harness-is-the-company">https://blog.sshh.io/p/the-harness-is-the-company</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938616">https://news.ycombinator.com/item?id=49938616</a></p>
-<p>Points: 29</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://blog.sshh.io/p/the-harness-is-the-company](https://blog.sshh.io/p/the-harness-is-the-company)
-
----
-
-### 3. Zig v0.17.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ziglang.org/download/0.17.0/release-notes.html">https://ziglang.org/download/0.17.0/release-notes.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938521">https://news.ycombinator.com/item?id=49938521</a></p>
-<p>Points: 137</p>
-<p># Comments: 65</p>
-
-🔗 **Read more:** [https://ziglang.org/download/0.17.0/release-notes.html](https://ziglang.org/download/0.17.0/release-notes.html)
 
 ---
 
@@ -97,42 +97,42 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 7. Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
+### 7. US and Australia suspend diplomatic operations in Brazil before election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.
+Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss)
 
 ---
 
-### 8. Why Carney’s economic overhaul is clashing with Canada’s unions
+### 8. Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.
+Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss)
 
 ---
 
-### 9. Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
+### 9. North Korea fires ballistic missile towards the sea, South Korea says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.
+A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea&#039;s military says.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss)
 
 ---
 
