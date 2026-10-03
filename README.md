@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 21:34:37
+**Last Update:** 2026-10-03 23:05:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. RetailReady (YC W24) Is Hiring
+### 1. ADHD, autism or complex trauma? [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945904">https://news.ycombinator.com/item?id=49945904</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946403">https://news.ycombinator.com/item?id=49946403</a></p>
+<p>Points: 121</p>
+<p># Comments: 74</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
+🔗 **Read more:** [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf)
 
 ---
 
-### 2. City building games have a Soul Problem pt.2
+### 2. Hole Punch: Sling your spaceship around gravitational fields
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945323">https://news.ycombinator.com/item?id=49945323</a></p>
-<p>Points: 77</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://notoriousbfg.com/hole-punch/">https://notoriousbfg.com/hole-punch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946393">https://news.ycombinator.com/item?id=49946393</a></p>
+<p>Points: 30</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
+🔗 **Read more:** [https://notoriousbfg.com/hole-punch/](https://notoriousbfg.com/hole-punch/)
 
 ---
 
-### 3. FTL: A new operating system for clouds
+### 3. Pop!_OS bans AI-generated code from much of its codebase
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ftl-os.org/">https://ftl-os.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49944912">https://news.ycombinator.com/item?id=49944912</a></p>
-<p>Points: 62</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/">https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946321">https://news.ycombinator.com/item?id=49946321</a></p>
+<p>Points: 41</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://ftl-os.org/](https://ftl-os.org/)
+🔗 **Read more:** [https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/)
 
 ---
 
@@ -84,55 +84,55 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 6. Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage
+### 6. Tennessee prison chief to resign after Christa Pike's failed execution
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.
+Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tennessee prisons official resigns after Christa Pike’s failed US execution
+### 7. Is the CJP changing India’s political landscape?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The state&#039;s governor said Frank Strada would step down as an independent review examines what went wrong.
+Youth-led movement demands resignation of chief election commissioner.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss)
 
 ---
 
-### 8. Israeli reporter’s ‘verbal attack’ ends Ireland football news conference
+### 8. Al Jazeera speaks to Palestinian schoolboy from viral photograph
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland&#039;s players.
+A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss)
 
 ---
 
-### 9. Somalia won’t accept Israeli presence ‘under any circumstances’: President
+### 9. Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.
+Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team&#039;s &#039;greatest symbol&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss)
 
 ---
 
