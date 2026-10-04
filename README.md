@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 12:06:46
+**Last Update:** 2026-10-04 12:27:34
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why don't more developers “use the platform”?
+### 1. In Ukraine, distributed renewables foil Russia's assaults
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951881">https://news.ycombinator.com/item?id=49951881</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
+
+---
+
+### 2. UK Government Body Kept Files on People Criticizing Prevent Program
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics">https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951139">https://news.ycombinator.com/item?id=49951139</a></p>
+<p>Points: 25</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics](https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics)
+
+---
+
+### 3. Why don't more developers “use the platform”?
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
-<p>Points: 103</p>
-<p># Comments: 70</p>
+<p>Points: 118</p>
+<p># Comments: 79</p>
 
 🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-
----
-
-### 2. Religious scholars met with Anthropic
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.is/y8FW0" rel="nofollow">https://archive.is/y8FW0</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950052">https://news.ycombinator.com/item?id=49950052</a></p>
-<p>Points: 65</p>
-<p># Comments: 107</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
-
----
-
-### 3. We're working on a new RuneScape MMO
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://play.runescape.com/4">https://play.runescape.com/4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949588">https://news.ycombinator.com/item?id=49949588</a></p>
-<p>Points: 48</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://play.runescape.com/4](https://play.runescape.com/4)
 
 ---
 
@@ -98,7 +97,20 @@ Michael Kotlikoff described the allegations of a woman who says she was drugged 
 
 ---
 
-### 7. Sabalenka, Rybakina handed shock defeats at China Open tennis
+### 7. Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss](https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss)
+
+---
+
+### 8. Sabalenka, Rybakina handed shock defeats at China Open tennis
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in
 
 ---
 
-### 8. Gaza’s Christians mourn mother and daughter killed in Israeli attack
+### 9. Gaza’s Christians mourn mother and daughter killed in Israeli attack
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in
 Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss)
-
----
-
-### 9. Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss)
 
 ---
 
