@@ -1,139 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 05:43:58
+**Last Update:** 2026-10-04 12:06:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bob Cringely Has Died
+### 1. Why don't more developers “use the platform”?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.</p>
+<p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
+<p>Points: 103</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+
+---
+
+### 2. Religious scholars met with Anthropic
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://archive.is/y8FW0" rel="nofollow">https://archive.is/y8FW0</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949438">https://news.ycombinator.com/item?id=49949438</a></p>
-<p>Points: 66</p>
-<p># Comments: 7</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950052">https://news.ycombinator.com/item?id=49950052</a></p>
+<p>Points: 65</p>
+<p># Comments: 107</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49949438](https://news.ycombinator.com/item?id=49949438)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
 
 ---
 
-### 2. We're going to need default hard budget caps on pretty much everything
+### 3. We're working on a new RuneScape MMO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949235">https://news.ycombinator.com/item?id=49949235</a></p>
-<p>Points: 164</p>
-<p># Comments: 71</p>
+<p>Article URL: <a href="https://play.runescape.com/4">https://play.runescape.com/4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949588">https://news.ycombinator.com/item?id=49949588</a></p>
+<p>Points: 48</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-
----
-
-### 3. Apple's "Clean Design" Is Stupidity When It Comes to Hiding Fire Extinguishers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers">https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949152">https://news.ycombinator.com/item?id=49949152</a></p>
-<p>Points: 37</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers](https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers)
+🔗 **Read more:** [https://play.runescape.com/4](https://play.runescape.com/4)
 
 ---
 
-### 4. Flydubai co-pilot attacked captain with axe, UAE official says
+### 4. Burnham scraps controversial plans to curb jury trials
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
+The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
+### 5. Australia investigating Flydubai co-pilot's links to country
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Party leader Kemi Badenoch tells the BBC that she wants to see "people who work harder" not getting punished for doing so.
+State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Tennessee prison chief to resign after Christa Pike's failed execution
+### 6. Cornell president says university 'must do better' after frat house rape allegations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
+Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa
+### 7. Sabalenka, Rybakina handed shock defeats at China Open tennis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.
+The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss)
 
 ---
 
-### 8. Ethiopian government troops seize Tigray’s capital Mekelle
+### 8. Gaza’s Christians mourn mother and daughter killed in Israeli attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.
+Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss)
 
 ---
 
-### 9. Cornell president vows transparency amid outrage over fraternity rape case
+### 9. Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.
+The Saudi-led coalition spokesman says the Yemeni armed group is &#039;attempting to divert attention&#039; from its losses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss)
 
 ---
 
