@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T05:43:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bob Cringely Has Died",
+            "description": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p>\n<p>Points: 66</p>\n<p># Comments: 7</p>",
+            "url": "https://news.ycombinator.com/item?id=49949438",
+            "published": "Sun, 04 Oct 2026 00:50:52 +0000",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We're going to need default hard budget caps on pretty much everything",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949235\">https://news.ycombinator.com/item?id=49949235</a></p>\n<p>Points: 164</p>\n<p># Comments: 71</p>",
+            "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+            "published": "Sun, 04 Oct 2026 00:20:16 +0000",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
+            "description": "<p>Article URL: <a href=\"https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers\">https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949152\">https://news.ycombinator.com/item?id=49949152</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
+            "url": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
+            "published": "Sun, 04 Oct 2026 00:09:21 +0000",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+            "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+            "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+            "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 17:48:42 GMT",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
+            "description": "Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 01:55:46 +0000",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
+            "description": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 01:41:28 +0000",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cornell president vows transparency amid outrage over fraternity rape case",
+            "description": "Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 01:15:58 +0000",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T05:43:58+03:30"
+        }
+    ]
+}

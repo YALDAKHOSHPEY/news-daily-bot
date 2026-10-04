@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 05:14:41
+**Last Update:** 2026-10-04 05:43:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -20,8 +20,8 @@
 <p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949438">https://news.ycombinator.com/item?id=49949438</a></p>
-<p>Points: 45</p>
-<p># Comments: 4</p>
+<p>Points: 66</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49949438](https://news.ycombinator.com/item?id=49949438)
 
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949235">https://news.ycombinator.com/item?id=49949235</a></p>
-<p>Points: 142</p>
-<p># Comments: 60</p>
+<p>Points: 164</p>
+<p># Comments: 71</p>
 
 🔗 **Read more:** [https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
 
@@ -52,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers">https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949152">https://news.ycombinator.com/item?id=49949152</a></p>
-<p>Points: 27</p>
-<p># Comments: 6</p>
+<p>Points: 37</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers](https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers)
 
@@ -98,7 +98,33 @@ Pike's lawyers said the failure "goes far beyond any one person". Pike is in cri
 
 ---
 
-### 7. Cornell president vows transparency amid outrage over fraternity rape case
+### 7. Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss)
+
+---
+
+### 8. Ethiopian government troops seize Tigray’s capital Mekelle
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss)
+
+---
+
+### 9. Cornell president vows transparency amid outrage over fraternity rape case
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Pike's lawyers said the failure "goes far beyond any one person". Pike is in cri
 Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss)
-
----
-
-### 8. Serbian populist leader Vucic launches campaign for prime minister
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss)
-
----
-
-### 9. Mamdani, Irish PM play bingo, ‘split the G’ in New York
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss)
 
 ---
 
