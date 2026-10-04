@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 21:57:20
+**Last Update:** 2026-10-04 22:11:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://awesomedataviz.com/">https://awesomedataviz.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956183">https://news.ycombinator.com/item?id=49956183</a></p>
-<p>Points: 5</p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://awesomedataviz.com/](https://awesomedataviz.com/)
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956148">https://news.ycombinator.com/item?id=49956148</a></p>
-<p>Points: 6</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
-<p>Points: 36</p>
-<p># Comments: 23</p>
+<p>Points: 40</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
 
