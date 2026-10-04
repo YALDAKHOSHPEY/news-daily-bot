@@ -1,64 +1,79 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 22:11:50
+**Last Update:** 2026-10-05 01:35:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN
+### 1. I asked Claude build a physically accurate O'Neill cylinder you can walk around
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://awesomedataviz.com/">https://awesomedataviz.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956183">https://news.ycombinator.com/item?id=49956183</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://island-three.gruberbuilds.workers.dev/">https://island-three.gruberbuilds.workers.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957191">https://news.ycombinator.com/item?id=49957191</a></p>
+<p>Points: 23</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://awesomedataviz.com/](https://awesomedataviz.com/)
+🔗 **Read more:** [https://island-three.gruberbuilds.workers.dev/](https://island-three.gruberbuilds.workers.dev/)
 
 ---
 
-### 2. Building a RAG Pipeline for Semantic Code Search
+### 2. Homa: The end of TCP for AI clusters [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956148">https://news.ycombinator.com/item?id=49956148</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Paper: 
+<a href="https://www.usenix.org/system/files/atc21-ousterhout.pdf" rel="nofollow">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href="https://lwn.net/Articles/1003059/" rel="nofollow">https://lwn.net/Articles/1003059/</a>, <a href="https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629" rel="nofollow">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957117">https://news.ycombinator.com/item?id=49957117</a></p>
+<p>Points: 32</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=eZ8WWZzoaR0](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
 
 ---
 
-### 3. Blindsight (Watts Novel)
+### 3. Turn off Apple Intelligence on macOS 27 and get its disk space back
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
-<p>Points: 40</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://github.com/omlahore/RemoveMacAI">https://github.com/omlahore/RemoveMacAI</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957116">https://news.ycombinator.com/item?id=49957116</a></p>
+<p>Points: 168</p>
+<p># Comments: 81</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
+🔗 **Read more:** [https://github.com/omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
 
 ---
 
-### 4. Green Party members back 'Zionism is racism' motion
+### 4. US removes all bombers from RAF Fairford base
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A statement says all bombers deployed to RAF Fairford have been "re-deployed to their home stations" in the US.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Green Party members back 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -71,7 +86,7 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 5. I'm a classic old school Conservative, says Kemi Badenoch
+### 6. I'm a classic old school Conservative, says Kemi Badenoch
 
 **Source:** BBC
 
@@ -84,59 +99,46 @@ The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding poli
 
 ---
 
-### 6. Watch: What we know about Russian strikes on Kyiv bridges
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Police investigating Flydubai co-pilot’s Australia ties
+### 7. Cornell case puts New York’s progressive image at odds with its rape laws
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian police and intelligence join the list of those probing the incident.
+New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss)
 
 ---
 
-### 8. Ukraine ready for US-backed talks with Russia: Zelenskyy
+### 8. Ireland refuse handshake with Israel and don armbands in Nations League tie
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.
+Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss)
 
 ---
 
-### 9. Mass protests demanding poll chief resignation shake India for third day
+### 9. Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.
+Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo&#039;s absence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss)
 
 ---
 
-### 10. Typhoon Choi-wan
+### 10. Super Typhoon Choi-wan
 
 **Source:** NASA
 
