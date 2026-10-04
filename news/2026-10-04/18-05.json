@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T18:05:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+            "description": "<p>Article URL: <a href=\"https://github.com/Niko1221/Strata\">https://github.com/Niko1221/Strata</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953495\">https://news.ycombinator.com/item?id=49953495</a></p>\n<p>Points: 125</p>\n<p># Comments: 45</p>",
+            "url": "https://github.com/Niko1221/Strata",
+            "published": "Sun, 04 Oct 2026 12:51:53 +0000",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+            "description": "<p>Article URL: <a href=\"https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and\">https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49953116\">https://news.ycombinator.com/item?id=49953116</a></p>\n<p>Points: 52</p>\n<p># Comments: 18</p>",
+            "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+            "published": "Sun, 04 Oct 2026 11:58:47 +0000",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: AI search for every photo and every frame of video on macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/allenv0/SCM\">https://github.com/allenv0/SCM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952111\">https://news.ycombinator.com/item?id=49952111</a></p>\n<p>Points: 36</p>\n<p># Comments: 18</p>",
+            "url": "https://github.com/allenv0/SCM",
+            "published": "Sun, 04 Oct 2026 09:24:52 +0000",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+            "description": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 11:19:58 GMT",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+            "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
+            "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 13:24:14 GMT",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+            "description": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+            "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 12:09:04 GMT",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?",
+            "description": "Bosnian Serb leader&#039;s controversial comments ahead of Bosnia and Herzegovina&#039;s high-stakes elections.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 14:21:20 +0000",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
+            "description": "Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 13:42:16 +0000",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is fighting intensifying in Yemen’s Taiz governorate?",
+            "description": "Fighting escalates in Taiz governorate as Yemen&#039;s government and Houthis battle for control of key strategic locations.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 13:31:15 +0000",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T18:05:39+03:30"
+        }
+    ]
+}

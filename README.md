@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 12:27:34
+**Last Update:** 2026-10-04 18:05:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. In Ukraine, distributed renewables foil Russia's assaults
+### 1. Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951881">https://news.ycombinator.com/item?id=49951881</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/Niko1221/Strata">https://github.com/Niko1221/Strata</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953495">https://news.ycombinator.com/item?id=49953495</a></p>
+<p>Points: 125</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
+🔗 **Read more:** [https://github.com/Niko1221/Strata](https://github.com/Niko1221/Strata)
 
 ---
 
-### 2. UK Government Body Kept Files on People Criticizing Prevent Program
+### 2. Rejection Sensitivity in Gifted and Twice-Exceptional Children
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics">https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951139">https://news.ycombinator.com/item?id=49951139</a></p>
-<p>Points: 25</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and">https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953116">https://news.ycombinator.com/item?id=49953116</a></p>
+<p>Points: 52</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics](https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics)
+🔗 **Read more:** [https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
 
 ---
 
-### 3. Why don't more developers “use the platform”?
+### 3. Show HN: AI search for every photo and every frame of video on macOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
-<p>Points: 118</p>
-<p># Comments: 79</p>
+<p>Article URL: <a href="https://github.com/allenv0/SCM">https://github.com/allenv0/SCM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49952111">https://news.ycombinator.com/item?id=49952111</a></p>
+<p>Points: 36</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+🔗 **Read more:** [https://github.com/allenv0/SCM](https://github.com/allenv0/SCM)
 
 ---
 
-### 4. Burnham scraps controversial plans to curb jury trials
+### 4. Courts backlog will fall despite scrapping of jury trial plan, minister says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.
+Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Australia investigating Flydubai co-pilot's links to country
+### 5. I'm a classic old school Conservative, says Kemi Badenoch
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.
+The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Cornell president says university 'must do better' after frat house rape allegations
+### 6. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
+Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha
+### 7. Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.
+Bosnian Serb leader&#039;s controversial comments ahead of Bosnia and Herzegovina&#039;s high-stakes elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss](https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss)
 
 ---
 
-### 8. Sabalenka, Rybakina handed shock defeats at China Open tennis
+### 8. How was Flydubai co-pilot cleared despite being deemed a security risk?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.
+Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss)
 
 ---
 
-### 9. Gaza’s Christians mourn mother and daughter killed in Israeli attack
+### 9. Why is fighting intensifying in Yemen’s Taiz governorate?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.
+Fighting escalates in Taiz governorate as Yemen&#039;s government and Houthis battle for control of key strategic locations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss)
 
 ---
 
