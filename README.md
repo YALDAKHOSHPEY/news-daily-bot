@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 02:01:59
+**Last Update:** 2026-10-04 05:14:41
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Federal judge calls Flock 'indiscriminate mass surveillance'
+### 1. Bob Cringely Has Died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/">https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948254">https://news.ycombinator.com/item?id=49948254</a></p>
-<p>Points: 22</p>
-<p># Comments: 5</p>
+<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949438">https://news.ycombinator.com/item?id=49949438</a></p>
+<p>Points: 45</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49949438](https://news.ycombinator.com/item?id=49949438)
 
 ---
 
-### 2. Reasons I didn't become an EMT, ranked
+### 2. We're going to need default hard budget caps on pretty much everything
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ben.stolovitz.com/posts/reasons-not-emt-ranked/">https://ben.stolovitz.com/posts/reasons-not-emt-ranked/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947631">https://news.ycombinator.com/item?id=49947631</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949235">https://news.ycombinator.com/item?id=49949235</a></p>
+<p>Points: 142</p>
+<p># Comments: 60</p>
 
-🔗 **Read more:** [https://ben.stolovitz.com/posts/reasons-not-emt-ranked/](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+🔗 **Read more:** [https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
 
 ---
 
-### 3. Surely you have ultra-wideband radios on your bins too?
+### 3. Apple's "Clean Design" Is Stupidity When It Comes to Hiding Fire Extinguishers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/">https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947472">https://news.ycombinator.com/item?id=49947472</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers">https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949152">https://news.ycombinator.com/item?id=49949152</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
+🔗 **Read more:** [https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers](https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers)
 
 ---
 
@@ -84,55 +85,55 @@ Party leader Kemi Badenoch tells the BBC that she wants to see "people who work 
 
 ---
 
-### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 6. Tennessee prison chief to resign after Christa Pike's failed execution
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 25-year-old man was arrested in the London borough of Westminster on Thursday.
+Pike's lawyers said the failure "goes far beyond any one person". Pike is in critical condition after surviving two lethal injections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli settlers attack Palestinian farmers during olive harvest
+### 7. Cornell president vows transparency amid outrage over fraternity rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attack Palestinian farmers during olive harvest
+Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss](https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss)
 
 ---
 
-### 8. Fernandes denies Portugal rift, hails Ronaldo after walk out
+### 8. Serbian populist leader Vucic launches campaign for prime minister
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
+Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss)
 
 ---
 
-### 9. Trump ramps up pressure on US Republicans to end US clock switching
+### 9. Mamdani, Irish PM play bingo, ‘split the G’ in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.
+New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss)
 
 ---
 
