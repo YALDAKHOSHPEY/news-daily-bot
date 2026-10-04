@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 18:23:40
+**Last Update:** 2026-10-04 21:57:20
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s
+### 1. Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Niko1221/Strata">https://github.com/Niko1221/Strata</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953495">https://news.ycombinator.com/item?id=49953495</a></p>
-<p>Points: 144</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://awesomedataviz.com/">https://awesomedataviz.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956183">https://news.ycombinator.com/item?id=49956183</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/Niko1221/Strata](https://github.com/Niko1221/Strata)
+🔗 **Read more:** [https://awesomedataviz.com/](https://awesomedataviz.com/)
 
 ---
 
-### 2. Rejection Sensitivity in Gifted and Twice-Exceptional Children
+### 2. Building a RAG Pipeline for Semantic Code Search
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and">https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49953116">https://news.ycombinator.com/item?id=49953116</a></p>
-<p>Points: 57</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49956148">https://news.ycombinator.com/item?id=49956148</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
+🔗 **Read more:** [https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/)
 
 ---
 
-### 3. Show HN: AI search for every photo and every frame of video on macOS
+### 3. Blindsight (Watts Novel)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/allenv0/SCM">https://github.com/allenv0/SCM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49952111">https://news.ycombinator.com/item?id=49952111</a></p>
-<p>Points: 39</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
+<p>Points: 36</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://github.com/allenv0/SCM](https://github.com/allenv0/SCM)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
 
 ---
 
-### 4. Courts backlog will fall despite scrapping of jury trial plan, minister says
+### 4. Green Party members back 'Zionism is racism' motion
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.
+The vote has caused divisions among figures at the top of the party at its conference in Brighton.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding poli
 
 ---
 
-### 6. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+### 6. Watch: What we know about Russian strikes on Kyiv bridges
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.
+BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?
+### 7. Police investigating Flydubai co-pilot’s Australia ties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bosnian Serb leader&#039;s controversial comments ahead of Bosnia and Herzegovina&#039;s high-stakes elections.
+Australian police and intelligence join the list of those probing the incident.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss)
 
 ---
 
-### 8. How was Flydubai co-pilot cleared despite being deemed a security risk?
+### 8. Ukraine ready for US-backed talks with Russia: Zelenskyy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aviation security protocols under scrutiny after co-pilot accused of attempted axe attack aboard Flydubai flight.
+Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss)
 
 ---
 
-### 9. Why is fighting intensifying in Yemen’s Taiz governorate?
+### 9. Mass protests demanding poll chief resignation shake India for third day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting escalates in Taiz governorate as Yemen&#039;s government and Houthis battle for control of key strategic locations.
+Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss)
 
 ---
 
