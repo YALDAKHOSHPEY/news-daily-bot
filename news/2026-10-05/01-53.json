@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-05T01:53:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Homa: The end of TCP for AI clusters [video]",
+            "description": "<p>Paper: \n<a href=\"https://www.usenix.org/system/files/atc21-ousterhout.pdf\" rel=\"nofollow\">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href=\"https://lwn.net/Articles/1003059/\" rel=\"nofollow\">https://lwn.net/Articles/1003059/</a>, <a href=\"https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629\" rel=\"nofollow\">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957117\">https://news.ycombinator.com/item?id=49957117</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
+            "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+            "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+            "description": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 200</p>\n<p># Comments: 109</p>",
+            "url": "https://github.com/omlahore/RemoveMacAI",
+            "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Improper redaction reveals Google Data Center water and electricity usage",
+            "description": "<p>Article URL: <a href=\"https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957068\">https://news.ycombinator.com/item?id=49957068</a></p>\n<p>Points: 132</p>\n<p># Comments: 170</p>",
+            "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+            "published": "Sun, 04 Oct 2026 19:37:05 +0000",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US removes all bombers from RAF Fairford base",
+            "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 21:57:32 GMT",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Green Party members back 'Zionism is racism' motion",
+            "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 20:51:36 GMT",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+            "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
+            "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 16:20:02 GMT",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
+            "description": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 21:39:55 +0000",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+            "description": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
+            "url": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 21:30:22 +0000",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+            "description": "Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo&#039;s absence.",
+            "url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 21:10:00 +0000",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-05T01:53:47+03:30"
+        }
+    ]
+}
