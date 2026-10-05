@@ -1,107 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 20:05:11
+**Last Update:** 2026-10-06 02:18:01
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. No 10 insists RAF Fairford is safe after US withdraws bombers
+### 1. Find the flattest route between any two points in SF
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://flattensf.com/">https://flattensf.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971230">https://news.ycombinator.com/item?id=49971230</a></p>
+<p>Points: 35</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://flattensf.com/](https://flattensf.com/)
+
+---
+
+### 2. Dust: Pretraining Transformers Without Backpropagation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://qlabs.sh/research/dust">https://qlabs.sh/research/dust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970871">https://news.ycombinator.com/item?id=49970871</a></p>
+<p>Points: 49</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://qlabs.sh/research/dust](https://qlabs.sh/research/dust)
+
+---
+
+### 3. Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970667">https://news.ycombinator.com/item?id=49970667</a></p>
+<p>Points: 127</p>
+<p># Comments: 108</p>
+
+🔗 **Read more:** [https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+
+---
+
+### 4. Trump says 'threat' led US to pull bombers from RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
+The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Watch: What caused the US to remove its bombers in such a hurry?
+### 5. Author and former politician Jeffrey Archer dies aged 86
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America.
+His last book, Adam and Eve, is set to release this month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Teenager's hand blown off during confrontation between France school protesters and police
+### 6. King's funding for Andrew not to be used for legal action against police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prefect of Pas-de-Calais says the 15-year-old's life is "not in danger" after the "very serious" incident.
+Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Rohingya activist says it’s unfair to send refugees back to Myanmar
+### 7. ‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rohingya activist says it’s unfair to send refugees back to Myanmar
+Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss)
 
 ---
 
-### 5. Medvedev disqualified from China Open for hitting fan with a ball
+### 8. Super-subs help France demolish Belgium with late flurry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia&#039;s Daniil Medvedev disqualified from China Open for hitting spectator with ball during match with Novak Djokovic.
+Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss)
 
 ---
 
-### 6. Two dead after ship sinks off Romania following fire
+### 9. Ethiopia’s PM insists on access to Red Sea despite regional conflict threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two dead after ship sinks off Romania following fire
+Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss)
-
----
-
-### 7. Super Typhoon Choi-wan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss)
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 10. Prescribed Fire D3 Bear RX, Greenlee, Arizona
 
 **Source:** NASA
 
@@ -110,11 +145,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043)
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 11. Wildfire Bull, Washoe, Nevada
 
 **Source:** NASA
 
@@ -123,7 +158,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042)
+
+---
+
+### 12. Prescribed Fire Starvation 11A Rx, Wallowa, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045)
 
 ---
 
