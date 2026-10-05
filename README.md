@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 04:34:30
+**Last Update:** 2026-10-05 04:53:25
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ArtCraft Apps – open-source Adobe compatible suite written in Rust
+### 1. The logic of gambling undergirds everything coming out of Silicon Valley
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html">https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959583">https://news.ycombinator.com/item?id=49959583</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html](https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html)
+
+---
+
+### 2. ArtCraft Apps – open-source Adobe compatible suite written in Rust
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://getartcraft.com/apps">https://getartcraft.com/apps</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958850">https://news.ycombinator.com/item?id=49958850</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://getartcraft.com/apps](https://getartcraft.com/apps)
 
 ---
 
-### 2. Self-hosted HTTP tunnels with SSH and Nginx
+### 3. Self-hosted HTTP tunnels with SSH and Nginx
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958569">https://news.ycombinator.com/item?id=49958569</a></p>
-<p>Points: 46</p>
+<p>Points: 52</p>
 <p># Comments: 11</p>
 
 🔗 **Read more:** [https://vincent.bernat.ch/en/blog/2026-http-over-ssh](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-
----
-
-### 3. In the wake of closure, a digital archive of animated materials appears online
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/">https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957812">https://news.ycombinator.com/item?id=49957812</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
 
 ---
 
