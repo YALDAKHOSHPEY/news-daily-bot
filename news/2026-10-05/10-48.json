@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-05T10:48:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US removes all bombers from RAF Fairford base",
+            "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 07:14:28 GMT",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+            "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 05:35:36 GMT",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Protesters scuffle with police as migrants brought ashore on south coast",
+            "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 06:24:47 GMT",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
+            "description": "Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.",
+            "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 05:56:13 +0000",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+            "description": "IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 05:20:57 +0000",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who were the top teen athletes at the Asian Games?",
+            "description": "China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.",
+            "url": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 05:12:38 +0000",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-05T10:48:13+03:30"
+        }
+    ]
+}

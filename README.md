@@ -1,90 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 04:53:25
+**Last Update:** 2026-10-05 10:48:13
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The logic of gambling undergirds everything coming out of Silicon Valley
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html">https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959583">https://news.ycombinator.com/item?id=49959583</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html](https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html)
-
----
-
-### 2. ArtCraft Apps – open-source Adobe compatible suite written in Rust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://getartcraft.com/apps">https://getartcraft.com/apps</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958850">https://news.ycombinator.com/item?id=49958850</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://getartcraft.com/apps](https://getartcraft.com/apps)
-
----
-
-### 3. Self-hosted HTTP tunnels with SSH and Nginx
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958569">https://news.ycombinator.com/item?id=49958569</a></p>
-<p>Points: 52</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://vincent.bernat.ch/en/blog/2026-http-over-ssh](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
-
----
-
-### 4. US removes all bombers from RAF Fairford base
+### 1. US removes all bombers from RAF Fairford base
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A statement says all bombers deployed to RAF Fairford have been "re-deployed to their home stations" in the US.
+No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to "suspicious vehicles" near the airbase.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+### 2. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 7. Four African leaders issue joint declaration as Ethiopia war escalates
+### 3. Protesters scuffle with police as migrants brought ashore on south coast
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Djokovic defeats top seed Zverev to reach China Open semifinals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.
+Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
+### 5. Middle East oil exports surpass pre-war levels despite tensions, data shows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
+IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss)
 
 ---
 
-### 9. Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+### 6. Who were the top teen athletes at the Asian Games?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.
+China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
 
 ---
 
-### 10. Super Typhoon Choi-wan
+### 7. Super Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 9. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
