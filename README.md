@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 10:48:13
+**Last Update:** 2026-10-05 11:24:04
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US removes all bombers from RAF Fairford base
+### 1. Replacement of petroleum based products with plant-based materials (2025)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
+<p>Points: 45</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
+
+---
+
+### 2. Nearly 200 people under observation after Irkutsk lab worker dies from plague
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960084">https://news.ycombinator.com/item?id=49960084</a></p>
+<p>Points: 199</p>
+<p># Comments: 171</p>
+
+🔗 **Read more:** [https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+
+---
+
+### 3. Powerless F1 drivers frustrated by Bahrain F1 software glitch
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959869">https://news.ycombinator.com/item?id=49959869</a></p>
+<p>Points: 183</p>
+<p># Comments: 139</p>
+
+🔗 **Read more:** [https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
+
+---
+
+### 4. US removes all bombers from RAF Fairford base
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ No reason has been given for the withdrawal, but it follows a major incident las
 
 ---
 
-### 2. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+### 5. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 3. Protesters scuffle with police as migrants brought ashore on south coast
+### 6. Protesters scuffle with police as migrants brought ashore on south coast
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ The Home Office said 149 migrants were brought ashore and taken by coach to a pr
 
 ---
 
-### 4. Djokovic defeats top seed Zverev to reach China Open semifinals
+### 7. Spanish Prime Minister Pedro Sanchez announces snap election
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sanchez calls early vote after parliament rejected housing relief measures proposed by his minority government.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss)
+
+---
+
+### 8. World Space Week: Which countries have sent people to space?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss)
+
+---
+
+### 9. Djokovic defeats top seed Zverev to reach China Open semifinals
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Ru
 
 ---
 
-### 5. Middle East oil exports surpass pre-war levels despite tensions, data shows
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss)
-
----
-
-### 6. Who were the top teen athletes at the Asian Games?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
-
----
-
-### 7. Super Typhoon Choi-wan
+### 10. Super Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 

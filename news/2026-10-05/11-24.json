@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-05T11:24:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Replacement of petroleum based products with plant-based materials (2025)",
+            "description": "<p>Article URL: <a href=\"https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49960901\">https://news.ycombinator.com/item?id=49960901</a></p>\n<p>Points: 45</p>\n<p># Comments: 18</p>",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+            "published": "Mon, 05 Oct 2026 05:09:43 +0000",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+            "description": "<p>Article URL: <a href=\"https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49960084\">https://news.ycombinator.com/item?id=49960084</a></p>\n<p>Points: 199</p>\n<p># Comments: 171</p>",
+            "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+            "published": "Mon, 05 Oct 2026 02:31:45 +0000",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+            "description": "<p>Article URL: <a href=\"https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\">https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49959869\">https://news.ycombinator.com/item?id=49959869</a></p>\n<p>Points: 183</p>\n<p># Comments: 139</p>",
+            "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+            "published": "Mon, 05 Oct 2026 01:54:08 +0000",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US removes all bombers from RAF Fairford base",
+            "description": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 07:14:28 GMT",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+            "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 05:35:36 GMT",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Protesters scuffle with police as migrants brought ashore on south coast",
+            "description": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 07:25:15 GMT",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spanish Prime Minister Pedro Sanchez announces snap election",
+            "description": "Sanchez calls early vote after parliament rejected housing relief measures proposed by his minority government.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 07:14:41 +0000",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World Space Week: Which countries have sent people to space?",
+            "description": "At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 07:06:18 +0000",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
+            "description": "Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.",
+            "url": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 05:56:13 +0000",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-05T11:24:04+03:30"
+        }
+    ]
+}
