@@ -1,62 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 01:53:47
+**Last Update:** 2026-10-05 04:34:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Homa: The end of TCP for AI clusters [video]
+### 1. ArtCraft Apps – open-source Adobe compatible suite written in Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Paper: 
-<a href="https://www.usenix.org/system/files/atc21-ousterhout.pdf" rel="nofollow">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href="https://lwn.net/Articles/1003059/" rel="nofollow">https://lwn.net/Articles/1003059/</a>, <a href="https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629" rel="nofollow">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957117">https://news.ycombinator.com/item?id=49957117</a></p>
-<p>Points: 34</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://getartcraft.com/apps">https://getartcraft.com/apps</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958850">https://news.ycombinator.com/item?id=49958850</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=eZ8WWZzoaR0](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+🔗 **Read more:** [https://getartcraft.com/apps](https://getartcraft.com/apps)
 
 ---
 
-### 2. Turn off Apple Intelligence on macOS 27 and get its disk space back
+### 2. Self-hosted HTTP tunnels with SSH and Nginx
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/omlahore/RemoveMacAI">https://github.com/omlahore/RemoveMacAI</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957116">https://news.ycombinator.com/item?id=49957116</a></p>
-<p>Points: 200</p>
-<p># Comments: 109</p>
+<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958569">https://news.ycombinator.com/item?id=49958569</a></p>
+<p>Points: 46</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
+🔗 **Read more:** [https://vincent.bernat.ch/en/blog/2026-http-over-ssh](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
 
 ---
 
-### 3. Improper redaction reveals Google Data Center water and electricity usage
+### 3. In the wake of closure, a digital archive of animated materials appears online
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957068">https://news.ycombinator.com/item?id=49957068</a></p>
-<p>Points: 132</p>
-<p># Comments: 170</p>
+<p>Article URL: <a href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/">https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957812">https://news.ycombinator.com/item?id=49957812</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
+🔗 **Read more:** [https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
 
 ---
 
@@ -73,7 +71,20 @@ A statement says all bombers deployed to RAF Fairford have been "re-deployed to 
 
 ---
 
-### 5. Green Party members back 'Zionism is racism' motion
+### 5. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -86,55 +97,42 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 6. I'm a classic old school Conservative, says Kemi Badenoch
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Cornell case puts New York’s progressive image at odds with its rape laws
+### 7. Four African leaders issue joint declaration as Ethiopia war escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.
+Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss)
 
 ---
 
-### 8. Ireland refuse handshake with Israel and don armbands in Nations League tie
+### 8. Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.
+Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss)
 
 ---
 
-### 9. Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
+### 9. Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo&#039;s absence.
+Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss)
 
 ---
 
