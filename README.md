@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 02:18:01
+**Last Update:** 2026-10-06 02:29:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://flattensf.com/">https://flattensf.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971230">https://news.ycombinator.com/item?id=49971230</a></p>
-<p>Points: 35</p>
-<p># Comments: 7</p>
+<p>Points: 39</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://flattensf.com/](https://flattensf.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://qlabs.sh/research/dust">https://qlabs.sh/research/dust</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970871">https://news.ycombinator.com/item?id=49970871</a></p>
-<p>Points: 49</p>
-<p># Comments: 3</p>
+<p>Points: 52</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://qlabs.sh/research/dust](https://qlabs.sh/research/dust)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970667">https://news.ycombinator.com/item?id=49970667</a></p>
-<p>Points: 127</p>
-<p># Comments: 108</p>
+<p>Points: 131</p>
+<p># Comments: 109</p>
 
 🔗 **Read more:** [https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
 
@@ -97,7 +97,20 @@ Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of
 
 ---
 
-### 7. ‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
+### 7. Trump’s approval hits new low among Hispanic voters ahead of midterms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hispanic voters are twice as likely to favour Democratic Party over Trump&#039;s Republican Party in the November elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss)
+
+---
+
+### 8. ‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Student groups call for the abolition of Greek life and more punitive action in 
 
 ---
 
-### 8. Super-subs help France demolish Belgium with late flurry
+### 9. Super-subs help France demolish Belgium with late flurry
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Student groups call for the abolition of Greek life and more punitive action in 
 Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss)
-
----
-
-### 9. Ethiopia’s PM insists on access to Red Sea despite regional conflict threat
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss)
 
 ---
 
