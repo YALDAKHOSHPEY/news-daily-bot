@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 14:05:30
+**Last Update:** 2026-10-06 19:52:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobel Prize in Physics goes to Francis Halzen
+### 1. The Early History of Smalltalk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nobelprize.org/prizes/physics/2026/">https://www.nobelprize.org/prizes/physics/2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49976265">https://news.ycombinator.com/item?id=49976265</a></p>
-<p>Points: 45</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.nobelprize.org/prizes/physics/2026/](https://www.nobelprize.org/prizes/physics/2026/)
+🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 
 ---
 
-### 2. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
+### 2. Vibecoding isn't as fun as writing code by hand
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49975345">https://news.ycombinator.com/item?id=49975345</a></p>
-<p>Points: 36</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/">https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979306">https://news.ycombinator.com/item?id=49979306</a></p>
+<p>Points: 117</p>
+<p># Comments: 136</p>
 
-🔗 **Read more:** [https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
+🔗 **Read more:** [https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/](https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/)
 
 ---
 
-### 3. Resurrecting iChat Audio and Video Conferencing
+### 3. Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
-<p>Points: 50</p>
+<p>Article URL: <a href="https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/">https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978563">https://news.ycombinator.com/item?id=49978563</a></p>
+<p>Points: 71</p>
 <p># Comments: 12</p>
 
-🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+🔗 **Read more:** [https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
 
 ---
 
-### 4. Watch: At the scene of protests on the streets of Lille
+### 4. Watch: At the scene of student protests in Lille
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The demonstrators are calling for better government investment in high schools.
+The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Tories pledge £10bn British 'Iron Dome' air defence system
+### 5. British national arrested in connection with RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.
+It is the seventh arrest in connection to the incident near RAF Fairford last month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Former German spy chief arrested for espionage and treason
+### 6. I'd rather have another election than do a deal with Reform UK, says Badenoch
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-August Hanning is accused of obtaining classified information for a foreign power.
+The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fort Hood shooter to be executed by firing squad: All to know
+### 7. Birzeit University memorial destruction aims to crush Palestinian memory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US Army is averse to capital punishment and has not carried out an execution in decades.
+Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss](https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss)
 
 ---
 
-### 8. UEFA to investigate spitting incident at Ireland–Israel football match
+### 8. Photos: School blockades, street protests grip France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli player is accused of spitting on an Irish coach as the teams returned to their dressing rooms at half-time.
+Protesters increased pressure on the government of outgoing President Emmanuel Macron demanding more education funding.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss)
 
 ---
 
-### 9. Kenya ministry of health confirms first imported Ebola case
+### 9. Bulgaria searches for missing crew after drones hit two ships in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The first imported case of Ebola has been recorded in Kenya.
+Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire D3 Bear RX, Greenlee, Arizona
+### 10. Tropical Storm Koguma
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
+
+---
+
+### 11. Prescribed Fire D3 Bear RX, Greenlee, Arizona
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Bull, Washoe, Nevada
+### 12. Wildfire Bull, Washoe, Nevada
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042)
-
----
-
-### 12. Prescribed Fire Starvation 11A Rx, Wallowa, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045)
 
 ---
 

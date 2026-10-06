@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T19:52:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Early History of Smalltalk",
+            "description": "<p>Article URL: <a href=\"https://worrydream.com/EarlyHistoryOfSmalltalk/\">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49979845\">https://news.ycombinator.com/item?id=49979845</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+            "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+            "published": "Tue, 06 Oct 2026 15:19:57 +0000",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Vibecoding isn't as fun as writing code by hand",
+            "description": "<p>Article URL: <a href=\"https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/\">https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49979306\">https://news.ycombinator.com/item?id=49979306</a></p>\n<p>Points: 117</p>\n<p># Comments: 136</p>",
+            "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
+            "published": "Tue, 06 Oct 2026 14:45:02 +0000",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+            "description": "<p>Article URL: <a href=\"https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/\">https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978563\">https://news.ycombinator.com/item?id=49978563</a></p>\n<p>Points: 71</p>\n<p># Comments: 12</p>",
+            "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+            "published": "Tue, 06 Oct 2026 13:55:37 +0000",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: At the scene of student protests in Lille",
+            "description": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
+            "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 15:02:56 GMT",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British national arrested in connection with RAF Fairford incident",
+            "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 15:03:58 GMT",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+            "description": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
+            "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 16:00:03 GMT",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
+            "description": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
+            "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 15:14:28 +0000",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: School blockades, street protests grip France",
+            "description": "Protesters increased pressure on the government of outgoing President Emmanuel Macron demanding more education funding.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 14:53:02 +0000",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+            "description": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 14:50:01 +0000",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T19:52:36+03:30"
+        }
+    ]
+}
