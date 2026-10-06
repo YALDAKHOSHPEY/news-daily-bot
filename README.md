@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 06:40:17
+**Last Update:** 2026-10-06 13:05:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Photopea creator weighs in on Photosuite project
+### 1. Resurrecting iChat Audio and Video Conferencing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">https://news.ycombinator.com/item?id=49972730</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/eolix/photosuite/issues/77](https://github.com/eolix/photosuite/issues/77)
+🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 
 ---
 
-### 2. High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days
+### 2. Why Common Lisp is now the best programming language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972607">https://news.ycombinator.com/item?id=49972607</a></p>
-<p>Points: 45</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.vivienhenz.com/common-lisp">https://www.vivienhenz.com/common-lisp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973598">https://news.ycombinator.com/item?id=49973598</a></p>
+<p>Points: 159</p>
+<p># Comments: 218</p>
 
-🔗 **Read more:** [https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
+🔗 **Read more:** [https://www.vivienhenz.com/common-lisp](https://www.vivienhenz.com/common-lisp)
 
 ---
 
-### 3. AI Tutoring with Khanmigo in a Two-Year School Experiment
+### 3. Samon: Designing a Zen Garden Raking Puzzle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycombinator.com/item?id=49972419</a></p>
-<p>Points: 39</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://gwern.net/doc/design/2026-10-03-gwern-samon.html">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972211">https://news.ycombinator.com/item?id=49972211</a></p>
+<p>Points: 42</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://edworkingpapers.com/ai26-1551](https://edworkingpapers.com/ai26-1551)
+🔗 **Read more:** [https://gwern.net/doc/design/2026-10-03-gwern-samon.html](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
 
 ---
 
@@ -71,20 +71,7 @@ The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in 
 
 ---
 
-### 5. What prompted the US bombers to leave RAF Fairford?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Author and former politician Jeffrey Archer dies aged 86
+### 5. Author and former politician Jeffrey Archer dies aged 86
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Archer sold more than 300 million books in his five-decade writing career, and h
 
 ---
 
-### 7. Trump says taxpayers will no longer fund TV ads that praise him
+### 6. Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.
+With better support, many babies may not have needed to go into care, File on 4 Investigates is told.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
+### 7. ‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.
+Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss)
 
 ---
 
-### 9. Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder
+### 8. Palestine weekly: Olive harvest opens under assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife&#039;s murder
+Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss)
+
+---
+
+### 9. South Korea considers steps to force North Korea apology for DMZ mine blast
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss)
 
 ---
 

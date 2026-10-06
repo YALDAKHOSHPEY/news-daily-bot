@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T13:05:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Resurrecting iChat Audio and Video Conferencing",
+            "description": "<p>Article URL: <a href=\"https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973878\">https://news.ycombinator.com/item?id=49973878</a></p>\n<p>Points: 48</p>\n<p># Comments: 12</p>",
+            "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+            "published": "Tue, 06 Oct 2026 03:39:01 +0000",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Common Lisp is now the best programming language",
+            "description": "<p>Article URL: <a href=\"https://www.vivienhenz.com/common-lisp\">https://www.vivienhenz.com/common-lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973598\">https://news.ycombinator.com/item?id=49973598</a></p>\n<p>Points: 159</p>\n<p># Comments: 218</p>",
+            "url": "https://www.vivienhenz.com/common-lisp",
+            "published": "Tue, 06 Oct 2026 02:51:51 +0000",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Samon: Designing a Zen Garden Raking Puzzle",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/doc/design/2026-10-03-gwern-samon.html\">https://gwern.net/doc/design/2026-10-03-gwern-samon.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972211\">https://news.ycombinator.com/item?id=49972211</a></p>\n<p>Points: 42</p>\n<p># Comments: 20</p>",
+            "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+            "published": "Mon, 05 Oct 2026 23:35:35 +0000",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+            "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 07:02:24 GMT",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author and former politician Jeffrey Archer dies aged 86",
+            "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 09:17:05 GMT",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+            "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+            "url": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 05:00:32 GMT",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
+            "description": "Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 09:25:14 +0000",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Olive harvest opens under assault",
+            "description": "Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 09:22:09 +0000",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
+            "description": "Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 08:58:36 +0000",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045",
+            "published": "2026-09-30T15:52:00Z",
+            "fetched": "2026-10-06T13:05:16+03:30"
+        }
+    ]
+}
