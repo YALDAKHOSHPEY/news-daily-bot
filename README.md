@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 00:52:27
+**Last Update:** 2026-10-07 01:15:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tumbler Ridge shooter's ChatGPT use "more disturbing" than known: reporter
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031">https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983825">https://news.ycombinator.com/item?id=49983825</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031](https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031)
-
----
-
-### 2. OpenSSH 10.6
+### 1. OpenSSH 10.6
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
-<p>Points: 16</p>
+<p>Points: 26</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
 
 ---
 
-### 3. Paramount completes $111B Warner merger, creating "Skydance" behemoth
+### 2. Paramount completes $111B Warner merger, creating "Skydance" behemoth
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
-<p>Points: 53</p>
-<p># Comments: 36</p>
+<p>Points: 68</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
+
+---
+
+### 3. System-level ad-blocking in Android
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://kevinboone.me/adblock.html">https://kevinboone.me/adblock.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983647">https://news.ycombinator.com/item?id=49983647</a></p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://kevinboone.me/adblock.html](https://kevinboone.me/adblock.html)
 
 ---
 
@@ -84,7 +84,7 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 6. US death row inmate Christa Pike conscious after failed execution, lawyers say
+### 6. US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Pike, 50, continues to receive critical medical care while handcuffed in hospita
 
 ---
 
-### 7. US CDC says it’s ‘aware of and closely monitoring’ Russian plague case
+### 7. Harry Kane equals England record, scores twice in 3-0 win over Czechia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The top US public health agency&#039;s remarks come as the Trump administration said it’s &#039;closely&#039; watching the incident.
+England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
 
 ---
 
-### 8. Cornell names Sally Yates to review university’s response to rape case
+### 8. CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yates will examine Cornell’s sexual assault investigations, disciplinary process and campus police response.
+The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss)
 
 ---
 
-### 9. Why Flavio Bolsonaro outperformed the polls in Brazil’s election
+### 9. US arrests suspect in connection with Tumbler Ridge school shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A late right-wing shift, a banking scandal and economic frustration may be behind Bolsonaro&#039;s last-minute gains.
+The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss)
 
 ---
 
