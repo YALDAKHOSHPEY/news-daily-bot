@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 20:49:01
+**Last Update:** 2026-10-07 00:52:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Utah to let AI examine patients and prescribe medication without human oversight
+### 1. Tumbler Ridge shooter's ChatGPT use "more disturbing" than known: reporter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html">https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49981197">https://news.ycombinator.com/item?id=49981197</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031">https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983825">https://news.ycombinator.com/item?id=49983825</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
+🔗 **Read more:** [https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031](https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031)
 
 ---
 
-### 2. AI is now capable of developing its own inference hardware
+### 2. OpenSSH 10.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
-<p>Points: 56</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
+🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
 
 ---
 
-### 3. The Early History of Smalltalk (1993)
+### 3. Paramount completes $111B Warner merger, creating "Skydance" behemoth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
-<p>Points: 46</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
+<p>Points: 53</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
 
 ---
 
-### 4. Watch: At the scene of student protests in Lille
+### 4. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.
+Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. British national arrested in connection with RAF Fairford incident
+### 5. Watch: Police raid on gang behind fake gay asylum claims
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the seventh arrest in connection to the incident near RAF Fairford last month.
+The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. ASOS app users receive push notifications apparently sent by hackers
+### 6. US death row inmate Christa Pike conscious after failed execution, lawyers say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of people appear to have received a strange message from the clothing and beauty store's app.
+Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kenya confirms first Ebola case as man dies in Nairobi after DRC return
+### 7. US CDC says it’s ‘aware of and closely monitoring’ Russian plague case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s history, with confirmed cases surpassing 8,300.
+The top US public health agency&#039;s remarks come as the Trump administration said it’s &#039;closely&#039; watching the incident.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss)
 
 ---
 
-### 8. Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
+### 8. Cornell names Sally Yates to review university’s response to rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.
+Yates will examine Cornell’s sexual assault investigations, disciplinary process and campus police response.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss)
 
 ---
 
-### 9. Ship sinks off Bulgaria after drone attack in Black Sea
+### 9. Why Flavio Bolsonaro outperformed the polls in Brazil’s election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ship sinks off Bulgaria after drone attack in Black Sea
+A late right-wing shift, a banking scandal and economic frustration may be behind Bolsonaro&#039;s last-minute gains.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss)
 
 ---
 
