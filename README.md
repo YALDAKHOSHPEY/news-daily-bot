@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 19:52:36
+**Last Update:** 2026-10-06 20:49:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Early History of Smalltalk
+### 1. Utah to let AI examine patients and prescribe medication without human oversight
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html">https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49981197">https://news.ycombinator.com/item?id=49981197</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
+
+---
+
+### 2. AI is now capable of developing its own inference hardware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
+<p>Points: 56</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
+
+---
+
+### 3. The Early History of Smalltalk (1993)
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
+<p>Points: 46</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-
----
-
-### 2. Vibecoding isn't as fun as writing code by hand
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/">https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979306">https://news.ycombinator.com/item?id=49979306</a></p>
-<p>Points: 117</p>
-<p># Comments: 136</p>
-
-🔗 **Read more:** [https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/](https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/)
-
----
-
-### 3. Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/">https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49978563">https://news.ycombinator.com/item?id=49978563</a></p>
-<p>Points: 71</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
 
 ---
 
@@ -84,55 +84,55 @@ It is the seventh arrest in connection to the incident near RAF Fairford last mo
 
 ---
 
-### 6. I'd rather have another election than do a deal with Reform UK, says Badenoch
+### 6. ASOS app users receive push notifications apparently sent by hackers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.
+Dozens of people appear to have received a strange message from the clothing and beauty store's app.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Birzeit University memorial destruction aims to crush Palestinian memory
+### 7. Kenya confirms first Ebola case as man dies in Nairobi after DRC return
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.
+More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s history, with confirmed cases surpassing 8,300.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss](https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss)
 
 ---
 
-### 8. Photos: School blockades, street protests grip France
+### 8. Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters increased pressure on the government of outgoing President Emmanuel Macron demanding more education funding.
+Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss)
 
 ---
 
-### 9. Bulgaria searches for missing crew after drones hit two ships in Black Sea
+### 9. Ship sinks off Bulgaria after drone attack in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.
+Ship sinks off Bulgaria after drone attack in Black Sea
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss)
 
 ---
 
