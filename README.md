@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 23:48:26
+**Last Update:** 2026-10-08 01:37:45
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: gtlds.fyi – All the proposed new gTLDs
+### 1. Margaret Hamilton, who led software development for Apollo program, dies at 90
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
+<p>Points: 56</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+
+---
+
+### 2. Despite what Watson said, Rosalind Franklin understood structure of DNA first
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998006">https://news.ycombinator.com/item?id=49998006</a></p>
+<p>Points: 58</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://link.springer.com/article/10.1007/s10739-026-09866-7](https://link.springer.com/article/10.1007/s10739-026-09866-7)
+
+---
+
+### 3. Show HN: gtlds.fyi – All the proposed new gTLDs
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://gtlds.fyi/">https://gtlds.fyi/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997971">https://news.ycombinator.com/item?id=49997971</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 34</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://gtlds.fyi/](https://gtlds.fyi/)
-
----
-
-### 2. The Mathocalypse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://scottaaronson.blog/?p=10169">https://scottaaronson.blog/?p=10169</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997718">https://news.ycombinator.com/item?id=49997718</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://scottaaronson.blog/?p=10169](https://scottaaronson.blog/?p=10169)
-
----
-
-### 3. ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en">https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997301">https://news.ycombinator.com/item?id=49997301</a></p>
-<p>Points: 11</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en](https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en)
 
 ---
 
@@ -84,55 +84,55 @@ Kemi Badenoch has the support of her party but the Tories still trail Labour and
 
 ---
 
-### 6. Spanish pensioner whose eviction sparked nationwide protests dies, union says
+### 6. Christa Pike 'angry and confused' after failed execution, lawyers say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.
+Lawyers say the convicted killer was surprised to have survived and remained "shackled" to her hospital bed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Former Catholic bishop sentenced for abusing indigenous men in Australia
+### 7. Pro-Palestine university groups march in London on October 7 anniversary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Catholic Church in Australia has been marred by abuse allegations in recent years.
+Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss)
 
 ---
 
-### 8. Indian opposition leader Rahul Gandhi detained over election chief protest
+### 8. Trump on why he thinks he deserves the Nobel Peace Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief.
+US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss)
 
 ---
 
-### 9. Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row
+### 9. South Africa host Australia who battle more than ‘Sandpapergate’ memories
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rabbi Dov Lando&#039;s comments expose tensions over Zionism, conscription and Netanyahu&#039;s ultra-Orthodox allies.
+WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss)
 
 ---
 
