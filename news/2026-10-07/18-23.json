@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T18:23:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Device detection and occupancy monitoring for Airbnb hosts",
+            "description": "<p>Article URL: <a href=\"https://www.minut.com/features/occupancy-monitoring\">https://www.minut.com/features/occupancy-monitoring</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49993231\">https://news.ycombinator.com/item?id=49993231</a></p>\n<p>Points: 5</p>\n<p># Comments: 5</p>",
+            "url": "https://www.minut.com/features/occupancy-monitoring",
+            "published": "Wed, 07 Oct 2026 14:19:12 +0000",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SynthID Detector",
+            "description": "<p>Article URL: <a href=\"https://synthid.com/\">https://synthid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49993188\">https://news.ycombinator.com/item?id=49993188</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+            "url": "https://synthid.com/",
+            "published": "Wed, 07 Oct 2026 14:16:44 +0000",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-assisted proof of optimal packing for 11 squares",
+            "description": "<p>Article URL: <a href=\"https://github.com/Queuingtheorydotcom/11SquaresFormalized\">https://github.com/Queuingtheorydotcom/11SquaresFormalized</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49993121\">https://news.ycombinator.com/item?id=49993121</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+            "published": "Wed, 07 Oct 2026 14:10:55 +0000",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: The big test facing Badenoch after her conference speech",
+            "description": "The big test facing Kemi Badenoch after her conference speech",
+            "url": "https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 13:41:31 GMT",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boots sold in £7bn deal to Canadian billionaire family",
+            "description": "The sale of the High Street chain was announced on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:42:45 GMT",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+            "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
+            "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 10:01:47 GMT",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Millions of Pakistanis get government fuel relief but some miss out",
+            "description": "Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 14:02:40 +0000",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Paramount-Warner merger has sparked fears about press freedom",
+            "description": "Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 13:56:27 +0000",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea signals military exemption cuts for athletes after Asian Games",
+            "description": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.",
+            "url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 13:38:14 +0000",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-07T18:23:41+03:30"
+        }
+    ]
+}

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 12:29:00
+**Last Update:** 2026-10-07 18:23:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
+### 1. Device detection and occupancy monitoring for Airbnb hosts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.minut.com/features/occupancy-monitoring">https://www.minut.com/features/occupancy-monitoring</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49993231">https://news.ycombinator.com/item?id=49993231</a></p>
+<p>Points: 5</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+🔗 **Read more:** [https://www.minut.com/features/occupancy-monitoring](https://www.minut.com/features/occupancy-monitoring)
 
 ---
 
-### 2. Sharded, encrypted storage between friends over Yggdrasil
+### 2. SynthID Detector
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/peterretief/yggstore">https://github.com/peterretief/yggstore</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988550">https://news.ycombinator.com/item?id=49988550</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://synthid.com/">https://synthid.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49993188">https://news.ycombinator.com/item?id=49993188</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://github.com/peterretief/yggstore](https://github.com/peterretief/yggstore)
+🔗 **Read more:** [https://synthid.com/](https://synthid.com/)
 
 ---
 
-### 3. Hackers obtain counterfeit TLS certificates for Google and other large services
+### 3. AI-assisted proof of optimal packing for 11 squares
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
-<p>Points: 56</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://github.com/Queuingtheorydotcom/11SquaresFormalized">https://github.com/Queuingtheorydotcom/11SquaresFormalized</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49993121">https://news.ycombinator.com/item?id=49993121</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
+🔗 **Read more:** [https://github.com/Queuingtheorydotcom/11SquaresFormalized](https://github.com/Queuingtheorydotcom/11SquaresFormalized)
 
 ---
 
-### 4. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+### 4. Watch: The big test facing Badenoch after her conference speech
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
+The big test facing Kemi Badenoch after her conference speech
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What we know about Christa Pike’s ‘unprecedented' recovery
+### 5. Boots sold in £7bn deal to Canadian billionaire family
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.
+The sale of the High Street chain was announced on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
+### 6. How did Christa Pike survive two lethal injections - and what happens now?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
+The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
+### 7. Millions of Pakistanis get government fuel relief but some miss out
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
+Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss)
 
 ---
 
-### 8. Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
+### 8. Why Paramount-Warner merger has sparked fears about press freedom
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.
+Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss)
 
 ---
 
-### 9. ‘We’re short of resources’: France’s student protesters, in their own words
+### 9. South Korea signals military exemption cuts for athletes after Asian Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French students and teachers protesting school conditions spoke with Al Jazeera about their demands.
+South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss)
 
 ---
 
