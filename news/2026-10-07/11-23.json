@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T11:23:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+            "description": "<p>Article URL: <a href=\"https://github.com/shader-effects-inc/shaders\">https://github.com/shader-effects-inc/shaders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49988709\">https://news.ycombinator.com/item?id=49988709</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/shader-effects-inc/shaders",
+            "published": "Wed, 07 Oct 2026 05:38:35 +0000",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/\">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49988230\">https://news.ycombinator.com/item?id=49988230</a></p>\n<p>Points: 41</p>\n<p># Comments: 7</p>",
+            "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+            "published": "Wed, 07 Oct 2026 04:37:05 +0000",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Calling It Quits on ServerFault",
+            "description": "<p>Article URL: <a href=\"https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml\">https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49988142\">https://news.ycombinator.com/item?id=49988142</a></p>\n<p>Points: 66</p>\n<p># Comments: 35</p>",
+            "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
+            "published": "Wed, 07 Oct 2026 04:22:04 +0000",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+            "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 07:07:22 GMT",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Christa Pike’s ‘unprecedented' recovery",
+            "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+            "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 23:42:35 GMT",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+            "description": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 05:02:18 GMT",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+            "description": "Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 06:41:11 +0000",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+            "description": "Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 06:33:54 +0000",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How has Israel’s genocide changed Gaza?",
+            "description": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 06:27:18 +0000",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-07T11:23:52+03:30"
+        }
+    ]
+}

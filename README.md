@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 05:11:13
+**Last Update:** 2026-10-07 11:23:52
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. South Korea says AI agents appear to have been used to hack the country's banks
+### 1. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
+🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
 
 ---
 
-### 2. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
+### 2. Hackers obtain counterfeit TLS certificates for Google and other large services
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
-<p>Points: 78</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
+<p>Points: 41</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 
 ---
 
-### 3. State of Devs 2026 survey results: developers are exhausted
+### 3. Calling It Quits on ServerFault
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://2026.stateofdevs.com/en-US/">https://2026.stateofdevs.com/en-US/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985643">https://news.ycombinator.com/item?id=49985643</a></p>
-<p>Points: 52</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml">https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988142">https://news.ycombinator.com/item?id=49988142</a></p>
+<p>Points: 66</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://2026.stateofdevs.com/en-US/](https://2026.stateofdevs.com/en-US/)
+🔗 **Read more:** [https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
 
 ---
 
@@ -71,68 +71,68 @@ Experts and lawyers called the apparent recovery unprecedented, noting she is be
 
 ---
 
-### 5. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
+### 5. What we know about Christa Pike’s ‘unprecedented' recovery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
+The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Police raid on gang behind fake gay asylum claims
+### 6. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
+Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles
+### 7. Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.
+Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss)
 
 ---
 
-### 8. What’s behind Israel’s growing shift to the right?
+### 8. Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three years after the October 7 attacks, the politics of Israeli society has shifted further right.
+Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss)
 
 ---
 
-### 9. Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz
+### 9. How has Israel’s genocide changed Gaza?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.
+Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss)
 
 ---
 
