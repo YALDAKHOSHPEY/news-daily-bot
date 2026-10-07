@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 04:37:42
+**Last Update:** 2026-10-07 05:11:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stanford scientists found a way to regrow cartilage and stop arthritis
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261005011249.htm">https://www.sciencedaily.com/releases/2026/10/261005011249.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985905">https://news.ycombinator.com/item?id=49985905</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261005011249.htm](https://www.sciencedaily.com/releases/2026/10/261005011249.htm)
-
----
-
-### 2. South Korea says AI agents appear to have been used to hack the country's banks
+### 1. South Korea says AI agents appear to have been used to hack the country's banks
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
 
 ---
 
-### 3. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
+### 2. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
-<p>Points: 51</p>
-<p># Comments: 12</p>
+<p>Points: 78</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+
+---
+
+### 3. State of Devs 2026 survey results: developers are exhausted
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://2026.stateofdevs.com/en-US/">https://2026.stateofdevs.com/en-US/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985643">https://news.ycombinator.com/item?id=49985643</a></p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://2026.stateofdevs.com/en-US/](https://2026.stateofdevs.com/en-US/)
 
 ---
 
@@ -97,7 +97,33 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 7. Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz
+### 7. Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)
+
+---
+
+### 8. What’s behind Israel’s growing shift to the right?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three years after the October 7 attacks, the politics of Israeli society has shifted further right.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss)
+
+---
+
+### 9. Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss)
-
----
-
-### 8. Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss)
-
----
-
-### 9. South Sudan’s aid crisis deepens as food stocks run low
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss)
 
 ---
 
