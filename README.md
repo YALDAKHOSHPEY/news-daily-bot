@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 11:23:52
+**Last Update:** 2026-10-07 12:29:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
 
 ---
 
-### 2. Hackers obtain counterfeit TLS certificates for Google and other large services
+### 2. Sharded, encrypted storage between friends over Yggdrasil
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/peterretief/yggstore">https://github.com/peterretief/yggstore</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988550">https://news.ycombinator.com/item?id=49988550</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/peterretief/yggstore](https://github.com/peterretief/yggstore)
+
+---
+
+### 3. Hackers obtain counterfeit TLS certificates for Google and other large services
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
-<p>Points: 41</p>
-<p># Comments: 7</p>
+<p>Points: 56</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
-
----
-
-### 3. Calling It Quits on ServerFault
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml">https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988142">https://news.ycombinator.com/item?id=49988142</a></p>
-<p>Points: 66</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
 
 ---
 
@@ -97,42 +97,42 @@ Three years on from the attack on Nir Oz, in which 47 people were killed and 76 
 
 ---
 
-### 7. Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh
+### 7. Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni government says one of the missiles hit Aden airport&#039;s runway minutes before a flight from Cairo was due to land.
+Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss)
 
 ---
 
-### 8. Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?
+### 8. Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.
+Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss)
 
 ---
 
-### 9. How has Israel’s genocide changed Gaza?
+### 9. ‘We’re short of resources’: France’s student protesters, in their own words
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.
+French students and teachers protesting school conditions spoke with Al Jazeera about their demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss)
 
 ---
 
