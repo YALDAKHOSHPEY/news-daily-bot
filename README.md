@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 01:15:47
+**Last Update:** 2026-10-07 04:37:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.6
+### 1. Stanford scientists found a way to regrow cartilage and stop arthritis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261005011249.htm">https://www.sciencedaily.com/releases/2026/10/261005011249.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985905">https://news.ycombinator.com/item?id=49985905</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261005011249.htm](https://www.sciencedaily.com/releases/2026/10/261005011249.htm)
 
 ---
 
-### 2. Paramount completes $111B Warner merger, creating "Skydance" behemoth
+### 2. South Korea says AI agents appear to have been used to hack the country's banks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
-<p>Points: 68</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
+🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
 
 ---
 
-### 3. System-level ad-blocking in Android
+### 3. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kevinboone.me/adblock.html">https://kevinboone.me/adblock.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983647">https://news.ycombinator.com/item?id=49983647</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
+<p>Points: 51</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://kevinboone.me/adblock.html](https://kevinboone.me/adblock.html)
+🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 ---
 
-### 4. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
+### 4. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Those targeted by Home Office immigration enforcement officers are accused of ch
 
 ---
 
-### 5. Watch: Police raid on gang behind fake gay asylum claims
+### 6. Watch: Police raid on gang behind fake gay asylum claims
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 6. US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Harry Kane equals England record, scores twice in 3-0 win over Czechia
+### 7. Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
+The mountainous district is key to control of Mocha, the Red Sea port the Houthis seized last month.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss)
 
 ---
 
-### 8. CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
+### 8. Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
+At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss)
 
 ---
 
-### 9. US arrests suspect in connection with Tumbler Ridge school shooting
+### 9. South Sudan’s aid crisis deepens as food stocks run low
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
+More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss)
 
 ---
 
