@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T23:48:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
+            "description": "<p>Article URL: <a href=\"https://gtlds.fyi/\">https://gtlds.fyi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997971\">https://news.ycombinator.com/item?id=49997971</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://gtlds.fyi/",
+            "published": "Wed, 07 Oct 2026 19:53:17 +0000",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Mathocalypse",
+            "description": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=10169\">https://scottaaronson.blog/?p=10169</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997718\">https://news.ycombinator.com/item?id=49997718</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://scottaaronson.blog/?p=10169",
+            "published": "Wed, 07 Oct 2026 19:33:40 +0000",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+            "description": "<p>Article URL: <a href=\"https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en\">https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997301\">https://news.ycombinator.com/item?id=49997301</a></p>\n<p>Points: 11</p>\n<p># Comments: 12</p>",
+            "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+            "published": "Wed, 07 Oct 2026 19:01:45 +0000",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+            "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+            "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 16:31:06 GMT",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+            "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 19:54:24 GMT",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
+            "description": "The Catholic Church in Australia has been marred by abuse allegations in recent years.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 19:57:14 +0000",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+            "description": "Rahul Gandhi has been arrested several times at protests demanding the resignation of poll body chief.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 19:40:07 +0000",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
+            "description": "Rabbi Dov Lando&#039;s comments expose tensions over Zionism, conscription and Netanyahu&#039;s ultra-Orthodox allies.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 18:57:18 +0000",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T23:48:26+03:30"
+        }
+    ]
+}
