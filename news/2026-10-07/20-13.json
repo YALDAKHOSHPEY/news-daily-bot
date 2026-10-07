@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T20:13:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Paramount, Warner Bros Formally Merge, Form Giant Mountain of Disastrous Debt",
+            "description": "<p>Article URL: <a href=\"https://www.techdirt.com/2026/10/07/paramount-warner-bros-formally-merge-form-giant-mountain-of-disastrous-debt/\">https://www.techdirt.com/2026/10/07/paramount-warner-bros-formally-merge-form-giant-mountain-of-disastrous-debt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994797\">https://news.ycombinator.com/item?id=49994797</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://www.techdirt.com/2026/10/07/paramount-warner-bros-formally-merge-form-giant-mountain-of-disastrous-debt/",
+            "published": "Wed, 07 Oct 2026 16:11:10 +0000",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth\">https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994746\">https://news.ycombinator.com/item?id=49994746</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+            "published": "Wed, 07 Oct 2026 16:07:08 +0000",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Navier–Stokes Lost in Translation",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.08144\">https://arxiv.org/abs/2610.08144</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994145\">https://news.ycombinator.com/item?id=49994145</a></p>\n<p>Points: 45</p>\n<p># Comments: 20</p>",
+            "url": "https://arxiv.org/abs/2610.08144",
+            "published": "Wed, 07 Oct 2026 15:24:38 +0000",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+            "description": "The Opposition leader made the pledge as she said the Tories face a \"battle for the soul of the this nation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+            "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 16:31:06 GMT",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boots sold in £7bn deal to Canadian billionaire family",
+            "description": "The sale of the High Street chain was announced on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 15:57:43 GMT",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+            "description": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 16:02:17 +0000",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The mass killing does not mean Israel’s winning",
+            "description": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 15:25:06 +0000",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+            "description": "Britons are risking freedom and reputations to stand with Palestinians and challenge government policy.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 15:13:21 +0000",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T20:13:19+03:30"
+        }
+    ]
+}
