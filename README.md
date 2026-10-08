@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 17:41:11
+**Last Update:** 2026-10-08 20:10:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Beauty in DVD Menus
+### 1. 4-hour battery storage is cheaper to install than gas turbines all across globe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vale.rocks/posts/dvd-menus">https://vale.rocks/posts/dvd-menus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50005527">https://news.ycombinator.com/item?id=50005527</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/">https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007519">https://news.ycombinator.com/item?id=50007519</a></p>
+<p>Points: 25</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://vale.rocks/posts/dvd-menus](https://vale.rocks/posts/dvd-menus)
+🔗 **Read more:** [https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
 
 ---
 
-### 2. Telnet BBS Guide
+### 2. New gTLD Application for .lan
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.telnetbbsguide.com/">https://www.telnetbbsguide.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50005017">https://news.ycombinator.com/item?id=50005017</a></p>
-<p>Points: 33</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary">https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007353">https://news.ycombinator.com/item?id=50007353</a></p>
+<p>Points: 51</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://www.telnetbbsguide.com/](https://www.telnetbbsguide.com/)
+🔗 **Read more:** [https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
 
 ---
 
-### 3. I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities
+### 3. US suspends Microsoft, major IT firms from key green card program
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quesma.com/blog/invisible-cities-one-shot/">https://quesma.com/blog/invisible-cities-one-shot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50004790">https://news.ycombinator.com/item?id=50004790</a></p>
-<p>Points: 130</p>
-<p># Comments: 58</p>
+<p>Article URL: <a href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/">https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50006948">https://news.ycombinator.com/item?id=50006948</a></p>
+<p>Points: 72</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://quesma.com/blog/invisible-cities-one-shot/](https://quesma.com/blog/invisible-cities-one-shot/)
+🔗 **Read more:** [https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
 
 ---
 
-### 4. Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears
+### 4. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former prince is taking legal action against Thames Valley Police after his homes were searched earlier this year.
+A criminal investigation into the former prince continues and police have retained material seized from his homes.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Royal Navy sailor in court accused of preparing to spy for Russia
+### 5. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.
+Police say they apprehended the suspects at about 02:00 while they were inside the perimeter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowne
 
 ---
 
-### 7. Shoot the People: Global Activism through Misan Harriman’s Lens
+### 7. Man City must ‘stick together’ after Premier League charges, says Haaland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.
+Erling Haaland calls on Man City to unite as Premier League club appeals more than 100 charges of wrongdoing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss)
 
 ---
 
-### 8. King David Hotel bombing to consulate row: A timeline of UK-Israel tension
+### 8. UK ex-prince Andrew search warrants quashed after police accept legal error
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s order to shut UK&#039;s Jerusalem consulate is the latest downturn in a relationship strained since before 1948.
+London-based judge says error &#039;does not bring investigation to an end&#039; as police probe disgraced former royal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
 
 ---
 
-### 9. ‘This is a crisis of hope’: Echoes of 1968 as France’s students rise up
+### 9. Video said to show Mali army in Kidal after retaking city
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As in 1968, when student protests triggered nationwide strikes, today’s crisis is about generational discontent.
+Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss)
 
 ---
 
