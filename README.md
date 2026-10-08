@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 10:18:24
+**Last Update:** 2026-10-08 12:43:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. “Math 2.0” will need to value mathematical progress more holistically
+### 1. OpenAI withdraws three mathematical results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@tao/117395269325940185">https://mathstodon.xyz/@tao/117395269325940185</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002008">https://news.ycombinator.com/item?id=50002008</a></p>
-<p>Points: 165</p>
-<p># Comments: 88</p>
+<p>Article URL: <a href="https://twitter.com/danintheory/status/2108065033070789090">https://twitter.com/danintheory/status/2108065033070789090</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002650">https://news.ycombinator.com/item?id=50002650</a></p>
+<p>Points: 37</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://mathstodon.xyz/@tao/117395269325940185](https://mathstodon.xyz/@tao/117395269325940185)
+🔗 **Read more:** [https://twitter.com/danintheory/status/2108065033070789090](https://twitter.com/danintheory/status/2108065033070789090)
 
 ---
 
-### 2. A 100x faster* alternative to homebrew
+### 2. Dat-ecosystem: high level applications built on top of P2P protocols
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zerobrewhq/zerobrew">https://github.com/zerobrewhq/zerobrew</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50001580">https://news.ycombinator.com/item?id=50001580</a></p>
-<p>Points: 53</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://dat-ecosystem.org/">https://dat-ecosystem.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002505">https://news.ycombinator.com/item?id=50002505</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew)
+🔗 **Read more:** [https://dat-ecosystem.org/](https://dat-ecosystem.org/)
 
 ---
 
-### 3. Margaret Hamilton has died
+### 3. Classic PC demoscene productions running natively in the browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 1232</p>
-<p># Comments: 135</p>
+<p>Article URL: <a href="https://treylorswift.github.io/demoscene-recomp/web/">https://treylorswift.github.io/demoscene-recomp/web/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002426">https://news.ycombinator.com/item?id=50002426</a></p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+🔗 **Read more:** [https://treylorswift.github.io/demoscene-recomp/web/](https://treylorswift.github.io/demoscene-recomp/web/)
 
 ---
 
-### 4. Burnham to hold security talks with German chancellor in Berlin
+### 4. Royal Navy service member charged with spying for a foreign power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.
+The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Syrian general accused of atrocities paid and protected by US and Lebanon, BBC finds
+### 5. Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.
+Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Roland Lescure tells the BBC that being in the bloc enables members to better ad
 
 ---
 
-### 7. Acclaimed Indian actor Nana Patekar dies aged 75
+### 7. Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Patekar won three National Film Awards and received the Padma Shri, one of the country&#039;s highest civilian honours.
+&#039;Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,&#039; his lawyer said.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss)
 
 ---
 
-### 8. How October 7 redrew the map of the Middle East
+### 8. ‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.
+Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss](https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss)
 
 ---
 
-### 9. What did Palestinians take when they fled after October 7?
+### 9. How Gaza war sped up India’s shift towards Israel under Modi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.
+As even Israel&#039;s traditional allies are distancing themselves from Netanyahu, Modi&#039;s India has embraced the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss](https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss)
 
 ---
 
@@ -162,16 +162,16 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire D3 Bear RX, Greenlee, Arizona
+### 12. Hurricane Nolo
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
 
 ---
 
