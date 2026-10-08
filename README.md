@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 20:10:41
+**Last Update:** 2026-10-08 23:50:21
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 4-hour battery storage is cheaper to install than gas turbines all across globe
+### 1. License update: AI derivation prohibited on all my art, lore, stories, comics
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/">https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007519">https://news.ycombinator.com/item?id=50007519</a></p>
-<p>Points: 25</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics">https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011028">https://news.ycombinator.com/item?id=50011028</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
+🔗 **Read more:** [https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
 
 ---
 
-### 2. New gTLD Application for .lan
+### 2. Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary">https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007353">https://news.ycombinator.com/item?id=50007353</a></p>
-<p>Points: 51</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months">https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50010656">https://news.ycombinator.com/item?id=50010656</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
+🔗 **Read more:** [https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
 
 ---
 
-### 3. US suspends Microsoft, major IT firms from key green card program
+### 3. The value of not getting to the point (2015)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/">https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50006948">https://news.ycombinator.com/item?id=50006948</a></p>
-<p>Points: 72</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50010470">https://news.ycombinator.com/item?id=50010470</a></p>
+<p>Points: 32</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
+🔗 **Read more:** [https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 
 ---
 
@@ -71,68 +71,68 @@ A criminal investigation into the former prince continues and police have retain
 
 ---
 
-### 5. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
+### 5. Watch: What does the ruling mean for the investigation into the former prince?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say they apprehended the suspects at about 02:00 while they were inside the perimeter.
+Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Three sisters who drowned in sea off Brighton took own lives, inquest finds
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Man City must ‘stick together’ after Premier League charges, says Haaland
+### 7. India’s Cockroach movement says members detained as protests continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Erling Haaland calls on Man City to unite as Premier League club appeals more than 100 charges of wrongdoing.
+India&#039;s opposition and student-led CJP movement demand election chief&#039;s resignation, plan mass demonstration Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss)
 
 ---
 
-### 8. UK ex-prince Andrew search warrants quashed after police accept legal error
+### 8. Prosecutors in Maradona death trial seek sentences up to 12 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-London-based judge says error &#039;does not bring investigation to an end&#039; as police probe disgraced former royal.
+Seven medical professionals face calls for 12-year prison sentences in trial over Argentina icon Diego Maradona&#039;s death.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss)
 
 ---
 
-### 9. Video said to show Mali army in Kidal after retaking city
+### 9. At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
+The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war&#039;s cost.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss)
 
 ---
 
@@ -162,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Koguma
+### 12. Typhoon Koguma
 
 **Source:** NASA
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T23:50:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+            "description": "<p>Article URL: <a href=\"https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics\">https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011028\">https://news.ycombinator.com/item?id=50011028</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+            "published": "Thu, 08 Oct 2026 19:43:59 +0000",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+            "description": "<p>Article URL: <a href=\"https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months\">https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50010656\">https://news.ycombinator.com/item?id=50010656</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+            "published": "Thu, 08 Oct 2026 19:17:51 +0000",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The value of not getting to the point (2015)",
+            "description": "<p>Article URL: <a href=\"https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/\">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50010470\">https://news.ycombinator.com/item?id=50010470</a></p>\n<p>Points: 32</p>\n<p># Comments: 6</p>",
+            "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+            "published": "Thu, 08 Oct 2026 19:04:56 +0000",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+            "description": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 16:33:29 GMT",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+            "description": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
+            "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 17:26:49 GMT",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+            "description": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 17:36:28 GMT",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s Cockroach movement says members detained as protests continue",
+            "description": "India&#039;s opposition and student-led CJP movement demand election chief&#039;s resignation, plan mass demonstration Saturday.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 19:49:03 +0000",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Prosecutors in Maradona death trial seek sentences up to 12 years",
+            "description": "Seven medical professionals face calls for 12-year prison sentences in trial over Argentina icon Diego Maradona&#039;s death.",
+            "url": "https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 19:46:46 +0000",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
+            "description": "The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war&#039;s cost.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 19:43:39 +0000",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T23:50:21+03:30"
+        }
+    ]
+}
