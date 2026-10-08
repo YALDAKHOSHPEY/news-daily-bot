@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T10:18:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "“Math 2.0” will need to value mathematical progress more holistically",
+            "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117395269325940185\">https://mathstodon.xyz/@tao/117395269325940185</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002008\">https://news.ycombinator.com/item?id=50002008</a></p>\n<p>Points: 165</p>\n<p># Comments: 88</p>",
+            "url": "https://mathstodon.xyz/@tao/117395269325940185",
+            "published": "Thu, 08 Oct 2026 05:14:14 +0000",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A 100x faster* alternative to homebrew",
+            "description": "<p>Article URL: <a href=\"https://github.com/zerobrewhq/zerobrew\">https://github.com/zerobrewhq/zerobrew</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50001580\">https://news.ycombinator.com/item?id=50001580</a></p>\n<p>Points: 53</p>\n<p># Comments: 30</p>",
+            "url": "https://github.com/zerobrewhq/zerobrew",
+            "published": "Thu, 08 Oct 2026 03:23:08 +0000",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Margaret Hamilton has died",
+            "description": "<p>Article URL: <a href=\"https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998895\">https://news.ycombinator.com/item?id=49998895</a></p>\n<p>Points: 1232</p>\n<p># Comments: 135</p>",
+            "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+            "published": "Wed, 07 Oct 2026 21:16:18 +0000",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to hold security talks with German chancellor in Berlin",
+            "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 04:45:56 GMT",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Syrian general accused of atrocities paid and protected by US and Lebanon, BBC finds",
+            "description": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+            "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 05:00:44 GMT",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Come all the way' back to EU, French finance minister tells UK",
+            "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 04:02:26 GMT",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Acclaimed Indian actor Nana Patekar dies aged 75",
+            "description": "Patekar won three National Film Awards and received the Padma Shri, one of the country&#039;s highest civilian honours.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 06:30:42 +0000",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How October 7 redrew the map of the Middle East",
+            "description": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 06:11:24 +0000",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What did Palestinians take when they fled after October 7?",
+            "description": "Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.",
+            "url": "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 06:08:05 +0000",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-08T10:18:24+03:30"
+        }
+    ]
+}

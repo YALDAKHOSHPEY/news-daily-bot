@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 05:37:21
+**Last Update:** 2026-10-08 10:18:24
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rust Port of TypeScript (Tsc)
+### 1. “Math 2.0” will need to value mathematical progress more holistically
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/pingdotgg/ts-rust">https://github.com/pingdotgg/ts-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50000676">https://news.ycombinator.com/item?id=50000676</a></p>
-<p>Points: 39</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://mathstodon.xyz/@tao/117395269325940185">https://mathstodon.xyz/@tao/117395269325940185</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002008">https://news.ycombinator.com/item?id=50002008</a></p>
+<p>Points: 165</p>
+<p># Comments: 88</p>
 
-🔗 **Read more:** [https://github.com/pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)
+🔗 **Read more:** [https://mathstodon.xyz/@tao/117395269325940185](https://mathstodon.xyz/@tao/117395269325940185)
 
 ---
 
-### 2. Margaret Hamilton has died
+### 2. A 100x faster* alternative to homebrew
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zerobrewhq/zerobrew">https://github.com/zerobrewhq/zerobrew</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50001580">https://news.ycombinator.com/item?id=50001580</a></p>
+<p>Points: 53</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://github.com/zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew)
+
+---
+
+### 3. Margaret Hamilton has died
 
 **Source:** Hacker News
 
@@ -35,56 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 743</p>
-<p># Comments: 86</p>
+<p>Points: 1232</p>
+<p># Comments: 135</p>
 
 🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ---
 
-### 3. 'Jonathan' is the oldest land animal on Earth
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998066">https://news.ycombinator.com/item?id=49998066</a></p>
-<p>Points: 48</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-
----
-
-### 4. Christa Pike 'angry and confused' after failed execution, lawyers say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Lawyers say the convicted killer was surprised to have survived and remained "shackled" to her hospital bed.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: What we know about Christa Pike's ‘shock’ recovery in hospital
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US death row inmate's legal team said at a press conference that she is now "conscious and speaking" after her failed execution.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham to hold security talks with German chancellor in Berlin
+### 4. Burnham to hold security talks with German chancellor in Berlin
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Downing Street said deeper co-operation in the face of rising hybrid threats fro
 
 ---
 
-### 7. Why is Guantanamo prison still open?
+### 5. Syrian general accused of atrocities paid and protected by US and Lebanon, BBC finds
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open
+Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Democrats sue US President Trump over taxpayer-funded ad campaign
+### 6. 'Come all the way' back to EU, French finance minister tells UK
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.
+Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Death of 87-year old sparks furious Spain housing protests
+### 7. Acclaimed Indian actor Nana Patekar dies aged 75
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.
+Patekar won three National Film Awards and received the Padma Shri, one of the country&#039;s highest civilian honours.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss)
+
+---
+
+### 8. How October 7 redrew the map of the Middle East
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss)
+
+---
+
+### 9. What did Palestinians take when they fled after October 7?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss](https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss)
 
 ---
 
