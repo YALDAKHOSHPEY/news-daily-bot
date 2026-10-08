@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 12:43:18
+**Last Update:** 2026-10-08 17:41:11
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI withdraws three mathematical results
+### 1. Beauty in DVD Menus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/danintheory/status/2108065033070789090">https://twitter.com/danintheory/status/2108065033070789090</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002650">https://news.ycombinator.com/item?id=50002650</a></p>
-<p>Points: 37</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://twitter.com/danintheory/status/2108065033070789090](https://twitter.com/danintheory/status/2108065033070789090)
-
----
-
-### 2. Dat-ecosystem: high level applications built on top of P2P protocols
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dat-ecosystem.org/">https://dat-ecosystem.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002505">https://news.ycombinator.com/item?id=50002505</a></p>
+<p>Article URL: <a href="https://vale.rocks/posts/dvd-menus">https://vale.rocks/posts/dvd-menus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50005527">https://news.ycombinator.com/item?id=50005527</a></p>
 <p>Points: 9</p>
-<p># Comments: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://dat-ecosystem.org/](https://dat-ecosystem.org/)
+🔗 **Read more:** [https://vale.rocks/posts/dvd-menus](https://vale.rocks/posts/dvd-menus)
 
 ---
 
-### 3. Classic PC demoscene productions running natively in the browser
+### 2. Telnet BBS Guide
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://treylorswift.github.io/demoscene-recomp/web/">https://treylorswift.github.io/demoscene-recomp/web/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002426">https://news.ycombinator.com/item?id=50002426</a></p>
-<p>Points: 35</p>
+<p>Article URL: <a href="https://www.telnetbbsguide.com/">https://www.telnetbbsguide.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50005017">https://news.ycombinator.com/item?id=50005017</a></p>
+<p>Points: 33</p>
 <p># Comments: 11</p>
 
-🔗 **Read more:** [https://treylorswift.github.io/demoscene-recomp/web/](https://treylorswift.github.io/demoscene-recomp/web/)
+🔗 **Read more:** [https://www.telnetbbsguide.com/](https://www.telnetbbsguide.com/)
 
 ---
 
-### 4. Royal Navy service member charged with spying for a foreign power
+### 3. I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://quesma.com/blog/invisible-cities-one-shot/">https://quesma.com/blog/invisible-cities-one-shot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50004790">https://news.ycombinator.com/item?id=50004790</a></p>
+<p>Points: 130</p>
+<p># Comments: 58</p>
+
+🔗 **Read more:** [https://quesma.com/blog/invisible-cities-one-shot/](https://quesma.com/blog/invisible-cities-one-shot/)
+
+---
+
+### 4. Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.
+The former prince is taking legal action against Thames Valley Police after his homes were searched earlier this year.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Royal Navy sailor in court accused of preparing to spy for Russia
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+### 6. Three sisters who drowned in sea off Brighton took own lives, inquest finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.
+Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'Come all the way' back to EU, French finance minister tells UK
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
+### 7. Shoot the People: Global Activism through Misan Harriman’s Lens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,&#039; his lawyer said.
+Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss)
 
 ---
 
-### 8. ‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife
+### 8. King David Hotel bombing to consulate row: A timeline of UK-Israel tension
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.
+Israel&#039;s order to shut UK&#039;s Jerusalem consulate is the latest downturn in a relationship strained since before 1948.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss](https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss)
 
 ---
 
-### 9. How Gaza war sped up India’s shift towards Israel under Modi
+### 9. ‘This is a crisis of hope’: Echoes of 1968 as France’s students rise up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As even Israel&#039;s traditional allies are distancing themselves from Netanyahu, Modi&#039;s India has embraced the country.
+As in 1968, when student protests triggered nationwide strikes, today’s crisis is about generational discontent.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Isaias
+### 10. Tropical Storm Simon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094)
+
+---
+
+### 11. Hurricane Isaias
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Koguma
+### 12. Tropical Storm Koguma
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
-
----
-
-### 12. Hurricane Nolo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
 
 ---
 

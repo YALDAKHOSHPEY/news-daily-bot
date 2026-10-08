@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T17:41:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beauty in DVD Menus",
+            "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/dvd-menus\">https://vale.rocks/posts/dvd-menus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50005527\">https://news.ycombinator.com/item?id=50005527</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://vale.rocks/posts/dvd-menus",
+            "published": "Thu, 08 Oct 2026 13:22:01 +0000",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Telnet BBS Guide",
+            "description": "<p>Article URL: <a href=\"https://www.telnetbbsguide.com/\">https://www.telnetbbsguide.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50005017\">https://news.ycombinator.com/item?id=50005017</a></p>\n<p>Points: 33</p>\n<p># Comments: 11</p>",
+            "url": "https://www.telnetbbsguide.com/",
+            "published": "Thu, 08 Oct 2026 12:28:35 +0000",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+            "description": "<p>Article URL: <a href=\"https://quesma.com/blog/invisible-cities-one-shot/\">https://quesma.com/blog/invisible-cities-one-shot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50004790\">https://news.ycombinator.com/item?id=50004790</a></p>\n<p>Points: 130</p>\n<p># Comments: 58</p>",
+            "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+            "published": "Thu, 08 Oct 2026 12:00:20 +0000",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
+            "description": "The former prince is taking legal action against Thames Valley Police after his homes were searched earlier this year.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 14:07:58 GMT",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
+            "description": "The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+            "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 12:44:03 GMT",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
+            "description": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
+            "url": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 13:11:01 GMT",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Shoot the People: Global Activism through Misan Harriman’s Lens",
+            "description": "Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.",
+            "url": "https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 14:02:10 +0000",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
+            "description": "Israel&#039;s order to shut UK&#039;s Jerusalem consulate is the latest downturn in a relationship strained since before 1948.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 14:01:54 +0000",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘This is a crisis of hope’: Echoes of 1968 as France’s students rise up",
+            "description": "As in 1968, when student protests triggered nationwide strikes, today’s crisis is about generational discontent.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/echoes-of-may-1968-frances-students-rise-up-again?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 14:01:13 +0000",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T17:41:11+03:30"
+        }
+    ]
+}
