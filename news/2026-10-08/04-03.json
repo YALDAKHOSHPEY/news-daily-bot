@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T04:03:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Margaret Hamilton has died",
+            "description": "<p>Article URL: <a href=\"https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998895\">https://news.ycombinator.com/item?id=49998895</a></p>\n<p>Points: 501</p>\n<p># Comments: 58</p>",
+            "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+            "published": "Wed, 07 Oct 2026 21:16:18 +0000",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Jonathan' is the oldest land animal on Earth",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998066\">https://news.ycombinator.com/item?id=49998066</a></p>\n<p>Points: 30</p>\n<p># Comments: 6</p>",
+            "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+            "published": "Wed, 07 Oct 2026 20:01:37 +0000",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+            "description": "<p>Article URL: <a href=\"https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/\">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997161\">https://news.ycombinator.com/item?id=49997161</a></p>\n<p>Points: 256</p>\n<p># Comments: 250</p>",
+            "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+            "published": "Wed, 07 Oct 2026 18:49:40 +0000",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+            "description": "Lawyers say the convicted killer was surprised to have survived and remained \"shackled\" to her hospital bed.",
+            "url": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 21:51:21 GMT",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
+            "description": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution.",
+            "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 20:01:05 GMT",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+            "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+            "description": "Saudi-backed Yemeni forces claim advances in western Taiz&#039;s mountain belt overlooking the coast.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU-China trade talks begin in Beijing amid escalating pressure",
+            "description": "Talks will focus on the €1bn daily deficit and rare earth export restrictions.",
+            "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 23:45:03 +0000",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+            "description": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 23:33:29 +0000",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-08T04:03:29+03:30"
+        }
+    ]
+}
