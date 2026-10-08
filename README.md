@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 23:50:21
+**Last Update:** 2026-10-09 01:44:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. License update: AI derivation prohibited on all my art, lore, stories, comics
+### 1. Show HN: Free open source Adobe Lightroom alternative, completely local with AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics">https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011028">https://news.ycombinator.com/item?id=50011028</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/thesnarkitecht/rembrandt">https://github.com/thesnarkitecht/rembrandt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50012199">https://news.ycombinator.com/item?id=50012199</a></p>
+<p>Points: 18</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
+🔗 **Read more:** [https://github.com/thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt)
 
 ---
 
-### 2. Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances
+### 2. AI-ready biological data: $1.8B global commitment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months">https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50010656">https://news.ycombinator.com/item?id=50010656</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative-expansion/">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011999">https://news.ycombinator.com/item?id=50011999</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
+🔗 **Read more:** [https://biohub.org/news/virtual-biology-initiative-expansion/](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
-### 3. The value of not getting to the point (2015)
+### 3. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/">https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50010470">https://news.ycombinator.com/item?id=50010470</a></p>
-<p>Points: 32</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011928">https://news.ycombinator.com/item?id=50011928</a></p>
+<p>Points: 42</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+🔗 **Read more:** [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 
 ---
 
@@ -97,42 +97,42 @@ Police say they apprehended two Latvian men at about 02:00 BST while they were i
 
 ---
 
-### 7. India’s Cockroach movement says members detained as protests continue
+### 7. What Man City charges anger Liverpool before Premier League game?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India&#039;s opposition and student-led CJP movement demand election chief&#039;s resignation, plan mass demonstration Saturday.
+Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss)
 
 ---
 
-### 8. Prosecutors in Maradona death trial seek sentences up to 12 years
+### 8. Police use tear gas and water cannons on student protestors in Paris
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven medical professionals face calls for 12-year prison sentences in trial over Argentina icon Diego Maradona&#039;s death.
+Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss)
 
 ---
 
-### 9. At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war
+### 9. Trump gives top US science awards to Elon Musk and other tech executives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war&#039;s cost.
+The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,20 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Hurricane Isaias
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119)
+
+---
+
+### 12. Hurricane Isaias
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063)
-
----
-
-### 12. Typhoon Koguma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
 
 ---
 
