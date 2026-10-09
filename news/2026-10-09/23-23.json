@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T23:23:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You might want to try being less creative",
+            "description": "<p>Article URL: <a href=\"https://blog.bawolf.com/p/you-might-want-to-try-being-less\">https://blog.bawolf.com/p/you-might-want-to-try-being-less</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024927\">https://news.ycombinator.com/item?id=50024927</a></p>\n<p>Points: 25</p>\n<p># Comments: 10</p>",
+            "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+            "published": "Fri, 09 Oct 2026 18:39:47 +0000",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft-Decision-1, our model for fast decision-making",
+            "description": "<p>Article URL: <a href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024913\">https://news.ycombinator.com/item?id=50024913</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+            "published": "Fri, 09 Oct 2026 18:38:44 +0000",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "M7.6 Earthquake in Panama",
+            "description": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024669\">https://news.ycombinator.com/item?id=50024669</a></p>\n<p>Points: 74</p>\n<p># Comments: 26</p>",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+            "published": "Fri, 09 Oct 2026 18:22:20 +0000",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+            "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+            "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 18:40:10 GMT",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+            "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 19:26:53 GMT",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+            "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+            "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+            "description": "Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 19:32:13 +0000",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+            "description": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 19:22:56 +0000",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Injured Orangutan rescued from Indonesia wildfires",
+            "description": "A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 19:14:56 +0000",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T23:23:25+03:30"
+        }
+    ]
+}
