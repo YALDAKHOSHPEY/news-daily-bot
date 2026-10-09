@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 23:23:25
+**Last Update:** 2026-10-10 00:34:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. You might want to try being less creative
+### 1. No Man Is an Island
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://borretti.me/article/no-man-is-an-island">https://borretti.me/article/no-man-is-an-island</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50025935">https://news.ycombinator.com/item?id=50025935</a></p>
+<p>Points: 78</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://borretti.me/article/no-man-is-an-island](https://borretti.me/article/no-man-is-an-island)
+
+---
+
+### 2. You might want to try being less creative
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.bawolf.com/p/you-might-want-to-try-being-less">https://blog.bawolf.com/p/you-might-want-to-try-being-less</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024927">https://news.ycombinator.com/item?id=50024927</a></p>
-<p>Points: 25</p>
-<p># Comments: 10</p>
+<p>Points: 41</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://blog.bawolf.com/p/you-might-want-to-try-being-less](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
 
 ---
 
-### 2. Microsoft-Decision-1, our model for fast decision-making
+### 3. Microsoft-Decision-1, our model for fast decision-making
 
 **Source:** Hacker News
 
@@ -35,30 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://commandline.microsoft.com/microsoft-decision-1-model-foundry/">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024913">https://news.ycombinator.com/item?id=50024913</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 60</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://commandline.microsoft.com/microsoft-decision-1-model-foundry/](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/)
 
 ---
 
-### 3. M7.6 Earthquake in Panama
+### 4. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50024669">https://news.ycombinator.com/item?id=50024669</a></p>
-<p>Points: 74</p>
-<p># Comments: 26</p>
+Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
 
-🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
+### 5. NI secretary to ban the Drumcree parade
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. US unveils sanctions on ICC in move court condemns as 'assault on rule of law'
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Several member states of the international tribunal, including the UK, say they 
 
 ---
 
-### 5. Polanski vows to stay on as Green leader as he faces criticism after by-election defeat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. King pays Andrew's £1.5m repair bill on Royal Lodge
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. European states, Canada, Japan and UN back ICC against US sanctions
+### 7. How will Spain’s housing crisis affect elections?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.
+Snap vote called after Parliament rejects measures to protect tenants and freeze rents.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss)
 
 ---
 
-### 8. Tsunami warnings across Latin America after 7.7 magnitude earthquake hits
+### 8. Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.
+South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss)
 
 ---
 
-### 9. Injured Orangutan rescued from Indonesia wildfires
+### 9. Rising fuel costs slashed Delta’s profit outlook despite strong demand
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.
+Rising fuel prices push Delta&#039;s annual fuel expenses up by $6bn, affecting its profit outlook for 2026.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss)
 
 ---
 
