@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 04:19:02
+**Last Update:** 2026-10-09 05:50:51
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/edrisranjbar/lifeos">https://github.com/edrisranjbar/lifeos</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50014150">https://news.ycombinator.com/item?id=50014150</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/edrisranjbar/lifeos](https://github.com/edrisranjbar/lifeos)
 
@@ -35,43 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://svg-spark.vercel.app/">https://svg-spark.vercel.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013931">https://news.ycombinator.com/item?id=50013931</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://svg-spark.vercel.app/](https://svg-spark.vercel.app/)
 
 ---
 
-### 3. OpenAI, the Partition Principle, and Mathematics
+### 3. Bevy 0.20
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://karagila.org/2026/openai-pp/">https://karagila.org/2026/openai-pp/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013902">https://news.ycombinator.com/item?id=50013902</a></p>
-<p>Points: 47</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://bevy.org/news/bevy-0-20/">https://bevy.org/news/bevy-0-20/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013610">https://news.ycombinator.com/item?id=50013610</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://karagila.org/2026/openai-pp/](https://karagila.org/2026/openai-pp/)
-
----
-
-### 4. ADHD and autism at risk of over-diagnosis, says government review
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://bevy.org/news/bevy-0-20/](https://bevy.org/news/bevy-0-20/)
 
 ---
 
-### 5. Polanski failed to show leadership over Zionism motion, ex-Green leader says
+### 4. Polanski failed to show leadership over Zionism motion, ex-Green leader says
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ The review, which focuses on younger people, warned there was a risk society was
 Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. ADHD and autism at risk of over-diagnosis, says government review
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ A criminal investigation into the former prince continues and police have retain
 
 ---
 
-### 7. USS Lincoln returns to US after long deployment supporting war on Iran
+### 7. Christa Pike case underscores prevalence of botched executions in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Crew members express relief after a record 265 days at sea that strained conditions on board.
+Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss)
 
 ---
 
-### 8. A father’s agony after an Israeli air strike hits Gaza apartment
+### 8. Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.
+The race between Democrat Abdul El-Sayed and Republican Mike Rogers is considered a toss-up in push to control Senate.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss)
 
 ---
 
-### 9. Will Ethiopia’s neighbours intervene as Tigray war escalates?
+### 9. Protests, debate follow death of Maricarmen, 87, Spain protest symbol
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tigray’s renewed war is testing Ethiopia’s already strained regional ties.
+Thousands of protesters honour Maricarmen Abascal&#039;s life, while tributes in Spanish parliament spark debate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss)
 
 ---
 
