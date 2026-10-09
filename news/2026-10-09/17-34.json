@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T17:34:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Our $445M Series D",
+            "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/our-445m-series-d\">https://oxide.computer/blog/our-445m-series-d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020014\">https://news.ycombinator.com/item?id=50020014</a></p>\n<p>Points: 84</p>\n<p># Comments: 18</p>",
+            "url": "https://oxide.computer/blog/our-445m-series-d",
+            "published": "Fri, 09 Oct 2026 13:12:47 +0000",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deno Is Joining Cloudflare",
+            "description": "<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p>\n<p>Points: 188</p>\n<p># Comments: 84</p>",
+            "url": "https://deno.com/blog/cloudflare",
+            "published": "Fri, 09 Oct 2026 13:03:48 +0000",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Study: Exercise increases cancer survival rates",
+            "description": "<p>Article URL: <a href=\"https://www.nejm.org/doi/10.1056/NEJMoa2502760\">https://www.nejm.org/doi/10.1056/NEJMoa2502760</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019741\">https://news.ycombinator.com/item?id=50019741</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+            "published": "Fri, 09 Oct 2026 12:49:41 +0000",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+            "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 13:59:57 GMT",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+            "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+            "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
+            "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:24:58 GMT",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+            "description": "Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 13:09:15 +0000",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Child flees as Israeli settlers hijack car during pogrom",
+            "description": "A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 13:09:13 +0000",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine takes aim at Russia’s AI data infrastructure",
+            "description": "Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 13:01:57 +0000",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T17:34:48+03:30"
+        }
+    ]
+}

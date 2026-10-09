@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 12:52:20
+**Last Update:** 2026-10-09 17:34:48
 
 **Total News:** 12
 
@@ -10,82 +10,81 @@
 
 ## 📰 Latest News
 
-### 1. OTel-Native by Design – Building Products That Export to Any Observability Stack
+### 1. Our $445M Series D
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://opentelemetry.io/blog/2026/otel-native-by-design/">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016974">https://news.ycombinator.com/item?id=50016974</a></p>
-<p>Points: 37</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://oxide.computer/blog/our-445m-series-d">https://oxide.computer/blog/our-445m-series-d</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50020014">https://news.ycombinator.com/item?id=50020014</a></p>
+<p>Points: 84</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://opentelemetry.io/blog/2026/otel-native-by-design/](https://opentelemetry.io/blog/2026/otel-native-by-design/)
+🔗 **Read more:** [https://oxide.computer/blog/our-445m-series-d](https://oxide.computer/blog/our-445m-series-d)
 
 ---
 
-### 2. Show HN: OldRoll, a free vintage photo editor for the browser
+### 2. Deno Is Joining Cloudflare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016840">https://news.ycombinator.com/item?id=50016840</a></p>
+<p>Article URL: <a href="https://deno.com/blog/cloudflare">https://deno.com/blog/cloudflare</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50019911">https://news.ycombinator.com/item?id=50019911</a></p>
+<p>Points: 188</p>
+<p># Comments: 84</p>
+
+🔗 **Read more:** [https://deno.com/blog/cloudflare](https://deno.com/blog/cloudflare)
+
+---
+
+### 3. Study: Exercise increases cancer survival rates
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nejm.org/doi/10.1056/NEJMoa2502760">https://www.nejm.org/doi/10.1056/NEJMoa2502760</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50019741">https://news.ycombinator.com/item?id=50019741</a></p>
 <p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.oldroll.io/](https://www.oldroll.io/)
+🔗 **Read more:** [https://www.nejm.org/doi/10.1056/NEJMoa2502760](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
 
 ---
 
-### 3. MXC - a sandboxed code execution system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/microsoft/mxc">https://github.com/microsoft/mxc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016489">https://news.ycombinator.com/item?id=50016489</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/microsoft/mxc](https://github.com/microsoft/mxc)
-
----
-
-### 4. I would not have voted for Zionism motion, Polanski says
+### 4. Polanski vows to stay on as Green leader as he faces criticism after by-election defeat
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A motion declaring Zionism a form of racism was passed by Green Party members on Sunday.
+Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Questions remain for Green Party leader Zack Polanski
+### 5. King pays Andrew's £1.5m repair bill on Royal Lodge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.
+Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Firing squad execution to be livestreamed, Pentagon says
+### 6. Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says
 
 **Source:** BBC
 
@@ -98,42 +97,42 @@ Pete Hegseth says the execution will be public, but a legal expert says the "unp
 
 ---
 
-### 7. NBA star Wembanyama to French students: ‘I hear you’
+### 7. Ukraine pushes Russia back in Donetsk as military, civilian casualties soar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.
+Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss)
 
 ---
 
-### 8. New York police push politician to ground during anti-ICE protest
+### 8. Child flees as Israeli settlers hijack car during pogrom
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York police push politician to ground during anti-ICE protest
+A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss)
 
 ---
 
-### 9. Japan’s Okinawa calls for review of US forces pact after killing
+### 9. Ukraine takes aim at Russia’s AI data infrastructure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.
+Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss)
 
 ---
 
