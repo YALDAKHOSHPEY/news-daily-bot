@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 17:34:48
+**Last Update:** 2026-10-09 19:54:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Our $445M Series D
+### 1. A statement on the Tor Project's relationship with Mullvad
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxide.computer/blog/our-445m-series-d">https://oxide.computer/blog/our-445m-series-d</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50020014">https://news.ycombinator.com/item?id=50020014</a></p>
-<p>Points: 84</p>
+<p>Article URL: <a href="https://blog.torproject.org/on-tor-relationship-with-mullvad/">https://blog.torproject.org/on-tor-relationship-with-mullvad/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50022266">https://news.ycombinator.com/item?id=50022266</a></p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://blog.torproject.org/on-tor-relationship-with-mullvad/](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
+
+---
+
+### 2. The super intelligence shit is a humiliation ritual for OpenAI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z">https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021763">https://news.ycombinator.com/item?id=50021763</a></p>
+<p>Points: 52</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
+
+---
+
+### 3. Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms">https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021540">https://news.ycombinator.com/item?id=50021540</a></p>
+<p>Points: 51</p>
 <p># Comments: 18</p>
 
-🔗 **Read more:** [https://oxide.computer/blog/our-445m-series-d](https://oxide.computer/blog/our-445m-series-d)
-
----
-
-### 2. Deno Is Joining Cloudflare
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://deno.com/blog/cloudflare">https://deno.com/blog/cloudflare</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50019911">https://news.ycombinator.com/item?id=50019911</a></p>
-<p>Points: 188</p>
-<p># Comments: 84</p>
-
-🔗 **Read more:** [https://deno.com/blog/cloudflare](https://deno.com/blog/cloudflare)
-
----
-
-### 3. Study: Exercise increases cancer survival rates
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nejm.org/doi/10.1056/NEJMoa2502760">https://www.nejm.org/doi/10.1056/NEJMoa2502760</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50019741">https://news.ycombinator.com/item?id=50019741</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.nejm.org/doi/10.1056/NEJMoa2502760](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
+🔗 **Read more:** [https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
 
 ---
 
@@ -84,55 +84,55 @@ Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs af
 
 ---
 
-### 6. Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says
+### 6. Widdecombe suspect had 'particular hostility to Reform', court told
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pete Hegseth says the execution will be public, but a legal expert says the "unprecedented" decision is on "uncertain legal terrain".
+Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ukraine pushes Russia back in Donetsk as military, civilian casualties soar
+### 7. Thousands rally for anti-austerity protest in Brussels amid clashes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.
+Belgian police respond to &#039;troublemakers&#039; on sidelines of main rally with tear gas, water cannon and baton charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss)
 
 ---
 
-### 8. Child flees as Israeli settlers hijack car during pogrom
+### 8. Trump launches probe into Federal Reserve Governor Lisa Cook
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Palestinian boy was seen fleeing after Israeli settlers attacked his father and stole their car in Ramallah.
+Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss)
 
 ---
 
-### 9. Ukraine takes aim at Russia’s AI data infrastructure
+### 9. ‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Drone attacks target Russian digital giant Yandex, as well as continuing strikes on missile plants and oil refineries.
+US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss)
 
 ---
 
