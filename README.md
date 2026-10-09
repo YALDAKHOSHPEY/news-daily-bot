@@ -1,71 +1,72 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 10:27:13
+**Last Update:** 2026-10-09 12:52:20
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Quake ported to safe Rust, playable in browser
+### 1. OTel-Native by Design – Building Products That Export to Any Observability Stack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quake-srp.pages.dev/">https://quake-srp.pages.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016312">https://news.ycombinator.com/item?id=50016312</a></p>
-<p>Points: 83</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://opentelemetry.io/blog/2026/otel-native-by-design/">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016974">https://news.ycombinator.com/item?id=50016974</a></p>
+<p>Points: 37</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://quake-srp.pages.dev/](https://quake-srp.pages.dev/)
+🔗 **Read more:** [https://opentelemetry.io/blog/2026/otel-native-by-design/](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 
 ---
 
-### 2. Keyboard differences between Windows and Macs
+### 2. Show HN: OldRoll, a free vintage photo editor for the browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50015515">https://news.ycombinator.com/item?id=50015515</a></p>
-<p>Points: 64</p>
-<p># Comments: 53</p>
+<p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016840">https://news.ycombinator.com/item?id=50016840</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+🔗 **Read more:** [https://www.oldroll.io/](https://www.oldroll.io/)
 
 ---
 
-### 3. What should we tell our students?
+### 3. MXC - a sandboxed code execution system
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/">https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50015236">https://news.ycombinator.com/item?id=50015236</a></p>
-<p>Points: 74</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://github.com/microsoft/mxc">https://github.com/microsoft/mxc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016489">https://news.ycombinator.com/item?id=50016489</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
+🔗 **Read more:** [https://github.com/microsoft/mxc](https://github.com/microsoft/mxc)
 
 ---
 
-### 4. Zack Polanski defends leadership after Zionism row and by-election loss
+### 4. I would not have voted for Zionism motion, Polanski says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Green Party leader has been criticised for his response to a motion passed by members declaring Zionism a form of racism.
+A motion declaring Zionism a form of racism was passed by Green Party members on Sunday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +98,42 @@ Pete Hegseth says the execution will be public, but a legal expert says the "unp
 
 ---
 
-### 7. Afghanistan’s emerald miners struggle with tools but attract global buyers
+### 7. NBA star Wembanyama to French students: ‘I hear you’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir&#039;s steep valleys.
+San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss)
 
 ---
 
-### 8. Trump says US will not strike Iran before midterm elections
+### 8. New York police push politician to ground during anti-ICE protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.
+New York police push politician to ground during anti-ICE protest
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss)
 
 ---
 
-### 9. Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro
+### 9. Japan’s Okinawa calls for review of US forces pact after killing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arrest warrant for presidential candidate&#039;s brother is issued weeks before Brazil&#039;s runoff election.
+Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss)
 
 ---
 
