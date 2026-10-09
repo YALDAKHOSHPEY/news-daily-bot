@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T10:27:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Quake ported to safe Rust, playable in browser",
+            "description": "<p>Article URL: <a href=\"https://quake-srp.pages.dev/\">https://quake-srp.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016312\">https://news.ycombinator.com/item?id=50016312</a></p>\n<p>Points: 83</p>\n<p># Comments: 49</p>",
+            "url": "https://quake-srp.pages.dev/",
+            "published": "Fri, 09 Oct 2026 05:22:58 +0000",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Keyboard differences between Windows and Macs",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015515\">https://news.ycombinator.com/item?id=50015515</a></p>\n<p>Points: 64</p>\n<p># Comments: 53</p>",
+            "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+            "published": "Fri, 09 Oct 2026 03:08:05 +0000",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What should we tell our students?",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/\">https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015236\">https://news.ycombinator.com/item?id=50015236</a></p>\n<p>Points: 74</p>\n<p># Comments: 76</p>",
+            "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+            "published": "Fri, 09 Oct 2026 02:27:45 +0000",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zack Polanski defends leadership after Zionism row and by-election loss",
+            "description": "The Green Party leader has been criticised for his response to a motion passed by members declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 04:38:19 GMT",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
+            "description": "Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 06:39:13 GMT",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Firing squad execution to be livestreamed, Pentagon says",
+            "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 03:36:12 GMT",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
+            "description": "Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir&#039;s steep valleys.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 06:36:48 +0000",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says US will not strike Iran before midterm elections",
+            "description": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 06:22:07 +0000",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
+            "description": "Arrest warrant for presidential candidate&#039;s brother is issued weeks before Brazil&#039;s runoff election.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 06:19:56 +0000",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T10:27:13+03:30"
+        }
+    ]
+}
