@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 01:44:47
+**Last Update:** 2026-10-09 04:19:02
 
 **Total News:** 12
 
@@ -10,55 +10,81 @@
 
 ## 📰 Latest News
 
-### 1. Show HN: Free open source Adobe Lightroom alternative, completely local with AI
+### 1. Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/thesnarkitecht/rembrandt">https://github.com/thesnarkitecht/rembrandt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50012199">https://news.ycombinator.com/item?id=50012199</a></p>
-<p>Points: 18</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://github.com/edrisranjbar/lifeos">https://github.com/edrisranjbar/lifeos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50014150">https://news.ycombinator.com/item?id=50014150</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt)
+🔗 **Read more:** [https://github.com/edrisranjbar/lifeos](https://github.com/edrisranjbar/lifeos)
 
 ---
 
-### 2. AI-ready biological data: $1.8B global commitment
+### 2. Show HN: SVG Spark – 10 client-side SVG design and dev tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative-expansion/">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011999">https://news.ycombinator.com/item?id=50011999</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://svg-spark.vercel.app/">https://svg-spark.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013931">https://news.ycombinator.com/item?id=50013931</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://biohub.org/news/virtual-biology-initiative-expansion/](https://biohub.org/news/virtual-biology-initiative-expansion/)
+🔗 **Read more:** [https://svg-spark.vercel.app/](https://svg-spark.vercel.app/)
 
 ---
 
-### 3. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy
+### 3. OpenAI, the Partition Principle, and Mathematics
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011928">https://news.ycombinator.com/item?id=50011928</a></p>
-<p>Points: 42</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://karagila.org/2026/openai-pp/">https://karagila.org/2026/openai-pp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50013902">https://news.ycombinator.com/item?id=50013902</a></p>
+<p>Points: 47</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
+🔗 **Read more:** [https://karagila.org/2026/openai-pp/](https://karagila.org/2026/openai-pp/)
 
 ---
 
-### 4. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
+### 4. ADHD and autism at risk of over-diagnosis, says government review
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Polanski failed to show leadership over Zionism motion, ex-Green leader says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ A criminal investigation into the former prince continues and police have retain
 
 ---
 
-### 5. Watch: What does the ruling mean for the investigation into the former prince?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. What Man City charges anger Liverpool before Premier League game?
+### 7. USS Lincoln returns to US after long deployment supporting war on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.
+Crew members express relief after a record 265 days at sea that strained conditions on board.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss)
 
 ---
 
-### 8. Police use tear gas and water cannons on student protestors in Paris
+### 8. A father’s agony after an Israeli air strike hits Gaza apartment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.
+An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss)
 
 ---
 
-### 9. Trump gives top US science awards to Elon Musk and other tech executives
+### 9. Will Ethiopia’s neighbours intervene as Tigray war escalates?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.
+Tigray’s renewed war is testing Ethiopia’s already strained regional ties.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss)
 
 ---
 

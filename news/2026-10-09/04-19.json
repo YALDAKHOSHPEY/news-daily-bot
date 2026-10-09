@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T04:19:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+            "description": "<p>Article URL: <a href=\"https://github.com/edrisranjbar/lifeos\">https://github.com/edrisranjbar/lifeos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50014150\">https://news.ycombinator.com/item?id=50014150</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/edrisranjbar/lifeos",
+            "published": "Fri, 09 Oct 2026 00:02:19 +0000",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+            "description": "<p>Article URL: <a href=\"https://svg-spark.vercel.app/\">https://svg-spark.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013931\">https://news.ycombinator.com/item?id=50013931</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://svg-spark.vercel.app/",
+            "published": "Thu, 08 Oct 2026 23:32:49 +0000",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI, the Partition Principle, and Mathematics",
+            "description": "<p>Article URL: <a href=\"https://karagila.org/2026/openai-pp/\">https://karagila.org/2026/openai-pp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013902\">https://news.ycombinator.com/item?id=50013902</a></p>\n<p>Points: 47</p>\n<p># Comments: 38</p>",
+            "url": "https://karagila.org/2026/openai-pp/",
+            "published": "Thu, 08 Oct 2026 23:29:43 +0000",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "ADHD and autism at risk of over-diagnosis, says government review",
+            "description": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
+            "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 23:01:30 GMT",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+            "description": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 23:56:16 GMT",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+            "description": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 16:33:29 GMT",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+            "description": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 00:39:20 +0000",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+            "description": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 00:12:18 +0000",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+            "description": "Tigray’s renewed war is testing Ethiopia’s already strained regional ties.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 00:08:33 +0000",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T04:19:02+03:30"
+        }
+    ]
+}
