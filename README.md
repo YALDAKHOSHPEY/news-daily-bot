@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 13:43:53
+**Last Update:** 2026-10-10 17:23:47
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
+### 1. I Would Like the Value of My Home to Rise, While My Property Taxes Fall
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032758">https://news.ycombinator.com/item?id=50032758</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+
+---
+
+### 2. Lobbying Is Corruption
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://carette.xyz/posts/lobbying_and_corruption/">https://carette.xyz/posts/lobbying_and_corruption/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032556">https://news.ycombinator.com/item?id=50032556</a></p>
+<p>Points: 80</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://carette.xyz/posts/lobbying_and_corruption/](https://carette.xyz/posts/lobbying_and_corruption/)
+
+---
+
+### 3. Apple/macOS silently removed from official Unix registry
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.opengroup.org//openbrand/register/">https://www.opengroup.org//openbrand/register/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031653">https://news.ycombinator.com/item?id=50031653</a></p>
+<p>Points: 78</p>
+<p># Comments: 76</p>
+
+🔗 **Read more:** [https://www.opengroup.org//openbrand/register/](https://www.opengroup.org//openbrand/register/)
+
+---
+
+### 4. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 
 **Source:** BBC
 
@@ -23,72 +71,72 @@ Ukraine's president sharply criticised the move, calling it an "investment in wa
 
 ---
 
-### 2. Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+### 5. 'Cockroach' group leaders among hundreds detained in Delhi protest
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Green Party wants to make sure it is 'not vulnerable to extremists'
+### 6. Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.
+Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil
+### 7. High silver prices threaten Lucknow’s famed bridal nagra craft
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.
+War-driven prices for silver are threatening nagra makers in northern India.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss)
 
 ---
 
-### 5. A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing
+### 8. New Delhi police crack down on protesters ahead of anti-gov’t march
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.
+India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov&#039;t march.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss)
 
 ---
 
-### 6. Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca
+### 9. ‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.
+Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Simon
+### 10. Hurricane Simon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Hurricane Isaias
+### 12. Hurricane Isaias
 
 **Source:** NASA
 
