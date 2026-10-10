@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 06:47:33
+**Last Update:** 2026-10-10 10:53:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. REA Reverse – Engineer Anything
+### 1. Computers Cannot Make Decisions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rea.tools/">https://rea.tools/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028275">https://news.ycombinator.com/item?id=50028275</a></p>
-<p>Points: 141</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029982">https://news.ycombinator.com/item?id=50029982</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rea.tools/](https://rea.tools/)
+🔗 **Read more:** [https://wiki.cateat.fish/art:computers_cannot_make_decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
 
 ---
 
-### 2. Has the Autonomous Trucking Revolution Arrived?
+### 2. Food processing influences metabolism and brain activity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/">https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028062">https://news.ycombinator.com/item?id=50028062</a></p>
-<p>Points: 10</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029830">https://news.ycombinator.com/item?id=50029830</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
+🔗 **Read more:** [https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
 
 ---
 
-### 3. 11 of 23 Core Open Source Projects Run on 1 or 2 People
+### 3. Show HN: A simple to-do app for iPhone, Mac, and your agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028059">https://news.ycombinator.com/item?id=50028059</a></p>
-<p>Points: 77</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://ilia.page/writing/introducing-nagare">https://ilia.page/writing/introducing-nagare</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029607">https://news.ycombinator.com/item?id=50029607</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+🔗 **Read more:** [https://ilia.page/writing/introducing-nagare](https://ilia.page/writing/introducing-nagare)
 
 ---
 
@@ -84,55 +84,55 @@ The US president hopes to ease his party's pain before next month's midterm elec
 
 ---
 
-### 6. NI secretary to ban the Drumcree parade
+### 6. Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.
+The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink
+### 7. Trump slams Norway for not awarding him Nobel Peace Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink&#039;s entry.
+Trump slams Norway for not awarding him Nobel Peace Prize
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss)
 
 ---
 
-### 8. Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks
+### 8. Yemen’s Taiz under siege again as food and fuel prices rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Drone attacks on Moscow during last month&#039;s election undermined trilateral peace negotiations, the Kremlin says.
+Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss)
 
 ---
 
-### 9. Two Renoir paintings recovered after France museum heist, mayor says
+### 9. India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.
+Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
 
 ---
 
