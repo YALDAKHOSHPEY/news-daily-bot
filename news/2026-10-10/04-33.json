@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T04:33:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
+            "description": "<p>Article URL: <a href=\"https://yeahnah.lol/\">https://yeahnah.lol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028283\">https://news.ycombinator.com/item?id=50028283</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://yeahnah.lol/",
+            "published": "Sat, 10 Oct 2026 00:38:18 +0000",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "REA Reverse – Engineer Anything",
+            "description": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+            "url": "https://rea.tools/",
+            "published": "Sat, 10 Oct 2026 00:37:07 +0000",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brockovich AI Datacenter Reporting: AI Data Centers Across the United States",
+            "description": "<p>Article URL: <a href=\"https://www.brockovichdatacenter.com/\">https://www.brockovichdatacenter.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028176\">https://news.ycombinator.com/item?id=50028176</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.brockovichdatacenter.com/",
+            "published": "Sat, 10 Oct 2026 00:14:46 +0000",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 00:45:51 GMT",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NI secretary to ban the Drumcree parade",
+            "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 21:46:19 GMT",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+            "description": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 00:22:52 +0000",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Intercommunal clashes kill 71 people in South Sudan",
+            "description": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 00:01:32 +0000",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+            "description": "The Kremlin says the US president welcomes Russia&#039;s involvement in efforts aimed at reaching a settlement over Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T04:33:05+03:30"
+        }
+    ]
+}
