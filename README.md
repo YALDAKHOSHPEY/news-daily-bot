@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 17:23:47
+**Last Update:** 2026-10-10 19:29:47
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Would Like the Value of My Home to Rise, While My Property Taxes Fall
+### 1. Christa Pike discharged from hospital and returned to prison, her lawyers say
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032758">https://news.ycombinator.com/item?id=50032758</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+The convicted murderer was left in a critical condition after she survived two lethal injections.
 
-🔗 **Read more:** [https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Lobbying Is Corruption
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://carette.xyz/posts/lobbying_and_corruption/">https://carette.xyz/posts/lobbying_and_corruption/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032556">https://news.ycombinator.com/item?id=50032556</a></p>
-<p>Points: 80</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://carette.xyz/posts/lobbying_and_corruption/](https://carette.xyz/posts/lobbying_and_corruption/)
-
----
-
-### 3. Apple/macOS silently removed from official Unix registry
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.opengroup.org//openbrand/register/">https://www.opengroup.org//openbrand/register/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031653">https://news.ycombinator.com/item?id=50031653</a></p>
-<p>Points: 78</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://www.opengroup.org//openbrand/register/](https://www.opengroup.org//openbrand/register/)
-
----
-
-### 4. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
+### 2. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 
 **Source:** BBC
 
@@ -71,72 +36,59 @@ Ukraine's president sharply criticised the move, calling it an "investment in wa
 
 ---
 
-### 5. 'Cockroach' group leaders among hundreds detained in Delhi protest
+### 3. 'Serious incident' at tiger enclosure closes Yorkshire Wildlife Park
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.
+The attraction near Doncaster says emergency response procedures were "immediately activated".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. High silver prices threaten Lucknow’s famed bridal nagra craft
+### 4. Trump Accounts: Free money, but who gets a say?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-War-driven prices for silver are threatening nagra makers in northern India.
+Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss)
 
 ---
 
-### 8. New Delhi police crack down on protesters ahead of anti-gov’t march
+### 5. With or without Hamas
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov&#039;t march.
+Hamas’s fate will not profoundly shape Gaza’s future.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss)
 
 ---
 
-### 9. ‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
+### 6. Three injured in third school attack in Poland in less than a week
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.
+The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Simon
+### 7. Hurricane Simon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Hurricane Isaias
+### 9. Hurricane Isaias
 
 **Source:** NASA
 

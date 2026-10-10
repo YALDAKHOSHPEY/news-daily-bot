@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-10T19:29:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+            "description": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 15:58:06 GMT",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 14:24:14 GMT",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Serious incident' at tiger enclosure closes Yorkshire Wildlife Park",
+            "description": "The attraction near Doncaster says emergency response procedures were \"immediately activated\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 15:43:02 GMT",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump Accounts: Free money, but who gets a say?",
+            "description": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 15:21:39 +0000",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "With or without Hamas",
+            "description": "Hamas’s fate will not profoundly shape Gaza’s future.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 15:19:41 +0000",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three injured in third school attack in Poland in less than a week",
+            "description": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 15:13:55 +0000",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T19:29:47+03:30"
+        }
+    ]
+}
