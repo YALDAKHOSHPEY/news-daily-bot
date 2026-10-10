@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-10T13:43:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 04:38:20 GMT",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Green Party wants to make sure it is 'not vulnerable to extremists'",
+            "description": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
+            "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 09:57:19 GMT",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+            "description": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 09:45:14 +0000",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+            "description": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 09:30:14 +0000",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+            "description": "Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 09:27:08 +0000",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T13:43:53+03:30"
+        }
+    ]
+}
