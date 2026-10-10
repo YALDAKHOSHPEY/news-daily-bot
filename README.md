@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 23:22:23
+**Last Update:** 2026-10-11 02:15:21
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Takeshi's Castle
+### 1. Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Takeshi%27s_Castle">https://en.wikipedia.org/wiki/Takeshi%27s_Castle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036119">https://news.ycombinator.com/item?id=50036119</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037299">https://news.ycombinator.com/item?id=50037299</a></p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Takeshi%27s_Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
+🔗 **Read more:** [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
 
 ---
 
-### 2. Nvidia in talks to acquire US 'open' model startup Reflection AI
+### 2. A city-building game in which the city would prefer you didn't
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035886">https://news.ycombinator.com/item?id=50035886</a></p>
-<p>Points: 33</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
+<p>Points: 64</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
 
 ---
 
-### 3. Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well
+### 3. 50MB operating system can resurrect your old PC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300">https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035561">https://news.ycombinator.com/item?id=50035561</a></p>
-<p>Points: 41</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036571">https://news.ycombinator.com/item?id=50036571</a></p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
+🔗 **Read more:** [https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 
 ---
 
@@ -84,55 +84,94 @@ Ukraine's leader had said the deal with Russia to release diesel into the US wou
 
 ---
 
-### 6. US murderer Christa Pike discharged from hospital 10 days after failed execution
+### 6. Twelve killed in attack on airport in Saudi capital Riyadh
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
+Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump says Ukraine needs a new president who will agree to end the war
+### 7. WHO says no plague case registered after Russian lab worker’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.
+The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss)
 
 ---
 
-### 8. Barcelona beat Getafe as Gordon scores his first goal
+### 8. Yemeni government’s military says its forces advancing against Houthis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Barcelona make it six wins from six with a 3-0 win against Getafe as Anthony Gordon scores his first goal for club.
+Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss)
 
 ---
 
-### 9. Ronaldo suspended by Portugal FA after leaving camp and criticising coach
+### 9. Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Portugal star Cristiano Ronaldo suspended by his country&#039;s football association for walkout during Nations League games.
+Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss)
+
+---
+
+### 10. Hurricane Simon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094)
+
+---
+
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119)
+
+---
+
+### 12. Hurricane Isaias
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063)
 
 ---
 
