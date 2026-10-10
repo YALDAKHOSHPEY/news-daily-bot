@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 04:33:05
+**Last Update:** 2026-10-10 06:47:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Yeah Nah – a BS score for Australian job ads
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://yeahnah.lol/">https://yeahnah.lol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028283">https://news.ycombinator.com/item?id=50028283</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://yeahnah.lol/](https://yeahnah.lol/)
-
----
-
-### 2. REA Reverse – Engineer Anything
+### 1. REA Reverse – Engineer Anything
 
 **Source:** Hacker News
 
@@ -35,26 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://rea.tools/">https://rea.tools/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028275">https://news.ycombinator.com/item?id=50028275</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 141</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://rea.tools/](https://rea.tools/)
 
 ---
 
-### 3. Brockovich AI Datacenter Reporting: AI Data Centers Across the United States
+### 2. Has the Autonomous Trucking Revolution Arrived?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.brockovichdatacenter.com/">https://www.brockovichdatacenter.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028176">https://news.ycombinator.com/item?id=50028176</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/">https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028062">https://news.ycombinator.com/item?id=50028062</a></p>
+<p>Points: 10</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.brockovichdatacenter.com/](https://www.brockovichdatacenter.com/)
+🔗 **Read more:** [https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
+
+---
+
+### 3. 11 of 23 Core Open Source Projects Run on 1 or 2 People
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028059">https://news.ycombinator.com/item?id=50028059</a></p>
+<p>Points: 77</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
 
 ---
 
@@ -97,42 +97,42 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 
 ---
 
-### 7. Israeli drone attack wounds six in Lebanon near Syria border
+### 7. Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.
+Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink&#039;s entry.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss)
 
 ---
 
-### 8. Intercommunal clashes kill 71 people in South Sudan
+### 8. Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
+Drone attacks on Moscow during last month&#039;s election undermined trilateral peace negotiations, the Kremlin says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal
+### 9. Two Renoir paintings recovered after France museum heist, mayor says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Kremlin says the US president welcomes Russia&#039;s involvement in efforts aimed at reaching a settlement over Iran.
+The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss)
 
 ---
 

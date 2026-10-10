@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T06:47:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "REA Reverse – Engineer Anything",
+            "description": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 141</p>\n<p># Comments: 29</p>",
+            "url": "https://rea.tools/",
+            "published": "Sat, 10 Oct 2026 00:37:07 +0000",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Has the Autonomous Trucking Revolution Arrived?",
+            "description": "<p>Article URL: <a href=\"https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/\">https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028062\">https://news.ycombinator.com/item?id=50028062</a></p>\n<p>Points: 10</p>\n<p># Comments: 8</p>",
+            "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+            "published": "Fri, 09 Oct 2026 23:57:12 +0000",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+            "description": "<p>Article URL: <a href=\"https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/\">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028059\">https://news.ycombinator.com/item?id=50028059</a></p>\n<p>Points: 77</p>\n<p># Comments: 29</p>",
+            "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+            "published": "Fri, 09 Oct 2026 23:56:55 +0000",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 00:45:51 GMT",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NI secretary to ban the Drumcree parade",
+            "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 21:46:19 GMT",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+            "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink&#039;s entry.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 02:35:28 +0000",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+            "description": "Drone attacks on Moscow during last month&#039;s election undermined trilateral peace negotiations, the Kremlin says.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 01:40:51 +0000",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+            "description": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 01:23:12 +0000",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T06:47:33+03:30"
+        }
+    ]
+}
