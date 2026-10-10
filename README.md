@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 19:29:47
+**Last Update:** 2026-10-10 22:14:21
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Christa Pike discharged from hospital and returned to prison, her lawyers say
+### 1. Weave (YC W25) is hiring ML, AI, product, & design engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035602">https://news.ycombinator.com/item?id=50035602</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
+
+---
+
+### 2. Anthropic discloses 2 months old fake tip to police among new rogue AI incidents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/">https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035550">https://news.ycombinator.com/item?id=50035550</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
+
+---
+
+### 3. Knuth Reward Check
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thomas-huehn.com/knuth-reward-check">https://www.thomas-huehn.com/knuth-reward-check</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034081">https://news.ycombinator.com/item?id=50034081</a></p>
+<p>Points: 63</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://www.thomas-huehn.com/knuth-reward-check](https://www.thomas-huehn.com/knuth-reward-check)
+
+---
+
+### 4. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The convicted murderer was left in a critical condition after she survived two lethal injections.
+It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. US murderer Christa Pike discharged from hospital 10 days after failed execution
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. 'Serious incident' at tiger enclosure closes Yorkshire Wildlife Park
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The attraction near Doncaster says emergency response procedures were "immediately activated".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Trump Accounts: Free money, but who gets a say?
+### 7. Attack on airport in Saudi capital, Riyadh, leaves several injured
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.
+Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss)
 
 ---
 
-### 5. With or without Hamas
+### 8. Nine killed in shooting in US state of Pennsylvania, including two children
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas’s fate will not profoundly shape Gaza’s future.
+The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss)
 
 ---
 
-### 6. Three injured in third school attack in Poland in less than a week
+### 9. Pope says death penalty ‘inadmissible’ as US plans to livestream execution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.
+Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Simon
+### 10. Hurricane Simon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Hurricane Isaias
+### 12. Hurricane Isaias
 
 **Source:** NASA
 
