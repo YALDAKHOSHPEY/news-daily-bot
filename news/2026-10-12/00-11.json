@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T00:11:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cognitive Decline or Sanity Incline?",
+            "description": "<p>Article URL: <a href=\"https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline\">https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047257\">https://news.ycombinator.com/item?id=50047257</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
+            "published": "Sun, 11 Oct 2026 20:05:03 +0000",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cartographers of North Korea",
+            "description": "<p>Article URL: <a href=\"https://cartographers-nk.wonyoung.so/\">https://cartographers-nk.wonyoung.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047091\">https://news.ycombinator.com/item?id=50047091</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://cartographers-nk.wonyoung.so/",
+            "published": "Sun, 11 Oct 2026 19:46:40 +0000",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artificial Insanity",
+            "description": "<p>Article URL: <a href=\"https://richwhitehouse.com/index.php?postid=78\">https://richwhitehouse.com/index.php?postid=78</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047071\">https://news.ycombinator.com/item?id=50047071</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://richwhitehouse.com/index.php?postid=78",
+            "published": "Sun, 11 Oct 2026 19:44:45 +0000",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi capital airport hit by second Houthi strike in two days",
+            "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 16:41:37 GMT",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+            "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Wildlife park remains closed after fatal tiger attack",
+            "description": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 12:38:02 GMT",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy welcomes US-announced energy ceasefire",
+            "description": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 20:28:46 +0000",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian families demand release of detainees held by Israel",
+            "description": "Syrian families demand release of detainees held by Israel",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 20:24:19 +0000",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+            "description": "Pakistan has suspended Khyber Pakhtunkhwa&#039;s PTI-led government after declaring a state of emergency in the province.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 20:21:13 +0000",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-12T00:11:46+03:30"
+        }
+    ]
+}

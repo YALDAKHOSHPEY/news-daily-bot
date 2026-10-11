@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 23:56:10
+**Last Update:** 2026-10-12 00:11:46
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline">https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047257">https://news.ycombinator.com/item?id=50047257</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://cartographers-nk.wonyoung.so/">https://cartographers-nk.wonyoung.so/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047091">https://news.ycombinator.com/item?id=50047091</a></p>
-<p>Points: 4</p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://cartographers-nk.wonyoung.so/](https://cartographers-nk.wonyoung.so/)
 
 ---
 
-### 3. Be The Onion's Hero for Once
+### 3. Artificial Insanity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mailchi.mp/email.theonion.com/archivehunt">https://mailchi.mp/email.theonion.com/archivehunt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047055">https://news.ycombinator.com/item?id=50047055</a></p>
-<p>Points: 55</p>
+<p>Article URL: <a href="https://richwhitehouse.com/index.php?postid=78">https://richwhitehouse.com/index.php?postid=78</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047071">https://news.ycombinator.com/item?id=50047071</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://mailchi.mp/email.theonion.com/archivehunt](https://mailchi.mp/email.theonion.com/archivehunt)
+🔗 **Read more:** [https://richwhitehouse.com/index.php?postid=78](https://richwhitehouse.com/index.php?postid=78)
 
 ---
 
@@ -97,42 +97,42 @@ Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure a
 
 ---
 
-### 7. Saudi health minister visits survivors of deadly Riyadh airport attack
+### 7. Zelenskyy welcomes US-announced energy ceasefire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.
+President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss)
 
 ---
 
-### 8. Mexican president urges residents to shelter as Hurricane Simon approaches
+### 8. Syrian families demand release of detainees held by Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.
+Syrian families demand release of detainees held by Israel
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss)
 
 ---
 
-### 9. Republican senator says Trump diesel agreement with Russia may be illegal
+### 9. Pakistan suspends Imran Khan’s party-led provincial government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.
+Pakistan has suspended Khyber Pakhtunkhwa&#039;s PTI-led government after declaring a state of emergency in the province.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss)
 
 ---
 
