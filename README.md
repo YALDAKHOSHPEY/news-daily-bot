@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 02:34:47
+**Last Update:** 2026-10-11 05:31:16
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks
+### 1. Generative AI scandal has come to one of Nikon's competitions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037299">https://news.ycombinator.com/item?id=50037299</a></p>
-<p>Points: 17</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038640">https://news.ycombinator.com/item?id=50038640</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+🔗 **Read more:** [https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
 
 ---
 
-### 2. A city-building game in which the city would prefer you didn't
+### 2. WallHop – 12ft.io is gone, so I built a replacement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
+<p>Article URL: <a href="https://wallhop.io/">https://wallhop.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038634">https://news.ycombinator.com/item?id=50038634</a></p>
 <p>Points: 71</p>
-<p># Comments: 27</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
+🔗 **Read more:** [https://wallhop.io/](https://wallhop.io/)
 
 ---
 
-### 3. 50MB operating system can resurrect your old PC
+### 3. PSPi 6 – Raspberry Pi in a PSP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036571">https://news.ycombinator.com/item?id=50036571</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/othermod/PSPi-Version-6">https://github.com/othermod/PSPi-Version-6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038623">https://news.ycombinator.com/item?id=50038623</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
+🔗 **Read more:** [https://github.com/othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.
+Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is "war crime".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ It was reported the man entered the tiger enclosure at the attraction near Donca
 
 ---
 
-### 7. WHO says no plague case registered after Russian lab worker’s death
+### 7. Man dies after entering tiger enclosure at England wildlife park
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.
+Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss)
 
 ---
 
-### 8. Yemeni government’s military says its forces advancing against Houthis
+### 8. Global pro-Palestinian protests one year after Gaza ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
+Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss)
 
 ---
 
-### 9. Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
+### 9. Twelve killed, more than 300 injured in Riyadh airport attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.
+Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss)
 
 ---
 
