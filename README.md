@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 12:36:53
+**Last Update:** 2026-10-11 12:58:10
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I wish you the best in the Offline
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040625">https://news.ycombinator.com/item?id=50040625</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
-
----
-
-### 2. 3rd Yandex Cloud Data Center Was Hit
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://status.yandex.cloud/en/incidents/2136">https://status.yandex.cloud/en/incidents/2136</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040547">https://news.ycombinator.com/item?id=50040547</a></p>
-<p>Points: 153</p>
-<p># Comments: 181</p>
-
-🔗 **Read more:** [https://status.yandex.cloud/en/incidents/2136](https://status.yandex.cloud/en/incidents/2136)
-
----
-
-### 3. LineageOS 24.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lineageos.org/Changelog-32/">https://lineageos.org/Changelog-32/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040276">https://news.ycombinator.com/item?id=50040276</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://lineageos.org/Changelog-32/](https://lineageos.org/Changelog-32/)
-
----
-
-### 4. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+### 1. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Ukraine's leader had said the deal with Russia to release diesel into the US wou
 
 ---
 
-### 5. Man dies after tiger attack at wildlife park
+### 2. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The man was reported to have entered the tiger enclosure before he was attacked,
 
 ---
 
-### 6. US justice department investigates TV networks over Trump pool coverage
+### 3. US justice department investigates TV networks over Trump pool coverage
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The White House had blocked access for CNN, MS Now and Politico, leading them to
 
 ---
 
-### 7. Pakistan imposes emergency rule in Khyber Pakhtunkhwa ​province
+### 4. What can Man City expect against Liverpool at Anfield on Sunday?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move effectively suspends provincial government run by party of ​jailed former Prime ⁠Minister ​Imran Khan.
+Man City face Liverpool in their first game since being found guilty of serious EPL financial breaches.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss)
+
+---
+
+### 5. Trump calls for Ukraine election, says Zelenskyy failed to end war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss)
+
+---
+
+### 6. Pakistan imposes emergency rule in ​province governed by Imran Khan’s party
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+PM office says cabinet move follows &#039;provincial government’s deliberate disengagement from the fight against terrorism&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)
 
 ---
 
-### 8. What the Iran war has done to the world’s energy supply, in charts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss)
-
----
-
-### 9. Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pledge comes days before Mukesh Ambani&#039;s low-cost Reliance Jio&#039;s parent launches India&#039;s largest-ever IPO.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss)
-
----
-
-### 10. Hurricane Simon
+### 7. Hurricane Simon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Hurricane Isaias
+### 9. Hurricane Isaias
 
 **Source:** NASA
 
