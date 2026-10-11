@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-11T06:20:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+            "description": "<p>Article URL: <a href=\"https://momo5502.com/posts/2026-10-09-game-decompilation/\">https://momo5502.com/posts/2026-10-09-game-decompilation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50039092\">https://news.ycombinator.com/item?id=50039092</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+            "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+            "published": "Sun, 11 Oct 2026 02:02:38 +0000",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic asks users to stop being mean to Claude",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218\">https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038865\">https://news.ycombinator.com/item?id=50038865</a></p>\n<p>Points: 34</p>\n<p># Comments: 21</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+            "published": "Sun, 11 Oct 2026 01:17:22 +0000",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Generative AI scandal has come to one of Nikon's competitions",
+            "description": "<p>Article URL: <a href=\"https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/\">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038640\">https://news.ycombinator.com/item?id=50038640</a></p>\n<p>Points: 26</p>\n<p># Comments: 30</p>",
+            "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+            "published": "Sun, 11 Oct 2026 00:47:37 +0000",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+            "description": "Another 309 people are injured in an attack a Saudi-led military coalition calls a \"war crime\".",
+            "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 00:21:52 GMT",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 01:41:29 GMT",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 01:05:37 GMT",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+            "description": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 02:12:07 +0000",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+            "description": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 01:59:02 +0000",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man dies after entering tiger enclosure at England wildlife park",
+            "description": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 01:16:18 +0000",
+            "fetched": "2026-10-11T06:20:41+03:30"
+        }
+    ]
+}
