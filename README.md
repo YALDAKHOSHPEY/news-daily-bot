@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 06:20:41
+**Last Update:** 2026-10-11 12:36:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter
+### 1. I wish you the best in the Offline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://momo5502.com/posts/2026-10-09-game-decompilation/">https://momo5502.com/posts/2026-10-09-game-decompilation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50039092">https://news.ycombinator.com/item?id=50039092</a></p>
-<p>Points: 15</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040625">https://news.ycombinator.com/item?id=50040625</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://momo5502.com/posts/2026-10-09-game-decompilation/](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+🔗 **Read more:** [https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
 
 ---
 
-### 2. Anthropic asks users to stop being mean to Claude
+### 2. 3rd Yandex Cloud Data Center Was Hit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218">https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038865">https://news.ycombinator.com/item?id=50038865</a></p>
-<p>Points: 34</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://status.yandex.cloud/en/incidents/2136">https://status.yandex.cloud/en/incidents/2136</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040547">https://news.ycombinator.com/item?id=50040547</a></p>
+<p>Points: 153</p>
+<p># Comments: 181</p>
 
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218)
+🔗 **Read more:** [https://status.yandex.cloud/en/incidents/2136](https://status.yandex.cloud/en/incidents/2136)
 
 ---
 
-### 3. Generative AI scandal has come to one of Nikon's competitions
+### 3. LineageOS 24.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038640">https://news.ycombinator.com/item?id=50038640</a></p>
-<p>Points: 26</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://lineageos.org/Changelog-32/">https://lineageos.org/Changelog-32/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040276">https://news.ycombinator.com/item?id=50040276</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
-
----
-
-### 4. Twelve killed in attack on airport in Saudi capital Riyadh
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Another 309 people are injured in an attack a Saudi-led military coalition calls a "war crime".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://lineageos.org/Changelog-32/](https://lineageos.org/Changelog-32/)
 
 ---
 
-### 5. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+### 4. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
 
 **Source:** BBC
 
@@ -84,55 +71,107 @@ Ukraine's leader had said the deal with Russia to release diesel into the US wou
 
 ---
 
-### 6. Man dies after tiger attack at wildlife park
+### 5. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.
+The man was reported to have entered the tiger enclosure before he was attacked, police say.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport
+### 6. US justice department investigates TV networks over Trump pool coverage
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.
+The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack
+### 7. Pakistan imposes emergency rule in Khyber Pakhtunkhwa ​province
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.
+Move effectively suspends provincial government run by party of ​jailed former Prime ⁠Minister ​Imran Khan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)
 
 ---
 
-### 9. Man dies after entering tiger enclosure at England wildlife park
+### 8. What the Iran war has done to the world’s energy supply, in charts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.
+Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss)
+
+---
+
+### 9. Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pledge comes days before Mukesh Ambani&#039;s low-cost Reliance Jio&#039;s parent launches India&#039;s largest-ever IPO.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss)
+
+---
+
+### 10. Hurricane Simon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094)
+
+---
+
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119)
+
+---
+
+### 12. Hurricane Isaias
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063)
 
 ---
 
