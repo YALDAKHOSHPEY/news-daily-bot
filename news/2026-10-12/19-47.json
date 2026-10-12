@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T19:47:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Discover vibe-coded alternatives to popular software",
+            "description": "<p>Article URL: <a href=\"https://vibealternatives.com/\">https://vibealternatives.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50058127\">https://news.ycombinator.com/item?id=50058127</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://vibealternatives.com/",
+            "published": "Mon, 12 Oct 2026 15:46:38 +0000",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why aren't AI companies being charged for hacking?",
+            "description": "<p>Article URL: <a href=\"https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/\">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057278\">https://news.ycombinator.com/item?id=50057278</a></p>\n<p>Points: 210</p>\n<p># Comments: 175</p>",
+            "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+            "published": "Mon, 12 Oct 2026 14:52:37 +0000",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deep dive into Azure Maia 300 architecture",
+            "description": "<p>Article URL: <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057185\">https://news.ycombinator.com/item?id=50057185</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+            "published": "Mon, 12 Oct 2026 14:45:44 +0000",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+            "description": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 16:14:39 GMT",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+            "description": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
+            "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 15:51:30 GMT",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+            "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 14:00:03 GMT",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+            "description": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 15:30:08 +0000",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+            "description": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 15:19:23 +0000",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Ukraine survive the winter?",
+            "description": "Washington&#039;s position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 15:04:08 +0000",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-12T19:47:19+03:30"
+        }
+    ]
+}

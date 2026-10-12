@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 19:19:28
+**Last Update:** 2026-10-12 19:47:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why aren't AI companies being charged for hacking?
+### 1. Discover vibe-coded alternatives to popular software
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://vibealternatives.com/">https://vibealternatives.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50058127">https://news.ycombinator.com/item?id=50058127</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://vibealternatives.com/](https://vibealternatives.com/)
+
+---
+
+### 2. Why aren't AI companies being charged for hacking?
 
 **Source:** Hacker News
 
@@ -19,46 +35,56 @@
 **Description:**
 <p>Article URL: <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057278">https://news.ycombinator.com/item?id=50057278</a></p>
-<p>Points: 180</p>
-<p># Comments: 128</p>
+<p>Points: 210</p>
+<p># Comments: 175</p>
 
 🔗 **Read more:** [https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
 
 ---
 
-### 2. An Unmade Film Shaped Hayao Miyazaki
+### 3. Deep dive into Azure Maia 300 architecture
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki">https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057030">https://news.ycombinator.com/item?id=50057030</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/">https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057185">https://news.ycombinator.com/item?id=50057185</a></p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
+🔗 **Read more:** [https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)
 
 ---
 
-### 3. Solar Panels That Plug into Your Wall
+### 4. Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy">https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50056822">https://news.ycombinator.com/item?id=50056822</a></p>
-<p>Points: 45</p>
-<p># Comments: 37</p>
+The prime minister says Iran's Islamic Revolutionary Guard "almost certainly" directed the RAF Fairford incident.
 
-🔗 **Read more:** [https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Saudi minister vows 'serious response' to Houthi attacks on airports
+### 5. Watch: What could Trump's energy ceasefire mean for Ukraine?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Saudi minister vows 'serious response' to Houthi attacks on airports
 
 **Source:** BBC
 
@@ -68,32 +94,6 @@
 It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Why is it so hard to fight the Houthis?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
