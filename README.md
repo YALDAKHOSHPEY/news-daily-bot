@@ -1,155 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 10:14:54
+**Last Update:** 2026-10-12 19:19:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Type-safe HTML templating in Zig
+### 1. Why aren't AI companies being charged for hacking?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html">https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051573">https://news.ycombinator.com/item?id=50051573</a></p>
+<p>Article URL: <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057278">https://news.ycombinator.com/item?id=50057278</a></p>
+<p>Points: 180</p>
+<p># Comments: 128</p>
+
+🔗 **Read more:** [https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+
+---
+
+### 2. An Unmade Film Shaped Hayao Miyazaki
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki">https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057030">https://news.ycombinator.com/item?id=50057030</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
+
+---
+
+### 3. Solar Panels That Plug into Your Wall
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy">https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50056822">https://news.ycombinator.com/item?id=50056822</a></p>
 <p>Points: 45</p>
-<p># Comments: 18</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
-
----
-
-### 2. Will Linux phones become a viable alternative to the Android/iOS duopoly?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/">https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051530">https://news.ycombinator.com/item?id=50051530</a></p>
-<p>Points: 53</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
+🔗 **Read more:** [https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
 
 ---
 
-### 3. Crest – an Arc-inspired open-source browser for Mac
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://crestbrowser.com/">https://crestbrowser.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051097">https://news.ycombinator.com/item?id=50051097</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://crestbrowser.com/](https://crestbrowser.com/)
-
----
-
-### 4. Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth
+### 4. Saudi minister vows 'serious response' to Houthi attacks on airports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.
+It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Why is it so hard to fight the Houthis?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Rejecting closer EU ties would be dereliction of duty, PM to say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. One killed, 11 injured in second Houthi strike on Riyadh airport in two days
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. India protest live: Opposition to march to Supreme Court over ‘vote theft’
+### 7. Deadly gold mine air strikes highlight Egypt-Sudan border insecurity
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner.
+Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss)
 
 ---
 
-### 8. Countries warn against travel to Saudi Arabia following Houthi attacks
+### 8. Oil tanker reportedly attacked in Strait of Hormuz region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.
+Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss)
 
 ---
 
-### 9. Clashes reported in Yemen as Houthis advance towards Taiz
+### 9. Will Ukraine survive the winter?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.
+Washington&#039;s position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss)
-
----
-
-### 10. Hurricane Simon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss)
 
 ---
 
-### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 10. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -158,20 +145,33 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238)
 
 ---
 
-### 12. Hurricane Isaias
+### 11. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233)
+
+---
+
+### 12. Wildfire CYRUS, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232)
 
 ---
 
