@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 19:47:19
+**Last Update:** 2026-10-13 02:36:04
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Discover vibe-coded alternatives to popular software
+### 1. Breaking Bad star RJ Mitte dies aged 34
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vibealternatives.com/">https://vibealternatives.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50058127">https://news.ycombinator.com/item?id=50058127</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063831">https://news.ycombinator.com/item?id=50063831</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+
+---
+
+### 2. AI Is a Tool. Using It Well Takes Skill.
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https://news.ycombinator.com/item?id=50063427</a></p>
+<p>Points: 115</p>
+<p># Comments: 101</p>
+
+🔗 **Read more:** [https://yyhh.org/blog/2026/10/ai-is-a-tool/](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+
+---
+
+### 3. Phreak.ing – Internet Phone Switch
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>
+<p>Points: 26</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://vibealternatives.com/](https://vibealternatives.com/)
+🔗 **Read more:** [https://phreak.ing/](https://phreak.ing/)
 
 ---
 
-### 2. Why aren't AI companies being charged for hacking?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057278">https://news.ycombinator.com/item?id=50057278</a></p>
-<p>Points: 210</p>
-<p># Comments: 175</p>
-
-🔗 **Read more:** [https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
-
----
-
-### 3. Deep dive into Azure Maia 300 architecture
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/">https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057185">https://news.ycombinator.com/item?id=50057185</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/](https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/)
-
----
-
-### 4. Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador
+### 4. Burnham to push for new post-Brexit deals at EU summit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says Iran's Islamic Revolutionary Guard "almost certainly" directed the RAF Fairford incident.
+Conservative leader Kemi Badenoch said the prime minister was "unpicking" the deal the UK signed with the EU.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What could Trump's energy ceasefire mean for Ukraine?
+### 5. Government expands police support to political figures who are not MPs
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.
+Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Saudi minister vows 'serious response' to Houthi attacks on airports
+### 6. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
+Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Deadly gold mine air strikes highlight Egypt-Sudan border insecurity
+### 7. Poland says two Turks arrested over Russia-linked Starlink station fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.
+Warsaw says the 2 suspects held in Germany will face sabotage charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss)
 
 ---
 
-### 8. Oil tanker reportedly attacked in Strait of Hormuz region
+### 8. Why the Cornell gang rape case has raised concerns about fraternity culture
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.
+Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss)
 
 ---
 
-### 9. Will Ukraine survive the winter?
+### 9. Canada’s Carney calls for unity as Alberta prepares for secession vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington&#039;s position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.
+Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss)
 
 ---
 
