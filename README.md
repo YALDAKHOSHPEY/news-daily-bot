@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 03:35:40
+**Last Update:** 2026-10-12 09:44:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Whatever became of holography? (2011)
+### 1. Type-safe HTML templating in Zig
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.americanscientist.org/article/whatever-became-of-holography">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049411">https://news.ycombinator.com/item?id=50049411</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html">https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051573">https://news.ycombinator.com/item?id=50051573</a></p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.americanscientist.org/article/whatever-became-of-holography](https://www.americanscientist.org/article/whatever-became-of-holography)
+🔗 **Read more:** [https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 
 ---
 
-### 2. Google Data Centers around the world
+### 2. Yandex bot traffic down 99% after data center attack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://datacenters.google/locations/">https://datacenters.google/locations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048768">https://news.ycombinator.com/item?id=50048768</a></p>
-<p>Points: 29</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic">https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051532">https://news.ycombinator.com/item?id=50051532</a></p>
+<p>Points: 133</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://datacenters.google/locations/](https://datacenters.google/locations/)
+🔗 **Read more:** [https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
 
 ---
 
-### 3. JulianFlux: Electrodynamic vector retrieval and causal routing for AI
+### 3. Will Linux phones become a viable alternative to the Android/iOS duopoly?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/julianjohnson-web/julianflux-research">https://github.com/julianjohnson-web/julianflux-research</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048702">https://news.ycombinator.com/item?id=50048702</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/">https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051530">https://news.ycombinator.com/item?id=50051530</a></p>
+<p>Points: 25</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/julianjohnson-web/julianflux-research](https://github.com/julianjohnson-web/julianflux-research)
+🔗 **Read more:** [https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 
 ---
 
-### 4. Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
+### 4. Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Zelensky says Kyiv would support such a truce. Moscow has yet to comment.
+Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Rejecting closer EU ties would be dereliction of duty, PM to say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. One killed, 11 injured in second Houthi strike on Riyadh airport in two days
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. PM says it is 'clear' Russia interfered with Brexit vote
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-He says voters were not "sufficiently" informed about how foreign actors sought to disrupt UK democracy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Pakistani national killed in second Houthi strike on Riyadh airport
+### 7. Countries warn against travel to Saudi Arabia following Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.
+US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss)
 
 ---
 
-### 8. US Homeland Security secretary sees no ‘risk’ from livestreamed execution
+### 8. Clashes reported in Yemen as Houthis advance towards Taiz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.
+Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss)
 
 ---
 
-### 9. Footage shows moment Russian strike hits Ukrainian grocery store
+### 9. China sanctions Paraguay, Belize ministers over Taiwan ties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.
+Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss)
 
 ---
 
