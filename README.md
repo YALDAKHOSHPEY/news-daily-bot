@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 02:50:43
+**Last Update:** 2026-10-14 03:00:08
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -97,7 +97,33 @@ Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB
 
 ---
 
-### 7. Mauritius imposes curfew after night of unrest over police shooting
+### 7. Manchester United’s Martinez blasts board’s lack of investment
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss)
+
+---
+
+### 8. Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss)
+
+---
+
+### 9. Mauritius imposes curfew after night of unrest over police shooting
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB
 Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss)
-
----
-
-### 8. Albanian police fire tear gas at protesters as Education Ministry attacked
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 23 protesters have been arrested in demonstrations in the capital.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss)
-
----
-
-### 9. Man City vs PSG: Champions League – teams, predictions, line ups
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss)
 
 ---
 
