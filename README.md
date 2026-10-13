@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 23:08:11
+**Last Update:** 2026-10-14 02:50:43
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Guitoro, a virtual guitar you strum with your keyboard
+### 1. AlphaNIST
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download. I would love feedback on how the strumming feels and sounds.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50077020">https://news.ycombinator.com/item?id=50077020</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://alpha-nist.github.io/">https://alpha-nist.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079464">https://news.ycombinator.com/item?id=50079464</a></p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://guitoro.com/](https://guitoro.com/)
+🔗 **Read more:** [https://alpha-nist.github.io/](https://alpha-nist.github.io/)
 
 ---
 
-### 2. Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
+### 2. Physical Intelligence API Beta: Frontier Models for Every Robot
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain">https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50076503">https://news.ycombinator.com/item?id=50076503</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.pi.website/blog/api-beta">https://www.pi.website/blog/api-beta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079437">https://news.ycombinator.com/item?id=50079437</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
+🔗 **Read more:** [https://www.pi.website/blog/api-beta](https://www.pi.website/blog/api-beta)
 
 ---
 
-### 3. A plea not to use uv-build
+### 3. PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/">https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50076048">https://news.ycombinator.com/item?id=50076048</a></p>
-<p>Points: 32</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50078686">https://news.ycombinator.com/item?id=50078686</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
+🔗 **Read more:** [https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
 
 ---
 
-### 4. MI5 chief warns of threats to UK from Russia, Iran and AI
+### 4. Family pays tribute to 'warm and engaging' man killed in tiger attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an "equal scale".
+William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Man killed in tiger attack identified as William Chapman
+### 5. Pope diagnosed with lung cancer but had successful surgery, Vatican says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chapman, who was in his 20s, died after entering the tiger's enclosure at  Yorkshire Wildlife Park.
+Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Football regulator says he would quit over any political interference in Man City case
+### 6. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.
+Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia arrests Japanese reporter for alleged espionage
+### 7. Mauritius imposes curfew after night of unrest over police shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.
+Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss)
 
 ---
 
-### 8. Cornell suspends fraternity parties after alleged campus gang rape case
+### 8. Albanian police fire tear gas at protesters as Education Ministry attacked
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.
+At least 23 protesters have been arrested in demonstrations in the capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss)
 
 ---
 
-### 9. Who killed Tupac?
+### 9. Man City vs PSG: Champions League – teams, predictions, line ups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For decades, Tupac Shakur’s murder remained unsolved. Now, Keffe D is being sentenced for his killing.
+Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss)
 
 ---
 
