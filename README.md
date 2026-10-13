@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 07:11:38
+**Last Update:** 2026-10-13 07:59:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NAZA: Netanyahu orders identification and prosecution of film's interviewees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film">https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065972">https://news.ycombinator.com/item?id=50065972</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film](https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film)
-
----
-
-### 2. OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit
+### 1. A look at OpenAI’s math that’s claimed computes faster Fourier transforms
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065932">https://news.ycombinator.com/item?id=50065932</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 46</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.argmin.net/p/faster-fourier-transforms](https://www.argmin.net/p/faster-fourier-transforms)
 
 ---
 
-### 3. Leaving Tech
+### 2. Leaving Tech
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://ryanbigg.com/2026/10/leaving-tech">https://ryanbigg.com/2026/10/leaving-tech</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065892">https://news.ycombinator.com/item?id=50065892</a></p>
-<p>Points: 101</p>
-<p># Comments: 76</p>
+<p>Points: 131</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://ryanbigg.com/2026/10/leaving-tech](https://ryanbigg.com/2026/10/leaving-tech)
+
+---
+
+### 3. China Overtakes U.S. For First Time as Top Spender on R&D in 2024
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/">https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065805">https://news.ycombinator.com/item?id=50065805</a></p>
+<p>Points: 77</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
 
 ---
 
@@ -97,7 +97,20 @@ Heating oil customers facing soaring bills are promised better regulation of the
 
 ---
 
-### 7. Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’
+### 7. Trump insists energy ceasefire holds as Ukraine reports new Russian strikes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President urges Zelenskyy, Putin to end &#039;ridiculous war&#039; and insists they agreed to stop attacks on energy sites.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss)
+
+---
+
+### 8. Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructu
 
 ---
 
-### 8. Cyberattack on French supermarkets causes fires, millions in losses
+### 9. Cyberattack on French supermarkets causes fires, millions in losses
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructu
 A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss)
-
----
-
-### 9. ‘Unprecedented’ cyberattack hits French supermarkets, causing food losses
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in &#039;large-scale&#039; cyberattack.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss)
 
 ---
 
