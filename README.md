@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 02:51:04
+**Last Update:** 2026-10-13 07:11:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking Bad star RJ Mitte dies aged 34
+### 1. NAZA: Netanyahu orders identification and prosecution of film's interviewees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063831">https://news.ycombinator.com/item?id=50063831</a></p>
-<p>Points: 37</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film">https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065972">https://news.ycombinator.com/item?id=50065972</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+🔗 **Read more:** [https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film](https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film)
 
 ---
 
-### 2. AI Is a Tool. Using It Well Takes Skill.
+### 2. OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https://news.ycombinator.com/item?id=50063427</a></p>
-<p>Points: 134</p>
-<p># Comments: 114</p>
+<p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065932">https://news.ycombinator.com/item?id=50065932</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://yyhh.org/blog/2026/10/ai-is-a-tool/](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+🔗 **Read more:** [https://www.argmin.net/p/faster-fourier-transforms](https://www.argmin.net/p/faster-fourier-transforms)
 
 ---
 
-### 3. Phreak.ing – Internet Phone Switch
+### 3. Leaving Tech
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://ryanbigg.com/2026/10/leaving-tech">https://ryanbigg.com/2026/10/leaving-tech</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065892">https://news.ycombinator.com/item?id=50065892</a></p>
+<p>Points: 101</p>
+<p># Comments: 76</p>
 
-🔗 **Read more:** [https://phreak.ing/](https://phreak.ing/)
+🔗 **Read more:** [https://ryanbigg.com/2026/10/leaving-tech](https://ryanbigg.com/2026/10/leaving-tech)
 
 ---
 
-### 4. Burnham to push for new post-Brexit deals at EU summit
+### 4. Hundreds more prisoners to be freed in second phase of early release scheme
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Conservative leader Kemi Badenoch said the prime minister was "unpicking" the deal the UK signed with the EU.
+Second tranche of prisoners will include those serving up to two and a half years for crimes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Government expands police support to political figures who are not MPs
+### 5. Why the prime minister wants to talk about Brexit again
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.
+For the first time since the UK left the EU, we have a prime minister who will "unflinchingly" debate Brexit, says the BBC's political editor Chris Mason.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+### 6. Heating oil customers face tough winter despite shake-up promise
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
+Heating oil customers facing soaring bills are promised better regulation of the sector by the government.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Poland says two Turks arrested over Russia-linked Starlink station fire
+### 7. Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw says the 2 suspects held in Germany will face sabotage charges.
+Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss)
 
 ---
 
-### 8. Why the Cornell gang rape case has raised concerns about fraternity culture
+### 8. Cyberattack on French supermarkets causes fires, millions in losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
+A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss)
 
 ---
 
-### 9. Canada’s Carney calls for unity as Alberta prepares for secession vote
+### 9. ‘Unprecedented’ cyberattack hits French supermarkets, causing food losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.
+Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in &#039;large-scale&#039; cyberattack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss)
 
 ---
 
