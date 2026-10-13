@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 07:59:23
+**Last Update:** 2026-10-13 15:29:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A look at OpenAI’s math that’s claimed computes faster Fourier transforms
+### 1. An hour of audio transcribed in about 13s on MacBook Air
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065932">https://news.ycombinator.com/item?id=50065932</a></p>
-<p>Points: 46</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://eg2.haku.sh/">https://eg2.haku.sh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069971">https://news.ycombinator.com/item?id=50069971</a></p>
+<p>Points: 32</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.argmin.net/p/faster-fourier-transforms](https://www.argmin.net/p/faster-fourier-transforms)
+🔗 **Read more:** [https://eg2.haku.sh/](https://eg2.haku.sh/)
 
 ---
 
-### 2. Leaving Tech
+### 2. Character.ai Files for Bankruptcy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ryanbigg.com/2026/10/leaving-tech">https://ryanbigg.com/2026/10/leaving-tech</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065892">https://news.ycombinator.com/item?id=50065892</a></p>
-<p>Points: 131</p>
-<p># Comments: 121</p>
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069942">https://news.ycombinator.com/item?id=50069942</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://ryanbigg.com/2026/10/leaving-tech](https://ryanbigg.com/2026/10/leaving-tech)
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 
 ---
 
-### 3. China Overtakes U.S. For First Time as Top Spender on R&D in 2024
+### 3. 11 year old unsoundness bugs found in Rust borrow checker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/">https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065805">https://news.ycombinator.com/item?id=50065805</a></p>
-<p>Points: 77</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://github.com/rust-lang/rust/issues/164250">https://github.com/rust-lang/rust/issues/164250</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069499">https://news.ycombinator.com/item?id=50069499</a></p>
+<p>Points: 149</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
+🔗 **Read more:** [https://github.com/rust-lang/rust/issues/164250](https://github.com/rust-lang/rust/issues/164250)
 
 ---
 
-### 4. Hundreds more prisoners to be freed in second phase of early release scheme
+### 4. UK growth forecast upgraded but higher energy prices to hit economy next year
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Second tranche of prisoners will include those serving up to two and a half years for crimes.
+The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why the prime minister wants to talk about Brexit again
+### 5. Chris Mason: Why the prime minister wants to talk about Brexit again
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ For the first time since the UK left the EU, we have a prime minister who will "
 
 ---
 
-### 6. Heating oil customers face tough winter despite shake-up promise
+### 6. Russia's offensive ability is broken, Kyiv's former top general tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heating oil customers facing soaring bills are promised better regulation of the sector by the government.
+In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump insists energy ceasefire holds as Ukraine reports new Russian strikes
+### 7. India’s $87bn river-linking plan leaves villagers fighting for their homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President urges Zelenskyy, Putin to end &#039;ridiculous war&#039; and insists they agreed to stop attacks on energy sites.
+Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss)
 
 ---
 
-### 8. Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’
+### 8. ‘My son was killed’ France faces backlash over proposed police firearms law
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.
+As protests nationwide protests rage, activists warn proposed law could lead to more impunity.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
 
 ---
 
-### 9. Cyberattack on French supermarkets causes fires, millions in losses
+### 9. Israel’s military raids NGO offices in Ramallah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.
+Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss)
 
 ---
 
