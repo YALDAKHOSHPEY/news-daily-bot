@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 15:29:38
+**Last Update:** 2026-10-13 15:48:57
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. An hour of audio transcribed in about 13s on MacBook Air
+### 1. Mozilla Introduces Firefox Enterprise
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.firefox.com/en-US/enterprise/">https://www.firefox.com/en-US/enterprise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50070302">https://news.ycombinator.com/item?id=50070302</a></p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.firefox.com/en-US/enterprise/](https://www.firefox.com/en-US/enterprise/)
+
+---
+
+### 2. An hour of audio transcribed in about 13s on MacBook Air
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://eg2.haku.sh/">https://eg2.haku.sh/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069971">https://news.ycombinator.com/item?id=50069971</a></p>
-<p>Points: 32</p>
-<p># Comments: 8</p>
+<p>Points: 56</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://eg2.haku.sh/](https://eg2.haku.sh/)
 
 ---
 
-### 2. Character.ai Files for Bankruptcy
+### 3. Character.ai Files for Bankruptcy
 
 **Source:** Hacker News
 
@@ -35,43 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069942">https://news.ycombinator.com/item?id=50069942</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
 
 ---
 
-### 3. 11 year old unsoundness bugs found in Rust borrow checker
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/rust-lang/rust/issues/164250">https://github.com/rust-lang/rust/issues/164250</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069499">https://news.ycombinator.com/item?id=50069499</a></p>
-<p>Points: 149</p>
-<p># Comments: 49</p>
-
-🔗 **Read more:** [https://github.com/rust-lang/rust/issues/164250](https://github.com/rust-lang/rust/issues/164250)
-
----
-
-### 4. UK growth forecast upgraded but higher energy prices to hit economy next year
+### 4. MI5 tackling more state threats than during Cold War, warns intelligence chief
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.
+Sir Ken McCallum says Russia, Iran and emerging threats from AI were increasing the risks to Britain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Why the prime minister wants to talk about Brexit again
+### 5. Three things we've learnt about the UK economy from the IMF
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The influential economics body has upgraded its UK growth forecast for this year, but risks remain.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Chris Mason: Why the prime minister wants to talk about Brexit again
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ For the first time since the UK left the EU, we have a prime minister who will "
 
 ---
 
-### 6. Russia's offensive ability is broken, Kyiv's former top general tells BBC
+### 7. How protests have shaped India: From anti-Hindi agitation to farm laws
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
+Activists challenging India&#039;s government over electoral roll controversies have a long legacy of protest to draw on.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss)
 
 ---
 
-### 7. India’s $87bn river-linking plan leaves villagers fighting for their homes
+### 8. India’s $87bn river-linking plan leaves villagers fighting for their homes
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Villagers in India say they would rather die than leave their homes as they prot
 
 ---
 
-### 8. ‘My son was killed’ France faces backlash over proposed police firearms law
+### 9. ‘My son was killed’ France faces backlash over proposed police firearms law
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Villagers in India say they would rather die than leave their homes as they prot
 As protests nationwide protests rage, activists warn proposed law could lead to more impunity.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
-
----
-
-### 9. Israel’s military raids NGO offices in Ramallah
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss)
 
 ---
 

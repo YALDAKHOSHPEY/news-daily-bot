@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T15:48:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mozilla Introduces Firefox Enterprise",
+            "description": "<p>Article URL: <a href=\"https://www.firefox.com/en-US/enterprise/\">https://www.firefox.com/en-US/enterprise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070302\">https://news.ycombinator.com/item?id=50070302</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://www.firefox.com/en-US/enterprise/",
+            "published": "Tue, 13 Oct 2026 12:00:42 +0000",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An hour of audio transcribed in about 13s on MacBook Air",
+            "description": "<p>Article URL: <a href=\"https://eg2.haku.sh/\">https://eg2.haku.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069971\">https://news.ycombinator.com/item?id=50069971</a></p>\n<p>Points: 56</p>\n<p># Comments: 14</p>",
+            "url": "https://eg2.haku.sh/",
+            "published": "Tue, 13 Oct 2026 11:27:14 +0000",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Character.ai Files for Bankruptcy",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney\">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069942\">https://news.ycombinator.com/item?id=50069942</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+            "published": "Tue, 13 Oct 2026 11:24:08 +0000",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief",
+            "description": "Sir Ken McCallum says Russia, Iran and emerging threats from AI were increasing the risks to Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 12:00:47 GMT",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three things we've learnt about the UK economy from the IMF",
+            "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+            "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 11:58:43 GMT",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
+            "description": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 01:27:59 GMT",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How protests have shaped India: From anti-Hindi agitation to farm laws",
+            "description": "Activists challenging India&#039;s government over electoral roll controversies have a long legacy of protest to draw on.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 11:57:51 +0000",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s $87bn river-linking plan leaves villagers fighting for their homes",
+            "description": "Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 11:30:55 +0000",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘My son was killed’ France faces backlash over proposed police firearms law",
+            "description": "As protests nationwide protests rage, activists warn proposed law could lead to more impunity.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 11:17:54 +0000",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T15:48:57+03:30"
+        }
+    ]
+}
