@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 11:39:37
+**Last Update:** 2026-10-14 17:23:47
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Sweden is abandoning its cashless society
+### 1. Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html">https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083766">https://news.ycombinator.com/item?id=50083766</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/">https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087336">https://news.ycombinator.com/item?id=50087336</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html](https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html)
+🔗 **Read more:** [https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
 
 ---
 
-### 2. AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
+### 2. Switzerland proposes banning profiling-based ads to minors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/android/ndk/issues/2260">https://github.com/android/ndk/issues/2260</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083130">https://news.ycombinator.com/item?id=50083130</a></p>
-<p>Points: 170</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ">https://www.admin.ch/en/newnsb/NMn5s24l8NjQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087328">https://news.ycombinator.com/item?id=50087328</a></p>
+<p>Points: 85</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://github.com/android/ndk/issues/2260](https://github.com/android/ndk/issues/2260)
+🔗 **Read more:** [https://www.admin.ch/en/newnsb/NMn5s24l8NjQ](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 
 ---
 
-### 3. Felix Rieseberg Homepage
+### 3. RIP Eric Binnion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://felixrieseberg.com/">https://felixrieseberg.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50082470">https://news.ycombinator.com/item?id=50082470</a></p>
-<p>Points: 167</p>
-<p># Comments: 56</p>
+<p>Article URL: <a href="https://ma.tt/2026/10/rip-eric/">https://ma.tt/2026/10/rip-eric/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087044">https://news.ycombinator.com/item?id=50087044</a></p>
+<p>Points: 26</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://felixrieseberg.com/](https://felixrieseberg.com/)
+🔗 **Read more:** [https://ma.tt/2026/10/rip-eric/](https://ma.tt/2026/10/rip-eric/)
 
 ---
 
-### 4. Family pays tribute to 'warm and engaging' man killed in tiger attack
+### 4. Russell Brand was a 'sexual predator', says prosecution as rape trial begins
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
+The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. One stolen every four minutes - inside the police battle against vehicle thieves
+### 5. Starlink network restrictions in Ukraine related to political situation, Zelensky aide says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.
+Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: BBC joins police on front line against car theft
+### 6. Watch: Block of flats in ruins after Russian strikes on Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.
+BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Palestinians say Israel’s democracy ‘is a joke’
+### 7. Russia arrests Japanese journalist on suspicion of ‘espionage’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.
+A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss)
 
 ---
 
-### 8. How Israel’s ‘Yellow Line’ is reshaping southern Lebanon
+### 8. What we know about OpenAI engineer arrested over office spying
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.
+Saudi OpenAI employee was arrested over allegations he planted a hidden device to record sensitive company conversations
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss)
 
 ---
 
-### 9. Yamal magic helps Barcelona beat Galatasaray in Champions League
+### 9. Iran targets Starlink as ‘tool of war’ with hints of more internet curbs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yamal provided two assists and &#039;turned the game around&#039; for Barcelona, who won 4-1 in Istanbul.
+One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss)
 
 ---
 
