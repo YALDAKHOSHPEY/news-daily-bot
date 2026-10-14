@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 17:23:47
+**Last Update:** 2026-10-14 17:40:24
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/">https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087336">https://news.ycombinator.com/item?id=50087336</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
-
----
-
-### 2. Switzerland proposes banning profiling-based ads to minors
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ">https://www.admin.ch/en/newnsb/NMn5s24l8NjQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087328">https://news.ycombinator.com/item?id=50087328</a></p>
-<p>Points: 85</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://www.admin.ch/en/newnsb/NMn5s24l8NjQ](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
-
----
-
-### 3. RIP Eric Binnion
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ma.tt/2026/10/rip-eric/">https://ma.tt/2026/10/rip-eric/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087044">https://news.ycombinator.com/item?id=50087044</a></p>
-<p>Points: 26</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://ma.tt/2026/10/rip-eric/](https://ma.tt/2026/10/rip-eric/)
-
----
-
-### 4. Russell Brand was a 'sexual predator', says prosecution as rape trial begins
+### 1. Russell Brand was a 'sexual predator', says prosecution as rape trial begins
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The actor and comedian has pleaded not guilty to three counts of rape, three cou
 
 ---
 
-### 5. Starlink network restrictions in Ukraine related to political situation, Zelensky aide says
+### 2. Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide 
 
 ---
 
-### 6. Watch: Block of flats in ruins after Russian strikes on Ukraine
+### 3. Block of flats in ruins after Russian strikes on Ukraine
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people we
 
 ---
 
-### 7. Russia arrests Japanese journalist on suspicion of ‘espionage’
+### 4. Two scenarios for the Yemen war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.
+What comes next is either a retreat for the Houthis or a war of attrition.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss)
 
 ---
 
-### 8. What we know about OpenAI engineer arrested over office spying
+### 5. UK restaurateur claims losses after video calling for Gaza destruction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi OpenAI employee was arrested over allegations he planted a hidden device to record sensitive company conversations
+A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss)
 
 ---
 
-### 9. Iran targets Starlink as ‘tool of war’ with hints of more internet curbs
+### 6. How AI apps are offering free substitutes for Big Tech software
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.
+AI-developed ArtCraft is challenging Adobe after disrupting legacy software&#039;s economic model.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Buckhorn 2, Cassia, Idaho
+### 7. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire PK, Sheridan, Wyoming
+### 8. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire CYRUS, Kern, California
+### 9. Wildfire CYRUS, Kern, California
 
 **Source:** NASA
 
