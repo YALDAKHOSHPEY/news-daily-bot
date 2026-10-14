@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T11:39:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Sweden is abandoning its cashless society",
+            "description": "<p>Article URL: <a href=\"https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html\">https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50083766\">https://news.ycombinator.com/item?id=50083766</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html",
+            "published": "Wed, 14 Oct 2026 07:30:49 +0000",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+            "description": "<p>Article URL: <a href=\"https://github.com/android/ndk/issues/2260\">https://github.com/android/ndk/issues/2260</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50083130\">https://news.ycombinator.com/item?id=50083130</a></p>\n<p>Points: 170</p>\n<p># Comments: 59</p>",
+            "url": "https://github.com/android/ndk/issues/2260",
+            "published": "Wed, 14 Oct 2026 06:18:01 +0000",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Felix Rieseberg Homepage",
+            "description": "<p>Article URL: <a href=\"https://felixrieseberg.com/\">https://felixrieseberg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082470\">https://news.ycombinator.com/item?id=50082470</a></p>\n<p>Points: 167</p>\n<p># Comments: 56</p>",
+            "url": "https://felixrieseberg.com/",
+            "published": "Wed, 14 Oct 2026 04:42:33 +0000",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+            "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+            "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 07:57:10 GMT",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+            "description": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 05:01:07 GMT",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC joins police on front line against car theft",
+            "description": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+            "url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 05:00:37 GMT",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians say Israel’s democracy ‘is a joke’",
+            "description": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 07:41:20 +0000",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
+            "description": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 07:38:09 +0000",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yamal magic helps Barcelona beat Galatasaray in Champions League",
+            "description": "Yamal provided two assists and &#039;turned the game around&#039; for Barcelona, who won 4-1 in Istanbul.",
+            "url": "https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 07:35:43 +0000",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T11:39:37+03:30"
+        }
+    ]
+}

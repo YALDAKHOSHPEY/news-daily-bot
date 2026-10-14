@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 11:20:27
+**Last Update:** 2026-10-14 11:39:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
+### 1. Why Sweden is abandoning its cashless society
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html">https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083766">https://news.ycombinator.com/item?id=50083766</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html](https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html)
+
+---
+
+### 2. AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/android/ndk/issues/2260">https://github.com/android/ndk/issues/2260</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083130">https://news.ycombinator.com/item?id=50083130</a></p>
-<p>Points: 138</p>
-<p># Comments: 39</p>
+<p>Points: 170</p>
+<p># Comments: 59</p>
 
 🔗 **Read more:** [https://github.com/android/ndk/issues/2260](https://github.com/android/ndk/issues/2260)
 
 ---
 
-### 2. Felix Rieseberg Homepage
+### 3. Felix Rieseberg Homepage
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://felixrieseberg.com/">https://felixrieseberg.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50082470">https://news.ycombinator.com/item?id=50082470</a></p>
-<p>Points: 157</p>
-<p># Comments: 53</p>
+<p>Points: 167</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://felixrieseberg.com/](https://felixrieseberg.com/)
-
----
-
-### 3. I built a tool to track what AI leaders say and how their views change on video
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blumify.io/people">https://blumify.io/people</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081151">https://news.ycombinator.com/item?id=50081151</a></p>
-<p>Points: 86</p>
-<p># Comments: 53</p>
-
-🔗 **Read more:** [https://blumify.io/people](https://blumify.io/people)
 
 ---
 
