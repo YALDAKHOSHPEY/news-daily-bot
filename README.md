@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 22:15:17
+**Last Update:** 2026-10-14 22:32:28
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
+### 1. How the Military Will Hack the Election
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election">https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50092847">https://news.ycombinator.com/item?id=50092847</a></p>
+<p>Points: 53</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
+
+---
+
+### 2. Fire at Starlink site in Bulgaria after suspected sabotage in Poland
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/">https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50092730">https://news.ycombinator.com/item?id=50092730</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/](https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/)
+
+---
+
+### 3. Banks are now trying to offload the AI data center debt they just underwrote
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/">https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50092664">https://news.ycombinator.com/item?id=50092664</a></p>
+<p>Points: 31</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+
+---
+
+### 4. Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The actor and comedian has pleaded not guilty to three counts of rape, three cou
 
 ---
 
-### 2. Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
+### 5. Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide 
 
 ---
 
-### 3. We are behind you and that will not change, PM tells Zelensky
+### 6. We are behind you and that will not change, PM tells Zelensky
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ The Ukrainian president visited London in an effort to bolster support among Eur
 
 ---
 
-### 4. Real Madrid’s Vinicius banned for Clasico after hair-pull red card
+### 7. Israel’s former security chief sues Netanyahu for October 7 defamation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss)
+
+---
+
+### 8. Real Madrid’s Vinicius banned for Clasico after hair-pull red card
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Sa
 
 ---
 
-### 5. How six Ukrainian divers could have blown up Russia’s $20bn pipelines
+### 9. How six Ukrainian divers could have blown up Russia’s $20bn pipelines
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ A Ukrainian military officer is on trial in Germany over an act of sabotage that
 
 ---
 
-### 6. Ex-UK army chef jailed for ‘terror’-related offence
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The former British Army member harboured &#039;extreme right-wing&#039; views and was ordering explosives components, say police.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss)
-
----
-
-### 7. Tropical Storm Trudy
+### 10. Tropical Storm Trudy
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Buckhorn 2, Cassia, Idaho
+### 11. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire PK, Sheridan, Wyoming
+### 12. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
