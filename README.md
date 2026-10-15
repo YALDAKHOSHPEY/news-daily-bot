@@ -1,60 +1,62 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 04:34:57
+**Last Update:** 2026-10-15 09:33:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. LFM2.5-24B-A2B: Built for fast on-device agents
+### 1. Show HN: Flipflop, iroh-powered persistent tunnels for filesharing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.liquid.ai/blog/lfm2-5-24b-a2b">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50097369">https://news.ycombinator.com/item?id=50097369</a></p>
-<p>Points: 44</p>
-<p># Comments: 10</p>
+<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50099136">https://news.ycombinator.com/item?id=50099136</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.liquid.ai/blog/lfm2-5-24b-a2b](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+🔗 **Read more:** [https://github.com/andunieee/flipflop](https://github.com/andunieee/flipflop)
 
 ---
 
-### 2. A new model for open source: closed to pull requests, open to remix
+### 2. An Apology
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ghuntley.com/remix/">https://ghuntley.com/remix/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50097182">https://news.ycombinator.com/item?id=50097182</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.elevationlab.com/blogs/news/an-apology">https://www.elevationlab.com/blogs/news/an-apology</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50099121">https://news.ycombinator.com/item?id=50099121</a></p>
+<p>Points: 36</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://ghuntley.com/remix/](https://ghuntley.com/remix/)
+🔗 **Read more:** [https://www.elevationlab.com/blogs/news/an-apology](https://www.elevationlab.com/blogs/news/an-apology)
 
 ---
 
-### 3. Tiny Little Office
+### 3. Show HN: My Terminal Themes Web App
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tinylittleoffice.com/">https://tinylittleoffice.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50096142">https://news.ycombinator.com/item?id=50096142</a></p>
-<p>Points: 117</p>
-<p># Comments: 21</p>
+<p>Well, after 15 years of saying "Someday I'll turn this into a web app," I finally did it!<p>I've been maintaining a popular repo of terminal themes at <a href="https://github.com/mbadolato/iTerm2-Color-Schemes" rel="nofollow">https://github.com/mbadolato/iTerm2-Color-Schemes</a>, and it was finally time to build the app with all the features I wanted!<p>So, the next-gen version is live at <a href="https://terminalthemes.com" rel="nofollow">https://terminalthemes.com</a>! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more)<p>It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc.<p>I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like!<p>Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them.<p>I would love for you guys to check it out and provide feedback, feature suggestions, whatever!<p>And a huge thanks to the community of people that have contributed themes, ports to other terminals, and tools to provide conversions between formats over the years.<p>Oh! And if you've ever contributed themes to the GitHub repo, please register for an account, find your theme(s), and hit the Claim Authorship button!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50098454">https://news.ycombinator.com/item?id=50098454</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://tinylittleoffice.com/](https://tinylittleoffice.com/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50098454](https://news.ycombinator.com/item?id=50098454)
 
 ---
 
@@ -71,68 +73,68 @@ Ukraine says Starlink access has improved but it is still facing speed limits wh
 
 ---
 
-### 5. We are behind you and that will not change, PM tells Zelensky
+### 5. UK threatens to ban Eritreans over migrant return policy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.
+The home secretary said she would not hesitate to impose measures on other countries "refusing to co-operate".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
+### 6. Hundreds of IDF investigations into killings without public outcome, BBC Verify finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
+BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Costa Rica opens mega-prison as Bukele model embraced across Latin America
+### 7. Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Laura Fernandez says mega-prison is part of &#039;tough-on-crime model&#039; embraced by her government.
+Yamal&#039;s 17 goal contributions after 10 games are more than Messi&#039;s in his Ballon d&#039;Or-winning season as a teenager.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss)
 
 ---
 
-### 8. Mexican court closes case against official over 2023 detention centre fire
+### 8. Restoring nature is key to a more resilient future
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Victims&#039; groups, however, have denounced the ruling as &#039;selective&#039; justice that exonerates the former migration chief.
+At COP17 and COP31, governments must accelerate positive tipping points in energy, food and finance.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
+### 9. Israel has detained more than 2,000 Palestinian children since 2023: report
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.
+At least 350 Palestinian children currently face &#039;harsh conditions&#039; in Israeli prisons.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss)
 
 ---
 
