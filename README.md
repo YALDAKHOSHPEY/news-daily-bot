@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 15:19:46
+**Last Update:** 2026-10-15 15:46:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/awslabs/aidlc-workflows">https://github.com/awslabs/aidlc-workflows</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50100387">https://news.ycombinator.com/item?id=50100387</a></p>
-<p>Points: 12</p>
+<p>Points: 13</p>
 <p># Comments: 12</p>
 
 🔗 **Read more:** [https://github.com/awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
@@ -36,8 +36,8 @@
 <p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50099136">https://news.ycombinator.com/item?id=50099136</a></p>
-<p>Points: 48</p>
-<p># Comments: 15</p>
+<p>Points: 50</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://github.com/andunieee/flipflop](https://github.com/andunieee/flipflop)
 
@@ -72,14 +72,14 @@ William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife 
 
 ---
 
-### 5. Ukraine to restart strikes on Russian oil refineries, Zelensky says
+### 5. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
+Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
 
@@ -98,7 +98,20 @@ It is the "backbone of military communications in Ukraine" that provides vital h
 
 ---
 
-### 7. US-Iran stalemate: What are Trump’s next military options?
+### 7. Ukrainians fear US intelligence cuts as Russian strikes intensify
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Reduced missile warnings increase threat to civilians as Trump pushes an &#039;energy ceasefire&#039; and peace negotiations.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss)
+
+---
+
+### 8. US-Iran stalemate: What are Trump’s next military options?
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Trump has ruled out attacks before the midterms. Analysts weigh what he could do
 
 ---
 
-### 8. Syrian authorities arrest main suspect in 2013 Baniyas mass killings
+### 9. Syrian authorities arrest main suspect in 2013 Baniyas mass killings
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Trump has ruled out attacks before the midterms. Analysts weigh what he could do
 Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss)
-
----
-
-### 9. Fighting in Yemen intensifies: What’s the latest on the battlefield?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss)
 
 ---
 
