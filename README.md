@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 04:10:36
+**Last Update:** 2026-10-15 04:34:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.liquid.ai/blog/lfm2-5-24b-a2b">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50097369">https://news.ycombinator.com/item?id=50097369</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.liquid.ai/blog/lfm2-5-24b-a2b](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://ghuntley.com/remix/">https://ghuntley.com/remix/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50097182">https://news.ycombinator.com/item?id=50097182</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://ghuntley.com/remix/](https://ghuntley.com/remix/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://tinylittleoffice.com/">https://tinylittleoffice.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50096142">https://news.ycombinator.com/item?id=50096142</a></p>
-<p>Points: 94</p>
-<p># Comments: 16</p>
+<p>Points: 117</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://tinylittleoffice.com/](https://tinylittleoffice.com/)
 
@@ -97,7 +97,20 @@ The actor and comedian has pleaded not guilty to three counts of rape, three cou
 
 ---
 
-### 7. Mexican court closes case against official over 2023 detention centre fire
+### 7. Costa Rica opens mega-prison as Bukele model embraced across Latin America
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Laura Fernandez says mega-prison is part of &#039;tough-on-crime model&#039; embraced by her government.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss)
+
+---
+
+### 8. Mexican court closes case against official over 2023 detention centre fire
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Victims&#039; groups, however, have denounced the ruling as &#039;selective&#039
 
 ---
 
-### 8. Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
+### 9. Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Victims&#039; groups, however, have denounced the ruling as &#039;selective&#039
 Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss)
-
----
-
-### 9. US destroys dhow suspected of Iranian command and control
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss)
 
 ---
 
