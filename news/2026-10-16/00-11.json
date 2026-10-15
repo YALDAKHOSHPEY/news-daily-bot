@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T00:11:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+            "description": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 60</p>\n<p># Comments: 23</p>",
+            "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+            "published": "Thu, 15 Oct 2026 19:21:38 +0000",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We are entering a period of overlapping crises",
+            "description": "<p>Article URL: <a href=\"https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/\">https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108491\">https://news.ycombinator.com/item?id=50108491</a></p>\n<p>Points: 28</p>\n<p># Comments: 16</p>",
+            "url": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
+            "published": "Thu, 15 Oct 2026 18:54:36 +0000",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "E Ink Kaleido 4",
+            "description": "<p><a href=\"https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\" rel=\"nofollow\">https://web.archive.org/web/20261015180401/https://www.eink....</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108229\">https://news.ycombinator.com/item?id=50108229</a></p>\n<p>Points: 62</p>\n<p># Comments: 24</p>",
+            "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+            "published": "Thu, 15 Oct 2026 18:38:16 +0000",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+            "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+            "url": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 16:07:26 GMT",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 16:35:05 GMT",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+            "description": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 20:29:52 +0000",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are migrants risking their lives at sea to reach Yemen?",
+            "description": "Al Jazeera’s Al Anoud Al Aqeedi explains why migrants are risking their lives to make the journey to Yemen.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 20:13:01 +0000",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes",
+            "description": "Judge says Jeffrey Donaldson never apologised to victims as politician seeks to appeal his convictions.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 20:12:27 +0000",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T00:11:27+03:30"
+        }
+    ]
+}

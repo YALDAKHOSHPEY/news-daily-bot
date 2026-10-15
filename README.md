@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 23:55:58
+**Last Update:** 2026-10-16 00:11:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 2026 State of the Climate Report Shows a Planet Reaching Its Limits
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits">https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109409">https://news.ycombinator.com/item?id=50109409</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
-
----
-
-### 2. Someone on Torrent Sites Kept Fucking with My Sonarr
+### 1. Someone on Torrent Sites Kept Fucking with My Sonarr
 
 **Source:** Hacker News
 
@@ -35,43 +19,47 @@
 **Description:**
 <p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 48</p>
-<p># Comments: 19</p>
+<p>Points: 60</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 
-### 3. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
+### 2. We are entering a period of overlapping crises
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>
+<p>Article URL: <a href="https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/">https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108491">https://news.ycombinator.com/item?id=50108491</a></p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/](https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/)
+
+---
+
+### 3. E Ink Kaleido 4
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4" rel="nofollow">https://web.archive.org/web/20261015180401/https://www.eink....</a></p>
+<hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
-<p>Points: 52</p>
-<p># Comments: 17</p>
+<p>Points: 62</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 
 ---
 
-### 4. Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Trump calls off livestream of Fort Hood attacker's execution by firing squad
+### 4. Trump calls off livestream of Fort Hood attacker's execution by firing squad
 
 **Source:** BBC
 
@@ -84,7 +72,7 @@ Trump said some would "rather not watch" the killing of Nidal Hasan, the first m
 
 ---
 
-### 6. Trans people should use hospital spaces according to biological sex, NHS England says
+### 5. Trans people should use hospital spaces according to biological sex, NHS England says
 
 **Source:** BBC
 
@@ -97,42 +85,55 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Will Israeli voters punish Benjamin Netanyahu?
+### 6. Russell Brand accuser says he turned 'monster-like' before alleged rape
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.
+The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Dying in ICE custody: Inside one family’s story of heartbreak
+### 7. At least 7 crew members missing after drone attacks on ships in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.
+Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss)
 
 ---
 
-### 9. Ethiopian forces expand control in Tigray as militia claims Eritrean losses
+### 8. Why are migrants risking their lives at sea to reach Yemen?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
+Al Jazeera’s Al Anoud Al Aqeedi explains why migrants are risking their lives to make the journey to Yemen.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss)
+
+---
+
+### 9. Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Judge says Jeffrey Donaldson never apologised to victims as politician seeks to appeal his convictions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss)
 
 ---
 
