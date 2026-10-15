@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 20:58:34
+**Last Update:** 2026-10-15 23:55:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. More on Anthropic's Scion ripping off Mononoke
+### 1. 2026 State of the Climate Report Shows a Planet Reaching Its Limits
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sunshowers.io/posts/anthropic-mononoke-2/">https://sunshowers.io/posts/anthropic-mononoke-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106738">https://news.ycombinator.com/item?id=50106738</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits">https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109409">https://news.ycombinator.com/item?id=50109409</a></p>
+<p>Points: 15</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://sunshowers.io/posts/anthropic-mononoke-2/](https://sunshowers.io/posts/anthropic-mononoke-2/)
+🔗 **Read more:** [https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
 
 ---
 
-### 2. An Israeli firm is sending zero-click spyware through online ads
+### 2. Someone on Torrent Sites Kept Fucking with My Sonarr
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware">https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106676">https://news.ycombinator.com/item?id=50106676</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
+<p>Points: 48</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
+🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 
-### 3. Show HN: BlastLoop, a structure-first coding method for AI agents
+### 3. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/rlshaw-ml/BlastLoop">https://github.com/rlshaw-ml/BlastLoop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106062">https://news.ycombinator.com/item?id=50106062</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
+<p>Points: 52</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://github.com/rlshaw-ml/BlastLoop](https://github.com/rlshaw-ml/BlastLoop)
+🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 
 ---
 
@@ -97,42 +97,42 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda
+### 7. Will Israeli voters punish Benjamin Netanyahu?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.
+Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss)
 
 ---
 
-### 8. Dying in Detention
+### 8. Dying in ICE custody: Inside one family’s story of heartbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.
+Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss](https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss)
 
 ---
 
-### 9. Houthis target Yemen’s presidential palace in Aden with missiles
+### 9. Ethiopian forces expand control in Tigray as militia claims Eritrean losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.
+Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss)
 
 ---
 
