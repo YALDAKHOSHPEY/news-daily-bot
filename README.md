@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 00:11:27
+**Last Update:** 2026-10-16 02:39:07
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Someone on Torrent Sites Kept Fucking with My Sonarr
+### 1. What I Self-Host
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
+<p>Points: 148</p>
+<p># Comments: 72</p>
+
+🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+
+---
+
+### 2. New Withings Users Must Pay $99/Year for Apple Health Syncing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
+<p>Points: 115</p>
+<p># Comments: 99</p>
+
+🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+
+---
+
+### 3. Someone on Torrent Sites Kept Fucking with My Sonarr
 
 **Source:** Hacker News
 
@@ -19,47 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 60</p>
-<p># Comments: 23</p>
+<p>Points: 148</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 
-### 2. We are entering a period of overlapping crises
+### 4. Bus hits train stopped on French side of Channel Tunnel, with 19 injured
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/">https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108491">https://news.ycombinator.com/item?id=50108491</a></p>
-<p>Points: 28</p>
-<p># Comments: 16</p>
+Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.
 
-🔗 **Read more:** [https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/](https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. E Ink Kaleido 4
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://web.archive.org/web/20261015180401/https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4" rel="nofollow">https://web.archive.org/web/20261015180401/https://www.eink....</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
-<p>Points: 62</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
-
----
-
-### 4. Trump calls off livestream of Fort Hood attacker's execution by firing squad
+### 5. Trump calls off livestream of Fort Hood attacker's execution by firing squad
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Trump said some would "rather not watch" the killing of Nidal Hasan, the first m
 
 ---
 
-### 5. Trans people should use hospital spaces according to biological sex, NHS England says
+### 6. Trans people should use hospital spaces according to biological sex, NHS England says
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 6. Russell Brand accuser says he turned 'monster-like' before alleged rape
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. At least 7 crew members missing after drone attacks on ships in Black Sea
+### 7. At least 4, including 3 children, killed in US elementary school shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.
+Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss)
 
 ---
 
-### 8. Why are migrants risking their lives at sea to reach Yemen?
+### 8. Israel halts commercial goods from entering Gaza; Hamas denies tax claims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Al Anoud Al Aqeedi explains why migrants are risking their lives to make the journey to Yemen.
+The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
 
 ---
 
-### 9. Northern Ireland ex-DUP leader Donaldson sentenced to 15 years for child sex crimes
+### 9. Man United’s Martinez apologises for outburst after talks with Carrick
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Judge says Jeffrey Donaldson never apologised to victims as politician seeks to appeal his convictions.
+Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/northern-ireland-ex-dup-leader-donaldson-sentenced-to-15-years-for-child-sex-crimes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss)
 
 ---
 
