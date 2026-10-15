@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 20:43:00
+**Last Update:** 2026-10-15 20:58:34
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally
+### 1. More on Anthropic's Scion ripping off Mononoke
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sygal.app">https://sygal.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106054">https://news.ycombinator.com/item?id=50106054</a></p>
+<p>Article URL: <a href="https://sunshowers.io/posts/anthropic-mononoke-2/">https://sunshowers.io/posts/anthropic-mononoke-2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106738">https://news.ycombinator.com/item?id=50106738</a></p>
 <p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://sygal.app](https://sygal.app)
+🔗 **Read more:** [https://sunshowers.io/posts/anthropic-mononoke-2/](https://sunshowers.io/posts/anthropic-mononoke-2/)
 
 ---
 
-### 2. Market selloff, rising rates test AI data centre deal boom
+### 2. An Israeli firm is sending zero-click spyware through online ads
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/">https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105900">https://news.ycombinator.com/item?id=50105900</a></p>
-<p>Points: 24</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware">https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106676">https://news.ycombinator.com/item?id=50106676</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+🔗 **Read more:** [https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
 
 ---
 
-### 3. The technical actions needed to ensure the continuity of UTC
+### 3. Show HN: BlastLoop, a structure-first coding method for AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bipm.org/en/cgpm-2026/resolution-5">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105777">https://news.ycombinator.com/item?id=50105777</a></p>
-<p>Points: 21</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://github.com/rlshaw-ml/BlastLoop">https://github.com/rlshaw-ml/BlastLoop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106062">https://news.ycombinator.com/item?id=50106062</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bipm.org/en/cgpm-2026/resolution-5](https://www.bipm.org/en/cgpm-2026/resolution-5)
+🔗 **Read more:** [https://github.com/rlshaw-ml/BlastLoop](https://github.com/rlshaw-ml/BlastLoop)
 
 ---
 
@@ -97,42 +97,42 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Albania’s PM dismisses calls to resign as student protests spread
+### 7. DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Edi Rama condemns &#039;chaos&#039; as protests continue for third day in the capital and spread to other cities.
+Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss)
 
 ---
 
-### 8. UK Green member behind anti-Zionism motion ‘receives death threats’
+### 8. Dying in Detention
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.
+Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss](https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss)
 
 ---
 
-### 9. Israeli ad-tech firm helped place spyware on Al Jazeera devices
+### 9. Houthis target Yemen’s presidential palace in Aden with missiles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.
+Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss)
 
 ---
 
