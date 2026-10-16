@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 10:53:10
+**Last Update:** 2026-10-16 11:09:28
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator.com/item?id=50114359</a></p>
-<p>Points: 3</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1097760/](https://lwn.net/Articles/1097760/)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
-<p>Points: 125</p>
+<p>Points: 127</p>
 <p># Comments: 25</p>
 
 🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
@@ -97,7 +97,33 @@ Metagenomics offers a new way of detecting infections in intensive care patients
 
 ---
 
-### 7. In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
+### 7. Tesla unveils car that can drive upside down and jump through the air
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tesla has unveiled an electric car that can drive upside down and use rocket-like thrusters to jump and turn mid-air.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss)
+
+---
+
+### 8. How Israel’s elections will affect Palestinians
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss)
+
+---
+
+### 9. In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Metagenomics offers a new way of detecting infections in intensive care patients
 As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss)
-
----
-
-### 8. Which countries waste the most food, and how to reduce waste at home
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss)
-
----
-
-### 9. Vibe coding: Game-changer or risky business?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss)
 
 ---
 
