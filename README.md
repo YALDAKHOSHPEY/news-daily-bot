@@ -1,142 +1,168 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 16:20:11
+**Last Update:** 2026-10-16 20:33:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second
+### 1. /dev/null: social network for developers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second">https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50116255">https://news.ycombinator.com/item?id=50116255</a></p>
-<p>Points: 44</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://dev-null.sh">https://dev-null.sh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121004">https://news.ycombinator.com/item?id=50121004</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
+🔗 **Read more:** [https://dev-null.sh](https://dev-null.sh)
 
 ---
 
-### 2. The Folders Programming Language
+### 2. Desire to Move Permanently to U.S. at New Low
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danieltemkin.com/esolangs/folders">https://danieltemkin.com/esolangs/folders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114342">https://news.ycombinator.com/item?id=50114342</a></p>
-<p>Points: 112</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx">https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50120664">https://news.ycombinator.com/item?id=50120664</a></p>
+<p>Points: 28</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://danieltemkin.com/esolangs/folders](https://danieltemkin.com/esolangs/folders)
+🔗 **Read more:** [https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx)
 
 ---
 
-### 3. Comparing Chromium Development at Google and Igalia
+### 3. JPEG XL vs. AVIF for web use-cases
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
-<p>Points: 65</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://jakearchibald.com/2026/jpeg-xl-vs-avif/">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50120224">https://news.ycombinator.com/item?id=50120224</a></p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
+🔗 **Read more:** [https://jakearchibald.com/2026/jpeg-xl-vs-avif/](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
 
 ---
 
-### 4. British father fined for causing his two-year-old son's death in Cyprus hotel fall
+### 4. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Joshua Foster "lost control" of his son while showing him the view of a water park from a window.
+EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Israeli settlers attack Palestinians in West Bank during olive harvest
+### 5. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.
+The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Norwegian teen 'hitman' detained for UK murder plot
+### 6. Man killed by tiger may have had medical records breached by NHS staff
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Johannes Natland, 19, travelled to West Yorkshire to carry out a "hit" in March last year.
+William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fuel tanker fire engulfs market in southern Nigeria
+### 7. Iran’s president condemns environmental impact of war in Middle East
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A fire tore through Oluku market in Benin City after a tanker overturned and exploded.
+Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss)
 
 ---
 
-### 8. Pakistan orders school inspections following deadly roof collapse
+### 8. Spain to appeal to CAS after FIFA penalty for Islamophobic chants
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families demand justice for the 35 people killed; relatives say they had warned that the roof was leaking.
+Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss)
 
 ---
 
-### 9. ‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence
+### 9. Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel now reaches into Cyprus’s water, gas, health and defence and many Cypriots fear their island is losing control.
+Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss](https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 10. Tropical Cyclone 01P
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
+
+---
+
+### 11. Tropical Storm Champi
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
+
+---
+
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -146,32 +172,6 @@ Israel now reaches into Cyprus’s water, gas, health and defence and many Cypri
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
-
----
-
-### 11. Hurricane Trudy
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290)
-
----
-
-### 12. Prescribed Fire Jane 102 RX, Harney, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311)
 
 ---
 

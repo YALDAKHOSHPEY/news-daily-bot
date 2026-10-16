@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T20:33:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "/dev/null: social network for developers",
+            "description": "<p>Article URL: <a href=\"https://dev-null.sh\">https://dev-null.sh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121004\">https://news.ycombinator.com/item?id=50121004</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://dev-null.sh",
+            "published": "Fri, 16 Oct 2026 16:57:49 +0000",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Desire to Move Permanently to U.S. at New Low",
+            "description": "<p>Article URL: <a href=\"https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx\">https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120664\">https://news.ycombinator.com/item?id=50120664</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+            "published": "Fri, 16 Oct 2026 16:38:02 +0000",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "JPEG XL vs. AVIF for web use-cases",
+            "description": "<p>Article URL: <a href=\"https://jakearchibald.com/2026/jpeg-xl-vs-avif/\">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120224\">https://news.ycombinator.com/item?id=50120224</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+            "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+            "published": "Fri, 16 Oct 2026 16:12:02 +0000",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+            "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+            "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:59:30 GMT",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+            "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by tiger may have had medical records breached by NHS staff",
+            "description": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:53:07 GMT",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s president condemns environmental impact of war in Middle East",
+            "description": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:45:03 +0000",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+            "description": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.",
+            "url": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:35:32 +0000",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+            "description": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:34:26 +0000",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T20:33:58+03:30"
+        }
+    ]
+}
