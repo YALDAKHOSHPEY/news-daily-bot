@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 02:37:21
+**Last Update:** 2026-10-17 03:14:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Points: 24</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 142</p>
-<p># Comments: 87</p>
+<p>Points: 154</p>
+<p># Comments: 103</p>
 
 🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
 
@@ -51,14 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 82</p>
-<p># Comments: 14</p>
+<p>Points: 84</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
 ---
 
-### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
+### 4. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Watch: Will Ukraine get the support needed as tensions with US rise?
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
 
 ---
 
-### 5. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fund her lifestyle.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Families demand justice after Pakistan school collapse
+### 7. Albanian PM blames ‘foreign hands’ for unrest as student protests intensify
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parents are demanding accountability after a school roof collapse in Pakistan&#039;s Peshawar killed 34 children.
+Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss)
 
 ---
 
-### 8. Yemen’s government says Houthis fired two missiles at Aden airport
+### 8. Leeds vs Manchester United: Premier League – teams, prediction, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attack comes as Yemeni gov&#039;t forces claim advances in Marib and say they &#039;neutralised&#039; 430 Houthi fighters in 24 hours.
+Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown - now they face on-the-up rivals Leeds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
 
 ---
 
-### 9. Meta employees say Lula’s accounts restricted in Brazil election: Report
+### 9. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.
+Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)
 
 ---
 
