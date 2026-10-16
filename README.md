@@ -1,73 +1,74 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 21:03:31
+**Last Update:** 2026-10-16 23:44:05
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Piramidal (YC W24) Is Hiring
+### 1. The Fatal Flaw of 911
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009">https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121188">https://news.ycombinator.com/item?id=50121188</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123356">https://news.ycombinator.com/item?id=50123356</a></p>
+<p>Points: 13</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
+🔗 **Read more:** [https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 
 ---
 
-### 2. 90% of US working hours are spent on tasks not covered well by AI benchmarks
+### 2. How the Claude Code team does code review
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mercor.com/research/labor-index/benchmark-map/">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121179">https://news.ycombinator.com/item?id=50121179</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50122951">https://news.ycombinator.com/item?id=50122951</a></p>
+<p>Points: 52</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://www.mercor.com/research/labor-index/benchmark-map/](https://www.mercor.com/research/labor-index/benchmark-map/)
+🔗 **Read more:** [https://claude.dev/blog/solving-code-review-at-anthropic/](https://claude.dev/blog/solving-code-review-at-anthropic/)
 
 ---
 
-### 3. /dev/null: social network for developers
+### 3. Claude reveals ECDSA curve origins
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dev-null.sh">https://dev-null.sh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121004">https://news.ycombinator.com/item?id=50121004</a></p>
-<p>Points: 38</p>
-<p># Comments: 38</p>
+<p><a href="https://words.filippo.io/seeds-solved/" rel="nofollow">https://words.filippo.io/seeds-solved/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50122800">https://news.ycombinator.com/item?id=50122800</a></p>
+<p>Points: 262</p>
+<p># Comments: 107</p>
 
-🔗 **Read more:** [https://dev-null.sh](https://dev-null.sh)
+🔗 **Read more:** [https://www.anthropic.com/research/ecdsa-curve-origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 
 ---
 
-### 4. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
+### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".
+Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncas
 
 ---
 
-### 7. Real Madrid demand resignation of La Liga chief after Goebbels comparison
+### 7. Trump told new press secretary to ‘reconsider’ role
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.
+Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss)
 
 ---
 
-### 8. Pope Leo to make public appearance Sunday, first since cancer surgery
+### 8. Can diplomacy resolve longstanding Ethiopia-Eritrea differences?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After undergoing surgery this week, pope can now &#039;carry out normal activities ​with full independence&#039;, say doctors.
+The United States calls for dialogue as regional East Africa tension escalates.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss)
 
 ---
 
-### 9. Sally Rooney can’t sell her books in UK over support for Palestine Action
+### 9. White House press secretary Katie Zacharia fired after five days on the job
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-We asked students what they think.
+Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss)
 
 ---
 

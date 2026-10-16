@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T23:44:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Fatal Flaw of 911",
+            "description": "<p>Article URL: <a href=\"https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123356\">https://news.ycombinator.com/item?id=50123356</a></p>\n<p>Points: 13</p>\n<p># Comments: 8</p>",
+            "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+            "published": "Fri, 16 Oct 2026 19:33:00 +0000",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the Claude Code team does code review",
+            "description": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 52</p>\n<p># Comments: 45</p>",
+            "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+            "published": "Fri, 16 Oct 2026 19:04:47 +0000",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude reveals ECDSA curve origins",
+            "description": "<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 262</p>\n<p># Comments: 107</p>",
+            "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+            "published": "Fri, 16 Oct 2026 18:55:59 +0000",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+            "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+            "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:45:10 GMT",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+            "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by tiger may have had medical records breached by NHS staff",
+            "description": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:53:07 GMT",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump told new press secretary to ‘reconsider’ role",
+            "description": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 19:41:15 +0000",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+            "description": "The United States calls for dialogue as regional East Africa tension escalates.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 19:18:13 +0000",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "White House press secretary Katie Zacharia fired after five days on the job",
+            "description": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 18:58:06 +0000",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T23:44:05+03:30"
+        }
+    ]
+}
