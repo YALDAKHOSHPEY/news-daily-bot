@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 02:54:29
+**Last Update:** 2026-10-16 05:02:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What I Self-Host
+### 1. RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
-<p>Points: 163</p>
-<p># Comments: 87</p>
+<p>Article URL: <a href="https://ipinfo.io/blog/rpki-protects-70-internet-routes">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112330">https://news.ycombinator.com/item?id=50112330</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+🔗 **Read more:** [https://ipinfo.io/blog/rpki-protects-70-internet-routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
 
 ---
 
-### 2. New Withings Users Must Pay $99/Year for Apple Health Syncing
+### 2. Business accounts will consent to Meta scraping their websites Starting Oct. 30
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
-<p>Points: 120</p>
-<p># Comments: 104</p>
+<p>Article URL: <a href="https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111852">https://news.ycombinator.com/item?id=50111852</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+🔗 **Read more:** [https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 
 ---
 
-### 3. Someone on Torrent Sites Kept Fucking with My Sonarr
+### 3. BeBox is a Haiku application that emulates Be Inc.'s BeBox
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 164</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://github.com/johnrash/bebox">https://github.com/johnrash/bebox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111742">https://news.ycombinator.com/item?id=50111742</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+🔗 **Read more:** [https://github.com/johnrash/bebox](https://github.com/johnrash/bebox)
 
 ---
 
@@ -84,55 +84,55 @@ Trump said some would "rather not watch" the killing of Nidal Hasan, the first m
 
 ---
 
-### 6. Trans people should use hospital spaces according to biological sex, NHS England says
+### 6. Same-day test helps doctors detect hidden infections in critically ill children
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.
+Metagenomics offers a new way of detecting infections in intensive care patients.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. At least 4, including 3 children, killed in US elementary school shooting
+### 7. Clashes erupt at protest over university funding law in Argentina
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.
+Protesters in Buenos Aires demanded the government implement a law to boost university funding.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss)
 
 ---
 
-### 8. Israel halts commercial goods from entering Gaza; Hamas denies tax claims
+### 8. Can Zimbabwe’s ZiG win trust and replace the US dollar?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
+After repeated currency crises, Zimbabweans remain wary of the ZiG.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss)
 
 ---
 
-### 9. Man United’s Martinez apologises for outburst after talks with Carrick
+### 9. Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
+Iraq&#039;s parliament has finalised key minister appointments five months after al-Zaidi&#039;s government took office.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss)
 
 ---
 

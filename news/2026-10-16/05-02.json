@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T05:02:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago",
+            "description": "<p>Article URL: <a href=\"https://ipinfo.io/blog/rpki-protects-70-internet-routes\">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112330\">https://news.ycombinator.com/item?id=50112330</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+            "published": "Fri, 16 Oct 2026 00:52:35 +0000",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+            "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+            "published": "Thu, 15 Oct 2026 23:37:42 +0000",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+            "description": "<p>Article URL: <a href=\"https://github.com/johnrash/bebox\">https://github.com/johnrash/bebox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111742\">https://news.ycombinator.com/item?id=50111742</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/johnrash/bebox",
+            "published": "Thu, 15 Oct 2026 23:22:53 +0000",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+            "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+            "description": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 00:34:45 GMT",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clashes erupt at protest over university funding law in Argentina",
+            "description": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 01:19:25 +0000",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+            "description": "After repeated currency crises, Zimbabweans remain wary of the ZiG.",
+            "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 01:12:26 +0000",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+            "description": "Iraq&#039;s parliament has finalised key minister appointments five months after al-Zaidi&#039;s government took office.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 00:31:18 +0000",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T05:02:19+03:30"
+        }
+    ]
+}
