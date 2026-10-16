@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-16T05:41:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+            "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+            "description": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 00:34:45 GMT",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+            "description": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 01:34:47 +0000",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clashes erupt at protest over university funding law in Argentina",
+            "description": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 01:19:25 +0000",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+            "description": "After repeated currency crises, Zimbabweans remain wary of the ZiG.",
+            "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 01:12:26 +0000",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T05:41:14+03:30"
+        }
+    ]
+}
