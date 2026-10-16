@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 00:57:02
+**Last Update:** 2026-10-17 02:37:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 65</p>
-<p># Comments: 19</p>
+<p>Points: 142</p>
+<p># Comments: 87</p>
 
 🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
 
 ---
 
-### 3. Flux 3 Image Klein: open weights, 5.6B parameters
+### 3. FLUX 3 Image Klein
 
 **Source:** Hacker News
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 34</p>
-<p># Comments: 7</p>
+<p>Points: 82</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
@@ -97,7 +97,33 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 
 ---
 
-### 7. Meta employees say Lula’s accounts restricted in Brazil election: Report
+### 7. Families demand justice after Pakistan school collapse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Parents are demanding accountability after a school roof collapse in Pakistan&#039;s Peshawar killed 34 children.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss)
+
+---
+
+### 8. Yemen’s government says Houthis fired two missiles at Aden airport
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Attack comes as Yemeni gov&#039;t forces claim advances in Marib and say they &#039;neutralised&#039; 430 Houthi fighters in 24 hours.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss)
+
+---
+
+### 9. Meta employees say Lula’s accounts restricted in Brazil election: Report
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss)
-
----
-
-### 8. Students in Europe are rising up to call for better education
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)
-
----
-
-### 9. Food affordability fears plague Gaza as Israel halts commercial goods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss)
 
 ---
 
