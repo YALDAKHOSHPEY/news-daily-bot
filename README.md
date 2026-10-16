@@ -1,29 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 05:41:14
+**Last Update:** 2026-10-16 10:53:10
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bus hits train stopped on French side of Channel Tunnel, with 19 injured
+### 1. Last rites for Gentoo's Chromium package
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator.com/item?id=50114359</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1097760/](https://lwn.net/Articles/1097760/)
+
+---
+
+### 2. Comparing Chromium Development at Google and Igalia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
+<p>Points: 37</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
+
+---
+
+### 3. Any window from your Mac, on your iPhone and iPad
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
+<p>Points: 125</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
+
+---
+
+### 4. Three children and teacher killed in US primary school shooting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.
+The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Same-day test helps doctors detect hidden infections in critically ill children
+### 5. Banks say Healey planning to increase tax on their profits in Budget
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Senior banking executives have told the BBC they expect to be "on the menu" in the chancellor's Budget tax later this month.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Same-day test helps doctors detect hidden infections in critically ill children
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ Metagenomics offers a new way of detecting infections in intensive care patients
 
 ---
 
-### 3. Trump calls off livestream of Fort Hood attacker's execution by firing squad
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Trump said some would "rather not watch" the killing of Nidal Hasan, the first military execution in over 60 years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Myanmar’s coup leader-turned-president wins back neighbours despite war
+### 7. In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.
+As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss)
 
 ---
 
-### 5. Clashes erupt at protest over university funding law in Argentina
+### 8. Which countries waste the most food, and how to reduce waste at home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters in Buenos Aires demanded the government implement a law to boost university funding.
+This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss)
 
 ---
 
-### 6. Can Zimbabwe’s ZiG win trust and replace the US dollar?
+### 9. Vibe coding: Game-changer or risky business?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After repeated currency crises, Zimbabweans remain wary of the ZiG.
+Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss)
 
 ---
 
-### 7. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 10. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Hurricane Trudy
+### 11. Hurricane Trudy
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Jane 102 RX, Harney, Oregon
+### 12. Prescribed Fire Jane 102 RX, Harney, Oregon
 
 **Source:** NASA
 
