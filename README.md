@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 20:52:45
+**Last Update:** 2026-10-17 21:06:59
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -26,7 +26,23 @@
 
 ---
 
-### 2. GLP-1 may slow biological aging
+### 2. OpenAI discloses four more rogue incidents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/">https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132502">https://news.ycombinator.com/item?id=50132502</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
+
+---
+
+### 3. GLP-1 may slow biological aging
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging">https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132328">https://news.ycombinator.com/item?id=50132328</a></p>
-<p>Points: 60</p>
-<p># Comments: 34</p>
+<p>Points: 89</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
-
----
-
-### 3. Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132278">https://news.ycombinator.com/item?id=50132278</a></p>
-<p>Points: 33</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
 
 ---
 
@@ -97,7 +97,20 @@ Lord Ricketts says more should be spent on improving the resilience of energy, t
 
 ---
 
-### 7. Why are Latin American countries building closer ties with Israel?
+### 7. Al Jazeera reports from Paris as protests turns violent
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss)
+
+---
+
+### 8. Why are Latin American countries building closer ties with Israel?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A wave of new Latin American leaders reverses measures meant to isolate Israel a
 
 ---
 
-### 8. Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
+### 9. Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A wave of new Latin American leaders reverses measures meant to isolate Israel a
 Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss)
-
----
-
-### 9. Kenya confirms four more Ebola cases, bringing total to seven
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-⁠Three health workers who ⁠treated the country&#039;s first Ebola patient are among the latest confirmed cases.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss)
 
 ---
 
