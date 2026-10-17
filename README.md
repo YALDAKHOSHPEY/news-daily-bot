@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 05:34:33
+**Last Update:** 2026-10-17 08:14:58
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flexport Is Hiring a Biz Ops Leader in Office of CEO
+### 1. "In every study that considered the question"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://unsung.aresluna.org/in-every-study-that-considered-the-question/">https://unsung.aresluna.org/in-every-study-that-considered-the-question/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127839">https://news.ycombinator.com/item?id=50127839</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://unsung.aresluna.org/in-every-study-that-considered-the-question/](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
+
+---
+
+### 2. Butlerian Jihad
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dune.fandom.com/wiki/Butlerian_Jihad">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127274">https://news.ycombinator.com/item?id=50127274</a></p>
+<p>Points: 125</p>
+<p># Comments: 66</p>
+
+🔗 **Read more:** [https://dune.fandom.com/wiki/Butlerian_Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+
+---
+
+### 3. Flexport Is Hiring a Biz Ops Leader in Office of CEO
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.flexport.com/company/careers/](https://www.flexport.com/company/careers/)
-
----
-
-### 2. Nine-Inch Snails
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50125545">https://news.ycombinator.com/item?id=50125545</a></p>
-<p>Points: 27</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
-
----
-
-### 3. Why harnesses matter for energy (and token) efficiency
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 41</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 
 ---
 
@@ -71,68 +71,68 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 5. Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump
+### 5. Trump waives several Russia sanctions as new US law takes effect
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.
+Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Will Ukraine get the support needed as tensions with US rise?
+### 6. Third runway at Heathrow Airport would drive growth, Healey says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
+It comes after the prime minister refused to say whether he backed expansion.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Healthcare crisis escalating in Yemen’s besieged Taiz
+### 7. Albania’s PM blames ‘foreign hands’ for protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.
+Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss)
 
 ---
 
-### 8. US coastguard rescues 16 after boat sinks off Mexico’s Baja coast
+### 8. Southern California wildfire engulfs homes, prompts evacuation orders
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eleven people are believed to be still missing, with rescue operations under way.
+The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss)
 
 ---
 
-### 9. Oregon school shooter was former special needs student, police say
+### 9. Cameroonians await government reshuffle after Biya’s return
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.
+After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss)
 
 ---
 
