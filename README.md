@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 21:06:59
+**Last Update:** 2026-10-17 23:04:29
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers
+### 1. Pattern Matching Beats Narrative Reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.artie.com/careers">https://www.artie.com/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132839">https://news.ycombinator.com/item?id=50132839</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://blog.scottstevenson.net/p/pattern-matching-beats-narrative">https://blog.scottstevenson.net/p/pattern-matching-beats-narrative</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133736">https://news.ycombinator.com/item?id=50133736</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.artie.com/careers](https://www.artie.com/careers)
+🔗 **Read more:** [https://blog.scottstevenson.net/p/pattern-matching-beats-narrative](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 
 ---
 
-### 2. OpenAI discloses four more rogue incidents
+### 2. AI Can Write the Code. Who Verifies It?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/">https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132502">https://news.ycombinator.com/item?id=50132502</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it">https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133713">https://news.ycombinator.com/item?id=50133713</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
+🔗 **Read more:** [https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
 
 ---
 
-### 3. GLP-1 may slow biological aging
+### 3. OpenCode Hacked: User credentials leaked
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging">https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132328">https://news.ycombinator.com/item?id=50132328</a></p>
-<p>Points: 89</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://twitter.com/opencode/status/2111516673953935833">https://twitter.com/opencode/status/2111516673953935833</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133401">https://news.ycombinator.com/item?id=50133401</a></p>
+<p>Points: 152</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
-
----
-
-### 4. Watch: 'Mood has really shifted' as Paris protesters clash with police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://twitter.com/opencode/status/2111516673953935833](https://twitter.com/opencode/status/2111516673953935833)
 
 ---
 
-### 5. More NHS staff sacked over attacks victims' records
+### 4. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ The BBC is on the ground at the Place de la République, where protesters and po
 Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. European diplomats attacked by Israeli settlers in West Bank
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Lord Ricketts says more should be spent on improving the resilience of energy, t
 
 ---
 
-### 7. Al Jazeera reports from Paris as protests turns violent
+### 7. Albanian police fire rubber bullets as protests against Rama escalate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.
+Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss)
 
 ---
 
-### 8. Why are Latin American countries building closer ties with Israel?
+### 8. Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.
+Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss)
 
 ---
 
-### 9. Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
+### 9. Will the EU come to Ukraine’s rescue in war against Russia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.
+US support at risk as Trump-Zelenskyy relations nosedive.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss)
 
 ---
 
