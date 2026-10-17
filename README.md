@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 13:01:52
+**Last Update:** 2026-10-17 15:19:59
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. "Tame" boar and deer are instinctively adapting to the wolf in the Netherlands
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf">https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129274">https://news.ycombinator.com/item?id=50129274</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
-
----
-
-### 2. DeepSeek: DeepSeek v4.1 Flash 1017
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
-<p>Points: 63</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
-
----
-
-### 3. DeepSeek-v4.1-Flash-1017
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
-<p>Points: 96</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
-
----
-
-### 4. Trump waives several Russia sanctions as row with Zelensky intensifies
+### 1. Trump waives several Russia sanctions as row with Zelensky intensifies
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The US president temporarily ends many restrictions on Moscow recently passed by
 
 ---
 
-### 5. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 2. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 6. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
+### 3. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Emergency services were called at about 16:45 on Friday, and pronounced both dea
 
 ---
 
-### 7. Murder in Malaysia: Justice for Altantuya Shaariibuu
+### 4. Russian strikes kill civilians, injure dozens across Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.
+At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss)
 
 ---
 
-### 8. Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
+### 5. Protests spread across France as ‘yellow vests’ set to join
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Can the United States reassert influence with pragmatic, transactional approach to Central Asia?
+Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss)
 
 ---
 
-### 9. Oregon school shooter was former special-needs student, police say
+### 6. Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oregon school shooter was former special-needs student, police say
+Analysts say Russia will benefit most from US sanctions waiver.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Typhoon Champi
+### 8. Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

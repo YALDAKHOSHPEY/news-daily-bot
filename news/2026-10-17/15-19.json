@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-17T15:19:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+            "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 09:42:13 GMT",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 09:58:17 GMT",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+            "description": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+            "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 11:00:11 GMT",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+            "description": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 11:22:41 +0000",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests spread across France as ‘yellow vests’ set to join",
+            "description": "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 11:21:32 +0000",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+            "description": "Analysts say Russia will benefit most from US sanctions waiver.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 11:10:22 +0000",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T15:19:59+03:30"
+        }
+    ]
+}
