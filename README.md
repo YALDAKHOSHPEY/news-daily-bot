@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 10:47:42
+**Last Update:** 2026-10-17 13:01:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+### 1. "Tame" boar and deer are instinctively adapting to the wolf in the Netherlands
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf">https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129274">https://news.ycombinator.com/item?id=50129274</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+🔗 **Read more:** [https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
 
 ---
 
-### 2. "In every study that considered the question"
+### 2. DeepSeek: DeepSeek v4.1 Flash 1017
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/in-every-study-that-considered-the-question/">https://unsung.aresluna.org/in-every-study-that-considered-the-question/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127839">https://news.ycombinator.com/item?id=50127839</a></p>
-<p>Points: 24</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
+<p>Points: 63</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/in-every-study-that-considered-the-question/](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
+🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 
 ---
 
-### 3. Butlerian Jihad
+### 3. DeepSeek-v4.1-Flash-1017
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dune.fandom.com/wiki/Butlerian_Jihad">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127274">https://news.ycombinator.com/item?id=50127274</a></p>
-<p>Points: 185</p>
-<p># Comments: 100</p>
+<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
+<p>Points: 96</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://dune.fandom.com/wiki/Butlerian_Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
 ---
 
@@ -84,55 +84,55 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 6. Third runway at Heathrow Airport would drive growth, Healey says
+### 6. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It comes after the prime minister refused to say whether he backed expansion.
+Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Can Yemen’s government forces sustain their offensive against the Houthis?
+### 7. Murder in Malaysia: Justice for Altantuya Shaariibuu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.
+101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss)
 
 ---
 
-### 8. Ukraine and Europe have little choice but to work with Trump
+### 8. Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.
+Can the United States reassert influence with pragmatic, transactional approach to Central Asia?
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss)
 
 ---
 
-### 9. AI fears are being weaponised
+### 9. Oregon school shooter was former special-needs student, police say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.
+Oregon school shooter was former special-needs student, police say
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss)
 
 ---
 
