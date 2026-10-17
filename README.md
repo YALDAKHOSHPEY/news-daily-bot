@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 17:19:02
+**Last Update:** 2026-10-17 18:07:37
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek: DeepSeek v4.1 Flash 1017
+### 1. Solar surpasses nuclear power globally for first time – pv magazine Global
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
-<p>Points: 346</p>
-<p># Comments: 138</p>
+<p>Article URL: <a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131256">https://news.ycombinator.com/item?id=50131256</a></p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+🔗 **Read more:** [https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 
 ---
 
-### 2. DeepSeek-v4.1-Flash-1017
+### 2. Making Chicken Transparent Using Dorito Dust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
-<p>Points: 271</p>
-<p># Comments: 104</p>
+<p>Article URL: <a href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131213">https://news.ycombinator.com/item?id=50131213</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+🔗 **Read more:** [https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 
 ---
 
-### 3. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+### 3. MapQuest will now show you where Flock cameras are in your neighborhood
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
-<p>Points: 136</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/">https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129947">https://news.ycombinator.com/item?id=50129947</a></p>
+<p>Points: 26</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+🔗 **Read more:** [https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
 
 ---
 
@@ -71,20 +71,7 @@ The BBC is on the ground at the Place de la République, where protesters and po
 
 ---
 
-### 5. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. More NHS staff sacked over attacks victims' records
+### 5. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. Child, four women among Palestinians injured in West Bank pogroms
+### 6. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
+Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
+### 7. Hurricane Trudy makes its way towards Mexico, threatening heavy rain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
+Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss)
 
 ---
 
-### 9. Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
+### 8. Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
+The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss)
+
+---
+
+### 9. Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss)
 
 ---
 

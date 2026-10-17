@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T18:07:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+            "description": "<p>Article URL: <a href=\"https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131256\">https://news.ycombinator.com/item?id=50131256</a></p>\n<p>Points: 51</p>\n<p># Comments: 18</p>",
+            "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+            "published": "Sat, 17 Oct 2026 14:01:01 +0000",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making Chicken Transparent Using Dorito Dust",
+            "description": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131213\">https://news.ycombinator.com/item?id=50131213</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+            "published": "Sat, 17 Oct 2026 13:55:28 +0000",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+            "description": "<p>Article URL: <a href=\"https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/\">https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129947\">https://news.ycombinator.com/item?id=50129947</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+            "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+            "published": "Sat, 17 Oct 2026 10:59:31 +0000",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+            "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:14:52 GMT",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 13:18:32 GMT",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+            "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:56:09 GMT",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+            "description": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 14:28:07 +0000",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+            "description": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.",
+            "url": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 14:06:41 +0000",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+            "description": "Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.",
+            "url": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 14:00:24 +0000",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T18:07:37+03:30"
+        }
+    ]
+}
