@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 03:14:45
+**Last Update:** 2026-10-17 05:34:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why harnesses matter for energy (and token) efficiency
+### 1. Flexport Is Hiring a Biz Ops Leader in Office of CEO
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.flexport.com/company/careers/">https://www.flexport.com/company/careers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50126774">https://news.ycombinator.com/item?id=50126774</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.flexport.com/company/careers/](https://www.flexport.com/company/careers/)
+
+---
+
+### 2. Nine-Inch Snails
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50125545">https://news.ycombinator.com/item?id=50125545</a></p>
+<p>Points: 27</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
+
+---
+
+### 3. Why harnesses matter for energy (and token) efficiency
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 24</p>
-<p># Comments: 10</p>
+<p>Points: 41</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
-
----
-
-### 2. I never authorized an integration that scans my secrets
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 154</p>
-<p># Comments: 103</p>
-
-🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
-
----
-
-### 3. FLUX 3 Image Klein
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 84</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
 ---
 
@@ -97,42 +97,42 @@ Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
 
 ---
 
-### 7. Albanian PM blames ‘foreign hands’ for unrest as student protests intensify
+### 7. Healthcare crisis escalating in Yemen’s besieged Taiz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions
+Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss)
 
 ---
 
-### 8. Leeds vs Manchester United: Premier League – teams, prediction, lineups
+### 8. US coastguard rescues 16 after boat sinks off Mexico’s Baja coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown - now they face on-the-up rivals Leeds.
+Eleven people are believed to be still missing, with rescue operations under way.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss)
 
 ---
 
-### 9. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
+### 9. Oregon school shooter was former special needs student, police say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
+A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Champi
+### 11. Typhoon Champi
 
 **Source:** NASA
 

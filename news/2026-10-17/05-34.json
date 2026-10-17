@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T05:34:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+            "description": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126774\">https://news.ycombinator.com/item?id=50126774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.flexport.com/company/careers/",
+            "published": "Sat, 17 Oct 2026 01:01:51 +0000",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nine-Inch Snails",
+            "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/\">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50125545\">https://news.ycombinator.com/item?id=50125545</a></p>\n<p>Points: 27</p>\n<p># Comments: 12</p>",
+            "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+            "published": "Fri, 16 Oct 2026 22:21:05 +0000",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why harnesses matter for energy (and token) efficiency",
+            "description": "<p>Article URL: <a href=\"https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency\">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124642\">https://news.ycombinator.com/item?id=50124642</a></p>\n<p>Points: 41</p>\n<p># Comments: 19</p>",
+            "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+            "published": "Fri, 16 Oct 2026 21:01:23 +0000",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 01:19:04 GMT",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+            "description": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 21:02:18 GMT",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+            "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+            "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:45:10 GMT",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+            "description": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 01:37:07 +0000",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
+            "description": "Eleven people are believed to be still missing, with rescue operations under way.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 01:33:37 +0000",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oregon school shooter was former special needs student, police say",
+            "description": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 00:25:22 +0000",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T05:34:33+03:30"
+        }
+    ]
+}
