@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 01:59:12
+**Last Update:** 2026-10-18 03:07:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chrome and Edge are removing XSLT: what breaks and what does not
+### 1. JDK 28
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openjdk.org/projects/jdk/28/">https://openjdk.org/projects/jdk/28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50135379">https://news.ycombinator.com/item?id=50135379</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://openjdk.org/projects/jdk/28/](https://openjdk.org/projects/jdk/28/)
+
+---
+
+### 2. Chrome and Edge are removing XSLT: what breaks and what does not
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134617">https://news.ycombinator.com/item?id=50134617</a></p>
-<p>Points: 47</p>
-<p># Comments: 47</p>
+<p>Points: 62</p>
+<p># Comments: 60</p>
 
 🔗 **Read more:** [https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 
 ---
 
-### 2. Microsoft and CMU Team Up to Train Early Career Software Engineers
+### 3. Microsoft and CMU team up to train early career software engineers
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise">https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133830">https://news.ycombinator.com/item?id=50133830</a></p>
-<p>Points: 35</p>
-<p># Comments: 36</p>
+<p>Points: 51</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
-
----
-
-### 3. Pattern Matching Beats Narrative Reasoning
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.scottstevenson.net/p/pattern-matching-beats-narrative">https://blog.scottstevenson.net/p/pattern-matching-beats-narrative</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133736">https://news.ycombinator.com/item?id=50133736</a></p>
-<p>Points: 30</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://blog.scottstevenson.net/p/pattern-matching-beats-narrative](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 
 ---
 
@@ -97,7 +97,20 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. Photos: No Kings rallies in US urge midterm voters to cast ballots early
+### 7. Saudi-led coalition intercepts drones as Egypt weighs sending help
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss)
+
+---
+
+### 8. Photos: No Kings rallies in US urge midterm voters to cast ballots early
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Thousands gathered at events throughout the country on Saturday, building on two
 
 ---
 
-### 8. Cost of living protests hit Belgium, Italy, Portugal and France
+### 9. Cost of living protests hit Belgium, Italy, Portugal and France
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ Thousands gathered at events throughout the country on Saturday, building on two
 Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss)
-
----
-
-### 9. Ten killed in fire at beach resort in Bangladesh
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone 01P
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
-
----
-
-### 11. Typhoon Champi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
-
----
-
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
 
 ---
 
