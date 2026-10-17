@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 18:07:37
+**Last Update:** 2026-10-17 20:52:45
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Solar surpasses nuclear power globally for first time – pv magazine Global
+### 1. Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131256">https://news.ycombinator.com/item?id=50131256</a></p>
-<p>Points: 51</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.artie.com/careers">https://www.artie.com/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132839">https://news.ycombinator.com/item?id=50132839</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+🔗 **Read more:** [https://www.artie.com/careers](https://www.artie.com/careers)
 
 ---
 
-### 2. Making Chicken Transparent Using Dorito Dust
+### 2. GLP-1 may slow biological aging
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50131213">https://news.ycombinator.com/item?id=50131213</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging">https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132328">https://news.ycombinator.com/item?id=50132328</a></p>
+<p>Points: 60</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+🔗 **Read more:** [https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
 
 ---
 
-### 3. MapQuest will now show you where Flock cameras are in your neighborhood
+### 3. Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/">https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129947">https://news.ycombinator.com/item?id=50129947</a></p>
-<p>Points: 26</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132278">https://news.ycombinator.com/item?id=50132278</a></p>
+<p>Points: 33</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
+🔗 **Read more:** [https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
 
 ---
 
@@ -97,42 +97,42 @@ Lord Ricketts says more should be spent on improving the resilience of energy, t
 
 ---
 
-### 7. Hurricane Trudy makes its way towards Mexico, threatening heavy rain
+### 7. Why are Latin American countries building closer ties with Israel?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.
+A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss)
 
 ---
 
-### 8. Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction
+### 8. Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.
+Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss)
 
 ---
 
-### 9. Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia
+### 9. Kenya confirms four more Ebola cases, bringing total to seven
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.
+⁠Three health workers who ⁠treated the country&#039;s first Ebola patient are among the latest confirmed cases.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss)
 
 ---
 
