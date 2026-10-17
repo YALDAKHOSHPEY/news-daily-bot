@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 08:14:58
+**Last Update:** 2026-10-17 10:47:42
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. "In every study that considered the question"
+### 1. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
+<p>Points: 25</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+
+---
+
+### 2. "In every study that considered the question"
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://unsung.aresluna.org/in-every-study-that-considered-the-question/">https://unsung.aresluna.org/in-every-study-that-considered-the-question/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127839">https://news.ycombinator.com/item?id=50127839</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://unsung.aresluna.org/in-every-study-that-considered-the-question/](https://unsung.aresluna.org/in-every-study-that-considered-the-question/)
 
 ---
 
-### 2. Butlerian Jihad
+### 3. Butlerian Jihad
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://dune.fandom.com/wiki/Butlerian_Jihad">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127274">https://news.ycombinator.com/item?id=50127274</a></p>
-<p>Points: 125</p>
-<p># Comments: 66</p>
+<p>Points: 185</p>
+<p># Comments: 100</p>
 
 🔗 **Read more:** [https://dune.fandom.com/wiki/Butlerian_Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
 
 ---
 
-### 3. Flexport Is Hiring a Biz Ops Leader in Office of CEO
+### 4. Trump waives several Russia sanctions as row with Zelensky intensifies
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.flexport.com/company/careers/">https://www.flexport.com/company/careers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50126774">https://news.ycombinator.com/item?id=50126774</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
 
-🔗 **Read more:** [https://www.flexport.com/company/careers/](https://www.flexport.com/company/careers/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 5. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Trump waives several Russia sanctions as new US law takes effect
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ It comes after the prime minister refused to say whether he backed expansion.
 
 ---
 
-### 7. Albania’s PM blames ‘foreign hands’ for protests
+### 7. Can Yemen’s government forces sustain their offensive against the Houthis?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.
+Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss)
 
 ---
 
-### 8. Southern California wildfire engulfs homes, prompts evacuation orders
+### 8. Ukraine and Europe have little choice but to work with Trump
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.
+Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss)
 
 ---
 
-### 9. Cameroonians await government reshuffle after Biya’s return
+### 9. AI fears are being weaponised
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.
+Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss)
 
 ---
 

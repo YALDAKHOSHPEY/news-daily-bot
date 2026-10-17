@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T10:47:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "description": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
+            "url": "https://llmspeed.dev/",
+            "published": "Sat, 17 Oct 2026 04:36:53 +0000",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"In every study that considered the question\"",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/in-every-study-that-considered-the-question/\">https://unsung.aresluna.org/in-every-study-that-considered-the-question/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127839\">https://news.ycombinator.com/item?id=50127839</a></p>\n<p>Points: 24</p>\n<p># Comments: 15</p>",
+            "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+            "published": "Sat, 17 Oct 2026 04:08:27 +0000",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Butlerian Jihad",
+            "description": "<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 185</p>\n<p># Comments: 100</p>",
+            "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+            "published": "Sat, 17 Oct 2026 02:21:08 +0000",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+            "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 06:39:40 GMT",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 06:49:48 GMT",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+            "description": "It comes after the prime minister refused to say whether he backed expansion.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 03:57:16 GMT",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+            "description": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 06:41:34 +0000",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine and Europe have little choice but to work with Trump",
+            "description": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 06:36:03 +0000",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI fears are being weaponised",
+            "description": "Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 06:21:39 +0000",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T10:47:42+03:30"
+        }
+    ]
+}
