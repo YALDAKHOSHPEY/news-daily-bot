@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 15:19:59
+**Last Update:** 2026-10-17 17:19:02
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Trump waives several Russia sanctions as row with Zelensky intensifies
+### 1. DeepSeek: DeepSeek v4.1 Flash 1017
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
+<p>Points: 346</p>
+<p># Comments: 138</p>
+
+🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+
+---
+
+### 2. DeepSeek-v4.1-Flash-1017
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
+<p>Points: 271</p>
+<p># Comments: 104</p>
+
+🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+
+---
+
+### 3. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
+<p>Points: 136</p>
+<p># Comments: 47</p>
+
+🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+
+---
+
+### 4. Watch: 'Mood has really shifted' as Paris protesters clash with police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
+The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 5. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
+### 6. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.
+Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Russian strikes kill civilians, injure dozens across Ukraine
+### 7. Child, four women among Palestinians injured in West Bank pogroms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.
+Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
 
 ---
 
-### 5. Protests spread across France as ‘yellow vests’ set to join
+### 8. Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.
+The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss)
 
 ---
 
-### 6. Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
+### 9. Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Russia will benefit most from US sanctions waiver.
+A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Typhoon Champi
+### 11. Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
