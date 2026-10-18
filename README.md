@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 17:34:17
+**Last Update:** 2026-10-18 19:43:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open MicroManipulator – A sub-micrometer 3D motion control plattform
+### 1. macOS 15.8.2 Breaks OpenGL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50140001">https://news.ycombinator.com/item?id=50140001</a></p>
-<p>Points: 44</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
-
----
-
-### 2. Legal experts warn Meta's new terms still grant broad scraping permissions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139692">https://news.ycombinator.com/item?id=50139692</a></p>
-<p>Points: 62</p>
+<p>Article URL: <a href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550">https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141909">https://news.ycombinator.com/item?id=50141909</a></p>
+<p>Points: 35</p>
 <p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+🔗 **Read more:** [https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
 
 ---
 
-### 3. Parser Combinators
+### 2. Will it be a golden age or a dark age for mathematics (and science)?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139067">https://news.ycombinator.com/item?id=50139067</a></p>
-<p>Points: 89</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/">https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141681">https://news.ycombinator.com/item?id=50141681</a></p>
+<p>Points: 44</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://t3.at/blog/2026-10-17-parser-combinators/](https://t3.at/blog/2026-10-17-parser-combinators/)
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
+
+---
+
+### 3. Websites are closing their doors to AI agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141657">https://news.ycombinator.com/item?id=50141657</a></p>
+<p>Points: 59</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
 
 ---
 
@@ -65,26 +65,13 @@
 **Category:** world
 
 **Description:**
-Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
+About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Parisians wake up to protest damage and looted shops
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 5. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 7. Was ancient India the world’s forgotten superpower?
+### 6. Ending corridor care in hospitals for children a priority, says health secretary
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.
+Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Gaza families fear food shortages as Israel halts commercial shipments
+### 7. Photos: Antigovernment protesters clash with police in Albania’s capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.
+Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss)
 
 ---
 
-### 9. Paris left reeling as student-led protests turn chaotic
+### 8. Manchester United held at Leeds despite improved performance for Carrick
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.
+Bryan Mbeumo&#039;s goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss)
+
+---
+
+### 9. EU condemns Israeli settler attack on diplomats in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss)
 
 ---
 

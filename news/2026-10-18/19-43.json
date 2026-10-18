@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-18T19:43:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "macOS 15.8.2 Breaks OpenGL",
+            "description": "<p>Article URL: <a href=\"https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550\">https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141909\">https://news.ycombinator.com/item?id=50141909</a></p>\n<p>Points: 35</p>\n<p># Comments: 15</p>",
+            "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+            "published": "Sun, 18 Oct 2026 15:26:06 +0000",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/\">https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141681\">https://news.ycombinator.com/item?id=50141681</a></p>\n<p>Points: 44</p>\n<p># Comments: 38</p>",
+            "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+            "published": "Sun, 18 Oct 2026 15:00:40 +0000",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Websites are closing their doors to AI agents",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web\">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141657\">https://news.ycombinator.com/item?id=50141657</a></p>\n<p>Points: 59</p>\n<p># Comments: 37</p>",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+            "published": "Sun, 18 Oct 2026 14:58:10 +0000",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+            "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+            "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 14:57:19 GMT",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+            "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:09:04 GMT",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+            "description": "Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 15:30:44 +0000",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester United held at Leeds despite improved performance for Carrick",
+            "description": "Bryan Mbeumo&#039;s goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
+            "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 15:28:30 +0000",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+            "description": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 15:10:05 +0000",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T19:43:05+03:30"
+        }
+    ]
+}
