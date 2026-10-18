@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 08:21:06
+**Last Update:** 2026-10-18 11:01:39
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You
+### 1. DeepSeek search and fetch – $0.75 per 1000 successful requests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137620">https://news.ycombinator.com/item?id=50137620</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://api-docs.deepseek.com/guides/search/">https://api-docs.deepseek.com/guides/search/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138531">https://news.ycombinator.com/item?id=50138531</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+🔗 **Read more:** [https://api-docs.deepseek.com/guides/search/](https://api-docs.deepseek.com/guides/search/)
 
 ---
 
-### 2. NY announces game ownership bill requiring ownership rather than licensing
+### 2. A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136536">https://news.ycombinator.com/item?id=50136536</a></p>
-<p>Points: 157</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c">https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138462">https://news.ycombinator.com/item?id=50138462</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
+🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
 
 ---
 
-### 3. Codex Desktop continuously generates Crashpad pending dumps
+### 3. The game industry is broken – can we fix it?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/25921">https://github.com/openai/codex/issues/25921</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133231">https://news.ycombinator.com/item?id=50133231</a></p>
-<p>Points: 108</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash">https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138156">https://news.ycombinator.com/item?id=50138156</a></p>
+<p>Points: 26</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://github.com/openai/codex/issues/25921](https://github.com/openai/codex/issues/25921)
+🔗 **Read more:** [https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash](https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash)
 
 ---
 
-### 4. Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests
+### 4. Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ An historic town hall in the southern French city of Limoges was set ablaze duri
 
 ---
 
-### 6. More NHS staff sacked over attacks victims' records
+### 6. Several dead or injured in major fire at Canada military base
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.
+Officials have not given a cause or death toll, citing the "very active and delicate" situation at Canadian Forces Base Wainwright.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. At least 19 dead in stampede at Kolkata Hindu festival
+### 7. Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.
+Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss)
 
 ---
 
-### 8. Tunisia’s economic crisis deepens as the promise of a better life fades
+### 8. Guatemalan former prosecutor shot dead at sports centre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Joblessness, failing services and rising costs deepen hardship across the country.
+Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss)
 
 ---
 
-### 9. Rubio wants ‘crackdown’ on settler violence after US journalist attack
+### 9. AI tool helps stranded protesters find their way home in the Indian capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rubio wants ‘crackdown’ on settler violence after US journalist attack
+A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss)
 
 ---
 
