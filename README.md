@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 11:01:39
+**Last Update:** 2026-10-18 13:15:05
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek search and fetch – $0.75 per 1000 successful requests
+### 1. Urgent plan needed to end 'corridor care' for children, health secretary says
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/guides/search/">https://api-docs.deepseek.com/guides/search/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138531">https://news.ycombinator.com/item?id=50138531</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
+Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
 
-🔗 **Read more:** [https://api-docs.deepseek.com/guides/search/](https://api-docs.deepseek.com/guides/search/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c">https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138462">https://news.ycombinator.com/item?id=50138462</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c](https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c)
-
----
-
-### 3. The game industry is broken – can we fix it?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash">https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138156">https://news.ycombinator.com/item?id=50138156</a></p>
-<p>Points: 26</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash](https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash)
-
----
-
-### 4. Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests
+### 2. Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ Disorder broke out in cities across the country on a day in which more than half
 
 ---
 
-### 5. Watch: Moment historic French town hall spire collapses in flames amid protests
+### 3. Watch: Moment historic French town hall spire collapses in flames amid protests
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ An historic town hall in the southern French city of Limoges was set ablaze duri
 
 ---
 
-### 6. Several dead or injured in major fire at Canada military base
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Officials have not given a cause or death toll, citing the "very active and delicate" situation at Canadian Forces Base Wainwright.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title
+### 4. Haaland’s record scoring spree helps Man City to seventh Premier League win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.
+Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss)
 
 ---
 
-### 8. Guatemalan former prosecutor shot dead at sports centre
+### 5. Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.
+Argentinian goalkeeper stretchered off after a collision during Chelsea&#039;s visit to Everton and later undergoes surgery.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss)
 
 ---
 
-### 9. AI tool helps stranded protesters find their way home in the Indian capital
+### 6. ‘No Kings’ protests spread across the US ahead of midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.
+Thousands rallied across the US against President Donald Trump in ‘No Kings’ demonstrations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
