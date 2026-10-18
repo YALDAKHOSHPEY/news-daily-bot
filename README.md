@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 22:34:11
+**Last Update:** 2026-10-18 23:01:25
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What we know so far about deadly fire at Canadian military base
+### 1. Free Pascal Compiler Now Supports Dynamic Packages
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombinator.com/item?id=50144066</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.getlazarus.org/dynamic/](https://www.getlazarus.org/dynamic/)
+
+---
+
+### 2. HOA's are making the home crisis worse
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144005">https://news.ycombinator.com/item?id=50144005</a></p>
+<p>Points: 63</p>
+<p># Comments: 39</p>
+
+🔗 **Read more:** [https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
+
+---
+
+### 3. CFPB Opens Debanking Investigation into Nine Large National Banks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/">https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50143876">https://news.ycombinator.com/item?id=50143876</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
+
+---
+
+### 4. What we know so far about deadly fire at Canadian military base
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ At least four people are confirmed to have died after a huge fire swept through 
 
 ---
 
-### 2. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+### 5. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ About 1,800 people were arrested after nationwide protests saw outbreaks of viol
 
 ---
 
-### 3. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 4. GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
+### 7. GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Gulf ministers urge action against Houthis as fighting displaces more than 233,0
 
 ---
 
-### 5. Gaza bodybuilders find solace in strongman competition among the ruins
+### 8. Gaza bodybuilders find solace in strongman competition among the ruins
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Bodybuilders in Gaza are finding solace in testing their strength during a compe
 
 ---
 
-### 6. Why the US is holding secret talks with Myanmar’s military ruler
+### 9. Why the US is holding secret talks with Myanmar’s military ruler
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Why is the Trump administration holding secret talks with Myanmar&#039;s militar
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
