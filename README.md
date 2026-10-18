@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 13:15:05
+**Last Update:** 2026-10-18 15:45:47
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Urgent plan needed to end 'corridor care' for children, health secretary says
+### 1. Kids are outsmarting social media bans. That's not a problem we need to solve
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/">https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139935">https://news.ycombinator.com/item?id=50139935</a></p>
+<p>Points: 13</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)
+
+---
+
+### 2. How employment is changing at Anthropic
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/research/employment-at-anthropic">https://www.anthropic.com/research/employment-at-anthropic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139873">https://news.ycombinator.com/item?id=50139873</a></p>
+<p>Points: 53</p>
+<p># Comments: 68</p>
+
+🔗 **Read more:** [https://www.anthropic.com/research/employment-at-anthropic](https://www.anthropic.com/research/employment-at-anthropic)
+
+---
+
+### 3. Legal experts warn Meta's new terms still grant broad scraping permissions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139692">https://news.ycombinator.com/item?id=50139692</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+
+---
+
+### 4. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
+Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests
+### 5. Watch: Parisians wake up to protest damage and looted shops
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.
+Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Watch: Moment historic French town hall spire collapses in flames amid protests
+### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An historic town hall in the southern French city of Limoges was set ablaze during national protests.
+The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Haaland’s record scoring spree helps Man City to seventh Premier League win
+### 7. Funeral held for 75 Palestinians after remains recovered from Gaza ruins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.
+Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss)
 
 ---
 
-### 5. Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’
+### 8. What help can Egypt offer Saudi Arabia in the war against the Houthis?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentinian goalkeeper stretchered off after a collision during Chelsea&#039;s visit to Everton and later undergoes surgery.
+Analysts say that any move from Egypt will remain &#039;strictly defensive&#039;, as the conflict in Yemen intensifies.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss)
 
 ---
 
-### 6. ‘No Kings’ protests spread across the US ahead of midterm elections
+### 9. Jordan-Israel border becomes new hotspot for sophisticated drug trade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands rallied across the US against President Donald Trump in ‘No Kings’ demonstrations.
+A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
