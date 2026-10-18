@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 19:43:05
+**Last Update:** 2026-10-18 20:57:01
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. macOS 15.8.2 Breaks OpenGL
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550">https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141909">https://news.ycombinator.com/item?id=50141909</a></p>
-<p>Points: 35</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550)
-
----
-
-### 2. Will it be a golden age or a dark age for mathematics (and science)?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/">https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141681">https://news.ycombinator.com/item?id=50141681</a></p>
-<p>Points: 44</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
-
----
-
-### 3. Websites are closing their doors to AI agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141657">https://news.ycombinator.com/item?id=50141657</a></p>
-<p>Points: 59</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
-
----
-
-### 4. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+### 1. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ About 1,800 people were arrested after nationwide protests saw outbreaks of viol
 
 ---
 
-### 5. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 2. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 6. Ending corridor care in hospitals for children a priority, says health secretary
+### 3. A wave of homemade, synthetic drugs sweeps US and deepens crisis
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
+BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Photos: Antigovernment protesters clash with police in Albania’s capital
+### 4. Trump endorses Netanyahu in Israeli legislative elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.
+In a social media post ahead of the October 27 election, Trump calls Netanyahu a &#039;Strong, Brave, and Brilliant&#039; leader.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss)
 
 ---
 
-### 8. Manchester United held at Leeds despite improved performance for Carrick
+### 5. ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bryan Mbeumo&#039;s goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.
+China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss)
 
 ---
 
-### 9. EU condemns Israeli settler attack on diplomats in occupied West Bank
+### 6. French mayor attacked by settlers during occupied West Bank olive harvest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
+Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
