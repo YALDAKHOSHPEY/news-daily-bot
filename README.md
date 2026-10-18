@@ -1,16 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 01:32:06
+**Last Update:** 2026-10-19 01:59:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Macron calls for 'calm and order' after riots across France
+### 1. Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://x.com/Jiaru_Zou/status/2110400256647340476" rel="nofollow">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href="https://github.com/togethercomputer/HybridAgent" rel="nofollow">https://github.com/togethercomputer/HybridAgent</a><p><a href="https://huggingface.co/collections/togethercomputer/hybridagent" rel="nofollow">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href="https://arxiv.org/html/2610.18861v1#S5" rel="nofollow">https://arxiv.org/html/2610.18861v1#S5</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145337">https://news.ycombinator.com/item?id=50145337</a></p>
+<p>Points: 85</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2610.18861](https://arxiv.org/abs/2610.18861)
+
+---
+
+### 2. Netflix vmaf: Perceptual video quality assessment based on multi-method fusion
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Netflix/vmaf">https://github.com/Netflix/vmaf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145295">https://news.ycombinator.com/item?id=50145295</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/Netflix/vmaf](https://github.com/Netflix/vmaf)
+
+---
+
+### 3. Free Pascal compiler now supports dynamic packages
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombinator.com/item?id=50144066</a></p>
+<p>Points: 84</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.getlazarus.org/dynamic/](https://www.getlazarus.org/dynamic/)
+
+---
+
+### 4. Macron calls for 'calm and order' after riots across France
 
 **Source:** BBC
 
@@ -23,7 +72,7 @@ French President Emmanuel Macron gives a national address after widespread disor
 
 ---
 
-### 2. What we know so far about deadly fire at Canadian military base
+### 5. What we know so far about deadly fire at Canadian military base
 
 **Source:** BBC
 
@@ -36,7 +85,7 @@ At least four people are confirmed to have died after a huge fire swept through 
 
 ---
 
-### 3. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -49,7 +98,7 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 4. Alberta independence referendum: Will separatists survive a loss?
+### 7. Alberta independence referendum: Will separatists survive a loss?
 
 **Source:** Al Jazeera
 
@@ -62,7 +111,7 @@ Alberta’s independence movement faces likely defeat, but history suggests losi
 
 ---
 
-### 5. Macron condemns violence after riots lead to looting and mass arrests
+### 8. Macron condemns violence after riots lead to looting and mass arrests
 
 **Source:** Al Jazeera
 
@@ -75,7 +124,7 @@ French President Emmanuel Macron says protesters who attacked government buildin
 
 ---
 
-### 6. Fire engulfs Albania’s Supreme Court as protests enter fifth day
+### 9. Fire engulfs Albania’s Supreme Court as protests enter fifth day
 
 **Source:** Al Jazeera
 
@@ -88,7 +137,7 @@ Offices at the Supreme Court in Tirana were set ablaze as anti-government protes
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
