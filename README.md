@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 05:34:17
+**Last Update:** 2026-10-18 08:21:06
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day
+### 1. How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day">https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136881">https://news.ycombinator.com/item?id=50136881</a></p>
-<p>Points: 112</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137620">https://news.ycombinator.com/item?id=50137620</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)
+🔗 **Read more:** [https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136536">https://news.ycombinator.com/item?id=50136536</a></p>
-<p>Points: 44</p>
-<p># Comments: 11</p>
+<p>Points: 157</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 
 ---
 
-### 3. JDK 28
+### 3. Codex Desktop continuously generates Crashpad pending dumps
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openjdk.org/projects/jdk/28/">https://openjdk.org/projects/jdk/28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50135379">https://news.ycombinator.com/item?id=50135379</a></p>
-<p>Points: 61</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://github.com/openai/codex/issues/25921">https://github.com/openai/codex/issues/25921</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133231">https://news.ycombinator.com/item?id=50133231</a></p>
+<p>Points: 108</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://openjdk.org/projects/jdk/28/](https://openjdk.org/projects/jdk/28/)
+🔗 **Read more:** [https://github.com/openai/codex/issues/25921](https://github.com/openai/codex/issues/25921)
 
 ---
 
@@ -97,42 +97,42 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. Buildings burn as French protests go into the night
+### 7. At least 19 dead in stampede at Kolkata Hindu festival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.
+A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss)
 
 ---
 
-### 8. Saudi-led forces try to break Houthi siege of Taiz with airstrikes
+### 8. Tunisia’s economic crisis deepens as the promise of a better life fades
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.
+Joblessness, failing services and rising costs deepen hardship across the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers attack European diplomats in the occupied West Bank
+### 9. Rubio wants ‘crackdown’ on settler violence after US journalist attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.
+Rubio wants ‘crackdown’ on settler violence after US journalist attack
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
