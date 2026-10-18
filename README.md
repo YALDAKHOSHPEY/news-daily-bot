@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 15:45:47
+**Last Update:** 2026-10-18 17:34:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kids are outsmarting social media bans. That's not a problem we need to solve
+### 1. Open MicroManipulator – A sub-micrometer 3D motion control plattform
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/">https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139935">https://news.ycombinator.com/item?id=50139935</a></p>
-<p>Points: 13</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50140001">https://news.ycombinator.com/item?id=50140001</a></p>
+<p>Points: 44</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/](https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/)
-
----
-
-### 2. How employment is changing at Anthropic
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/employment-at-anthropic">https://www.anthropic.com/research/employment-at-anthropic</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139873">https://news.ycombinator.com/item?id=50139873</a></p>
-<p>Points: 53</p>
-<p># Comments: 68</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/employment-at-anthropic](https://www.anthropic.com/research/employment-at-anthropic)
+🔗 **Read more:** [https://github.com/0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
 
 ---
 
-### 3. Legal experts warn Meta's new terms still grant broad scraping permissions
+### 2. Legal experts warn Meta's new terms still grant broad scraping permissions
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139692">https://news.ycombinator.com/item?id=50139692</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Points: 62</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+
+---
+
+### 3. Parser Combinators
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139067">https://news.ycombinator.com/item?id=50139067</a></p>
+<p>Points: 89</p>
+<p># Comments: 44</p>
+
+🔗 **Read more:** [https://t3.at/blog/2026-10-17-parser-combinators/](https://t3.at/blog/2026-10-17-parser-combinators/)
 
 ---
 
@@ -97,42 +97,42 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 7. Funeral held for 75 Palestinians after remains recovered from Gaza ruins
+### 7. Was ancient India the world’s forgotten superpower?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.
+In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss)
 
 ---
 
-### 8. What help can Egypt offer Saudi Arabia in the war against the Houthis?
+### 8. Gaza families fear food shortages as Israel halts commercial shipments
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say that any move from Egypt will remain &#039;strictly defensive&#039;, as the conflict in Yemen intensifies.
+Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss)
 
 ---
 
-### 9. Jordan-Israel border becomes new hotspot for sophisticated drug trade
+### 9. Paris left reeling as student-led protests turn chaotic
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.
+Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss)
 
 ---
 
