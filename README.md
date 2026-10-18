@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 03:40:25
+**Last Update:** 2026-10-18 05:34:17
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. JDK 28
+### 1. Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day">https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136881">https://news.ycombinator.com/item?id=50136881</a></p>
+<p>Points: 112</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)
+
+---
+
+### 2. NY announces game ownership bill requiring ownership rather than licensing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136536">https://news.ycombinator.com/item?id=50136536</a></p>
+<p>Points: 44</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
+
+---
+
+### 3. JDK 28
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openjdk.org/projects/jdk/28/">https://openjdk.org/projects/jdk/28/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50135379">https://news.ycombinator.com/item?id=50135379</a></p>
-<p>Points: 35</p>
-<p># Comments: 12</p>
+<p>Points: 61</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://openjdk.org/projects/jdk/28/](https://openjdk.org/projects/jdk/28/)
-
----
-
-### 2. Chrome and Edge are removing XSLT: what breaks and what does not
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134617">https://news.ycombinator.com/item?id=50134617</a></p>
-<p>Points: 69</p>
-<p># Comments: 71</p>
-
-🔗 **Read more:** [https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
-
----
-
-### 3. Microsoft and CMU team up to train early career software engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise">https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133830">https://news.ycombinator.com/item?id=50133830</a></p>
-<p>Points: 54</p>
-<p># Comments: 65</p>
-
-🔗 **Read more:** [https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 
 ---
 
@@ -71,16 +71,16 @@ Disorder broke out in cities across the country on a day in which more than half
 
 ---
 
-### 5. How day of protests unfolded as disorder breaks out across France
+### 5. Watch: Moment historic French town hall spire collapses in flames amid protests
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.
+An historic town hall in the southern French city of Limoges was set ablaze during national protests.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. US ambassador urges Israel to prosecute attackers of American journalist
+### 7. Buildings burn as French protests go into the night
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.
+Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss)
 
 ---
 
-### 8. Saudi-led coalition intercepts drones as Egypt weighs sending help
+### 8. Saudi-led forces try to break Houthi siege of Taiz with airstrikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.
+Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss)
 
 ---
 
-### 9. Photos: No Kings rallies in US urge midterm voters to cast ballots early
+### 9. Israeli settlers attack European diplomats in the occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.
+Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
