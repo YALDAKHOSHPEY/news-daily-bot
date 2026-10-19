@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-19T21:26:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Are the French riots a warning of an intense election to come?",
+            "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+            "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 13:43:27 GMT",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australian MP critically injured after being hit by car in apparent attack",
+            "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 13:01:50 GMT",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chuck Schumer urges FCC to block AI robocalls before elections",
+            "description": "Chuck Schumer urges FCC to reject petition allowing AI robocalls ahead of key November midterm elections.",
+            "url": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 17:40:56 +0000",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar to announce a new regional defence partnership",
+            "description": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 17:27:18 +0000",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can religion help Democrats win in red states? These faith leaders hope so",
+            "description": "Roughly nine pastors, seminary students and Sunday school teachers are running as Democrats in the US midterm election.",
+            "url": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 17:25:53 +0000",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T21:26:31+03:30"
+        }
+    ]
+}
