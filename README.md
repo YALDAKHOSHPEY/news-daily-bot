@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 04:05:41
+**Last Update:** 2026-10-19 08:29:36
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. William Gibson and the trademarking of cyberspace
+### 1. Show HN: Strot – Compile an LLM's intent once, run decisions locally forever
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colo.to/cyberspace.html">https://colo.to/cyberspace.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146625">https://news.ycombinator.com/item?id=50146625</a></p>
-<p>Points: 15</p>
+<p>Article URL: <a href="https://github.com/strot-ai/Project-STROT">https://github.com/strot-ai/Project-STROT</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148396">https://news.ycombinator.com/item?id=50148396</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://colo.to/cyberspace.html](https://colo.to/cyberspace.html)
+🔗 **Read more:** [https://github.com/strot-ai/Project-STROT](https://github.com/strot-ai/Project-STROT)
 
 ---
 
-### 2. How RC2's π table was made
+### 2. Superlite: A Faster Alternatie to Superpowers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://khalidhamadeh.com/writing/rc2-pi-table">https://khalidhamadeh.com/writing/rc2-pi-table</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146286">https://news.ycombinator.com/item?id=50146286</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://contextfirst.blog/superlite-hand-an-agent-a-spec/">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147492">https://news.ycombinator.com/item?id=50147492</a></p>
+<p>Points: 28</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://khalidhamadeh.com/writing/rc2-pi-table](https://khalidhamadeh.com/writing/rc2-pi-table)
+🔗 **Read more:** [https://contextfirst.blog/superlite-hand-an-agent-a-spec/](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 
 ---
 
-### 3. Show HN: WhatsApp MCP running free on Cloudflare
+### 3. Footage of the Flock search that a judge ruled was uncosntitutional
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145715">https://news.ycombinator.com/item?id=50145715</a></p>
-<p>Points: 29</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/">https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147455">https://news.ycombinator.com/item?id=50147455</a></p>
+<p>Points: 59</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://github.com/finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp)
+🔗 **Read more:** [https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
 
 ---
 
@@ -72,20 +71,7 @@ French President Emmanuel Macron gives a national address after widespread disor
 
 ---
 
-### 5. Major fire at Canada military base leaves four dead, dozens injured
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Prime Minister Carney said military and emergency crews fought the flames throughout the night in "some of the worst conditions imaginable".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -98,46 +84,59 @@ Two men tell of the work they say they have been doing to support Ukrainian inte
 
 ---
 
-### 7. Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares
+### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.
+Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss)
 
 ---
 
-### 8. Flight from Israel makes emergency landing in Bulgaria after bomb threat
+### 8. ‘It broke my heart’: Limoges residents reel after town hall fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.
+Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss)
 
 ---
 
-### 9. Protesters disrupt Ben-Gvir event forcing him off stage
+### 9. Anthropic says it will commit 5% of shares to ‘public benefit’ fund
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.
+Claude creator says fund could be used for donations to NGOs and &#039;direct distributions to specific populations&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 10. Tropical Cyclone Wati
 
 **Source:** NASA
 
