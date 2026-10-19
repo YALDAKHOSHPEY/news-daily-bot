@@ -1,29 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 21:26:31
+**Last Update:** 2026-10-20 01:24:51
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: Are the French riots a warning of an intense election to come?
+### 1. OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
+
+---
+
+### 2. Putting Linux on my RTX spark laptop because I don't have a Microsoft account
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://josie.lol/blog/linux-rtx-spark">https://josie.lol/blog/linux-rtx-spark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158100">https://news.ycombinator.com/item?id=50158100</a></p>
+<p>Points: 38</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://josie.lol/blog/linux-rtx-spark](https://josie.lol/blog/linux-rtx-spark)
+
+---
+
+### 3. Germany's far-right AfD: half a million internal documents leaked
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hexane.cc/">https://hexane.cc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50157664">https://news.ycombinator.com/item?id=50157664</a></p>
+<p>Points: 42</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://hexane.cc/](https://hexane.cc/)
+
+---
+
+### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.
+It comes after the country's interior minister admits that police "lost control" in some cities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Australian MP critically injured after being hit by car in apparent attack
+### 5. Watch: Clean up begins after French riots but police remain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Australian MP critically injured after being hit by car in apparent attack
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ The independent politician is in hospital after what the prime minister says may
 
 ---
 
-### 3. Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Chuck Schumer urges FCC to block AI robocalls before elections
+### 7. Could your halal pension be funding Israel’s military?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chuck Schumer urges FCC to reject petition allowing AI robocalls ahead of key November midterm elections.
+HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss)
 
 ---
 
-### 5. Qatar to announce a new regional defence partnership
+### 8. Israeli police say they arrested 10 in connection with settler attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.
+Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss)
 
 ---
 
-### 6. Can religion help Democrats win in red states? These faith leaders hope so
+### 9. Trump approval hits record-low 31 percent, polls show Republican struggles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Roughly nine pastors, seminary students and Sunday school teachers are running as Democrats in the US midterm election.
+Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Wati
+### 10. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

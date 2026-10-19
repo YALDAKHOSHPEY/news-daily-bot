@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T01:24:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+            "description": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://bsd.network/@brynet/117407035545900963",
+            "published": "Mon, 19 Oct 2026 21:11:45 +0000",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+            "description": "<p>Article URL: <a href=\"https://josie.lol/blog/linux-rtx-spark\">https://josie.lol/blog/linux-rtx-spark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158100\">https://news.ycombinator.com/item?id=50158100</a></p>\n<p>Points: 38</p>\n<p># Comments: 4</p>",
+            "url": "https://josie.lol/blog/linux-rtx-spark",
+            "published": "Mon, 19 Oct 2026 21:08:18 +0000",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Germany's far-right AfD: half a million internal documents leaked",
+            "description": "<p>Article URL: <a href=\"https://hexane.cc/\">https://hexane.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50157664\">https://news.ycombinator.com/item?id=50157664</a></p>\n<p>Points: 42</p>\n<p># Comments: 14</p>",
+            "url": "https://hexane.cc/",
+            "published": "Mon, 19 Oct 2026 20:31:05 +0000",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+            "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+            "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:14:53 GMT",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Clean up begins after French riots but police remain",
+            "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+            "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:30:08 GMT",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australian MP critically injured after being hit by car in apparent attack",
+            "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could your halal pension be funding Israel’s military?",
+            "description": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 21:28:02 +0000",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli police say they arrested 10 in connection with settler attacks",
+            "description": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 21:00:03 +0000",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+            "description": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 20:59:05 +0000",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T01:24:51+03:30"
+        }
+    ]
+}
