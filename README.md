@@ -1,90 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 08:58:05
+**Last Update:** 2026-10-19 14:30:20
 
-**Total News:** 12
+**Total News:** 6
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017">https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148452">https://news.ycombinator.com/item?id=50148452</a></p>
-<p>Points: 30</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)
-
----
-
-### 2. Show HN: Strot – Compile an LLM's intent once, run decisions locally forever
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/strot-ai/Project-STROT">https://github.com/strot-ai/Project-STROT</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148396">https://news.ycombinator.com/item?id=50148396</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/strot-ai/Project-STROT](https://github.com/strot-ai/Project-STROT)
-
----
-
-### 3. Superlite: A Faster Alternatie to Superpowers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://contextfirst.blog/superlite-hand-an-agent-a-spec/">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147492">https://news.ycombinator.com/item?id=50147492</a></p>
-<p>Points: 36</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://contextfirst.blog/superlite-hand-an-agent-a-spec/](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-
----
-
-### 4. Macron calls for 'calm and order' after riots across France
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. France's government under pressure after weekend of widespread violence
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Companies exploiting welfare system by using residents as 'cash cows,' BBC finds
+### 1. Companies exploiting welfare system by using residents as 'cash cows', BBC finds
 
 **Source:** BBC
 
@@ -97,81 +23,68 @@ Agents try to attract people on housing benefit by using social media videos tha
 
 ---
 
-### 7. Pope greeted by crowds in first major appearance since lung cancer surgery
+### 2. Inside the shadowy world of anti-Putin sabotage from within Russia
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo pledges a gradual return to duties in an address to the Catholic faithful in St Peter&#039;s Square at the Vatican.
+The UN agency says funding shortages threaten to reverse &#039;modest and fragile&#039; progress on food security.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss)
 
 ---
 
-### 8. Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
+### 5. Mexican protesters demanding clean water storm state congress
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.
+Mexican protesters demanding clean water storm state congress
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss)
 
 ---
 
-### 9. ‘It broke my heart’: Limoges residents reel after town hall fire
+### 6. Qatar warns global energy shockwaves from Iran war have yet to peak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.
+Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Wati
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
-
----
-
-### 11. Super Typhoon Champi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
-
----
-
-### 12. Iceberg A81
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss)
 
 ---
 
