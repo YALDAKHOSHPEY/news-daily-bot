@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 14:30:20
+**Last Update:** 2026-10-19 15:01:43
 
-**Total News:** 6
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Companies exploiting welfare system by using residents as 'cash cows', BBC finds
+### 1. Let's Encrypt is adding two additional remote perspectives for domain validation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50150809">https://news.ycombinator.com/item?id=50150809</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)
+
+---
+
+### 2. Timestral: Mistral release time-series foundation models
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mistral.ai/news/timestral/">https://mistral.ai/news/timestral/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50150434">https://news.ycombinator.com/item?id=50150434</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mistral.ai/news/timestral/](https://mistral.ai/news/timestral/)
+
+---
+
+### 3. Linux 7.3 Released
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1101143/">https://lwn.net/Articles/1101143/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50149392">https://news.ycombinator.com/item?id=50149392</a></p>
+<p>Points: 258</p>
+<p># Comments: 113</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1101143/](https://lwn.net/Articles/1101143/)
+
+---
+
+### 4. Companies exploiting welfare system by using residents as 'cash cows', BBC finds
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Agents try to attract people on housing benefit by using social media videos tha
 
 ---
 
-### 2. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Two men tell of the work they say they have been doing to support Ukrainian inte
 
 ---
 
-### 3. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
+### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
 
 **Source:** BBC
 
@@ -49,42 +97,81 @@ In a BBC World Service documentary, the man claims to have played a role in dron
 
 ---
 
-### 4. WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages
+### 7. Indonesia battles worst forest fires and toxic haze in 11 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN agency says funding shortages threaten to reverse &#039;modest and fragile&#039; progress on food security.
+Indonesia battles worst forest fires and toxic haze in 11 years
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss)
 
 ---
 
-### 5. Mexican protesters demanding clean water storm state congress
+### 8. Museum protesters in Colombia accuse gov’t of erasing history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mexican protesters demanding clean water storm state congress
+Police used tear gas and water cannon to disperse protesters outside Colombia’s National Museum in Bogota.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss)
 
 ---
 
-### 6. Qatar warns global energy shockwaves from Iran war have yet to peak
+### 9. Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.
+There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss)
+
+---
+
+### 10. Tropical Cyclone Wati
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
+
+---
+
+### 11. Super Typhoon Champi
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
+
+---
+
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
 
 ---
 

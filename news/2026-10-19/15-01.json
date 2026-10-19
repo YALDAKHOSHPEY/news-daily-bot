@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T15:01:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+            "description": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150809\">https://news.ycombinator.com/item?id=50150809</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+            "published": "Mon, 19 Oct 2026 10:53:39 +0000",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Timestral: Mistral release time-series foundation models",
+            "description": "<p>Article URL: <a href=\"https://mistral.ai/news/timestral/\">https://mistral.ai/news/timestral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150434\">https://news.ycombinator.com/item?id=50150434</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://mistral.ai/news/timestral/",
+            "published": "Mon, 19 Oct 2026 09:59:32 +0000",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.3 Released",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101143/\">https://lwn.net/Articles/1101143/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50149392\">https://news.ycombinator.com/item?id=50149392</a></p>\n<p>Points: 258</p>\n<p># Comments: 113</p>",
+            "url": "https://lwn.net/Articles/1101143/",
+            "published": "Mon, 19 Oct 2026 07:23:57 +0000",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+            "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+            "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+            "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:28:44 GMT",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
+            "description": "Indonesia battles worst forest fires and toxic haze in 11 years",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 11:05:57 +0000",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Museum protesters in Colombia accuse gov’t of erasing history",
+            "description": "Police used tear gas and water cannon to disperse protesters outside Colombia’s National Museum in Bogota.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 10:55:23 +0000",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+            "description": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 10:49:23 +0000",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T15:01:43+03:30"
+        }
+    ]
+}
