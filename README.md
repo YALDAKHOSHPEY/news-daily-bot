@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 03:53:04
+**Last Update:** 2026-10-19 04:05:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. William Gibson and the Trademarking of Cyberspace
+### 1. William Gibson and the trademarking of cyberspace
 
 **Source:** Hacker News
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://colo.to/cyberspace.html">https://colo.to/cyberspace.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146625">https://news.ycombinator.com/item?id=50146625</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
 🔗 **Read more:** [https://colo.to/cyberspace.html](https://colo.to/cyberspace.html)
 
 ---
 
-### 2. Show HN: WhatsApp MCP running free on Cloudflare
+### 2. How RC2's π table was made
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://khalidhamadeh.com/writing/rc2-pi-table">https://khalidhamadeh.com/writing/rc2-pi-table</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146286">https://news.ycombinator.com/item?id=50146286</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://khalidhamadeh.com/writing/rc2-pi-table](https://khalidhamadeh.com/writing/rc2-pi-table)
+
+---
+
+### 3. Show HN: WhatsApp MCP running free on Cloudflare
 
 **Source:** Hacker News
 
@@ -36,27 +52,10 @@
 <p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145715">https://news.ycombinator.com/item?id=50145715</a></p>
-<p>Points: 27</p>
-<p># Comments: 16</p>
+<p>Points: 29</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp)
-
----
-
-### 3. Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://x.com/Jiaru_Zou/status/2110400256647340476" rel="nofollow">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href="https://github.com/togethercomputer/HybridAgent" rel="nofollow">https://github.com/togethercomputer/HybridAgent</a><p><a href="https://huggingface.co/collections/togethercomputer/hybridagent" rel="nofollow">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href="https://arxiv.org/html/2610.18861v1#S5" rel="nofollow">https://arxiv.org/html/2610.18861v1#S5</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145337">https://news.ycombinator.com/item?id=50145337</a></p>
-<p>Points: 167</p>
-<p># Comments: 100</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2610.18861](https://arxiv.org/abs/2610.18861)
 
 ---
 
