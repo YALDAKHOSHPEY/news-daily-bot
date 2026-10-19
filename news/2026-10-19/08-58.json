@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T08:58:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017\">https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148452\">https://news.ycombinator.com/item?id=50148452</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
+            "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+            "published": "Mon, 19 Oct 2026 04:41:46 +0000",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+            "description": "<p>Article URL: <a href=\"https://github.com/strot-ai/Project-STROT\">https://github.com/strot-ai/Project-STROT</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148396\">https://news.ycombinator.com/item?id=50148396</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/strot-ai/Project-STROT",
+            "published": "Mon, 19 Oct 2026 04:32:07 +0000",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Superlite: A Faster Alternatie to Superpowers",
+            "description": "<p>Article URL: <a href=\"https://contextfirst.blog/superlite-hand-an-agent-a-spec/\">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50147492\">https://news.ycombinator.com/item?id=50147492</a></p>\n<p>Points: 36</p>\n<p># Comments: 16</p>",
+            "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+            "published": "Mon, 19 Oct 2026 02:01:16 +0000",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 05:07:21 GMT",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France's government under pressure after weekend of widespread violence",
+            "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+            "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:16:46 GMT",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Companies exploiting welfare system by using residents as 'cash cows,' BBC finds",
+            "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope greeted by crowds in first major appearance since lung cancer surgery",
+            "description": "Pope Leo pledges a gradual return to duties in an address to the Catholic faithful in St Peter&#039;s Square at the Vatican.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 04:42:13 +0000",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+            "description": "Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 04:27:00 +0000",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘It broke my heart’: Limoges residents reel after town hall fire",
+            "description": "Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 03:40:52 +0000",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-10-19T08:58:05+03:30"
+        }
+    ]
+}
