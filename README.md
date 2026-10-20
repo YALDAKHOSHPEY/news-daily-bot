@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 09:02:02
+**Last Update:** 2026-10-20 11:17:55
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Americans Are Spending More Money to Drive Worse Cars
+### 1. Vite+ an excellent toolchain for AI agent development
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/">https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161505">https://news.ycombinator.com/item?id=50161505</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en">https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50162198">https://news.ycombinator.com/item?id=50162198</a></p>
+<p>Points: 23</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
+🔗 **Read more:** [https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
 
 ---
 
@@ -37,26 +37,26 @@
 Peter Bishop.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161408">https://news.ycombinator.com/item?id=50161408</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 51</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://deathplanswitch.com/](https://deathplanswitch.com/)
 
 ---
 
-### 3. U.S. Supreme Court to review 1868 federal ban on home distilling of liquor
+### 3. Go will reject certificate chains containing eight distrusted SPKIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/">https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161207">https://news.ycombinator.com/item?id=50161207</a></p>
-<p>Points: 25</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/golang/go/issues/82345">https://github.com/golang/go/issues/82345</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160877">https://news.ycombinator.com/item?id=50160877</a></p>
+<p>Points: 74</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
+🔗 **Read more:** [https://github.com/golang/go/issues/82345](https://github.com/golang/go/issues/82345)
 
 ---
 
@@ -86,55 +86,55 @@ Teenagers say they want more work experience at school and opportunities to impr
 
 ---
 
-### 6. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 6. French cities calm overnight after curfews imposed to quell violence, PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The country's interior minister admits that police "lost control" in some cities following a weekend of riots.
+Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US Supreme Court to hear case on race in school admissions
+### 7. Morocco’s not-so-new government faces new challenges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A group of parents claims local admission policy boosts Black and Latino students while constraining Asian applicants.
+The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss)
 
 ---
 
-### 8. Japan launches historic mission to bring back Mars moon samples
+### 8. Alberta voters reject separation from Canada, early results show
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.
+With more than one million votes counted, about 76 percent supported remaining in Canada.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss)
 
 ---
 
-### 9. Fourteen dead in illegal Colombian gold mine collapse
+### 9. US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fourteen dead in illegal Colombian gold mine collapse
+Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine&#039;s president says arms shipments delayed.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss)
 
 ---
 
