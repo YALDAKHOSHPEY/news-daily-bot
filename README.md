@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 18:57:30
+**Last Update:** 2026-10-20 22:04:18
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close
+### 1. Advanced coding in low-resource programming languages
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/low-resource-programming-languages/">https://openai.com/index/low-resource-programming-languages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50169955">https://news.ycombinator.com/item?id=50169955</a></p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://openai.com/index/low-resource-programming-languages/](https://openai.com/index/low-resource-programming-languages/)
+
+---
+
+### 2. Google open-sources TorchTPU, a native PyTorch back end for TPUs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/google-pytorch/torch_tpu">https://github.com/google-pytorch/torch_tpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50169053">https://news.ycombinator.com/item?id=50169053</a></p>
+<p>Points: 93</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://github.com/google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu)
+
+---
+
+### 3. Voxtral 3
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mistral.ai/news/voxtral-3/">https://mistral.ai/news/voxtral-3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50168396">https://news.ycombinator.com/item?id=50168396</a></p>
+<p>Points: 256</p>
+<p># Comments: 69</p>
+
+🔗 **Read more:** [https://mistral.ai/news/voxtral-3/](https://mistral.ai/news/voxtral-3/)
+
+---
+
+### 4. Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The closurse are announced as the corporation continues to try to save £500m over two years.
+The head of UK Counter Terrorism Policing said they consider Iranian state involvement "highly likely".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
+### 5. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.
+The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. UK to deploy jets to defend Saudi Arabia from Houthi attacks
+### 6. Google resolves cloud outage affecting UK banks and websites
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.
+Revolut was one of the hardest hit, with banking services going down for many customers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Yemen’s Taiz faces deadly siege, as Shabwah death toll rises
+### 7. CDC reports third measles death in the United States this year
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.
+The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss)
 
 ---
 
-### 5. Alberta rejects separation referendum: What’s next for Canadian province?
+### 8. Kenya confirms ninth Ebola case amid concerns about regional spread
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Calls for independence intensified last year, with some 300,000 petitioning officials for a referendum.
+A 24-year-old man, who was already being held in quarantine, is the latest to test positive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss)
 
 ---
 
-### 6. Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?
+### 9. As Macron visits Gulf, can France forge its own energy-for-security future?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.
+President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 02S
+### 10. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
