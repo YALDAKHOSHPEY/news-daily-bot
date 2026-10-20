@@ -1,142 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 14:07:16
+**Last Update:** 2026-10-20 17:12:55
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Revolut down as users report app not working
+### 1. NixOS is making me less afraid
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cxdd8mm6qy4mo">https://www.bbc.com/news/articles/cxdd8mm6qy4mo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163625">https://news.ycombinator.com/item?id=50163625</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://entropicthoughts.com/nixos-is-making-me-less-afraid">https://entropicthoughts.com/nixos-is-making-me-less-afraid</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165484">https://news.ycombinator.com/item?id=50165484</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cxdd8mm6qy4mo](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
+🔗 **Read more:** [https://entropicthoughts.com/nixos-is-making-me-less-afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
 
 ---
 
-### 2. AfD Leak: What 421,179 Hacked Emails Show about the German Far Right
+### 2. Demographic "Doomsday" Misses the Mark
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/">https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163502">https://news.ycombinator.com/item?id=50163502</a></p>
-<p>Points: 142</p>
-<p># Comments: 84</p>
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ael8752">https://www.science.org/doi/10.1126/science.ael8752</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165276">https://news.ycombinator.com/item?id=50165276</a></p>
+<p>Points: 38</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
+🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ael8752](https://www.science.org/doi/10.1126/science.ael8752)
 
 ---
 
-### 3. UK Defence Startups Are Being Denied Banking Services Under ESG Rules
+### 3. Apple broke an essential presentation feature of iPads
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules">https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163462">https://news.ycombinator.com/item?id=50163462</a></p>
-<p>Points: 40</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165208">https://news.ycombinator.com/item?id=50165208</a></p>
+<p>Points: 25</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules)
+🔗 **Read more:** [https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 
 ---
 
-### 4. Chancellor rejects calls to raise Capital Gains Tax in Budget
+### 4. Key takeaways from Covid report on care homes
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.
+From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. How the attack on an Australian MP unfolded
+### 5. BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.
+The closurse are announced as the corporation continues to try to save £500m over two years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. We asked teens what schools should teach them about work. This is what they said
+### 6. North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Teenagers say they want more work experience at school and opportunities to improve their communication skills.
+North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans
+### 7. Indonesians protest over land-clearing fires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prime ministers of Norway and Finland will also attend the discussions in Oslo.
+Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss)
 
 ---
 
-### 8. Trump’s approval ratings plummet: what that means for the US midterms
+### 8. US envoy Barrack defends decision to join Israel in war on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sitting presidents usually see a dip in approval ratings before midterms, but Trump&#039;s ratings are at a historic low.
+US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss)
 
 ---
 
-### 9. Albertans reject referendum on independence from Canada
+### 9. More than 250,000 displaced in Yemen since fighting escalated: UNHCR
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.
+UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Wati
+### 10. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -145,24 +145,11 @@ Most voters in the Canadian province of Alberta have rejected a proposal to hold
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457)
 
 ---
 
-### 11. Super Typhoon Champi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
-
----
-
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455)
+
+---
+
+### 12. Wildfire COOLEY, Mendocino, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450)
 
 ---
 

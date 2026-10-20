@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T17:12:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NixOS is making me less afraid",
+            "description": "<p>Article URL: <a href=\"https://entropicthoughts.com/nixos-is-making-me-less-afraid\">https://entropicthoughts.com/nixos-is-making-me-less-afraid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50165484\">https://news.ycombinator.com/item?id=50165484</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+            "published": "Tue, 20 Oct 2026 12:43:05 +0000",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Demographic \"Doomsday\" Misses the Mark",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.ael8752\">https://www.science.org/doi/10.1126/science.ael8752</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50165276\">https://news.ycombinator.com/item?id=50165276</a></p>\n<p>Points: 38</p>\n<p># Comments: 42</p>",
+            "url": "https://www.science.org/doi/10.1126/science.ael8752",
+            "published": "Tue, 20 Oct 2026 12:22:28 +0000",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple broke an essential presentation feature of iPads",
+            "description": "<p>Article URL: <a href=\"https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/\">https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50165208\">https://news.ycombinator.com/item?id=50165208</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
+            "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+            "published": "Tue, 20 Oct 2026 12:17:28 +0000",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from Covid report on care homes",
+            "description": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
+            "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 12:16:38 GMT",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+            "description": "The closurse are announced as the corporation continues to try to save £500m over two years.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 13:10:43 GMT",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+            "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 11:45:49 GMT",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesians protest over land-clearing fires",
+            "description": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 13:23:44 +0000",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+            "description": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 13:20:33 +0000",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+            "description": "UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 13:00:21 +0000",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T17:12:55+03:30"
+        }
+    ]
+}
