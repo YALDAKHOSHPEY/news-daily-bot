@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 01:57:49
+**Last Update:** 2026-10-21 02:18:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bolkunov.com/p/on-ai-writing">https://www.bolkunov.com/p/on-ai-writing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50171771">https://news.ycombinator.com/item?id=50171771</a></p>
-<p>Points: 66</p>
-<p># Comments: 26</p>
+<p>Points: 69</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://www.bolkunov.com/p/on-ai-writing](https://www.bolkunov.com/p/on-ai-writing)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170917">https://news.ycombinator.com/item?id=50170917</a></p>
-<p>Points: 38</p>
-<p># Comments: 10</p>
+<p>Points: 41</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://permit.petercai.com/">https://permit.petercai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170593">https://news.ycombinator.com/item?id=50170593</a></p>
-<p>Points: 372</p>
-<p># Comments: 206</p>
+<p>Points: 392</p>
+<p># Comments: 216</p>
 
 🔗 **Read more:** [https://permit.petercai.com/](https://permit.petercai.com/)
 
@@ -97,7 +97,20 @@ The sixth report from Covid inquiry criticises the lack of PPE and the way patie
 
 ---
 
-### 7. Trump commits more than $400m ahead of high-stakes midterm elections
+### 7. ‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss)
+
+---
+
+### 8. Trump commits more than $400m ahead of high-stakes midterm elections
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The president&#039;s Republican Party seeks to maintain its hold over both chamb
 
 ---
 
-### 8. PSG score late to sink Barcelona 4-2 in Champions League blockbuster
+### 9. PSG score late to sink Barcelona 4-2 in Champions League blockbuster
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The president&#039;s Republican Party seeks to maintain its hold over both chamb
 Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss)
-
----
-
-### 9. US food importer sues Trump over 50 percent tariffs on Canadian goods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss)
 
 ---
 
