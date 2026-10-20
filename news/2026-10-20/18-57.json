@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-20T18:57:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+            "description": "The closurse are announced as the corporation continues to try to save £500m over two years.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 13:10:43 GMT",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+            "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 11:45:49 GMT",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+            "description": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 13:54:35 GMT",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+            "description": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 15:02:34 +0000",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+            "description": "Calls for independence intensified last year, with some 300,000 petitioning officials for a referendum.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 14:42:47 +0000",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+            "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 14:39:50 +0000",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T18:57:30+03:30"
+        }
+    ]
+}

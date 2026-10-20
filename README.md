@@ -1,77 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 17:12:55
+**Last Update:** 2026-10-20 18:57:30
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. NixOS is making me less afraid
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://entropicthoughts.com/nixos-is-making-me-less-afraid">https://entropicthoughts.com/nixos-is-making-me-less-afraid</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165484">https://news.ycombinator.com/item?id=50165484</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://entropicthoughts.com/nixos-is-making-me-less-afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
-
----
-
-### 2. Demographic "Doomsday" Misses the Mark
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ael8752">https://www.science.org/doi/10.1126/science.ael8752</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165276">https://news.ycombinator.com/item?id=50165276</a></p>
-<p>Points: 38</p>
-<p># Comments: 42</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ael8752](https://www.science.org/doi/10.1126/science.ael8752)
-
----
-
-### 3. Apple broke an essential presentation feature of iPads
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50165208">https://news.ycombinator.com/item?id=50165208</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
-
----
-
-### 4. Key takeaways from Covid report on care homes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close
+### 1. BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close
 
 **Source:** BBC
 
@@ -84,7 +23,7 @@ The closurse are announced as the corporation continues to try to save £500m ov
 
 ---
 
-### 6. North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
+### 2. North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ North Korean state media has published photos of the dictator with his daughter 
 
 ---
 
-### 7. Indonesians protest over land-clearing fires
+### 3. UK to deploy jets to defend Saudi Arabia from Houthi attacks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Yemen’s Taiz faces deadly siege, as Shabwah death toll rises
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.
+Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss)
 
 ---
 
-### 8. US envoy Barrack defends decision to join Israel in war on Iran
+### 5. Alberta rejects separation referendum: What’s next for Canadian province?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.
+Calls for independence intensified last year, with some 300,000 petitioning officials for a referendum.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss)
 
 ---
 
-### 9. More than 250,000 displaced in Yemen since fighting escalated: UNHCR
+### 6. Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.
+With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 02S
+### 7. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
