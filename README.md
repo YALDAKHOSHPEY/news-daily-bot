@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 02:01:08
+**Last Update:** 2026-10-20 04:18:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+### 1. France's Supermarket Fridges Were Vulnerable Online for Months
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
-<p>Points: 32</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://ipinfo.io/blog/france-fridges-hack">https://ipinfo.io/blog/france-fridges-hack</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159616">https://news.ycombinator.com/item?id=50159616</a></p>
+<p>Points: 25</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
+🔗 **Read more:** [https://ipinfo.io/blog/france-fridges-hack](https://ipinfo.io/blog/france-fridges-hack)
 
 ---
 
-### 2. Diablo 2 Survivors
+### 2. Token-maxxing is dead, OpenRouter's token usage plateaus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://d2survivors.lol/">https://d2survivors.lol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158131">https://news.ycombinator.com/item?id=50158131</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://openrouter.ai/rankings">https://openrouter.ai/rankings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159464">https://news.ycombinator.com/item?id=50159464</a></p>
+<p>Points: 24</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://d2survivors.lol/](https://d2survivors.lol/)
+🔗 **Read more:** [https://openrouter.ai/rankings](https://openrouter.ai/rankings)
 
 ---
 
-### 3. Putting Linux on my RTX spark laptop because I don't have a Microsoft account
+### 3. “bonsoir, Elliot”: How abliterated models can get you pwned
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://josie.lol/blog/linux-rtx-spark">https://josie.lol/blog/linux-rtx-spark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158100">https://news.ycombinator.com/item?id=50158100</a></p>
-<p>Points: 104</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned">https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159245">https://news.ycombinator.com/item?id=50159245</a></p>
+<p>Points: 11</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://josie.lol/blog/linux-rtx-spark](https://josie.lol/blog/linux-rtx-spark)
+🔗 **Read more:** [https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
 
 ---
 
@@ -97,42 +97,42 @@ Serhii Beskrestnov says there has not been enough time to warn people about inco
 
 ---
 
-### 7. Egyptian parliament delays vote on military support for Saudi Arabia
+### 7. ‘Release Epstein files’, protester interrupts JD Vance’s speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.
+A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss)
 
 ---
 
-### 8. 160 people reported killed in escalating drone attacks across Sudan
+### 8. Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.
+US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss)
 
 ---
 
-### 9. Could your halal pension be funding Israel’s military?
+### 9. Hegseth meets Netanyahu in unannounced Israel visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
+Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss)
 
 ---
 
