@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 22:04:18
+**Last Update:** 2026-10-20 23:13:55
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Advanced coding in low-resource programming languages
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/low-resource-programming-languages/">https://openai.com/index/low-resource-programming-languages/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50169955">https://news.ycombinator.com/item?id=50169955</a></p>
-<p>Points: 15</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://openai.com/index/low-resource-programming-languages/](https://openai.com/index/low-resource-programming-languages/)
-
----
-
-### 2. Google open-sources TorchTPU, a native PyTorch back end for TPUs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/google-pytorch/torch_tpu">https://github.com/google-pytorch/torch_tpu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50169053">https://news.ycombinator.com/item?id=50169053</a></p>
-<p>Points: 93</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://github.com/google-pytorch/torch_tpu](https://github.com/google-pytorch/torch_tpu)
-
----
-
-### 3. Voxtral 3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mistral.ai/news/voxtral-3/">https://mistral.ai/news/voxtral-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50168396">https://news.ycombinator.com/item?id=50168396</a></p>
-<p>Points: 256</p>
-<p># Comments: 69</p>
-
-🔗 **Read more:** [https://mistral.ai/news/voxtral-3/](https://mistral.ai/news/voxtral-3/)
-
----
-
-### 4. Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 1. Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The head of UK Counter Terrorism Policing said they consider Iranian state invol
 
 ---
 
-### 5. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
+### 2. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The sixth report from Covid inquiry criticises the lack of PPE and the way patie
 
 ---
 
-### 6. Google resolves cloud outage affecting UK banks and websites
+### 3. Google resolves cloud outage affecting UK banks and websites
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Revolut was one of the hardest hit, with banking services going down for many cu
 
 ---
 
-### 7. CDC reports third measles death in the United States this year
+### 4. Photos: Qatar holds biennial Milipol homeland security exhibition
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.
+Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss)
 
 ---
 
-### 8. Kenya confirms ninth Ebola case amid concerns about regional spread
+### 5. The political ads that don’t look like ads
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 24-year-old man, who was already being held in quarantine, is the latest to test positive.
+Political campaigns and lobby groups in the US are paying content creators as little as $25 to influence the midterms.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss)
 
 ---
 
-### 9. As Macron visits Gulf, can France forge its own energy-for-security future?
+### 6. UK to deploy fighter jets to defend Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
+British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 02S
+### 7. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

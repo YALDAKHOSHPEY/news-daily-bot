@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-20T23:13:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+            "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google resolves cloud outage affecting UK banks and websites",
+            "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:03:19 GMT",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+            "description": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 19:29:39 +0000",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The political ads that don’t look like ads",
+            "description": "Political campaigns and lobby groups in the US are paying content creators as little as $25 to influence the midterms.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 19:05:53 +0000",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK to deploy fighter jets to defend Saudi Arabia",
+            "description": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 18:55:52 +0000",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T23:13:55+03:30"
+        }
+    ]
+}
