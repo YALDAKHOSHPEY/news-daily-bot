@@ -1,62 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 11:17:55
+**Last Update:** 2026-10-20 14:07:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Vite+ an excellent toolchain for AI agent development
+### 1. Revolut down as users report app not working
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en">https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50162198">https://news.ycombinator.com/item?id=50162198</a></p>
-<p>Points: 23</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cxdd8mm6qy4mo">https://www.bbc.com/news/articles/cxdd8mm6qy4mo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163625">https://news.ycombinator.com/item?id=50163625</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cxdd8mm6qy4mo](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 
 ---
 
-### 2. Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs
+### 2. AfD Leak: What 421,179 Hacked Emails Show about the German Far Right
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN,<p>I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.<p>I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients.<p>There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients.<p>Death Plan Switch solves this problem, it's free to download and use or study under the MIT license.<p>I've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests.<p>I hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts.<p>Happy to answer any questions.<p>Kind regards,
-Peter Bishop.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161408">https://news.ycombinator.com/item?id=50161408</a></p>
-<p>Points: 51</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/">https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163502">https://news.ycombinator.com/item?id=50163502</a></p>
+<p>Points: 142</p>
+<p># Comments: 84</p>
 
-🔗 **Read more:** [https://deathplanswitch.com/](https://deathplanswitch.com/)
+🔗 **Read more:** [https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
 
 ---
 
-### 3. Go will reject certificate chains containing eight distrusted SPKIs
+### 3. UK Defence Startups Are Being Denied Banking Services Under ESG Rules
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/golang/go/issues/82345">https://github.com/golang/go/issues/82345</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160877">https://news.ycombinator.com/item?id=50160877</a></p>
-<p>Points: 74</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules">https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163462">https://news.ycombinator.com/item?id=50163462</a></p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://github.com/golang/go/issues/82345](https://github.com/golang/go/issues/82345)
+🔗 **Read more:** [https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules)
 
 ---
 
@@ -73,7 +71,20 @@ Influential Labour figures had been pushing for equalising CGT and income tax, b
 
 ---
 
-### 5. We asked teens what schools should teach them about work. This is what they said
+### 5. How the attack on an Australian MP unfolded
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. We asked teens what schools should teach them about work. This is what they said
 
 **Source:** BBC
 
@@ -86,55 +97,42 @@ Teenagers say they want more work experience at school and opportunities to impr
 
 ---
 
-### 6. French cities calm overnight after curfews imposed to quell violence, PM says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Morocco’s not-so-new government faces new challenges
+### 7. Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.
+The prime ministers of Norway and Finland will also attend the discussions in Oslo.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss)
 
 ---
 
-### 8. Alberta voters reject separation from Canada, early results show
+### 8. Trump’s approval ratings plummet: what that means for the US midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With more than one million votes counted, about 76 percent supported remaining in Canada.
+Sitting presidents usually see a dip in approval ratings before midterms, but Trump&#039;s ratings are at a historic low.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss)
 
 ---
 
-### 9. US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms
+### 9. Albertans reject referendum on independence from Canada
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine&#039;s president says arms shipments delayed.
+Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss)
 
 ---
 
