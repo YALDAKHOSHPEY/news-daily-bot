@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T01:57:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "On AI writing",
+            "description": "<p>Article URL: <a href=\"https://www.bolkunov.com/p/on-ai-writing\">https://www.bolkunov.com/p/on-ai-writing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50171771\">https://news.ycombinator.com/item?id=50171771</a></p>\n<p>Points: 66</p>\n<p># Comments: 26</p>",
+            "url": "https://www.bolkunov.com/p/on-ai-writing",
+            "published": "Tue, 20 Oct 2026 19:55:11 +0000",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+            "description": "<p>Article URL: <a href=\"https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/\">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50170917\">https://news.ycombinator.com/item?id=50170917</a></p>\n<p>Points: 38</p>\n<p># Comments: 10</p>",
+            "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+            "published": "Tue, 20 Oct 2026 18:51:40 +0000",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SimCity, but with Permits",
+            "description": "<p>Article URL: <a href=\"https://permit.petercai.com/\">https://permit.petercai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50170593\">https://news.ycombinator.com/item?id=50170593</a></p>\n<p>Points: 372</p>\n<p># Comments: 206</p>",
+            "url": "https://permit.petercai.com/",
+            "published": "Tue, 20 Oct 2026 18:29:09 +0000",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 21:27:39 GMT",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+            "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+            "description": "The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 21:27:38 +0000",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+            "description": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
+            "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 21:24:06 +0000",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+            "description": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+            "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 21:19:12 +0000",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T01:57:49+03:30"
+        }
+    ]
+}

@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 23:13:55
+**Last Update:** 2026-10-21 01:57:49
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 1. On AI writing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bolkunov.com/p/on-ai-writing">https://www.bolkunov.com/p/on-ai-writing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50171771">https://news.ycombinator.com/item?id=50171771</a></p>
+<p>Points: 66</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://www.bolkunov.com/p/on-ai-writing](https://www.bolkunov.com/p/on-ai-writing)
+
+---
+
+### 2. Academics have a duty to defend open knowledge systems like Wikipedia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170917">https://news.ycombinator.com/item?id=50170917</a></p>
+<p>Points: 38</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
+
+---
+
+### 3. SimCity, but with Permits
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://permit.petercai.com/">https://permit.petercai.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170593">https://news.ycombinator.com/item?id=50170593</a></p>
+<p>Points: 372</p>
+<p># Comments: 206</p>
+
+🔗 **Read more:** [https://permit.petercai.com/](https://permit.petercai.com/)
+
+---
+
+### 4. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
 
 **Source:** BBC
 
@@ -23,7 +71,20 @@ The head of UK Counter Terrorism Policing said they consider Iranian state invol
 
 ---
 
-### 2. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
+### 5. Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Ukraine had accused the US of withholding key intelligence - a claim rejected as "scandalous" by Washington.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ The sixth report from Covid inquiry criticises the lack of PPE and the way patie
 
 ---
 
-### 3. Google resolves cloud outage affecting UK banks and websites
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Revolut was one of the hardest hit, with banking services going down for many customers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Photos: Qatar holds biennial Milipol homeland security exhibition
+### 7. Trump commits more than $400m ahead of high-stakes midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.
+The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss)
 
 ---
 
-### 5. The political ads that don’t look like ads
+### 8. PSG score late to sink Barcelona 4-2 in Champions League blockbuster
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Political campaigns and lobby groups in the US are paying content creators as little as $25 to influence the midterms.
+Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss)
 
 ---
 
-### 6. UK to deploy fighter jets to defend Saudi Arabia
+### 9. US food importer sues Trump over 50 percent tariffs on Canadian goods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.
+The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 02S
+### 10. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
