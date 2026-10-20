@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 04:18:06
+**Last Update:** 2026-10-20 05:27:15
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. France's Supermarket Fridges Were Vulnerable Online for Months
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ipinfo.io/blog/france-fridges-hack">https://ipinfo.io/blog/france-fridges-hack</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159616">https://news.ycombinator.com/item?id=50159616</a></p>
-<p>Points: 25</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://ipinfo.io/blog/france-fridges-hack](https://ipinfo.io/blog/france-fridges-hack)
-
----
-
-### 2. Token-maxxing is dead, OpenRouter's token usage plateaus
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openrouter.ai/rankings">https://openrouter.ai/rankings</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159464">https://news.ycombinator.com/item?id=50159464</a></p>
-<p>Points: 24</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://openrouter.ai/rankings](https://openrouter.ai/rankings)
-
----
-
-### 3. “bonsoir, Elliot”: How abliterated models can get you pwned
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned">https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159245">https://news.ycombinator.com/item?id=50159245</a></p>
-<p>Points: 11</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
-
----
-
-### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 1. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ It comes after the country's interior minister admits that police "lost control"
 
 ---
 
-### 5. Watch: Clean up begins after French riots but police remain
+### 2. Watch: Clean up begins after French riots but police remain
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Outside of Paris, Marseille saw some of the worst damage, with shop owners repor
 
 ---
 
-### 6. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+### 3. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Serhii Beskrestnov says there has not been enough time to warn people about inco
 
 ---
 
-### 7. ‘Release Epstein files’, protester interrupts JD Vance’s speech
+### 4. The human cost of surging US air strikes in Somalia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.
+Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss)
 
 ---
 
-### 8. Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death
+### 5. Zelenskyy seeks answers to why SpaceX Starshield defence is failing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.
+Zelenskyy seeks answers to why SpaceX Starshield defence is failing
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss)
 
 ---
 
-### 9. Hegseth meets Netanyahu in unannounced Israel visit
+### 6. Beyond money: Why young Tunisians are considering emigration
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.
+For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Wati
+### 7. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
