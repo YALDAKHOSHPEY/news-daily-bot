@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 02:18:27
+**Last Update:** 2026-10-21 04:15:27
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. On AI writing
+### 1. The Other Epidemic: Trying to get off benzodiazepines
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bolkunov.com/p/on-ai-writing">https://www.bolkunov.com/p/on-ai-writing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50171771">https://news.ycombinator.com/item?id=50171771</a></p>
-<p>Points: 69</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.thebeliever.net/the-other-epidemic/">https://www.thebeliever.net/the-other-epidemic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173891">https://news.ycombinator.com/item?id=50173891</a></p>
+<p>Points: 29</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.bolkunov.com/p/on-ai-writing](https://www.bolkunov.com/p/on-ai-writing)
+🔗 **Read more:** [https://www.thebeliever.net/the-other-epidemic/](https://www.thebeliever.net/the-other-epidemic/)
 
 ---
 
-### 2. Academics have a duty to defend open knowledge systems like Wikipedia
+### 2. Feds suspect ransom negotiator ran ShinyHunters extortion site
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173487">https://news.ycombinator.com/item?id=50173487</a></p>
+<p>Points: 55</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+
+---
+
+### 3. Academics have a duty to defend open knowledge systems like Wikipedia
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170917">https://news.ycombinator.com/item?id=50170917</a></p>
-<p>Points: 41</p>
-<p># Comments: 18</p>
+<p>Points: 90</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
-
----
-
-### 3. SimCity, but with Permits
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://permit.petercai.com/">https://permit.petercai.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170593">https://news.ycombinator.com/item?id=50170593</a></p>
-<p>Points: 392</p>
-<p># Comments: 216</p>
-
-🔗 **Read more:** [https://permit.petercai.com/](https://permit.petercai.com/)
 
 ---
 
@@ -84,55 +84,55 @@ Ukraine had accused the US of withholding key intelligence - a claim rejected as
 
 ---
 
-### 6. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
+### 6. UK government to make Jackdaw gas field announcement
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.
+The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal
+### 7. Why former FDLR fighters are returning to Rwanda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.
+From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss)
 
 ---
 
-### 8. Trump commits more than $400m ahead of high-stakes midterm elections
+### 8. One year on: Has Kenya’s opposition lost its way without Raila Odinga?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.
+Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss)
 
 ---
 
-### 9. PSG score late to sink Barcelona 4-2 in Champions League blockbuster
+### 9. King Charles welcomes Omani sultan, hails peace efforts in UK state visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.
+King Charles III pays tribute to Muscat&#039;s &#039;noble efforts&#039; to help reopen the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss)
 
 ---
 
