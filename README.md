@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 15:36:57
+**Last Update:** 2026-10-21 16:03:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Whatever Happened to Fire Escapes
+### 1. 9 Mothers (YC P26) Is Hiring in Austin, TX
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://9mothers.com/careers">https://9mothers.com/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50179455">https://news.ycombinator.com/item?id=50179455</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://9mothers.com/careers](https://9mothers.com/careers)
+
+---
+
+### 2. Whatever Happened to Fire Escapes
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes">https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50178455">https://news.ycombinator.com/item?id=50178455</a></p>
-<p>Points: 35</p>
-<p># Comments: 15</p>
+<p>Points: 54</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
-
----
-
-### 2. Show HN: Linkit – AI bookmark manager, 100% free and open source
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/blue-idea/linkit">https://github.com/blue-idea/linkit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50178218">https://news.ycombinator.com/item?id=50178218</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/blue-idea/linkit](https://github.com/blue-idea/linkit)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177916">https://news.ycombinator.com/item?id=50177916</a></p>
-<p>Points: 233</p>
-<p># Comments: 99</p>
+<p>Points: 291</p>
+<p># Comments: 117</p>
 
 🔗 **Read more:** [https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
@@ -97,7 +97,33 @@ Because of our investigation, the home secretary has ordered a review of how fin
 
 ---
 
-### 7. Cost of living protests aren’t just happening in Europe
+### 7. Macron says Trump spread rumours about protests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Macron says Trump spread rumours about protests
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss)
+
+---
+
+### 8. Iran’s enriched uranium re-emerges as point of contention in US talks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss)
+
+---
+
+### 9. Cost of living protests aren’t just happening in Europe
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Because of our investigation, the home secretary has ordered a review of how fin
 Cost of living protests aren’t just happening in Europe
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss)
-
----
-
-### 8. Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Kvaratskhelia out for months with a torn ACL in his right knee, while Dembele and Marquinhos suffer thigh muscle tears.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss)
-
----
-
-### 9. Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The slogan has come to represent a whole array of grievances that lie at the heart of the protest movement.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss)
 
 ---
 
