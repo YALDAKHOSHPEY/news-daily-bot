@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T20:57:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rust off Rails: The opinionated web stack for the AI era",
+            "description": "<p>Article URL: <a href=\"https://rustoffrails.org/\">https://rustoffrails.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183727\">https://news.ycombinator.com/item?id=50183727</a></p>\n<p>Points: 22</p>\n<p># Comments: 16</p>",
+            "url": "https://rustoffrails.org/",
+            "published": "Wed, 21 Oct 2026 16:34:16 +0000",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+            "description": "<p>Article URL: <a href=\"https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs\">https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183512\">https://news.ycombinator.com/item?id=50183512</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+            "published": "Wed, 21 Oct 2026 16:20:37 +0000",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I learned from six months of being stupid on purpose",
+            "description": "<p>Article URL: <a href=\"https://wvez.org/blog/learning-to-be-stupid/\">https://wvez.org/blog/learning-to-be-stupid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50183311\">https://news.ycombinator.com/item?id=50183311</a></p>\n<p>Points: 33</p>\n<p># Comments: 18</p>",
+            "url": "https://wvez.org/blog/learning-to-be-stupid/",
+            "published": "Wed, 21 Oct 2026 16:06:56 +0000",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+            "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google staff resign in backlash over its AI contracts with military",
+            "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+            "url": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+            "description": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+            "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 14:26:24 GMT",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+            "description": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 16:58:39 +0000",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+            "description": "‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 16:57:15 +0000",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+            "description": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 16:34:27 +0000",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T20:57:15+03:30"
+        }
+    ]
+}
