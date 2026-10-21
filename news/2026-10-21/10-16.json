@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T10:16:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pillowfort Is Closing",
+            "description": "<p>Article URL: <a href=\"https://www.pillowfort.social/posts/8413273\">https://www.pillowfort.social/posts/8413273</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176301\">https://news.ycombinator.com/item?id=50176301</a></p>\n<p>Points: 23</p>\n<p># Comments: 13</p>",
+            "url": "https://www.pillowfort.social/posts/8413273",
+            "published": "Wed, 21 Oct 2026 05:05:37 +0000",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Battlezone Online: BZFlag in the Browser",
+            "description": "<p>Article URL: <a href=\"https://github.com/timriker/bzo\">https://github.com/timriker/bzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176298\">https://news.ycombinator.com/item?id=50176298</a></p>\n<p>Points: 18</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/timriker/bzo",
+            "published": "Wed, 21 Oct 2026 05:05:19 +0000",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+            "description": "<p>Article URL: <a href=\"https://github.com/xamrayev/nexus-cli\">https://github.com/xamrayev/nexus-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176129\">https://news.ycombinator.com/item?id=50176129</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/xamrayev/nexus-cli",
+            "published": "Wed, 21 Oct 2026 04:37:18 +0000",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lawyer caught offering to make illegal-worker fine go away",
+            "description": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
+            "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 05:00:35 GMT",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+            "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 05:00:54 GMT",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
+            "description": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 06:37:55 GMT",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who owns India’s textile traditions in age of AI-enabled mass production?",
+            "description": "Technological tools meant to preserve a craft are now able to digitally reproduce it without involving the craftsperson.",
+            "url": "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 06:22:04 +0000",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Foden shines as Man City rout Athens 5-1 despite Haaland, Semenyo injuries",
+            "description": "Phil Foden scored a hat-trick as Manchester City bounced back from last week&#039;s loss to PSG despite off-field troubles.",
+            "url": "https://www.aljazeera.com/sports/2026/10/21/foden-shines-as-man-city-rout-athens-5-1-despite-haaland-semenyo-injuries?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 06:15:19 +0000",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
+            "description": "Families say they are struggling to provide nutritious meals for their children as commercial supplies are disrupted.",
+            "url": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 06:00:47 +0000",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T10:16:03+03:30"
+        }
+    ]
+}
