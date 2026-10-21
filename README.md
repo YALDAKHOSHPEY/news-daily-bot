@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 04:15:27
+**Last Update:** 2026-10-21 04:37:18
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Other Epidemic: Trying to get off benzodiazepines
+### 1. Microagi: Accelerating Embodied AGI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thebeliever.net/the-other-epidemic/">https://www.thebeliever.net/the-other-epidemic/</a></p>
+<p>Article URL: <a href="https://www.microagi.ai/">https://www.microagi.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50174448">https://news.ycombinator.com/item?id=50174448</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.microagi.ai/](https://www.microagi.ai/)
+
+---
+
+### 2. LabRobotBench v0.1: Benchmarking wet lab robotics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gamowlabs.com/lab-robot-bench-v0-1">https://gamowlabs.com/lab-robot-bench-v0-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50174317">https://news.ycombinator.com/item?id=50174317</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://gamowlabs.com/lab-robot-bench-v0-1](https://gamowlabs.com/lab-robot-bench-v0-1)
+
+---
+
+### 3. The Other Epidemic: Trying to get off benzodiazepines
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://web.archive.org/web/20261020230542/https://www.thebeliever.net/the-other-epidemic/" rel="nofollow">https://web.archive.org/web/20261020230542/https://www.thebe...</a><p><a href="https://archive.ph/Tb1SZ" rel="nofollow">https://archive.ph/Tb1SZ</a></p>
+<hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173891">https://news.ycombinator.com/item?id=50173891</a></p>
-<p>Points: 29</p>
-<p># Comments: 8</p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.thebeliever.net/the-other-epidemic/](https://www.thebeliever.net/the-other-epidemic/)
-
----
-
-### 2. Feds suspect ransom negotiator ran ShinyHunters extortion site
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173487">https://news.ycombinator.com/item?id=50173487</a></p>
-<p>Points: 55</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-
----
-
-### 3. Academics have a duty to defend open knowledge systems like Wikipedia
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170917">https://news.ycombinator.com/item?id=50170917</a></p>
-<p>Points: 90</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
 
 ---
 
