@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T09:41:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+            "description": "<p>Article URL: <a href=\"https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead\">https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176351\">https://news.ycombinator.com/item?id=50176351</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+            "published": "Wed, 21 Oct 2026 05:17:15 +0000",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pillowfort Is Closing",
+            "description": "<p>Article URL: <a href=\"https://www.pillowfort.social/posts/8413273\">https://www.pillowfort.social/posts/8413273</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176301\">https://news.ycombinator.com/item?id=50176301</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://www.pillowfort.social/posts/8413273",
+            "published": "Wed, 21 Oct 2026 05:05:37 +0000",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Battlezone Online: BZFlag in the Browser",
+            "description": "<p>Article URL: <a href=\"https://github.com/timriker/bzo\">https://github.com/timriker/bzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176298\">https://news.ycombinator.com/item?id=50176298</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/timriker/bzo",
+            "published": "Wed, 21 Oct 2026 05:05:19 +0000",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lawyer caught offering to make illegal-worker fine go away",
+            "description": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
+            "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 05:00:35 GMT",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+            "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 05:00:54 GMT",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 03:59:18 GMT",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
+            "description": "Families say they are struggling to provide nutritious meals for their children as commercial supplies are disrupted.",
+            "url": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 06:00:47 +0000",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
+            "description": "The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 05:33:20 +0000",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "OpenAI says its agents turned off own safeguards",
+            "description": "ChatGPT creator says AI agents disabled misalignment monitoring during two internal coding tasks.",
+            "url": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 05:30:50 +0000",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T09:41:46+03:30"
+        }
+    ]
+}

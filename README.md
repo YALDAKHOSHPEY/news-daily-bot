@@ -1,78 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 04:37:18
+**Last Update:** 2026-10-21 09:41:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microagi: Accelerating Embodied AGI
+### 1. Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.microagi.ai/">https://www.microagi.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50174448">https://news.ycombinator.com/item?id=50174448</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead">https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176351">https://news.ycombinator.com/item?id=50176351</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.microagi.ai/](https://www.microagi.ai/)
+🔗 **Read more:** [https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead](https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead)
 
 ---
 
-### 2. LabRobotBench v0.1: Benchmarking wet lab robotics
+### 2. Pillowfort Is Closing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gamowlabs.com/lab-robot-bench-v0-1">https://gamowlabs.com/lab-robot-bench-v0-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50174317">https://news.ycombinator.com/item?id=50174317</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https://news.ycombinator.com/item?id=50176301</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://gamowlabs.com/lab-robot-bench-v0-1](https://gamowlabs.com/lab-robot-bench-v0-1)
+🔗 **Read more:** [https://www.pillowfort.social/posts/8413273](https://www.pillowfort.social/posts/8413273)
 
 ---
 
-### 3. The Other Epidemic: Trying to get off benzodiazepines
+### 3. Battlezone Online: BZFlag in the Browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://web.archive.org/web/20261020230542/https://www.thebeliever.net/the-other-epidemic/" rel="nofollow">https://web.archive.org/web/20261020230542/https://www.thebe...</a><p><a href="https://archive.ph/Tb1SZ" rel="nofollow">https://archive.ph/Tb1SZ</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173891">https://news.ycombinator.com/item?id=50173891</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/timriker/bzo">https://github.com/timriker/bzo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176298">https://news.ycombinator.com/item?id=50176298</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.thebeliever.net/the-other-epidemic/](https://www.thebeliever.net/the-other-epidemic/)
+🔗 **Read more:** [https://github.com/timriker/bzo](https://github.com/timriker/bzo)
 
 ---
 
-### 4. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 4. Lawyer caught offering to make illegal-worker fine go away
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of UK Counter Terrorism Policing said they consider Iranian state involvement "highly likely".
+Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo
+### 5. Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ Ukraine had accused the US of withholding key intelligence - a claim rejected as
 
 ---
 
-### 6. UK government to make Jackdaw gas field announcement
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why former FDLR fighters are returning to Rwanda
+### 7. Gaza children face worsening food shortages as prices rise and aid is cut
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.
+Families say they are struggling to provide nutritious meals for their children as commercial supplies are disrupted.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss](https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss)
 
 ---
 
-### 8. One year on: Has Kenya’s opposition lost its way without Raila Odinga?
+### 8. Anthropic posts $80bn loss in first half of 2026: WSJ
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.
+The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss)
 
 ---
 
-### 9. King Charles welcomes Omani sultan, hails peace efforts in UK state visit
+### 9. OpenAI says its agents turned off own safeguards
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-King Charles III pays tribute to Muscat&#039;s &#039;noble efforts&#039; to help reopen the Strait of Hormuz.
+ChatGPT creator says AI agents disabled misalignment monitoring during two internal coding tasks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss)
 
 ---
 
