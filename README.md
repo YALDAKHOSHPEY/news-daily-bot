@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 21:15:54
+**Last Update:** 2026-10-22 00:17:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rust off Rails: The opinionated web stack for the AI era
+### 1. CDC Ignored Request from States to Validate a New Measles Test
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rustoffrails.org/">https://rustoffrails.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183727">https://news.ycombinator.com/item?id=50183727</a></p>
-<p>Points: 22</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html">https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186842">https://news.ycombinator.com/item?id=50186842</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rustoffrails.org/](https://rustoffrails.org/)
+🔗 **Read more:** [https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html](https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html)
 
 ---
 
-### 2. New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic
+### 2. After automation: Solo founding will be the default
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs">https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183512">https://news.ycombinator.com/item?id=50183512</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://every.to/thesis-statements/julian-weisser">https://every.to/thesis-statements/julian-weisser</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186518">https://news.ycombinator.com/item?id=50186518</a></p>
+<p>Points: 19</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs)
+🔗 **Read more:** [https://every.to/thesis-statements/julian-weisser](https://every.to/thesis-statements/julian-weisser)
 
 ---
 
-### 3. What I learned from six months of being stupid on purpose
+### 3. Claude Duet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wvez.org/blog/learning-to-be-stupid/">https://wvez.org/blog/learning-to-be-stupid/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50183311">https://news.ycombinator.com/item?id=50183311</a></p>
-<p>Points: 33</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://claude.com/resources/articles/claude-duet">https://claude.com/resources/articles/claude-duet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186455">https://news.ycombinator.com/item?id=50186455</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://wvez.org/blog/learning-to-be-stupid/](https://wvez.org/blog/learning-to-be-stupid/)
+🔗 **Read more:** [https://claude.com/resources/articles/claude-duet](https://claude.com/resources/articles/claude-duet)
 
 ---
 
@@ -71,68 +71,68 @@ The UK government says the field, which is opposed by environmental campaigners,
 
 ---
 
-### 5. Google staff resign in backlash over its AI contracts with military
+### 5. Websites taken down worldwide as critical cyber-security update issued
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
+The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament
+### 6. Russia says it is ready to resume talks with Ukraine and US to end war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.
+The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Macron makes surprise Saudi visit as France secures extra diesel supplies
+### 7. Video shows Israeli settler assaulting Palestinian child
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.
+An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss)
 
 ---
 
-### 8. Paris shopkeepers fear more destruction after riots destroy livelihoods
+### 8. Jason Alexander recalls Palestinian protection in Ramallah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.
+Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss)
 
 ---
 
-### 9. Macron’s surprise ‘solidarity’ visit to Saudi Arabia
+### 9. Cuba accuses US of threatening countries ahead of UN embargo vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.
+Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss)
 
 ---
 
