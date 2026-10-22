@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 03:34:05
+**Last Update:** 2026-10-22 03:48:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. There isn't an easy exploit for this PHP vulnerability
+### 1. mitmproxy adds --emudhra option
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eliastaylor.com/noexploit/">https://eliastaylor.com/noexploit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188948">https://news.ycombinator.com/item?id=50188948</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189232">https://news.ycombinator.com/item?id=50189232</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+
+---
+
+### 2. Κ = 0.003 for integer multiplication crossed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/CrocSwap/integer-mult-bounds/pull/4441">https://github.com/CrocSwap/integer-mult-bounds/pull/4441</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189023">https://news.ycombinator.com/item?id=50189023</a></p>
+<p>Points: 3</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://eliastaylor.com/noexploit/](https://eliastaylor.com/noexploit/)
+🔗 **Read more:** [https://github.com/CrocSwap/integer-mult-bounds/pull/4441](https://github.com/CrocSwap/integer-mult-bounds/pull/4441)
 
 ---
 
-### 2. Railway Security Disclosure
+### 3. Rails Is a JIT Compiler
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188228">https://news.ycombinator.com/item?id=50188228</a></p>
-<p>Points: 229</p>
-<p># Comments: 103</p>
+<p>Article URL: <a href="https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/">https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188973">https://news.ycombinator.com/item?id=50188973</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.railway.com/p/security-disclosure-wednesday-october-21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-
----
-
-### 3. PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://aws.amazon.com/security/security-bulletins/2026-143-aws/">https://aws.amazon.com/security/security-bulletins/2026-143-aws/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187708">https://news.ycombinator.com/item?id=50187708</a></p>
-<p>Points: 94</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://aws.amazon.com/security/security-bulletins/2026-143-aws/](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
+🔗 **Read more:** [https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/](https://railsatscale.com/2026-10-21-rails-is-a-jit-compiler/)
 
 ---
 
@@ -97,33 +97,7 @@ Moscow says it is "ready in principle" to resume peace talks and US President Do
 
 ---
 
-### 7. US accuses Canada of election interference ahead of midterms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss)
-
----
-
-### 8. What happened during Witkoff and Kushner’s latest meeting with Putin
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss)
-
----
-
-### 9. Pope Leo needs no further treatment after cancer surgery, doctors say
+### 7. Pope Leo needs no further treatment after cancer surgery, doctors say
 
 **Source:** Al Jazeera
 
@@ -133,6 +107,32 @@ The latest round of negotiations comes amid growing concerns in Kyiv the US is b
 The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss)
+
+---
+
+### 8. Nigeria’s first Ebola case matches DR Congo strain, health officials say
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss)
+
+---
+
+### 9. US orders departure of personnel from Saudi Arabia, citing Houthi threat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss)
 
 ---
 
