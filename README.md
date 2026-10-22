@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 08:37:12
+**Last Update:** 2026-10-22 09:05:13
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.spacebar.news/powershell-is-actually-good/">https://www.spacebar.news/powershell-is-actually-good/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190959">https://news.ycombinator.com/item?id=50190959</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Points: 36</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.spacebar.news/powershell-is-actually-good/](https://www.spacebar.news/powershell-is-actually-good/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190455">https://news.ycombinator.com/item?id=50190455</a></p>
-<p>Points: 68</p>
-<p># Comments: 30</p>
+<p>Points: 86</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 
 ---
 
-### 3. LLM agents play Pokemon showdown
+### 3. WorldTUI: I trained a 360M model to pretend to be a terminal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://olivergrabner.com/research/pokemon/">https://olivergrabner.com/research/pokemon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190334">https://news.ycombinator.com/item?id=50190334</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://simedw.com/2026/10/21/world-model-terminal/">https://simedw.com/2026/10/21/world-model-terminal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190363">https://news.ycombinator.com/item?id=50190363</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://olivergrabner.com/research/pokemon/](https://olivergrabner.com/research/pokemon/)
+🔗 **Read more:** [https://simedw.com/2026/10/21/world-model-terminal/](https://simedw.com/2026/10/21/world-model-terminal/)
 
 ---
 
@@ -97,7 +97,20 @@ Judges will be given new powers to impose tougher prison punishments on offender
 
 ---
 
-### 7. North Korea to resume propaganda broadcasts, South Korea urges dialogue
+### 7. El-Sayed in face-off against rival Rogers for Michigan Senate seat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+El-Sayed in face-off against rival Rogers for Michigan Senate seat
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss)
+
+---
+
+### 8. North Korea to resume propaganda broadcasts, South Korea urges dialogue
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pyongyang plans to resume broadcasting anti-South Korea propaganda along the arm
 
 ---
 
-### 8. Brazil’s Bolsonaro challenges Lula to expand release of personal records
+### 9. Brazil’s Bolsonaro challenges Lula to expand release of personal records
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pyongyang plans to resume broadcasting anti-South Korea propaganda along the arm
 Right-wing presidential candidate says he will release personal records if his opponent Lula meets his conditions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss)
-
----
-
-### 9. Australian TV reporter rescues man from sinking car
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Australian TV reporter rescues man from sinking car
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss)
 
 ---
 
