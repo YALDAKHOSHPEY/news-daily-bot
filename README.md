@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 02:02:43
+**Last Update:** 2026-10-23 02:21:11
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
-<p>Points: 7</p>
+<p>Points: 8</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
@@ -35,27 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
-<p>Points: 30</p>
-<p># Comments: 4</p>
+<p>Points: 65</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
 
 ---
 
-### 3. Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?
+### 3. Hedra is a 3D open world game I wrote from scratch while in highschool
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?<p>Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?<p>Is selling tokens really the best strategy?<p>Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50200997">https://news.ycombinator.com/item?id=50200997</a></p>
-<p>Points: 42</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
+<p>Points: 88</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50200997](https://news.ycombinator.com/item?id=50200997)
+🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 
 ---
 
@@ -98,7 +97,20 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 7. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
+### 7. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
+
+---
+
+### 8. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically
 
 ---
 
-### 8. US judge blocks federal operations seeking to identify non-citizen voters
+### 9. US judge blocks federal operations seeking to identify non-citizen voters
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically
 Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss)
-
----
-
-### 9. Michigan voters closely divided between Rogers and El-Sayed
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Less than two weeks before the midterm elections, some Michigan voters are still deciding.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss)
 
 ---
 
