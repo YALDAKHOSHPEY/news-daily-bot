@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 22:49:11
+**Last Update:** 2026-10-22 23:06:55
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 
 ---
 
-### 2. Show HN: UI micro interactions prompts for AI
+### 2. Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://3d.camilleworld.com/play/">https://3d.camilleworld.com/play/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199349">https://news.ycombinator.com/item?id=50199349</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://3d.camilleworld.com/play/](https://3d.camilleworld.com/play/)
+
+---
+
+### 3. Show HN: UI micro interactions prompts for AI
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.typeui.sh/micro-interactions">https://www.typeui.sh/micro-interactions</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199290">https://news.ycombinator.com/item?id=50199290</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.typeui.sh/micro-interactions](https://www.typeui.sh/micro-interactions)
-
----
-
-### 3. Award-Winning AI Literature
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jamesyu.org/award-winning-ai-literature/">https://jamesyu.org/award-winning-ai-literature/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199232">https://news.ycombinator.com/item?id=50199232</a></p>
-<p>Points: 11</p>
+<p>Points: 15</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://jamesyu.org/award-winning-ai-literature/](https://jamesyu.org/award-winning-ai-literature/)
+🔗 **Read more:** [https://www.typeui.sh/micro-interactions](https://www.typeui.sh/micro-interactions)
 
 ---
 
