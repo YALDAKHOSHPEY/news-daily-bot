@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 13:51:32
+**Last Update:** 2026-10-22 14:19:31
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193170">https://news.ycombinator.com/item?id=50193170</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 32</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://globus.software/blog/2026/10/16/cutting-map-polygons/](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192900">https://news.ycombinator.com/item?id=50192900</a></p>
-<p>Points: 85</p>
-<p># Comments: 21</p>
+<p>Points: 109</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-111943](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192868">https://news.ycombinator.com/item?id=50192868</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 31</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
 
