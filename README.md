@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 00:30:55
+**Last Update:** 2026-10-22 03:34:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. After automation: Solo founding will be the default
+### 1. There isn't an easy exploit for this PHP vulnerability
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://every.to/thesis-statements/julian-weisser">https://every.to/thesis-statements/julian-weisser</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186518">https://news.ycombinator.com/item?id=50186518</a></p>
-<p>Points: 24</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://eliastaylor.com/noexploit/">https://eliastaylor.com/noexploit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188948">https://news.ycombinator.com/item?id=50188948</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://every.to/thesis-statements/julian-weisser](https://every.to/thesis-statements/julian-weisser)
+🔗 **Read more:** [https://eliastaylor.com/noexploit/](https://eliastaylor.com/noexploit/)
 
 ---
 
-### 2. Claude Duet
+### 2. Railway Security Disclosure
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/resources/articles/claude-duet">https://claude.com/resources/articles/claude-duet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186455">https://news.ycombinator.com/item?id=50186455</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188228">https://news.ycombinator.com/item?id=50188228</a></p>
+<p>Points: 229</p>
+<p># Comments: 103</p>
 
-🔗 **Read more:** [https://claude.com/resources/articles/claude-duet](https://claude.com/resources/articles/claude-duet)
+🔗 **Read more:** [https://blog.railway.com/p/security-disclosure-wednesday-october-21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
 ---
 
-### 3. Meta hit with $25B penalty for deceiving users about privacy on Facebook
+### 3. PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/">https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186215">https://news.ycombinator.com/item?id=50186215</a></p>
-<p>Points: 74</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://aws.amazon.com/security/security-bulletins/2026-143-aws/">https://aws.amazon.com/security/security-bulletins/2026-143-aws/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187708">https://news.ycombinator.com/item?id=50187708</a></p>
+<p>Points: 94</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
+🔗 **Read more:** [https://aws.amazon.com/security/security-bulletins/2026-143-aws/](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
 
 ---
 
@@ -84,55 +84,55 @@ The vulnerabilities with PHP, a programming language widely used across the inte
 
 ---
 
-### 6. Russia says it is ready to resume talks with Ukraine and US to end war
+### 6. Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.
+Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Video shows Israeli settler assaulting Palestinian child
+### 7. US accuses Canada of election interference ahead of midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
+Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss)
 
 ---
 
-### 8. Jason Alexander recalls Palestinian protection in Ramallah
+### 8. What happened during Witkoff and Kushner’s latest meeting with Putin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities.
+The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss)
 
 ---
 
-### 9. Cuba accuses US of threatening countries ahead of UN embargo vote
+### 9. Pope Leo needs no further treatment after cancer surgery, doctors say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.
+The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss)
 
 ---
 
