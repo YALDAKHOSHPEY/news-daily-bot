@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 23:06:55
+**Last Update:** 2026-10-23 02:02:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hedra is a 3D open world game I wrote from scratch while in highschool
+### 1. Railpass
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
-
----
-
-### 2. Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://3d.camilleworld.com/play/">https://3d.camilleworld.com/play/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199349">https://news.ycombinator.com/item?id=50199349</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://3d.camilleworld.com/play/](https://3d.camilleworld.com/play/)
-
----
-
-### 3. Show HN: UI micro interactions prompts for AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.typeui.sh/micro-interactions">https://www.typeui.sh/micro-interactions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199290">https://news.ycombinator.com/item?id=50199290</a></p>
-<p>Points: 15</p>
+<p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
+<p>Points: 7</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.typeui.sh/micro-interactions](https://www.typeui.sh/micro-interactions)
+🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
+
+---
+
+### 2. Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
+<p>Points: 30</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
+
+---
+
+### 3. Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?<p>Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?<p>Is selling tokens really the best strategy?<p>Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50200997">https://news.ycombinator.com/item?id=50200997</a></p>
+<p>Points: 42</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50200997](https://news.ycombinator.com/item?id=50200997)
 
 ---
 
@@ -97,42 +98,42 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 7. Time just changed forever
+### 7. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world&#039;s clocks.
+Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss)
 
 ---
 
-### 8. Israel frees suspects in two settler attacks as West Bank pogroms intensify
+### 8. US judge blocks federal operations seeking to identify non-citizen voters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.
+Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss)
 
 ---
 
-### 9. Trump says NBA star LeBron James disrespected US national anthem
+### 9. Michigan voters closely divided between Rogers and El-Sayed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.
+Less than two weeks before the midterm elections, some Michigan voters are still deciding.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss)
 
 ---
 
