@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T22:49:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+            "description": "<p>Article URL: <a href=\"https://github.com/maxilevi/project-hedra/tree/pre-ai\">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199389\">https://news.ycombinator.com/item?id=50199389</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+            "published": "Thu, 22 Oct 2026 18:44:36 +0000",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: UI micro interactions prompts for AI",
+            "description": "<p>Article URL: <a href=\"https://www.typeui.sh/micro-interactions\">https://www.typeui.sh/micro-interactions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199290\">https://news.ycombinator.com/item?id=50199290</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://www.typeui.sh/micro-interactions",
+            "published": "Thu, 22 Oct 2026 18:32:57 +0000",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Award-Winning AI Literature",
+            "description": "<p>Article URL: <a href=\"https://jamesyu.org/award-winning-ai-literature/\">https://jamesyu.org/award-winning-ai-literature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199232\">https://news.ycombinator.com/item?id=50199232</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://jamesyu.org/award-winning-ai-literature/",
+            "published": "Thu, 22 Oct 2026 18:28:26 +0000",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+            "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+            "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:46:58 GMT",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI discovered a massive cyber-security flaw - here's what happened",
+            "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+            "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:17:44 GMT",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Time just changed forever",
+            "description": "For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world&#039;s clocks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 19:00:07 +0000",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+            "description": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 18:17:29 +0000",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says NBA star LeBron James disrespected US national anthem",
+            "description": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
+            "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 18:05:52 +0000",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T22:49:11+03:30"
+        }
+    ]
+}

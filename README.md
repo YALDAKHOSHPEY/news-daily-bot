@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 19:13:27
+**Last Update:** 2026-10-22 22:49:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Quad9 (DNS Resolver) to Exit France
+### 1. Hedra is a 3D open world game I wrote from scratch while in highschool
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quad9.net/news/blog/au-revoir-france/">https://quad9.net/news/blog/au-revoir-france/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195959">https://news.ycombinator.com/item?id=50195959</a></p>
-<p>Points: 104</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://quad9.net/news/blog/au-revoir-france/](https://quad9.net/news/blog/au-revoir-france/)
+🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 
 ---
 
-### 2. MPs moving to restrict gambling ads in Canada amid mounting harms
+### 2. Show HN: UI micro interactions prompts for AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195873">https://news.ycombinator.com/item?id=50195873</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://www.typeui.sh/micro-interactions">https://www.typeui.sh/micro-interactions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199290">https://news.ycombinator.com/item?id=50199290</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.typeui.sh/micro-interactions](https://www.typeui.sh/micro-interactions)
+
+---
+
+### 3. Award-Winning AI Literature
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jamesyu.org/award-winning-ai-literature/">https://jamesyu.org/award-winning-ai-literature/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199232">https://news.ycombinator.com/item?id=50199232</a></p>
+<p>Points: 11</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
+🔗 **Read more:** [https://jamesyu.org/award-winning-ai-literature/](https://jamesyu.org/award-winning-ai-literature/)
 
 ---
 
-### 3. What's Getting Pwned
+### 4. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://pwn.watch/">https://pwn.watch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195543">https://news.ycombinator.com/item?id=50195543</a></p>
-<p>Points: 94</p>
-<p># Comments: 66</p>
+The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.
 
-🔗 **Read more:** [https://pwn.watch/](https://pwn.watch/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. AI discovered a massive cyber-security flaw - here's what happened
+### 5. Race to update services' computer systems after cyber-security flaw found
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. AI discovered a massive cyber-security flaw - here's what happened
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 5. Barclays cutting 5,000 jobs as it increases reliance on AI
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The bank says it is using more AI leading to a 5% reduction in its workforce.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Russell Brand accuser said alleged rape 'really hurt', court hears
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. From the streets to the ballot box: Serbia’s students hope for election win
+### 7. Time just changed forever
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.
+For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world&#039;s clocks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss)
 
 ---
 
-### 8. Fatal Custody
+### 8. Israel frees suspects in two settler attacks as West Bank pogroms intensify
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.
+Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss](https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss)
 
 ---
 
-### 9. Rising costs and tight budgets strain Americans ahead of midterm elections
+### 9. Trump says NBA star LeBron James disrespected US national anthem
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.
+NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss)
 
 ---
 
