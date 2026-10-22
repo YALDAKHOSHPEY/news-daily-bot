@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 18:55:16
+**Last Update:** 2026-10-22 19:13:27
 
 **Total News:** 12
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://quad9.net/news/blog/au-revoir-france/">https://quad9.net/news/blog/au-revoir-france/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195959">https://news.ycombinator.com/item?id=50195959</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 104</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://quad9.net/news/blog/au-revoir-france/](https://quad9.net/news/blog/au-revoir-france/)
 
 ---
 
-### 2. What's Getting Pwned
+### 2. MPs moving to restrict gambling ads in Canada amid mounting harms
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195873">https://news.ycombinator.com/item?id=50195873</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888](https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888)
+
+---
+
+### 3. What's Getting Pwned
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://pwn.watch/">https://pwn.watch/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195543">https://news.ycombinator.com/item?id=50195543</a></p>
-<p>Points: 52</p>
-<p># Comments: 14</p>
+<p>Points: 94</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://pwn.watch/](https://pwn.watch/)
-
----
-
-### 3. eMudhra to Exit Global SSL/TLS Certificate Business
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195110">https://news.ycombinator.com/item?id=50195110</a></p>
-<p>Points: 220</p>
-<p># Comments: 121</p>
-
-🔗 **Read more:** [https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 
 ---
 
@@ -97,42 +97,42 @@ The friend of a woman claiming to have been raped by Russell Brand says she said
 
 ---
 
-### 7. Netanyahu promises Iran regime change: Can Israel topple Tehran government?
+### 7. From the streets to the ballot box: Serbia’s students hope for election win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.
+Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss)
 
 ---
 
-### 8. Germany arrests Ukrainian man accused of spying for Russia
+### 8. Fatal Custody
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Military has raised the threat level of ​Russian sabotage against German troops and facilities.
+Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss](https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss)
 
 ---
 
-### 9. Ilhan Omar home raid, Haines attack: Inside rise in violence on officials
+### 9. Rising costs and tight budgets strain Americans ahead of midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.
+Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss)
 
 ---
 

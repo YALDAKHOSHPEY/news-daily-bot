@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T19:13:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Quad9 (DNS Resolver) to Exit France",
+            "description": "<p>Article URL: <a href=\"https://quad9.net/news/blog/au-revoir-france/\">https://quad9.net/news/blog/au-revoir-france/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195959\">https://news.ycombinator.com/item?id=50195959</a></p>\n<p>Points: 104</p>\n<p># Comments: 21</p>",
+            "url": "https://quad9.net/news/blog/au-revoir-france/",
+            "published": "Thu, 22 Oct 2026 14:32:38 +0000",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
+            "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888\">https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195873\">https://news.ycombinator.com/item?id=50195873</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+            "published": "Thu, 22 Oct 2026 14:26:40 +0000",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's Getting Pwned",
+            "description": "<p>Article URL: <a href=\"https://pwn.watch/\">https://pwn.watch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195543\">https://news.ycombinator.com/item?id=50195543</a></p>\n<p>Points: 94</p>\n<p># Comments: 66</p>",
+            "url": "https://pwn.watch/",
+            "published": "Thu, 22 Oct 2026 14:08:12 +0000",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI discovered a massive cyber-security flaw - here's what happened",
+            "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+            "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:17:44 GMT",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+            "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 14:28:59 GMT",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+            "description": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:34:36 GMT",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "From the streets to the ballot box: Serbia’s students hope for election win",
+            "description": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 15:13:34 +0000",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fatal Custody",
+            "description": "Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.",
+            "url": "https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 15:08:32 +0000",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
+            "description": "Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.",
+            "url": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 15:07:38 +0000",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T19:13:27+03:30"
+        }
+    ]
+}
