@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 14:19:31
+**Last Update:** 2026-10-22 18:55:16
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Faster than earcut: triangulating 3.7M map polygons in 489 ms
+### 1. Quad9 (DNS Resolver) to Exit France
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193170">https://news.ycombinator.com/item?id=50193170</a></p>
-<p>Points: 32</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://quad9.net/news/blog/au-revoir-france/">https://quad9.net/news/blog/au-revoir-france/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195959">https://news.ycombinator.com/item?id=50195959</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://globus.software/blog/2026/10/16/cutting-map-polygons/](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
+🔗 **Read more:** [https://quad9.net/news/blog/au-revoir-france/](https://quad9.net/news/blog/au-revoir-france/)
 
 ---
 
-### 2. CVE-2026-111943: Compromised Intermediate Certificate Authority
+### 2. What's Getting Pwned
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192900">https://news.ycombinator.com/item?id=50192900</a></p>
-<p>Points: 109</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://pwn.watch/">https://pwn.watch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195543">https://news.ycombinator.com/item?id=50195543</a></p>
+<p>Points: 52</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-111943](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+🔗 **Read more:** [https://pwn.watch/](https://pwn.watch/)
 
 ---
 
-### 3. Achieving AI-style reasoning without an LLM
+### 3. eMudhra to Exit Global SSL/TLS Certificate Business
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192868">https://news.ycombinator.com/item?id=50192868</a></p>
-<p>Points: 31</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195110">https://news.ycombinator.com/item?id=50195110</a></p>
+<p>Points: 220</p>
+<p># Comments: 121</p>
 
-🔗 **Read more:** [https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
+🔗 **Read more:** [https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 
 ---
 
-### 4. What is PHP and why did it spark an international cyber-security alert?
+### 4. AI discovered a massive cyber-security flaw - here's what happened
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
+The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The bank says it is using more AI leading to a 5% reduction in its workforce.
 
 ---
 
-### 6. Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push
+### 6. Russell Brand accuser said alleged rape 'really hurt', court hears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.
+The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash
+### 7. Netanyahu promises Iran regime change: Can Israel topple Tehran government?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-El-Sayed and Rogers also tackle immigration in Michigan while Kansas candidates spar over Ukraine.
+Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss)
 
 ---
 
-### 8. Israeli forces kill disabled man in southern Syria raid, state media says
+### 8. Germany arrests Ukrainian man accused of spying for Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Civilian with a disability shot dead during raid in Jamla, in western Deraa countryside, SANA reports.
+Military has raised the threat level of ​Russian sabotage against German troops and facilities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss)
 
 ---
 
-### 9. Can European leaders fix the cost-of-living crisis?
+### 9. Ilhan Omar home raid, Haines attack: Inside rise in violence on officials
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anger over housing, wages and public services tests European governments facing debt pressures and looming elections.
+US Congresswoman Ilhan Omar&#039;s home raided; Australian MP Helen Haines loses both legs following an attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss)
 
 ---
 
