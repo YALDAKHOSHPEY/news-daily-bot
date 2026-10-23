@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 02:21:11
+**Last Update:** 2026-10-23 04:35:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Railpass
+### 1. Mapping the Northern Sky
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202766">https://news.ycombinator.com/item?id=50202766</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
+🔗 **Read more:** [https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
 
 ---
 
-### 2. Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
+### 2. Docker Is Weird
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
-<p>Points: 65</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202681">https://news.ycombinator.com/item?id=50202681</a></p>
+<p>Points: 37</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
+🔗 **Read more:** [https://codeandcake.dev/posts/2026-10-22-docker-is-weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 
 ---
 
-### 3. Hedra is a 3D open world game I wrote from scratch while in highschool
+### 3. AI compute is the new oil–and needs a new market
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
-<p>Points: 88</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market">https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202671">https://news.ycombinator.com/item?id=50202671</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+🔗 **Read more:** [https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
 
 ---
 
@@ -84,55 +84,55 @@ Websites were taken offline after the developers of programming language PHP sai
 
 ---
 
-### 6. AI discovered a massive cyber-security flaw - here's what happened
+### 6. Musk has restored access to Ukraine's Starlink network, Trump says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.
+Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
+### 7. Tibet rocked by 7.0-magnitude earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
+Tibet rocked by 7.0-magnitude earthquake
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss)
 
 ---
 
-### 8. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
+### 8. Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
+Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell out&#039; of the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss)
 
 ---
 
-### 9. US judge blocks federal operations seeking to identify non-citizen voters
+### 9. UK Conservative Party leader responds to Al Jazeera investigation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
+UK Conservative Party MP says the party does not condone former member&#039;s conduct, revealed in Al Jazeera investigation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss)
 
 ---
 
