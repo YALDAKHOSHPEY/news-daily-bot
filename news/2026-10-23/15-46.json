@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T15:46:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Swedish government offices to ban ChatGPT and Claude",
+            "description": "<p>Article URL: <a href=\"https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet\">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207405\">https://news.ycombinator.com/item?id=50207405</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
+            "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+            "published": "Fri, 23 Oct 2026 11:39:54 +0000",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is this the new cyber normal?",
+            "description": "<p>Article URL: <a href=\"https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/\">https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50207115\">https://news.ycombinator.com/item?id=50207115</a></p>\n<p>Points: 45</p>\n<p># Comments: 25</p>",
+            "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+            "published": "Fri, 23 Oct 2026 11:04:53 +0000",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dutch government had hacked into Jared Kushner's phone",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/jaredkushner/status/2113376217415958767\">https://twitter.com/jaredkushner/status/2113376217415958767</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50206914\">https://news.ycombinator.com/item?id=50206914</a></p>\n<p>Points: 87</p>\n<p># Comments: 32</p>",
+            "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+            "published": "Fri, 23 Oct 2026 10:41:32 +0000",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 11:43:59 GMT",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+            "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+            "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 08:26:47 GMT",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least one dead and four injured in Paris suburb shooting",
+            "description": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 12:06:50 GMT",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US-Iran war, then and now: How the landscape has changed since February",
+            "description": "The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 11:43:53 +0000",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+            "description": "Tsuneyasu Miyamoto says it will be difficult for Saudi Arabia to host next year&#039;s tournament as scheduled.",
+            "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 11:34:59 +0000",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+            "description": "Health workers in Gaza are participating in a breast cancer campaign called ‘pink blooms from among the rubble’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 11:27:35 +0000",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T15:46:16+03:30"
+        }
+    ]
+}
