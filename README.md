@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 04:35:26
+**Last Update:** 2026-10-23 05:12:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mapping the Northern Sky
+### 1. The foolishness of "natural language programming" (1978)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
+<p>Points: 13</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+
+---
+
+### 2. Mapping the Northern Sky
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202766">https://news.ycombinator.com/item?id=50202766</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
 
 ---
 
-### 2. Docker Is Weird
+### 3. Docker is weird
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202681">https://news.ycombinator.com/item?id=50202681</a></p>
-<p>Points: 37</p>
-<p># Comments: 16</p>
+<p>Points: 107</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://codeandcake.dev/posts/2026-10-22-docker-is-weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-
----
-
-### 3. AI compute is the new oil–and needs a new market
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market">https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202671">https://news.ycombinator.com/item?id=50202671</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
 
 ---
 
@@ -97,7 +97,33 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. Tibet rocked by 7.0-magnitude earthquake
+### 7. Thousands protest across Poland for access to free and legal abortions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland&#039;s highest court.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss)
+
+---
+
+### 8. Rare unrest flares in Tunisian capital as police clash with protesters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Protests in several cities ​coincide with a deepening economic, social and political crisis in Tunisia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss)
+
+---
+
+### 9. Tibet rocked by 7.0-magnitude earthquake
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 Tibet rocked by 7.0-magnitude earthquake
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss)
-
----
-
-### 8. Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell out&#039; of the country.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss)
-
----
-
-### 9. UK Conservative Party leader responds to Al Jazeera investigation
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UK Conservative Party MP says the party does not condone former member&#039;s conduct, revealed in Al Jazeera investigation.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T05:12:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The foolishness of \"natural language programming\" (1978)",
+            "description": "<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 13</p>\n<p># Comments: 9</p>",
+            "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+            "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mapping the Northern Sky",
+            "description": "<p>Article URL: <a href=\"https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/\">https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202766\">https://news.ycombinator.com/item?id=50202766</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+            "published": "Thu, 22 Oct 2026 23:56:39 +0000",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Docker is weird",
+            "description": "<p>Article URL: <a href=\"https://codeandcake.dev/posts/2026-10-22-docker-is-weird\">https://codeandcake.dev/posts/2026-10-22-docker-is-weird</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202681\">https://news.ycombinator.com/item?id=50202681</a></p>\n<p>Points: 107</p>\n<p># Comments: 37</p>",
+            "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+            "published": "Thu, 22 Oct 2026 23:45:56 +0000",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+            "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+            "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+            "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+            "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands protest across Poland for access to free and legal abortions",
+            "description": "Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland&#039;s highest court.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 00:54:51 +0000",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
+            "description": "Protests in several cities ​coincide with a deepening economic, social and political crisis in Tunisia.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 00:51:40 +0000",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tibet rocked by 7.0-magnitude earthquake",
+            "description": "Tibet rocked by 7.0-magnitude earthquake",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 00:33:16 +0000",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T05:12:14+03:30"
+        }
+    ]
+}
