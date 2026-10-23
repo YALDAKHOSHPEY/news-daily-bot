@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 21:05:18
+**Last Update:** 2026-10-23 22:02:32
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Time Nuts
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://leapsecond.com/time-nuts.htm">http://leapsecond.com/time-nuts.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212281">https://news.ycombinator.com/item?id=50212281</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [http://leapsecond.com/time-nuts.htm](http://leapsecond.com/time-nuts.htm)
-
----
-
-### 2. Kimi K3.1 Pro
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.kimi.ai/blog/kimi-k3-1-pro">https://www.kimi.ai/blog/kimi-k3-1-pro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212246">https://news.ycombinator.com/item?id=50212246</a></p>
-<p>Points: 40</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.kimi.ai/blog/kimi-k3-1-pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
-
----
-
-### 3. Kimi K3.1 Pro and K3.1 Pro Highspeed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models.html">https://www.kimi.com/code/docs/en/kimi-code/models.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212065">https://news.ycombinator.com/item?id=50212065</a></p>
-<p>Points: 129</p>
-<p># Comments: 43</p>
-
-🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models.html](https://www.kimi.com/code/docs/en/kimi-code/models.html)
-
----
-
-### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 1. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -71,7 +23,20 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 5. Watch: Moment part of Brighton's historic West Pier collapses
+### 2. Meghan statement offers answers after years of questions about her relationship with father
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Today, without exactly using the word, Meghan claimed vindication.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Watch: Moment part of Brighton's historic West Pier collapses
 
 **Source:** BBC
 
@@ -84,59 +49,59 @@ Footage taken during Storm Austen shows a section of the famous landmark battere
 
 ---
 
-### 6. Deadly shooting near Paris investigated as 'crime of terrorism', minister says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Many feared trapped after Kenya building collapse
+### 4. Trump administration sues to block possible Democratic win in Alaska
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.
+The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss)
 
 ---
 
-### 8. Indonesia seizes more than a tonne of ketamine from tanker
+### 5. Many feared trapped after multistorey building collapses in Kenya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.
+Officials say building in Nairobi&#039;s Eastleigh area had no occupation certificate, but ground floor was in use.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss)
 
 ---
 
-### 9. Brazil’s right has already changed the balance of power
+### 6. Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.
+The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Vance
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590)
+
+---
+
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -149,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -159,19 +124,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457)
-
----
-
-### 12. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455)
 
 ---
 

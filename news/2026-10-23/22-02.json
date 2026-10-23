@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-23T22:02:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 18:17:06 GMT",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan statement offers answers after years of questions about her relationship with father",
+            "description": "Today, without exactly using the word, Meghan claimed vindication.",
+            "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 17:27:50 GMT",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+            "description": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+            "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 13:03:29 GMT",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration sues to block possible Democratic win in Alaska",
+            "description": "The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 17:57:54 +0000",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Many feared trapped after multistorey building collapses in Kenya",
+            "description": "Officials say building in Nairobi&#039;s Eastleigh area had no occupation certificate, but ground floor was in use.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 17:49:04 +0000",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+            "description": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
+            "url": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 17:47:20 +0000",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T22:02:32+03:30"
+        }
+    ]
+}
