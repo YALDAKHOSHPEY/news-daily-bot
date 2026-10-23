@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 17:09:22
+**Last Update:** 2026-10-23 21:05:18
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Phone Is About to Stop Being Yours: 70 Days Until Lockdown
+### 1. Time Nuts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://keepandroidopen.org/">https://keepandroidopen.org/?</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208558">https://news.ycombinator.com/item?id=50208558</a></p>
-<p>Points: 23</p>
+<p>Article URL: <a href="http://leapsecond.com/time-nuts.htm">http://leapsecond.com/time-nuts.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212281">https://news.ycombinator.com/item?id=50212281</a></p>
+<p>Points: 11</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://keepandroidopen.org/](https://keepandroidopen.org/)
+🔗 **Read more:** [http://leapsecond.com/time-nuts.htm](http://leapsecond.com/time-nuts.htm)
 
 ---
 
-### 2. Shitter – A Nitter Fork
+### 2. Kimi K3.1 Pro
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://codeberg.org/shitter/shitter">https://codeberg.org/shitter/shitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208343">https://news.ycombinator.com/item?id=50208343</a></p>
-<p>Points: 10</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.kimi.ai/blog/kimi-k3-1-pro">https://www.kimi.ai/blog/kimi-k3-1-pro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212246">https://news.ycombinator.com/item?id=50212246</a></p>
+<p>Points: 40</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://codeberg.org/shitter/shitter](https://codeberg.org/shitter/shitter)
+🔗 **Read more:** [https://www.kimi.ai/blog/kimi-k3-1-pro](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
 ---
 
-### 3. OpenSSL 4.1.0
+### 3. Kimi K3.1 Pro and K3.1 Pro Highspeed
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208099">https://news.ycombinator.com/item?id=50208099</a></p>
-<p>Points: 31</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models.html">https://www.kimi.com/code/docs/en/kimi-code/models.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212065">https://news.ycombinator.com/item?id=50212065</a></p>
+<p>Points: 129</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://github.com/openssl/openssl/releases/tag/openssl-4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models.html](https://www.kimi.com/code/docs/en/kimi-code/models.html)
 
 ---
 
@@ -71,68 +71,68 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 5. Watch: BBC presenter battles strong winds as storm hits Newquay
+### 5. Watch: Moment part of Brighton's historic West Pier collapses
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.
+Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Anti-terror police investigate as one person killed in shooting near Paris
+### 6. Deadly shooting near Paris investigated as 'crime of terrorism', minister says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.
+One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hundreds to defy Palestine Action ban in protest at US embassy in London
+### 7. Many feared trapped after Kenya building collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group&#039;s &#039;terrorist&#039; proscription.
+Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss](https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss)
 
 ---
 
-### 8. NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says
+### 8. Indonesia seizes more than a tonne of ketamine from tanker
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday&#039;s protests ​are expected.
+Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss)
 
 ---
 
-### 9. Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?
+### 9. Brazil’s right has already changed the balance of power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.
+Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss)
 
 ---
 

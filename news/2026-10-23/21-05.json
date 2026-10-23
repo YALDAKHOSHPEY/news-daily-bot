@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T21:05:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Time Nuts",
+            "description": "<p>Article URL: <a href=\"http://leapsecond.com/time-nuts.htm\">http://leapsecond.com/time-nuts.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212281\">https://news.ycombinator.com/item?id=50212281</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "http://leapsecond.com/time-nuts.htm",
+            "published": "Fri, 23 Oct 2026 17:12:51 +0000",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kimi K3.1 Pro",
+            "description": "<p>Article URL: <a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\">https://www.kimi.ai/blog/kimi-k3-1-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212246\">https://news.ycombinator.com/item?id=50212246</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
+            "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+            "published": "Fri, 23 Oct 2026 17:10:27 +0000",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+            "description": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models.html\">https://www.kimi.com/code/docs/en/kimi-code/models.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212065\">https://news.ycombinator.com/item?id=50212065</a></p>\n<p>Points: 129</p>\n<p># Comments: 43</p>",
+            "url": "https://www.kimi.com/code/docs/en/kimi-code/models.html",
+            "published": "Fri, 23 Oct 2026 16:59:08 +0000",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 15:35:28 GMT",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+            "description": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+            "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 13:03:29 GMT",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+            "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 16:17:02 GMT",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Many feared trapped after Kenya building collapse",
+            "description": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 17:01:05 +0000",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia seizes more than a tonne of ketamine from tanker",
+            "description": "Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 17:00:22 +0000",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s right has already changed the balance of power",
+            "description": "Bolsonaro’s party has strengthened its position in Congress, posing a formidable challenge to another Lula presidency.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 16:41:09 +0000",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T21:05:18+03:30"
+        }
+    ]
+}
