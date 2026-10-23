@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 15:46:16
+**Last Update:** 2026-10-23 17:09:22
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Swedish government offices to ban ChatGPT and Claude
+### 1. Phone Is About to Stop Being Yours: 70 Days Until Lockdown
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50207405">https://news.ycombinator.com/item?id=50207405</a></p>
-<p>Points: 18</p>
+<p>Article URL: <a href="https://keepandroidopen.org/">https://keepandroidopen.org/?</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208558">https://news.ycombinator.com/item?id=50208558</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://keepandroidopen.org/](https://keepandroidopen.org/)
+
+---
+
+### 2. Shitter – A Nitter Fork
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://codeberg.org/shitter/shitter">https://codeberg.org/shitter/shitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208343">https://news.ycombinator.com/item?id=50208343</a></p>
+<p>Points: 10</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://codeberg.org/shitter/shitter](https://codeberg.org/shitter/shitter)
+
+---
+
+### 3. OpenSSL 4.1.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208099">https://news.ycombinator.com/item?id=50208099</a></p>
+<p>Points: 31</p>
 <p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
-
----
-
-### 2. Is this the new cyber normal?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/">https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50207115">https://news.ycombinator.com/item?id=50207115</a></p>
-<p>Points: 45</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
-
----
-
-### 3. Dutch government had hacked into Jared Kushner's phone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/jaredkushner/status/2113376217415958767">https://twitter.com/jaredkushner/status/2113376217415958767</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50206914">https://news.ycombinator.com/item?id=50206914</a></p>
-<p>Points: 87</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://twitter.com/jaredkushner/status/2113376217415958767](https://twitter.com/jaredkushner/status/2113376217415958767)
+🔗 **Read more:** [https://github.com/openssl/openssl/releases/tag/openssl-4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 
 ---
 
@@ -84,59 +84,72 @@ BBC lead weather presenter Simon King is in Newquay as the "full force" of the s
 
 ---
 
-### 6. At least one dead and four injured in Paris suburb shooting
+### 6. Anti-terror police investigate as one person killed in shooting near Paris
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.
+French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US-Iran war, then and now: How the landscape has changed since February
+### 7. Hundreds to defy Palestine Action ban in protest at US embassy in London
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say.
+Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group&#039;s &#039;terrorist&#039; proscription.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss](https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss)
 
 ---
 
-### 8. Saudi Arabia security puts Asian Cup in doubt: Japan football chief
+### 8. NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tsuneyasu Miyamoto says it will be difficult for Saudi Arabia to host next year&#039;s tournament as scheduled.
+Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday&#039;s protests ​are expected.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss)
 
 ---
 
-### 9. ‘Pink blooms from among the rubble’: Battling breast cancer in Gaza
+### 9. Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Health workers in Gaza are participating in a breast cancer campaign called ‘pink blooms from among the rubble’.
+Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Agueda
+### 10. Hurricane Vance
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589)
+
+---
+
+### 11. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 12. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455)
-
----
-
-### 12. Wildfire COOLEY, Mendocino, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450)
 
 ---
 
