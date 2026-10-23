@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 10:12:58
+**Last Update:** 2026-10-23 11:16:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. This I Believe (1952)
+### 1. The same AI request emits 8.5 times more CO2 in Texas than in Sweden
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://berget.ai/en/blog/per-request-co2-press-release">https://berget.ai/en/blog/per-request-co2-press-release</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50205229">https://news.ycombinator.com/item?id=50205229</a></p>
+<p>Points: 59</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://berget.ai/en/blog/per-request-co2-press-release](https://berget.ai/en/blog/per-request-co2-press-release)
+
+---
+
+### 2. This I Believe (1952)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.awakin.org/v2/read/view.php?tid=468">https://www.awakin.org/v2/read/view.php?tid=468</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203759">https://news.ycombinator.com/item?id=50203759</a></p>
-<p>Points: 46</p>
-<p># Comments: 8</p>
+<p>Points: 61</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.awakin.org/v2/read/view.php?tid=468](https://www.awakin.org/v2/read/view.php?tid=468)
 
 ---
 
-### 2. The foolishness of "natural language programming" (1978)
+### 3. The foolishness of "natural language programming" (1978)
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 100</p>
-<p># Comments: 64</p>
+<p>Points: 127</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-
----
-
-### 3. Show HN: Making a smart TV dumb and then smart
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.<p>My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.<p>While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience.<p>It was liberating to finally free the TV of bloatware and make it truly personalized!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50202865">https://news.ycombinator.com/item?id=50202865</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/anubhavmalhotra/r2d2-tv](https://github.com/anubhavmalhotra/r2d2-tv)
 
 ---
 
@@ -85,7 +84,7 @@ Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no
 
 ---
 
-### 6. Musk has restored access to Ukraine's Starlink network, Trump says
+### 6. Trump says Musk has restored access to Ukraine's Starlink network
 
 **Source:** BBC
 
@@ -98,7 +97,33 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. How the midterms could change Trump’s presidency
+### 7. Europe needs a war economy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss)
+
+---
+
+### 8. Maradona death: Verdict in trial to be delivered on December 22
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The trial of seven healthcare professionals accused of negligence in Maradona&#039;s death concludes, December verdict set.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss)
+
+---
+
+### 9. How the midterms could change Trump’s presidency
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 Donald Trump isn&#039;t on the ballot this November, but the midterms could change the final two years of his presidency.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss)
-
----
-
-### 8. FIFA President Infantino’s re-election endorsed in U-turn by Asian football
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Support crucial from 47-nation AFC&#039;s president, who was critic of Gianni Infantino over failed private investment plan.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss)
-
----
-
-### 9. Manchester United labelled ‘babies’ by club legend Wayne Rooney
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Manchester United manager Michael Carrick is under growing pressure, but club legend Wayne Rooney takes aim at players.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss)
 
 ---
 

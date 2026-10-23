@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T11:16:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+            "description": "<p>Article URL: <a href=\"https://berget.ai/en/blog/per-request-co2-press-release\">https://berget.ai/en/blog/per-request-co2-press-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50205229\">https://news.ycombinator.com/item?id=50205229</a></p>\n<p>Points: 59</p>\n<p># Comments: 31</p>",
+            "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+            "published": "Fri, 23 Oct 2026 06:41:11 +0000",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "This I Believe (1952)",
+            "description": "<p>Article URL: <a href=\"https://www.awakin.org/v2/read/view.php?tid=468\">https://www.awakin.org/v2/read/view.php?tid=468</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203759\">https://news.ycombinator.com/item?id=50203759</a></p>\n<p>Points: 61</p>\n<p># Comments: 21</p>",
+            "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+            "published": "Fri, 23 Oct 2026 02:19:38 +0000",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The foolishness of \"natural language programming\" (1978)",
+            "description": "<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 127</p>\n<p># Comments: 76</p>",
+            "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+            "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+            "description": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+            "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 05:00:05 GMT",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+            "description": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+            "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 05:00:12 GMT",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+            "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+            "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe needs a war economy",
+            "description": "With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 07:08:10 +0000",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Maradona death: Verdict in trial to be delivered on December 22",
+            "description": "The trial of seven healthcare professionals accused of negligence in Maradona&#039;s death concludes, December verdict set.",
+            "url": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 06:55:21 +0000",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the midterms could change Trump’s presidency",
+            "description": "Donald Trump isn&#039;t on the ballot this November, but the midterms could change the final two years of his presidency.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 06:28:05 +0000",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T11:16:49+03:30"
+        }
+    ]
+}
