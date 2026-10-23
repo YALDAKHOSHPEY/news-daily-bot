@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 01:55:54
+**Last Update:** 2026-10-24 03:09:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. CVE Tracker
+### 1. German court calls Google aerial imagery 'spying'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+
+---
+
+### 2. CVE Tracker
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 62</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
 
 ---
 
-### 2. No Source Code? No Problem
+### 3. No Source Code? No Problem
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214994">https://news.ycombinator.com/item?id=50214994</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 23</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://queue.acm.org/doi/10.1145/945131.945155](https://queue.acm.org/doi/10.1145/945131.945155)
-
----
-
-### 3. A whirlwind tour of systemd-nspawn containers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214983">https://news.ycombinator.com/item?id=50214983</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 
 ---
 
@@ -97,7 +97,33 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 7. Masked gunmen kill seven in attack on church funeral in Jordan
+### 7. Kenya announces second Ebola death, says ‘no evidence’ of community spread
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss)
+
+---
+
+### 8. Why is Israel increasing its presence in the Balkans?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss)
+
+---
+
+### 9. Masked gunmen kill seven in attack on church funeral in Jordan
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss)
-
----
-
-### 8. ‘Generation Right’: Israeli youth show strong support for the right
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss)
-
----
-
-### 9. FCC Democrat warns broadcasters to resist Trump’s media pressure tactics
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC&#039;s claims of fake polls and news distortions.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss)
 
 ---
 
