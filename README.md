@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 00:17:13
+**Last Update:** 2026-10-24 01:55:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?
+### 1. CVE Tracker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks">https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214568">https://news.ycombinator.com/item?id=50214568</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks](https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks)
+🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
 
 ---
 
-### 2. Dessa: the most authentic full-duplex speech model ever built
+### 2. No Source Code? No Problem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://block.xyz/dessa">https://block.xyz/dessa</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50213925">https://news.ycombinator.com/item?id=50213925</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214994">https://news.ycombinator.com/item?id=50214994</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://block.xyz/dessa](https://block.xyz/dessa)
+🔗 **Read more:** [https://queue.acm.org/doi/10.1145/945131.945155](https://queue.acm.org/doi/10.1145/945131.945155)
 
 ---
 
-### 3. Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line
+### 3. A whirlwind tour of systemd-nspawn containers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/kimi-k3-1-pro">https://artificialanalysis.ai/models/kimi-k3-1-pro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50213337">https://news.ycombinator.com/item?id=50213337</a></p>
-<p>Points: 101</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214983">https://news.ycombinator.com/item?id=50214983</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/models/kimi-k3-1-pro](https://artificialanalysis.ai/models/kimi-k3-1-pro)
+🔗 **Read more:** [https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 
 ---
 
@@ -65,13 +65,26 @@
 **Category:** world
 
 **Description:**
-Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday.
+A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 5. Watch: Trees ripped up as Storm Austen batters Britain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 6. Meghan statement offers answers after years of questions about her relationship with father
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Today, without exactly using the word, Meghan claimed vindication.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Russia, Ukraine agree to Melania Trump-brokered localised ceasefire
+### 7. Masked gunmen kill seven in attack on church funeral in Jordan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.
+At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss)
 
 ---
 
-### 8. Trump’s broken promises: economy, war and ICE
+### 8. ‘Generation Right’: Israeli youth show strong support for the right
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.
+Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss](https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss)
 
 ---
 
-### 9. Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t
+### 9. FCC Democrat warns broadcasters to resist Trump’s media pressure tactics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia&#039;s Tigray capital.
+Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC&#039;s claims of fake polls and news distortions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss)
 
 ---
 
