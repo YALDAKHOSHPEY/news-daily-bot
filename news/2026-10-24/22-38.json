@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T22:38:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Danish Government silently drops plan to dump MS Office",
+            "description": "<p>Article URL: <a href=\"https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft\">https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50223844\">https://news.ycombinator.com/item?id=50223844</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+            "published": "Sat, 24 Oct 2026 18:31:48 +0000",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dream-1",
+            "description": "<p>Article URL: <a href=\"https://dreamlabs.ai/research/dream-1/\">https://dreamlabs.ai/research/dream-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50223785\">https://news.ycombinator.com/item?id=50223785</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://dreamlabs.ai/research/dream-1/",
+            "published": "Sat, 24 Oct 2026 18:23:24 +0000",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.aeh8870\">https://www.science.org/doi/10.1126/sciadv.aeh8870</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50223752\">https://news.ycombinator.com/item?id=50223752</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+            "published": "Sat, 24 Oct 2026 18:19:05 +0000",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+            "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+            "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 12:59:49 GMT",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+            "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 18:56:46 GMT",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Between quick wins and big dreams lies Burnham's biggest test",
+            "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:03:57 GMT",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands gather at new Albanian antigovernment rally",
+            "description": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 18:30:56 +0000",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+            "description": "Kim Jong Un crosses new bridge linking North Korea and China",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 18:00:20 +0000",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says he may move White House press corps to new location",
+            "description": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 17:01:34 +0000",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T22:38:53+03:30"
+        }
+    ]
+}

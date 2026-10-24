@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 21:45:40
+**Last Update:** 2026-10-24 22:38:53
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
+### 1. Danish Government silently drops plan to dump MS Office
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://de.numista.com/9866">https://de.numista.com/9866</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222927">https://news.ycombinator.com/item?id=50222927</a></p>
-<p>Points: 40</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft">https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50223844">https://news.ycombinator.com/item?id=50223844</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://de.numista.com/9866](https://de.numista.com/9866)
+🔗 **Read more:** [https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
 
 ---
 
-### 2. Roku developer repositories moved from GitHub to GitLab
+### 2. Dream-1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.roku.com/developer/gitlab-move">https://blog.roku.com/developer/gitlab-move</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222622">https://news.ycombinator.com/item?id=50222622</a></p>
-<p>Points: 124</p>
-<p># Comments: 73</p>
+<p>Article URL: <a href="https://dreamlabs.ai/research/dream-1/">https://dreamlabs.ai/research/dream-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50223785">https://news.ycombinator.com/item?id=50223785</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.roku.com/developer/gitlab-move](https://blog.roku.com/developer/gitlab-move)
+🔗 **Read more:** [https://dreamlabs.ai/research/dream-1/](https://dreamlabs.ai/research/dream-1/)
 
 ---
 
-### 3. Neural chip decodes interactions between brain regions
+### 3. Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/">https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222525">https://news.ycombinator.com/item?id=50222525</a></p>
-<p>Points: 43</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aeh8870">https://www.science.org/doi/10.1126/sciadv.aeh8870</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50223752">https://news.ycombinator.com/item?id=50223752</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
+🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.aeh8870](https://www.science.org/doi/10.1126/sciadv.aeh8870)
 
 ---
 
@@ -97,7 +97,20 @@ The prime minister might be dreaming of gold medals in 2040, but he must first n
 
 ---
 
-### 7. Kim Jong Un crosses new bridge linking North Korea and China
+### 7. Thousands gather at new Albanian antigovernment rally
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss)
+
+---
+
+### 8. Kim Jong Un crosses new bridge linking North Korea and China
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Kim Jong Un crosses new bridge linking North Korea and China
 
 ---
 
-### 8. Trump says he may move White House press corps to new location
+### 9. Trump says he may move White House press corps to new location
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Kim Jong Un crosses new bridge linking North Korea and China
 Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss)
-
----
-
-### 9. About 25,000 rally in Madrid in support of Spain’s state pension scheme
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss)
 
 ---
 
