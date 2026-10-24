@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T15:49:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+            "description": "<p>Article URL: <a href=\"https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/\">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220204\">https://news.ycombinator.com/item?id=50220204</a></p>\n<p>Points: 29</p>\n<p># Comments: 0</p>",
+            "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+            "published": "Sat, 24 Oct 2026 11:18:54 +0000",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+            "description": "<p>Article URL: <a href=\"https://gitlab.com/c4psu13/mali-pagecache-root\">https://gitlab.com/c4psu13/mali-pagecache-root</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220042\">https://news.ycombinator.com/item?id=50220042</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+            "published": "Sat, 24 Oct 2026 10:51:35 +0000",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Don't Understand Quantum Physics (2018)",
+            "description": "<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 95</p>\n<p># Comments: 59</p>",
+            "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+            "published": "Sat, 24 Oct 2026 09:53:26 +0000",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+            "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+            "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 12:10:04 GMT",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+            "description": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:00:48 GMT",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Between quick wins and big dreams lies Burnham's biggest test",
+            "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:03:57 GMT",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Czech Republic advances media funding overhaul despite criticism",
+            "description": "Journalists prepare to strike as politicians push through changes that critics say threaten independence.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 11:50:32 +0000",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democracy by ZIP Code: Two Americas, one election",
+            "description": "How can Americans living just miles apart experience completely different versions of the American dream?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 11:44:16 +0000",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+            "description": "No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 11:01:05 +0000",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T15:49:47+03:30"
+        }
+    ]
+}
