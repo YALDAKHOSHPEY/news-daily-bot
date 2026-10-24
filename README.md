@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 04:23:26
+**Last Update:** 2026-10-24 05:58:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Evolving Threat: http2shell is an RCE in node, Python, and more
+### 1. Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+
+---
+
+### 2. Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html">https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217587">https://news.ycombinator.com/item?id=50217587</a></p>
+<p>Points: 25</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)
+
+---
+
+### 3. Evolving Threat: http2shell is an RCE in node, Python, and more
 
 **Source:** Hacker News
 
@@ -19,59 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
+<p>Points: 91</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 
 ---
 
-### 2. German court calls Google aerial imagery 'spying'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
-
----
-
-### 3. CVE Tracker
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 85</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
-
----
-
-### 4. Storm Austen brings power cuts and travel disruption as more wind and rain forecast
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 6. Meghan statement offers answers after years of questions about her relationship with father
+### 5. Meghan statement offers answers after years of questions about her relationship with father
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ Today, without exactly using the word, Meghan claimed vindication.
 
 ---
 
-### 7. WHO announces start of Ebola vaccine clinical trial in DR Congo
+### 6. Deadly shooting near Paris is a 'racist terrorist attack', Macron says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Argentinian judge drops fraud investigation into Milei over crypto scandal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss)
+
+---
+
+### 8. Syrians protest Israel’s incursions near occupied Golan Heights
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss)
+
+---
+
+### 9. WHO announces start of Ebola vaccine clinical trial in DR Congo
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Today, without exactly using the word, Meghan claimed vindication.
 A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss)
-
----
-
-### 8. Iran war live: Israel launches ‘targeted’ Hebron operation after attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss)
-
----
-
-### 9. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss)
 
 ---
 
