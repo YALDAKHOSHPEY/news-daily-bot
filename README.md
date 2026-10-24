@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 22:38:53
+**Last Update:** 2026-10-25 00:30:45
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Danish Government silently drops plan to dump MS Office
+### 1. Steal My Bitcoin
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft">https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50223844">https://news.ycombinator.com/item?id=50223844</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://stealmybitcoin.com/">https://stealmybitcoin.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224916">https://news.ycombinator.com/item?id=50224916</a></p>
+<p>Points: 37</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
+🔗 **Read more:** [https://stealmybitcoin.com/](https://stealmybitcoin.com/)
 
 ---
 
-### 2. Dream-1
+### 2. No Signs of AI Payoff Outside the Tech Sector
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dreamlabs.ai/research/dream-1/">https://dreamlabs.ai/research/dream-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50223785">https://news.ycombinator.com/item?id=50223785</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224463">https://news.ycombinator.com/item?id=50224463</a></p>
+<p>Points: 199</p>
+<p># Comments: 154</p>
 
-🔗 **Read more:** [https://dreamlabs.ai/research/dream-1/](https://dreamlabs.ai/research/dream-1/)
+🔗 **Read more:** [https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
 ---
 
-### 3. Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology
+### 3. Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aeh8870">https://www.science.org/doi/10.1126/sciadv.aeh8870</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50223752">https://news.ycombinator.com/item?id=50223752</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://missileer.watch">https://missileer.watch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224422">https://news.ycombinator.com/item?id=50224422</a></p>
+<p>Points: 44</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.aeh8870](https://www.science.org/doi/10.1126/sciadv.aeh8870)
+🔗 **Read more:** [https://missileer.watch](https://missileer.watch)
 
 ---
 
-### 4. Met Police says letter with claims about Meghan's father not shared with other law enforcement
+### 4. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Met Police says letter with claims about Meghan's father not shared with other law enforcement
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The Met said it passed information to the duchess but did not share it with othe
 
 ---
 
-### 5. UK braces for worst of Storm Boelo as amber warnings due to come into force
+### 6. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 6. Between quick wins and big dreams lies Burnham's biggest test
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Thousands gather at new Albanian antigovernment rally
+### 7. Violent clashes as Albanian government cracks down on protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.
+Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss)
 
 ---
 
-### 8. Kim Jong Un crosses new bridge linking North Korea and China
+### 8. Could Israel’s military crackdown influence Tuesday’s election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kim Jong Un crosses new bridge linking North Korea and China
+Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss)
 
 ---
 
-### 9. Trump says he may move White House press corps to new location
+### 9. Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
+Gunners capitalise on City&#039;s first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss)
 
 ---
 
