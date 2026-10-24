@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 00:30:45
+**Last Update:** 2026-10-25 01:35:48
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://stealmybitcoin.com/">https://stealmybitcoin.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224916">https://news.ycombinator.com/item?id=50224916</a></p>
-<p>Points: 37</p>
-<p># Comments: 2</p>
+<p>Points: 175</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://stealmybitcoin.com/](https://stealmybitcoin.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224463">https://news.ycombinator.com/item?id=50224463</a></p>
-<p>Points: 199</p>
-<p># Comments: 154</p>
+<p>Points: 336</p>
+<p># Comments: 304</p>
 
 🔗 **Read more:** [https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://missileer.watch">https://missileer.watch</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224422">https://news.ycombinator.com/item?id=50224422</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
+<p>Points: 70</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://missileer.watch](https://missileer.watch)
 
 ---
 
-### 4. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
+### 4. Almost 1,000 arrested as clashes follow another day of mass protests across France
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Met Police says letter with claims about Meghan's father not shared with other law enforcement
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Met said it passed information to the duchess but did not share it with other law enforcement agencies.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 7. Violent clashes as Albanian government cracks down on protests
+### 7. Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.
+The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss)
 
 ---
 
-### 8. Could Israel’s military crackdown influence Tuesday’s election?
+### 8. Brazil’s candidates hold final rallies before knife-edge run off
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.
+Brazil’s candidates hold final rallies before knife-edge run off
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss)
 
 ---
 
-### 9. Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
+### 9. Iran blames US for deal failure, urges new try amid fear of new attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gunners capitalise on City&#039;s first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
+Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss)
 
 ---
 
