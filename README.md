@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 11:13:22
+**Last Update:** 2026-10-24 14:51:08
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. France prepares for day of protest a week after nationwide riots
+### 1. Node.js Vulnerability Blog
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nodejs.org/en/blog/vulnerability">https://nodejs.org/en/blog/vulnerability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220145">https://news.ycombinator.com/item?id=50220145</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nodejs.org/en/blog/vulnerability](https://nodejs.org/en/blog/vulnerability)
+
+---
+
+### 2. I Don't Understand Quantum Physics (2018)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219666">https://news.ycombinator.com/item?id=50219666</a></p>
+<p>Points: 77</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://www.southampton.ac.uk/~doug/quantum_physics/index.html](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+
+---
+
+### 3. Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219177">https://news.ycombinator.com/item?id=50219177</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+
+---
+
+### 4. Plan for Northern Olympics to get £7m in Healey's Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.
+The full feasibility study will look in detail at how hosting the Games in northern England could work.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Met investigates reports of letter detailing claims about Meghan's father
+### 5. Between quick wins and big dreams lies Burnham's biggest test
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".
+The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. UK to invest £100m in 'world first' AI Biosecurity Lab
+### 6. Mum dies after trying to rescue sons swept away at sea in Bahamas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
+The children were subsequently rescued from the water, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Man arrested after fire breaks out at Hitler’s former Alpine retreat
+### 7. German police detain suspect after fire engulfs Hitler’s Eagle’s Nest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.
+No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss)
 
 ---
 
-### 5. Displaced West Bank Palestinians face growing hunger after UN cuts food aid
+### 8. Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.
+Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss)
 
 ---
 
-### 6. North Korea’s Kim Jong Un arrives in China, South Korean media say
+### 9. Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The visit comes about a week after a major new bridge linking the two countries was officially opened.
+Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss)
 
 ---
 
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Hurricane Vance
+### 11. Hurricane Vance
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 12. Tropical Cyclone Agueda
 
 **Source:** NASA
 
