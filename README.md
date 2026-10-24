@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 05:58:01
+**Last Update:** 2026-10-24 09:35:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
+### 1. How close can pure functional programming get to C?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item?id=50218195</a></p>
+<p>Points: 34</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://rtfeldman.com/fp-vs-c](https://rtfeldman.com/fp-vs-c)
+
+---
+
+### 2. Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
 
 **Source:** Hacker News
 
@@ -19,120 +35,104 @@
 **Description:**
 <p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 63</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 
 ---
 
-### 2. Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax
+### 3. Password, Please: Border Searches of Laptops, Phones Up 32% This Year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html">https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217587">https://news.ycombinator.com/item?id=50217587</a></p>
-<p>Points: 25</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213">https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217600">https://news.ycombinator.com/item?id=50217600</a></p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html)
-
----
-
-### 3. Evolving Threat: http2shell is an RCE in node, Python, and more
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
-<p>Points: 91</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+🔗 **Read more:** [https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 
 ---
 
-### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 4. France prepares for day of protest a week after nationwide riots
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.
+More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meghan statement offers answers after years of questions about her relationship with father
+### 5. UK to invest £100m in 'world first' AI Biosecurity Lab
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Today, without exactly using the word, Meghan claimed vindication.
+The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Deadly shooting near Paris is a 'racist terrorist attack', Macron says
+### 6. Met investigates reports of letter detailing claims about Meghan's father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.
+Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Argentinian judge drops fraud investigation into Milei over crypto scandal
+### 7. How Benjamin Netanyahu reshaped Israel’s institutions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.
+As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss)
 
 ---
 
-### 8. Syrians protest Israel’s incursions near occupied Golan Heights
+### 8. Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.
+Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss)
 
 ---
 
-### 9. WHO announces start of Ebola vaccine clinical trial in DR Congo
+### 9. Lebanese sceptical Israeli polls will bring change, end occupation of south
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
+Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
 
 ---
 
