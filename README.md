@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 03:09:25
+**Last Update:** 2026-10-24 04:23:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. German court calls Google aerial imagery 'spying'
+### 1. Evolving Threat: http2shell is an RCE in node, Python, and more
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+
+---
+
+### 2. German court calls Google aerial imagery 'spying'
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
 
 ---
 
-### 2. CVE Tracker
+### 3. CVE Tracker
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 62</p>
-<p># Comments: 8</p>
+<p>Points: 85</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
-
----
-
-### 3. No Source Code? No Problem
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214994">https://news.ycombinator.com/item?id=50214994</a></p>
-<p>Points: 23</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://queue.acm.org/doi/10.1145/945131.945155](https://queue.acm.org/doi/10.1145/945131.945155)
 
 ---
 
@@ -71,20 +71,7 @@ A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and n
 
 ---
 
-### 5. Watch: Trees ripped up as Storm Austen batters Britain
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 7. Kenya announces second Ebola death, says ‘no evidence’ of community spread
+### 6. Meghan statement offers answers after years of questions about her relationship with father
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.
+Today, without exactly using the word, Meghan claimed vindication.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Why is Israel increasing its presence in the Balkans?
+### 7. WHO announces start of Ebola vaccine clinical trial in DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?
+A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss)
 
 ---
 
-### 9. Masked gunmen kill seven in attack on church funeral in Jordan
+### 8. Iran war live: Israel launches ‘targeted’ Hebron operation after attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
+Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss)
+
+---
+
+### 9. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss)
 
 ---
 
