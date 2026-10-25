@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 15:24:02
+**Last Update:** 2026-10-25 18:10:12
 
 **Total News:** 12
 
@@ -10,68 +10,55 @@
 
 ## 📰 Latest News
 
-### 1. fheroes2: A recreation of Heroes of Might and Magic II game engine
+### 1. Show HN: Farol – a risk map of a pull request for the person who approves it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ihhub/fheroes2">https://github.com/ihhub/fheroes2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230384">https://news.ycombinator.com/item?id=50230384</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/winnin/farol">https://github.com/winnin/farol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231349">https://news.ycombinator.com/item?id=50231349</a></p>
+<p>Points: 15</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://github.com/ihhub/fheroes2](https://github.com/ihhub/fheroes2)
+🔗 **Read more:** [https://github.com/winnin/farol](https://github.com/winnin/farol)
 
 ---
 
-### 2. Samsung running a TensorFlow lite model on 960x540 image to track you
+### 2. The Lego group reveals collaboration with Daft Punk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/mike64_t/status/2114150399406202896">https://twitter.com/mike64_t/status/2114150399406202896</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230181">https://news.ycombinator.com/item?id=50230181</a></p>
-<p>Points: 34</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk">https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231001">https://news.ycombinator.com/item?id=50231001</a></p>
+<p>Points: 29</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://twitter.com/mike64_t/status/2114150399406202896](https://twitter.com/mike64_t/status/2114150399406202896)
+🔗 **Read more:** [https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 
 ---
 
-### 3. France asked ISPs to prepare temporary DNS blocks for major social platforms
+### 3. Tool book of a Nuremberg knight from 1505
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ">https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50229861">https://news.ycombinator.com/item?id=50229861</a></p>
-<p>Points: 79</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://loeffelholz-codex.org/en/">https://loeffelholz-codex.org/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230917">https://news.ycombinator.com/item?id=50230917</a></p>
+<p>Points: 55</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)
-
----
-
-### 4. Meghan broke contact with father in letter citing abuse claims
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://loeffelholz-codex.org/en/](https://loeffelholz-codex.org/en/)
 
 ---
 
-### 5. Musk says SpaceX restricted Ukraine's Starlink connection as service restored
+### 4. Musk says SpaceX restricted Ukraine's Starlink connection as service restored
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The tech billionaire accuses Ukraine of violating its terms of service by using 
 
 ---
 
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 5. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?
+### 6. Couple were celebrating anniversary before Bahamas tragedy
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.
+Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide
+### 7. Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.
+Bangladesh expected to surpass India&#039;s per capita GDP this year, but that&#039;s not the complete economic picture.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss)
 
 ---
 
-### 9. Police in Albania filmed beating protester unconscious
+### 8. The search for gold is a dangerous and laborious gamble for Sudan’s miners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground.
+As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss](https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss)
+
+---
+
+### 9. Saudi air defences intercept Houthi barrage near Mecca
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen&#039;s Taiz.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss)
 
 ---
 

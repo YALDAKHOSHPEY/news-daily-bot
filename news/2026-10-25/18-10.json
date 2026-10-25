@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T18:10:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+            "description": "<p>Article URL: <a href=\"https://github.com/winnin/farol\">https://github.com/winnin/farol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50231349\">https://news.ycombinator.com/item?id=50231349</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/winnin/farol",
+            "published": "Sun, 25 Oct 2026 13:28:06 +0000",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Lego group reveals collaboration with Daft Punk",
+            "description": "<p>Article URL: <a href=\"https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk\">https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50231001\">https://news.ycombinator.com/item?id=50231001</a></p>\n<p>Points: 29</p>\n<p># Comments: 20</p>",
+            "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+            "published": "Sun, 25 Oct 2026 12:48:11 +0000",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tool book of a Nuremberg knight from 1505",
+            "description": "<p>Article URL: <a href=\"https://loeffelholz-codex.org/en/\">https://loeffelholz-codex.org/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50230917\">https://news.ycombinator.com/item?id=50230917</a></p>\n<p>Points: 55</p>\n<p># Comments: 11</p>",
+            "url": "https://loeffelholz-codex.org/en/",
+            "published": "Sun, 25 Oct 2026 12:37:54 +0000",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+            "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 09:00:00 GMT",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 12:11:23 GMT",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple were celebrating anniversary before Bahamas tragedy",
+            "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+            "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 14:38:51 GMT",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+            "description": "Bangladesh expected to surpass India&#039;s per capita GDP this year, but that&#039;s not the complete economic picture.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 14:11:29 +0000",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+            "description": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.",
+            "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 14:03:17 +0000",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi air defences intercept Houthi barrage near Mecca",
+            "description": "Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen&#039;s Taiz.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 13:49:33 +0000",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T18:10:12+03:30"
+        }
+    ]
+}
