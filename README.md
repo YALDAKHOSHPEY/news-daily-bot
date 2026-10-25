@@ -1,64 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 21:28:08
+**Last Update:** 2026-10-25 23:18:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I refuse to accept a censored Internet. Join Me at FOSDEM 27
+### 1. Dolly Parton's Imagination Library
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://talkweb.eu/openweb/4558/">https://talkweb.eu/openweb/4558/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233929">https://news.ycombinator.com/item?id=50233929</a></p>
-<p>Points: 49</p>
-<p># Comments: 2</p>
+<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234474">https://news.ycombinator.com/item?id=50234474</a></p>
+<p>Points: 116</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://talkweb.eu/openweb/4558/](https://talkweb.eu/openweb/4558/)
+🔗 **Read more:** [https://imaginationlibrary.com/](https://imaginationlibrary.com/)
 
 ---
 
-### 2. A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
+### 2. All you need is Wide Events, not "Metrics, Logs and Traces"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lynchlab.net/llm-skin-cancer">https://lynchlab.net/llm-skin-cancer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233779">https://news.ycombinator.com/item?id=50233779</a></p>
-<p>Points: 28</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://lynchlab.net/llm-skin-cancer](https://lynchlab.net/llm-skin-cancer)
-
----
-
-### 3. Sabre Wulf Remastered
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gp-64.com/swr/">https://gp-64.com/swr/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233775">https://news.ycombinator.com/item?id=50233775</a></p>
-<p>Points: 28</p>
+<p>Article URL: <a href="https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234329">https://news.ycombinator.com/item?id=50234329</a></p>
+<p>Points: 22</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://gp-64.com/swr/](https://gp-64.com/swr/)
+🔗 **Read more:** [https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 
 ---
 
-### 4. Burnham open to 'honest discussion' on EU free movement
+### 3. Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234232">https://news.ycombinator.com/item?id=50234232</a></p>
+<p>Points: 146</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+
+---
+
+### 4. Man killed by falling tree as Storm Boelo leaves 160,000 properties without power
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -71,68 +85,55 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 5. Couple were celebrating anniversary before Bahamas tragedy
+### 6. Letter making claims about Meghan's father written by his first wife, BBC understands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.
+Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the "disturbing allegations" in 2018.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Venezuelan opposition leader María Machado returns after months in exile
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Can protests in Europe bring about change?
+### 7. The narrative battle over France’s unrest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-People have been taking to the streets to demand action.
+Student protests, police violence and French media obsessed with &#039;barbarians&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss)
 
 ---
 
-### 8. AI’s ‘opportunity divide’ could deepen global inequality, UN official warns
+### 8. Iraqis mark seven years since Tishreen protests with reform demands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The deputy secretary-general of UN&#039;s ICT agency says unequal access to AI means poorer nations may be left behind.
+Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Israel expels thousands from Hebron
+### 9. Serbia voter turnout highest in decades as students oppose longtime leader
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jerusalem Daily: Israel expels thousands from Hebron
+Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss)
 
 ---
 
