@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 23:52:33
+**Last Update:** 2026-10-26 02:11:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Eunice is almost here (William Gibson, Agency)
+### 1. Serbia's Vucic concedes election defeat in historic win for student movement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://armincat.com/articles/eunice-is-almost-here">https://armincat.com/articles/eunice-is-almost-here</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235316">https://news.ycombinator.com/item?id=50235316</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236081">https://news.ycombinator.com/item?id=50236081</a></p>
+<p>Points: 101</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+
+---
+
+### 2. The State of Context Engineering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235780">https://news.ycombinator.com/item?id=50235780</a></p>
+<p>Points: 26</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://armincat.com/articles/eunice-is-almost-here](https://armincat.com/articles/eunice-is-almost-here)
+🔗 **Read more:** [https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 
 ---
 
-### 2. Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
+### 3. What goes into making an animated film?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/">https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235217">https://news.ycombinator.com/item?id=50235217</a></p>
-<p>Points: 37</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.disneyanimation.com/process/">https://www.disneyanimation.com/process/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235738">https://news.ycombinator.com/item?id=50235738</a></p>
+<p>Points: 46</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
-
----
-
-### 3. Why I Am a Programmer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.alfie.wtf/programming/why-i-am-a-programmer.html">https://www.alfie.wtf/programming/why-i-am-a-programmer.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235017">https://news.ycombinator.com/item?id=50235017</a></p>
-<p>Points: 5</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.alfie.wtf/programming/why-i-am-a-programmer.html](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
+🔗 **Read more:** [https://www.disneyanimation.com/process/](https://www.disneyanimation.com/process/)
 
 ---
 
-### 4. Man killed by falling tree as Storm Boelo leaves 160,000 properties without power
+### 4. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.
+An amber wind warning has now expired after severe weather sweeps across the UK.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham open to 'honest discussion' on EU free movement
+### 5. Serbia's veteran ruler Vučić concedes election to student-led protest movement
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 6. Letter making claims about Meghan's father written by his first wife, BBC understands
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the "disturbing allegations" in 2018.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Can Carrick survive Man United’s slump and Fernandes fallout?
+### 7. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
+National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss)
 
 ---
 
-### 8. Brazil election results 2026 live: Polls close in Lula, Bolsonaro face-off
+### 8. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.
+The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss)
 
 ---
 
-### 9. The narrative battle over France’s unrest
+### 9. Marine Le Pen launches French presidential campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protests, police violence and French media obsessed with &#039;barbarians&#039;.
+Marine Le Pen launches French presidential campaign
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss)
 
 ---
 
