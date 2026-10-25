@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 23:18:57
+**Last Update:** 2026-10-25 23:52:33
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dolly Parton's Imagination Library
+### 1. Eunice is almost here (William Gibson, Agency)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234474">https://news.ycombinator.com/item?id=50234474</a></p>
-<p>Points: 116</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://armincat.com/articles/eunice-is-almost-here">https://armincat.com/articles/eunice-is-almost-here</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235316">https://news.ycombinator.com/item?id=50235316</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://imaginationlibrary.com/](https://imaginationlibrary.com/)
+🔗 **Read more:** [https://armincat.com/articles/eunice-is-almost-here](https://armincat.com/articles/eunice-is-almost-here)
 
 ---
 
-### 2. All you need is Wide Events, not "Metrics, Logs and Traces"
+### 2. Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234329">https://news.ycombinator.com/item?id=50234329</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/">https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235217">https://news.ycombinator.com/item?id=50235217</a></p>
+<p>Points: 37</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
+🔗 **Read more:** [https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
 
 ---
 
-### 3. Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
+### 3. Why I Am a Programmer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234232">https://news.ycombinator.com/item?id=50234232</a></p>
-<p>Points: 146</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://www.alfie.wtf/programming/why-i-am-a-programmer.html">https://www.alfie.wtf/programming/why-i-am-a-programmer.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235017">https://news.ycombinator.com/item?id=50235017</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+🔗 **Read more:** [https://www.alfie.wtf/programming/why-i-am-a-programmer.html](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
 
 ---
 
@@ -98,7 +97,33 @@ Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan sa
 
 ---
 
-### 7. The narrative battle over France’s unrest
+### 7. Can Carrick survive Man United’s slump and Fernandes fallout?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss)
+
+---
+
+### 8. Brazil election results 2026 live: Polls close in Lula, Bolsonaro face-off
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss)
+
+---
+
+### 9. The narrative battle over France’s unrest
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan sa
 Student protests, police violence and French media obsessed with &#039;barbarians&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss)
-
----
-
-### 8. Iraqis mark seven years since Tishreen protests with reform demands
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss)
-
----
-
-### 9. Serbia voter turnout highest in decades as students oppose longtime leader
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss)
 
 ---
 

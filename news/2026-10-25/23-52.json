@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T23:52:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Eunice is almost here (William Gibson, Agency)",
+            "description": "<p>Article URL: <a href=\"https://armincat.com/articles/eunice-is-almost-here\">https://armincat.com/articles/eunice-is-almost-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235316\">https://news.ycombinator.com/item?id=50235316</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://armincat.com/articles/eunice-is-almost-here",
+            "published": "Sun, 25 Oct 2026 19:40:27 +0000",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/\">https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235217\">https://news.ycombinator.com/item?id=50235217</a></p>\n<p>Points: 37</p>\n<p># Comments: 0</p>",
+            "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+            "published": "Sun, 25 Oct 2026 19:29:16 +0000",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why I Am a Programmer",
+            "description": "<p>Article URL: <a href=\"https://www.alfie.wtf/programming/why-i-am-a-programmer.html\">https://www.alfie.wtf/programming/why-i-am-a-programmer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235017\">https://news.ycombinator.com/item?id=50235017</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+            "published": "Sun, 25 Oct 2026 19:11:31 +0000",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+            "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 20:08:09 GMT",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 12:11:23 GMT",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+            "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+            "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 18:38:17 GMT",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+            "description": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
+            "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 20:01:00 +0000",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil election results 2026 live: Polls close in Lula, Bolsonaro face-off",
+            "description": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 20:00:04 +0000",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The narrative battle over France’s unrest",
+            "description": "Student protests, police violence and French media obsessed with &#039;barbarians&#039;.",
+            "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 19:36:14 +0000",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T23:52:33+03:30"
+        }
+    ]
+}
