@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 08:59:32
+**Last Update:** 2026-10-25 09:58:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/slee-persis/GVS5H">https://github.com/slee-persis/GVS5H</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50228167">https://news.ycombinator.com/item?id=50228167</a></p>
-<p>Points: 68</p>
-<p># Comments: 16</p>
+<p>Points: 114</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://github.com/slee-persis/GVS5H](https://github.com/slee-persis/GVS5H)
 
 ---
 
-### 2. Xbox Turns Down Netflix $500M Offer
+### 2. Meta employees say Lula’s accounts restricted in Brazil election: Report
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/">https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227892">https://news.ycombinator.com/item?id=50227892</a></p>
-<p>Points: 68</p>
-<p># Comments: 80</p>
+<p>Article URL: <a href="https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report">https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227639">https://news.ycombinator.com/item?id=50227639</a></p>
+<p>Points: 121</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
 
 ---
 
-### 3. Attention people who think UB is fine
+### 3. Cerebras Deploys Trillion-Parameter AI Models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html">https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227814">https://news.ycombinator.com/item?id=50227814</a></p>
-<p>Points: 9</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227356">https://news.ycombinator.com/item?id=50227356</a></p>
+<p>Points: 84</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
+🔗 **Read more:** [https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 
 ---
 
@@ -97,42 +97,42 @@ The PM said he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. Serbia votes in election pitting longtime leader against student movement
+### 7. Nigeria’s missing: Families in the northeast still wait for answers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polls show populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement.
+People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss)
 
 ---
 
-### 8. Obama joins El-Sayed in Michigan rally cry before key midterms
+### 8. Election posters, mass tourism and property: Israel’s footprint in Cyprus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.
+Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss](https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss)
 
 ---
 
-### 9. New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors
+### 9. Bots, deepfakes and surveillance: Israel’s election goes to war online
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.
+Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss)
 
 ---
 
