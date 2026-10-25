@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 18:10:12
+**Last Update:** 2026-10-25 20:08:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Farol – a risk map of a pull request for the person who approves it
+### 1. Show HN: I put employees inside S&P 500 market-cap bubbles
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bigwhalehunting.com/workforce/">https://bigwhalehunting.com/workforce/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232312">https://news.ycombinator.com/item?id=50232312</a></p>
+<p>Points: 71</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://bigwhalehunting.com/workforce/](https://bigwhalehunting.com/workforce/)
+
+---
+
+### 2. A few thoughts on intensity
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/">https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232035">https://news.ycombinator.com/item?id=50232035</a></p>
+<p>Points: 26</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
+
+---
+
+### 3. Show HN: Farol – a risk map of a pull request for the person who approves it
 
 **Source:** Hacker News
 
@@ -19,59 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/winnin/farol">https://github.com/winnin/farol</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231349">https://news.ycombinator.com/item?id=50231349</a></p>
-<p>Points: 15</p>
-<p># Comments: 7</p>
+<p>Points: 46</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://github.com/winnin/farol](https://github.com/winnin/farol)
 
 ---
 
-### 2. The Lego group reveals collaboration with Daft Punk
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk">https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231001">https://news.ycombinator.com/item?id=50231001</a></p>
-<p>Points: 29</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
-
----
-
-### 3. Tool book of a Nuremberg knight from 1505
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://loeffelholz-codex.org/en/">https://loeffelholz-codex.org/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230917">https://news.ycombinator.com/item?id=50230917</a></p>
-<p>Points: 55</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://loeffelholz-codex.org/en/](https://loeffelholz-codex.org/en/)
-
----
-
-### 4. Musk says SpaceX restricted Ukraine's Starlink connection as service restored
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Burnham open to 'honest discussion' on EU free movement
+### 4. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 6. Couple were celebrating anniversary before Bahamas tragedy
+### 5. Couple were celebrating anniversary before Bahamas tragedy
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons
 
 ---
 
-### 7. Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?
+### 6. Venezuelan opposition leader María Machado returns after months in exile
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Bangladesh expected to surpass India&#039;s per capita GDP this year, but that&#039;s not the complete economic picture.
+Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. The search for gold is a dangerous and laborious gamble for Sudan’s miners
+### 7. Israel’s ‘Generation Right’ could shape Netanyahu’s future
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.
+The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss](https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss)
 
 ---
 
-### 9. Saudi air defences intercept Houthi barrage near Mecca
+### 8. Barcelona vs Real Madrid LIVE: La Liga El Clasico
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen&#039;s Taiz.
+Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss)
+
+---
+
+### 9. Jordanians mourn victims of deadly church attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jordanians mourn victims of deadly church attack
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss)
 
 ---
 
