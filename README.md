@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 02:11:30
+**Last Update:** 2026-10-26 02:24:53
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -84,20 +84,33 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 6. Funding set to double for plan to get rough sleepers off streets by Christmas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM says he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.
+Burnham made ending rough sleeping his first pledge when entering Downing Street in July.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
+### 7. Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona&#039;s first domestic defeat of the campaign.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss)
+
+---
+
+### 8. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ National Rally&#039;s Le Pen launches presidential campaign against backdrop of 
 
 ---
 
-### 8. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
+### 9. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ National Rally&#039;s Le Pen launches presidential campaign against backdrop of 
 The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss)
-
----
-
-### 9. Marine Le Pen launches French presidential campaign
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Marine Le Pen launches French presidential campaign
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss)
 
 ---
 
