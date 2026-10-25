@@ -1,16 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 04:10:22
+**Last Update:** 2026-10-25 04:56:03
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Almost 1,000 arrested as clashes follow another day of mass protests across France
+### 1. Tailworm – Tailscale Vulnerabilities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tailworm.com/">https://tailworm.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227138">https://news.ycombinator.com/item?id=50227138</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://tailworm.com/](https://tailworm.com/)
+
+---
+
+### 2. Ask HN: Why a Great Product Won't Succeed Without a Community
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I'm really tired, fed up, and angry. You can create the best product in the world, but people always choose what their favorite influencers tell them to.  People don’t make their own decisions anymore; they always think whatever they’re told to think. It’s really frustrating to try to create something good—something better than what others are doing. And I’ve realized one thing: to achieve success, it’s better to have a community that follows you than to have a great product. If you want to launch a good product, you’re better off building a community first—it’ll make everything easier and faster. I don’t care what you think of this post—I just want to say what I feel.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227131">https://news.ycombinator.com/item?id=50227131</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50227131](https://news.ycombinator.com/item?id=50227131)
+
+---
+
+### 3. FindMyWeb: Apple Find My, reverse enginiered
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://codeberg.org/Misom/FindMyWeb">https://codeberg.org/Misom/FindMyWeb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226646">https://news.ycombinator.com/item?id=50226646</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://codeberg.org/Misom/FindMyWeb](https://codeberg.org/Misom/FindMyWeb)
+
+---
+
+### 4. Almost 1,000 arrested as clashes follow another day of mass protests across France
 
 **Source:** BBC
 
@@ -23,7 +72,7 @@ Officials have so far managed to avoid a repeat of last weekend's rioting and lo
 
 ---
 
-### 2. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
+### 5. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
 
 **Source:** BBC
 
@@ -36,7 +85,7 @@ Europe correspondent Nick Beake reports from Paris where mostly peaceful protest
 
 ---
 
-### 3. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
+### 6. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
 
 **Source:** BBC
 
@@ -49,7 +98,20 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 4. Violence breaks out across Europe after another day of protests
+### 7. Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss)
+
+---
+
+### 8. Violence breaks out across Europe after another day of protests
 
 **Source:** Al Jazeera
 
@@ -62,7 +124,7 @@ Police clashed with demonstrators in France, Italy and Spain over rising living 
 
 ---
 
-### 5. Iran war live: Trump hints at possible Sunday Iran attack or deal reached
+### 9. Iran war live: Trump hints at possible Sunday Iran attack or deal reached
 
 **Source:** Al Jazeera
 
@@ -75,20 +137,7 @@ Trump says US is considering a possible attack on Iran as soon as Sunday, or it 
 
 ---
 
-### 6. Trump lauds Melania over Russia-Ukraine localised ceasefire deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Donald Trump praised First Lady as &#039;better than professionals&#039; after a localised Russia-Ukraine ceasefire in Oleshky.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss)
-
----
-
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Hurricane Vance
+### 11. Hurricane Vance
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 12. Tropical Cyclone Agueda
 
 **Source:** NASA
 
