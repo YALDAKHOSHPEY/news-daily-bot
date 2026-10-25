@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 20:08:16
+**Last Update:** 2026-10-25 21:28:08
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Show HN: I put employees inside S&P 500 market-cap bubbles
+### 1. I refuse to accept a censored Internet. Join Me at FOSDEM 27
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bigwhalehunting.com/workforce/">https://bigwhalehunting.com/workforce/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232312">https://news.ycombinator.com/item?id=50232312</a></p>
-<p>Points: 71</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://talkweb.eu/openweb/4558/">https://talkweb.eu/openweb/4558/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233929">https://news.ycombinator.com/item?id=50233929</a></p>
+<p>Points: 49</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://bigwhalehunting.com/workforce/](https://bigwhalehunting.com/workforce/)
+🔗 **Read more:** [https://talkweb.eu/openweb/4558/](https://talkweb.eu/openweb/4558/)
 
 ---
 
-### 2. A few thoughts on intensity
+### 2. A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/">https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50232035">https://news.ycombinator.com/item?id=50232035</a></p>
-<p>Points: 26</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://lynchlab.net/llm-skin-cancer">https://lynchlab.net/llm-skin-cancer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233779">https://news.ycombinator.com/item?id=50233779</a></p>
+<p>Points: 28</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/](https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/)
+🔗 **Read more:** [https://lynchlab.net/llm-skin-cancer](https://lynchlab.net/llm-skin-cancer)
 
 ---
 
-### 3. Show HN: Farol – a risk map of a pull request for the person who approves it
+### 3. Sabre Wulf Remastered
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/winnin/farol">https://github.com/winnin/farol</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231349">https://news.ycombinator.com/item?id=50231349</a></p>
-<p>Points: 46</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://gp-64.com/swr/">https://gp-64.com/swr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50233775">https://news.ycombinator.com/item?id=50233775</a></p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/winnin/farol](https://github.com/winnin/farol)
+🔗 **Read more:** [https://gp-64.com/swr/](https://gp-64.com/swr/)
 
 ---
 
@@ -97,42 +97,42 @@ Machado had left the country just a month before the US government seized Venezu
 
 ---
 
-### 7. Israel’s ‘Generation Right’ could shape Netanyahu’s future
+### 7. Can protests in Europe bring about change?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
+People have been taking to the streets to demand action.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss)
 
 ---
 
-### 8. Barcelona vs Real Madrid LIVE: La Liga El Clasico
+### 8. AI’s ‘opportunity divide’ could deepen global inequality, UN official warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.
+The deputy secretary-general of UN&#039;s ICT agency says unequal access to AI means poorer nations may be left behind.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss)
 
 ---
 
-### 9. Jordanians mourn victims of deadly church attack
+### 9. Jerusalem Daily: Israel expels thousands from Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordanians mourn victims of deadly church attack
+Jerusalem Daily: Israel expels thousands from Hebron
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss)
 
 ---
 
