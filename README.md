@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 21:22:25
+**Last Update:** 2026-10-26 23:32:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems
+### 1. The EPA Is Quietly Killing Its Web Archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/">https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50247630">https://news.ycombinator.com/item?id=50247630</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50249275">https://news.ycombinator.com/item?id=50249275</a></p>
+<p>Points: 45</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+🔗 **Read more:** [https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
 
 ---
 
-### 2. The Git Forge for Agent-Human Collaboration
+### 2. US designates helium as a critical material
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://entire.com/blog/the-git-forge-for-agent-human-collaboration">https://entire.com/blog/the-git-forge-for-agent-human-collaboration</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50247453">https://news.ycombinator.com/item?id=50247453</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248665">https://news.ycombinator.com/item?id=50248665</a></p>
+<p>Points: 69</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://entire.com/blog/the-git-forge-for-agent-human-collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
+🔗 **Read more:** [https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 
 ---
 
-### 3. Concerning behavior from a popular open-weight AI model
+### 3. Microsoft Announces Type Server Protocol, Extension of Language Server Protocol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50246658">https://news.ycombinator.com/item?id=50246658</a></p>
-<p>Points: 42</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248371">https://news.ycombinator.com/item?id=50248371</a></p>
+<p>Points: 84</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
+🔗 **Read more:** [https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 
 ---
 
@@ -97,42 +97,42 @@ Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds i
 
 ---
 
-### 7. Britain sanctions Sudanese commanders over weaponised rape
+### 7. 80 injured after bus plunges down embankment near Barcelona
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.
+80 injured after bus plunges down embankment near Barcelona
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss)
 
 ---
 
-### 8. Russian attacks on Ukraine’s energy infrastructure a war crime: UN
+### 8. Jordan arrests three suspects over deadly church attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines.
+Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss)
 
 ---
 
-### 9. Ballon d’Or 2026 award ceremony LIVE: Winners, reactions and latest news
+### 9. Trump faces private citizens lawsuit over limiting White House media access
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from the 2026 Ballon d&#039;Or ceremony as the world&#039;s best male and female footballers are crowned.
+The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss)
 
 ---
 
