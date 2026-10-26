@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 01:34:17
+**Last Update:** 2026-10-27 03:27:32
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Working with academic communities to build scientific understanding
+### 1. Just Imagining a Workout Can Make You Stronger
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">https://openai.com/index/building-scientific-understanding-with-academic-communities/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251344">https://news.ycombinator.com/item?id=50251344</a></p>
-<p>Points: 30</p>
+<p>Article URL: <a href="https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068">https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252457">https://news.ycombinator.com/item?id=50252457</a></p>
+<p>Points: 31</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+
+---
+
+### 2. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
+<p>Points: 33</p>
 <p># Comments: 6</p>
 
-🔗 **Read more:** [https://openai.com/index/building-scientific-understanding-with-academic-communities/](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 
 ---
 
-### 2. CorridorKey 2.0
+### 3. The Exponential Time Hypothesis Is False [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://corridorkey.com/">https://corridorkey.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251127">https://news.ycombinator.com/item?id=50251127</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251661">https://news.ycombinator.com/item?id=50251661</a></p>
+<p>Points: 124</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://corridorkey.com/](https://corridorkey.com/)
-
----
-
-### 3. Microsoft offers voluntary buyouts to a quarter of its workforce
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50250937">https://news.ycombinator.com/item?id=50250937</a></p>
-<p>Points: 73</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
+🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
 
 ---
 
-### 4. Independent review announced into murder of student Henry Nowak
+### 4. Chris Mason: The Budget is imminent as tricky things pile up for Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"We must get to truth of what happened before, during and after that awful night," the home secretary says while announcing the review.
+From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Israel and the US are both going to the polls - the consequences will be global
+### 5. Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Israel and the US are both going to the polls - the consequences will be global
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The next fortnight sees two elections on different continents. The outcomes will
 
 ---
 
-### 6. Drivers who killed mum and girl while racing jailed
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Africa food security under threat due to Iran war, trade officials warn
+### 7. Jordan attacks Syria in response to Karak church attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
+Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss)
 
 ---
 
-### 8. What will Lula’s fourth term mean for Brazil?
+### 8. England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?
+Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss)
 
 ---
 
-### 9. US court rules daughter of Trump critic James Comey was illegally fired
+### 9. Mass brawl between Galatasaray and Fenerbahce after Istanbul derby
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump&#039;s ire.
+A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss)
 
 ---
 
