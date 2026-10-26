@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 02:24:53
+**Last Update:** 2026-10-26 04:21:00
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Serbia's Vucic concedes election defeat in historic win for student movement
+### 1. Lula wins election after final votes tallied
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236081">https://news.ycombinator.com/item?id=50236081</a></p>
-<p>Points: 101</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237485">https://news.ycombinator.com/item?id=50237485</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+🔗 **Read more:** [https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
 
 ---
 
-### 2. The State of Context Engineering
+### 2. Lula Wins Brazilian Election
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235780">https://news.ycombinator.com/item?id=50235780</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados">https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237426">https://news.ycombinator.com/item?id=50237426</a></p>
+<p>Points: 45</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+🔗 **Read more:** [https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)
 
 ---
 
-### 3. What goes into making an animated film?
+### 3. F-Zero X on Nintendo 3DS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.disneyanimation.com/process/">https://www.disneyanimation.com/process/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235738">https://news.ycombinator.com/item?id=50235738</a></p>
-<p>Points: 46</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237078">https://news.ycombinator.com/item?id=50237078</a></p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.disneyanimation.com/process/](https://www.disneyanimation.com/process/)
+🔗 **Read more:** [https://hypnotize.works/gdx-3ds/postmortem/index.html](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 
 ---
 
@@ -97,42 +97,42 @@ Burnham made ending rough sleeping his first pledge when entering Downing Street
 
 ---
 
-### 7. Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders
+### 7. Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona&#039;s first domestic defeat of the campaign.
+Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss)
 
 ---
 
-### 8. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
+### 8. Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
+Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss)
 
 ---
 
-### 9. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
+### 9. Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
+Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss)
 
 ---
 
