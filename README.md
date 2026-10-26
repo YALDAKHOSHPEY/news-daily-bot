@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 04:55:46
+**Last Update:** 2026-10-26 09:04:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lula wins election after final votes tallied
+### 1. Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237485">https://news.ycombinator.com/item?id=50237485</a></p>
-<p>Points: 97</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://proc-cli.com/">https://proc-cli.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239041">https://news.ycombinator.com/item?id=50239041</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+🔗 **Read more:** [https://proc-cli.com/](https://proc-cli.com/)
 
 ---
 
-### 2. Attention Is Not What You Need
+### 2. US Wages Share of GDI at 75 Year Low
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2512.19428">https://arxiv.org/abs/2512.19428</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237224">https://news.ycombinator.com/item?id=50237224</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://fred.stlouisfed.org/series/W270RE1A156NBEA">https://fred.stlouisfed.org/series/W270RE1A156NBEA</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238884">https://news.ycombinator.com/item?id=50238884</a></p>
+<p>Points: 98</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2512.19428](https://arxiv.org/abs/2512.19428)
+🔗 **Read more:** [https://fred.stlouisfed.org/series/W270RE1A156NBEA](https://fred.stlouisfed.org/series/W270RE1A156NBEA)
 
 ---
 
-### 3. F-Zero X on Nintendo 3DS
+### 3. Behind the scenes at the NeXT Computer office
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237078">https://news.ycombinator.com/item?id=50237078</a></p>
+<p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238763">https://news.ycombinator.com/item?id=50238763</a></p>
 <p>Points: 34</p>
-<p># Comments: 13</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://hypnotize.works/gdx-3ds/postmortem/index.html](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+🔗 **Read more:** [https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
 ---
 
-### 4. Lula wins fourth term in Brazil but faces hostile Congress and divided country
+### 4. Watch: How Lula turned it around to beat former president's son
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.
+Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
+### 5. Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 7. Netanyahu rival Eisenkot holds final rally before Israeli election
+### 7. The Gambia’s first blind magistrate tests a system built for the sighted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.
+For a decade, Muhammed Krubally has shown what is possible and what still needs to change.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss)
 
 ---
 
-### 8. Serbia celebrates historic election win for student-backed movement
+### 8. Israel’s election: Five key things to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory
+Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss)
 
 ---
 
-### 9. Lula holds off far right with victory in Brazil presidential election
+### 9. Social video captures moment Brazil’s election turned
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.
+Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss)
 
 ---
 
