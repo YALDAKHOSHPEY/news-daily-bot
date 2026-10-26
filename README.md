@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 09:04:28
+**Last Update:** 2026-10-26 10:06:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://proc-cli.com/">https://proc-cli.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239041">https://news.ycombinator.com/item?id=50239041</a></p>
-<p>Points: 3</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://proc-cli.com/](https://proc-cli.com/)
 
 ---
 
-### 2. US Wages Share of GDI at 75 Year Low
+### 2. Cognitive Mercantilism: AI panic resembles fears of early capitalism
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fred.stlouisfed.org/series/W270RE1A156NBEA">https://fred.stlouisfed.org/series/W270RE1A156NBEA</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238884">https://news.ycombinator.com/item?id=50238884</a></p>
-<p>Points: 98</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239027">https://news.ycombinator.com/item?id=50239027</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://fred.stlouisfed.org/series/W270RE1A156NBEA](https://fred.stlouisfed.org/series/W270RE1A156NBEA)
+🔗 **Read more:** [https://contraptions.venkateshrao.com/p/cognitive-mercantilism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238763">https://news.ycombinator.com/item?id=50238763</a></p>
-<p>Points: 34</p>
-<p># Comments: 17</p>
+<p>Points: 58</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
@@ -84,55 +84,55 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 6. Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement
+### 6. Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+The rugby league star is "gold dust" and "should have been Sir Kevin years ago," says the Prince of Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The Gambia’s first blind magistrate tests a system built for the sighted
+### 7. The French government is hiding behind a ‘riots’ narrative
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For a decade, Muhammed Krubally has shown what is possible and what still needs to change.
+It is much easier to fearmonger and try to delegitimise the protests than to address students&#039; demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss)
 
 ---
 
-### 8. Israel’s election: Five key things to know
+### 8. China’s political elite gather for talks on Communist Party discipline
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.
+The four-day meeting is being watched closely for clues as to the country&#039;s direction and future leadership.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss)
 
 ---
 
-### 9. Social video captures moment Brazil’s election turned
+### 9. Aleksandar Vucic, the Serbian leader brought down by students
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing
+Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss)
 
 ---
 
