@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T01:34:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Working with academic communities to build scientific understanding",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/building-scientific-understanding-with-academic-communities/\">https://openai.com/index/building-scientific-understanding-with-academic-communities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251344\">https://news.ycombinator.com/item?id=50251344</a></p>\n<p>Points: 30</p>\n<p># Comments: 6</p>",
+            "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+            "published": "Mon, 26 Oct 2026 21:35:28 +0000",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CorridorKey 2.0",
+            "description": "<p>Article URL: <a href=\"https://corridorkey.com/\">https://corridorkey.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251127\">https://news.ycombinator.com/item?id=50251127</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://corridorkey.com/",
+            "published": "Mon, 26 Oct 2026 21:18:05 +0000",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+            "description": "<p>Article URL: <a href=\"https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce\">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50250937\">https://news.ycombinator.com/item?id=50250937</a></p>\n<p>Points: 73</p>\n<p># Comments: 44</p>",
+            "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+            "published": "Mon, 26 Oct 2026 21:05:15 +0000",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Independent review announced into murder of student Henry Nowak",
+            "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+            "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:15:16 GMT",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel and the US are both going to the polls - the consequences will be global",
+            "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+            "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:30:34 GMT",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drivers who killed mum and girl while racing jailed",
+            "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 15:39:39 GMT",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Africa food security under threat due to Iran war, trade officials warn",
+            "description": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 21:42:18 +0000",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What will Lula’s fourth term mean for Brazil?",
+            "description": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 20:55:47 +0000",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+            "description": "Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump&#039;s ire.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 20:55:37 +0000",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T01:34:17+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 23:32:30
+**Last Update:** 2026-10-27 01:34:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The EPA Is Quietly Killing Its Web Archive
+### 1. Working with academic communities to build scientific understanding
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50249275">https://news.ycombinator.com/item?id=50249275</a></p>
-<p>Points: 45</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">https://openai.com/index/building-scientific-understanding-with-academic-communities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251344">https://news.ycombinator.com/item?id=50251344</a></p>
+<p>Points: 30</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
+🔗 **Read more:** [https://openai.com/index/building-scientific-understanding-with-academic-communities/](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 
 ---
 
-### 2. US designates helium as a critical material
+### 2. CorridorKey 2.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248665">https://news.ycombinator.com/item?id=50248665</a></p>
-<p>Points: 69</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://corridorkey.com/">https://corridorkey.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251127">https://news.ycombinator.com/item?id=50251127</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
+🔗 **Read more:** [https://corridorkey.com/](https://corridorkey.com/)
 
 ---
 
-### 3. Microsoft Announces Type Server Protocol, Extension of Language Server Protocol
+### 3. Microsoft offers voluntary buyouts to a quarter of its workforce
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248371">https://news.ycombinator.com/item?id=50248371</a></p>
-<p>Points: 84</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce">https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50250937">https://news.ycombinator.com/item?id=50250937</a></p>
+<p>Points: 73</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+🔗 **Read more:** [https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce](https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce)
 
 ---
 
@@ -97,42 +97,42 @@ Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds i
 
 ---
 
-### 7. 80 injured after bus plunges down embankment near Barcelona
+### 7. Africa food security under threat due to Iran war, trade officials warn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-80 injured after bus plunges down embankment near Barcelona
+The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss)
 
 ---
 
-### 8. Jordan arrests three suspects over deadly church attack
+### 8. What will Lula’s fourth term mean for Brazil?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.
+Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss)
 
 ---
 
-### 9. Trump faces private citizens lawsuit over limiting White House media access
+### 9. US court rules daughter of Trump critic James Comey was illegally fired
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.
+Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump&#039;s ire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss)
 
 ---
 
