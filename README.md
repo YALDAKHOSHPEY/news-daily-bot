@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 04:21:00
+**Last Update:** 2026-10-26 04:55:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237485">https://news.ycombinator.com/item?id=50237485</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
+<p>Points: 97</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
 
 ---
 
-### 2. Lula Wins Brazilian Election
+### 2. Attention Is Not What You Need
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados">https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237426">https://news.ycombinator.com/item?id=50237426</a></p>
-<p>Points: 45</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2512.19428">https://arxiv.org/abs/2512.19428</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237224">https://news.ycombinator.com/item?id=50237224</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)
+🔗 **Read more:** [https://arxiv.org/abs/2512.19428](https://arxiv.org/abs/2512.19428)
 
 ---
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237078">https://news.ycombinator.com/item?id=50237078</a></p>
-<p>Points: 24</p>
-<p># Comments: 5</p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://hypnotize.works/gdx-3ds/postmortem/index.html](https://hypnotize.works/gdx-3ds/postmortem/index.html)
 
 ---
 
-### 4. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
+### 4. Lula wins fourth term in Brazil but faces hostile Congress and divided country
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 5. Serbia's veteran ruler Vučić concedes election to student-led protest movement
+### 6. Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 6. Funding set to double for plan to get rough sleepers off streets by Christmas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Burnham made ending rough sleeping his first pledge when entering Downing Street in July.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed
+### 7. Netanyahu rival Eisenkot holds final rally before Israeli election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.
+Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron
+### 8. Serbia celebrates historic election win for student-backed movement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.
+Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss)
 
 ---
 
-### 9. Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?
+### 9. Lula holds off far right with victory in Brazil presidential election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.
+Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss)
 
 ---
 
