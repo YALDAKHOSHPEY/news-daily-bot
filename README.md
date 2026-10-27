@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 05:12:19
+**Last Update:** 2026-10-27 08:50:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
+### 1. I still teach OpenGL ES 3.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253939">https://news.ycombinator.com/item?id=50253939</a></p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
+
+---
+
+### 2. 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/otya128/winevdm">https://github.com/otya128/winevdm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253529">https://news.ycombinator.com/item?id=50253529</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 57</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/otya128/winevdm](https://github.com/otya128/winevdm)
 
 ---
 
-### 2. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+### 3. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 65</p>
-<p># Comments: 12</p>
+<p>Points: 104</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-
----
-
-### 3. Is PHP Running on Your ColdFusion Server? How to Check, and Remove It
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252008">https://news.ycombinator.com/item?id=50252008</a></p>
-<p>Points: 19</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
 
 ---
 
@@ -84,7 +84,7 @@ From Brexit debates to North Sea oil, there is plenty getting the cabinet, the L
 
 ---
 
-### 6. Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
+### 6. Chancellor to cut tariffs on some staple goods to offer cost of living help
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 
 ---
 
-### 7. Harry Kane wins Ballon d’Or, ending England’s 25-year wait
+### 7. Israel election 2026 live: Netanyahu faces tough test in high-stakes polls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.
+Millions to cast ballots in election widely billed as the most consequential in Israel&#039;s history.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss)
 
 ---
 
-### 8. Serbia’s ‘students’ celebrate for a second night after election victory
+### 8. Man with fake gun shot after using abused partner as shield
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement&#039;s victory.
+Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss)
 
 ---
 
-### 9. US court rules against Trump administration in California voting case
+### 9. Ex-FBI chief Comey defiant in the face of third prosecution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US appeals court blocks government effort to stop California from tabulating ballots from list of alleged non-citizens.
+Ex-FBI Director James Comey denies US Justice Department&#039;s new charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss)
 
 ---
 
