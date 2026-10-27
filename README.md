@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 22:33:29
+**Last Update:** 2026-10-28 00:54:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Three TLS Bugs in GoAhead
+### 1. Early progress on accelerating drug development with Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50263701">https://news.ycombinator.com/item?id=50263701</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
+<p>Points: 22</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
+🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
 
 ---
 
-### 2. Introducing LFM3: Every Modality for Specialized Intelligence
+### 2. Four Months of Zig
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.liquid.ai/blog/lfm3">https://www.liquid.ai/blog/lfm3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50262229">https://news.ycombinator.com/item?id=50262229</a></p>
-<p>Points: 36</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265128">https://news.ycombinator.com/item?id=50265128</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.liquid.ai/blog/lfm3](https://www.liquid.ai/blog/lfm3)
+🔗 **Read more:** [https://gracefulliberty.com/articles/four-months-of-zig/](https://gracefulliberty.com/articles/four-months-of-zig/)
 
 ---
 
-### 3. Ghostty 1.4.0
+### 3. Tailscale SSH: Investigation and remediation update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ghostty.org/docs/install/release-notes/1-4-0">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261998">https://news.ycombinator.com/item?id=50261998</a></p>
-<p>Points: 252</p>
-<p># Comments: 88</p>
+<p>Article URL: <a href="https://tailscale.com/ssh-investigation-update">https://tailscale.com/ssh-investigation-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264857">https://news.ycombinator.com/item?id=50264857</a></p>
+<p>Points: 90</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://ghostty.org/docs/install/release-notes/1-4-0](https://ghostty.org/docs/install/release-notes/1-4-0)
+🔗 **Read more:** [https://tailscale.com/ssh-investigation-update](https://tailscale.com/ssh-investigation-update)
 
 ---
 
@@ -71,7 +71,20 @@ Chancellor John Healey will reveal the new pay rates in the Budget, and has also
 
 ---
 
-### 5. Two in court over alleged Iran-linked plot at RAF Fairford
+### 5. Chris Mason: Budget needs to go some way towards delivering PM's promises
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Two in court over alleged Iran-linked plot at RAF Fairford
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates
 
 ---
 
-### 6. What does Israel's election mean for Gaza and the wider world?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Deadly tornado strikes construction site in Turkiye
+### 7. US says it killed five people in strike on alleged drug boat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly tornado strikes construction site in Turkiye
+Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss)
 
 ---
 
-### 8. Russia jails IT worker for 13 years for donating money to Ukraine
+### 8. Netanyahu rallies Likud voters with megaphone in shopping mall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.
+Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss)
 
 ---
 
-### 9. Rain brings temporary relief as Southeast Asia battles fires and toxic haze
+### 9. Egypt orders closure of leading independent news site Mada Masr
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn
+Editor Lina Attalah was freed once a $53,400 fine was paid, only to learn of a one-year sentence passed in her absence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss)
 
 ---
 
