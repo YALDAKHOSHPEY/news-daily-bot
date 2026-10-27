@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T20:15:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261352\">https://news.ycombinator.com/item?id=50261352</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+            "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+            "published": "Tue, 27 Oct 2026 16:08:32 +0000",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Genie 4",
+            "description": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 59</p>\n<p># Comments: 23</p>",
+            "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+            "published": "Tue, 27 Oct 2026 16:06:01 +0000",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+            "description": "<p>Article URL: <a href=\"https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment\">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260960\">https://news.ycombinator.com/item?id=50260960</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+            "published": "Tue, 27 Oct 2026 15:39:29 +0000",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+            "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 16:29:50 GMT",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+            "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 11:11:33 GMT",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
+            "description": "Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 16:05:22 +0000",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+            "description": "Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 15:53:35 +0000",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iranian and Qatari leaders meet at Russian energy forum",
+            "description": "Iranian and Qatari leaders meet at Russian energy forum",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 15:49:19 +0000",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T20:15:13+03:30"
+        }
+    ]
+}

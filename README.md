@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 17:14:10
+**Last Update:** 2026-10-27 20:15:13
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple introduces the new 14-inch MacBook Pro with M6
+### 1. Apple introduces the new 14‑inch MacBook Pro with M6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50258521">https://news.ycombinator.com/item?id=50258521</a></p>
-<p>Points: 52</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261352">https://news.ycombinator.com/item?id=50261352</a></p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+🔗 **Read more:** [https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 
 ---
 
-### 2. Software may be getting worse, but it used to be horrible
+### 2. Genie 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/">https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50257548">https://news.ycombinator.com/item?id=50257548</a></p>
-<p>Points: 128</p>
-<p># Comments: 91</p>
+<p>Article URL: <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50261319">https://news.ycombinator.com/item?id=50261319</a></p>
+<p>Points: 59</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
+🔗 **Read more:** [https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 
 ---
 
-### 3. Python's experimental JIT to be removed
+### 3. Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/">https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50257419">https://news.ycombinator.com/item?id=50257419</a></p>
-<p>Points: 114</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50260960">https://news.ycombinator.com/item?id=50260960</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
+🔗 **Read more:** [https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment](https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment)
 
 ---
 
@@ -71,20 +71,20 @@ Chancellor John Healey will reveal the new pay rates in the Budget, and has also
 
 ---
 
-### 5. Two charged over alleged plot to assist Iran in RAF Fairford incident
+### 5. Two in court over alleged Iran-linked plot at RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.
+Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Turnout so far highest in decades as Israelis vote in pivotal election
+### 6. Turnout so far highest on record as Israelis vote in pivotal election
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The elections - the first since the Hamas-led attacks on Israel and the wars whi
 
 ---
 
-### 7. India-China border face-offs test Modi six years after deadly clash
+### 7. Lula’s victory echoes across BRICS after fears of a Bolsonaro win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite thaw in India-China ties, border tensions again challenge PM Modi&#039;s strongman image at home.
+Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera meets iconic pro-Palestine Japanese activist
+### 8. Death toll from attack by gunmen in northeastern Nigeria rises to 62
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.
+Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss)
 
 ---
 
-### 9. Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans
+### 9. Iranian and Qatari leaders meet at Russian energy forum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;My comment was ill-judged and I now understand that it hurt many people,&#039; Mbappe said after Chinese brands dropped him.
+Iranian and Qatari leaders meet at Russian energy forum
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss)
 
 ---
 
