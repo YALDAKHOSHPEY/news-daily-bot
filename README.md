@@ -1,90 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 08:50:05
+**Last Update:** 2026-10-27 10:30:36
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I still teach OpenGL ES 3.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html">https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253939">https://news.ycombinator.com/item?id=50253939</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
-
----
-
-### 2. 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/otya128/winevdm">https://github.com/otya128/winevdm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253529">https://news.ycombinator.com/item?id=50253529</a></p>
-<p>Points: 57</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/otya128/winevdm](https://github.com/otya128/winevdm)
-
----
-
-### 3. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 104</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-
----
-
-### 4. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
+### 1. Israel heads to polls for pivotal election defined by security and democracy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
+Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chris Mason: Budget is imminent as tricky issues pile up for Burnham
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chancellor to cut tariffs on some staple goods to offer cost of living help
+### 2. Chancellor to cut tariffs on some staple goods to offer cost of living help
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 
 ---
 
-### 7. Israel election 2026 live: Netanyahu faces tough test in high-stakes polls
+### 3. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Palestine weekly: West Bank under siege as Israelis go to the polls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Millions to cast ballots in election widely billed as the most consequential in Israel&#039;s history.
+Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss)
 
 ---
 
-### 8. Man with fake gun shot after using abused partner as shield
+### 5. Palestinian citizens of Israel can vote, but cannot expect change
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.
+Elections cannot stop the accelerated process of ‘recolonisation’ of 1948 Palestinian communities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss)
 
 ---
 
-### 9. Ex-FBI chief Comey defiant in the face of third prosecution
+### 6. Palestinian citizens of Israel fear they’re next target if far-right wins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-FBI Director James Comey denies US Justice Department&#039;s new charges.
+Majd al-Krum&#039;s protests have forced settlers to withdraw, but fears of further provocations loom after elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Arnab
+### 7. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Olana
+### 8. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Typhoon In-fa
+### 9. Typhoon In-fa
 
 **Source:** NASA
 

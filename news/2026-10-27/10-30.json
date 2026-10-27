@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-27T10:30:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel heads to polls for pivotal election defined by security and democracy",
+            "description": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 05:45:08 GMT",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+            "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 06:49:19 GMT",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+            "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+            "description": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 06:28:13 +0000",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+            "description": "Elections cannot stop the accelerated process of ‘recolonisation’ of 1948 Palestinian communities.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 06:15:48 +0000",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+            "description": "Majd al-Krum&#039;s protests have forced settlers to withdraw, but fears of further provocations loom after elections.",
+            "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 06:12:04 +0000",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T10:30:36+03:30"
+        }
+    ]
+}
