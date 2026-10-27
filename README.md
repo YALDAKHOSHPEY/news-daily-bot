@@ -1,16 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 10:30:36
+**Last Update:** 2026-10-27 14:14:22
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Israel heads to polls for pivotal election defined by security and democracy
+### 1. I will no longer upload to NEW
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.debian.org/debian-devel/2026/10/msg00263.html">https://lists.debian.org/debian-devel/2026/10/msg00263.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50256738">https://news.ycombinator.com/item?id=50256738</a></p>
+<p>Points: 31</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lists.debian.org/debian-devel/2026/10/msg00263.html](https://lists.debian.org/debian-devel/2026/10/msg00263.html)
+
+---
+
+### 2. AI is ruining haunted houses
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/">https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50256230">https://news.ycombinator.com/item?id=50256230</a></p>
+<p>Points: 25</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/](https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/)
+
+---
+
+### 3. The Mythical Man-Month in the Age of AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255298">https://news.ycombinator.com/item?id=50255298</a></p>
+<p>Points: 158</p>
+<p># Comments: 115</p>
+
+🔗 **Read more:** [https://j11g.com/the-mythical-man-month-in-the-age-of-ai](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+
+---
+
+### 4. Two charged with national security offences over RAF Fairford incident
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Chancellor to cut tariffs on some staple goods to offer cost of living help
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A series of small announcements are part of John Healey's pledge to give households help with the cost of living.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Israel heads to polls for pivotal election defined by security and democracy
 
 **Source:** BBC
 
@@ -23,72 +97,46 @@ Many fear neither of the leading political blocs will win enough seats for a maj
 
 ---
 
-### 2. Chancellor to cut tariffs on some staple goods to offer cost of living help
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Palestine weekly: West Bank under siege as Israelis go to the polls
+### 7. Iran says US ‘not serious’ about talks amid Tehran meeting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.
+Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss)
 
 ---
 
-### 5. Palestinian citizens of Israel can vote, but cannot expect change
+### 8. North Korean howitzer guns spotted close to border with South Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Elections cannot stop the accelerated process of ‘recolonisation’ of 1948 Palestinian communities.
+The sighting comes after a mine blast wounded three South Korean soldiers in September.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss)
 
 ---
 
-### 6. Palestinian citizens of Israel fear they’re next target if far-right wins
+### 9. ‘It’s magical’: London’s iconic Oxford Street goes vehicle-free
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Majd al-Krum&#039;s protests have forced settlers to withdraw, but fears of further provocations loom after elections.
+The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Arnab
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Olana
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Typhoon In-fa
+### 12. Typhoon In-fa
 
 **Source:** NASA
 

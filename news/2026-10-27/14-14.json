@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T14:14:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I will no longer upload to NEW",
+            "description": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel/2026/10/msg00263.html\">https://lists.debian.org/debian-devel/2026/10/msg00263.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256738\">https://news.ycombinator.com/item?id=50256738</a></p>\n<p>Points: 31</p>\n<p># Comments: 0</p>",
+            "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+            "published": "Tue, 27 Oct 2026 09:59:05 +0000",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI is ruining haunted houses",
+            "description": "<p>Article URL: <a href=\"https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/\">https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50256230\">https://news.ycombinator.com/item?id=50256230</a></p>\n<p>Points: 25</p>\n<p># Comments: 22</p>",
+            "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+            "published": "Tue, 27 Oct 2026 08:50:33 +0000",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Mythical Man-Month in the Age of AI",
+            "description": "<p>Article URL: <a href=\"https://j11g.com/the-mythical-man-month-in-the-age-of-ai\">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255298\">https://news.ycombinator.com/item?id=50255298</a></p>\n<p>Points: 158</p>\n<p># Comments: 115</p>",
+            "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+            "published": "Tue, 27 Oct 2026 06:25:37 +0000",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two charged with national security offences over RAF Fairford incident",
+            "description": "One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 10:30:40 GMT",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+            "description": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 10:10:31 GMT",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel heads to polls for pivotal election defined by security and democracy",
+            "description": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 10:14:00 GMT",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+            "description": "Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 10:36:54 +0000",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korean howitzer guns spotted close to border with South Korea",
+            "description": "The sighting comes after a mine blast wounded three South Korean soldiers in September.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 10:22:20 +0000",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+            "description": "The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.",
+            "url": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 10:03:32 +0000",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T14:14:22+03:30"
+        }
+    ]
+}
