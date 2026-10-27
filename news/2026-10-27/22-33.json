@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T22:33:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Three TLS Bugs in GoAhead",
+            "description": "<p>Article URL: <a href=\"https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead\">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263701\">https://news.ycombinator.com/item?id=50263701</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+            "published": "Tue, 27 Oct 2026 18:33:48 +0000",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+            "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 36</p>\n<p># Comments: 11</p>",
+            "url": "https://www.liquid.ai/blog/lfm3",
+            "published": "Tue, 27 Oct 2026 17:04:50 +0000",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ghostty 1.4.0",
+            "description": "<p>Article URL: <a href=\"https://ghostty.org/docs/install/release-notes/1-4-0\">https://ghostty.org/docs/install/release-notes/1-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261998\">https://news.ycombinator.com/item?id=50261998</a></p>\n<p>Points: 252</p>\n<p># Comments: 88</p>",
+            "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+            "published": "Tue, 27 Oct 2026 16:51:22 +0000",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+            "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 18:32:54 GMT",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What does Israel's election mean for Gaza and the wider world?",
+            "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+            "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 10:17:36 GMT",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly tornado strikes construction site in Turkiye",
+            "description": "Deadly tornado strikes construction site in Turkiye",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 18:52:07 +0000",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
+            "description": "Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 18:42:48 +0000",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rain brings temporary relief as Southeast Asia battles fires and toxic haze",
+            "description": "Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/indonesia-wildfires-rain-toxic-haze-southeast-asia?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 18:41:28 +0000",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-27T22:33:29+03:30"
+        }
+    ]
+}
