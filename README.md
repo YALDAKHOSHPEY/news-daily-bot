@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 00:54:30
+**Last Update:** 2026-10-28 02:49:51
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Early progress on accelerating drug development with Claude
+### 1. Reviewers rarely talk about reliability. Owners bring it up twice as often
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
+<p>Points: 9</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
+
+---
+
+### 2. One year of Dioxus fullstack in production: the good, the painful
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265960">https://news.ycombinator.com/item?id=50265960</a></p>
+<p>Points: 16</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
+
+---
+
+### 3. Early progress on accelerating drug development with Claude
 
 **Source:** Hacker News
 
@@ -19,59 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
-<p>Points: 22</p>
-<p># Comments: 1</p>
+<p>Points: 72</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
 
 ---
 
-### 2. Four Months of Zig
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265128">https://news.ycombinator.com/item?id=50265128</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://gracefulliberty.com/articles/four-months-of-zig/](https://gracefulliberty.com/articles/four-months-of-zig/)
-
----
-
-### 3. Tailscale SSH: Investigation and remediation update
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tailscale.com/ssh-investigation-update">https://tailscale.com/ssh-investigation-update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264857">https://news.ycombinator.com/item?id=50264857</a></p>
-<p>Points: 90</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://tailscale.com/ssh-investigation-update](https://tailscale.com/ssh-investigation-update)
-
----
-
-### 4. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chris Mason: Budget needs to go some way towards delivering PM's promises
+### 4. Chris Mason: Budget needs to go some way towards delivering PM's promises
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ Chancellor John Healey will reveal the new pay rates in the Budget, and has also
 Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates
 
 ---
 
-### 7. US says it killed five people in strike on alleged drug boat
+### 7. Arab towns in Israel celebrate historic Knesset gains with fireworks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.
+Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss)
 
 ---
 
-### 8. Netanyahu rallies Likud voters with megaphone in shopping mall
+### 8. ‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.
+Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss)
 
 ---
 
-### 9. Egypt orders closure of leading independent news site Mada Masr
+### 9. Iran war live: Pezeshkian says Middle East can solve own issues without US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Editor Lina Attalah was freed once a $53,400 fine was paid, only to learn of a one-year sentence passed in her absence.
+Iranian president&#039;s words came at summit for gas exporting countries in Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss)
 
 ---
 

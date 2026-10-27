@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T02:49:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+            "description": "<p>Article URL: <a href=\"https://www.bettascore.ai/research/reliability-reviewers-vs-owners\">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266780\">https://news.ycombinator.com/item?id=50266780</a></p>\n<p>Points: 9</p>\n<p># Comments: 7</p>",
+            "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+            "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One year of Dioxus fullstack in production: the good, the painful",
+            "description": "<p>Article URL: <a href=\"https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful\">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265960\">https://news.ycombinator.com/item?id=50265960</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
+            "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+            "published": "Tue, 27 Oct 2026 21:19:15 +0000",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Early progress on accelerating drug development with Claude",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Points: 72</p>\n<p># Comments: 55</p>",
+            "url": "https://www.anthropic.com/research/early-progress-drug-development",
+            "published": "Tue, 27 Oct 2026 20:50:42 +0000",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:30:09 GMT",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+            "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 18:32:54 GMT",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+            "description": "Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 22:56:32 +0000",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+            "description": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 22:31:31 +0000",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+            "description": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 22:29:31 +0000",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T02:49:51+03:30"
+        }
+    ]
+}
