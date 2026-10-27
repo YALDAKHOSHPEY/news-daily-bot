@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 14:14:22
+**Last Update:** 2026-10-27 17:14:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I will no longer upload to NEW
+### 1. Apple introduces the new 14-inch MacBook Pro with M6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lists.debian.org/debian-devel/2026/10/msg00263.html">https://lists.debian.org/debian-devel/2026/10/msg00263.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50256738">https://news.ycombinator.com/item?id=50256738</a></p>
-<p>Points: 31</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50258521">https://news.ycombinator.com/item?id=50258521</a></p>
+<p>Points: 52</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://lists.debian.org/debian-devel/2026/10/msg00263.html](https://lists.debian.org/debian-devel/2026/10/msg00263.html)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
 
 ---
 
-### 2. AI is ruining haunted houses
+### 2. Software may be getting worse, but it used to be horrible
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/">https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50256230">https://news.ycombinator.com/item?id=50256230</a></p>
-<p>Points: 25</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/">https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50257548">https://news.ycombinator.com/item?id=50257548</a></p>
+<p>Points: 128</p>
+<p># Comments: 91</p>
 
-🔗 **Read more:** [https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/](https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/)
+🔗 **Read more:** [https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
 
 ---
 
-### 3. The Mythical Man-Month in the Age of AI
+### 3. Python's experimental JIT to be removed
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255298">https://news.ycombinator.com/item?id=50255298</a></p>
-<p>Points: 158</p>
-<p># Comments: 115</p>
+<p>Article URL: <a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/">https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50257419">https://news.ycombinator.com/item?id=50257419</a></p>
+<p>Points: 114</p>
+<p># Comments: 47</p>
 
-🔗 **Read more:** [https://j11g.com/the-mythical-man-month-in-the-age-of-ai](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+🔗 **Read more:** [https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 
 ---
 
-### 4. Two charged with national security offences over RAF Fairford incident
+### 4. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chancellor to cut tariffs on some staple goods to offer cost of living help
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A series of small announcements are part of John Healey's pledge to give households help with the cost of living.
+Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Israel heads to polls for pivotal election defined by security and democracy
+### 5. Two charged over alleged plot to assist Iran in RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.
+Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Turnout so far highest in decades as Israelis vote in pivotal election
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran says US ‘not serious’ about talks amid Tehran meeting
+### 7. India-China border face-offs test Modi six years after deadly clash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.
+Despite thaw in India-China ties, border tensions again challenge PM Modi&#039;s strongman image at home.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss)
 
 ---
 
-### 8. North Korean howitzer guns spotted close to border with South Korea
+### 8. Al Jazeera meets iconic pro-Palestine Japanese activist
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The sighting comes after a mine blast wounded three South Korean soldiers in September.
+Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss)
 
 ---
 
-### 9. ‘It’s magical’: London’s iconic Oxford Street goes vehicle-free
+### 9. Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.
+&#039;My comment was ill-judged and I now understand that it hurt many people,&#039; Mbappe said after Chinese brands dropped him.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss)
 
 ---
 

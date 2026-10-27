@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T17:14:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50258521\">https://news.ycombinator.com/item?id=50258521</a></p>\n<p>Points: 52</p>\n<p># Comments: 40</p>",
+            "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+            "published": "Tue, 27 Oct 2026 13:01:07 +0000",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software may be getting worse, but it used to be horrible",
+            "description": "<p>Article URL: <a href=\"https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/\">https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257548\">https://news.ycombinator.com/item?id=50257548</a></p>\n<p>Points: 128</p>\n<p># Comments: 91</p>",
+            "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+            "published": "Tue, 27 Oct 2026 11:30:35 +0000",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Python's experimental JIT to be removed",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/\">https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50257419\">https://news.ycombinator.com/item?id=50257419</a></p>\n<p>Points: 114</p>\n<p># Comments: 47</p>",
+            "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+            "published": "Tue, 27 Oct 2026 11:17:57 +0000",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 13:18:37 GMT",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+            "description": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 12:50:14 GMT",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+            "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 11:11:33 GMT",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India-China border face-offs test Modi six years after deadly clash",
+            "description": "Despite thaw in India-China ties, border tensions again challenge PM Modi&#039;s strongman image at home.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 13:15:32 +0000",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+            "description": "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 13:06:28 +0000",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans",
+            "description": "&#039;My comment was ill-judged and I now understand that it hurt many people,&#039; Mbappe said after Chinese brands dropped him.",
+            "url": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 12:47:49 +0000",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T17:14:10+03:30"
+        }
+    ]
+}
