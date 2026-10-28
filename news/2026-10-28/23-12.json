@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T23:12:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rising rates of colorectal cancer found in nearly all age groups",
+            "description": "<p>Article URL: <a href=\"https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer\">https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50279308\">https://news.ycombinator.com/item?id=50279308</a></p>\n<p>Points: 29</p>\n<p># Comments: 23</p>",
+            "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+            "published": "Wed, 28 Oct 2026 19:15:07 +0000",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "At least 68 killed in Spanish high-speed train crash",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/cv1j309d4g98t\">https://www.bbc.com/news/live/cv1j309d4g98t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50278970\">https://news.ycombinator.com/item?id=50278970</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+            "url": "https://www.bbc.com/news/live/cv1j309d4g98t",
+            "published": "Wed, 28 Oct 2026 18:49:17 +0000",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/\">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50277755\">https://news.ycombinator.com/item?id=50277755</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+            "published": "Wed, 28 Oct 2026 17:45:24 +0000",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:55:27 GMT",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+            "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+            "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:52:16 GMT",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will I get the £100 energy payment and when will I receive it?",
+            "description": "Here is what you need to know about the payment that millions will receive from January.",
+            "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 17:47:37 GMT",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
+            "description": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 19:13:32 +0000",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fed leaves interest rates unchanged despite inflation in the US",
+            "description": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+            "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 19:05:44 +0000",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US jury convicts Rwandan American of lying about role in genocide",
+            "description": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 19:02:38 +0000",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T23:12:04+03:30"
+        }
+    ]
+}

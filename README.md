@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 19:50:41
+**Last Update:** 2026-10-28 23:12:04
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. 26,400 live credentials found scanning 7.25M repos on China's Gitee
+### 1. Rising rates of colorectal cancer found in nearly all age groups
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets">https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275375">https://news.ycombinator.com/item?id=50275375</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer">https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50279308">https://news.ycombinator.com/item?id=50279308</a></p>
+<p>Points: 29</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
+🔗 **Read more:** [https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
 
 ---
 
-### 2. Amazon rainforest cut down to build highway for COP climate summit (2025)
+### 2. At least 68 killed in Spanish high-speed train crash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c9vy191rgn1o">https://www.bbc.com/news/articles/c9vy191rgn1o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275235">https://news.ycombinator.com/item?id=50275235</a></p>
-<p>Points: 24</p>
+<p>Article URL: <a href="https://www.bbc.com/news/live/cv1j309d4g98t">https://www.bbc.com/news/live/cv1j309d4g98t</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50278970">https://news.ycombinator.com/item?id=50278970</a></p>
+<p>Points: 26</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
+🔗 **Read more:** [https://www.bbc.com/news/live/cv1j309d4g98t](https://www.bbc.com/news/live/cv1j309d4g98t)
 
 ---
 
-### 3. Tesla Semi catches fire on I-880
+### 3. Spiders Spin 'Silk Dope' into Nature's Toughest Material
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/">https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50274706">https://news.ycombinator.com/item?id=50274706</a></p>
-<p>Points: 33</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50277755">https://news.ycombinator.com/item?id=50277755</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
+🔗 **Read more:** [https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 
 ---
 
@@ -71,68 +71,68 @@ Here’s what you need to know from John Healey’s first Budget, as the chancel
 
 ---
 
-### 5. How the Budget affects you
+### 5. Chris Mason: Budget felt cautious despite its range of small measures
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.
+The chancellor has had to grapple with a mix of public finances and household finances being a mess.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: What are the key points from the Budget and how will they be funded?
+### 6. Will I get the £100 energy payment and when will I receive it?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Joe Pike explains key things outlined by the Chancellor.
+Here is what you need to know about the payment that millions will receive from January.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
+### 7. Putin: Russia is African continent’s best partner, not ‘colonial’ West
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
+Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss)
 
 ---
 
-### 8. What is the controversy between Real Madrid’s Kylian Mbappe and China?
+### 8. Fed leaves interest rates unchanged despite inflation in the US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The French superstar&#039;s comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.
+Rates will remain 3.75-4 percent even as inflation continues to rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss)
 
 ---
 
-### 9. Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’
+### 9. US jury convicts Rwandan American of lying about role in genocide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.
+Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss)
 
 ---
 
