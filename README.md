@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 02:49:51
+**Last Update:** 2026-10-28 04:06:24
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Reviewers rarely talk about reliability. Owners bring it up twice as often
+### 1. Free daily JSON feed of Shanghai government subsidy notices
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/ZhongGheart/china-policy-data">https://github.com/ZhongGheart/china-policy-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267494">https://news.ycombinator.com/item?id=50267494</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/ZhongGheart/china-policy-data](https://github.com/ZhongGheart/china-policy-data)
+
+---
+
+### 2. Reviewers rarely talk about reliability. Owners bring it up twice as often
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
-<p>Points: 9</p>
-<p># Comments: 7</p>
+<p>Points: 37</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 
 ---
 
-### 2. One year of Dioxus fullstack in production: the good, the painful
+### 3. Expanding our partnership with GSA to bring Claude to all levels of government
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265960">https://news.ycombinator.com/item?id=50265960</a></p>
-<p>Points: 16</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.anthropic.com/news/expanding-partnership-gsa">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266701">https://news.ycombinator.com/item?id=50266701</a></p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
-
----
-
-### 3. Early progress on accelerating drug development with Claude
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
-<p>Points: 72</p>
-<p># Comments: 55</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
+🔗 **Read more:** [https://www.anthropic.com/news/expanding-partnership-gsa](https://www.anthropic.com/news/expanding-partnership-gsa)
 
 ---
 
@@ -84,55 +84,55 @@ Chancellor John Healey will reveal the new pay rates in the Budget, and has also
 
 ---
 
-### 6. Two in court over alleged Iran-linked plot at RAF Fairford
+### 6. King acknowledges 'suffering of the past' as Caribbean tour begins
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.
+The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Arab towns in Israel celebrate historic Knesset gains with fireworks
+### 7. Gaza’s women filmmakers turn pain into cinema as new academy launches
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats
+Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss)
 
 ---
 
-### 8. ‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election
+### 8. President Lula calls Bolsonaro’s Brazil exit ‘shameful’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.
+President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Pezeshkian says Middle East can solve own issues without US
+### 9. A bad day for Ben-Gvir as he addresses his supporters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian president&#039;s words came at summit for gas exporting countries in Russia.
+Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss)
 
 ---
 
