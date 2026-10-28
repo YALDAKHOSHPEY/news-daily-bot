@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 17:42:57
+**Last Update:** 2026-10-28 19:50:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Agent SDK
+### 1. 26,400 live credentials found scanning 7.25M repos on China's Gitee
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cursor.com/blog/agent-sdk">https://cursor.com/blog/agent-sdk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273731">https://news.ycombinator.com/item?id=50273731</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://cursor.com/blog/agent-sdk](https://cursor.com/blog/agent-sdk)
-
----
-
-### 2. Harvey raised 500M for legal AI, I built the same and open sourced it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/thomasunise/casecite">https://github.com/thomasunise/casecite</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273623">https://news.ycombinator.com/item?id=50273623</a></p>
-<p>Points: 25</p>
+<p>Article URL: <a href="https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets">https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275375">https://news.ycombinator.com/item?id=50275375</a></p>
+<p>Points: 10</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/thomasunise/casecite](https://github.com/thomasunise/casecite)
+🔗 **Read more:** [https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
 
 ---
 
-### 3. Kentucky man becomes the first humanist granted religious exemption from AI
+### 2. Amazon rainforest cut down to build highway for COP climate summit (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/">https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273396">https://news.ycombinator.com/item?id=50273396</a></p>
-<p>Points: 36</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c9vy191rgn1o">https://www.bbc.com/news/articles/c9vy191rgn1o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275235">https://news.ycombinator.com/item?id=50275235</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
+
+---
+
+### 3. Tesla Semi catches fire on I-880
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/">https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50274706">https://news.ycombinator.com/item?id=50274706</a></p>
+<p>Points: 33</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
 
 ---
 
@@ -84,55 +84,55 @@ Changes announced by Chancellor John Healey in his first Budget will affect your
 
 ---
 
-### 6. Chancellor takes to the despatch box for his first Budget
+### 6. Watch: What are the key points from the Budget and how will they be funded?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor begins his speech by calling it a Budget for the "working people of Britain, for British businesses big and small."
+The BBC's Joe Pike explains key things outlined by the Chancellor.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Spanish football postpones 24 Copa del Rey games after train crash
+### 7. US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement.
+US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss)
 
 ---
 
-### 8. Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit
+### 8. What is the controversy between Real Madrid’s Kylian Mbappe and China?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.
+The French superstar&#039;s comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss)
 
 ---
 
-### 9. Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark
+### 9. Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe&#039;s Real.
+All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss)
 
 ---
 
