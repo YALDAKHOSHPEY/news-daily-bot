@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 12:52:11
+**Last Update:** 2026-10-28 17:42:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artificial Analysis Intelligence Index v5
+### 1. The Agent SDK
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268868">https://news.ycombinator.com/item?id=50268868</a></p>
-<p>Points: 44</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://cursor.com/blog/agent-sdk">https://cursor.com/blog/agent-sdk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273731">https://news.ycombinator.com/item?id=50273731</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
+🔗 **Read more:** [https://cursor.com/blog/agent-sdk](https://cursor.com/blog/agent-sdk)
 
 ---
 
-### 2. Git for the US Code
+### 2. Harvey raised 500M for legal AI, I built the same and open sourced it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">https://news.ycombinator.com/item?id=50268380</a></p>
-<p>Points: 250</p>
-<p># Comments: 121</p>
+<p>Article URL: <a href="https://github.com/thomasunise/casecite">https://github.com/thomasunise/casecite</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273623">https://news.ycombinator.com/item?id=50273623</a></p>
+<p>Points: 25</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://lexifina.com/blog/git-for-the-us-code](https://lexifina.com/blog/git-for-the-us-code)
+🔗 **Read more:** [https://github.com/thomasunise/casecite](https://github.com/thomasunise/casecite)
 
 ---
 
-### 3. Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
+### 3. Kentucky man becomes the first humanist granted religious exemption from AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/maharmstone/moxnox">https://github.com/maharmstone/moxnox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267569">https://news.ycombinator.com/item?id=50267569</a></p>
-<p>Points: 67</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/">https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50273396">https://news.ycombinator.com/item?id=50273396</a></p>
+<p>Points: 36</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://github.com/maharmstone/moxnox](https://github.com/maharmstone/moxnox)
+🔗 **Read more:** [https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
 
 ---
 
-### 4. What could be in the Budget?
+### 4. Key points at a glance
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chancellor John Healey will set out his plans for UK taxes on 28 October.
+Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What happens now after close vote in Israeli election?
+### 5. How the Budget affects you
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Polls have closed in the Israeli election, but there is no clear winner.
+Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador
+### 6. Chancellor takes to the despatch box for his first Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defeated presidential candidate's whereabouts are unclear, as Argentina says he boarded a flight to Ecuador.
+The chancellor begins his speech by calling it a Budget for the "working people of Britain, for British businesses big and small."
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment
+### 7. Spanish football postpones 24 Copa del Rey games after train crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-France international Kylian Mbappe&#039;s remarks saw him become the latest foreign sports figure to anger Beijing.
+Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss)
 
 ---
 
-### 8. Canada signs trade deal with UAE in push for non-US markets
+### 8. Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries.
+Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss)
 
 ---
 
-### 9. Khouri: Strong Israel-Arab bloc result does not mean Israel has changed
+### 9. Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rami Khouri challenges the idea that a strong IsraelI-Arab bloc result signals any positive shift in Israeli society.
+Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe&#039;s Real.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T17:42:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Agent SDK",
+            "description": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-sdk\">https://cursor.com/blog/agent-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273731\">https://news.ycombinator.com/item?id=50273731</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://cursor.com/blog/agent-sdk",
+            "published": "Wed, 28 Oct 2026 14:02:20 +0000",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+            "description": "<p>Article URL: <a href=\"https://github.com/thomasunise/casecite\">https://github.com/thomasunise/casecite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273623\">https://news.ycombinator.com/item?id=50273623</a></p>\n<p>Points: 25</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/thomasunise/casecite",
+            "published": "Wed, 28 Oct 2026 13:56:21 +0000",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+            "description": "<p>Article URL: <a href=\"https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/\">https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50273396\">https://news.ycombinator.com/item?id=50273396</a></p>\n<p>Points: 36</p>\n<p># Comments: 21</p>",
+            "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+            "published": "Wed, 28 Oct 2026 13:41:30 +0000",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 13:48:29 GMT",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the Budget affects you",
+            "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+            "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 13:51:07 GMT",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor takes to the despatch box for his first Budget",
+            "description": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
+            "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 13:13:17 GMT",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spanish football postpones 24 Copa del Rey games after train crash",
+            "description": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement.",
+            "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 13:48:09 +0000",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+            "description": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 13:47:39 +0000",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
+            "description": "Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe&#039;s Real.",
+            "url": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 12:56:24 +0000",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T17:42:57+03:30"
+        }
+    ]
+}
