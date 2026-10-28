@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 04:06:24
+**Last Update:** 2026-10-28 06:29:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Free daily JSON feed of Shanghai government subsidy notices
+### 1. Git for US Legislation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ZhongGheart/china-policy-data">https://github.com/ZhongGheart/china-policy-data</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267494">https://news.ycombinator.com/item?id=50267494</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">https://news.ycombinator.com/item?id=50268380</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/ZhongGheart/china-policy-data](https://github.com/ZhongGheart/china-policy-data)
+🔗 **Read more:** [https://lexifina.com/blog/git-for-the-us-code](https://lexifina.com/blog/git-for-the-us-code)
 
 ---
 
-### 2. Reviewers rarely talk about reliability. Owners bring it up twice as often
+### 2. Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/maharmstone/moxnox">https://github.com/maharmstone/moxnox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267569">https://news.ycombinator.com/item?id=50267569</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/maharmstone/moxnox](https://github.com/maharmstone/moxnox)
+
+---
+
+### 3. Reviewers rarely talk about reliability. Owners bring it up twice as often
 
 **Source:** Hacker News
 
@@ -35,30 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
-<p>Points: 37</p>
-<p># Comments: 33</p>
+<p>Points: 69</p>
+<p># Comments: 69</p>
 
 🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 
 ---
 
-### 3. Expanding our partnership with GSA to bring Claude to all levels of government
+### 4. Israeli exit polls suggest no clear winner in pivotal general election
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/expanding-partnership-gsa">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266701">https://news.ycombinator.com/item?id=50266701</a></p>
-<p>Points: 14</p>
-<p># Comments: 8</p>
+Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.
 
-🔗 **Read more:** [https://www.anthropic.com/news/expanding-partnership-gsa](https://www.anthropic.com/news/expanding-partnership-gsa)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Chris Mason: Budget needs to go some way towards delivering PM's promises
+### 5. Watch: What happens now after close vote in Israeli election?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Polls have closed in the Israeli election, but there is no clear winner.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Chris Mason: Budget needs to go some way towards delivering PM's promises
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Support on the cost of living, and in particular energy bills, as well as announ
 
 ---
 
-### 5. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. King acknowledges 'suffering of the past' as Caribbean tour begins
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Gaza’s women filmmakers turn pain into cinema as new academy launches
+### 7. Netanyahu: Coalition with Arab parties would be ‘shameful’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.
+Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss)
 
 ---
 
-### 8. President Lula calls Bolsonaro’s Brazil exit ‘shameful’
+### 8. Arab parties projected to win 18 seats in Israel parliamentary election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.
+Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss)
 
 ---
 
-### 9. A bad day for Ben-Gvir as he addresses his supporters
+### 9. Netanyahu, Eisenkot camps clash over Israel election projections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.
+Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss)
 
 ---
 
