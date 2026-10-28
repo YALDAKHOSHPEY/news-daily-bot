@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 23:12:04
+**Last Update:** 2026-10-29 00:55:04
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rising rates of colorectal cancer found in nearly all age groups
+### 1. Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer">https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50279308">https://news.ycombinator.com/item?id=50279308</a></p>
-<p>Points: 29</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280864">https://news.ycombinator.com/item?id=50280864</a></p>
+<p>Points: 33</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer](https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer)
+🔗 **Read more:** [https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
 
 ---
 
-### 2. At least 68 killed in Spanish high-speed train crash
+### 2. Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/live/cv1j309d4g98t">https://www.bbc.com/news/live/cv1j309d4g98t</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50278970">https://news.ycombinator.com/item?id=50278970</a></p>
-<p>Points: 26</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/live/cv1j309d4g98t](https://www.bbc.com/news/live/cv1j309d4g98t)
-
----
-
-### 3. Spiders Spin 'Silk Dope' into Nature's Toughest Material
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50277755">https://news.ycombinator.com/item?id=50277755</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280824">https://news.ycombinator.com/item?id=50280824</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
+🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
 
 ---
 
-### 4. Key points at a glance
+### 3. Google AI gets cagey when asked who won the 2020 elections
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/">https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280178">https://news.ycombinator.com/item?id=50280178</a></p>
+<p>Points: 26</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
+
+---
+
+### 4. Healey unveils £100 for energy bills and bank tax in first Budget
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Key points at a glance
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Here’s what you need to know from John Healey’s first Budget, as the chancel
 
 ---
 
-### 5. Chris Mason: Budget felt cautious despite its range of small measures
+### 6. Chris Mason: Budget felt cautious despite its range of small measures
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The chancellor has had to grapple with a mix of public finances and household fi
 
 ---
 
-### 6. Will I get the £100 energy payment and when will I receive it?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Here is what you need to know about the payment that millions will receive from January.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Putin: Russia is African continent’s best partner, not ‘colonial’ West
+### 7. What’s next for Brazil’s Flavio Bolsonaro after election defeat?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.
+The far-right ally of US President Donald Trump has fled to Miami with his wife and children.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss)
 
 ---
 
-### 8. Fed leaves interest rates unchanged despite inflation in the US
+### 8. UN votes to condemn embargo of Cuba despite US lobbying push
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rates will remain 3.75-4 percent even as inflation continues to rise.
+US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss)
 
 ---
 
-### 9. US jury convicts Rwandan American of lying about role in genocide
+### 9. Rwanda’s milk bars
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.
+Rwanda’s milk bars
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss)
 
 ---
 
