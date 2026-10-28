@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T12:52:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artificial Analysis Intelligence Index v5",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5\">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268868\">https://news.ycombinator.com/item?id=50268868</a></p>\n<p>Points: 44</p>\n<p># Comments: 52</p>",
+            "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+            "published": "Wed, 28 Oct 2026 03:06:22 +0000",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Git for the US Code",
+            "description": "<p>Article URL: <a href=\"https://lexifina.com/blog/git-for-the-us-code\">https://lexifina.com/blog/git-for-the-us-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a></p>\n<p>Points: 250</p>\n<p># Comments: 121</p>",
+            "url": "https://lexifina.com/blog/git-for-the-us-code",
+            "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+            "description": "<p>Article URL: <a href=\"https://github.com/maharmstone/moxnox\">https://github.com/maharmstone/moxnox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50267569\">https://news.ycombinator.com/item?id=50267569</a></p>\n<p>Points: 67</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/maharmstone/moxnox",
+            "published": "Tue, 27 Oct 2026 23:53:41 +0000",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What could be in the Budget?",
+            "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 07:39:54 GMT",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What happens now after close vote in Israeli election?",
+            "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 04:22:59 GMT",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
+            "description": "The defeated presidential candidate's whereabouts are unclear, as Argentina says he boarded a flight to Ecuador.",
+            "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 08:55:49 GMT",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment",
+            "description": "France international Kylian Mbappe&#039;s remarks saw him become the latest foreign sports figure to anger Beijing.",
+            "url": "https://www.aljazeera.com/sports/2026/10/28/china-says-it-takes-mbappes-apology-seriously-after-mao-dictator-comment?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 08:57:49 +0000",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada signs trade deal with UAE in push for non-US markets",
+            "description": "The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 08:50:55 +0000",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
+            "description": "Rami Khouri challenges the idea that a strong IsraelI-Arab bloc result signals any positive shift in Israeli society.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 08:35:05 +0000",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T12:52:11+03:30"
+        }
+    ]
+}
