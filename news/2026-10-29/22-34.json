@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T22:34:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+            "description": "<p>Article URL: <a href=\"https://github.com/phpclaw-php/phpclaw-monorepo\">https://github.com/phpclaw-php/phpclaw-monorepo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50293361\">https://news.ycombinator.com/item?id=50293361</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+            "published": "Thu, 29 Oct 2026 18:06:22 +0000",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
+            "description": "<p>Article URL: <a href=\"https://github.com/Ka1-S/LYNX-SHARE\">https://github.com/Ka1-S/LYNX-SHARE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50293308\">https://news.ycombinator.com/item?id=50293308</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/Ka1-S/LYNX-SHARE",
+            "published": "Thu, 29 Oct 2026 18:02:17 +0000",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thursday: A SerenityOS for Myself",
+            "description": "<p>Article URL: <a href=\"https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself\">https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50292825\">https://news.ycombinator.com/item?id=50292825</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself",
+            "published": "Thu, 29 Oct 2026 17:31:01 +0000",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+            "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 15:42:56 GMT",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+            "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+            "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 13:19:24 GMT",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+            "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Texas Republican group seeks to block certification of state’s election",
+            "description": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state&#039;s midterm races to be hand-counted.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 18:40:01 +0000",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+            "description": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 18:30:04 +0000",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Finland launches criminal probe of suspected environmental damage by Google",
+            "description": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
+            "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 18:24:13 +0000",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-29T22:34:34+03:30"
+        }
+    ]
+}
