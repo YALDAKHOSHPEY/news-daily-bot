@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 11:17:14
+**Last Update:** 2026-10-29 16:56:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zillow to pay $212.5M to settle class action for real estate venture
+### 1. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284342">https://news.ycombinator.com/item?id=50284342</a></p>
-<p>Points: 29</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288019">https://news.ycombinator.com/item?id=50288019</a></p>
+<p>Points: 27</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
+🔗 **Read more:** [https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 
 ---
 
-### 2. The Milwaukee Brewers win the first World Series title in franchise history
+### 2. DoorDash to Acquire Instacart
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284329">https://news.ycombinator.com/item?id=50284329</a></p>
-<p>Points: 74</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287919">https://news.ycombinator.com/item?id=50287919</a></p>
+<p>Points: 46</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
+🔗 **Read more:** [https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
 
 ---
 
-### 3. Claude Code regularly sends each background agent’s transcript to its model
+### 3. Hackers expose the identities of more than 40k DHS employees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284255">https://news.ycombinator.com/item?id=50284255</a></p>
-<p>Points: 236</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://text.npr.org/nx-s1-6021497">https://text.npr.org/nx-s1-6021497</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287898">https://news.ycombinator.com/item?id=50287898</a></p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+🔗 **Read more:** [https://text.npr.org/nx-s1-6021497](https://text.npr.org/nx-s1-6021497)
 
 ---
 
-### 4. Healey promises reduction in welfare bill before next election
+### 4. Treasury will not commit to reducing welfare bill before next election
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.
+The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
+### 5. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Spain begins three days of mourning after train crash kills dozens
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.
+The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. El Salvador pledges more than 2,000 soldiers as Haiti delays elections
+### 6. Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-El Salvador troops to support rescue mission to find four UN-backed soldiers who disappeared after ambush.
+Laura Brand tells the jury at his trial she feels "very seen by him" and "I love him very much".
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Stephen Curry, Warriors hold nerve to beat Timberwolves in tight NBA battle
+### 7. Men pulled from vehicle stranded by floods in Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warriors beat Timberwolves, Philadelphia 76ers power past Indiana Pacers and Cleveland Cavaliers top Washington Wizards.
+This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/stephen-curry-warriors-hold-nerve-to-beat-timberwolves-in-tight-nba-battle?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/stephen-curry-warriors-hold-nerve-to-beat-timberwolves-in-tight-nba-battle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss)
 
 ---
 
-### 9. North Korea fires missiles as row over landmine blast intensifies
+### 8. Bangladesh’s Shadman Islam hits century, but West Indies force collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seoul accuses Pyongyang of causing a landmine explosion that injured three of its soldiers, an accusation North denies.
+Shadman Islam hits 100, but Jomel Warrican bags five wickets before West Indies end day two of first Test on 134-4.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss)
+
+---
+
+### 9. Fighting rages near Yemen’s Taiz as UN urges humanitarian access
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss)
 
 ---
 
