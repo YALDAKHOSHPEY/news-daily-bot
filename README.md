@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 03:36:42
+**Last Update:** 2026-10-29 04:52:42
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Formlabs Studio 1 $699 Resin Printer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
-<p>Points: 83</p>
-<p># Comments: 68</p>
-
-🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
-
----
-
-### 2. A Health Update
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://furbo.org/2026/10/28/a-health-update/">https://furbo.org/2026/10/28/a-health-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280974">https://news.ycombinator.com/item?id=50280974</a></p>
-<p>Points: 32</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://furbo.org/2026/10/28/a-health-update/](https://furbo.org/2026/10/28/a-health-update/)
-
----
-
-### 3. Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280824">https://news.ycombinator.com/item?id=50280824</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
-
----
-
-### 4. Healey unveils £100 for energy bills and bank tax in first Budget
+### 1. Healey unveils £100 for energy bills and bank tax in first Budget
 
 **Source:** BBC
 
@@ -71,72 +23,72 @@ The chancellor targets the cost of living amid global economic turmoil but oppos
 
 ---
 
-### 5. Budget key points at a glance
+### 2. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
+People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chris Mason: Budget felt cautious despite its range of small measures
+### 3. High-speed train crash kills at least 68 people in Spain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor has had to grapple with a mix of public finances and household finances being a mess.
+The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UN experts sound alarm at excessive use of force in French student protests
+### 4. Riot police deployed in Madrid as protests erupt over deadly train crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
+A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss)
 
 ---
 
-### 8. Costa Rica’s mega-prison receives first inmates
+### 5. Israelis rally for Jewish-Arab government after election gains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
+Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss)
 
 ---
 
-### 9. Indonesian students demand action on wildfires and rising costs
+### 6. No clear winner in Israel election with nearly 90 percent of votes counted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.
+Netanyahu&#039;s right-wing bloc leads but is falling short of the votes needed to form a government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Arnab
+### 7. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Olana
+### 8. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Range  47B, Forrest, Mississippi
+### 9. Wildfire Range  47B, Forrest, Mississippi
 
 **Source:** NASA
 
