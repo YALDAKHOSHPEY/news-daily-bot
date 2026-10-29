@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 16:56:08
+**Last Update:** 2026-10-29 18:15:23
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
+### 1. Mistral Large 4 (Le Chonk) is now Open Weight
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mistral.ai/news/mistral-large-4-oss/">https://mistral.ai/news/mistral-large-4-oss/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50289418">https://news.ycombinator.com/item?id=50289418</a></p>
+<p>Points: 137</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://mistral.ai/news/mistral-large-4-oss/](https://mistral.ai/news/mistral-large-4-oss/)
+
+---
+
+### 2. Read the letter the FBI sent MLK to try to convince him to kill himself (2014)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288867">https://news.ycombinator.com/item?id=50288867</a></p>
+<p>Points: 157</p>
+<p># Comments: 82</p>
+
+🔗 **Read more:** [https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
+
+---
+
+### 3. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288019">https://news.ycombinator.com/item?id=50288019</a></p>
-<p>Points: 27</p>
-<p># Comments: 12</p>
+<p>Points: 185</p>
+<p># Comments: 139</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
-
----
-
-### 2. DoorDash to Acquire Instacart
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287919">https://news.ycombinator.com/item?id=50287919</a></p>
-<p>Points: 46</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
-
----
-
-### 3. Hackers expose the identities of more than 40k DHS employees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://text.npr.org/nx-s1-6021497">https://text.npr.org/nx-s1-6021497</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287898">https://news.ycombinator.com/item?id=50287898</a></p>
-<p>Points: 44</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://text.npr.org/nx-s1-6021497](https://text.npr.org/nx-s1-6021497)
 
 ---
 
@@ -97,72 +97,46 @@ Laura Brand tells the jury at his trial she feels "very seen by him" and "I love
 
 ---
 
-### 7. Men pulled from vehicle stranded by floods in Syria
+### 7. As US midterms approach, farmers decide what to plant and how to vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.
+In Arkansas, rising costs spurred farmer Hallie Shoffner’s long-shot Senate campaign. Will farmers back her?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss)
 
 ---
 
-### 8. Bangladesh’s Shadman Islam hits century, but West Indies force collapse
+### 8. YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shadman Islam hits 100, but Jomel Warrican bags five wickets before West Indies end day two of first Test on 134-4.
+American Jake Paul to headline Christmas Eve boxing event in Dubai, with his opponent yet to be announced.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss)
 
 ---
 
-### 9. Fighting rages near Yemen’s Taiz as UN urges humanitarian access
+### 9. Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.
+Former Manchester United captain Gary Neville believes root of team’s problems is Glazer family, urges them to sell up.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Arnab
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss)
 
 ---
 
-### 11. Tropical Storm Olana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730)
-
----
-
-### 12. Wildfire Range  47B, Forrest, Mississippi
+### 10. Wildfire South Tank Trail, Perry, Mississippi
 
 **Source:** NASA
 
@@ -171,7 +145,33 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827)
+
+---
+
+### 11. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829)
+
+---
+
+### 12. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830)
 
 ---
 

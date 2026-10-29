@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T18:15:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+            "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 137</p>\n<p># Comments: 31</p>",
+            "url": "https://mistral.ai/news/mistral-large-4-oss/",
+            "published": "Thu, 29 Oct 2026 14:13:21 +0000",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+            "description": "<p>Article URL: <a href=\"https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter\">https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288867\">https://news.ycombinator.com/item?id=50288867</a></p>\n<p>Points: 157</p>\n<p># Comments: 82</p>",
+            "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+            "published": "Thu, 29 Oct 2026 13:40:04 +0000",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288019\">https://news.ycombinator.com/item?id=50288019</a></p>\n<p>Points: 185</p>\n<p># Comments: 139</p>",
+            "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+            "published": "Thu, 29 Oct 2026 12:41:56 +0000",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Treasury will not commit to reducing welfare bill before next election",
+            "description": "The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 10:41:50 GMT",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+            "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+            "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+            "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 12:52:50 GMT",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As US midterms approach, farmers decide what to plant and how to vote",
+            "description": "In Arkansas, rising costs spurred farmer Hallie Shoffner’s long-shot Senate campaign. Will farmers back her?",
+            "url": "https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 14:25:16 +0000",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight",
+            "description": "American Jake Paul to headline Christmas Eve boxing event in Dubai, with his opponent yet to be announced.",
+            "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 13:54:18 +0000",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick",
+            "description": "Former Manchester United captain Gary Neville believes root of team’s problems is Glazer family, urges them to sell up.",
+            "url": "https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 13:53:49 +0000",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-29T18:15:23+03:30"
+        }
+    ]
+}
