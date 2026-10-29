@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 23:26:22
+**Last Update:** 2026-10-30 02:57:02
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The importance of communities around software
+### 1. A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lumi.codeberg.page/blog/software-community.html">https://lumi.codeberg.page/blog/software-community.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294507">https://news.ycombinator.com/item?id=50294507</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://journal.animationstudies.org/article/id/66/">https://journal.animationstudies.org/article/id/66/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50297089">https://news.ycombinator.com/item?id=50297089</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://journal.animationstudies.org/article/id/66/](https://journal.animationstudies.org/article/id/66/)
+
+---
+
+### 2. The Great American Rascal: Tom Sawyer at 150
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claremontreviewofbooks.com/the-great-american-rascal/">https://claremontreviewofbooks.com/the-great-american-rascal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296947">https://news.ycombinator.com/item?id=50296947</a></p>
+<p>Points: 19</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://lumi.codeberg.page/blog/software-community.html](https://lumi.codeberg.page/blog/software-community.html)
+🔗 **Read more:** [https://claremontreviewofbooks.com/the-great-american-rascal/](https://claremontreviewofbooks.com/the-great-american-rascal/)
 
 ---
 
-### 2. Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"
+### 3. Should a medical diagnosis reshape the past? (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294506">https://news.ycombinator.com/item?id=50294506</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://chengela.substack.com/p/should-a-medical-diagnosis-reshape">https://chengela.substack.com/p/should-a-medical-diagnosis-reshape</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296920">https://news.ycombinator.com/item?id=50296920</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/johncassil/dontallow](https://github.com/johncassil/dontallow)
+🔗 **Read more:** [https://chengela.substack.com/p/should-a-medical-diagnosis-reshape](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
 
 ---
 
-### 3. IgE disruptor for food allergy with Claude-enabled antibody design[pdf]
+### 4. Watch: Life and career of iconic actor Sir Patrick Stewart
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://divergencelabs.com/publications/ige-preprint.pdf">https://divergencelabs.com/publications/ige-preprint.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294486">https://news.ycombinator.com/item?id=50294486</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.
 
-🔗 **Read more:** [https://divergencelabs.com/publications/ige-preprint.pdf](https://divergencelabs.com/publications/ige-preprint.pdf)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Burnham says he wants to cut welfare bill 'as soon as we possibly can'
+### 5. Burnham says he wants to cut welfare bill 'as soon as we possibly can'
 
 **Source:** BBC
 
@@ -72,68 +84,55 @@ Opponents have questioned the Budget's lack of detail on welfare reform, with th
 
 ---
 
-### 5. 'Painful' years ahead, think tanks warn, as living standards set to fall
+### 6. Young athlete and former minister among victims of Spain train crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Budget forecasts show growth in living standards grinding almost to a halt.
+As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Audio reveals exchanges between Spain train operators and drivers moments before deadly crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Cornell begins no confidence vote over handling of alleged gang rape
+### 7. Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.
+Stewart died in Los Angeles after living with Alzheimer&#039;s disease and Lewy body dementia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss](https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss)
 
 ---
 
-### 8. Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
+### 8. Trump administration attempts to take down leak of ICE personnel data
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.
+An Icelandic web company, FlokiNET, has defended the data&#039;s publication as satisfying a &#039;legitimate&#039; public interest.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu attacks Palestinian-Israeli parties as he falls short of majority
+### 9. Palestinians face growing bans from Al-Aqsa as Israel tightens control
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.
+As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss)
 
 ---
 
