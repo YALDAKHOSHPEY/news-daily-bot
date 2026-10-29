@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T23:26:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The importance of communities around software",
+            "description": "<p>Article URL: <a href=\"https://lumi.codeberg.page/blog/software-community.html\">https://lumi.codeberg.page/blog/software-community.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294507\">https://news.ycombinator.com/item?id=50294507</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://lumi.codeberg.page/blog/software-community.html",
+            "published": "Thu, 29 Oct 2026 19:27:47 +0000",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+            "description": "<p>This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294506\">https://news.ycombinator.com/item?id=50294506</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/johncassil/dontallow",
+            "published": "Thu, 29 Oct 2026 19:27:44 +0000",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "IgE disruptor for food allergy with Claude-enabled antibody design[pdf]",
+            "description": "<p>Article URL: <a href=\"https://divergencelabs.com/publications/ige-preprint.pdf\">https://divergencelabs.com/publications/ige-preprint.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294486\">https://news.ycombinator.com/item?id=50294486</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+            "published": "Thu, 29 Oct 2026 19:25:48 +0000",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+            "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 15:42:56 GMT",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+            "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+            "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 13:19:24 GMT",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+            "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+            "description": "Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 19:23:33 +0000",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+            "description": "Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 19:21:19 +0000",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+            "description": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 19:06:00 +0000",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-29T23:26:22+03:30"
+        }
+    ]
+}

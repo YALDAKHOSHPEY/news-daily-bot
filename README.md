@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 22:34:34
+**Last Update:** 2026-10-29 23:26:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards
+### 1. The importance of communities around software
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/phpclaw-php/phpclaw-monorepo">https://github.com/phpclaw-php/phpclaw-monorepo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50293361">https://news.ycombinator.com/item?id=50293361</a></p>
+<p>Article URL: <a href="https://lumi.codeberg.page/blog/software-community.html">https://lumi.codeberg.page/blog/software-community.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294507">https://news.ycombinator.com/item?id=50294507</a></p>
 <p>Points: 6</p>
-<p># Comments: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo)
+🔗 **Read more:** [https://lumi.codeberg.page/blog/software-community.html](https://lumi.codeberg.page/blog/software-community.html)
 
 ---
 
-### 2. I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform
+### 2. Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Ka1-S/LYNX-SHARE">https://github.com/Ka1-S/LYNX-SHARE</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50293308">https://news.ycombinator.com/item?id=50293308</a></p>
-<p>Points: 18</p>
-<p># Comments: 8</p>
+<p>This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294506">https://news.ycombinator.com/item?id=50294506</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/Ka1-S/LYNX-SHARE](https://github.com/Ka1-S/LYNX-SHARE)
+🔗 **Read more:** [https://github.com/johncassil/dontallow](https://github.com/johncassil/dontallow)
 
 ---
 
-### 3. Thursday: A SerenityOS for Myself
+### 3. IgE disruptor for food allergy with Claude-enabled antibody design[pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself">https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50292825">https://news.ycombinator.com/item?id=50292825</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://divergencelabs.com/publications/ige-preprint.pdf">https://divergencelabs.com/publications/ige-preprint.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294486">https://news.ycombinator.com/item?id=50294486</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself](https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself)
+🔗 **Read more:** [https://divergencelabs.com/publications/ige-preprint.pdf](https://divergencelabs.com/publications/ige-preprint.pdf)
 
 ---
 
@@ -97,42 +98,42 @@ The leaked tapes appear to show one high-speed train was given clearance to move
 
 ---
 
-### 7. Texas Republican group seeks to block certification of state’s election
+### 7. Cornell begins no confidence vote over handling of alleged gang rape
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republicans in a Texas county have filed a lawsuit asking for ballots in the state&#039;s midterm races to be hand-counted.
+Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss)
 
 ---
 
-### 8. US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed
+### 8. Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.
+Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss)
 
 ---
 
-### 9. Finland launches criminal probe of suspected environmental damage by Google
+### 9. Netanyahu attacks Palestinian-Israeli parties as he falls short of majority
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US tech giant is investing $15bn in a huge new data centre project in northern Finland.
+With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss)
 
 ---
 
