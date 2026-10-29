@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 00:55:04
+**Last Update:** 2026-10-29 03:36:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
+### 1. Formlabs Studio 1 $699 Resin Printer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280864">https://news.ycombinator.com/item?id=50280864</a></p>
-<p>Points: 33</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
+<p>Points: 83</p>
+<p># Comments: 68</p>
 
-🔗 **Read more:** [https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
+🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 
 ---
 
-### 2. Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel
+### 2. A Health Update
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://furbo.org/2026/10/28/a-health-update/">https://furbo.org/2026/10/28/a-health-update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280974">https://news.ycombinator.com/item?id=50280974</a></p>
+<p>Points: 32</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://furbo.org/2026/10/28/a-health-update/](https://furbo.org/2026/10/28/a-health-update/)
+
+---
+
+### 3. Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
-
----
-
-### 3. Google AI gets cagey when asked who won the 2020 elections
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/">https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280178">https://news.ycombinator.com/item?id=50280178</a></p>
-<p>Points: 26</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
 
 ---
 
@@ -71,7 +71,7 @@ The chancellor targets the cost of living amid global economic turmoil but oppos
 
 ---
 
-### 5. Key points at a glance
+### 5. Budget key points at a glance
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The chancellor has had to grapple with a mix of public finances and household fi
 
 ---
 
-### 7. What’s next for Brazil’s Flavio Bolsonaro after election defeat?
+### 7. UN experts sound alarm at excessive use of force in French student protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The far-right ally of US President Donald Trump has fled to Miami with his wife and children.
+UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss)
 
 ---
 
-### 8. UN votes to condemn embargo of Cuba despite US lobbying push
+### 8. Costa Rica’s mega-prison receives first inmates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.
+President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
 
 ---
 
-### 9. Rwanda’s milk bars
+### 9. Indonesian students demand action on wildfires and rising costs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rwanda’s milk bars
+Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss)
 
 ---
 
