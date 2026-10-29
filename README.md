@@ -1,29 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 04:52:42
+**Last Update:** 2026-10-29 09:36:19
 
 **Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Healey unveils £100 for energy bills and bank tax in first Budget
+### 1. Zillow to pay $212.5M to settle class action for real estate venture
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284342">https://news.ycombinator.com/item?id=50284342</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
+
+---
+
+### 2. The Milwaukee Brewers win the first World Series title in franchise history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284329">https://news.ycombinator.com/item?id=50284329</a></p>
+<p>Points: 69</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
+
+---
+
+### 3. Claude Code burns ~15–20% of your tokens on a 3-word status line
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284255">https://news.ycombinator.com/item?id=50284255</a></p>
+<p>Points: 203</p>
+<p># Comments: 48</p>
+
+🔗 **Read more:** [https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+
+---
+
+### 4. Healey promises reduction in welfare bill before next election
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.
+The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
+### 5. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
 
 **Source:** BBC
 
@@ -36,94 +84,55 @@ People on a range of incomes from £4,062 to £150,000 a year tell the BBC what 
 
 ---
 
-### 3. High-speed train crash kills at least 68 people in Spain
+### 6. Spain begins three days of mourning after train crash kills dozens
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
+Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Riot police deployed in Madrid as protests erupt over deadly train crash
+### 7. Why a Democratic win in US midterms could adversely affect Europe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
+Complacency about rising far-right movements and renewed pressure on Ukraine could be the result.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss](https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss)
 
 ---
 
-### 5. Israelis rally for Jewish-Arab government after election gains
+### 8. Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.
+Ankara wins backing from former adversaries in Libya for maritime border agreement, but other diplomatic tests remain.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss)
 
 ---
 
-### 6. No clear winner in Israel election with nearly 90 percent of votes counted
+### 9. Russia says more than 600 drones launched towards Moscow overnight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu&#039;s right-wing bloc leads but is falling short of the votes needed to form a government.
+The attack is the latest in a series of major drone assaults targeting the Moscow region.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss)
-
----
-
-### 7. Tropical Cyclone Arnab
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729)
-
----
-
-### 8. Tropical Storm Olana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730)
-
----
-
-### 9. Wildfire Range  47B, Forrest, Mississippi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss)
 
 ---
 
