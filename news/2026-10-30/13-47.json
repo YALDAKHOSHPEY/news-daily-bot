@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T13:47:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Do You Take a Picture of a Black Hole?",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301717\">https://news.ycombinator.com/item?id=50301717</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+            "published": "Fri, 30 Oct 2026 09:49:02 +0000",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Returned My iPhone Duo",
+            "description": "<p>Article URL: <a href=\"https://codakuma.com/i-returned-my-duo/\">https://codakuma.com/i-returned-my-duo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301373\">https://news.ycombinator.com/item?id=50301373</a></p>\n<p>Points: 32</p>\n<p># Comments: 48</p>",
+            "url": "https://codakuma.com/i-returned-my-duo/",
+            "published": "Fri, 30 Oct 2026 09:00:41 +0000",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates\">https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300853\">https://news.ycombinator.com/item?id=50300853</a></p>\n<p>Points: 50</p>\n<p># Comments: 41</p>",
+            "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+            "published": "Fri, 30 Oct 2026 07:41:13 +0000",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 08:02:02 GMT",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+            "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+            "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 08:55:01 GMT",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Iconic moments from Sir Patrick Stewart's career",
+            "description": "The renowned British actor died after \"a brief and poignant journey\" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.",
+            "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 08:59:45 GMT",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AFCON returns to 2-year cycle after CAF reverses quadrennial decision",
+            "description": "Kenya, Tanzania and Uganda will cohost the next AFCON in 2027, with subsequent tournaments in 2028, 2031 and 2033.",
+            "url": "https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 09:57:36 +0000",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bhutan glacial lake outburst triggers flash floods",
+            "description": "A glacial lake outburst in northern Bhutan has triggered flash flooding.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 09:54:50 +0000",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+            "description": "Houthis deny targeting the region of the Muslim holy city as hostilities continue to escalate.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 09:42:42 +0000",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T13:47:21+03:30"
+        }
+    ]
+}
