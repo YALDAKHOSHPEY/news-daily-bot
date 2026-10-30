@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T20:21:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+            "description": "<p>Article URL: <a href=\"https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305693\">https://news.ycombinator.com/item?id=50305693</a></p>\n<p>Points: 101</p>\n<p># Comments: 76</p>",
+            "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+            "published": "Fri, 30 Oct 2026 15:52:18 +0000",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Geist Serif",
+            "description": "<p>Article URL: <a href=\"https://vercel.com/blog/introducing-geist-serif\">https://vercel.com/blog/introducing-geist-serif</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305601\">https://news.ycombinator.com/item?id=50305601</a></p>\n<p>Points: 24</p>\n<p># Comments: 11</p>",
+            "url": "https://vercel.com/blog/introducing-geist-serif",
+            "published": "Fri, 30 Oct 2026 15:46:42 +0000",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Federated Code Forge",
+            "description": "<p>Article URL: <a href=\"https://tangled.org/blog/forge/\">https://tangled.org/blog/forge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305573\">https://news.ycombinator.com/item?id=50305573</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+            "url": "https://tangled.org/blog/forge/",
+            "published": "Fri, 30 Oct 2026 15:44:29 +0000",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+            "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:27:40 GMT",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+            "description": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+            "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 16:26:11 GMT",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police in Scotland launch Andrew and Epstein royal castle investigation",
+            "description": "Media reports say the inquiries are related to claims that women were trafficked to the king’s Balmoral estate.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 16:27:39 +0000",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal boss Arteta fires ‘Disneyland’ warning at Dowman after red card",
+            "description": "Arsenal manager Mikel Arteta says he blasted Max Dowman for red card in shock cup loss at Fleetwood.",
+            "url": "https://www.aljazeera.com/sports/2026/10/30/arsenal-boss-arteta-fires-disneyland-warning-at-dowman-after-red-card?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 16:23:12 +0000",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+            "description": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 15:50:23 +0000",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T20:21:31+03:30"
+        }
+    ]
+}
