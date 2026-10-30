@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 14:02:59
+**Last Update:** 2026-10-30 20:15:13
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Do You Take a Picture of a Black Hole?
+### 1. AI Isn't Replacing SREs. It's Deskilling Them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301717">https://news.ycombinator.com/item?id=50301717</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305693">https://news.ycombinator.com/item?id=50305693</a></p>
+<p>Points: 101</p>
+<p># Comments: 76</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
+🔗 **Read more:** [https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
 
 ---
 
-### 2. 'Elite North Korean hackers' blamed for $6.3B Binance hack
+### 2. Geist Serif
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates">https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300853">https://news.ycombinator.com/item?id=50300853</a></p>
-<p>Points: 57</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://vercel.com/blog/introducing-geist-serif">https://vercel.com/blog/introducing-geist-serif</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305601">https://news.ycombinator.com/item?id=50305601</a></p>
+<p>Points: 24</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
+🔗 **Read more:** [https://vercel.com/blog/introducing-geist-serif](https://vercel.com/blog/introducing-geist-serif)
 
 ---
 
-### 3. Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe
+### 3. The Federated Code Forge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.workatastartup.com/jobs/98722">https://www.workatastartup.com/jobs/98722</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300643">https://news.ycombinator.com/item?id=50300643</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://tangled.org/blog/forge/">https://tangled.org/blog/forge/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305573">https://news.ycombinator.com/item?id=50305573</a></p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.workatastartup.com/jobs/98722](https://www.workatastartup.com/jobs/98722)
+🔗 **Read more:** [https://tangled.org/blog/forge/](https://tangled.org/blog/forge/)
 
 ---
 
@@ -65,74 +65,74 @@
 **Category:** world
 
 **Description:**
-BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.
+Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86
+### 5. Driver guilty of hitting cyclist and dragging him to death under car
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The actor died in Los Angeles following a "a brief and poignant journey" with Alzheimer's Disease and Lewy Body Dementia.
+Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Iconic moments from Sir Patrick Stewart's career
+### 6. Ceasefire allows evacuation from devastated Russian-occupied Oleshky
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The renowned British actor died after "a brief and poignant journey" with Alzheimer's disease and Lewy Body Dementia, his spokesperson says.
+But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What can a global strike of dockworkers achieve for Gaza?
+### 7. Police in Scotland launch Andrew and Epstein royal castle investigation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 25 dockworkers&#039; trade unions in over 110 ports in 22 countries are going on strike on October 30 .
+Media reports say the inquiries are related to claims that women were trafficked to the king’s Balmoral estate.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss)
 
 ---
 
-### 8. AFCON returns to 2-year cycle after CAF reverses quadrennial decision
+### 8. Arsenal boss Arteta fires ‘Disneyland’ warning at Dowman after red card
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kenya, Tanzania and Uganda will cohost the next AFCON in 2027, with subsequent tournaments in 2028, 2031 and 2033.
+Arsenal manager Mikel Arteta says he blasted Max Dowman for red card in shock cup loss at Fleetwood.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/30/afcon-returns-to-2-year-cycle-after-caf-reverses-quadrennial-decision?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/30/arsenal-boss-arteta-fires-disneyland-warning-at-dowman-after-red-card?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/30/arsenal-boss-arteta-fires-disneyland-warning-at-dowman-after-red-card?traffic_source=rss)
 
 ---
 
-### 9. Bhutan glacial lake outburst triggers flash floods
+### 9. Jerusalem Daily: Israel’s siege on Hebron displaces thousands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A glacial lake outburst in northern Bhutan has triggered flash flooding.
+Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss)
 
 ---
 
