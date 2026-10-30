@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 00:43:25
+**Last Update:** 2026-10-31 01:07:53
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
+### 1. Show HN: Ultrafast Rust Based ADE
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://trypalomino.com/">https://trypalomino.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310055">https://news.ycombinator.com/item?id=50310055</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://trypalomino.com/](https://trypalomino.com/)
+
+---
+
+### 2. Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309647">https://news.ycombinator.com/item?id=50309647</a></p>
-<p>Points: 32</p>
-<p># Comments: 8</p>
+<p>Points: 38</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
 
 ---
 
-### 2. Embraer's Atech aims to double in size by 2030 with drone traffic control
+### 3. Embraer's Atech aims to double in size by 2030 with drone traffic control
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/">https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309573">https://news.ycombinator.com/item?id=50309573</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
-
----
-
-### 3. Programming at Light Speed: Building the Gravity Query Engine
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pgrust.com/blog/programming-at-light-speed/">https://pgrust.com/blog/programming-at-light-speed/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309571">https://news.ycombinator.com/item?id=50309571</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://pgrust.com/blog/programming-at-light-speed/](https://pgrust.com/blog/programming-at-light-speed/)
 
 ---
 
@@ -117,7 +117,7 @@ Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and oth
 **Category:** world
 
 **Description:**
-The 9th Circuit Court called the petition to remove 20,000 ballots from California&#039;s vote count unconstitutional.
+The 9th Circuit Court calls the petition to remove 20,000 ballots from California&#039;s vote count unconstitutional.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss)
 
