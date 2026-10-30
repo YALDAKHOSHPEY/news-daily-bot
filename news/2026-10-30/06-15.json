@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T06:15:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pico CSS is no longer maintained",
+            "description": "<p>Article URL: <a href=\"https://github.com/picocss/pico/discussions/754\">https://github.com/picocss/pico/discussions/754</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298964\">https://news.ycombinator.com/item?id=50298964</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/picocss/pico/discussions/754",
+            "published": "Fri, 30 Oct 2026 01:58:44 +0000",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
+            "description": "<p>Article URL: <a href=\"https://github.com/zacharybenson/arken-protocol\">https://github.com/zacharybenson/arken-protocol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298738\">https://news.ycombinator.com/item?id=50298738</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/zacharybenson/arken-protocol",
+            "published": "Fri, 30 Oct 2026 01:22:38 +0000",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Herdr has released native app",
+            "description": "<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 30</p>\n<p># Comments: 23</p>",
+            "url": "https://github.com/herdrdev/herdr-app",
+            "published": "Fri, 30 Oct 2026 00:42:41 +0000",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+            "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 22:17:52 GMT",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australian mushroom murderer loses appeal to overturn convictions",
+            "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
+            "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 01:35:40 GMT",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto worth billions frozen after suspected Binance hack",
+            "description": "The firm has not said how much was potentially stolen but some crypto experts have put the figure at over $5bn.",
+            "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 02:18:00 GMT",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fujimori tours El Salvador mega-prison with hopes to build one in Peru",
+            "description": "Peru’s President Keiko Fujimori has inspected El Salvador’s mega-prison as she mulls a proposal to build one in Peru.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fujimori-tours-el-salvador-mega-prison-with-hopes-to-build-one-in-peru?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 02:38:35 +0000",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Salvadoran ex-president Saca released after 10-year sentence for corruption",
+            "description": "Elias Antonio Saca confessed to diverting more than $300m in public funds during his presidency and accepted a plea barg",
+            "url": "https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 02:38:34 +0000",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration renews bid to block Alaska election results",
+            "description": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 01:30:30 +0000",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T06:15:58+03:30"
+        }
+    ]
+}

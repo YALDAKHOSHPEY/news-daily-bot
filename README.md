@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 03:14:15
+**Last Update:** 2026-10-30 06:15:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)
+### 1. Pico CSS is no longer maintained
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://journal.animationstudies.org/article/id/66/">https://journal.animationstudies.org/article/id/66/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50297089">https://news.ycombinator.com/item?id=50297089</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/picocss/pico/discussions/754">https://github.com/picocss/pico/discussions/754</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298964">https://news.ycombinator.com/item?id=50298964</a></p>
+<p>Points: 24</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://journal.animationstudies.org/article/id/66/](https://journal.animationstudies.org/article/id/66/)
+🔗 **Read more:** [https://github.com/picocss/pico/discussions/754](https://github.com/picocss/pico/discussions/754)
 
 ---
 
-### 2. The Great American Rascal: Tom Sawyer at 150
+### 2. Show HN: Arken – Passwordless auth middleware using secp256k1 keys
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claremontreviewofbooks.com/the-great-american-rascal/">https://claremontreviewofbooks.com/the-great-american-rascal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296947">https://news.ycombinator.com/item?id=50296947</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://claremontreviewofbooks.com/the-great-american-rascal/](https://claremontreviewofbooks.com/the-great-american-rascal/)
-
----
-
-### 3. Should a medical diagnosis reshape the past? (2025)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chengela.substack.com/p/should-a-medical-diagnosis-reshape">https://chengela.substack.com/p/should-a-medical-diagnosis-reshape</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296920">https://news.ycombinator.com/item?id=50296920</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://github.com/zacharybenson/arken-protocol">https://github.com/zacharybenson/arken-protocol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298738">https://news.ycombinator.com/item?id=50298738</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://chengela.substack.com/p/should-a-medical-diagnosis-reshape](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
+🔗 **Read more:** [https://github.com/zacharybenson/arken-protocol](https://github.com/zacharybenson/arken-protocol)
 
 ---
 
-### 4. Watch: Life and career of iconic actor Sir Patrick Stewart
+### 3. Herdr has released native app
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/herdrdev/herdr-app">https://github.com/herdrdev/herdr-app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298436">https://news.ycombinator.com/item?id=50298436</a></p>
+<p>Points: 30</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://github.com/herdrdev/herdr-app](https://github.com/herdrdev/herdr-app)
+
+---
+
+### 4. Google value plunges by $500bn as AI fears rattle Wall Street
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In a career that spanned seven decades, Sir Patrick won multiple Emmys and Golden Globes, a star on the Hollywood Walk of Fame and a knighthood from Queen Elizabeth II.
+Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham says he wants to cut welfare bill 'as soon as we possibly can'
+### 5. Australian mushroom murderer loses appeal to overturn convictions
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.
+Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Young athlete and former minister among victims of Spain train crash
+### 6. Crypto worth billions frozen after suspected Binance hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.
+The firm has not said how much was potentially stolen but some crypto experts have put the figure at over $5bn.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86
+### 7. Fujimori tours El Salvador mega-prison with hopes to build one in Peru
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Stewart died in Los Angeles after living with Alzheimer&#039;s disease and Lewy body dementia.
+Peru’s President Keiko Fujimori has inspected El Salvador’s mega-prison as she mulls a proposal to build one in Peru.
 
-🔗 **Read more:** [https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss](https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/fujimori-tours-el-salvador-mega-prison-with-hopes-to-build-one-in-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/fujimori-tours-el-salvador-mega-prison-with-hopes-to-build-one-in-peru?traffic_source=rss)
 
 ---
 
-### 8. Trump administration attempts to take down leak of ICE personnel data
+### 8. Salvadoran ex-president Saca released after 10-year sentence for corruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Icelandic web company, FlokiNET, has defended the data&#039;s publication as satisfying a &#039;legitimate&#039; public interest.
+Elias Antonio Saca confessed to diverting more than $300m in public funds during his presidency and accepted a plea barg
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss)
 
 ---
 
-### 9. Palestinians face growing bans from Al-Aqsa as Israel tightens control
+### 9. Trump administration renews bid to block Alaska election results
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.
+The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss)
 
 ---
 
