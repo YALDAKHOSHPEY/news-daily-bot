@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 13:47:21
+**Last Update:** 2026-10-30 14:02:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/">https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301717">https://news.ycombinator.com/item?id=50301717</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/)
 
 ---
 
-### 2. I Returned My iPhone Duo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://codakuma.com/i-returned-my-duo/">https://codakuma.com/i-returned-my-duo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50301373">https://news.ycombinator.com/item?id=50301373</a></p>
-<p>Points: 32</p>
-<p># Comments: 48</p>
-
-🔗 **Read more:** [https://codakuma.com/i-returned-my-duo/](https://codakuma.com/i-returned-my-duo/)
-
----
-
-### 3. 'Elite North Korean hackers' blamed for $6.3B Binance hack
+### 2. 'Elite North Korean hackers' blamed for $6.3B Binance hack
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates">https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300853">https://news.ycombinator.com/item?id=50300853</a></p>
-<p>Points: 50</p>
-<p># Comments: 41</p>
+<p>Points: 57</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates](https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates)
+
+---
+
+### 3. Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.workatastartup.com/jobs/98722">https://www.workatastartup.com/jobs/98722</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50300643">https://news.ycombinator.com/item?id=50300643</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.workatastartup.com/jobs/98722](https://www.workatastartup.com/jobs/98722)
 
 ---
 
@@ -97,7 +97,20 @@ The renowned British actor died after "a brief and poignant journey" with Alzhei
 
 ---
 
-### 7. AFCON returns to 2-year cycle after CAF reverses quadrennial decision
+### 7. What can a global strike of dockworkers achieve for Gaza?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 25 dockworkers&#039; trade unions in over 110 ports in 22 countries are going on strike on October 30 .
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss)
+
+---
+
+### 8. AFCON returns to 2-year cycle after CAF reverses quadrennial decision
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Kenya, Tanzania and Uganda will cohost the next AFCON in 2027, with subsequent t
 
 ---
 
-### 8. Bhutan glacial lake outburst triggers flash floods
+### 9. Bhutan glacial lake outburst triggers flash floods
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Kenya, Tanzania and Uganda will cohost the next AFCON in 2027, with subsequent t
 A glacial lake outburst in northern Bhutan has triggered flash flooding.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/30-10-sv-bhutan-glacial-lake-outburst-flash-floods-301026?traffic_source=rss)
-
----
-
-### 9. Saudi Arabia reports interception of Houthi drone targeting Mecca
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthis deny targeting the region of the Muslim holy city as hostilities continue to escalate.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss)
 
 ---
 
