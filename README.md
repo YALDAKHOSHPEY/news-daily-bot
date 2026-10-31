@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 17:30:28
+**Last Update:** 2026-10-31 18:55:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI startup hacks Anthropic, gains access to employee details, internal messages
+### 1. Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315990">https://news.ycombinator.com/item?id=50315990</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/">https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50316760">https://news.ycombinator.com/item?id=50316760</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
+🔗 **Read more:** [https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
 
 ---
 
-### 2. Why Anthropic's Filing Crushed Tech Stocks
+### 2. Gemini Code vs. Claude Code – A cautionary post-mortem ($800 in 12h)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315574">https://news.ycombinator.com/item?id=50315574</a></p>
-<p>Points: 18</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j">https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50316526">https://news.ycombinator.com/item?id=50316526</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
+🔗 **Read more:** [https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j](https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j)
 
 ---
 
-### 3. Prospero: A new coding harness for a more civilized age
+### 3. Retired professor arrested for blocking delivery robot. Will do it again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nullprogram.com/blog/2026/10/31/">https://nullprogram.com/blog/2026/10/31/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315226">https://news.ycombinator.com/item?id=50315226</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec">https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50316103">https://news.ycombinator.com/item?id=50316103</a></p>
+<p>Points: 42</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://nullprogram.com/blog/2026/10/31/](https://nullprogram.com/blog/2026/10/31/)
+🔗 **Read more:** [https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec](https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec)
 
 ---
 
@@ -97,42 +97,42 @@ If the accusations are true, the record-making heist shows how powerful suspecte
 
 ---
 
-### 7. Burnham opens door to formal apology for Britain’s slave trade
+### 7. Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.
+Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn&#039;t rule out attack, is ‘prepared for all scenarios’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss)
 
 ---
 
-### 8. On the Norway-Russia border, the Sámi people face a growing divide
+### 8. Syria considering entry into Mecca defence pact, says foreign minister
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.
+Damascus &#039;evaluating&#039; whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss)
 
 ---
 
-### 9. West Indies thrash Bangladesh by eight wickets in first Test in Mirpur
+### 9. Israel voted for Israel: Why Gaza wasn’t on the ballot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.
+Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/west-indies-bangladesh-first-test-eight-wickets-mirpur-series-lead?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss)
 
 ---
 
