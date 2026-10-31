@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 11:12:55
+**Last Update:** 2026-10-31 12:06:25
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -28,8 +28,8 @@ For more information<p>We regret that this incident occurred and any concern it 
 We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312756">https://news.ycombinator.com/item?id=50312756</a></p>
-<p>Points: 156</p>
-<p># Comments: 62</p>
+<p>Points: 178</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50312756](https://news.ycombinator.com/item?id=50312756)
 
@@ -44,8 +44,8 @@ We value the trust you place in us with your information, and don’t take that 
 **Description:**
 <p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
-<p>Points: 175</p>
-<p># Comments: 47</p>
+<p>Points: 183</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
 
@@ -60,7 +60,7 @@ We value the trust you place in us with your information, and don’t take that 
 **Description:**
 <p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
-<p>Points: 117</p>
+<p>Points: 125</p>
 <p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
@@ -106,42 +106,42 @@ If the accusations are true, the record-making heist shows how powerful suspecte
 
 ---
 
-### 7. US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea
+### 7. Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.
+Conflict devastates Black Sea marine life, killing more than 120,000 dolphins and causing ecological damage.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss)
 
 ---
 
-### 8. US midterms: 3 days to go – What latest polls say as early voting surges
+### 8. RSF senior commander defects, accusing Sudan group’s leadership of nepotism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 43 million Americans have voted early as Democrats lead opinion polls and Trump prepares for final rallies.
+In exclusive footage obtained by Al Jazeera, Siddiq Ander describes RSF as a &#039;purely family-based project&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/rsf-senior-commander-defects-accusing-sudan-groups-leadership-of-nepotism?traffic_source=rss)
 
 ---
 
-### 9. Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo
+### 9. Are Houthis using Russian satellites as Saudi Arabia fends off strikes?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.
+Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss)
 
 ---
 
