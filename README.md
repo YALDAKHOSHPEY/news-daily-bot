@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 04:43:03
+**Last Update:** 2026-10-31 05:12:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Points: 43</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
 
 ---
 
-### 2. Anthropic to receive high 'junk' rating from credit agencies following IPO
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311311">https://news.ycombinator.com/item?id=50311311</a></p>
-<p>Points: 63</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
-
----
-
-### 3. Linode Security Incident
+### 2. Linode Security Incident
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://status.linode.com/incidents/nt58zhx3pmgm">https://status.linode.com/incidents/nt58zhx3pmgm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310687">https://news.ycombinator.com/item?id=50310687</a></p>
-<p>Points: 135</p>
+<p>Points: 141</p>
 <p># Comments: 73</p>
 
 🔗 **Read more:** [https://status.linode.com/incidents/nt58zhx3pmgm](https://status.linode.com/incidents/nt58zhx3pmgm)
+
+---
+
+### 3. sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
+<p>Points: 56</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
 
 ---
 
@@ -97,7 +97,20 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 7. Germany and France brace for protests on Halloween weekend
+### 7. Dog walker threatened with gun during ICE arrest in North Hollywood
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss)
+
+---
+
+### 8. Germany and France brace for protests on Halloween weekend
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A wave of youth-led protests has swept Europe, with demonstrators denouncing ris
 
 ---
 
-### 8. Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
+### 9. Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A wave of youth-led protests has swept Europe, with demonstrators denouncing ris
 The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss)
-
----
-
-### 9. Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss)
 
 ---
 
