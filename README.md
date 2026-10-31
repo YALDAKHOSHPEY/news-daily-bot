@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 18:55:30
+**Last Update:** 2026-10-31 22:24:13
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/">https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50316760">https://news.ycombinator.com/item?id=50316760</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
-
----
-
-### 2. Gemini Code vs. Claude Code – A cautionary post-mortem ($800 in 12h)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j">https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50316526">https://news.ycombinator.com/item?id=50316526</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j](https://n.aspencreekbs.com/RZo9ksiKqtTiTLy6b0xiKj2j)
-
----
-
-### 3. Retired professor arrested for blocking delivery robot. Will do it again
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec">https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50316103">https://news.ycombinator.com/item?id=50316103</a></p>
-<p>Points: 42</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec](https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec)
-
----
-
-### 4. Burnham 'open' to calls for slavery apology but not reparations
+### 1. Ukrainian evacuees reunite with family after years trapped in Russia-occupied city
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.
+Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
+### 2. Emotional reunions with loved ones for Oleshky evacuees
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
+The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks
+### 3. Healey risks breaking minimum wage promise for younger workers
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Evacuees of Russian-occupied Oleshky reunited with families
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn&#039;t rule out attack, is ‘prepared for all scenarios’.
+Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss)
 
 ---
 
-### 8. Syria considering entry into Mecca defence pact, says foreign minister
+### 5. Tension and clashes as hundreds of thousands protest again in France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Damascus &#039;evaluating&#039; whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.
+Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss)
 
 ---
 
-### 9. Israel voted for Israel: Why Gaza wasn’t on the ballot
+### 6. Coventry win leaves Man United on brink of Premier League relegation zone
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.
+Manchester United one place outside the EPL&#039;s bottom three as Coventry City climb with 3-1 win over Sunderland.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss)
 
 ---
 
-### 10. Wildfire South Tank Trail, Perry, Mississippi
+### 7. Wildfire South Tank Trail, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
