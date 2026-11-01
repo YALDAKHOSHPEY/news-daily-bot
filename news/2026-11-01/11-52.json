@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T11:52:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pac-Man's Siren Call",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/pac-mans-siren-call/\">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50323187\">https://news.ycombinator.com/item?id=50323187</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
+            "published": "Sun, 01 Nov 2026 06:29:49 +0000",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI cost of JavaScript frameworks",
+            "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50323088\">https://news.ycombinator.com/item?id=50323088</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>",
+            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+            "published": "Sun, 01 Nov 2026 06:06:19 +0000",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+            "description": "<p>Article URL: <a href=\"https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322173\">https://news.ycombinator.com/item?id=50322173</a></p>\n<p>Points: 97</p>\n<p># Comments: 39</p>",
+            "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+            "published": "Sun, 01 Nov 2026 02:19:53 +0000",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shops looted as German cost of living protests turn violent",
+            "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 07:36:18 GMT",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+            "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+            "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 16:55:47 GMT",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "No, France is not ‘burning’",
+            "description": "It is merely witnessing another episode of unrest that – like many others in its history – has a violent element to it.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 07:56:52 +0000",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia’s canopy collapse, two years on in a changed country",
+            "description": "Two years after Novi Sad’s railway station canopy collapse, Serbia marks the second anniversary of the tragedy.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 07:53:26 +0000",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+            "description": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
+            "url": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 07:34:55 +0000",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T11:52:40+03:30"
+        }
+    ]
+}

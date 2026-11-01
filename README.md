@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 05:53:36
+**Last Update:** 2026-11-01 11:52:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards
+### 1. Pac-Man's Siren Call
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN,<p>I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.<p>Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot.<p>The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions.<p>A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad.<p>Happy to answer anything, and tell me what breaks.<p>p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321522">https://news.ycombinator.com/item?id=50321522</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://bbrouter.com/bbrouter/ben-eater-sap-1](https://bbrouter.com/bbrouter/ben-eater-sap-1)
+🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
 
 ---
 
-### 2. Constructing a Quine from Kleene's Second Recursion Theorem
+### 2. The AI cost of JavaScript frameworks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://emarzion.github.io/KSRT/">https://emarzion.github.io/KSRT/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321436">https://news.ycombinator.com/item?id=50321436</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://emarzion.github.io/KSRT/](https://emarzion.github.io/KSRT/)
+🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
 ---
 
-### 3. Work Requirements for Trick-or-Treaters
+### 3. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://morewrong.lol/?post=work-requirements-trick-or-treaters">https://morewrong.lol/?post=work-requirements-trick-or-treaters</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321373">https://news.ycombinator.com/item?id=50321373</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
+<p>Points: 97</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://morewrong.lol/?post=work-requirements-trick-or-treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)
+🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
 
 ---
 
-### 4. 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city
+### 4. Shops looted as German cost of living protests turn violent
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One evacuated couple says they crossed minefields in Oleshky in search of food.
+The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,55 +84,55 @@ The Chancellor has suggested that younger workers might not receive the same min
 
 ---
 
-### 6. King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour
+### 6. Emotional reunions for Oleshky evacuees after years in Russia-occupied city
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.
+The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Talarico draws a packed campus rally, but can he win over young voters?
+### 7. No, France is not ‘burning’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&amp;M.
+It is merely witnessing another episode of unrest that – like many others in its history – has a violent element to it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss)
 
 ---
 
-### 8. Polish president holds crisis talks in court standoff
+### 8. Serbia’s canopy collapse, two years on in a changed country
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A dispute over the politicisation of Poland&#039;s constitutional court is deepening, with no side appearing to back down.
+Two years after Novi Sad’s railway station canopy collapse, Serbia marks the second anniversary of the tragedy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss)
 
 ---
 
-### 9. Gen Z-led protests in Germany turn violent
+### 9. Israel’s war on homes: From Hebron to Gaza and southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters clashed with police as thousands took to the streets across 34 cities in Germany.
+From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss)
 
 ---
 
