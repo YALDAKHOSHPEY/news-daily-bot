@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 23:27:25
+**Last Update:** 2026-11-02 00:09:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Proposed data centre will release 23 Hiroshima atomic bomb worth of energy a day
+### 1. Ask HN: Which TV do you recommend for privacy?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/lite/story/9.7403677">https://www.cbc.ca/lite/story/9.7403677</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328556">https://news.ycombinator.com/item?id=50328556</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
+<p>Points: 21</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.cbc.ca/lite/story/9.7403677](https://www.cbc.ca/lite/story/9.7403677)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
 
 ---
 
-### 2. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
+### 2. It wasn't AI that flipped Proton's charge
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.raed.dev/posts/proton-loser-thinking/">https://blog.raed.dev/posts/proton-loser-thinking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328488">https://news.ycombinator.com/item?id=50328488</a></p>
+<p>Points: 72</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://blog.raed.dev/posts/proton-loser-thinking/](https://blog.raed.dev/posts/proton-loser-thinking/)
+
+---
+
+### 3. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
 
 **Source:** Hacker News
 
@@ -35,39 +52,23 @@
 **Description:**
 <p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328487">https://news.ycombinator.com/item?id=50328487</a></p>
-<p>Points: 43</p>
-<p># Comments: 16</p>
+<p>Points: 109</p>
+<p># Comments: 94</p>
 
 🔗 **Read more:** [https://nurse.org/news/uber-for-nursing-gig-apps-report/](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
 
 ---
 
-### 3. US Jobs Pickup May Keep Fed on Track to Hike Rates Again
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again">https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328462">https://news.ycombinator.com/item?id=50328462</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
-
----
-
-### 4. Shops looted as German cost-of-living protests turn violent
+### 4. Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
+A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +98,33 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. Arsenal go top after narrow win at Liverpool
+### 7. Al Jazeera celebrates 30th anniversary
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss)
+
+---
+
+### 8. Video captures house collapsing due to Ecuador floods
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss)
+
+---
+
+### 9. Arsenal go top after narrow win at Liverpool
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ The broadband provider has not finalised the number of roles to be axed but it w
 Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss)
-
----
-
-### 8. How will the Iran war shape the outcome of the US midterm vote?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The conflict has become a central issue ahead of Tuesday&#039;s polls.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss)
-
----
-
-### 9. France opens ‘attempted murder’ probe into petrol bomb attacks on police
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-No arrests made after several security officers were reportedly injured during incidents at Saturday&#039;s protests.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss)
 
 ---
 
