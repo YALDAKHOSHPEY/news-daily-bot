@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 19:43:01
+**Last Update:** 2026-11-01 23:27:25
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Enlightenment 0.28.0 Release
+### 1. Proposed data centre will release 23 Hiroshima atomic bomb worth of energy a day
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326530">https://news.ycombinator.com/item?id=50326530</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.cbc.ca/lite/story/9.7403677">https://www.cbc.ca/lite/story/9.7403677</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328556">https://news.ycombinator.com/item?id=50328556</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
+🔗 **Read more:** [https://www.cbc.ca/lite/story/9.7403677](https://www.cbc.ca/lite/story/9.7403677)
 
 ---
 
-### 2. Police chief unplugs Flock cameras after company ignores contract cancellation
+### 2. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
-<p>Points: 68</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328487">https://news.ycombinator.com/item?id=50328487</a></p>
+<p>Points: 43</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
+🔗 **Read more:** [https://nurse.org/news/uber-for-nursing-gig-apps-report/](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
 
 ---
 
-### 3. Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+### 3. US Jobs Pickup May Keep Fed on Track to Hike Rates Again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/">https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326099">https://news.ycombinator.com/item?id=50326099</a></p>
-<p>Points: 95</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again">https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328462">https://news.ycombinator.com/item?id=50328462</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again](https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)
 
 ---
 
@@ -71,20 +71,7 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Healey risks breaking minimum wage promise for younger workers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Five teenagers stabbed at Halloween party
+### 5. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Hampshire Police believes an unknown group gained entry to the party at an addre
 
 ---
 
-### 7. Trump slams ex-lawyer’s $50m deal with pardoned banker’s family
+### 6. Thousands of jobs at Virgin Media O2 to be cut
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
+The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Dramatic helicopter rescue saves climbers stranded on Italian cliff
+### 7. Arsenal go top after narrow win at Liverpool
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dramatic helicopter rescue saves climbers stranded on Italian cliff
+Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss)
 
 ---
 
-### 9. JERUSALEM DAILY: Israel continues siege and arrests in Hebron
+### 8. How will the Iran war shape the outcome of the US midterm vote?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
+The conflict has become a central issue ahead of Tuesday&#039;s polls.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss)
+
+---
+
+### 9. France opens ‘attempted murder’ probe into petrol bomb attacks on police
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+No arrests made after several security officers were reportedly injured during incidents at Saturday&#039;s protests.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss)
 
 ---
 
