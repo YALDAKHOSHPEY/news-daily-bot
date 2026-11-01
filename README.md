@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 12:57:18
+**Last Update:** 2026-11-01 19:04:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pac-Man's Siren Call
+### 1. Police chief unplugs Flock cameras after company ignores contract cancellation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 
 ---
 
-### 2. The AI cost of JavaScript frameworks
+### 2. Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/">https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326099">https://news.ycombinator.com/item?id=50326099</a></p>
+<p>Points: 38</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+🔗 **Read more:** [https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
 
 ---
 
-### 3. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+### 3. Pi Is the Last Harness
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
-<p>Points: 110</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://destiner.io/blog/post/pi-is-the-last-harness/">https://destiner.io/blog/post/pi-is-the-last-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326025">https://news.ycombinator.com/item?id=50326025</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+🔗 **Read more:** [https://destiner.io/blog/post/pi-is-the-last-harness/](https://destiner.io/blog/post/pi-is-the-last-harness/)
 
 ---
 
-### 4. Shops looted as German cost of living protests turn violent
+### 4. Shops looted as German cost-of-living protests turn violent
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
+### 5. Healey risks breaking minimum wage promise for younger workers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.
+The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Reeves says UK's future should be inside the EU
+### 6. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".
+Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lamine Yamal, Raphinha help Barcelona hammer Alaves to retain Liga top spot
+### 7. Burnham ‘open’ to UK slavery apology, but not reparations: Why now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yamal and Raphinha score two goals each as Barcelona recover from last week&#039;s loss in El Clasico to move back on top.
+The UK PM&#039;s statement comes as Commonwealth nations meet in Antigua and Barbuda.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss)
 
 ---
 
-### 8. Where are the most expensive midterm races and who is funding them?
+### 8. Photos: Thousands join India’s opposition rally against election chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senate races in Texas, Michigan and Ohio rank among the most expensive in this year&#039;s midterm cycle.
+Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss)
 
 ---
 
-### 9. F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico
+### 9. Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-George Russell is second fastest and Charles Leclerc third while reigning champion Lando Norris qualifies sixth.
+Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss)
 
 ---
 

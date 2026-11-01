@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T19:04:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies\">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326118\">https://news.ycombinator.com/item?id=50326118</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+            "published": "Sun, 01 Nov 2026 14:36:13 +0000",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/\">https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326099\">https://news.ycombinator.com/item?id=50326099</a></p>\n<p>Points: 38</p>\n<p># Comments: 11</p>",
+            "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+            "published": "Sun, 01 Nov 2026 14:34:43 +0000",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pi Is the Last Harness",
+            "description": "<p>Article URL: <a href=\"https://destiner.io/blog/post/pi-is-the-last-harness/\">https://destiner.io/blog/post/pi-is-the-last-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326025\">https://news.ycombinator.com/item?id=50326025</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://destiner.io/blog/post/pi-is-the-last-harness/",
+            "published": "Sun, 01 Nov 2026 14:27:29 +0000",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shops looted as German cost-of-living protests turn violent",
+            "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 11:05:40 GMT",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers stabbed at Halloween party",
+            "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 15:01:31 GMT",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
+            "description": "The UK PM&#039;s statement comes as Commonwealth nations meet in Antigua and Barbuda.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 15:24:08 +0000",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Thousands join India’s opposition rally against election chief",
+            "description": "Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 14:46:03 +0000",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+            "description": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 14:26:43 +0000",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T19:04:18+03:30"
+        }
+    ]
+}
