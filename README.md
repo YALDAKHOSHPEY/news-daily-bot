@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 19:04:18
+**Last Update:** 2026-11-01 19:43:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Police chief unplugs Flock cameras after company ignores contract cancellation
+### 1. Enlightenment 0.28.0 Release
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326530">https://news.ycombinator.com/item?id=50326530</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
+
+---
+
+### 2. Police chief unplugs Flock cameras after company ignores contract cancellation
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Points: 68</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 
 ---
 
-### 2. Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
+### 3. Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/">https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326099">https://news.ycombinator.com/item?id=50326099</a></p>
-<p>Points: 38</p>
-<p># Comments: 11</p>
+<p>Points: 95</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
-
----
-
-### 3. Pi Is the Last Harness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://destiner.io/blog/post/pi-is-the-last-harness/">https://destiner.io/blog/post/pi-is-the-last-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326025">https://news.ycombinator.com/item?id=50326025</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://destiner.io/blog/post/pi-is-the-last-harness/](https://destiner.io/blog/post/pi-is-the-last-harness/)
 
 ---
 
@@ -97,42 +97,42 @@ Hampshire Police believes an unknown group gained entry to the party at an addre
 
 ---
 
-### 7. Burnham ‘open’ to UK slavery apology, but not reparations: Why now?
+### 7. Trump slams ex-lawyer’s $50m deal with pardoned banker’s family
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UK PM&#039;s statement comes as Commonwealth nations meet in Antigua and Barbuda.
+Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
 
 ---
 
-### 8. Photos: Thousands join India’s opposition rally against election chief
+### 8. Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.
+Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss)
 
 ---
 
-### 9. Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?
+### 9. JERUSALEM DAILY: Israel continues siege and arrests in Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.
+Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss)
 
 ---
 
