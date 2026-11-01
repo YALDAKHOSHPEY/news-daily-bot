@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 11:52:40
+**Last Update:** 2026-11-01 12:57:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
-<p>Points: 97</p>
-<p># Comments: 39</p>
+<p>Points: 110</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
 
@@ -71,68 +71,68 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers
+### 5. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
+The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Emotional reunions for Oleshky evacuees after years in Russia-occupied city
+### 6. Reeves says UK's future should be inside the EU
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.
+In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. No, France is not ‘burning’
+### 7. Lamine Yamal, Raphinha help Barcelona hammer Alaves to retain Liga top spot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It is merely witnessing another episode of unrest that – like many others in its history – has a violent element to it.
+Yamal and Raphinha score two goals each as Barcelona recover from last week&#039;s loss in El Clasico to move back on top.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss)
 
 ---
 
-### 8. Serbia’s canopy collapse, two years on in a changed country
+### 8. Where are the most expensive midterm races and who is funding them?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two years after Novi Sad’s railway station canopy collapse, Serbia marks the second anniversary of the tragedy.
+Senate races in Texas, Michigan and Ohio rank among the most expensive in this year&#039;s midterm cycle.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss)
 
 ---
 
-### 9. Israel’s war on homes: From Hebron to Gaza and southern Lebanon
+### 9. F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.
+George Russell is second fastest and Charles Leclerc third while reigning champion Lando Norris qualifies sixth.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss)
 
 ---
 
