@@ -1,61 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 11:21:26
+**Last Update:** 2026-11-02 15:18:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN
+### 1. Show HN: I've updated my Linux System Call website and API
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through the frontend -- I'll add more features if people enjoy this!</p>
+<p>I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert.<p>The API is at <a href="https://api.syscall.sh" rel="nofollow">https://api.syscall.sh</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333339">https://news.ycombinator.com/item?id=50333339</a></p>
-<p>Points: 60</p>
-<p># Comments: 15</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50334704">https://news.ycombinator.com/item?id=50334704</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://wikihack.netlify.app](https://wikihack.netlify.app)
+🔗 **Read more:** [https://syscall.sh/](https://syscall.sh/)
 
 ---
 
-### 2. F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+### 2. China's First Frontier AI Export Controls: Mofcom Announcement No. 48
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332163">https://news.ycombinator.com/item?id=50332163</a></p>
-<p>Points: 92</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50334038">https://news.ycombinator.com/item?id=50334038</a></p>
+<p>Points: 41</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+🔗 **Read more:** [https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
 
 ---
 
-### 3. Bones may release proteins that slow aging and extend life span
+### 3. From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span">https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50331957">https://news.ycombinator.com/item?id=50331957</a></p>
-<p>Points: 37</p>
+<p>Article URL: <a href="https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/">https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333774">https://news.ycombinator.com/item?id=50333774</a></p>
+<p>Points: 35</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
+🔗 **Read more:** [https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/](https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/)
 
 ---
 
@@ -72,68 +72,68 @@ Newcastle Hospitals NHS Trust apologises for care it says "fell short of the sta
 
 ---
 
-### 5. Iran killed her teenage daughter - now she is facing up to the regime
+### 5. Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
+One store in Sweden says temperatures for its freezers were set to 50 C (122F).
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Five teenagers stabbed at Halloween party
+### 6. Nine killed as small jet crashes on Florida street
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.
+Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a "horrific tragedy".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The future of the Palestinian vote in Israel
+### 7. Sudan files complaints against Ethiopia with UN over deadly drone spree
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.
+One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss)
 
 ---
 
-### 8. Bangladesh garment factories disrupted as protests continue for third day
+### 8. Jailed PKK founder Ocalan moved to new section of Turkish island prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Workers in Bangladesh&#039;s largest export sector are demanding a minimum wage increase amid rising inflation.
+Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss)
 
 ---
 
-### 9. Final distress call with Learjet pilot captured moments before crash
+### 9. As aid situation worsens, displaced Sudanese worry about warnings of famine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Newly released air traffic control recordings reveal the crew’s urgent mayday calls onboard a Learjet 60 jet
+Sudan&#039;s displaced people now face a mounting food crisis, with warnings of famine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss](https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss)
 
 ---
 

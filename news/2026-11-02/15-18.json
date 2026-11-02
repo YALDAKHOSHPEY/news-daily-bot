@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-02T15:18:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I've updated my Linux System Call website and API",
+            "description": "<p>I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert.<p>The API is at <a href=\"https://api.syscall.sh\" rel=\"nofollow\">https://api.syscall.sh</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50334704\">https://news.ycombinator.com/item?id=50334704</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://syscall.sh/",
+            "published": "Mon, 02 Nov 2026 09:29:16 +0000",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+            "description": "<p>Article URL: <a href=\"https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50334038\">https://news.ycombinator.com/item?id=50334038</a></p>\n<p>Points: 41</p>\n<p># Comments: 28</p>",
+            "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+            "published": "Mon, 02 Nov 2026 07:27:28 +0000",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+            "description": "<p>Article URL: <a href=\"https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/\">https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50333774\">https://news.ycombinator.com/item?id=50333774</a></p>\n<p>Points: 35</p>\n<p># Comments: 3</p>",
+            "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+            "published": "Mon, 02 Nov 2026 06:39:42 +0000",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mother told to book appointment to give birth to her dead baby",
+            "description": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 11:31:52 GMT",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+            "description": "One store in Sweden says temperatures for its freezers were set to 50 C (122F).",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 11:25:12 GMT",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nine killed as small jet crashes on Florida street",
+            "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
+            "description": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 10:25:22 +0000",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
+            "description": "Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 10:24:47 +0000",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
+            "description": "Sudan&#039;s displaced people now face a mounting food crisis, with warnings of famine.",
+            "url": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 10:16:58 +0000",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-02T15:18:33+03:30"
+        }
+    ]
+}
