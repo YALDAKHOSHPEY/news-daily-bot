@@ -1,78 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 04:25:38
+**Last Update:** 2026-11-02 06:50:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. U.S. workers took home their smallest share of capital since at least 1947
+### 1. F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330939">https://news.ycombinator.com/item?id=50330939</a></p>
-<p>Points: 161</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332163">https://news.ycombinator.com/item?id=50332163</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
+🔗 **Read more:** [https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 
 ---
 
-### 2. AI delivers 'zero financial payoff' to most companies, Apollo economist says
+### 2. AI fan wikis riddled with errors are muddying the waters of games culture
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330456">https://news.ycombinator.com/item?id=50330456</a></p>
-<p>Points: 119</p>
-<p># Comments: 105</p>
+<p>Article URL: <a href="https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332086">https://news.ycombinator.com/item?id=50332086</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+🔗 **Read more:** [https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
 
 ---
 
-### 3. Ask HN: Which TV do you recommend for privacy?
+### 3. OccupySaaS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
-<p>Points: 110</p>
-<p># Comments: 192</p>
+<p>Article URL: <a href="https://occupysaas.com/">https://occupysaas.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50331402">https://news.ycombinator.com/item?id=50331402</a></p>
+<p>Points: 83</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
-
----
-
-### 4. Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://occupysaas.com/](https://occupysaas.com/)
 
 ---
 
-### 5. Five teenagers stabbed at Halloween party
+### 4. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
@@ -82,6 +68,19 @@ Authorities say there is no threat and have advised the public to stay calm and 
 Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. 'Like a missile coming down' - Nine killed in fiery Florida jet crash
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a "horrific tragedy".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. Israeli officials say results stand as Netanyahu claims election ‘stolen’
+### 7. El-Sayed dismisses Stevens’ backing of Republican Senate candidate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.
+El-Sayed dismisses Stevens’ backing of Republican Senate candidate
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss)
 
 ---
 
-### 8. Bollywood star greets fans in bulletproof glass after bomb threat
+### 8. Ukraine blames Russia after air alert app sends out false warnings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.
+Russian Emergencies Ministry also says its mobile app suffered a &#039;massive cyberattack&#039;, leading to &#039;false information&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon
+### 9. Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.
+Bhutan is building a &#039;mindfulness&#039; city to drive economic growth and persuade more young people to stay.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss)
 
 ---
 
