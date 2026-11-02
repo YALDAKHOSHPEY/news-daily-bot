@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T00:31:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Maps puts all buildings back in Gaza",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/RabbiJeffx/status/2116998900087222519\">https://twitter.com/RabbiJeffx/status/2116998900087222519</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50343515\">https://news.ycombinator.com/item?id=50343515</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://twitter.com/RabbiJeffx/status/2116998900087222519",
+            "published": "Mon, 02 Nov 2026 20:50:15 +0000",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f\">https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342424\">https://news.ycombinator.com/item?id=50342424</a></p>\n<p>Points: 45</p>\n<p># Comments: 20</p>",
+            "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+            "published": "Mon, 02 Nov 2026 19:36:37 +0000",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html\">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342284\">https://news.ycombinator.com/item?id=50342284</a></p>\n<p>Points: 61</p>\n<p># Comments: 28</p>",
+            "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+            "published": "Mon, 02 Nov 2026 19:27:37 +0000",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mahmood scraps settlement plans for migrant care workers",
+            "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 20:30:21 GMT",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s the future of the Western Sahara conflict?",
+            "description": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 20:43:44 +0000",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+            "description": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
+            "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 20:38:04 +0000",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK bookshop helps meet demand for Sally Rooney novels",
+            "description": "Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 20:31:16 +0000",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T00:31:35+03:30"
+        }
+    ]
+}

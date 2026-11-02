@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 22:07:46
+**Last Update:** 2026-11-03 00:31:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sneaking into the auditorium for the Windows 2000 launch rehearsal
+### 1. Apple Maps puts all buildings back in Gaza
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/">https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50341028">https://news.ycombinator.com/item?id=50341028</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://twitter.com/RabbiJeffx/status/2116998900087222519">https://twitter.com/RabbiJeffx/status/2116998900087222519</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50343515">https://news.ycombinator.com/item?id=50343515</a></p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
+🔗 **Read more:** [https://twitter.com/RabbiJeffx/status/2116998900087222519](https://twitter.com/RabbiJeffx/status/2116998900087222519)
 
 ---
 
-### 2. Let Me Ch...
+### 2. Anthropic reveals $900B AI spending commitments ahead of IPO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.alxgsv.com/let-me-check/">https://blog.alxgsv.com/let-me-check/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50340369">https://news.ycombinator.com/item?id=50340369</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f">https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50342424">https://news.ycombinator.com/item?id=50342424</a></p>
+<p>Points: 45</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://blog.alxgsv.com/let-me-check/](https://blog.alxgsv.com/let-me-check/)
+🔗 **Read more:** [https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f](https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f)
 
 ---
 
-### 3. Show HN: Subvocal – Talk to your computer without making noise
+### 3. Oracle files to sell $20B in new stock, bonds to finance AI buildout
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech.<p>Here's a video of Dave from YC trying it out: <a href="https://www.youtube.com/watch?v=9QdX1eObVYI" rel="nofollow">https://www.youtube.com/watch?v=9QdX1eObVYI</a><p>(Edit: you don't actually have to move your lips or even open your mouth for this to work! Since the RF can see inside your mouth the system can be fine tuned on "internal speech". This isn't the automatic tongue movements that occur when "thinking" words to yourself, but more like mouthing with your lips closed. It's a bit weird to do, but with practice, we have been able to get it down pretty well.)<p>Arnav and I were studying CS at Georgia Tech at the beginning of the year, with no experience in silent speech or sensing. We were both AI-native builders and power users of Wispr Flow. What bugged us was not being able to use these tools in the library (or an office) or in public. At Stanford’s TreeHacks in February, we decided to build the most technically ridiculous thing we could think of. We’d read about AlterEgo, a silent speech system out of MIT’s Media Lab, and wanted to recreate it in 36 hours. We built a crude prototype, sticking EMG electrodes onto my face:<p><a href="https://drive.google.com/file/d/1mwhv5HZMz3UTevdrgwS5O7g2jWV0K9r2/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1mwhv5HZMz3UTevdrgwS5O7g2jWV...</a><p>We got it to kind of work at a letter level in a very janky way. It wasn’t good enough to win the hackathon, but convinced us to go all in. The first time I typed a sentence without anyone noticing, I felt the magic of the technology.<p>We quickly realized EMG (reading muscle electrical signals) wouldn’t work:<p>- Signal changes due to sweat<p>- Electrical interference<p>- Placement variability<p>- Most importantly, no one wants to stick electrodes onto their face!!<p>So we switched to RF and built the glasses you see now. They emit radio waves, similar to Bluetooth, that pass through your face. As they cross the tongue, lips and soft palate, they’re modulated by silent mouthing. We train foundation models on this data to decode these perturbations to text.<p>Despite prior academic research, getting this to work was a huge engineering challenge. First we built an extremely low noise RF sensing stack. Then we had to place antennas so their fields overlapped maximally with the articulators. Our first attempt on glasses failed completely, so we reverted to old habits and taped antennas on our face:<p><a href="https://drive.google.com/file/d/1ks0dS0eZiTV9EqSFsyB_w5BBjpcBAfX-/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1ks0dS0eZiTV9EqSFsyB_w5BBjpc...</a><p>Since taping antennas consistently in the same spot and angle was hard, we created this weird but effective head rig to hold them in place:<p><a href="https://drive.google.com/file/d/1rhzNFpdDzr7oHk0isFY70dkoV4CAF1pT/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1rhzNFpdDzr7oHk0isFY70dkoV4C...</a><p>This worked, but obviously wasn’t a product yet. So we worked deep in simulations to design glasses that could hold the antennas.<p>That evolved into our design now, with antennas embedded within the frames. Once we established there was a signal, the next hurdle was cross-user generalization. Everyone’s facial anatomy, and hence RF signal patterns, are vastly different. We tried algorithmic workarounds but realized the only lever was to massively scale pretraining data.<p>So that’s what we did. We set up booths in our office and paid people to read prompts wearing our glasses, to pretrain our models on. This produced a beautiful scaling curve, with errors falling quickly as we scaled our dataset and cross-user performance becoming genuinely compelling (as you see in the video above; Dave only had a short 20-sentence calibration).<p>We always heard about building things from first principles but never understood it before this. We tried tackling it top down but completely failed. Only when we broke each component (the antenna, electronics, ML) down to its fundamentals to understand and optimize it did we get it to work really well.<p>Over the next few months we’re continuing R&amp;D to turn our prototype glasses into the slick product on our website and ship in Q1 2027. We’re also scaling up our dataset to improve performance on edge cases.<p>For anyone who loves voice dictation but hates using it around people, we’ve opened preorders for our first batch of 500 units, with a $200 discount off the final price. Allocation is running out quickly, so get yours at <a href="https://subvocal.co/preorder" rel="nofollow">https://subvocal.co/preorder</a>!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50340088">https://news.ycombinator.com/item?id=50340088</a></p>
-<p>Points: 162</p>
-<p># Comments: 124</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50342284">https://news.ycombinator.com/item?id=50342284</a></p>
+<p>Points: 61</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://subvocal.company/](https://subvocal.company/)
+🔗 **Read more:** [https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)
 
 ---
 
-### 4. Shop freezers in seven European countries hit by cyber-attack
+### 4. Mahmood scraps settlement plans for migrant care workers
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Shop freezers in seven European countries hit by cyber-attack
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ The temperature of freezers in several shops across Europe reportedly rose to as
 
 ---
 
-### 5. 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+### 6. 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ Dozens of supermarkets in seven European countries dumped huge quantities of foo
 
 ---
 
-### 6. Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Brand's defence barrister told jurors that Brand "had an immense amount of sex", but that "none of it was unlawful".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Russian bombing of Ukrainian aid centre kills 24 people: Zelenskyy
+### 7. What’s the future of the Western Sahara conflict?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President called the attack further proof that Russia does not want any ‌kind of de-escalation or real justice.
+The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss)
 
 ---
 
-### 8. Judge dismisses charges against FBI agents involved in Hunter Biden case
+### 8. US to suspend South Africa and Rwanda from duty-free trade access
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation.
+South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss)
 
 ---
 
-### 9. British adventurer Karl Bushby returns home after 28-year walk around world
+### 9. UK bookshop helps meet demand for Sally Rooney novels
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 57-year-old crossed jungles and frozen seas before an emotional homecoming in Hull, northern England.
+Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss)
 
 ---
 
