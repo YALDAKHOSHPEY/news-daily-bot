@@ -1,143 +1,156 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 15:18:33
+**Last Update:** 2026-11-02 22:07:46
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: I've updated my Linux System Call website and API
+### 1. Sneaking into the auditorium for the Windows 2000 launch rehearsal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert.<p>The API is at <a href="https://api.syscall.sh" rel="nofollow">https://api.syscall.sh</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50334704">https://news.ycombinator.com/item?id=50334704</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/">https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50341028">https://news.ycombinator.com/item?id=50341028</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://syscall.sh/](https://syscall.sh/)
+🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
 
 ---
 
-### 2. China's First Frontier AI Export Controls: Mofcom Announcement No. 48
+### 2. Let Me Ch...
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50334038">https://news.ycombinator.com/item?id=50334038</a></p>
-<p>Points: 41</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
-
----
-
-### 3. From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/">https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333774">https://news.ycombinator.com/item?id=50333774</a></p>
-<p>Points: 35</p>
+<p>Article URL: <a href="https://blog.alxgsv.com/let-me-check/">https://blog.alxgsv.com/let-me-check/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50340369">https://news.ycombinator.com/item?id=50340369</a></p>
+<p>Points: 14</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/](https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/)
+🔗 **Read more:** [https://blog.alxgsv.com/let-me-check/](https://blog.alxgsv.com/let-me-check/)
 
 ---
 
-### 4. Mother told to book appointment to give birth to her dead baby
+### 3. Show HN: Subvocal – Talk to your computer without making noise
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech.<p>Here's a video of Dave from YC trying it out: <a href="https://www.youtube.com/watch?v=9QdX1eObVYI" rel="nofollow">https://www.youtube.com/watch?v=9QdX1eObVYI</a><p>(Edit: you don't actually have to move your lips or even open your mouth for this to work! Since the RF can see inside your mouth the system can be fine tuned on "internal speech". This isn't the automatic tongue movements that occur when "thinking" words to yourself, but more like mouthing with your lips closed. It's a bit weird to do, but with practice, we have been able to get it down pretty well.)<p>Arnav and I were studying CS at Georgia Tech at the beginning of the year, with no experience in silent speech or sensing. We were both AI-native builders and power users of Wispr Flow. What bugged us was not being able to use these tools in the library (or an office) or in public. At Stanford’s TreeHacks in February, we decided to build the most technically ridiculous thing we could think of. We’d read about AlterEgo, a silent speech system out of MIT’s Media Lab, and wanted to recreate it in 36 hours. We built a crude prototype, sticking EMG electrodes onto my face:<p><a href="https://drive.google.com/file/d/1mwhv5HZMz3UTevdrgwS5O7g2jWV0K9r2/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1mwhv5HZMz3UTevdrgwS5O7g2jWV...</a><p>We got it to kind of work at a letter level in a very janky way. It wasn’t good enough to win the hackathon, but convinced us to go all in. The first time I typed a sentence without anyone noticing, I felt the magic of the technology.<p>We quickly realized EMG (reading muscle electrical signals) wouldn’t work:<p>- Signal changes due to sweat<p>- Electrical interference<p>- Placement variability<p>- Most importantly, no one wants to stick electrodes onto their face!!<p>So we switched to RF and built the glasses you see now. They emit radio waves, similar to Bluetooth, that pass through your face. As they cross the tongue, lips and soft palate, they’re modulated by silent mouthing. We train foundation models on this data to decode these perturbations to text.<p>Despite prior academic research, getting this to work was a huge engineering challenge. First we built an extremely low noise RF sensing stack. Then we had to place antennas so their fields overlapped maximally with the articulators. Our first attempt on glasses failed completely, so we reverted to old habits and taped antennas on our face:<p><a href="https://drive.google.com/file/d/1ks0dS0eZiTV9EqSFsyB_w5BBjpcBAfX-/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1ks0dS0eZiTV9EqSFsyB_w5BBjpc...</a><p>Since taping antennas consistently in the same spot and angle was hard, we created this weird but effective head rig to hold them in place:<p><a href="https://drive.google.com/file/d/1rhzNFpdDzr7oHk0isFY70dkoV4CAF1pT/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1rhzNFpdDzr7oHk0isFY70dkoV4C...</a><p>This worked, but obviously wasn’t a product yet. So we worked deep in simulations to design glasses that could hold the antennas.<p>That evolved into our design now, with antennas embedded within the frames. Once we established there was a signal, the next hurdle was cross-user generalization. Everyone’s facial anatomy, and hence RF signal patterns, are vastly different. We tried algorithmic workarounds but realized the only lever was to massively scale pretraining data.<p>So that’s what we did. We set up booths in our office and paid people to read prompts wearing our glasses, to pretrain our models on. This produced a beautiful scaling curve, with errors falling quickly as we scaled our dataset and cross-user performance becoming genuinely compelling (as you see in the video above; Dave only had a short 20-sentence calibration).<p>We always heard about building things from first principles but never understood it before this. We tried tackling it top down but completely failed. Only when we broke each component (the antenna, electronics, ML) down to its fundamentals to understand and optimize it did we get it to work really well.<p>Over the next few months we’re continuing R&amp;D to turn our prototype glasses into the slick product on our website and ship in Q1 2027. We’re also scaling up our dataset to improve performance on edge cases.<p>For anyone who loves voice dictation but hates using it around people, we’ve opened preorders for our first batch of 500 units, with a $200 discount off the final price. Allocation is running out quickly, so get yours at <a href="https://subvocal.co/preorder" rel="nofollow">https://subvocal.co/preorder</a>!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50340088">https://news.ycombinator.com/item?id=50340088</a></p>
+<p>Points: 162</p>
+<p># Comments: 124</p>
+
+🔗 **Read more:** [https://subvocal.company/](https://subvocal.company/)
+
+---
+
+### 4. Shop freezers in seven European countries hit by cyber-attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Newcastle Hospitals NHS Trust apologises for care it says "fell short of the standards" expected.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-One store in Sweden says temperatures for its freezers were set to 50 C (122F).
+The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Nine killed as small jet crashes on Florida street
+### 5. 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a "horrific tragedy".
+Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Sudan files complaints against Ethiopia with UN over deadly drone spree
+### 6. Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Brand's defence barrister told jurors that Brand "had an immense amount of sex", but that "none of it was unlawful".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Russian bombing of Ukrainian aid centre kills 24 people: Zelenskyy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.
+President called the attack further proof that Russia does not want any ‌kind of de-escalation or real justice.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss)
 
 ---
 
-### 8. Jailed PKK founder Ocalan moved to new section of Turkish island prison
+### 8. Judge dismisses charges against FBI agents involved in Hunter Biden case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.
+A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss)
 
 ---
 
-### 9. As aid situation worsens, displaced Sudanese worry about warnings of famine
+### 9. British adventurer Karl Bushby returns home after 28-year walk around world
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudan&#039;s displaced people now face a mounting food crisis, with warnings of famine.
+The 57-year-old crossed jungles and frozen seas before an emotional homecoming in Hull, northern England.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss](https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss)
 
 ---
 
-### 10. Wildfire South Tank Trail, Perry, Mississippi
+### 10. Tropical Cyclone Murasu
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964)
+
+---
+
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -146,11 +159,11 @@ Sudan&#039;s displaced people now face a mounting food crisis, with warnings of 
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
 
 ---
 
-### 11. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
+### 12. Prescribed Fire McCarty Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -159,20 +172,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829)
-
----
-
-### 12. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986)
 
 ---
 
