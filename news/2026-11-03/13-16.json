@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T13:16:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+            "description": "<p>Article URL: <a href=\"https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html\">https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50349155\">https://news.ycombinator.com/item?id=50349155</a></p>\n<p>Points: 70</p>\n<p># Comments: 21</p>",
+            "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+            "published": "Tue, 03 Nov 2026 07:36:47 +0000",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia – open-source auto-ontology",
+            "description": "<p>Article URL: <a href=\"https://github.com/NVIDIA/auto-ontology\">https://github.com/NVIDIA/auto-ontology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348962\">https://news.ycombinator.com/item?id=50348962</a></p>\n<p>Points: 53</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/NVIDIA/auto-ontology",
+            "published": "Tue, 03 Nov 2026 07:04:50 +0000",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloudflare experiencing multiple active incidents",
+            "description": "<p>Article URL: <a href=\"https://www.cloudflarestatus.com/\">https://www.cloudflarestatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348260\">https://news.ycombinator.com/item?id=50348260</a></p>\n<p>Points: 49</p>\n<p># Comments: 4</p>",
+            "url": "https://www.cloudflarestatus.com/",
+            "published": "Tue, 03 Nov 2026 04:57:27 +0000",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:14:07 GMT",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+            "description": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:29:32 GMT",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US strikes Iranian island ahead of midterm elections",
+            "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+            "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 03:39:08 GMT",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Candidates in Kansas urge supporters to mobilise on voting day",
+            "description": "Candidates in Kansas urge supporters to mobilise on voting day",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/candidates-in-kansas-urge-supporters-to-mobilise-on-voting-day?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 09:06:13 +0000",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Georgia Senate candidates make final appeals ahead of US midterms",
+            "description": "Democratic Senator Jon Ossoff and Republican opponent Mike Collins made their final appeals to voters in Georgia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 08:34:22 +0000",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA to share documents related to World Cup sell-off plan",
+            "description": "FIFA Council members may view documents related to Gianni Infantino&#039;s doomed plan, but only in person in Zurich",
+            "url": "https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 08:27:20 +0000",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T13:16:22+03:30"
+        }
+    ]
+}
