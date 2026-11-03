@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T22:17:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google researchers demand freedom to tell the world what they know about AI",
+            "description": "<p>Article URL: <a href=\"https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/\">https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355504\">https://news.ycombinator.com/item?id=50355504</a></p>\n<p>Points: 51</p>\n<p># Comments: 41</p>",
+            "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+            "published": "Tue, 03 Nov 2026 17:55:26 +0000",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to write comparison content that doesn't age like milk",
+            "description": "<p>Article URL: <a href=\"https://posthog.com/blog/comparison-content-guide\">https://posthog.com/blog/comparison-content-guide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355365\">https://news.ycombinator.com/item?id=50355365</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://posthog.com/blog/comparison-content-guide",
+            "published": "Tue, 03 Nov 2026 17:46:58 +0000",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/\">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355251\">https://news.ycombinator.com/item?id=50355251</a></p>\n<p>Points: 120</p>\n<p># Comments: 22</p>",
+            "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+            "published": "Tue, 03 Nov 2026 17:40:00 +0000",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Seven flights across Europe targeted by suspected bomb threats",
+            "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 17:56:03 GMT",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+            "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+            "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 17:04:02 GMT",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
+            "description": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 18:32:46 +0000",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Greenland parliament approves security deal with US, Denmark",
+            "description": "Lawmakers vote 16-0 for trilateral agreement signed in September, while seven abstained.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 18:05:48 +0000",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+            "description": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 17:26:02 +0000",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-03T22:17:24+03:30"
+        }
+    ]
+}
