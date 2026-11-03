@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 00:31:35
+**Last Update:** 2026-11-03 05:11:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Maps puts all buildings back in Gaza
+### 1. Ask HN: Does anyone have a contact with Cleveland-area Ham club?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/RabbiJeffx/status/2116998900087222519">https://twitter.com/RabbiJeffx/status/2116998900087222519</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50343515">https://news.ycombinator.com/item?id=50343515</a></p>
-<p>Points: 12</p>
+<p>I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346164">https://news.ycombinator.com/item?id=50346164</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50346164](https://news.ycombinator.com/item?id=50346164)
+
+---
+
+### 2. Intel stock collapse worsens as $3.5T chip rout spreads
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346153">https://news.ycombinator.com/item?id=50346153</a></p>
+<p>Points: 57</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+
+---
+
+### 3. GUI64 – GUI for the Commodore 64 running on top of the built-in ROM
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.c64-wiki.com/wiki/GUI64">https://www.c64-wiki.com/wiki/GUI64</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50345735">https://news.ycombinator.com/item?id=50345735</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/RabbiJeffx/status/2116998900087222519](https://twitter.com/RabbiJeffx/status/2116998900087222519)
-
----
-
-### 2. Anthropic reveals $900B AI spending commitments ahead of IPO
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f">https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50342424">https://news.ycombinator.com/item?id=50342424</a></p>
-<p>Points: 45</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f](https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f)
-
----
-
-### 3. Oracle files to sell $20B in new stock, bonds to finance AI buildout
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50342284">https://news.ycombinator.com/item?id=50342284</a></p>
-<p>Points: 61</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)
+🔗 **Read more:** [https://www.c64-wiki.com/wiki/GUI64](https://www.c64-wiki.com/wiki/GUI64)
 
 ---
 
@@ -97,42 +98,42 @@ Dozens of supermarkets in seven European countries dumped huge quantities of foo
 
 ---
 
-### 7. What’s the future of the Western Sahara conflict?
+### 7. Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.
+US President Donald Trump urged supporters to turn out ahead of Election Day
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss)
 
 ---
 
-### 8. US to suspend South Africa and Rwanda from duty-free trade access
+### 8. Ebola outbreak kills more than 5,300 people in DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.
+The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss)
 
 ---
 
-### 9. UK bookshop helps meet demand for Sally Rooney novels
+### 9. Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom
+Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss)
 
 ---
 
