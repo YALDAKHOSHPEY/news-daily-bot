@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-03T14:57:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spanish footballer dies after collision with goalkeeper during match",
+            "description": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:09:18 GMT",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
+            "description": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
+            "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 11:02:47 GMT",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Three scenarios for how the US midterm results could unfold",
+            "description": "Democratic wave or Republican resilience? Here are three possible outcomes after Americans have their say.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alaska Senate candidates trade accusations ahead of election",
+            "description": "Alaska Senate candidates trade accusations ahead of election",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 11:01:27 +0000",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who decides the US midterms?",
+            "description": "About half of all eligible voters in the US skip the midterms. AJLabs looks at who votes and who stays home.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 10:56:09 +0000",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+            "description": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 10:40:34 +0000",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T14:57:45+03:30"
+        }
+    ]
+}

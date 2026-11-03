@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 13:16:22
+**Last Update:** 2026-11-03 14:57:45
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. uBlock Origin filter to block autoplay videos in TechCrunch
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html">https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50349155">https://news.ycombinator.com/item?id=50349155</a></p>
-<p>Points: 70</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html](https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html)
-
----
-
-### 2. Nvidia – open-source auto-ontology
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/NVIDIA/auto-ontology">https://github.com/NVIDIA/auto-ontology</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348962">https://news.ycombinator.com/item?id=50348962</a></p>
-<p>Points: 53</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-
----
-
-### 3. Cloudflare experiencing multiple active incidents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cloudflarestatus.com/">https://www.cloudflarestatus.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348260">https://news.ycombinator.com/item?id=50348260</a></p>
-<p>Points: 49</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.cloudflarestatus.com/](https://www.cloudflarestatus.com/)
-
----
-
-### 4. UK and EU agree draft deal to scrap Brexit red tape over food exports
+### 1. Spanish footballer dies after collision with goalkeeper during match
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.
+Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Americans head to the polls for elections that could define Trump's closing chapter
+### 2. MI5 will not face contempt of court charges despite admitting its evidence was a lie
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.
+MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment "underlines MI5's serious failures in this case".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US strikes Iranian island ahead of midterm elections
+### 3. Anthony Zurcher: Three scenarios for how the US midterm results could unfold
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
+Democratic wave or Republican resilience? Here are three possible outcomes after Americans have their say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Candidates in Kansas urge supporters to mobilise on voting day
+### 4. Alaska Senate candidates trade accusations ahead of election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Candidates in Kansas urge supporters to mobilise on voting day
+Alaska Senate candidates trade accusations ahead of election
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/candidates-in-kansas-urge-supporters-to-mobilise-on-voting-day?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/candidates-in-kansas-urge-supporters-to-mobilise-on-voting-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss)
 
 ---
 
-### 8. Georgia Senate candidates make final appeals ahead of US midterms
+### 5. Who decides the US midterms?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democratic Senator Jon Ossoff and Republican opponent Mike Collins made their final appeals to voters in Georgia.
+About half of all eligible voters in the US skip the midterms. AJLabs looks at who votes and who stays home.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss)
 
 ---
 
-### 9. FIFA to share documents related to World Cup sell-off plan
+### 6. US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA Council members may view documents related to Gianni Infantino&#039;s doomed plan, but only in person in Zurich
+With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Murasu
+### 7. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire McCarty Piles RX, Coconino, Arizona
+### 9. Prescribed Fire McCarty Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
