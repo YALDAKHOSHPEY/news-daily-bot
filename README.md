@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 05:11:41
+**Last Update:** 2026-11-03 06:38:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Does anyone have a contact with Cleveland-area Ham club?
+### 1. Show HN: Hacker Times, a New York Times-Inspired Version Hacker News
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346981">https://news.ycombinator.com/item?id=50346981</a></p>
+<p>Points: 46</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://hackertimes.ca/](https://hackertimes.ca/)
+
+---
+
+### 2. DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346849">https://news.ycombinator.com/item?id=50346849</a></p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+---
+
+### 3. Ask HN: Does anyone have a contact with Cleveland-area Ham club?
 
 **Source:** Hacker News
 
@@ -20,42 +53,10 @@
 <p>I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346164">https://news.ycombinator.com/item?id=50346164</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
+<p>Points: 73</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50346164](https://news.ycombinator.com/item?id=50346164)
-
----
-
-### 2. Intel stock collapse worsens as $3.5T chip rout spreads
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346153">https://news.ycombinator.com/item?id=50346153</a></p>
-<p>Points: 57</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
-
----
-
-### 3. GUI64 – GUI for the Commodore 64 running on top of the built-in ROM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.c64-wiki.com/wiki/GUI64">https://www.c64-wiki.com/wiki/GUI64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50345735">https://news.ycombinator.com/item?id=50345735</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.c64-wiki.com/wiki/GUI64](https://www.c64-wiki.com/wiki/GUI64)
 
 ---
 
@@ -72,68 +73,68 @@ The home secretary laid out a revised proposal for changing when migrants can cl
 
 ---
 
-### 5. Shop freezers in seven European countries hit by cyber-attack
+### 5. UK and EU agree draft deal to scrap Brexit red tape over food exports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
+The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+### 6. Thousands of European troops to rehearse Ukraine deployment in event of peace
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.
+Western officials stress that any force sent to Ukraine would not take part in any offensive operations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
+### 7. US urges Venezuela to follow phased plan for democratic transition
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump urged supporters to turn out ahead of Election Day
+This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss)
 
 ---
 
-### 8. Ebola outbreak kills more than 5,300 people in DR Congo
+### 8. Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
+Several explosions heard in Qeshm Island and Bandar Lengeh as US media say the US military had carried out the strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’
+### 9. Thousands displaced as homes are bulldozed in India’s Assam state
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.
+Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss)
 
 ---
 
