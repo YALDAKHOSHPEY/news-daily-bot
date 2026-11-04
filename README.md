@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 15:13:51
+**Last Update:** 2026-11-04 19:06:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb
+### 1. Pierre Computer is being acquired by OpenAI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb">https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50363861">https://news.ycombinator.com/item?id=50363861</a></p>
-<p>Points: 12</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://twitter.com/pierrecomputer/status/2117999036175188183">https://twitter.com/pierrecomputer/status/2117999036175188183</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366863">https://news.ycombinator.com/item?id=50366863</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb](https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb)
+🔗 **Read more:** [https://twitter.com/pierrecomputer/status/2117999036175188183](https://twitter.com/pierrecomputer/status/2117999036175188183)
 
 ---
 
-### 2. Told to reboot a server, it destroyed systemd, destroyed containers, ran random
+### 2. Adding Window Functions to a Spreadsheet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/59060">https://github.com/openai/codex/issues/59060</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50363717">https://news.ycombinator.com/item?id=50363717</a></p>
-<p>Points: 24</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/">https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366860">https://news.ycombinator.com/item?id=50366860</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/openai/codex/issues/59060](https://github.com/openai/codex/issues/59060)
+🔗 **Read more:** [https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/](https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/)
 
 ---
 
-### 3. Geoffrey Hinton: it might turn out we were better off without AI
+### 3. Coffee's new status symbol is a machine without plastic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50363554">https://news.ycombinator.com/item?id=50363554</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free">https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366853">https://news.ycombinator.com/item?id=50366853</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
+🔗 **Read more:** [https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free](https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free)
 
 ---
 
-### 4. Anthony Zurcher: Democrats push deep into Trump heartland on historic night
+### 4. 'This is a disaster': Angry Republicans blame Trump for midterms defeat
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Anthony Zurcher: Democrats push deep into Trump heartland on historic night
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Two Senate races that a year ago were thought to be battlegrounds turned out to 
 
 ---
 
-### 5. Trump takes aim at Republicans but says Democrats did a 'good job'
+### 6. Five reasons why Republicans lost so badly
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He wrote on Truth Social that Republicans would have won "in a landslide" if his name had been on the ballot.
+From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How America voted in maps and charts
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-See the maps and charts that show how America voted in the US midterm elections.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Seismic shift’: World reacts to US midterm election results
+### 7. Iranian leaders welcome US midterms, but Trump may still attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s top negotiator says US voters sent a “NO TO WAR” message, as Trump&#039;s Democratic opponents take Congress.
+Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss)
 
 ---
 
-### 8. Why Democrats may struggle to rein in Trump’s foreign policy
+### 8. Ice hockey federation reiterates opposition to reinstatement of Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump&#039;s foreign policy agenda faces new constraints after midterm losses.
+The CAS ruled last week to overturn governing body&#039;s exclusion of ‌Russia over its 2022 invasion of Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss)
 
 ---
 
-### 9. Voters honour Renee Good and Alex Pretti at Minnesota memorials
+### 9. Is Trump really a ‘lame duck’ after losing both houses of US Congress?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Voters honour Renee Good and Alex Pretti at Minnesota memorials
+Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss)
 
 ---
 
