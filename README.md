@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 03:16:30
+**Last Update:** 2026-11-04 07:22:04
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Internals of PostgreSQL
+### 1. Democrats win control of the House of Representatives
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombinator.com/item?id=50358702</a></p>
-<p>Points: 53</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397">https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361247">https://news.ycombinator.com/item?id=50361247</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.interdb.jp/pg/index.html](https://www.interdb.jp/pg/index.html)
+🔗 **Read more:** [https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397](https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397)
 
 ---
 
-### 2. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+### 2. Arrows to arrows, categories to queries (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.com/item?id=50358582</a></p>
-<p>Points: 139</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://reasonablypolymorphic.com/blog/arrows-to-arrows/">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361107">https://news.ycombinator.com/item?id=50361107</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
+🔗 **Read more:** [https://reasonablypolymorphic.com/blog/arrows-to-arrows/](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
 
 ---
 
-### 3. Safari introduces Adaptive Dark Mode in 27.3
+### 3. Giant canyon on Mars is still tectonically active
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358562">https://news.ycombinator.com/item?id=50358562</a></p>
-<p>Points: 198</p>
-<p># Comments: 130</p>
+<p>Article URL: <a href="https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50360573">https://news.ycombinator.com/item?id=50360573</a></p>
+<p>Points: 25</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://webkit.org/blog/18541/introducing-adaptive-dark-mode/](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+🔗 **Read more:** [https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
 
 ---
 
-### 4. A simple guide to the midterms
+### 4. Anthony Zurcher: Democrats surge deep into Republican territory with historic wins
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.
+Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. When will we know the results?
+### 5. South Carolina elects Democratic senator for first time in almost three decades
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Once polls close, it is possible the results will not be projected for several hours, days or even weeks
+President Trump handpicked Darline Graham to take over the seat held by her brother, influential Senator Lindsey Graham, after his death.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. When will we know who wins control of Congress?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How the US midterm results could unfold - as millions of Americans head to the polls
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. First polls close in pivotal US midterm elections
+### 7. Ossoff wins reelection in Georgia holding Senate seat for Democrats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.
+Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss)
 
 ---
 
-### 8. US midterm election results live: Polls start closing in some states
+### 8. Democrat Roy Cooper celebrates flipping North Carolina Senate seat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.
+Former North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss)
 
 ---
 
-### 9. Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa
+### 9. EU urges action as Germany, Romania and UK report supermarket cyberattacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.
+EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss)
 
 ---
 

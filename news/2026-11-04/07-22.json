@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T07:22:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Democrats win control of the House of Representatives",
+            "description": "<p>Article URL: <a href=\"https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397\">https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361247\">https://news.ycombinator.com/item?id=50361247</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397",
+            "published": "Wed, 04 Nov 2026 03:36:23 +0000",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Arrows to arrows, categories to queries (2025)",
+            "description": "<p>Article URL: <a href=\"https://reasonablypolymorphic.com/blog/arrows-to-arrows/\">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361107\">https://news.ycombinator.com/item?id=50361107</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+            "published": "Wed, 04 Nov 2026 03:11:27 +0000",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Giant canyon on Mars is still tectonically active",
+            "description": "<p>Article URL: <a href=\"https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today\">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50360573\">https://news.ycombinator.com/item?id=50360573</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
+            "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+            "published": "Wed, 04 Nov 2026 01:40:42 +0000",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Democrats surge deep into Republican territory with historic wins",
+            "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 03:34:58 GMT",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "South Carolina elects Democratic senator for first time in almost three decades",
+            "description": "President Trump handpicked Darline Graham to take over the seat held by her brother, influential Senator Lindsey Graham, after his death.",
+            "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 03:24:34 GMT",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "When will we know who wins control of Congress?",
+            "description": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 00:56:05 GMT",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
+            "description": "Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 03:25:17 +0000",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+            "description": "Former North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 03:21:05 +0000",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+            "description": "EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 03:16:37 +0000",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T07:22:04+03:30"
+        }
+    ]
+}
