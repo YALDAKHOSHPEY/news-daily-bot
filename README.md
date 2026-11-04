@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 22:32:57
+**Last Update:** 2026-11-05 01:30:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust
+### 1. Everything is an AI scam now
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/">https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50369462">https://news.ycombinator.com/item?id=50369462</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371508">https://news.ycombinator.com/item?id=50371508</a></p>
+<p>Points: 63</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
+🔗 **Read more:** [https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/)
 
 ---
 
-### 2. This Month in Ladybird – October 2026
+### 2. AR guitar with just a laptop and scissors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ladybird.org/newsletter/2026-10-31/">https://ladybird.org/newsletter/2026-10-31/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50369194">https://news.ycombinator.com/item?id=50369194</a></p>
-<p>Points: 40</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.arguitar.com/">https://www.arguitar.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371370">https://news.ycombinator.com/item?id=50371370</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://ladybird.org/newsletter/2026-10-31/](https://ladybird.org/newsletter/2026-10-31/)
+🔗 **Read more:** [https://www.arguitar.com/](https://www.arguitar.com/)
 
 ---
 
-### 3. BYD doubles its Brazil market share to 9.7% a year after opening its local plant
+### 3. If you're on Replit Pro, you have until November 8 to opt out of arbitration
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed">https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50369146">https://news.ycombinator.com/item?id=50369146</a></p>
-<p>Points: 60</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8">https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371346">https://news.ycombinator.com/item?id=50371346</a></p>
+<p>Points: 24</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed](https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed)
+🔗 **Read more:** [https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8](https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8)
 
 ---
 
@@ -71,20 +71,20 @@ After bruising midterm results, President Trump will want to show he can still s
 
 ---
 
-### 5. Everything you need to know from the US midterm elections
+### 5. How America voted in maps and charts
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.
+See the maps and charts that show how America voted in the US midterm elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Democrats won Congress in a blue wave. Now comes the hard part.
+### 6. What Democrats can and can't do with their new power after taking Congress
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Democrats can vote legislation through. But Trump still has veto power.
 
 ---
 
-### 7. The biggest winners and losers of the 2026 US midterms
+### 7. Social media reacts to Democrats’ takeover of US Congress
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.
+Social media is awash with reactions to Democrats’ sweeping midterm gains.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss)
 
 ---
 
-### 8. Key moments as Democrats sweep to victories in US midterms
+### 8. Israel restricting treatment for 1,100 child amputees in Gaza: NGO
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democrats have been celebrating across the US after a series of victories saw them take control of both chambers.
+Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss)
 
 ---
 
-### 9. Danish students join European protest wave against education funding cuts
+### 9. US midterm election results live: Trump blames Iran war after losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Danish government proposes scrapping allowance scheme for students from wealthier families.
+A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss)
 
 ---
 
