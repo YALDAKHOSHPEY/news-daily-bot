@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 07:22:04
+**Last Update:** 2026-11-04 10:16:25
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Democrats win control of the House of Representatives
+### 1. US midterm elections 2026 live updates: Democrats win Senate control and edge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397">https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361247">https://news.ycombinator.com/item?id=50361247</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates">https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361936">https://news.ycombinator.com/item?id=50361936</a></p>
+<p>Points: 43</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397](https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397)
+🔗 **Read more:** [https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates)
 
 ---
 
-### 2. Arrows to arrows, categories to queries (2025)
+### 2. Jelly Sheet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://reasonablypolymorphic.com/blog/arrows-to-arrows/">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361107">https://news.ycombinator.com/item?id=50361107</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://mrdoob.github.io/codevember-2026/01/">https://mrdoob.github.io/codevember-2026/01/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361268">https://news.ycombinator.com/item?id=50361268</a></p>
+<p>Points: 88</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://reasonablypolymorphic.com/blog/arrows-to-arrows/](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+🔗 **Read more:** [https://mrdoob.github.io/codevember-2026/01/](https://mrdoob.github.io/codevember-2026/01/)
 
 ---
 
-### 3. Giant canyon on Mars is still tectonically active
+### 3. Distinct cellular and genetic differences in colorectal cancer in young patients
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50360573">https://news.ycombinator.com/item?id=50360573</a></p>
-<p>Points: 25</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361154">https://news.ycombinator.com/item?id=50361154</a></p>
+<p>Points: 48</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
+🔗 **Read more:** [https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 
 ---
 
-### 4. Anthony Zurcher: Democrats surge deep into Republican territory with historic wins
+### 4. Anthony Zurcher: Democrats tear up Trump's political map on historic night
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ Two Senate races that a year ago were thought to be battlegrounds turned out to 
 
 ---
 
-### 5. South Carolina elects Democratic senator for first time in almost three decades
+### 5. How America voted in maps and charts
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Trump handpicked Darline Graham to take over the seat held by her brother, influential Senator Lindsey Graham, after his death.
+See the maps and charts that show how America voted in the US midterm elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. When will we know who wins control of Congress?
+### 6. Ecstatic scenes and historic moments: What's happened so far in the midterms
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.
+Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ossoff wins reelection in Georgia holding Senate seat for Democrats
+### 7. House Democratic leader Hakeem Jeffries hails midterm victory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.
+Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss)
 
 ---
 
-### 8. Democrat Roy Cooper celebrates flipping North Carolina Senate seat
+### 8. Lula’s victory is a stress test for the Global South
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh
+Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss)
 
 ---
 
-### 9. EU urges action as Germany, Romania and UK report supermarket cyberattacks
+### 9. Photos: Champions League and Tenerife fans pay tribute to De Miguel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.
+CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss)
 
 ---
 
