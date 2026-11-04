@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T22:32:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
+            "description": "<p>Article URL: <a href=\"https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/\">https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369462\">https://news.ycombinator.com/item?id=50369462</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+            "published": "Wed, 04 Nov 2026 18:20:06 +0000",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "This Month in Ladybird – October 2026",
+            "description": "<p>Article URL: <a href=\"https://ladybird.org/newsletter/2026-10-31/\">https://ladybird.org/newsletter/2026-10-31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369194\">https://news.ycombinator.com/item?id=50369194</a></p>\n<p>Points: 40</p>\n<p># Comments: 7</p>",
+            "url": "https://ladybird.org/newsletter/2026-10-31/",
+            "published": "Wed, 04 Nov 2026 17:59:35 +0000",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed\">https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369146\">https://news.ycombinator.com/item?id=50369146</a></p>\n<p>Points: 60</p>\n<p># Comments: 32</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+            "published": "Wed, 04 Nov 2026 17:55:29 +0000",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+            "description": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:35:07 GMT",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Everything you need to know from the US midterm elections",
+            "description": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 14:05:42 GMT",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+            "description": "Democrats can vote legislation through. But Trump still has veto power.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:01:27 GMT",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The biggest winners and losers of the 2026 US midterms",
+            "description": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 18:52:25 +0000",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Key moments as Democrats sweep to victories in US midterms",
+            "description": "Democrats have been celebrating across the US after a series of victories saw them take control of both chambers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 18:13:01 +0000",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Danish students join European protest wave against education funding cuts",
+            "description": "Danish government proposes scrapping allowance scheme for students from wealthier families.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 17:54:48 +0000",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T22:32:57+03:30"
+        }
+    ]
+}

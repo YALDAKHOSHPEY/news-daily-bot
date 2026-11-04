@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 19:06:18
+**Last Update:** 2026-11-04 22:32:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pierre Computer is being acquired by OpenAI
+### 1. Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/pierrecomputer/status/2117999036175188183">https://twitter.com/pierrecomputer/status/2117999036175188183</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366863">https://news.ycombinator.com/item?id=50366863</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/">https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50369462">https://news.ycombinator.com/item?id=50369462</a></p>
+<p>Points: 10</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://twitter.com/pierrecomputer/status/2117999036175188183](https://twitter.com/pierrecomputer/status/2117999036175188183)
+🔗 **Read more:** [https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
 
 ---
 
-### 2. Adding Window Functions to a Spreadsheet
+### 2. This Month in Ladybird – October 2026
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/">https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366860">https://news.ycombinator.com/item?id=50366860</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://ladybird.org/newsletter/2026-10-31/">https://ladybird.org/newsletter/2026-10-31/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50369194">https://news.ycombinator.com/item?id=50369194</a></p>
+<p>Points: 40</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/](https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/)
+🔗 **Read more:** [https://ladybird.org/newsletter/2026-10-31/](https://ladybird.org/newsletter/2026-10-31/)
 
 ---
 
-### 3. Coffee's new status symbol is a machine without plastic
+### 3. BYD doubles its Brazil market share to 9.7% a year after opening its local plant
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free">https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50366853">https://news.ycombinator.com/item?id=50366853</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed">https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50369146">https://news.ycombinator.com/item?id=50369146</a></p>
+<p>Points: 60</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free](https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed](https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed)
 
 ---
 
-### 4. 'This is a disaster': Angry Republicans blame Trump for midterms defeat
+### 4. Bowen: Trump's loss limits powers at home, but it will likely be different abroad
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Anthony Zurcher: Democrats push deep into Trump heartland on historic night
+### 5. Everything you need to know from the US midterm elections
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.
+Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Five reasons why Republicans lost so badly
+### 6. Democrats won Congress in a blue wave. Now comes the hard part.
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.
+Democrats can vote legislation through. But Trump still has veto power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iranian leaders welcome US midterms, but Trump may still attack
+### 7. The biggest winners and losers of the 2026 US midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy.
+Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss)
 
 ---
 
-### 8. Ice hockey federation reiterates opposition to reinstatement of Russia
+### 8. Key moments as Democrats sweep to victories in US midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The CAS ruled last week to overturn governing body&#039;s exclusion of ‌Russia over its 2022 invasion of Ukraine.
+Democrats have been celebrating across the US after a series of victories saw them take control of both chambers.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss)
 
 ---
 
-### 9. Is Trump really a ‘lame duck’ after losing both houses of US Congress?
+### 9. Danish students join European protest wave against education funding cuts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.
+Danish government proposes scrapping allowance scheme for students from wealthier families.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss)
 
 ---
 
