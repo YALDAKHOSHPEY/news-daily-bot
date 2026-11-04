@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T15:13:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+            "description": "<p>Article URL: <a href=\"https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb\">https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363861\">https://news.ycombinator.com/item?id=50363861</a></p>\n<p>Points: 12</p>\n<p># Comments: 9</p>",
+            "url": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+            "published": "Wed, 04 Nov 2026 11:02:23 +0000",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/59060\">https://github.com/openai/codex/issues/59060</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363717\">https://news.ycombinator.com/item?id=50363717</a></p>\n<p>Points: 24</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/openai/codex/issues/59060",
+            "published": "Wed, 04 Nov 2026 10:43:51 +0000",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai\">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363554\">https://news.ycombinator.com/item?id=50363554</a></p>\n<p>Points: 25</p>\n<p># Comments: 13</p>",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+            "published": "Wed, 04 Nov 2026 10:23:34 +0000",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+            "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 06:53:56 GMT",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+            "description": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+            "url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 10:15:42 GMT",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How America voted in maps and charts",
+            "description": "See the maps and charts that show how America voted in the US midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 09:53:18 GMT",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Seismic shift’: World reacts to US midterm election results",
+            "description": "Iran&#039;s top negotiator says US voters sent a “NO TO WAR” message, as Trump&#039;s Democratic opponents take Congress.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 11:24:50 +0000",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Democrats may struggle to rein in Trump’s foreign policy",
+            "description": "US President Donald Trump&#039;s foreign policy agenda faces new constraints after midterm losses.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 11:16:40 +0000",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+            "description": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 11:12:58 +0000",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T15:13:51+03:30"
+        }
+    ]
+}

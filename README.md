@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 10:16:25
+**Last Update:** 2026-11-04 15:13:51
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. US midterm elections 2026 live updates: Democrats win Senate control and edge
+### 1. RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates">https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361936">https://news.ycombinator.com/item?id=50361936</a></p>
-<p>Points: 43</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb">https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50363861">https://news.ycombinator.com/item?id=50363861</a></p>
+<p>Points: 12</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates)
+🔗 **Read more:** [https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb](https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb)
 
 ---
 
-### 2. Jelly Sheet
+### 2. Told to reboot a server, it destroyed systemd, destroyed containers, ran random
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mrdoob.github.io/codevember-2026/01/">https://mrdoob.github.io/codevember-2026/01/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361268">https://news.ycombinator.com/item?id=50361268</a></p>
-<p>Points: 88</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://github.com/openai/codex/issues/59060">https://github.com/openai/codex/issues/59060</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50363717">https://news.ycombinator.com/item?id=50363717</a></p>
+<p>Points: 24</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://mrdoob.github.io/codevember-2026/01/](https://mrdoob.github.io/codevember-2026/01/)
+🔗 **Read more:** [https://github.com/openai/codex/issues/59060](https://github.com/openai/codex/issues/59060)
 
 ---
 
-### 3. Distinct cellular and genetic differences in colorectal cancer in young patients
+### 3. Geoffrey Hinton: it might turn out we were better off without AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361154">https://news.ycombinator.com/item?id=50361154</a></p>
-<p>Points: 48</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50363554">https://news.ycombinator.com/item?id=50363554</a></p>
+<p>Points: 25</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
 
 ---
 
-### 4. Anthony Zurcher: Democrats tear up Trump's political map on historic night
+### 4. Anthony Zurcher: Democrats push deep into Trump heartland on historic night
 
 **Source:** BBC
 
@@ -71,7 +71,20 @@ Two Senate races that a year ago were thought to be battlegrounds turned out to 
 
 ---
 
-### 5. How America voted in maps and charts
+### 5. Trump takes aim at Republicans but says Democrats did a 'good job'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+He wrote on Truth Social that Republicans would have won "in a landslide" if his name had been on the ballot.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. How America voted in maps and charts
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ See the maps and charts that show how America voted in the US midterm elections.
 
 ---
 
-### 6. Ecstatic scenes and historic moments: What's happened so far in the midterms
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. House Democratic leader Hakeem Jeffries hails midterm victory
+### 7. ‘Seismic shift’: World reacts to US midterm election results
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.
+Iran&#039;s top negotiator says US voters sent a “NO TO WAR” message, as Trump&#039;s Democratic opponents take Congress.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss)
 
 ---
 
-### 8. Lula’s victory is a stress test for the Global South
+### 8. Why Democrats may struggle to rein in Trump’s foreign policy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?
+US President Donald Trump&#039;s foreign policy agenda faces new constraints after midterm losses.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss)
 
 ---
 
-### 9. Photos: Champions League and Tenerife fans pay tribute to De Miguel
+### 9. Voters honour Renee Good and Alex Pretti at Minnesota memorials
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.
+Voters honour Renee Good and Alex Pretti at Minnesota memorials
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss)
 
 ---
 
