@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T01:10:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MS Paint Remote Code Execution Vulnerability",
+            "description": "<p>Article URL: <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-83844\">https://www.cve.org/CVERecord?id=CVE-2026-83844</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50384233\">https://news.ycombinator.com/item?id=50384233</a></p>\n<p>Points: 29</p>\n<p># Comments: 10</p>",
+            "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+            "published": "Thu, 05 Nov 2026 20:43:42 +0000",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+            "description": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\">https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383963\">https://news.ycombinator.com/item?id=50383963</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+            "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+            "published": "Thu, 05 Nov 2026 20:21:43 +0000",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Cost of Blogging",
+            "description": "<p>Article URL: <a href=\"https://onlinegoddess.net/2026/11/the-cost-of-blogging/\">https://onlinegoddess.net/2026/11/the-cost-of-blogging/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50383877\">https://news.ycombinator.com/item?id=50383877</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+            "published": "Thu, 05 Nov 2026 20:14:25 +0000",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand found guilty of rape and sexual assault",
+            "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
+            "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 18:28:35 GMT",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Met Police release Brand interview footage",
+            "description": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+            "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 16:01:56 GMT",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
+            "description": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 18:53:47 GMT",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi coalition intercepts missile fired towards Medina",
+            "description": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 20:48:47 +0000",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are wealthy countries failing developing nations?",
+            "description": "UN report warns climate adaptation funding is falling far short of needs.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 20:45:47 +0000",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+            "description": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 20:43:46 +0000",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-06T01:10:59+03:30"
+        }
+    ]
+}
