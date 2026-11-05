@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-05T19:24:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Image of Our Satellite-Choked Night Skies",
+            "description": "<p>Article URL: <a href=\"https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies\">https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379773\">https://news.ycombinator.com/item?id=50379773</a></p>\n<p>Points: 57</p>\n<p># Comments: 50</p>",
+            "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+            "published": "Thu, 05 Nov 2026 14:49:07 +0000",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+            "description": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379704\">https://news.ycombinator.com/item?id=50379704</a></p>\n<p>Points: 89</p>\n<p># Comments: 4</p>",
+            "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+            "published": "Thu, 05 Nov 2026 14:44:20 +0000",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "September in Servo: <progress>, rounded rectangles, and more",
+            "description": "<p>Article URL: <a href=\"https://servo.org/blog/2026/11/05/september-in-servo/\">https://servo.org/blog/2026/11/05/september-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379576\">https://news.ycombinator.com/item?id=50379576</a></p>\n<p>Points: 32</p>\n<p># Comments: 5</p>",
+            "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+            "published": "Thu, 05 Nov 2026 14:34:18 +0000",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand is being investigated over two new rape complaints, police say",
+            "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+            "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 15:44:49 GMT",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How rapist Brand was never far from controversy",
+            "description": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+            "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 14:28:21 GMT",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Interest rates hiked to 4% in first increase in over three years",
+            "description": "Most analysts expected the increase from 3.75% to 4%.",
+            "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 14:36:26 GMT",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has Cristiano Ronaldo retired from international football?",
+            "description": "Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.",
+            "url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 15:14:05 +0000",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Settler pogroms in Hebron",
+            "description": "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 15:10:42 +0000",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ronaldo in records: International milestones from the football icon",
+            "description": "Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.",
+            "url": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 15:09:31 +0000",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T19:24:47+03:30"
+        }
+    ]
+}

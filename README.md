@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 14:47:19
+**Last Update:** 2026-11-05 19:24:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
+### 1. Image of Our Satellite-Choked Night Skies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377221">https://news.ycombinator.com/item?id=50377221</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies">https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50379773">https://news.ycombinator.com/item?id=50379773</a></p>
+<p>Points: 57</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://hachyderm.io/@damienmiller/117563026759098135](https://hachyderm.io/@damienmiller/117563026759098135)
+🔗 **Read more:** [https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies](https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies)
 
 ---
 
-### 2. Baidu released ERNIE 5.5 Flash Base
+### 2. Alpine Linux Security advisory: OpenSSH-server password authentication bypass
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377078">https://news.ycombinator.com/item?id=50377078</a></p>
-<p>Points: 34</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50379704">https://news.ycombinator.com/item?id=50379704</a></p>
+<p>Points: 89</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://ernie.baidu.com/release/ernie-5-5-flash-base/](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+🔗 **Read more:** [https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 
 ---
 
-### 3. Being a kid making games in the early 2000s
+### 3. September in Servo: <progress>, rounded rectangles, and more
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jaytholen.net/teengamedev/">https://jaytholen.net/teengamedev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375691">https://news.ycombinator.com/item?id=50375691</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://servo.org/blog/2026/11/05/september-in-servo/">https://servo.org/blog/2026/11/05/september-in-servo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50379576">https://news.ycombinator.com/item?id=50379576</a></p>
+<p>Points: 32</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://jaytholen.net/teengamedev/](https://jaytholen.net/teengamedev/)
+🔗 **Read more:** [https://servo.org/blog/2026/11/05/september-in-servo/](https://servo.org/blog/2026/11/05/september-in-servo/)
 
 ---
 
-### 4. Married at First Sight UK cancelled after BBC revealed rape allegations
+### 4. Russell Brand is being investigated over two new rape complaints, police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in "distinctive new programming".
+Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Vance walks Trump tightrope after blaming Iran war for election defeat
+### 5. Watch: How rapist Brand was never far from controversy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
+BBC correspondent Sima Kotecha explains how the trial unfolded.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Cristiano Ronaldo retires from international football
+### 6. Interest rates hiked to 4% in first increase in over three years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Portugal legend Cristiano Ronaldo says he is retiring from international football.
+Most analysts expected the increase from 3.75% to 4%.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Serbian officers arrested for using ‘excessive force’ against protesters
+### 7. Why has Cristiano Ronaldo retired from international football?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.
+Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss)
 
 ---
 
-### 8. ‘Helpless’: The families facing winter in tents on the beach in Gaza
+### 8. Jerusalem Daily: Settler pogroms in Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.
+Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss)
 
 ---
 
-### 9. Congress defeat: How Trump’s allies are distancing themselves from Iran war
+### 9. Ronaldo in records: International milestones from the football icon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.
+Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Murasu
+### 10. Wildfire Wild River, Coos, New Hampshire
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057)
+
+---
+
+### 11. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
-
----
-
-### 12. Iceberg B22K
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Sea and Lake Ice
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990)
 
 ---
 
