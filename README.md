@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 01:30:27
+**Last Update:** 2026-11-05 04:07:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Everything is an AI scam now
+### 1. Introducing Images 2.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371508">https://news.ycombinator.com/item?id=50371508</a></p>
-<p>Points: 63</p>
+<p>Article URL: <a href="https://openai.com/index/introducing-images-2-6/">https://openai.com/index/introducing-images-2-6/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372945">https://news.ycombinator.com/item?id=50372945</a></p>
+<p>Points: 38</p>
 <p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/)
+🔗 **Read more:** [https://openai.com/index/introducing-images-2-6/](https://openai.com/index/introducing-images-2-6/)
 
 ---
 
-### 2. AR guitar with just a laptop and scissors
+### 2. Local privilege escalation vulnerabilities in Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.arguitar.com/">https://www.arguitar.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371370">https://news.ycombinator.com/item?id=50371370</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">https://openai.com/index/a-thousand-fewer-paths-to-root/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372929">https://news.ycombinator.com/item?id=50372929</a></p>
+<p>Points: 35</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.arguitar.com/](https://www.arguitar.com/)
+🔗 **Read more:** [https://openai.com/index/a-thousand-fewer-paths-to-root/](https://openai.com/index/a-thousand-fewer-paths-to-root/)
 
 ---
 
-### 3. If you're on Replit Pro, you have until November 8 to opt out of arbitration
+### 3. Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8">https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371346">https://news.ycombinator.com/item?id=50371346</a></p>
-<p>Points: 24</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://icode4.coffee/?p=1746">https://icode4.coffee/?p=1746</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372164">https://news.ycombinator.com/item?id=50372164</a></p>
+<p>Points: 48</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8](https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8)
+🔗 **Read more:** [https://icode4.coffee/?p=1746](https://icode4.coffee/?p=1746)
 
 ---
 
-### 4. Bowen: Trump's loss limits powers at home, but it will likely be different abroad
+### 4. Five reasons why Republicans lost so badly
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Bowen: Trump's loss limits powers at home, but it will likely be different abroad
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ After bruising midterm results, President Trump will want to show he can still s
 
 ---
 
-### 5. How America voted in maps and charts
+### 6. How America voted in maps and charts
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ See the maps and charts that show how America voted in the US midterm elections.
 
 ---
 
-### 6. What Democrats can and can't do with their new power after taking Congress
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Democrats can vote legislation through. But Trump still has veto power.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Social media reacts to Democrats’ takeover of US Congress
+### 7. Iran war live: Trump says war caused election wipeout but he ‘had to do it’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Social media is awash with reactions to Democrats’ sweeping midterm gains.
+President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss)
 
 ---
 
-### 8. Israel restricting treatment for 1,100 child amputees in Gaza: NGO
+### 8. Who gets to vote in the US?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.
+Tati Abu King lost his voting rights after felony convictions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss)
 
 ---
 
-### 9. US midterm election results live: Trump blames Iran war after losses
+### 9. Sudan, Ethiopia order tit-for-tat diplomatic expulsions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.
+Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss)
 
 ---
 

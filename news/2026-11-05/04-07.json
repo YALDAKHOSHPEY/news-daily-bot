@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-05T04:07:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introducing Images 2.6",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-images-2-6/\">https://openai.com/index/introducing-images-2-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372945\">https://news.ycombinator.com/item?id=50372945</a></p>\n<p>Points: 38</p>\n<p># Comments: 16</p>",
+            "url": "https://openai.com/index/introducing-images-2-6/",
+            "published": "Wed, 04 Nov 2026 23:35:44 +0000",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Local privilege escalation vulnerabilities in Linux",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/a-thousand-fewer-paths-to-root/\">https://openai.com/index/a-thousand-fewer-paths-to-root/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372929\">https://news.ycombinator.com/item?id=50372929</a></p>\n<p>Points: 35</p>\n<p># Comments: 21</p>",
+            "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+            "published": "Wed, 04 Nov 2026 23:33:14 +0000",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+            "description": "<p>Article URL: <a href=\"https://icode4.coffee/?p=1746\">https://icode4.coffee/?p=1746</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372164\">https://news.ycombinator.com/item?id=50372164</a></p>\n<p>Points: 48</p>\n<p># Comments: 2</p>",
+            "url": "https://icode4.coffee/?p=1746",
+            "published": "Wed, 04 Nov 2026 22:01:49 +0000",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five reasons why Republicans lost so badly",
+            "description": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 00:07:19 GMT",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+            "description": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:35:07 GMT",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How America voted in maps and charts",
+            "description": "See the maps and charts that show how America voted in the US midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 09:53:18 GMT",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+            "description": "President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who gets to vote in the US?",
+            "description": "Tati Abu King lost his voting rights after felony convictions.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 23:50:34 +0000",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
+            "description": "Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 23:43:26 +0000",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T04:07:07+03:30"
+        }
+    ]
+}
