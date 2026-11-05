@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 11:01:50
+**Last Update:** 2026-11-05 14:47:19
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Vance walks Trump tightrope after blaming Iran war for election defeat
+### 1. OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377221">https://news.ycombinator.com/item?id=50377221</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://hachyderm.io/@damienmiller/117563026759098135](https://hachyderm.io/@damienmiller/117563026759098135)
+
+---
+
+### 2. Baidu released ERNIE 5.5 Flash Base
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377078">https://news.ycombinator.com/item?id=50377078</a></p>
+<p>Points: 34</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://ernie.baidu.com/release/ernie-5-5-flash-base/](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+
+---
+
+### 3. Being a kid making games in the early 2000s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jaytholen.net/teengamedev/">https://jaytholen.net/teengamedev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375691">https://news.ycombinator.com/item?id=50375691</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://jaytholen.net/teengamedev/](https://jaytholen.net/teengamedev/)
+
+---
+
+### 4. Married at First Sight UK cancelled after BBC revealed rape allegations
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in "distinctive new programming".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Vance walks Trump tightrope after blaming Iran war for election defeat
 
 **Source:** BBC
 
@@ -23,72 +84,59 @@ The vice-president's blunt assessment of Republican election defeat marked one o
 
 ---
 
-### 2. 'Hopefully things get done': Americans react to historic political shift
+### 6. Cristiano Ronaldo retires from international football
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.
+Portugal legend Cristiano Ronaldo says he is retiring from international football.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Interest rates expected to rise for first time in over three years
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens
+### 7. Serbian officers arrested for using ‘excessive force’ against protesters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.
+Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss)
 
 ---
 
-### 5. Guinness World Record broken as 53 red cards shown in Brazil under-20 match
+### 8. ‘Helpless’: The families facing winter in tents on the beach in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.
+An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss)
 
 ---
 
-### 6. New Zealand braces for knife-edge election: What you need to know
+### 9. Congress defeat: How Trump’s allies are distancing themselves from Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.
+US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Murasu
+### 10. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Iceberg B22K
+### 12. Iceberg B22K
 
 **Source:** NASA
 
