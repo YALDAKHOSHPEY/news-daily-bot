@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-05T11:01:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+            "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Hopefully things get done': Americans react to historic political shift",
+            "description": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
+            "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 22:34:08 GMT",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Interest rates expected to rise for first time in over three years",
+            "description": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+            "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 00:00:09 GMT",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
+            "description": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
+            "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 07:21:01 +0000",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
+            "description": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
+            "url": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 07:20:18 +0000",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Zealand braces for knife-edge election: What you need to know",
+            "description": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 06:34:50 +0000",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T11:01:50+03:30"
+        }
+    ]
+}

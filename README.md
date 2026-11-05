@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 06:08:02
+**Last Update:** 2026-11-05 11:01:50
 
 **Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war
+### 1. Vance walks Trump tightrope after blaming Iran war for election defeat
 
 **Source:** BBC
 
@@ -23,68 +23,68 @@ The vice-president's blunt assessment of Republican election defeat marked one o
 
 ---
 
-### 2. Pound rises to its highest level since the Brexit referendum
+### 2. 'Hopefully things get done': Americans react to historic political shift
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago
+The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. The NHS is relying more on charities - and that might be creating problems for patients
+### 3. Interest rates expected to rise for first time in over three years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Is it symptom a health service at breaking point - or a positive way of involving the public?
+Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Israel’s Herzog accepts vote results, opens talks on forming a government
+### 4. Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.
+Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss)
 
 ---
 
-### 5. Africa’s richest man launches mega oil tank farm in Namibia
+### 5. Guinness World Record broken as 53 red cards shown in Brazil under-20 match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa&#039;s supply.
+Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss)
 
 ---
 
-### 6. Ohio’s voters tell Republicans: don’t take us for granted
+### 6. New Zealand braces for knife-edge election: What you need to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.
+Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss)
 
 ---
 
