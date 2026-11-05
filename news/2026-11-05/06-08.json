@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-05T06:08:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
+            "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 02:33:40 GMT",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pound rises to its highest level since the Brexit referendum",
+            "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+            "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 23:30:28 GMT",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+            "description": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+            "url": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 00:12:30 GMT",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+            "description": "Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 01:53:30 +0000",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+            "description": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa&#039;s supply.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 00:39:18 +0000",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ohio’s voters tell Republicans: don’t take us for granted",
+            "description": "Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 00:36:25 +0000",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T06:08:02+03:30"
+        }
+    ]
+}
