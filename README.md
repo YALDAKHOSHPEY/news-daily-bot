@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 00:27:50
+**Last Update:** 2026-11-07 01:21:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. SketchAgentBench – evaluate LLMs on 3D spatial reasoning
+### 1. The Valley Bubble Breaks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html">https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50398212">https://news.ycombinator.com/item?id=50398212</a></p>
+<p>Points: 35</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html](https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html)
+
+---
+
+### 2. SketchAgentBench – evaluate LLMs on 3D spatial reasoning
 
 **Source:** Hacker News
 
@@ -19,51 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://sketchagent.dev/">https://sketchagent.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50398010">https://news.ycombinator.com/item?id=50398010</a></p>
-<p>Points: 5</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://sketchagent.dev/](https://sketchagent.dev/)
 
 ---
 
-### 2. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+### 3. AI is dramatically accelerating AI research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397429">https://news.ycombinator.com/item?id=50397429</a></p>
-<p>Points: 68</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397994">https://news.ycombinator.com/item?id=50397994</a></p>
+<p>Points: 65</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://hightouch.com/blog/llm-judges-identity-resolution](https://hightouch.com/blog/llm-judges-identity-resolution)
-
----
-
-### 3. Show HN: Agents infer Lego mechanisms from sources, then animate them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href="https://news.ycombinator.com/item?id=49937916">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models
-- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there
-- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files
-- Infer the model structure in terms of submodels
-- Select from those the ones that are mechanisms
-- Plan animations
-- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href="https://github.com/anteloc/ldraw-mecha/tree/v0.5.0" rel="nofollow">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>
-- Gallery: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>
-- Process: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397325">https://news.ycombinator.com/item?id=50397325</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/anteloc/ldraw-mecha/tree/v0.5.0](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
+🔗 **Read more:** [https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 ---
 
@@ -106,42 +97,42 @@ Miller, considered the architect of Trump's hard-line immigration policy, will m
 
 ---
 
-### 7. Trump promotes Stephen Miller to Chief of Staff ‘to run things well’
+### 7. Palestinian couples tie the knot in mass wedding in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.
+The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Meghan Markle’s father arrested in US over alleged child sex abuse photos
+### 8. Who is Stephen Miller, Trump’s new White House chief of staff?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.
+Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss)
 
 ---
 
-### 9. Migrants arrive in Spain’s Canary Islands after being rescued at sea
+### 9. Protesters break into Microsoft data centre site in Amsterdam
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.
+Data centres face protests across Europe due to the massive amounts of computing power and water they use.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss)
 
 ---
 

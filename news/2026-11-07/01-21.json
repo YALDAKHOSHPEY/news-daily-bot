@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T01:21:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Valley Bubble Breaks",
+            "description": "<p>Article URL: <a href=\"https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html\">https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50398212\">https://news.ycombinator.com/item?id=50398212</a></p>\n<p>Points: 35</p>\n<p># Comments: 22</p>",
+            "url": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
+            "published": "Fri, 06 Nov 2026 20:42:08 +0000",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+            "description": "<p>Article URL: <a href=\"https://sketchagent.dev/\">https://sketchagent.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50398010\">https://news.ycombinator.com/item?id=50398010</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://sketchagent.dev/",
+            "published": "Fri, 06 Nov 2026 20:28:24 +0000",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI is dramatically accelerating AI research",
+            "description": "<p>Article URL: <a href=\"https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397994\">https://news.ycombinator.com/item?id=50397994</a></p>\n<p>Points: 65</p>\n<p># Comments: 21</p>",
+            "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+            "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+            "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 12:16:44 GMT",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
+            "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 20:11:45 GMT",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+            "description": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:37:30 +0000",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+            "description": "Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:22:57 +0000",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters break into Microsoft data centre site in Amsterdam",
+            "description": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:04:40 +0000",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T01:21:55+03:30"
+        }
+    ]
+}
