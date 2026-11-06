@@ -1,61 +1,69 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 19:58:14
+**Last Update:** 2026-11-07 00:27:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Deus Ex
+### 1. SketchAgentBench – evaluate LLMs on 3D spatial reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.filfre.net/2026/11/deus-ex/">https://www.filfre.net/2026/11/deus-ex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50393758">https://news.ycombinator.com/item?id=50393758</a></p>
-<p>Points: 64</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://www.filfre.net/2026/11/deus-ex/](https://www.filfre.net/2026/11/deus-ex/)
-
----
-
-### 2. Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s tokens. (B) Connect fragmented identity and authorization systems. (C) Centralize tool approvals and audit logging.<p>We built AIB to fill an infrastructure gap in our own agent platform. At this moment in time, IETF working groups are still finalizing standards for agent identity, and vendors are still turning the necessary infrastructure into off-the-shelf products. We needed that infrastructure today.<p>How it works: the user consents once per agent and service. The broker stores the third-party tokens encrypted. At request time a gateway (e.g. Agentgateway) does RFC 8693 token exchange. Agents never see user tokens and MCP servers only implement tools and don’t need to care about all the OAuth 2.1 plumbing.<p>AIB is v0.1 and runs in production, bringing together hundreds of our agents with dozens of internal and external MCP servers.<p>To try it locally: clone the repo, run "just compose-up-detached".<p>The current features focus on on-behalf-of (OBO) use cases, where human actors delegate to agents. Next we are looking to also support headless agents, where agents are invoked by machines. Intent-based authorization is yet another package on our roadmap. If you’ve built either, or have feedback on the UI/UX, I’d like to hear from you!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50393235">https://news.ycombinator.com/item?id=50393235</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://sketchagent.dev/">https://sketchagent.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50398010">https://news.ycombinator.com/item?id=50398010</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/zalando-incubator/agentic-identity-broker](https://github.com/zalando-incubator/agentic-identity-broker)
+🔗 **Read more:** [https://sketchagent.dev/](https://sketchagent.dev/)
 
 ---
 
-### 3. FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control
+### 2. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air">https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50393183">https://news.ycombinator.com/item?id=50393183</a></p>
-<p>Points: 41</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397429">https://news.ycombinator.com/item?id=50397429</a></p>
+<p>Points: 68</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
+🔗 **Read more:** [https://hightouch.com/blog/llm-judges-identity-resolution](https://hightouch.com/blog/llm-judges-identity-resolution)
+
+---
+
+### 3. Show HN: Agents infer Lego mechanisms from sources, then animate them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href="https://news.ycombinator.com/item?id=49937916">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models
+- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there
+- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files
+- Infer the model structure in terms of submodels
+- Select from those the ones that are mechanisms
+- Plan animations
+- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href="https://github.com/anteloc/ldraw-mecha/tree/v0.5.0" rel="nofollow">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>
+- Gallery: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>
+- Process: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397325">https://news.ycombinator.com/item?id=50397325</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/anteloc/ldraw-mecha/tree/v0.5.0](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
 
 ---
 
@@ -72,68 +80,68 @@ Ian Winter allegedly confronted a reporter outside court who had investigated th
 
 ---
 
-### 5. AI stocks climb after trillions wiped from market values
+### 5. How 2000s lad culture helped Russell Brand to hide in plain sight
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
+The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Manhunt in Gloucester after boy injured in sword incident
+### 6. Trump replaces White House chief of staff days after Republicans suffer midterm defeats
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two schools went into lockdown following the incident and one woman has been arrested.
+Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Protesters break into Microsoft AI data centre site in Amsterdam
+### 7. Trump promotes Stephen Miller to Chief of Staff ‘to run things well’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 100 activists broke into a Microsoft data centre construction site in Amsterdam.
+President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss)
 
 ---
 
-### 8. ‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal
+### 8. Meghan Markle’s father arrested in US over alleged child sex abuse photos
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amateur cricketer was clicking his fingers while fielding to trick umpire into thinking the batsman had edged the ball.
+US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss)
 
 ---
 
-### 9. Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?
+### 9. Migrants arrive in Spain’s Canary Islands after being rescued at sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Evicted families take Denmark’s controversial ‘ghetto law’ to the Supreme Court.
+More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss)
 
 ---
 
