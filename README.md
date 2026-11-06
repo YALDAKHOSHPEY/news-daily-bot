@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 18:43:26
+**Last Update:** 2026-11-06 19:58:14
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. University libraries are being swarmed by AI bots, putting public access at risk
+### 1. Deus Ex
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50392499">https://news.ycombinator.com/item?id=50392499</a></p>
-<p>Points: 27</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.filfre.net/2026/11/deus-ex/">https://www.filfre.net/2026/11/deus-ex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50393758">https://news.ycombinator.com/item?id=50393758</a></p>
+<p>Points: 64</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
+🔗 **Read more:** [https://www.filfre.net/2026/11/deus-ex/](https://www.filfre.net/2026/11/deus-ex/)
 
 ---
 
-### 2. Gemini Omni 1.2 Flash
+### 2. Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50392118">https://news.ycombinator.com/item?id=50392118</a></p>
-<p>Points: 106</p>
-<p># Comments: 68</p>
+<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s tokens. (B) Connect fragmented identity and authorization systems. (C) Centralize tool approvals and audit logging.<p>We built AIB to fill an infrastructure gap in our own agent platform. At this moment in time, IETF working groups are still finalizing standards for agent identity, and vendors are still turning the necessary infrastructure into off-the-shelf products. We needed that infrastructure today.<p>How it works: the user consents once per agent and service. The broker stores the third-party tokens encrypted. At request time a gateway (e.g. Agentgateway) does RFC 8693 token exchange. Agents never see user tokens and MCP servers only implement tools and don’t need to care about all the OAuth 2.1 plumbing.<p>AIB is v0.1 and runs in production, bringing together hundreds of our agents with dozens of internal and external MCP servers.<p>To try it locally: clone the repo, run "just compose-up-detached".<p>The current features focus on on-behalf-of (OBO) use cases, where human actors delegate to agents. Next we are looking to also support headless agents, where agents are invoked by machines. Intent-based authorization is yet another package on our roadmap. If you’ve built either, or have feedback on the UI/UX, I’d like to hear from you!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50393235">https://news.ycombinator.com/item?id=50393235</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+🔗 **Read more:** [https://github.com/zalando-incubator/agentic-identity-broker](https://github.com/zalando-incubator/agentic-identity-broker)
 
 ---
 
-### 3. Tesla winds down Cybertruck production after years of poor sales in few markets
+### 3. FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv">https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50391456">https://news.ycombinator.com/item?id=50391456</a></p>
-<p>Points: 199</p>
-<p># Comments: 249</p>
+<p>Article URL: <a href="https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air">https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50393183">https://news.ycombinator.com/item?id=50393183</a></p>
+<p>Points: 41</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)
+🔗 **Read more:** [https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
 
 ---
 
-### 4. Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction
+### 4. Brand's barrister refers himself to regulator after report he confronted journalist
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to "victim blaming".
+Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Misleading' student loans information left out examples of higher-salary repayments
+### 5. AI stocks climb after trillions wiped from market values
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Treasury Committee chair says she is "shocked" after one university compared repayments to the price of coffee.
+Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Two Gloucester schools in lockdown after boy hurt in incident
+### 6. Manhunt in Gloucester after boy injured in sword incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Armed police are on the scene in Tuffley - police say pupils are safe within school grounds.
+Two schools went into lockdown following the incident and one woman has been arrested.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Veto or deals: Can Trump find a way to work with Democrats?
+### 7. Protesters break into Microsoft AI data centre site in Amsterdam
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.
+More than 100 activists broke into a Microsoft data centre construction site in Amsterdam.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss)
 
 ---
 
-### 8. What a Trump-Xi-Putin summit could mean – and what it wouldn’t
+### 8. ‘Clicky Ponting’ handed two-year suspension over cricket cheating scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.
+Amateur cricketer was clicking his fingers while fielding to trick umpire into thinking the batsman had edged the ball.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss)
 
 ---
 
-### 9. Who is Kenya’s starvation cult leader?
+### 9. Why is Denmark separating ‘Western’ and ‘non-Western’ citizens?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who is Kenya’s starvation cult leader?
+Evicted families take Denmark’s controversial ‘ghetto law’ to the Supreme Court.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss)
 
 ---
 
