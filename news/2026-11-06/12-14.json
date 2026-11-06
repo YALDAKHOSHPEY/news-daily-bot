@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-06T12:14:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Did a data centre revolt affect the US mid-term election results?",
+            "description": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+            "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 06:01:13 GMT",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief warns policing 'heading for failure' without reform",
+            "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 01:13:53 GMT",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+            "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+            "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 06:06:36 GMT",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Abdul El-Sayed did not have to become less Muslim to win",
+            "description": "His historic victory in Michigan shows that Muslim Americans need not abandon their identity to succeed in politics.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 07:53:32 +0000",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can America ever return to pre-Trump politics?",
+            "description": "The US midterms were a rejection of Trump&#039;s politics of division, but his legacy may be impossible to undo.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 07:51:09 +0000",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+            "description": "A 14-day pause has been ordered blocking the so-called &#039;Arc de Trump&#039; project in Washington, DC.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 07:32:08 +0000",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T12:14:04+03:30"
+        }
+    ]
+}
