@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 01:10:59
+**Last Update:** 2026-11-06 03:57:05
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. MS Paint Remote Code Execution Vulnerability
+### 1. Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cve.org/CVERecord?id=CVE-2026-83844">https://www.cve.org/CVERecord?id=CVE-2026-83844</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50384233">https://news.ycombinator.com/item?id=50384233</a></p>
-<p>Points: 29</p>
+<p>Article URL: <a href="https://www.fgc.org.br/comunicado">https://www.fgc.org.br/comunicado</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50386104">https://news.ycombinator.com/item?id=50386104</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.fgc.org.br/comunicado](https://www.fgc.org.br/comunicado)
+
+---
+
+### 2. Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50385870">https://news.ycombinator.com/item?id=50385870</a></p>
+<p>Points: 31</p>
 <p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.cve.org/CVERecord?id=CVE-2026-83844](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+🔗 **Read more:** [https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
 
 ---
 
-### 2. Tencent Launches Hy4, One of the Leading Open-Source AI Models
+### 3. Claude Code sends your email address to websites
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50383963">https://news.ycombinator.com/item?id=50383963</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/107757">https://github.com/anthropics/claude-code/issues/107757</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50385272">https://news.ycombinator.com/item?id=50385272</a></p>
+<p>Points: 350</p>
+<p># Comments: 109</p>
 
-🔗 **Read more:** [https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
-
----
-
-### 3. The Cost of Blogging
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://onlinegoddess.net/2026/11/the-cost-of-blogging/">https://onlinegoddess.net/2026/11/the-cost-of-blogging/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50383877">https://news.ycombinator.com/item?id=50383877</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://onlinegoddess.net/2026/11/the-cost-of-blogging/](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)
+🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/107757](https://github.com/anthropics/claude-code/issues/107757)
 
 ---
 
@@ -84,55 +84,55 @@ Brand was found guilty of one count of rape and three sexual assaults at Southwa
 
 ---
 
-### 6. Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal
+### 6. Major tech stocks plunge as US midterms add to fears of AI slowdown
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.
+The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Saudi coalition intercepts missile fired towards Medina
+### 7. Iran war live: Trump warns US may have to ‘destroy’ rest of Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.
+Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss)
 
 ---
 
-### 8. Why are wealthy countries failing developing nations?
+### 8. Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN report warns climate adaptation funding is falling far short of needs.
+DSA-backed Raman will lead America&#039;s second largest city, promising action on homelessness and affordable housing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss)
 
 ---
 
-### 9. Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire
+### 9. Generation Z and young voters help redefine US politics after midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.
+Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss)
 
 ---
 
