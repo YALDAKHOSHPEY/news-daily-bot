@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 22:41:11
+**Last Update:** 2026-11-08 02:21:04
 
 **Total News:** 12
 
@@ -10,62 +10,63 @@
 
 ## 📰 Latest News
 
-### 1. What I run on my $10 USD OpenStick, Linux, Homelab
+### 1. Show HN: An offline desktop companion to help maintain a healthy blink rhythm
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.bosscher.ch/posts/openstick/">https://blog.bosscher.ch/posts/openstick/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406670">https://news.ycombinator.com/item?id=50406670</a></p>
-<p>Points: 46</p>
-<p># Comments: 8</p>
+<p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe.<p>Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are.<p>EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection.<p>Most importantly it works completely local no internet required.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408350">https://news.ycombinator.com/item?id=50408350</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.bosscher.ch/posts/openstick/](https://blog.bosscher.ch/posts/openstick/)
+🔗 **Read more:** [https://eyesrhythm.com/](https://eyesrhythm.com/)
 
 ---
 
-### 2. The End of AI Frontiers
+### 2. MeccanicOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hunch.net/?p=13764006">https://hunch.net/?p=13764006</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406589">https://news.ycombinator.com/item?id=50406589</a></p>
-<p>Points: 50</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://meccanicos.com/">https://meccanicos.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408129">https://news.ycombinator.com/item?id=50408129</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://hunch.net/?p=13764006](https://hunch.net/?p=13764006)
+🔗 **Read more:** [https://meccanicos.com/](https://meccanicos.com/)
 
 ---
 
-### 3. Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished
+### 3. Shadow of the Sun
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/">https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406563">https://news.ycombinator.com/item?id=50406563</a></p>
-<p>Points: 77</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://mattlakeman.org/2021/07/27/shadow-of-the-sun/">https://mattlakeman.org/2021/07/27/shadow-of-the-sun/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408104">https://news.ycombinator.com/item?id=50408104</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/](https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/)
+🔗 **Read more:** [https://mattlakeman.org/2021/07/27/shadow-of-the-sun/](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
 
 ---
 
-### 4. What we know about Krakow mass shooting so far
+### 4. What we know so far after Krakow gun attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.
+Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +98,42 @@ Laura Kuenssberg talks to government insiders about the prime minister opening t
 
 ---
 
-### 7. Paraguay’s ousted president charged over banking scandal
+### 7. Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.
+Valverde and Guler&#039;s first half goals put Madrid in the driving seat and Mbappe added a third in the second half.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss)
 
 ---
 
-### 8. Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’
+### 8. Police clash with protesters as anti-government rallies sweep France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.
+Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss)
 
 ---
 
-### 9. Houthis report 25 killed in Yemen strikes
+### 9. Mélenchon promises action against Israeli annexation if elected President
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.
+Mélenchon promises action against Israeli annexation if elected President
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss)
 
 ---
 
