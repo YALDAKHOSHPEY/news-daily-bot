@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 17:45:38
+**Last Update:** 2026-11-07 18:11:10
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Upload Your RAM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://uploadyourram.org">https://uploadyourram.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403214">https://news.ycombinator.com/item?id=50403214</a></p>
-<p>Points: 195</p>
-<p># Comments: 157</p>
-
-🔗 **Read more:** [https://uploadyourram.org](https://uploadyourram.org)
-
----
-
-### 2. Every Mac comes with an (undocumented) family member classifier
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403097">https://news.ycombinator.com/item?id=50403097</a></p>
-<p>Points: 246</p>
-<p># Comments: 125</p>
-
-🔗 **Read more:** [https://8rank.ai/game/apple-intelligence-personal-knowledge-graph](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
-
----
-
-### 3. Running a law firm on Free software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403066">https://news.ycombinator.com/item?id=50403066</a></p>
-<p>Points: 48</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
-
----
-
-### 4. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
+### 1. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The former Brexit negotiator says EU countries would reject any British attempts
 
 ---
 
-### 5. Victims in rape cases must not feel like they are on trial, Burnham says
+### 2. Victims in rape cases must not feel like they are on trial, Burnham says
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The PM was responding after a police chief said comments made during Russell Bra
 
 ---
 
-### 6. Two men arrested after boy injured in sword attack
+### 3. Two men arrested after boy injured in sword attack
 
 **Source:** BBC
 
@@ -97,7 +49,20 @@ Police say a 17-year-old suffered a wound "believed to have been caused by a swo
 
 ---
 
-### 7. Who is Hakeem Jeffries, the Democrat poised to become House speaker?
+### 4. New Zealand’s prime minister says election is ‘too close to call’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss)
+
+---
+
+### 5. Who is Hakeem Jeffries, the Democrat poised to become House speaker?
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ Likely to become the first Black House speaker, Jeffries faces pressure from pro
 
 ---
 
-### 8. ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
+### 6. ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ The hard-left leader has transformed into a real contender in next year presiden
 
 ---
 
-### 9. ‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss)
-
----
-
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Murasu
+### 8. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
