@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 02:21:04
+**Last Update:** 2026-11-08 02:44:11
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: An offline desktop companion to help maintain a healthy blink rhythm
+### 1. Making any integer with four 2s (2025)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408713">https://news.ycombinator.com/item?id=50408713</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+
+---
+
+### 2. Show HN: An offline desktop companion to help maintain a healthy blink rhythm
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe.<p>Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are.<p>EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection.<p>Most importantly it works completely local no internet required.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408350">https://news.ycombinator.com/item?id=50408350</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://eyesrhythm.com/](https://eyesrhythm.com/)
 
 ---
 
-### 2. MeccanicOS
+### 3. MeccanicOS
 
 **Source:** Hacker News
 
@@ -37,25 +53,9 @@
 <p>Article URL: <a href="https://meccanicos.com/">https://meccanicos.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408129">https://news.ycombinator.com/item?id=50408129</a></p>
 <p>Points: 5</p>
-<p># Comments: 0</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://meccanicos.com/](https://meccanicos.com/)
-
----
-
-### 3. Shadow of the Sun
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mattlakeman.org/2021/07/27/shadow-of-the-sun/">https://mattlakeman.org/2021/07/27/shadow-of-the-sun/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408104">https://news.ycombinator.com/item?id=50408104</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://mattlakeman.org/2021/07/27/shadow-of-the-sun/](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
 
 ---
 
@@ -72,7 +72,20 @@ Six people were killed in a random shooting in the city's main square, and three
 
 ---
 
-### 5. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
+### 5. Israel's president tasks opposition leader Eisenkot with forming government
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
 
 **Source:** BBC
 
@@ -85,19 +98,6 @@ The former Brexit negotiator says EU countries would reject any British attempts
 
 ---
 
-### 6. Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss)
-
----
-
 ### 7. Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona
 
 **Source:** Al Jazeera
@@ -105,7 +105,7 @@ Laura Kuenssberg talks to government insiders about the prime minister opening t
 **Category:** world
 
 **Description:**
-Valverde and Guler&#039;s first half goals put Madrid in the driving seat and Mbappe added a third in the second half.
+Valverde and Guler&#039;s first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss)
 
