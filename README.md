@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 04:30:05
+**Last Update:** 2026-11-07 04:56:02
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mitchellh.com/writing/libghostty-1-0">https://mitchellh.com/writing/libghostty-1-0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399933">https://news.ycombinator.com/item?id=50399933</a></p>
-<p>Points: 33</p>
-<p># Comments: 1</p>
+<p>Points: 105</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://mitchellh.com/writing/libghostty-1-0](https://mitchellh.com/writing/libghostty-1-0)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://developers.openai.com/api/docs/guides/voice-sip">https://developers.openai.com/api/docs/guides/voice-sip</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399695">https://news.ycombinator.com/item?id=50399695</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
+<p>Points: 24</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://developers.openai.com/api/docs/guides/voice-sip](https://developers.openai.com/api/docs/guides/voice-sip)
 
 ---
 
-### 3. CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life
+### 3. Sodium-ion batteries approach cost parity with LFP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/">https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/</a></p>
+<p>Article URL: <a href="https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/">https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399657">https://news.ycombinator.com/item?id=50399657</a></p>
-<p>Points: 98</p>
-<p># Comments: 39</p>
+<p>Points: 112</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
+🔗 **Read more:** [https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/)
 
 ---
 
@@ -97,7 +97,20 @@ The behaviour that formed the backdrop to Brand's prosecution also helped elevat
 
 ---
 
-### 7. Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
+### 7. Pope Leo XIV arrives for South American tour after cancer surgery
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss)
+
+---
+
+### 8. Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The sudden leadership change comes as Paraguay reels from the collapse of the Ue
 
 ---
 
-### 8. MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
+### 9. MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The sudden leadership change comes as Paraguay reels from the collapse of the Ue
 Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss)
-
----
-
-### 9. Iran war live: Qatar says US, Iran should not wait to reach a peace deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss)
 
 ---
 
