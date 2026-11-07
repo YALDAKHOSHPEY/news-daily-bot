@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 10:56:54
+**Last Update:** 2026-11-07 11:28:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/components-of-agent-memory">https://www.anthropic.com/research/components-of-agent-memory</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402212">https://news.ycombinator.com/item?id=50402212</a></p>
-<p>Points: 4</p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://asahilinux.org/2026/11/progress-report-7-3/">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401867">https://news.ycombinator.com/item?id=50401867</a></p>
-<p>Points: 69</p>
-<p># Comments: 31</p>
+<p>Points: 102</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://asahilinux.org/2026/11/progress-report-7-3/](https://asahilinux.org/2026/11/progress-report-7-3/)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401740">https://news.ycombinator.com/item?id=50401740</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
+<p>Points: 55</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
 
 ---
 
-### 4. Meghan's father Thomas Markle appears in court over child sex abuse material
+### 4. Meghan's father Thomas Markle under house arrest after child sex abuse material charge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.
+The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss)
 
@@ -84,16 +84,16 @@ The US president's promotion of Miller, a loyal partisan firebrand to be his new
 
 ---
 
-### 6. Brand's barrister refers himself to regulator after report he confronted journalist
+### 6. Paraguay's president impeached after collapse of bank
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.
+Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
