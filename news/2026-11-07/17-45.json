@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T17:45:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Upload Your RAM",
+            "description": "<p>Article URL: <a href=\"https://uploadyourram.org\">https://uploadyourram.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403214\">https://news.ycombinator.com/item?id=50403214</a></p>\n<p>Points: 195</p>\n<p># Comments: 157</p>",
+            "url": "https://uploadyourram.org",
+            "published": "Sat, 07 Nov 2026 10:15:26 +0000",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every Mac comes with an (undocumented) family member classifier",
+            "description": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Points: 246</p>\n<p># Comments: 125</p>",
+            "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+            "published": "Sat, 07 Nov 2026 09:46:03 +0000",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running a law firm on Free software",
+            "description": "<p>Article URL: <a href=\"https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/\">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403066\">https://news.ycombinator.com/item?id=50403066</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
+            "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+            "published": "Sat, 07 Nov 2026 09:39:06 +0000",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 13:02:21 GMT",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+            "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
+            "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 11:04:28 GMT",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men arrested after boy injured in sword attack",
+            "description": "Police say a 17-year-old suffered a wound \"believed to have been caused by a sword\" in Gloucester on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 10:38:21 GMT",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
+            "description": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 13:50:15 +0000",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
+            "description": "The hard-left leader has transformed into a real contender in next year presidential elections.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 13:35:46 +0000",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+            "description": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 13:24:41 +0000",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T17:45:38+03:30"
+        }
+    ]
+}
