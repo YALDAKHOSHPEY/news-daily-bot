@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 06:05:57
+**Last Update:** 2026-11-08 06:47:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/">https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408961">https://news.ycombinator.com/item?id=50408961</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408931">https://news.ycombinator.com/item?id=50408931</a></p>
-<p>Points: 69</p>
-<p># Comments: 52</p>
+<p>Points: 80</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/">https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408750">https://news.ycombinator.com/item?id=50408750</a></p>
-<p>Points: 13</p>
+<p>Points: 17</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
@@ -97,7 +97,20 @@ While some believe the site should be partially or completely rebuilt, others wa
 
 ---
 
-### 7. Canary Islands’ El Hierro declares emergency amid migrant, refugee influx
+### 7. US launches task force to disrupt Iran’s land-based supply routes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss)
+
+---
+
+### 8. Canary Islands’ El Hierro declares emergency amid migrant, refugee influx
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ El Hierro asks Spanish government for help after more than 3,300 people arrived 
 
 ---
 
-### 8. Polish PM calls deadly Krakow shooting an act of ‘terrorism’
+### 9. Polish PM calls deadly Krakow shooting an act of ‘terrorism’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ El Hierro asks Spanish government for help after more than 3,300 people arrived 
 Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss)
-
----
-
-### 9. Iran war live: Blasts heard in Qeshm; US moves to block land supply routes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss)
 
 ---
 
