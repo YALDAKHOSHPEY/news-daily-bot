@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 06:47:50
+**Last Update:** 2026-11-08 14:07:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Commodore PET – The Worlds First Personal Computer
+### 1. GitHub Down Again?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/">https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408961">https://news.ycombinator.com/item?id=50408961</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/torvalds/linux">https://github.com/torvalds/linux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411818">https://news.ycombinator.com/item?id=50411818</a></p>
+<p>Points: 55</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
+🔗 **Read more:** [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
 ---
 
-### 2. GitHub New pull request overview page in public preview
+### 2. I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408931">https://news.ycombinator.com/item?id=50408931</a></p>
-<p>Points: 80</p>
-<p># Comments: 58</p>
-
-🔗 **Read more:** [https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
-
----
-
-### 3. IRA Velinsky – Commodore's Industrial Designer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/">https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50408750">https://news.ycombinator.com/item?id=50408750</a></p>
-<p>Points: 17</p>
+<p>Article URL: <a href="https://github.com/kobaltgit/StatCraft">https://github.com/kobaltgit/StatCraft</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411522">https://news.ycombinator.com/item?id=50411522</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
+🔗 **Read more:** [https://github.com/kobaltgit/StatCraft](https://github.com/kobaltgit/StatCraft)
 
 ---
 
-### 4. Briton among six killed in 'far-right' shooting in Krakow
+### 3. Agent memory needs its OpenTelemetry moment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lorekit.io/blog/open-agent-memory-format">https://www.lorekit.io/blog/open-agent-memory-format</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411467">https://news.ycombinator.com/item?id=50411467</a></p>
+<p>Points: 31</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.lorekit.io/blog/open-agent-memory-format](https://www.lorekit.io/blog/open-agent-memory-format)
+
+---
+
+### 4. How the deadly shooting in Krakow unfolded
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.
+Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Israel's president tasks opposition leader Eisenkot with forming government
+### 5. Veterans shouldn't sleep rough this Christmas, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.
+Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat
+### 6. Two seriously hurt in 30-vehicle crash on the M20 in Kent
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.
+The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US launches task force to disrupt Iran’s land-based supply routes
+### 7. Tennis world number one Rybakina withdraws from WTA Finals due to virus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.
+Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss)
 
 ---
 
-### 8. Canary Islands’ El Hierro declares emergency amid migrant, refugee influx
+### 8. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.
+Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss)
 
 ---
 
-### 9. Polish PM calls deadly Krakow shooting an act of ‘terrorism’
+### 9. Floods in Gaza leave tens of thousands without shelter
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.
+Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss)
 
 ---
 
