@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 00:22:40
+**Last Update:** 2026-11-09 00:46:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416801">https://news.ycombinator.com/item?id=50416801</a></p>
-<p>Points: 61</p>
-<p># Comments: 24</p>
+<p>Points: 124</p>
+<p># Comments: 98</p>
 
 🔗 **Read more:** [https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 
@@ -35,30 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://www.spacex.com/launches/starship-flight-15">https://www.spacex.com/launches/starship-flight-15</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416471">https://news.ycombinator.com/item?id=50416471</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 27</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.spacex.com/launches/starship-flight-15](https://www.spacex.com/launches/starship-flight-15)
 
 ---
 
-### 3. How I Fight AI Brain Fry
+### 3. The Web Is More Than Enough, by Paul Ford
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sergeykuhne.com/blog/fighting-ai-brain-fry">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416363">https://news.ycombinator.com/item?id=50416363</a></p>
-<p>Points: 37</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://ftrain.com/aboard-the-web-is-more-than-enough">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416456">https://news.ycombinator.com/item?id=50416456</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sergeykuhne.com/blog/fighting-ai-brain-fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
+🔗 **Read more:** [https://ftrain.com/aboard-the-web-is-more-than-enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 
 ---
 
-### 4. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+### 4. Nvidia launches investigation into CEO's affair with suspected Chinese spy
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Jensen Huang also admitted to having been "unfaithful "to his wife and apologised for hurting her and their children.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Further details have emerged about two police officers hailed for preventing a P
 
 ---
 
-### 5. King leads solemn Remembrance Sunday service at Cenotaph
+### 6. King leads solemn Remembrance Sunday service at Cenotaph
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 6. Seven dead and more than 100 injured after trains collide in Egypt
+### 7. Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
+Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss)
 
 ---
 
-### 7. Pope Leo XIV delivers homily to thousands in Uruguay
+### 8. Pope Leo XIV delivers homily to thousands in Uruguay
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pope Leo XIV delivers homily to thousands in Uruguay
 
 ---
 
-### 8. Rangoli makers adapt to rising costs to preserve colourful Diwali tradition
+### 9. Rangoli makers adapt to rising costs to preserve colourful Diwali tradition
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pope Leo XIV delivers homily to thousands in Uruguay
 Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss)
-
----
-
-### 9. Iran threatens to ‘rain down hell’ if US escalates war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss)
 
 ---
 
