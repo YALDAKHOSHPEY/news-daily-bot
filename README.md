@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 20:20:25
+**Last Update:** 2026-11-08 20:39:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
+### 1. "RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414839">https://news.ycombinator.com/item?id=50414839</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
+
+---
+
+### 2. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414427">https://news.ycombinator.com/item?id=50414427</a></p>
-<p>Points: 107</p>
-<p># Comments: 52</p>
+<p>Points: 138</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
 
 ---
 
-### 2. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
+### 3. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414021">https://news.ycombinator.com/item?id=50414021</a></p>
-<p>Points: 25</p>
-<p># Comments: 37</p>
+<p>Points: 27</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)
-
----
-
-### 3. Drones built to look like birds evaded detection at Air Force tech exercise
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://taskandpurpose.com/news/drone-mimicking-bird-test/">https://taskandpurpose.com/news/drone-mimicking-bird-test/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50413885">https://news.ycombinator.com/item?id=50413885</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://taskandpurpose.com/news/drone-mimicking-bird-test/](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
 
 ---
 
@@ -84,55 +84,55 @@ It is yet unclear what caused the accident but Egyptian President Abdel Fattah a
 
 ---
 
-### 6. Government looking at banning under-16s from Vinted and eBay
+### 6. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The culture secretary confirms reports they could be in the list of platforms set to be banned next March.
+The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli forces release Palestinian journalist Abou Shhadeh
+### 7. Israeli opposition leader warns of ‘point of no return’ for democracy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.
+Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss)
 
 ---
 
-### 8. Egyptian embassy reopens in Libya for the first time in 12 years
+### 8. Train crash kills seven, injures dozens near Egypt’s Cairo city
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.
+The passenger train was travelling from Egypt&#039;s capital to Aswan in the south when it derailed, overturning carriages.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss)
 
 ---
 
-### 9. Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans
+### 9. Four killed, 88 injured in train collision in Egypt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.
+Four killed, 88 injured in train collision in Egypt
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss)
 
 ---
 
