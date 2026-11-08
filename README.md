@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 14:22:25
+**Last Update:** 2026-11-08 20:20:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GitHub Down Again?
+### 1. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/torvalds/linux">https://github.com/torvalds/linux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411818">https://news.ycombinator.com/item?id=50411818</a></p>
-<p>Points: 69</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414427">https://news.ycombinator.com/item?id=50414427</a></p>
+<p>Points: 107</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
+🔗 **Read more:** [https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
 
 ---
 
-### 2. I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone
+### 2. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kobaltgit/StatCraft">https://github.com/kobaltgit/StatCraft</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411522">https://news.ycombinator.com/item?id=50411522</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414021">https://news.ycombinator.com/item?id=50414021</a></p>
+<p>Points: 25</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://github.com/kobaltgit/StatCraft](https://github.com/kobaltgit/StatCraft)
+🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)
 
 ---
 
-### 3. Agent memory needs its OpenTelemetry moment
+### 3. Drones built to look like birds evaded detection at Air Force tech exercise
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lorekit.io/blog/open-agent-memory-format">https://www.lorekit.io/blog/open-agent-memory-format</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411467">https://news.ycombinator.com/item?id=50411467</a></p>
-<p>Points: 41</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://taskandpurpose.com/news/drone-mimicking-bird-test/">https://taskandpurpose.com/news/drone-mimicking-bird-test/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50413885">https://news.ycombinator.com/item?id=50413885</a></p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.lorekit.io/blog/open-agent-memory-format](https://www.lorekit.io/blog/open-agent-memory-format)
+🔗 **Read more:** [https://taskandpurpose.com/news/drone-mimicking-bird-test/](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
 
 ---
 
-### 4. How the deadly shooting in Krakow unfolded
+### 4. King leads solemn Remembrance Sunday service at Cenotaph
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.
+Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Government 'looking seriously' at banning under-16s from Vinted and eBay
+### 5. Footage shows derailed carriages after fatal train crash in Egypt
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will "hold accountable anyone who proves their negligence".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Government looking at banning under-16s from Vinted and eBay
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The culture secretary confirms reports they could be in the list of platforms se
 
 ---
 
-### 6. Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. After rebel offensive, efforts to push them back appear to have stalled
+### 7. Israeli forces release Palestinian journalist Abou Shhadeh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi air power so far hasn&#039;t been enough for Yemen&#039;s government, and civilians are increasingly stuck in the middle
+Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss)
 
 ---
 
-### 8. Tennis world number one Rybakina withdraws from WTA Finals due to virus
+### 8. Egyptian embassy reopens in Libya for the first time in 12 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.
+Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss)
 
 ---
 
-### 9. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
+### 9. Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
+Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss)
 
 ---
 
@@ -149,20 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Murasu
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964)
-
----
-
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -172,6 +159,19 @@ Natural event: Severe Storms
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
+
+---
+
+### 12. Iceberg B22K
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Sea and Lake Ice
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990)
 
 ---
 
