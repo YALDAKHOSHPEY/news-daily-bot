@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 20:39:00
+**Last Update:** 2026-11-09 00:22:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. "RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC
+### 1. Nvidia Board of Directors Is Investigating Jensen Huang
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414839">https://news.ycombinator.com/item?id=50414839</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416801">https://news.ycombinator.com/item?id=50416801</a></p>
+<p>Points: 61</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
+🔗 **Read more:** [https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 
 ---
 
-### 2. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
+### 2. Starship Flight 15 on 11/13 plans to catch both booster and ship
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414427">https://news.ycombinator.com/item?id=50414427</a></p>
-<p>Points: 138</p>
-<p># Comments: 89</p>
+<p>Article URL: <a href="https://www.spacex.com/launches/starship-flight-15">https://www.spacex.com/launches/starship-flight-15</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416471">https://news.ycombinator.com/item?id=50416471</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
+🔗 **Read more:** [https://www.spacex.com/launches/starship-flight-15](https://www.spacex.com/launches/starship-flight-15)
 
 ---
 
-### 3. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
+### 3. How I Fight AI Brain Fry
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414021">https://news.ycombinator.com/item?id=50414021</a></p>
-<p>Points: 27</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://sergeykuhne.com/blog/fighting-ai-brain-fry">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416363">https://news.ycombinator.com/item?id=50416363</a></p>
+<p>Points: 37</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)
+🔗 **Read more:** [https://sergeykuhne.com/blog/fighting-ai-brain-fry](https://sergeykuhne.com/blog/fighting-ai-brain-fry)
 
 ---
 
-### 4. King leads solemn Remembrance Sunday service at Cenotaph
+### 4. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. King leads solemn Remembrance Sunday service at Cenotaph
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 5. Footage shows derailed carriages after fatal train crash in Egypt
+### 6. Seven dead and more than 100 injured after trains collide in Egypt
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will "hold accountable anyone who proves their negligence".
+Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli opposition leader warns of ‘point of no return’ for democracy
+### 7. Pope Leo XIV delivers homily to thousands in Uruguay
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.
+Pope Leo XIV delivers homily to thousands in Uruguay
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss)
 
 ---
 
-### 8. Train crash kills seven, injures dozens near Egypt’s Cairo city
+### 8. Rangoli makers adapt to rising costs to preserve colourful Diwali tradition
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The passenger train was travelling from Egypt&#039;s capital to Aswan in the south when it derailed, overturning carriages.
+Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss)
 
 ---
 
-### 9. Four killed, 88 injured in train collision in Egypt
+### 9. Iran threatens to ‘rain down hell’ if US escalates war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Four killed, 88 injured in train collision in Egypt
+President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss)
 
 ---
 
