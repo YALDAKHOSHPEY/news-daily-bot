@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 14:07:52
+**Last Update:** 2026-11-08 14:22:25
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/torvalds/linux">https://github.com/torvalds/linux</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411818">https://news.ycombinator.com/item?id=50411818</a></p>
-<p>Points: 55</p>
-<p># Comments: 43</p>
+<p>Points: 69</p>
+<p># Comments: 59</p>
 
 🔗 **Read more:** [https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/kobaltgit/StatCraft">https://github.com/kobaltgit/StatCraft</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411522">https://news.ycombinator.com/item?id=50411522</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://github.com/kobaltgit/StatCraft](https://github.com/kobaltgit/StatCraft)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lorekit.io/blog/open-agent-memory-format">https://www.lorekit.io/blog/open-agent-memory-format</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50411467">https://news.ycombinator.com/item?id=50411467</a></p>
-<p>Points: 31</p>
-<p># Comments: 19</p>
+<p>Points: 41</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.lorekit.io/blog/open-agent-memory-format](https://www.lorekit.io/blog/open-agent-memory-format)
 
@@ -71,33 +71,46 @@ Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's
 
 ---
 
-### 5. Veterans shouldn't sleep rough this Christmas, Burnham says
+### 5. Government 'looking seriously' at banning under-16s from Vinted and eBay
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.
+The culture secretary confirms reports they could be in the list of platforms set to be banned next March.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Two seriously hurt in 30-vehicle crash on the M20 in Kent
+### 6. Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.
+It was unclear how genuine the president's offer was, although White later said he would travel to Washington for them to meet.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tennis world number one Rybakina withdraws from WTA Finals due to virus
+### 7. After rebel offensive, efforts to push them back appear to have stalled
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi air power so far hasn&#039;t been enough for Yemen&#039;s government, and civilians are increasingly stuck in the middle
+
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss)
+
+---
+
+### 8. Tennis world number one Rybakina withdraws from WTA Finals due to virus
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039
 
 ---
 
-### 8. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
+### 9. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039
 Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss)
-
----
-
-### 9. Floods in Gaza leave tens of thousands without shelter
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss)
 
 ---
 
