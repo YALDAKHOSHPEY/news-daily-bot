@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 21:27:20
+**Last Update:** 2026-11-09 22:27:54
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+### 1. Too many men suffering in silence, national health report finds (Canada)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429475">https://news.ycombinator.com/item?id=50429475</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
+
+---
+
+### 2. Infineon marks innovation milestone with 300mm power silicon carbide wafer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.infineon.com/press-release/2026/infpr202611-028">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429430">https://news.ycombinator.com/item?id=50429430</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.infineon.com/press-release/2026/infpr202611-028](https://www.infineon.com/press-release/2026/infpr202611-028)
+
+---
+
+### 3. Our Smallest, Most Efficient Model: Muse Ember
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://research.meta.ai/blog/muse-ember">https://research.meta.ai/blog/muse-ember</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429024">https://news.ycombinator.com/item?id=50429024</a></p>
+<p>Points: 22</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://research.meta.ai/blog/muse-ember](https://research.meta.ai/blog/muse-ember)
+
+---
+
+### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The disgraced entertainer was sentenced on Monday following a four-week trial at
 
 ---
 
-### 2. Watch: Moment judge sentences Brand in court
+### 5. Watch: Moment judge sentences Brand in court
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Russell Brand was sentenced for rape and three counts of sexual assault at South
 
 ---
 
-### 3. France accuses Iran of supermarket fridge hacking
+### 6. France accuses Iran of supermarket fridge hacking
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The cyber-attack last month saw fridges and freezers in hundreds of supermarkets
 
 ---
 
-### 4. France accelerates minimum wage hike in bid to quell protest
+### 7. Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.
+The paper was one of the few remaining outlets in Russia that criticised Moscow&#039;s war on Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss)
 
 ---
 
-### 5. Israeli tourists spark outrage over video pushing tour guide into sea
+### 8. Krakow shooting suspect dies as Poland mourns six victims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.
+A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss)
 
 ---
 
-### 6. Al Jazeera tries skateboarding at Youth Olympics
+### 9. Meta rolls out automated age checks for teens globally
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera tries skateboarding at Youth Olympics
+AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 03S
+### 10. Tropical Cyclone 03S
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Typhoon Cempaka
+### 11. Typhoon Cempaka
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Storm Pena
+### 12. Tropical Storm Pena
 
 **Source:** NASA
 
