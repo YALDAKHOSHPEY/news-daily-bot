@@ -1,94 +1,143 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 04:33:18
+**Last Update:** 2026-11-09 10:55:23
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia launches investigation into CEO's affair with suspected Chinese spy
+### 1. Show HN: Flide: Make Jev-like decision models up to 9.5x faster
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50421155">https://news.ycombinator.com/item?id=50421155</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/OmniJev/Flide](https://github.com/OmniJev/Flide)
+
+---
+
+### 2. A Critique of GPUI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.zortax.de/posts/a-critique-of-gpui">https://blog.zortax.de/posts/a-critique-of-gpui</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420857">https://news.ycombinator.com/item?id=50420857</a></p>
+<p>Points: 71</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://blog.zortax.de/posts/a-critique-of-gpui](https://blog.zortax.de/posts/a-critique-of-gpui)
+
+---
+
+### 3. The Qlobe: Rotating Quine (2010)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://mamememo.blogspot.com/2010/09/qlobe.html">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420599">https://news.ycombinator.com/item?id=50420599</a></p>
+<p>Points: 17</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://mamememo.blogspot.com/2010/09/qlobe.html](http://mamememo.blogspot.com/2010/09/qlobe.html)
+
+---
+
+### 4. Will Jensen Huang’s rockstar reputation survive after scandal?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jensen Huang also admitted to having been "unfaithful" to his wife and says he will cooperate with a security investigation.
+Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+### 5. Inside the French drug gangs recruiting children to kill
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.
+The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
+### 6. Woman says Al Fayed's brother drugged and sexually abused her at Highland estate
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
+The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. India’s night lights up for Diwali
+### 7. Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India is celebrating Diwali with prayers, lights and fireworks marking one of the country&#039;s biggest Hindu festivals.
+Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss](https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss)
 
 ---
 
-### 5. Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies
+### 8. Who are the seafarers caught in the US-Israeli war on Iran?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.
+International Maritime Organization records at least 25 deaths since the conflict started on February 28.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss)
 
 ---
 
-### 6. Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield
+### 9. Poland mass shooting assailant dies in hospital, police say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.
+The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Wild River, Coos, New Hampshire
+### 10. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Iceberg B22K
+### 12. Iceberg B22K
 
 **Source:** NASA
 

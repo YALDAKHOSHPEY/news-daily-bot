@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-09T10:55:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+            "description": "<p>Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50421155\">https://news.ycombinator.com/item?id=50421155</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/OmniJev/Flide",
+            "published": "Mon, 09 Nov 2026 04:43:12 +0000",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Critique of GPUI",
+            "description": "<p>Article URL: <a href=\"https://blog.zortax.de/posts/a-critique-of-gpui\">https://blog.zortax.de/posts/a-critique-of-gpui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420857\">https://news.ycombinator.com/item?id=50420857</a></p>\n<p>Points: 71</p>\n<p># Comments: 32</p>",
+            "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+            "published": "Mon, 09 Nov 2026 03:51:10 +0000",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Qlobe: Rotating Quine (2010)",
+            "description": "<p>Article URL: <a href=\"http://mamememo.blogspot.com/2010/09/qlobe.html\">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50420599\">https://news.ycombinator.com/item?id=50420599</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+            "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+            "published": "Mon, 09 Nov 2026 03:15:17 +0000",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will Jensen Huang’s rockstar reputation survive after scandal?",
+            "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+            "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 07:10:11 GMT",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the French drug gangs recruiting children to kill",
+            "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+            "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 06:00:26 GMT",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+            "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 00:57:05 GMT",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+            "description": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 07:12:09 +0000",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+            "description": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 07:07:26 +0000",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland mass shooting assailant dies in hospital, police say",
+            "description": "The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 07:03:24 +0000",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-09T10:55:23+03:30"
+        }
+    ]
+}
