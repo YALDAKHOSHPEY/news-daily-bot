@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 03:47:05
+**Last Update:** 2026-11-09 04:33:18
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Herb Sutter: When a language's creator and its owners strongly disagree [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://isocpp.org/files/papers/P4454R0.pdf">https://isocpp.org/files/papers/P4454R0.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418818">https://news.ycombinator.com/item?id=50418818</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://isocpp.org/files/papers/P4454R0.pdf](https://isocpp.org/files/papers/P4454R0.pdf)
-
----
-
-### 2. Chimera Vocal Synth
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chimera-vocal-synth.vercel.app/">https://chimera-vocal-synth.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418182">https://news.ycombinator.com/item?id=50418182</a></p>
-<p>Points: 40</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://chimera-vocal-synth.vercel.app/](https://chimera-vocal-synth.vercel.app/)
-
----
-
-### 3. KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ketchup3d.github.io/app/">https://ketchup3d.github.io/app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418176">https://news.ycombinator.com/item?id=50418176</a></p>
-<p>Points: 79</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://ketchup3d.github.io/app/](https://ketchup3d.github.io/app/)
-
----
-
-### 4. Nvidia launches investigation into CEO's affair with suspected Chinese spy
+### 1. Nvidia launches investigation into CEO's affair with suspected Chinese spy
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Jensen Huang also admitted to having been "unfaithful" to his wife and says he w
 
 ---
 
-### 5. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+### 2. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
 
 **Source:** BBC
 
@@ -84,20 +36,33 @@ Further details have emerged about two police officers hailed for preventing a P
 
 ---
 
-### 6. King leads solemn Remembrance Sunday service at Cenotaph
+### 3. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.
+The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies
+### 4. India’s night lights up for Diwali
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+India is celebrating Diwali with prayers, lights and fireworks marking one of the country&#039;s biggest Hindu festivals.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss](https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss)
+
+---
+
+### 5. Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies
 
 **Source:** Al Jazeera
 
@@ -110,33 +75,20 @@ Democratic lawmakers are mapping out their post-midterm agenda with pledges to l
 
 ---
 
-### 8. Iran war live: Trump says land blockade in effect; drone cuts power in Iraq
+### 6. Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility,
+More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss)
 
 ---
 
-### 9. Nvidia CEO’s affair sparks Chinese espionage probe
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss)
-
----
-
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Iceberg B22K
+### 9. Iceberg B22K
 
 **Source:** NASA
 
