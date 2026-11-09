@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 00:46:09
+**Last Update:** 2026-11-09 03:47:05
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia Board of Directors Is Investigating Jensen Huang
+### 1. Herb Sutter: When a language's creator and its owners strongly disagree [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416801">https://news.ycombinator.com/item?id=50416801</a></p>
-<p>Points: 124</p>
-<p># Comments: 98</p>
-
-🔗 **Read more:** [https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
-
----
-
-### 2. Starship Flight 15 on 11/13 plans to catch both booster and ship
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.spacex.com/launches/starship-flight-15">https://www.spacex.com/launches/starship-flight-15</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416471">https://news.ycombinator.com/item?id=50416471</a></p>
-<p>Points: 27</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.spacex.com/launches/starship-flight-15](https://www.spacex.com/launches/starship-flight-15)
-
----
-
-### 3. The Web Is More Than Enough, by Paul Ford
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ftrain.com/aboard-the-web-is-more-than-enough">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416456">https://news.ycombinator.com/item?id=50416456</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://isocpp.org/files/papers/P4454R0.pdf">https://isocpp.org/files/papers/P4454R0.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418818">https://news.ycombinator.com/item?id=50418818</a></p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://ftrain.com/aboard-the-web-is-more-than-enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
+🔗 **Read more:** [https://isocpp.org/files/papers/P4454R0.pdf](https://isocpp.org/files/papers/P4454R0.pdf)
+
+---
+
+### 2. Chimera Vocal Synth
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://chimera-vocal-synth.vercel.app/">https://chimera-vocal-synth.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418182">https://news.ycombinator.com/item?id=50418182</a></p>
+<p>Points: 40</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://chimera-vocal-synth.vercel.app/](https://chimera-vocal-synth.vercel.app/)
+
+---
+
+### 3. KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ketchup3d.github.io/app/">https://ketchup3d.github.io/app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418176">https://news.ycombinator.com/item?id=50418176</a></p>
+<p>Points: 79</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://ketchup3d.github.io/app/](https://ketchup3d.github.io/app/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Jensen Huang also admitted to having been "unfaithful "to his wife and apologised for hurting her and their children.
+Jensen Huang also admitted to having been "unfaithful" to his wife and says he will cooperate with a security investigation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 7. Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
+### 7. Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
+Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss)
 
 ---
 
-### 8. Pope Leo XIV delivers homily to thousands in Uruguay
+### 8. Iran war live: Trump says land blockade in effect; drone cuts power in Iraq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV delivers homily to thousands in Uruguay
+More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility,
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss)
 
 ---
 
-### 9. Rangoli makers adapt to rising costs to preserve colourful Diwali tradition
+### 9. Nvidia CEO’s affair sparks Chinese espionage probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.
+Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss)
 
 ---
 
