@@ -1,178 +1,129 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 11:45:10
+**Last Update:** 2026-11-09 21:27:20
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2610.14162">https://arxiv.org/abs/2610.14162</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50422168">https://news.ycombinator.com/item?id=50422168</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2610.14162](https://arxiv.org/abs/2610.14162)
-
----
-
-### 2. Is Opus 5.5 nerfed? Thinking patterns changed on November 3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/shanemelaugh/status/2119192075505893695">https://twitter.com/shanemelaugh/status/2119192075505893695</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50422069">https://news.ycombinator.com/item?id=50422069</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://twitter.com/shanemelaugh/status/2119192075505893695](https://twitter.com/shanemelaugh/status/2119192075505893695)
-
----
-
-### 3. Show HN: Flide: Make Jev-like decision models up to 9.5x faster
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50421155">https://news.ycombinator.com/item?id=50421155</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/OmniJev/Flide](https://github.com/OmniJev/Flide)
-
----
-
-### 4. Will Jensen Huang’s rockstar reputation survive after scandal?
+### 1. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?
+The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Inside the French drug gangs recruiting children to kill
+### 2. Watch: Moment judge sentences Brand in court
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.
+Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Krakow shooting suspect has died in hospital, police say
+### 3. France accuses Iran of supermarket fridge hacking
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.
+The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar
+### 4. France accelerates minimum wage hike in bid to quell protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aprilia&#039;s Marco Bezzecchi wins Qatar Grand Prix as Ducati&#039;s Marc Marquez finishes second.
+Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss)
 
 ---
 
-### 8. Which countries and industries emit the most greenhouse gases?
+### 5. Israeli tourists spark outrage over video pushing tour guide into sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.
+A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss)
 
 ---
 
-### 9. Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan
+### 6. Al Jazeera tries skateboarding at Youth Olympics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.
+Al Jazeera tries skateboarding at Youth Olympics
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Tropical Cyclone 03S
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159)
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 8. Typhoon Cempaka
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157)
 
 ---
 
-### 12. Iceberg B22K
+### 9. Tropical Storm Pena
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158)
 
 ---
 
