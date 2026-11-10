@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 22:27:54
+**Last Update:** 2026-11-10 04:37:07
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Too many men suffering in silence, national health report finds (Canada)
+### 1. Horible public key tricks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429475">https://news.ycombinator.com/item?id=50429475</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://maurycyz.com/projects/badcert/">https://maurycyz.com/projects/badcert/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434264">https://news.ycombinator.com/item?id=50434264</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
+🔗 **Read more:** [https://maurycyz.com/projects/badcert/](https://maurycyz.com/projects/badcert/)
 
 ---
 
-### 2. Infineon marks innovation milestone with 300mm power silicon carbide wafer
+### 2. Fable 5.2 one-shotted my nephew's dream game
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.infineon.com/press-release/2026/infpr202611-028">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429430">https://news.ycombinator.com/item?id=50429430</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433659">https://news.ycombinator.com/item?id=50433659</a></p>
+<p>Points: 78</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://www.infineon.com/press-release/2026/infpr202611-028](https://www.infineon.com/press-release/2026/infpr202611-028)
+🔗 **Read more:** [https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
 
 ---
 
-### 3. Our Smallest, Most Efficient Model: Muse Ember
+### 3. Exact – a new cross platform UI framework by the Expo team
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/muse-ember">https://research.meta.ai/blog/muse-ember</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429024">https://news.ycombinator.com/item?id=50429024</a></p>
-<p>Points: 22</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://github.com/expo/exact">https://github.com/expo/exact</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433541">https://news.ycombinator.com/item?id=50433541</a></p>
+<p>Points: 27</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://research.meta.ai/blog/muse-ember](https://research.meta.ai/blog/muse-ember)
+🔗 **Read more:** [https://github.com/expo/exact](https://github.com/expo/exact)
 
 ---
 
@@ -71,68 +71,68 @@ The disgraced entertainer was sentenced on Monday following a four-week trial at
 
 ---
 
-### 5. Watch: Moment judge sentences Brand in court
+### 5. Brand's ex Jemima Goldsmith accuses him of violence and abuse against her
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.
+She accuses the disgraced performer of "violence, coercive control and abuse" while the two were together.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. France accuses Iran of supermarket fridge hacking
+### 6. What happened inside court as Brand was sentenced
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.
+The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown
+### 7. France blames Iran for October supermarket cyberattack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The paper was one of the few remaining outlets in Russia that criticised Moscow&#039;s war on Ukraine.
+French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss)
 
 ---
 
-### 8. Krakow shooting suspect dies as Poland mourns six victims
+### 8. Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
+Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss)
 
 ---
 
-### 9. Meta rolls out automated age checks for teens globally
+### 9. Verdict delayed in Honduras sex-trafficking case linked to disappearance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
+Angie Pena&#039;s disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss)
 
 ---
 
