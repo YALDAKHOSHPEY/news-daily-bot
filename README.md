@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 12:26:43
+**Last Update:** 2026-11-10 13:39:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. M John Harrison becomes first science fiction author to win the Booker prize
+### 1. Queens Public library under ransomware attack e-borrowing suspended
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://connect.queenslibrary.org/">https://connect.queenslibrary.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437790">https://news.ycombinator.com/item?id=50437790</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://connect.queenslibrary.org/](https://connect.queenslibrary.org/)
+
+---
+
+### 2. M John Harrison becomes first science fiction author to win the Booker prize
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437242">https://news.ycombinator.com/item?id=50437242</a></p>
-<p>Points: 33</p>
-<p># Comments: 7</p>
+<p>Points: 50</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 
 ---
 
-### 2. Fireworks AI security breach impacts Notion and their customers
+### 3. Fireworks AI security breach impacts Notion and their customers
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437106">https://news.ycombinator.com/item?id=50437106</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 34</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
-
----
-
-### 3. ClickHouse Acquires Xata
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://xata.io/blog/xata-is-joining-clickhouse">https://xata.io/blog/xata-is-joining-clickhouse</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50436706">https://news.ycombinator.com/item?id=50436706</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://xata.io/blog/xata-is-joining-clickhouse](https://xata.io/blog/xata-is-joining-clickhouse)
 
 ---
 
@@ -97,42 +97,42 @@ The government says it is strengthening its guidance for schools in England, whi
 
 ---
 
-### 7. California voters reject billionaire tax
+### 7. Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.
+The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss)
 
 ---
 
-### 8. What powers does Netanyahu have as Israel’s interim PM?
+### 8. Are your supplements fake?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.
+That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss)
 
 ---
 
-### 9. US moves aircraft from second UK base over ‘threat from Iran’
+### 9. UFC CEO Dana White takes the White House podium during Washington visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.
+During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss)
 
 ---
 
