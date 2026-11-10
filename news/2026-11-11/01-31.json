@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T01:31:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Six Math Essentials by Terence Tao",
+            "description": "<p>Article URL: <a href=\"https://teorth.github.io/tao-web/six-math-essentials.html\">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446246\">https://news.ycombinator.com/item?id=50446246</a></p>\n<p>Points: 29</p>\n<p># Comments: 2</p>",
+            "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+            "published": "Tue, 10 Nov 2026 20:58:44 +0000",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sherman Anti-Trust Act (1890",
+            "description": "<p>Article URL: <a href=\"https://www.archives.gov/milestone-documents/sherman-anti-trust-act\">https://www.archives.gov/milestone-documents/sherman-anti-trust-act</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446219\">https://news.ycombinator.com/item?id=50446219</a></p>\n<p>Points: 31</p>\n<p># Comments: 13</p>",
+            "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+            "published": "Tue, 10 Nov 2026 20:56:16 +0000",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+            "description": "<p>Article URL: <a href=\"https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/\">https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50445401\">https://news.ycombinator.com/item?id=50445401</a></p>\n<p>Points: 63</p>\n<p># Comments: 39</p>",
+            "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+            "published": "Tue, 10 Nov 2026 19:50:46 +0000",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Army soldier suspected of spying for Russia arrested in UK",
+            "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+            "description": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
+            "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 20:20:11 GMT",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about the allegations against Walliams",
+            "description": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
+            "url": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 19:35:17 GMT",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+            "description": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
+            "url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 21:00:55 +0000",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "White House announces funds for law enforcement programme in several cities",
+            "description": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 21:00:01 +0000",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US soldier arrested in UK on suspicion of spying for Russia",
+            "description": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 20:41:53 +0000",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T01:31:59+03:30"
+        }
+    ]
+}

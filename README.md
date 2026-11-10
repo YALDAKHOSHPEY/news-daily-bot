@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 21:31:34
+**Last Update:** 2026-11-11 01:31:59
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AMD's Zen 6 Family: Feeding the Beast
+### 1. Six Math Essentials by Terence Tao
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50443090">https://news.ycombinator.com/item?id=50443090</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://teorth.github.io/tao-web/six-math-essentials.html">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446246">https://news.ycombinator.com/item?id=50446246</a></p>
+<p>Points: 29</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
+🔗 **Read more:** [https://teorth.github.io/tao-web/six-math-essentials.html](https://teorth.github.io/tao-web/six-math-essentials.html)
 
 ---
 
-### 2. .name Grandfathered
+### 2. Sherman Anti-Trust Act (1890
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neil.fraser.name/news/2026/11/10/">https://neil.fraser.name/news/2026/11/10/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442736">https://news.ycombinator.com/item?id=50442736</a></p>
-<p>Points: 201</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://www.archives.gov/milestone-documents/sherman-anti-trust-act">https://www.archives.gov/milestone-documents/sherman-anti-trust-act</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446219">https://news.ycombinator.com/item?id=50446219</a></p>
+<p>Points: 31</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://neil.fraser.name/news/2026/11/10/](https://neil.fraser.name/news/2026/11/10/)
+🔗 **Read more:** [https://www.archives.gov/milestone-documents/sherman-anti-trust-act](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
 
 ---
 
-### 3. Tailscale's DNS IPv6 spells out "Tailscale"
+### 3. Toyota brand Scion is back and it's going to sell a kei truck in America
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442691">https://news.ycombinator.com/item?id=50442691</a></p>
-<p>Points: 55</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50445401">https://news.ycombinator.com/item?id=50445401</a></p>
+<p>Points: 63</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
+🔗 **Read more:** [https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
 
 ---
 
-### 4. Inside devastated front-line city that Russia wants Ukraine to give up
+### 4. US Army soldier suspected of spying for Russia arrested in UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.
+The 41-year-old senior soldier is accused of national security offences and is being questioned in London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Arrests made in Mohamed Al Fayed probe in France, police say
+### 5. David Walliams accused of sexual misconduct after losing injunction bid
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.
+ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch
+### 6. Watch: What we know about the allegations against Walliams
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.
+The author and comedian recently lost a court battle trying to block publication of the allegations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Anthropic targets $1.4 trillion valuation in massive stock market debut
+### 7. 2026 Midterms: Blue wave or anti-establishment backlash?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.
+Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss)
 
 ---
 
-### 8. Israeli president warns against repeat election in new Knesset session
+### 8. White House announces funds for law enforcement programme in several cities
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.
+Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss)
 
 ---
 
-### 9. Security forces seized top court, Somalia’s ex-chief justice says
+### 9. US soldier arrested in UK on suspicion of spying for Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somalia’s former Chief Justice said more than 300 security forces had ‘militarily occupied’ the Supreme Court.
+London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss)
 
 ---
 
