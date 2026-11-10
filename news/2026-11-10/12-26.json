@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-10T12:26:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize\">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437242\">https://news.ycombinator.com/item?id=50437242</a></p>\n<p>Points: 33</p>\n<p># Comments: 7</p>",
+            "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+            "published": "Tue, 10 Nov 2026 07:40:52 +0000",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fireworks AI security breach impacts Notion and their customers",
+            "description": "<p>Article URL: <a href=\"https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437106\">https://news.ycombinator.com/item?id=50437106</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+            "published": "Tue, 10 Nov 2026 07:19:38 +0000",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ClickHouse Acquires Xata",
+            "description": "<p>Article URL: <a href=\"https://xata.io/blog/xata-is-joining-clickhouse\">https://xata.io/blog/xata-is-joining-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50436706\">https://news.ycombinator.com/item?id=50436706</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+            "published": "Tue, 10 Nov 2026 06:14:51 +0000",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
+            "description": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while they were in a relationship.",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 02:59:42 GMT",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What happened inside court as Brand was sentenced",
+            "description": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+            "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 20:13:41 GMT",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+            "description": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+            "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 22:51:09 GMT",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "California voters reject billionaire tax",
+            "description": "The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 08:38:26 +0000",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What powers does Netanyahu have as Israel’s interim PM?",
+            "description": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 08:38:11 +0000",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+            "description": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 08:08:24 +0000",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-10T12:26:43+03:30"
+        }
+    ]
+}

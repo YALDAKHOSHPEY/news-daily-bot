@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 05:48:43
+**Last Update:** 2026-11-10 12:26:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Locating the Source of a Mysterious Beep
+### 1. M John Harrison becomes first science fiction author to win the Booker prize
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Nov/9/mysterious-beeps/">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434310">https://news.ycombinator.com/item?id=50434310</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437242">https://news.ycombinator.com/item?id=50437242</a></p>
+<p>Points: 33</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Nov/9/mysterious-beeps/](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+🔗 **Read more:** [https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 
 ---
 
-### 2. Horible public key tricks
+### 2. Fireworks AI security breach impacts Notion and their customers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://maurycyz.com/projects/badcert/">https://maurycyz.com/projects/badcert/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434264">https://news.ycombinator.com/item?id=50434264</a></p>
-<p>Points: 30</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437106">https://news.ycombinator.com/item?id=50437106</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://maurycyz.com/projects/badcert/](https://maurycyz.com/projects/badcert/)
+🔗 **Read more:** [https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
 
 ---
 
-### 3. Fable 5.2 one-shotted my nephew's dream game
+### 3. ClickHouse Acquires Xata
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433659">https://news.ycombinator.com/item?id=50433659</a></p>
-<p>Points: 151</p>
-<p># Comments: 111</p>
+<p>Article URL: <a href="https://xata.io/blog/xata-is-joining-clickhouse">https://xata.io/blog/xata-is-joining-clickhouse</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50436706">https://news.ycombinator.com/item?id=50436706</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+🔗 **Read more:** [https://xata.io/blog/xata-is-joining-clickhouse](https://xata.io/blog/xata-is-joining-clickhouse)
 
 ---
 
-### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+### 4. Jemima Goldsmith accuses Russell Brand of violence and abuse against her
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Brand's ex Jemima Goldsmith accuses him of violence and abuse against her
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-She accuses the disgraced performer of "violence, coercive control and abuse" while the two were together.
+Goldsmith accuses the disgraced entertainer of "violence, coercive control and abuse" while they were in a relationship.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. What happened inside court as Brand was sentenced
+### 5. What happened inside court as Brand was sentenced
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 y
 
 ---
 
-### 7. Poll finds Americans less likely to back pro-war candidates by 3-1 margin
+### 6. Phones to be banned from pupils' bags or pockets under stricter rules for schools in England
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.
+The government says it is strengthening its guidance for schools in England, which came into force in June.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. France blames Iran for October supermarket cyberattack
+### 7. California voters reject billionaire tax
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.
+The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/california-voters-reject-billionaire-tax?traffic_source=rss)
 
 ---
 
-### 9. Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
+### 8. What powers does Netanyahu have as Israel’s interim PM?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
+As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss)
+
+---
+
+### 9. US moves aircraft from second UK base over ‘threat from Iran’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss)
 
 ---
 
