@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 20:13:10
+**Last Update:** 2026-11-10 21:31:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailscale's DNS IPv6 spells out "Tailscale"
+### 1. AMD's Zen 6 Family: Feeding the Beast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50443090">https://news.ycombinator.com/item?id=50443090</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
+
+---
+
+### 2. .name Grandfathered
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://neil.fraser.name/news/2026/11/10/">https://neil.fraser.name/news/2026/11/10/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442736">https://news.ycombinator.com/item?id=50442736</a></p>
+<p>Points: 201</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://neil.fraser.name/news/2026/11/10/](https://neil.fraser.name/news/2026/11/10/)
+
+---
+
+### 3. Tailscale's DNS IPv6 spells out "Tailscale"
 
 **Source:** Hacker News
 
@@ -19,68 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442691">https://news.ycombinator.com/item?id=50442691</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 55</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 
 ---
 
-### 2. Blender 5.3 released with Gaussian Splat support
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.blender.org/download/releases/5-3/">https://www.blender.org/download/releases/5-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442426">https://news.ycombinator.com/item?id=50442426</a></p>
-<p>Points: 56</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.blender.org/download/releases/5-3/](https://www.blender.org/download/releases/5-3/)
-
----
-
-### 3. Gemini 4 Carbon is now available
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442303">https://news.ycombinator.com/item?id=50442303</a></p>
-<p>Points: 97</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
-
----
-
-### 4. More than 12 US military aircraft leave second UK base
+### 4. Inside devastated front-line city that Russia wants Ukraine to give up
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.
+The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Met Police investigating more 'potential criminal allegations' about Brand
+### 5. Arrests made in Mohamed Al Fayed probe in France, police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Det Supt Andy Furphy says the force had received "several reports during the trial and since the trial".
+The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Sales of essential goods such as hand sanitiser soar after the government called
 
 ---
 
-### 7. Did Fox News’ fixation on Hasan Piker backfire?
+### 7. Anthropic targets $1.4 trillion valuation in massive stock market debut
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Did Fox News&#039; fixation on Hasan Piker backfire?
+The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss)
 
 ---
 
-### 8. At least 12 people killed in Bulgaria motorway pile-up
+### 8. Israeli president warns against repeat election in new Knesset session
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway
+Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss)
 
 ---
 
-### 9. Father, child among six Palestinians killed in Israeli attacks on Gaza
+### 9. Security forces seized top court, Somalia’s ex-chief justice says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.
+Somalia’s former Chief Justice said more than 300 security forces had ‘militarily occupied’ the Supreme Court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss)
 
 ---
 
