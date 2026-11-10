@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 04:37:07
+**Last Update:** 2026-11-10 05:48:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Horible public key tricks
+### 1. Locating the Source of a Mysterious Beep
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Nov/9/mysterious-beeps/">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434310">https://news.ycombinator.com/item?id=50434310</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Nov/9/mysterious-beeps/](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+
+---
+
+### 2. Horible public key tricks
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://maurycyz.com/projects/badcert/">https://maurycyz.com/projects/badcert/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434264">https://news.ycombinator.com/item?id=50434264</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 30</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://maurycyz.com/projects/badcert/](https://maurycyz.com/projects/badcert/)
 
 ---
 
-### 2. Fable 5.2 one-shotted my nephew's dream game
+### 3. Fable 5.2 one-shotted my nephew's dream game
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433659">https://news.ycombinator.com/item?id=50433659</a></p>
-<p>Points: 78</p>
-<p># Comments: 42</p>
+<p>Points: 151</p>
+<p># Comments: 111</p>
 
 🔗 **Read more:** [https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
-
----
-
-### 3. Exact – a new cross platform UI framework by the Expo team
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/expo/exact">https://github.com/expo/exact</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433541">https://news.ycombinator.com/item?id=50433541</a></p>
-<p>Points: 27</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://github.com/expo/exact](https://github.com/expo/exact)
 
 ---
 
@@ -97,7 +97,20 @@ The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 y
 
 ---
 
-### 7. France blames Iran for October supermarket cyberattack
+### 7. Poll finds Americans less likely to back pro-war candidates by 3-1 margin
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss)
+
+---
+
+### 8. France blames Iran for October supermarket cyberattack
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolut
 
 ---
 
-### 8. Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
+### 9. Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolut
 Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss)
-
----
-
-### 9. Verdict delayed in Honduras sex-trafficking case linked to disappearance
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Angie Pena&#039;s disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss)
 
 ---
 
