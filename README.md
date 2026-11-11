@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 10:21:40
+**Last Update:** 2026-11-11 13:29:39
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Greg Kurtzer's Ginux is now a userspace kernel
+### 1. OSS projects banning AI-generated contributions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://osssaysno.com">https://osssaysno.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50451102">https://news.ycombinator.com/item?id=50451102</a></p>
+<p>Points: 44</p>
+<p># Comments: 51</p>
+
+🔗 **Read more:** [https://osssaysno.com](https://osssaysno.com)
+
+---
+
+### 2. Greg Kurtzer's Ginux is now a userspace kernel
 
 **Source:** Hacker News
 
@@ -19,42 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/gmkurtzer/ginux">https://github.com/gmkurtzer/ginux</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50450007">https://news.ycombinator.com/item?id=50450007</a></p>
-<p>Points: 32</p>
-<p># Comments: 5</p>
+<p>Points: 65</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://github.com/gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)
 
 ---
 
-### 2. Protecting SSH Keys with macOS Secure Enclave
+### 3. Show HN: Black Ops II statically recompiled to native ARM64 macOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gatezh.com/posts/macos-secure-enclave-ssh-keys/">https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449748">https://news.ycombinator.com/item?id=50449748</a></p>
-<p>Points: 78</p>
-<p># Comments: 28</p>
+<p>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449891">https://news.ycombinator.com/item?id=50449891</a></p>
+<p>Points: 18</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://gatezh.com/posts/macos-secure-enclave-ssh-keys/](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-
----
-
-### 3. To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna">https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449275">https://news.ycombinator.com/item?id=50449275</a></p>
-<p>Points: 53</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
+🔗 **Read more:** [https://github.com/adrbn/bo2-mac](https://github.com/adrbn/bo2-mac)
 
 ---
 
@@ -71,16 +72,16 @@ The TV presenter says he was once "friendly" with both David Walliams and Russel
 
 ---
 
-### 5. Why Walliams' unprecedented legal battle to stay anonymous failed
+### 5. 'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.
+Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has told BBC Newsnight that she was "angry" at his behaviour.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ The US Department of Justice says the men were involved in a string of plots, in
 
 ---
 
-### 7. Netanyahu fights to stay relevant as Israel’s opposition closes in
+### 7. Gaza Grad: A Palestinian-Russian family’s longing for home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government
+Forced from Gaza, a Palestinian-Russian family rebuilds their lives across Russia and Egypt, longing to return home.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss)
 
 ---
 
-### 8. South African swimmer Tatjana Smith switches allegiance to Netherlands
+### 8. What do Kyiv residents think about giving up territory to Russia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Double Olympic gold medallist cites &#039;financial and practical challenges&#039; of swimming.
+US President Donald Trump says post-war Ukraine will have a &#039;different shape&#039; ahead of peace talks in Abu Dhabi.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss)
 
 ---
 
-### 9. Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses
+### 9. US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting dealing heavy blows.
+US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss)
 
 ---
 

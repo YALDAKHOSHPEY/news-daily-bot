@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T13:29:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OSS projects banning AI-generated contributions",
+            "description": "<p>Article URL: <a href=\"https://osssaysno.com\">https://osssaysno.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50451102\">https://news.ycombinator.com/item?id=50451102</a></p>\n<p>Points: 44</p>\n<p># Comments: 51</p>",
+            "url": "https://osssaysno.com",
+            "published": "Wed, 11 Nov 2026 08:51:45 +0000",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+            "description": "<p>Article URL: <a href=\"https://github.com/gmkurtzer/ginux\">https://github.com/gmkurtzer/ginux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50450007\">https://news.ycombinator.com/item?id=50450007</a></p>\n<p>Points: 65</p>\n<p># Comments: 30</p>",
+            "url": "https://github.com/gmkurtzer/ginux",
+            "published": "Wed, 11 Nov 2026 05:25:54 +0000",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+            "description": "<p>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449891\">https://news.ycombinator.com/item?id=50449891</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/adrbn/bo2-mac",
+            "published": "Wed, 11 Nov 2026 04:56:47 +0000",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+            "description": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 04:03:25 GMT",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
+            "description": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
+            "url": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 09:29:45 GMT",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+            "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+            "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza Grad: A Palestinian-Russian family’s longing for home",
+            "description": "Forced from Gaza, a Palestinian-Russian family rebuilds their lives across Russia and Egypt, longing to return home.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 09:39:19 +0000",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What do Kyiv residents think about giving up territory to Russia?",
+            "description": "US President Donald Trump says post-war Ukraine will have a &#039;different shape&#039; ahead of peace talks in Abu Dhabi.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 09:07:59 +0000",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
+            "description": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 08:58:59 +0000",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T13:29:39+03:30"
+        }
+    ]
+}
