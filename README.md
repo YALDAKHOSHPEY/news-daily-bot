@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 01:37:38
+**Last Update:** 2026-11-12 03:20:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. United Airlines bans AI agents from booking flights on behalf of travelers
+### 1. Modern Web Guidance 1.0: The web platform expertise your coding agent is missing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50458900">https://news.ycombinator.com/item?id=50458900</a></p>
-<p>Points: 14</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://developer.chrome.com/blog/modern-web-guidance-v1">https://developer.chrome.com/blog/modern-web-guidance-v1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460398">https://news.ycombinator.com/item?id=50460398</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+🔗 **Read more:** [https://developer.chrome.com/blog/modern-web-guidance-v1](https://developer.chrome.com/blog/modern-web-guidance-v1)
 
 ---
 
-### 2. Play GTA5 on Browser
+### 2. A general purpose Apple Silicon layer for x86-64 PCs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://playgta5.com/">https://playgta5.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50458710">https://news.ycombinator.com/item?id=50458710</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator.com/item?id=50460154</a></p>
+<p>Points: 6</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://playgta5.com/](https://playgta5.com/)
+🔗 **Read more:** [https://github.com/tylertms/Stela](https://github.com/tylertms/Stela)
 
 ---
 
-### 3. GitHub Incident with Webhooks, Actions, etc.
+### 3. Nvidia prepares to fire CEO Jensen Huang, WSJ reports
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.githubstatus.com/incidents/dvy0t3mvh1lg">https://www.githubstatus.com/incidents/dvy0t3mvh1lg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50458532">https://news.ycombinator.com/item?id=50458532</a></p>
-<p>Points: 42</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://twitter.com/watcherguru/status/2120645607866188008">https://twitter.com/watcherguru/status/2120645607866188008</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459776">https://news.ycombinator.com/item?id=50459776</a></p>
+<p>Points: 93</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.githubstatus.com/incidents/dvy0t3mvh1lg](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
+🔗 **Read more:** [https://twitter.com/watcherguru/status/2120645607866188008](https://twitter.com/watcherguru/status/2120645607866188008)
 
 ---
 
@@ -84,55 +84,55 @@ Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has tol
 
 ---
 
-### 6. Clashes erupt in Barcelona after thousands join Spain general strike
+### 6. Some under-25s should get less benefits, Milburn review to say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.
+The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says
+### 7. Democrat Scott Colom wins closely watched US Senate race in Mississippi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.
+The historic victory flips an eighth US Senate seat for Democrats after last week&#039;s pivotal midterm election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss)
 
 ---
 
-### 8. Thousands march to mark Poland’s Independence Day
+### 8. Israeli strikes hit medical complex as nine killed across Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march
+Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss)
 
 ---
 
-### 9. Hoax bomb threats target schools across Italy, UK and Ireland
+### 9. Iran designates Argentinian navy, air force as ‘terrorist organisations’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.
+The move comes months after the government of Javier Milei designated Iran&#039;s IRGC as a &#039;terrorist organisation&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss)
 
 ---
 

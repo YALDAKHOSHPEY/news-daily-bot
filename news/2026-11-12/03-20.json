@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T03:20:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+            "description": "<p>Article URL: <a href=\"https://developer.chrome.com/blog/modern-web-guidance-v1\">https://developer.chrome.com/blog/modern-web-guidance-v1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460398\">https://news.ycombinator.com/item?id=50460398</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+            "published": "Wed, 11 Nov 2026 23:22:29 +0000",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+            "description": "<p>Article URL: <a href=\"https://github.com/tylertms/Stela\">https://github.com/tylertms/Stela</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460154\">https://news.ycombinator.com/item?id=50460154</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/tylertms/Stela",
+            "published": "Wed, 11 Nov 2026 23:02:38 +0000",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/watcherguru/status/2120645607866188008\">https://twitter.com/watcherguru/status/2120645607866188008</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459776\">https://news.ycombinator.com/item?id=50459776</a></p>\n<p>Points: 93</p>\n<p># Comments: 19</p>",
+            "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+            "published": "Wed, 11 Nov 2026 22:36:35 +0000",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
+            "description": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 20:40:47 GMT",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
+            "description": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
+            "url": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 09:29:45 GMT",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get less benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 23:22:04 GMT",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+            "description": "The historic victory flips an eighth US Senate seat for Democrats after last week&#039;s pivotal midterm election.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 23:05:34 +0000",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+            "description": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 22:55:37 +0000",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+            "description": "The move comes months after the government of Javier Milei designated Iran&#039;s IRGC as a &#039;terrorist organisation&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 22:34:43 +0000",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T03:20:19+03:30"
+        }
+    ]
+}
