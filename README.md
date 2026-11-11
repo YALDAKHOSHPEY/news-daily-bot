@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 13:29:39
+**Last Update:** 2026-11-11 18:58:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OSS projects banning AI-generated contributions
+### 1. Pharo in the Browser with WebAssembly
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://osssaysno.com">https://osssaysno.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50451102">https://news.ycombinator.com/item?id=50451102</a></p>
-<p>Points: 44</p>
-<p># Comments: 51</p>
+<p>Article URL: <a href="https://massimo-nocentini.github.io/pharo-vm/world.html">https://massimo-nocentini.github.io/pharo-vm/world.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453763">https://news.ycombinator.com/item?id=50453763</a></p>
+<p>Points: 37</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://osssaysno.com](https://osssaysno.com)
+🔗 **Read more:** [https://massimo-nocentini.github.io/pharo-vm/world.html](https://massimo-nocentini.github.io/pharo-vm/world.html)
 
 ---
 
-### 2. Greg Kurtzer's Ginux is now a userspace kernel
+### 2. Atuin Threads: All your agent sessions on every machine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/gmkurtzer/ginux">https://github.com/gmkurtzer/ginux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50450007">https://news.ycombinator.com/item?id=50450007</a></p>
-<p>Points: 65</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://blog.atuin.sh/threads-agent-sessions/">https://blog.atuin.sh/threads-agent-sessions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453637">https://news.ycombinator.com/item?id=50453637</a></p>
+<p>Points: 25</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)
+🔗 **Read more:** [https://blog.atuin.sh/threads-agent-sessions/](https://blog.atuin.sh/threads-agent-sessions/)
 
 ---
 
-### 3. Show HN: Black Ops II statically recompiled to native ARM64 macOS
+### 3. Apple is killing its Support Community forum next week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449891">https://news.ycombinator.com/item?id=50449891</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down">https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453555">https://news.ycombinator.com/item?id=50453555</a></p>
+<p>Points: 57</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://github.com/adrbn/bo2-mac](https://github.com/adrbn/bo2-mac)
+🔗 **Read more:** [https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
 
 ---
 
@@ -66,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The TV presenter says he was once "friendly" with both David Walliams and Russell Brand, but was "genuinely unaware of their conduct".
+The TV presenter says he was once "friendly" with David Walliams and Russell Brand, but was "genuinely unaware" of their conduct.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss)
 
@@ -85,55 +84,55 @@ Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has tol
 
 ---
 
-### 6. Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says
+### 6. Scottish DJ, 32, confirmed as victim of Krakow shooting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.
+The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opened fire in central Krakow on Saturday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Gaza Grad: A Palestinian-Russian family’s longing for home
+### 7. Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Forced from Gaza, a Palestinian-Russian family rebuilds their lives across Russia and Egypt, longing to return home.
+MotoGP chief says &#039;it was normal that the riders showed their concerns&#039; but was surprised at Yamaha&#039;s ⁠⁠⁠⁠withdrawal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss)
 
 ---
 
-### 8. What do Kyiv residents think about giving up territory to Russia?
+### 8. Italy vs France: UEFA Nations League – preview, team news, predictions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says post-war Ukraine will have a &#039;different shape&#039; ahead of peace talks in Abu Dhabi.
+Kylian Mbappe &#039;under treatment&#039; as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss)
 
 ---
 
-### 9. US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz
+### 9. Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.
+Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss)
 
 ---
 
