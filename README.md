@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 18:58:52
+**Last Update:** 2026-11-11 21:14:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pharo in the Browser with WebAssembly
+### 1. Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://massimo-nocentini.github.io/pharo-vm/world.html">https://massimo-nocentini.github.io/pharo-vm/world.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453763">https://news.ycombinator.com/item?id=50453763</a></p>
-<p>Points: 37</p>
-<p># Comments: 8</p>
+<p>Hi HN, we’re Alan and Akshay from Pomerado (<a href="https://pomerado.ai/">https://pomerado.ai/</a>). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.<p>Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns.<p>We discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, they fell back on computer use, which failed to checkout. These issues got magnified on repeated workflows, like searching many airlines at once.<p>Pomerado started off as a project to improve these personal assistant workflows. As we started building, we realized that just-in-time tool creation could have significant applications for AI builders in legacy verticals.<p>We’re ex-McKinsey and Scale AI, where we drove agent deployments in healthcare, professional services, and telecom. Each time, the biggest bottleneck was getting agents to interface well with legacy websites and apps.<p>Pomerado is what we built. It’s a self-serve platform where devs can create APIs for any website (even those they don’t own), in minutes. Users (or their coding agents) provide a short natural language description, answer a few questions about their workflow, and receive a MCP in less than an hour. Future tool calls use the deterministic MCP, which usually returns results in 5-30 seconds.<p>Here’s a walkthrough of our product: <a href="https://youtu.be/Bi4jci7rgHo" rel="nofollow">https://youtu.be/Bi4jci7rgHo</a><p>In practice:<p>- Our agent opens a browser, explores the website, and performs the requested task once by writing HTTP requests or a Playwright script. This example run establishes how to navigate the website, interact with the relevant controls, and obtain the desired result. If any additional user input is needed (e.g., login, clarification) the agent will ask the user over MCP.<p>- Afterwards, the agent uses the example run, along with all of the data it recorded, to create a generalizable and repeatable API. Throughout this process, a separate Guardian model reviews the coding agent’s calls against a set of guardrails. We also run a battery of tests with synthetic inputs to ensure that the API is generalized and not overfit to one input. A final publication agent ensures that the integration publishes a reasonable and generalized input/output schema<p>- We also handle sites that require authentication and 2FA. For authentication, we pass off to a deterministic sign-in process to ensure the model and our recorders never read customer credentials. Users can store 2FA TOTP seeds or link their account to a Pomerado phone number for us to autofill 2FA for them as well<p>- If future runs fail, a maintenance job is kicked off to repair and improve the tool. The maintenance job can fix broken steps (e.g., a renamed button), add additional functionality (e.g., searching for business class flights in addition to economy), or add new guardrails (e.g., reservation dates must be in the future). We’ve even seen people improve tools by just saying “please make this faster”<p>Unlike computer use, our MCPs are deterministic at runtime, which makes them much faster and cheaper. By taking slightly longer to do a task the first time, you reap the benefits much more in the future. It’s a great fit for repeated, high-volume tasks you want your agent to do.<p>We’d love to have you try it! We have both an open-source (MIT) (<a href="https://github.com/Pomerado/pomerado" rel="nofollow">https://github.com/Pomerado/pomerado</a>) and a free hosted version (<a href="https://app.pomerado.ai">https://app.pomerado.ai</a>).<p>So far, users of Pomerado include:<p>- A personal trainer using agents to prepare workouts and message clients. Before Pomerado, agents couldn’t login and use the site reliably, so this was all manual<p>- Car dealerships connecting their Grok Bots to legacy dealer systems, including marketplaces, CRMs, and ERPs. Dealers switched from computer use, which could take 1hr+<p>- Personal assistants using Pomerado to integrate with a broad range of consumer websites<p>Please ask any questions or share any feedback in the comments, thanks!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50455811">https://news.ycombinator.com/item?id=50455811</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://massimo-nocentini.github.io/pharo-vm/world.html](https://massimo-nocentini.github.io/pharo-vm/world.html)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50455811](https://news.ycombinator.com/item?id=50455811)
 
 ---
 
-### 2. Atuin Threads: All your agent sessions on every machine
+### 2. Faster Retrieval for Better, More Efficient RAG
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.atuin.sh/threads-agent-sessions/">https://blog.atuin.sh/threads-agent-sessions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453637">https://news.ycombinator.com/item?id=50453637</a></p>
-<p>Points: 25</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://machinelearning.apple.com/research/faster-retrieval">https://machinelearning.apple.com/research/faster-retrieval</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50455633">https://news.ycombinator.com/item?id=50455633</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.atuin.sh/threads-agent-sessions/](https://blog.atuin.sh/threads-agent-sessions/)
+🔗 **Read more:** [https://machinelearning.apple.com/research/faster-retrieval](https://machinelearning.apple.com/research/faster-retrieval)
 
 ---
 
-### 3. Apple is killing its Support Community forum next week
+### 3. A false smoke alarm almost drowned Jane Street's only NYC datacenter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down">https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453555">https://news.ycombinator.com/item?id=50453555</a></p>
-<p>Points: 57</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/">https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50455394">https://news.ycombinator.com/item?id=50455394</a></p>
+<p>Points: 92</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
+🔗 **Read more:** [https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
 
 ---
 
@@ -84,55 +85,55 @@ Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has tol
 
 ---
 
-### 6. Scottish DJ, 32, confirmed as victim of Krakow shooting
+### 6. Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opened fire in central Krakow on Saturday.
+More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP
+### 7. Thune re-elected as US Senate Republican leader after midterm losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-MotoGP chief says &#039;it was normal that the riders showed their concerns&#039; but was surprised at Yamaha&#039;s ⁠⁠⁠⁠withdrawal.
+The Republican ran unopposed, despite some GOP lawmaker demands to evaluate the party&#039;s stinging midterm losses to Democ
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss)
 
 ---
 
-### 8. Italy vs France: UEFA Nations League – preview, team news, predictions
+### 8. Russia-Ukraine talks in UAE secure major prisoner exchange deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kylian Mbappe &#039;under treatment&#039; as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.
+Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss)
 
 ---
 
-### 9. Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?
+### 9. Palestinian American activist refused UK entry for Gaza fundraiser
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.
+A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss)
 
 ---
 
