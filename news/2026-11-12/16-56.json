@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T16:56:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic IPO",
+            "description": "<p>Article URL: <a href=\"https://ipo.anthropic.com/us/\">https://ipo.anthropic.com/us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465829\">https://news.ycombinator.com/item?id=50465829</a></p>\n<p>Points: 163</p>\n<p># Comments: 189</p>",
+            "url": "https://ipo.anthropic.com/us/",
+            "published": "Thu, 12 Nov 2026 11:46:41 +0000",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+            "description": "<p>Article URL: <a href=\"https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/\">https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465453\">https://news.ycombinator.com/item?id=50465453</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+            "published": "Thu, 12 Nov 2026 10:46:20 +0000",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Writing Correct Software Is Hard",
+            "description": "<p>Article URL: <a href=\"https://pron.github.io/posts/correctness-and-complexity\">https://pron.github.io/posts/correctness-and-complexity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465352\">https://news.ycombinator.com/item?id=50465352</a></p>\n<p>Points: 120</p>\n<p># Comments: 50</p>",
+            "url": "https://pron.github.io/posts/correctness-and-complexity",
+            "published": "Thu, 12 Nov 2026 10:28:26 +0000",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+            "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+            "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 12:14:51 GMT",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+            "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+            "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get fewer benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 13:16:59 GMT",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+            "description": "FIFA says its &#039;security assessments&#039; for the 48-team tournament remain unchanged after US Soccer pulled out.",
+            "url": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 12:57:12 +0000",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+            "description": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
+            "url": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 12:56:27 +0000",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Greta Thunberg: The planet is being killed",
+            "description": "Climate activist Greta Thunberg delivers a stark warning at COP31.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 12:53:00 +0000",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T16:56:40+03:30"
+        }
+    ]
+}

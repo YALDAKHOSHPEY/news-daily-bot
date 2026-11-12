@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 15:05:13
+**Last Update:** 2026-11-12 16:56:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Writing Correct Software Is Hard
+### 1. Anthropic IPO
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ipo.anthropic.com/us/">https://ipo.anthropic.com/us/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465829">https://news.ycombinator.com/item?id=50465829</a></p>
+<p>Points: 163</p>
+<p># Comments: 189</p>
+
+🔗 **Read more:** [https://ipo.anthropic.com/us/](https://ipo.anthropic.com/us/)
+
+---
+
+### 2. Researchers discover rare star system that emits radio signals every 8 minutes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/">https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465453">https://news.ycombinator.com/item?id=50465453</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
+
+---
+
+### 3. Why Writing Correct Software Is Hard
 
 **Source:** Hacker News
 
@@ -19,46 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://pron.github.io/posts/correctness-and-complexity">https://pron.github.io/posts/correctness-and-complexity</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465352">https://news.ycombinator.com/item?id=50465352</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Points: 120</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://pron.github.io/posts/correctness-and-complexity](https://pron.github.io/posts/correctness-and-complexity)
 
 ---
 
-### 2. I'm Working on a FOSS Linux Pinbal Simulation Engine
+### 4. Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.getlazarus.org/forums/topic/17/">https://www.getlazarus.org/forums/topic/17/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463540">https://news.ycombinator.com/item?id=50463540</a></p>
-<p>Points: 53</p>
-<p># Comments: 23</p>
+Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.
 
-🔗 **Read more:** [https://www.getlazarus.org/forums/topic/17/](https://www.getlazarus.org/forums/topic/17/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Darling Development Update – Q4 2026
+### 5. 'We've got to run': Inside ruined Ukraine power plant under constant drone threat
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463103">https://news.ycombinator.com/item?id=50463103</a></p>
-<p>Points: 27</p>
-<p># Comments: 6</p>
+Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.
 
-🔗 **Read more:** [https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Some under-25s should get fewer benefits, Milburn review to say
+### 6. Some under-25s should get fewer benefits, Milburn review to say
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ The proposed radical overhaul of the welfare system would move under-25s off the
 
 ---
 
-### 5. Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Robot tells Al Jazeera AI is ‘too useful to disappear’
+### 7. FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Rosie Birchard asks a humanoid robot about AI&#039;s future at the Web Summit in Lisbon.
+FIFA says its &#039;security assessments&#039; for the 48-team tournament remain unchanged after US Soccer pulled out.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss)
 
 ---
 
-### 8. China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’
+### 8. Canada won’t let Russian players enter for ice hockey junior championship
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.
+Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss)
 
 ---
 
-### 9. Manchester United sack Michael Carrick as manager
+### 9. Greta Thunberg: The planet is being killed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.
+Climate activist Greta Thunberg delivers a stark warning at COP31.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss)
 
 ---
 
