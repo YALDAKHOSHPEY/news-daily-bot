@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-13T00:44:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft Status: \"We are re-routing the protocols\"",
+            "description": "<p>Article URL: <a href=\"https://admin.cloud.microsoft/#/servicehealth/:/alerts/MO1550821\">https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50473606\">https://news.ycombinator.com/item?id=50473606</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://admin.cloud.microsoft/#/servicehealth/:/alerts/MO1550821",
+            "published": "Thu, 12 Nov 2026 20:20:41 +0000",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data centers need power – lower income, rural residents pay the price",
+            "description": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price\">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50473231\">https://news.ycombinator.com/item?id=50473231</a></p>\n<p>Points: 70</p>\n<p># Comments: 70</p>",
+            "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+            "published": "Thu, 12 Nov 2026 19:53:54 +0000",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Distributed Ray Tracer",
+            "description": "<p>Article URL: <a href=\"https://ray.hatchet.run\">https://ray.hatchet.run</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50472505\">https://news.ycombinator.com/item?id=50472505</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://ray.hatchet.run",
+            "published": "Thu, 12 Nov 2026 19:06:23 +0000",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+            "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 16:43:36 GMT",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+            "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+            "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
+            "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 20:25:29 GMT",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
+            "description": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 20:25:21 +0000",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar Under-17 World Cup is on despite US pull out",
+            "description": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 20:15:47 +0000",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+            "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 20:12:21 +0000",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-13T00:44:40+03:30"
+        }
+    ]
+}
