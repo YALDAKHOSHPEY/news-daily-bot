@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 06:40:25
+**Last Update:** 2026-11-12 08:21:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Critical RCE Vulnerability in Apache HTTP Server
+### 1. Lean Grimoire
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/11/lean-grimoire/">https://terrytao.wordpress.com/2026/11/11/lean-grimoire/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462375">https://news.ycombinator.com/item?id=50462375</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/11/11/lean-grimoire/](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
+
+---
+
+### 2. Critical RCE Vulnerability in Apache HTTP Server
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462177">https://news.ycombinator.com/item?id=50462177</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 52</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 
 ---
 
-### 2. A general purpose Apple Silicon layer for x86-64 PCs
+### 3. A general purpose Apple Silicon layer for x86-64 PCs
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator.com/item?id=50460154</a></p>
-<p>Points: 64</p>
-<p># Comments: 22</p>
+<p>Points: 80</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://github.com/tylertms/Stela](https://github.com/tylertms/Stela)
 
 ---
 
-### 3. 93% of paint splatters are valid Perl programs (2019)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.mcmillen.dev/sigbovik/">https://www.mcmillen.dev/sigbovik/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459745">https://news.ycombinator.com/item?id=50459745</a></p>
-<p>Points: 191</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://www.mcmillen.dev/sigbovik/](https://www.mcmillen.dev/sigbovik/)
-
----
-
-### 4. Some under-25s should get less benefits, Milburn review to say
+### 4. Some under-25s should get fewer benefits, Milburn review to say
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The proposed radical overhaul of the welfare system would move under-25s off the
 
 ---
 
-### 5. Author says there were 'real concerns' about David Walliams within publishing industry
+### 5. Government could force media industry to improve safeguards after Walliams allegations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.
+Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Clashes erupt in Barcelona after thousands join Spain general strike
+### 6. Poundland set for more time to secure a rescue deal as emergency talks continue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.
+The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Indonesian VP resigns over education qualification row
+### 7. Iran’s chief negotiator tells Al Jazeera ‘ball in US court’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.
+Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss)
 
 ---
 
-### 8. Argentina’s Milei cries as he bids farewell to the Pope
+### 8. Amnesty says UN, South Sudan officials failed to prevent village massacre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.
+Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss)
 
 ---
 
-### 9. Three-storey building collapses in Brooklyn
+### 9. Iran warns of expanded retaliation as Israel reportedly readies to attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.
+Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss)
 
 ---
 

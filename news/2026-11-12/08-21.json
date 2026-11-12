@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T08:21:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lean Grimoire",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/11/lean-grimoire/\">https://terrytao.wordpress.com/2026/11/11/lean-grimoire/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50462375\">https://news.ycombinator.com/item?id=50462375</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+            "published": "Thu, 12 Nov 2026 02:36:48 +0000",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Critical RCE Vulnerability in Apache HTTP Server",
+            "description": "<p>Article URL: <a href=\"https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50462177\">https://news.ycombinator.com/item?id=50462177</a></p>\n<p>Points: 52</p>\n<p># Comments: 23</p>",
+            "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+            "published": "Thu, 12 Nov 2026 02:11:11 +0000",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+            "description": "<p>Article URL: <a href=\"https://github.com/tylertms/Stela\">https://github.com/tylertms/Stela</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460154\">https://news.ycombinator.com/item?id=50460154</a></p>\n<p>Points: 80</p>\n<p># Comments: 33</p>",
+            "url": "https://github.com/tylertms/Stela",
+            "published": "Wed, 11 Nov 2026 23:02:38 +0000",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get fewer benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 23:22:04 GMT",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government could force media industry to improve safeguards after Walliams allegations",
+            "description": "Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 04:01:50 GMT",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+            "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+            "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 00:49:05 GMT",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
+            "description": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 04:19:55 +0000",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+            "description": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 04:00:24 +0000",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+            "description": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 03:50:42 +0000",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T08:21:27+03:30"
+        }
+    ]
+}
