@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 08:21:27
+**Last Update:** 2026-11-12 15:05:13
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lean Grimoire
+### 1. Why Writing Correct Software Is Hard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/11/lean-grimoire/">https://terrytao.wordpress.com/2026/11/11/lean-grimoire/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462375">https://news.ycombinator.com/item?id=50462375</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://pron.github.io/posts/correctness-and-complexity">https://pron.github.io/posts/correctness-and-complexity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465352">https://news.ycombinator.com/item?id=50465352</a></p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/11/11/lean-grimoire/](https://terrytao.wordpress.com/2026/11/11/lean-grimoire/)
+🔗 **Read more:** [https://pron.github.io/posts/correctness-and-complexity](https://pron.github.io/posts/correctness-and-complexity)
 
 ---
 
-### 2. Critical RCE Vulnerability in Apache HTTP Server
+### 2. I'm Working on a FOSS Linux Pinbal Simulation Engine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462177">https://news.ycombinator.com/item?id=50462177</a></p>
-<p>Points: 52</p>
+<p>Article URL: <a href="https://www.getlazarus.org/forums/topic/17/">https://www.getlazarus.org/forums/topic/17/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463540">https://news.ycombinator.com/item?id=50463540</a></p>
+<p>Points: 53</p>
 <p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+🔗 **Read more:** [https://www.getlazarus.org/forums/topic/17/](https://www.getlazarus.org/forums/topic/17/)
 
 ---
 
-### 3. A general purpose Apple Silicon layer for x86-64 PCs
+### 3. Darling Development Update – Q4 2026
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator.com/item?id=50460154</a></p>
-<p>Points: 80</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463103">https://news.ycombinator.com/item?id=50463103</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://github.com/tylertms/Stela](https://github.com/tylertms/Stela)
+🔗 **Read more:** [https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 
 ---
 
@@ -71,68 +71,68 @@ The proposed radical overhaul of the welfare system would move under-25s off the
 
 ---
 
-### 5. Government could force media industry to improve safeguards after Walliams allegations
+### 5. Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.
+Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Poundland set for more time to secure a rescue deal as emergency talks continue
+### 6. 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.
+For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran’s chief negotiator tells Al Jazeera ‘ball in US court’
+### 7. Robot tells Al Jazeera AI is ‘too useful to disappear’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.
+Al Jazeera’s Rosie Birchard asks a humanoid robot about AI&#039;s future at the Web Summit in Lisbon.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss)
 
 ---
 
-### 8. Amnesty says UN, South Sudan officials failed to prevent village massacre
+### 8. China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.
+Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss)
 
 ---
 
-### 9. Iran warns of expanded retaliation as Israel reportedly readies to attack
+### 9. Manchester United sack Michael Carrick as manager
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.
+Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss)
 
 ---
 
