@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 03:20:19
+**Last Update:** 2026-11-12 06:40:25
 
 **Total News:** 12
 
@@ -10,19 +10,19 @@
 
 ## 📰 Latest News
 
-### 1. Modern Web Guidance 1.0: The web platform expertise your coding agent is missing
+### 1. Critical RCE Vulnerability in Apache HTTP Server
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developer.chrome.com/blog/modern-web-guidance-v1">https://developer.chrome.com/blog/modern-web-guidance-v1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460398">https://news.ycombinator.com/item?id=50460398</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462177">https://news.ycombinator.com/item?id=50462177</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://developer.chrome.com/blog/modern-web-guidance-v1](https://developer.chrome.com/blog/modern-web-guidance-v1)
+🔗 **Read more:** [https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 
 ---
 
@@ -35,56 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator.com/item?id=50460154</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Points: 64</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://github.com/tylertms/Stela](https://github.com/tylertms/Stela)
 
 ---
 
-### 3. Nvidia prepares to fire CEO Jensen Huang, WSJ reports
+### 3. 93% of paint splatters are valid Perl programs (2019)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/watcherguru/status/2120645607866188008">https://twitter.com/watcherguru/status/2120645607866188008</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459776">https://news.ycombinator.com/item?id=50459776</a></p>
-<p>Points: 93</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.mcmillen.dev/sigbovik/">https://www.mcmillen.dev/sigbovik/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459745">https://news.ycombinator.com/item?id=50459745</a></p>
+<p>Points: 191</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://twitter.com/watcherguru/status/2120645607866188008](https://twitter.com/watcherguru/status/2120645607866188008)
-
----
-
-### 4. Author says there were 'real concerns' about David Walliams within publishing industry
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.mcmillen.dev/sigbovik/](https://www.mcmillen.dev/sigbovik/)
 
 ---
 
-### 5. 'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has told BBC Newsnight that she was "angry" at his behaviour.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Some under-25s should get less benefits, Milburn review to say
+### 4. Some under-25s should get less benefits, Milburn review to say
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ The proposed radical overhaul of the welfare system would move under-25s off the
 
 ---
 
-### 7. Democrat Scott Colom wins closely watched US Senate race in Mississippi
+### 5. Author says there were 'real concerns' about David Walliams within publishing industry
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The historic victory flips an eighth US Senate seat for Democrats after last week&#039;s pivotal midterm election.
+The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Israeli strikes hit medical complex as nine killed across Gaza
+### 6. Clashes erupt in Barcelona after thousands join Spain general strike
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.
+Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Iran designates Argentinian navy, air force as ‘terrorist organisations’
+### 7. Indonesian VP resigns over education qualification row
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The move comes months after the government of Javier Milei designated Iran&#039;s IRGC as a &#039;terrorist organisation&#039;.
+Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss)
+
+---
+
+### 8. Argentina’s Milei cries as he bids farewell to the Pope
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss)
+
+---
+
+### 9. Three-storey building collapses in Brooklyn
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss)
 
 ---
 
