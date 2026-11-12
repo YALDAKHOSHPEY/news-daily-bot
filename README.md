@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 16:56:40
+**Last Update:** 2026-11-12 23:42:31
 
 **Total News:** 12
 
@@ -10,168 +10,168 @@
 
 ## 📰 Latest News
 
-### 1. Anthropic IPO
+### 1. Data centers need power – lower income, rural residents pay the price
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ipo.anthropic.com/us/">https://ipo.anthropic.com/us/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465829">https://news.ycombinator.com/item?id=50465829</a></p>
-<p>Points: 163</p>
-<p># Comments: 189</p>
+<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50473231">https://news.ycombinator.com/item?id=50473231</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://ipo.anthropic.com/us/](https://ipo.anthropic.com/us/)
+🔗 **Read more:** [https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 
 ---
 
-### 2. Researchers discover rare star system that emits radio signals every 8 minutes
+### 2. Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/">https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465453">https://news.ycombinator.com/item?id=50465453</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/">https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472490">https://news.ycombinator.com/item?id=50472490</a></p>
+<p>Points: 49</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/](https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/)
+🔗 **Read more:** [https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 
 ---
 
-### 3. Why Writing Correct Software Is Hard
+### 3. Gemini 4 Hydrogen and Orchestrator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pron.github.io/posts/correctness-and-complexity">https://pron.github.io/posts/correctness-and-complexity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465352">https://news.ycombinator.com/item?id=50465352</a></p>
-<p>Points: 120</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472260">https://news.ycombinator.com/item?id=50472260</a></p>
+<p>Points: 57</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://pron.github.io/posts/correctness-and-complexity](https://pron.github.io/posts/correctness-and-complexity)
+🔗 **Read more:** [https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 
 ---
 
-### 4. Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
+### 4. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.
+Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'We've got to run': Inside ruined Ukraine power plant under constant drone threat
+### 5. What we know about Brooklyn building collapse that killed eight people
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.
+Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Some under-25s should get fewer benefits, Milburn review to say
+### 6. Faisal Islam: Why the UK economy is surprisingly resilient
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.
+The UK is seeing impressive growth, but will it last?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal
+### 7. Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA says its &#039;security assessments&#039; for the 48-team tournament remain unchanged after US Soccer pulled out.
+The baby&#039;s father said he died of hypothermia overnight in their family&#039;s tent in southern Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss)
 
 ---
 
-### 8. Canada won’t let Russian players enter for ice hockey junior championship
+### 8. US nonprofits sue tech giants to halt AI development
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.
+California lawsuit demands freeze training on &#039;catastrophic&#039; artificial intelligence models.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development?traffic_source=rss)
 
 ---
 
-### 9. Greta Thunberg: The planet is being killed
+### 9. Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Climate activist Greta Thunberg delivers a stark warning at COP31.
+Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 03S
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331)
 
 ---
 
-### 11. Typhoon Cempaka
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332)
 
 ---
 
-### 12. Tropical Storm Pena
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333)
 
 ---
 
