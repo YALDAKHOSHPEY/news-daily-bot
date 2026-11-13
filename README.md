@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 21:47:10
+**Last Update:** 2026-11-14 02:13:50
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems
+### 1. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths">https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50486748">https://news.ycombinator.com/item?id=50486748</a></p>
-<p>Points: 33</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=50490593</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths)
+🔗 **Read more:** [https://orcasairband.com/](https://orcasairband.com/)
 
 ---
 
-### 2. Arm boss Rene Haas approached in Nvidia CEO search
+### 2. FAA issues nationwide ground stop due to "extraordinary circumstances"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926">https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50486489">https://news.ycombinator.com/item?id=50486489</a></p>
-<p>Points: 35</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489678">https://news.ycombinator.com/item?id=50489678</a></p>
+<p>Points: 81</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926)
+🔗 **Read more:** [https://www.axios.com/2026/11/13/faa-nationwide-ground-stop](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 
 ---
 
-### 3. "LibreOffice works 365 days a year. Just saying."
+### 3. All US airports are currently ground stopped
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/LibreOffice/status/2121205272479998268">https://twitter.com/LibreOffice/status/2121205272479998268</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50486482">https://news.ycombinator.com/item?id=50486482</a></p>
-<p>Points: 293</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489652">https://news.ycombinator.com/item?id=50489652</a></p>
+<p>Points: 83</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://twitter.com/LibreOffice/status/2121205272479998268](https://twitter.com/LibreOffice/status/2121205272479998268)
+🔗 **Read more:** [https://twitter.com/flightradar24/status/2121347654714077605](https://twitter.com/flightradar24/status/2121347654714077605)
 
 ---
 
@@ -71,68 +71,68 @@ The Met Police said the allegations are separate from those reported by ITV and 
 
 ---
 
-### 5. Microsoft outage 'stark reminder' of how much we rely on tech
+### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Microsoft has apologised for the issue, which it said was due to a technical failure.
+The American military says there were no injuries or damage after "suspected unauthorised drone activity" this evening.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Former Hamas bodyguard guilty of UK knife attack
+### 6. Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.
+Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. No emails, no problem? Workers joke about Microsoft outage
+### 7. LIVE: FAA issues nationwide ground stop after communications outage in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.
+US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss)
 
 ---
 
-### 8. The fight over Canadian steelworker jobs
+### 8. FAA grounds US flights nationwide after ‘communication issue’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Stelco&#039;s US owner blames Trump&#039;s tariffs for layoffs, but its support for those same tariffs has raised questions.
+US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss)
 
 ---
 
-### 9. Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser
+### 9. Pope Leo cheered on return to Peru city where he served as bishop
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.
+An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss)
 
 ---
 
