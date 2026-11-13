@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 13:48:07
+**Last Update:** 2026-11-13 20:07:17
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Dawn of the Data Intelligence Engineer
+### 1. Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://motherduck.com/blog/the-data-intelligence-engineer/">https://motherduck.com/blog/the-data-intelligence-engineer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50480480">https://news.ycombinator.com/item?id=50480480</a></p>
-<p>Points: 16</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e">https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50485295">https://news.ycombinator.com/item?id=50485295</a></p>
+<p>Points: 31</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://motherduck.com/blog/the-data-intelligence-engineer/](https://motherduck.com/blog/the-data-intelligence-engineer/)
+🔗 **Read more:** [https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
 
 ---
 
-### 2. TSMC Hacked
+### 2. Why is Google cutting off Search from AI-free schools? Here are some theories
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm">https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50479721">https://news.ycombinator.com/item?id=50479721</a></p>
-<p>Points: 39</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://text.npr.org/nx-s1-6029408">https://text.npr.org/nx-s1-6029408</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50484960">https://news.ycombinator.com/item?id=50484960</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)
+🔗 **Read more:** [https://text.npr.org/nx-s1-6029408](https://text.npr.org/nx-s1-6029408)
 
 ---
 
-### 3. Global Microsoft Outage
+### 3. Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk">https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50479098">https://news.ycombinator.com/item?id=50479098</a></p>
-<p>Points: 92</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=IRK8h67ol7Q">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50484658">https://news.ycombinator.com/item?id=50484658</a></p>
+<p>Points: 34</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
+🔗 **Read more:** [https://www.youtube.com/watch?v=IRK8h67ol7Q](https://www.youtube.com/watch?v=IRK8h67ol7Q)
 
 ---
 
-### 4. What we know about the global outage
+### 4. Police investigating David Walliams over alleged serious sexual offences
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.
+The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Why is the Microsoft outage lasting so long?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Microsoft says it is seeing "improvements" following a global outage but efforts to fully resume services are ongoing.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: How Microsoft services went down around the world
+### 6. Former Hamas bodyguard guilty of UK knife attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by "connectivity problems".
+Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. With every rainfall, Gaza risks losing access to power and healthcare
+### 7. US Treasury warns against rate hikes during US-Iran war energy ‘shock’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.
+Despite Treasury&#039;s Scott Bessent&#039;s remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss)
 
 ---
 
-### 8. Microsoft hit by global outages: What happened and why?
+### 8. Truck and bus crash in India’s Assam state kills at least 24 people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.
+Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss)
 
 ---
 
-### 9. Pope Leo XIV warns on pressures facing modern families
+### 9. Turkiye and Qatar sign mutual defence agreement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.
+The pact was signed after ​President met Qatari Emir Sheikh Tamim ‌bin Hamad ​al-Thani in Istanbul on ⁠Friday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss)
 
 ---
 
