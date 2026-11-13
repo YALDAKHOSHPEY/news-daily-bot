@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-13T13:48:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Dawn of the Data Intelligence Engineer",
+            "description": "<p>Article URL: <a href=\"https://motherduck.com/blog/the-data-intelligence-engineer/\">https://motherduck.com/blog/the-data-intelligence-engineer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50480480\">https://news.ycombinator.com/item?id=50480480</a></p>\n<p>Points: 16</p>\n<p># Comments: 19</p>",
+            "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+            "published": "Fri, 13 Nov 2026 09:08:18 +0000",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TSMC Hacked",
+            "description": "<p>Article URL: <a href=\"https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm\">https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50479721\">https://news.ycombinator.com/item?id=50479721</a></p>\n<p>Points: 39</p>\n<p># Comments: 6</p>",
+            "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+            "published": "Fri, 13 Nov 2026 07:39:55 +0000",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Global Microsoft Outage",
+            "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk\">https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50479098\">https://news.ycombinator.com/item?id=50479098</a></p>\n<p>Points: 92</p>\n<p># Comments: 30</p>",
+            "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+            "published": "Fri, 13 Nov 2026 06:18:23 +0000",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the global outage",
+            "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 09:59:20 GMT",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How Microsoft services went down around the world",
+            "description": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+            "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 07:18:17 GMT",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
+            "description": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 06:00:44 GMT",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+            "description": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 09:43:30 +0000",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Microsoft hit by global outages: What happened and why?",
+            "description": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 09:30:55 +0000",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo XIV warns on pressures facing modern families",
+            "description": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 09:11:37 +0000",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-13T13:48:07+03:30"
+        }
+    ]
+}
