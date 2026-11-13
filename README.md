@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 00:44:40
+**Last Update:** 2026-11-13 04:46:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft Status: "We are re-routing the protocols"
+### 1. Edge0-145B: Frontier AI Capabilities on Your Own Computer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://admin.cloud.microsoft/#/servicehealth/:/alerts/MO1550821">https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50473606">https://news.ycombinator.com/item?id=50473606</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50475713">https://news.ycombinator.com/item?id=50475713</a></p>
+<p>Points: 22</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://admin.cloud.microsoft/#/servicehealth/:/alerts/MO1550821](https://admin.cloud.microsoft/#/servicehealth/:/alerts/MO1550821)
+🔗 **Read more:** [https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 
 ---
 
-### 2. Data centers need power – lower income, rural residents pay the price
+### 2. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50473231">https://news.ycombinator.com/item?id=50473231</a></p>
-<p>Points: 70</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474883">https://news.ycombinator.com/item?id=50474883</a></p>
+<p>Points: 143</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
+🔗 **Read more:** [https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
 
 ---
 
-### 3. Distributed Ray Tracer
+### 3. Foundation Models framework
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ray.hatchet.run">https://ray.hatchet.run</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472505">https://news.ycombinator.com/item?id=50472505</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474361">https://news.ycombinator.com/item?id=50474361</a></p>
+<p>Points: 116</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://ray.hatchet.run](https://ray.hatchet.run)
+🔗 **Read more:** [https://developer.apple.com/foundation-models-framework/](https://developer.apple.com/foundation-models-framework/)
 
 ---
 
-### 4. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+### 4. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
+US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The attack is thought to be the first time Ukrainian drones have attacked a Russ
 
 ---
 
-### 6. Microsoft users report outages amid tech giant 'connectivity issues'
+### 6. Junior doctor burnout putting maternity patients at risk, says regulator
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Users worldwide report issues after tech giant says its infrastructure has been hit by "elevated load"
+Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What’s at stake in the renewed tensions over the Falkland Islands?
+### 7. Iran war live: Trump says Gulf allies urged pause in Iran strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina and the UK are in a legal battle over an offshore oil-drilling project.
+Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss)
 
 ---
 
-### 8. Qatar Under-17 World Cup is on despite US pull out
+### 8. Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw
+Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss)
 
 ---
 
-### 9. Regional security dominates European talks in Dublin amid hybrid attacks
+### 9. Russian court jails rights lawyer for 12 years on treason charge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.
+Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss)
 
 ---
 
