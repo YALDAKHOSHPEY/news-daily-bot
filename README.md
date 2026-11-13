@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 04:46:24
+**Last Update:** 2026-11-13 05:45:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Edge0-145B: Frontier AI Capabilities on Your Own Computer
+### 1. Chicago schools to Google – we'd rather lose Search than be forced to accept AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html">https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50476586">https://news.ycombinator.com/item?id=50476586</a></p>
+<p>Points: 37</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html](https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html)
+
+---
+
+### 2. Edge0-145B: Frontier AI Capabilities on Your Own Computer
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50475713">https://news.ycombinator.com/item?id=50475713</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Points: 53</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
 
 ---
 
-### 2. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
+### 3. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474883">https://news.ycombinator.com/item?id=50474883</a></p>
-<p>Points: 143</p>
-<p># Comments: 41</p>
+<p>Points: 174</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
-
----
-
-### 3. Foundation Models framework
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474361">https://news.ycombinator.com/item?id=50474361</a></p>
-<p>Points: 116</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://developer.apple.com/foundation-models-framework/](https://developer.apple.com/foundation-models-framework/)
 
 ---
 
@@ -97,7 +97,33 @@ Trainee doctors delivering babies are more likely to suffer from overwork and bu
 
 ---
 
-### 7. Iran war live: Trump says Gulf allies urged pause in Iran strikes
+### 7. After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss)
+
+---
+
+### 8. Albania’s PM says 2027 NATO summit will not be held in Tirana
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Trump says Gulf allies urged pause in Iran strikes
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Trainee doctors delivering babies are more likely to suffer from overwork and bu
 Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss)
-
----
-
-### 8. Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss)
-
----
-
-### 9. Russian court jails rights lawyer for 12 years on treason charge
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss)
 
 ---
 

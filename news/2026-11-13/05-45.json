@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-13T05:45:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+            "description": "<p>Article URL: <a href=\"https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html\">https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50476586\">https://news.ycombinator.com/item?id=50476586</a></p>\n<p>Points: 37</p>\n<p># Comments: 11</p>",
+            "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+            "published": "Fri, 13 Nov 2026 00:38:41 +0000",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+            "description": "<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://news.ycombinator.com/item?id=50475713</a></p>\n<p>Points: 53</p>\n<p># Comments: 16</p>",
+            "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+            "published": "Thu, 12 Nov 2026 23:06:17 +0000",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+            "description": "<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 174</p>\n<p># Comments: 48</p>",
+            "url": "https://unemploymentlabs.com/checkpoint-forensics",
+            "published": "Thu, 12 Nov 2026 21:56:11 +0000",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+            "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+            "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+            "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+            "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 00:55:31 GMT",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+            "description": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 01:44:55 +0000",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+            "description": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 01:43:17 +0000",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+            "description": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 00:00:26 +0000",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-13T05:45:50+03:30"
+        }
+    ]
+}
