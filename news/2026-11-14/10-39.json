@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T10:39:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Israeli airstrike on Nasser hospital in Gaza killed surgeon and others",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon\">https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50494303\">https://news.ycombinator.com/item?id=50494303</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+            "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+            "published": "Sat, 14 Nov 2026 05:31:44 +0000",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+            "description": "<p>Article URL: <a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493251\">https://news.ycombinator.com/item?id=50493251</a></p>\n<p>Points: 349</p>\n<p># Comments: 177</p>",
+            "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+            "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ggml v1.0.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/ggml-org/ggml/releases/tag/v1.0.0\">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493062\">https://news.ycombinator.com/item?id=50493062</a></p>\n<p>Points: 164</p>\n<p># Comments: 28</p>",
+            "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+            "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+            "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 03:45:21 GMT",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people should have legal guarantee to job or training, review author tells BBC",
+            "description": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+            "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 06:00:04 GMT",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+            "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+            "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 05:52:31 GMT",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The ANC’s implosion was decades in the making",
+            "description": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 06:52:40 +0000",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+            "description": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China&#039;s Xi.",
+            "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 06:48:14 +0000",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine is running out of options, and Russia knows it",
+            "description": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 06:39:09 +0000",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T10:39:58+03:30"
+        }
+    ]
+}

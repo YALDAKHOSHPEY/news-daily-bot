@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 06:54:46
+**Last Update:** 2026-11-14 10:39:58
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+### 1. Israeli airstrike on Nasser hospital in Gaza killed surgeon and others
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon">https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494303">https://news.ycombinator.com/item?id=50494303</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon](https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon)
+
+---
+
+### 2. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 349</p>
+<p># Comments: 177</p>
 
 🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
 ---
 
-### 2. Ggml v1.0.0
+### 3. Ggml v1.0.0
 
 **Source:** Hacker News
 
@@ -35,52 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 164</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 
 ---
 
-### 3. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492993">https://news.ycombinator.com/item?id=50492993</a></p>
-<p>Points: 31</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
-
----
-
-### 4. 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision
+### 4. What we know about the longest US nationwide flight ground stop since 9/11
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
+US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
+### 5. Young people should have legal guarantee to job or training, review author tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The American military says there were no injuries or damage after "suspected unauthorised drone activity" this evening.
+Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Trump will discuss the "reduction of nuclear weapons" during the unprecedented t
 
 ---
 
-### 7. Measles-associated deaths reach 10 in US after two more deaths reported
+### 7. The ANC’s implosion was decades in the making
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 5,400 confirmed measles cases have been recorded in the US to date this year.
+Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss)
 
 ---
 
-### 8. Tanker collision leaves riverboat passengers clinging to railings
+### 8. Southeast Asian leaders to meet as Trump visit highlights trade disruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.
+ASEAN summit comes as US president embarks on Asia trip that will see him meet China&#039;s Xi.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss)
 
 ---
 
-### 9. Former FAA official says ‘nobody really knows what is going on’
+### 9. Ukraine is running out of options, and Russia knows it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.
+The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss)
 
 ---
 
