@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 20:44:16
+**Last Update:** 2026-11-14 23:04:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Cloud Is Just Someone Else's Computer – They Let It Burn
+### 1. LinkedIn, Monster take down over 1000 fake job postings after CBC investigation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://soargram.io/content/369523282">https://soargram.io/content/369523282</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498151">https://news.ycombinator.com/item?id=50498151</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499723">https://news.ycombinator.com/item?id=50499723</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://soargram.io/content/369523282](https://soargram.io/content/369523282)
+🔗 **Read more:** [https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
 
 ---
 
-### 2. Italy fines Meta €805M over photo privacy
+### 2. The VHDL standard's float package gets sqrt(2) wrong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/">https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498063">https://news.ycombinator.com/item?id=50498063</a></p>
-<p>Points: 36</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
-
----
-
-### 3. Formalizing US Tax Code (Using Lean)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lexifina.com/blog/formalizing-the-us-tax-code">https://lexifina.com/blog/formalizing-the-us-tax-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497900">https://news.ycombinator.com/item?id=50497900</a></p>
-<p>Points: 36</p>
+<p>Article URL: <a href="https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg">https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499188">https://news.ycombinator.com/item?id=50499188</a></p>
+<p>Points: 14</p>
 <p># Comments: 7</p>
 
-🔗 **Read more:** [https://lexifina.com/blog/formalizing-the-us-tax-code](https://lexifina.com/blog/formalizing-the-us-tax-code)
+🔗 **Read more:** [https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg](https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg)
+
+---
+
+### 3. US IRS free online tax filing open source repo
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/IRS-Public/direct-file">https://github.com/IRS-Public/direct-file</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499083">https://news.ycombinator.com/item?id=50499083</a></p>
+<p>Points: 28</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/IRS-Public/direct-file](https://github.com/IRS-Public/direct-file)
 
 ---
 
@@ -97,42 +97,42 @@ The Ukrainian president says US envoys touted the exchange as part of efforts to
 
 ---
 
-### 7. Italy fines Meta $880m over photo privacy
+### 7. Pope Leo urges end to violence in Peru during visit to remote Andes town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Regulator said Meta&#039;s &#039;lack of cooperation&#039; and the large number of people affected contributed to size of the fine.
+In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss)
 
 ---
 
-### 8. Myanmar airstrike kills 12 at displacement camp in Rakhine state
+### 8. US blames outdated technology for nationwide flight disruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.
+US blames outdated technology for nationwide flight disruption
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss)
 
 ---
 
-### 9. EU calls for immediate humanitarian access to Gaza
+### 9. US blames system upgrade for longest nationwide FAA ground stop since 9/11
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The EU said that “Israel must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.
+Sean Duffy, the country&#039;s transportation secretary, said his agency is &#039;going to hold people accountable&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss)
 
 ---
 

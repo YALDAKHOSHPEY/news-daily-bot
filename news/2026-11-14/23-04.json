@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T23:04:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+            "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499723\">https://news.ycombinator.com/item?id=50499723</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+            "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+            "published": "Sat, 14 Nov 2026 18:56:47 +0000",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The VHDL standard's float package gets sqrt(2) wrong",
+            "description": "<p>Article URL: <a href=\"https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg\">https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499188\">https://news.ycombinator.com/item?id=50499188</a></p>\n<p>Points: 14</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
+            "published": "Sat, 14 Nov 2026 17:58:58 +0000",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US IRS free online tax filing open source repo",
+            "description": "<p>Article URL: <a href=\"https://github.com/IRS-Public/direct-file\">https://github.com/IRS-Public/direct-file</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499083\">https://news.ycombinator.com/item?id=50499083</a></p>\n<p>Points: 28</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/IRS-Public/direct-file",
+            "published": "Sat, 14 Nov 2026 17:48:20 +0000",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+            "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 13:48:37 GMT",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+            "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 19:21:10 GMT",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+            "description": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 19:20:11 +0000",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US blames outdated technology for nationwide flight disruption",
+            "description": "US blames outdated technology for nationwide flight disruption",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 18:32:40 +0000",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+            "description": "Sean Duffy, the country&#039;s transportation secretary, said his agency is &#039;going to hold people accountable&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 18:02:53 +0000",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T23:04:56+03:30"
+        }
+    ]
+}
