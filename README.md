@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 23:04:56
+**Last Update:** 2026-11-15 01:07:14
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. LinkedIn, Monster take down over 1000 fake job postings after CBC investigation
+### 1. SpaceX Catches the Starship to end Flight 15
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://x.com/i/broadcasts/2brajgZlOKRMka">https://x.com/i/broadcasts/2brajgZlOKRMka</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50500963">https://news.ycombinator.com/item?id=50500963</a></p>
+<p>Points: 108</p>
+<p># Comments: 44</p>
+
+🔗 **Read more:** [https://x.com/i/broadcasts/2brajgZlOKRMka](https://x.com/i/broadcasts/2brajgZlOKRMka)
+
+---
+
+### 2. Dartmouth (Guarini) will not admit math PhD cohort this year
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year">https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499945">https://news.ycombinator.com/item?id=50499945</a></p>
+<p>Points: 37</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
+
+---
+
+### 3. LinkedIn, Monster take down over 1000 fake job postings after CBC investigation
 
 **Source:** Hacker News
 
@@ -19,46 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499723">https://news.ycombinator.com/item?id=50499723</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
+<p>Points: 112</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
 
 ---
 
-### 2. The VHDL standard's float package gets sqrt(2) wrong
+### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg">https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499188">https://news.ycombinator.com/item?id=50499188</a></p>
-<p>Points: 14</p>
-<p># Comments: 7</p>
+The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.
 
-🔗 **Read more:** [https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg](https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. US IRS free online tax filing open source repo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/IRS-Public/direct-file">https://github.com/IRS-Public/direct-file</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499083">https://news.ycombinator.com/item?id=50499083</a></p>
-<p>Points: 28</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://github.com/IRS-Public/direct-file](https://github.com/IRS-Public/direct-file)
-
----
-
-### 4. Young people should have legal guarantee of job or training, Milburn tells BBC
+### 5. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The author of a major review on youth unemployment, due next week, acknowledges 
 
 ---
 
-### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 6. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 6. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Pope Leo urges end to violence in Peru during visit to remote Andes town
+### 7. India’s Assam state demolishes homes of 132 Muslim families
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.
+Authorities in India’s Assam have demolished the homes of 132 Muslim families.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss)
 
 ---
 
-### 8. US blames outdated technology for nationwide flight disruption
+### 8. Can being ‘non-Western’ cost you your home in Denmark?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US blames outdated technology for nationwide flight disruption
+Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss)
 
 ---
 
-### 9. US blames system upgrade for longest nationwide FAA ground stop since 9/11
+### 9. Deadly car bomb blast kills two near Syria’s capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sean Duffy, the country&#039;s transportation secretary, said his agency is &#039;going to hold people accountable&#039;.
+At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-15T01:07:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SpaceX Catches the Starship to end Flight 15",
+            "description": "<p>Article URL: <a href=\"https://x.com/i/broadcasts/2brajgZlOKRMka\">https://x.com/i/broadcasts/2brajgZlOKRMka</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50500963\">https://news.ycombinator.com/item?id=50500963</a></p>\n<p>Points: 108</p>\n<p># Comments: 44</p>",
+            "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+            "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+            "description": "<p>Article URL: <a href=\"https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year\">https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499945\">https://news.ycombinator.com/item?id=50499945</a></p>\n<p>Points: 37</p>\n<p># Comments: 3</p>",
+            "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+            "published": "Sat, 14 Nov 2026 19:23:40 +0000",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+            "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499723\">https://news.ycombinator.com/item?id=50499723</a></p>\n<p>Points: 112</p>\n<p># Comments: 43</p>",
+            "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+            "published": "Sat, 14 Nov 2026 18:56:47 +0000",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 20:41:45 GMT",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+            "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 13:48:37 GMT",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+            "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s Assam state demolishes homes of 132 Muslim families",
+            "description": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 20:14:10 +0000",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can being ‘non-Western’ cost you your home in Denmark?",
+            "description": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 19:52:49 +0000",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly car bomb blast kills two near Syria’s capital",
+            "description": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 19:46:36 +0000",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T01:07:14+03:30"
+        }
+    ]
+}
