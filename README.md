@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 02:13:50
+**Last Update:** 2026-11-14 03:31:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
+### 1. US National Weather Service reports nationwide internet, communications issues
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/">https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50491209">https://news.ycombinator.com/item?id=50491209</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/](https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/)
+
+---
+
+### 2. Claude Meetings
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claude.com/resources/articles/claude-meetings">https://claude.com/resources/articles/claude-meetings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50491097">https://news.ycombinator.com/item?id=50491097</a></p>
+<p>Points: 58</p>
+<p># Comments: 48</p>
+
+🔗 **Read more:** [https://claude.com/resources/articles/claude-meetings](https://claude.com/resources/articles/claude-meetings)
+
+---
+
+### 3. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=50490593</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 107</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://orcasairband.com/](https://orcasairband.com/)
-
----
-
-### 2. FAA issues nationwide ground stop due to "extraordinary circumstances"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489678">https://news.ycombinator.com/item?id=50489678</a></p>
-<p>Points: 81</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://www.axios.com/2026/11/13/faa-nationwide-ground-stop](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
-
----
-
-### 3. All US airports are currently ground stopped
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489652">https://news.ycombinator.com/item?id=50489652</a></p>
-<p>Points: 83</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://twitter.com/flightradar24/status/2121347654714077605](https://twitter.com/flightradar24/status/2121347654714077605)
 
 ---
 
@@ -71,7 +71,20 @@ The Met Police said the allegations are separate from those reported by ITV and 
 
 ---
 
-### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
+### 5. 'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The American military says there were no injuries or damage after "suspected una
 
 ---
 
-### 6. Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
+### 7. FAA grounds all fights across the US over ‘telecommunication outage’
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
+The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss)
 
 ---
 
-### 7. LIVE: FAA issues nationwide ground stop after communications outage in US
+### 8. 32 passengers taken to hospital after tanker hits river cruise boat in US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss)
+
+---
+
+### 9. LIVE: FAA issues nationwide ground stop after communications outage in US
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Experts say the event is a "stark reminder" of how heavily the world relies on a
 US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss)
-
----
-
-### 8. FAA grounds US flights nationwide after ‘communication issue’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss)
-
----
-
-### 9. Pope Leo cheered on return to Peru city where he served as bishop
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss)
 
 ---
 

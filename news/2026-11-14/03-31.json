@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T03:31:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US National Weather Service reports nationwide internet, communications issues",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/\">https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491209\">https://news.ycombinator.com/item?id=50491209</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+            "url": "https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/",
+            "published": "Fri, 13 Nov 2026 22:46:53 +0000",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Meetings",
+            "description": "<p>Article URL: <a href=\"https://claude.com/resources/articles/claude-meetings\">https://claude.com/resources/articles/claude-meetings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491097\">https://news.ycombinator.com/item?id=50491097</a></p>\n<p>Points: 58</p>\n<p># Comments: 48</p>",
+            "url": "https://claude.com/resources/articles/claude-meetings",
+            "published": "Fri, 13 Nov 2026 22:39:15 +0000",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+            "description": "<p>Article URL: <a href=\"https://orcasairband.com/\">https://orcasairband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490593\">https://news.ycombinator.com/item?id=50490593</a></p>\n<p>Points: 107</p>\n<p># Comments: 27</p>",
+            "url": "https://orcasairband.com/",
+            "published": "Fri, 13 Nov 2026 22:04:24 +0000",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+            "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 16:53:50 GMT",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+            "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+            "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+            "description": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 23:45:22 +0000",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+            "description": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 22:47:16 +0000",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+            "description": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 22:02:07 +0000",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T03:31:52+03:30"
+        }
+    ]
+}
