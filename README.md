@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 03:31:52
+**Last Update:** 2026-11-14 06:54:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US National Weather Service reports nationwide internet, communications issues
+### 1. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/">https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50491209">https://news.ycombinator.com/item?id=50491209</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/](https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/)
+🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
 ---
 
-### 2. Claude Meetings
+### 2. Ggml v1.0.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/resources/articles/claude-meetings">https://claude.com/resources/articles/claude-meetings</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50491097">https://news.ycombinator.com/item?id=50491097</a></p>
-<p>Points: 58</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://claude.com/resources/articles/claude-meetings](https://claude.com/resources/articles/claude-meetings)
+🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 
 ---
 
-### 3. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
+### 3. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=50490593</a></p>
-<p>Points: 107</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492993">https://news.ycombinator.com/item?id=50492993</a></p>
+<p>Points: 31</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://orcasairband.com/](https://orcasairband.com/)
-
----
-
-### 4. Police investigating David Walliams over reports alleging serious sexual offences
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
 
 ---
 
-### 5. 'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans
+### 4. 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The collision leaves 32 people in hospital with non-critical injuries, but no-on
 
 ---
 
-### 6. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
+### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The American military says there were no injuries or damage after "suspected una
 
 ---
 
-### 7. FAA grounds all fights across the US over ‘telecommunication outage’
+### 6. Trump, Putin and Xi plan historic joint meeting in China next week, White House says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.
+Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. 32 passengers taken to hospital after tanker hits river cruise boat in US
+### 7. Measles-associated deaths reach 10 in US after two more deaths reported
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.
+More than 5,400 confirmed measles cases have been recorded in the US to date this year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss)
 
 ---
 
-### 9. LIVE: FAA issues nationwide ground stop after communications outage in US
+### 8. Tanker collision leaves riverboat passengers clinging to railings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
+Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss)
+
+---
+
+### 9. Former FAA official says ‘nobody really knows what is going on’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss)
 
 ---
 
