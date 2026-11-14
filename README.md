@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 18:07:24
+**Last Update:** 2026-11-14 20:44:16
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Young people should have legal guarantee of job or training, Milburn tells BBC
+### 1. The Cloud Is Just Someone Else's Computer – They Let It Burn
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://soargram.io/content/369523282">https://soargram.io/content/369523282</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498151">https://news.ycombinator.com/item?id=50498151</a></p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://soargram.io/content/369523282](https://soargram.io/content/369523282)
+
+---
+
+### 2. Italy fines Meta €805M over photo privacy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/">https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498063">https://news.ycombinator.com/item?id=50498063</a></p>
+<p>Points: 36</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
+
+---
+
+### 3. Formalizing US Tax Code (Using Lean)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lexifina.com/blog/formalizing-the-us-tax-code">https://lexifina.com/blog/formalizing-the-us-tax-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497900">https://news.ycombinator.com/item?id=50497900</a></p>
+<p>Points: 36</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://lexifina.com/blog/formalizing-the-us-tax-code](https://lexifina.com/blog/formalizing-the-us-tax-code)
+
+---
+
+### 4. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The author of a major review on youth unemployment, due next week, acknowledges 
 
 ---
 
-### 2. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 3. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 6. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The Ukrainian president says US envoys touted the exchange as part of efforts to
 
 ---
 
-### 4. Young musicians connect a community across the Line of Control
+### 7. Italy fines Meta $880m over photo privacy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.
+Regulator said Meta&#039;s &#039;lack of cooperation&#039; and the large number of people affected contributed to size of the fine.
 
-🔗 **Read more:** [https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss](https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss)
 
 ---
 
-### 5. How does Iran view shift in US approach after JD Vance ordered away?
+### 8. Myanmar airstrike kills 12 at displacement camp in Rakhine state
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working
+A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss)
 
 ---
 
-### 6. Spain vs England: UEFA Nations League – predictions, how to watch, teams
+### 9. EU calls for immediate humanitarian access to Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.
+The EU said that “Israel must enable the work of the UN and its agencies&quot; after the group was blocked access into Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
