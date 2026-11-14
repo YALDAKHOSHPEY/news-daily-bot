@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 10:39:58
+**Last Update:** 2026-11-14 14:13:53
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Israeli airstrike on Nasser hospital in Gaza killed surgeon and others
+### 1. Ask HN: What are the most useful, concrete AI skills to independently learn?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon">https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494303">https://news.ycombinator.com/item?id=50494303</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?<p>What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better.<p>Thank you!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494696">https://news.ycombinator.com/item?id=50494696</a></p>
+<p>Points: 25</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon](https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50494696](https://news.ycombinator.com/item?id=50494696)
 
 ---
 
-### 2. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+### 2. Monkey Island: all 13 versions side by side
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://monkeyisland.pages.dev/">https://monkeyisland.pages.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493904">https://news.ycombinator.com/item?id=50493904</a></p>
+<p>Points: 125</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://monkeyisland.pages.dev/](https://monkeyisland.pages.dev/)
+
+---
+
+### 3. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
 
 **Source:** Hacker News
 
@@ -35,104 +52,88 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
-<p>Points: 349</p>
-<p># Comments: 177</p>
+<p>Points: 587</p>
+<p># Comments: 343</p>
 
 🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
 ---
 
-### 3. Ggml v1.0.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
-<p>Points: 164</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
-
----
-
-### 4. What we know about the longest US nationwide flight ground stop since 9/11
+### 4. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Young people should have legal guarantee to job or training, review author tells BBC
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.
+The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump, Putin and Xi plan historic joint meeting in China next week, White House says
+### 5. What we know about the US ground stop and what to do if your flight is affected
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
+US officials say the disruption was caused by old equipment overloading and not a cyber-attack.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The ANC’s implosion was decades in the making
+### 6. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.
+World number two Sabalenka&#039;s season came to a disappointing end after she failed to reach the WTA Finals semifinals.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss)
 
 ---
 
-### 8. Southeast Asian leaders to meet as Trump visit highlights trade disruption
+### 8. Migrant caravan heads to US from Mexico after Democrats’ midterm win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ASEAN summit comes as US president embarks on Asia trip that will see him meet China&#039;s Xi.
+A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss)
 
 ---
 
-### 9. Ukraine is running out of options, and Russia knows it
+### 9. Netanyahu may fall, but his far-right legacy in Israel is going nowhere
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.
+Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss)
 
 ---
 
