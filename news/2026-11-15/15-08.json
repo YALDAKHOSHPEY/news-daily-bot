@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-15T15:08:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+            "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 06:01:46 GMT",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister backs legal right to job support for young people",
+            "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
+            "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 10:56:52 GMT",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+            "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 07:19:52 GMT",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police confront protesters in clashes across France and Germany",
+            "description": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 11:04:10 +0000",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+            "description": "Ukraine&#039;s NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 10:58:36 +0000",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+            "description": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+            "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 10:52:36 +0000",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D33B",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424",
+            "published": "2023-09-08T00:00:00Z",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D35",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474",
+            "published": "2024-01-11T00:00:00Z",
+            "fetched": "2026-11-15T15:08:14+03:30"
+        }
+    ]
+}

@@ -1,65 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 13:10:18
+**Last Update:** 2026-11-15 15:08:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Disk encryption on NetBSD – achieving secrecy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycombinator.com/item?id=50504277</a></p>
-<p>Points: 21</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://netbsd.org/~nia/disk-encrypt/](https://netbsd.org/~nia/disk-encrypt/)
-
----
-
-### 2. Kiri – The Modern Container Runtime
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></p>
-<p>Points: 40</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://runkiri.com/](https://runkiri.com/)
-
----
-
-### 3. Show HN: Gawain – Require type hints on all Python variables
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Yes, i really hate "dict[str, ANY]"</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504072">https://news.ycombinator.com/item?id=50504072</a></p>
-<p>Points: 47</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://github.com/matheuzgomes/gawain](https://github.com/matheuzgomes/gawain)
-
----
-
-### 4. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 1. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
@@ -72,7 +23,20 @@ Warren Arter faced claims of sexually exploiting crime victims - his wife was fo
 
 ---
 
-### 5. Alleged Russell Brand rape victim wants age of consent law changed
+### 2. Minister backs legal right to job support for young people
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The work and pensions secretary said the level of support currently on offer was too vague.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Alleged Russell Brand rape victim wants age of consent law changed
 
 **Source:** BBC
 
@@ -85,94 +49,81 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 6. Watch: SpaceX catches part of its Starship rocket on return to Earth
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. India pulled 500m people out of poverty. Many of them still barely survive
+### 4. Police confront protesters in clashes across France and Germany
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.
+Tens of thousands took to the streets in cities across France and Germany over rising living costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss](https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss)
 
 ---
 
-### 8. Thousands in Portugal protest against surging rental prices
+### 5. Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.
+Ukraine&#039;s NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss)
 
 ---
 
-### 9. De la Fuente denies racism in Spain despite Yamal, Vinicius avowals
+### 6. India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.
+India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Iceberg A81
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Iceberg D33B
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424)
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Iceberg D35
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474)
 
 ---
 
