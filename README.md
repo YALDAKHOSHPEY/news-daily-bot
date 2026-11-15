@@ -1,16 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 15:08:14
+**Last Update:** 2026-11-15 20:47:54
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 1. 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507791">https://news.ycombinator.com/item?id=50507791</a></p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.commondreams.org/news/duffy-ground-stop-explanation](https://www.commondreams.org/news/duffy-ground-stop-explanation)
+
+---
+
+### 2. Emacs Is My Browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://joshblais.com/blog/emacs-as-my-browser/">https://joshblais.com/blog/emacs-as-my-browser/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507553">https://news.ycombinator.com/item?id=50507553</a></p>
+<p>Points: 42</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://joshblais.com/blog/emacs-as-my-browser/](https://joshblais.com/blog/emacs-as-my-browser/)
+
+---
+
+### 3. All AI-generated code should be Open Source
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">https://jakub.jankiewicz.org/blog/ai-code-open-source/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507303">https://news.ycombinator.com/item?id=50507303</a></p>
+<p>Points: 405</p>
+<p># Comments: 248</p>
+
+🔗 **Read more:** [https://jakub.jankiewicz.org/blog/ai-code-open-source/](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+
+---
+
+### 4. Staggered age of consent to be discussed after Brand case, minister says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Man and woman die and four arrested after police pursuit crash in Leeds
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Four people have been arrested on suspicion of causing death by dangerous driving, police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
@@ -23,107 +97,81 @@ Warren Arter faced claims of sexually exploiting crime victims - his wife was fo
 
 ---
 
-### 2. Minister backs legal right to job support for young people
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The work and pensions secretary said the level of support currently on offer was too vague.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Alleged Russell Brand rape victim wants age of consent law changed
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Police confront protesters in clashes across France and Germany
+### 7. Somalia: We would not have recovered without the international community
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands took to the streets in cities across France and Germany over rising living costs.
+Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss)
 
 ---
 
-### 5. Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?
+### 8. LIVE: Spain vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine&#039;s NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.
+Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 6. India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression
+### 9. Thousands rally in Czech Republic against state media funding changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.
+Critics say proposed funding changes will give the government more control of state media.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss)
 
 ---
 
-### 7. Iceberg A81
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331)
 
 ---
 
-### 8. Iceberg D33B
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6424)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332)
 
 ---
 
-### 9. Iceberg D35
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6474)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333)
 
 ---
 
