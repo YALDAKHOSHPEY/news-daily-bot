@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 20:47:54
+**Last Update:** 2026-11-15 21:41:13
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507791">https://news.ycombinator.com/item?id=50507791</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.commondreams.org/news/duffy-ground-stop-explanation](https://www.commondreams.org/news/duffy-ground-stop-explanation)
-
----
-
-### 2. Emacs Is My Browser
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://joshblais.com/blog/emacs-as-my-browser/">https://joshblais.com/blog/emacs-as-my-browser/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507553">https://news.ycombinator.com/item?id=50507553</a></p>
-<p>Points: 42</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://joshblais.com/blog/emacs-as-my-browser/](https://joshblais.com/blog/emacs-as-my-browser/)
-
----
-
-### 3. All AI-generated code should be Open Source
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">https://jakub.jankiewicz.org/blog/ai-code-open-source/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507303">https://news.ycombinator.com/item?id=50507303</a></p>
-<p>Points: 405</p>
-<p># Comments: 248</p>
-
-🔗 **Read more:** [https://jakub.jankiewicz.org/blog/ai-code-open-source/](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-
----
-
-### 4. Staggered age of consent to be discussed after Brand case, minister says
+### 1. Staggered age of consent to be discussed after Brand case, minister says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ A woman who alleges she was raped by the jailed comedian when she was 16 is camp
 
 ---
 
-### 5. Man and woman die and four arrested after police pursuit crash in Leeds
+### 2. Man and woman die and four arrested after police pursuit crash in Leeds
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Four people have been arrested on suspicion of causing death by dangerous drivin
 
 ---
 
-### 6. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 3. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Warren Arter faced claims of sexually exploiting crime victims - his wife was fo
 
 ---
 
-### 7. Somalia: We would not have recovered without the international community
+### 4. Nearly 1,500 migrants reach Spain’s Canary Islands in one day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.
+Nearly 1,500 migrants reach Spain’s Canary Islands in one day
 
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss)
 
 ---
 
-### 8. LIVE: Spain vs England – UEFA Nations League
+### 5. Morocco becomes first Arab nation in FIFA’s top five men’s rankings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.
+Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss)
 
 ---
 
-### 9. Thousands rally in Czech Republic against state media funding changes
+### 6. Yemeni government forces redeploy from Bab al-Mandeb to defend Aden
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics say proposed funding changes will give the government more control of state media.
+Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

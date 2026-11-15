@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-15T21:41:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Staggered age of consent to be discussed after Brand case, minister says",
+            "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 17:15:46 GMT",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+            "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 12:38:28 GMT",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+            "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 06:01:46 GMT",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+            "description": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 17:39:23 +0000",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+            "description": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
+            "url": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 17:33:03 +0000",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+            "description": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 17:33:00 +0000",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T21:41:13+03:30"
+        }
+    ]
+}
