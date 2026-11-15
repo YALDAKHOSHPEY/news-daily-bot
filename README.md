@@ -1,90 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 07:15:20
+**Last Update:** 2026-11-15 13:10:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Single Router in Southern Arkansas That Ground Air Travel to a Halt
+### 1. Disk encryption on NetBSD – achieving secrecy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c">https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50503588">https://news.ycombinator.com/item?id=50503588</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycombinator.com/item?id=50504277</a></p>
+<p>Points: 21</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
+🔗 **Read more:** [https://netbsd.org/~nia/disk-encrypt/](https://netbsd.org/~nia/disk-encrypt/)
 
 ---
 
-### 2. We're Asking an Appeals Court to Require a Warrant for ALPR Searches
+### 2. Kiri – The Modern Container Runtime
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50503255">https://news.ycombinator.com/item?id=50503255</a></p>
-<p>Points: 52</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></p>
+<p>Points: 40</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
+🔗 **Read more:** [https://runkiri.com/](https://runkiri.com/)
 
 ---
 
-### 3. Show HN: A custom font based on the Jamaican flag alphabet
+### 3. Show HN: Gawain – Require type hints on all Python variables
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bobbiec.github.io/jamaican-font.html">https://bobbiec.github.io/jamaican-font.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50502839">https://news.ycombinator.com/item?id=50502839</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Yes, i really hate "dict[str, ANY]"</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504072">https://news.ycombinator.com/item?id=50504072</a></p>
+<p>Points: 47</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://bobbiec.github.io/jamaican-font.html](https://bobbiec.github.io/jamaican-font.html)
+🔗 **Read more:** [https://github.com/matheuzgomes/gawain](https://github.com/matheuzgomes/gawain)
 
 ---
 
-### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 4. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US has not confirmed the Ukrainian president's comments - a US official told the BBC "many ideas continue to be discussed".
+Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Alleged Russell Brand rape victim wants age of consent law changed
+### 5. Alleged Russell Brand rape victim wants age of consent law changed
 
 **Source:** BBC
 
@@ -97,42 +85,55 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 7. Italian artist reimagines Madonna paintings to expose Gaza’s pain
+### 6. Watch: SpaceX catches part of its Starship rocket on return to Earth
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.
+SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Saudi-led coalition intercepts two missiles, two drones in Riyadh
+### 7. India pulled 500m people out of poverty. Many of them still barely survive
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fighting escalates in Yemen&#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.
+World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss](https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss)
 
 ---
 
-### 9. Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold
+### 8. Thousands in Portugal protest against surging rental prices
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.
+Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss)
+
+---
+
+### 9. De la Fuente denies racism in Spain despite Yamal, Vinicius avowals
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss)
 
 ---
 
