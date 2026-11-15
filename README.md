@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 02:59:31
+**Last Update:** 2026-11-15 05:30:14
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. L3Harris Statement on the Nov. 13 Ground Stop
+### 1. L3Harris statement on the Nov. 13 ground stop
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop">https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501844">https://news.ycombinator.com/item?id=50501844</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 67</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501631">https://news.ycombinator.com/item?id=50501631</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Points: 187</p>
+<p># Comments: 108</p>
 
 🔗 **Read more:** [https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/17957">https://retrocomputing.stackexchange.com/questions/17957</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501594">https://news.ycombinator.com/item?id=50501594</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Points: 92</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/17957](https://retrocomputing.stackexchange.com/questions/17957)
 
@@ -97,42 +97,42 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 7. Netanyahu says only a unity government can guarantee Israel’s security
+### 7. SpaceX’s Starship nails a smooth return with historic catch
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.
+SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss)
 
 ---
 
-### 8. Explosion near Syria’s capital kills father and child
+### 8. Israeli air strike kills senior Hamas commander in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.
+Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss)
 
 ---
 
-### 9. Palestinian stories set for major presence at 2027 Oscars
+### 9. Hundreds of men march in Switzerland to protest violence against women
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.
+Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss)
 
 ---
 
