@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 05:30:14
+**Last Update:** 2026-11-15 07:15:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. L3Harris statement on the Nov. 13 ground stop
+### 1. The Single Router in Southern Arkansas That Ground Air Travel to a Halt
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop">https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501844">https://news.ycombinator.com/item?id=50501844</a></p>
-<p>Points: 67</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c">https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50503588">https://news.ycombinator.com/item?id=50503588</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
+🔗 **Read more:** [https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
 
 ---
 
-### 2. Nvidia deliberately kept GPU prices high through circular financing deals
+### 2. We're Asking an Appeals Court to Require a Warrant for ALPR Searches
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501631">https://news.ycombinator.com/item?id=50501631</a></p>
-<p>Points: 187</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50503255">https://news.ycombinator.com/item?id=50503255</a></p>
+<p>Points: 52</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
+🔗 **Read more:** [https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
 
 ---
 
-### 3. How did Woz write the Apple 1 BASIC before building the computer?
+### 3. Show HN: A custom font based on the Jamaican flag alphabet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/17957">https://retrocomputing.stackexchange.com/questions/17957</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501594">https://news.ycombinator.com/item?id=50501594</a></p>
-<p>Points: 92</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://bobbiec.github.io/jamaican-font.html">https://bobbiec.github.io/jamaican-font.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50502839">https://news.ycombinator.com/item?id=50502839</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/17957](https://retrocomputing.stackexchange.com/questions/17957)
+🔗 **Read more:** [https://bobbiec.github.io/jamaican-font.html](https://bobbiec.github.io/jamaican-font.html)
 
 ---
 
@@ -97,42 +97,42 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 7. SpaceX’s Starship nails a smooth return with historic catch
+### 7. Italian artist reimagines Madonna paintings to expose Gaza’s pain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
+Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss)
 
 ---
 
-### 8. Israeli air strike kills senior Hamas commander in Gaza
+### 8. Saudi-led coalition intercepts two missiles, two drones in Riyadh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
+Fighting escalates in Yemen&#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss)
 
 ---
 
-### 9. Hundreds of men march in Switzerland to protest violence against women
+### 9. Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
+Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss)
 
 ---
 

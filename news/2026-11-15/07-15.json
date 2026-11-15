@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-15T07:15:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c\">https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503588\">https://news.ycombinator.com/item?id=50503588</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+            "published": "Sun, 15 Nov 2026 03:05:54 +0000",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+            "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches\">https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503255\">https://news.ycombinator.com/item?id=50503255</a></p>\n<p>Points: 52</p>\n<p># Comments: 7</p>",
+            "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+            "published": "Sun, 15 Nov 2026 02:00:54 +0000",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+            "description": "<p>Article URL: <a href=\"https://bobbiec.github.io/jamaican-font.html\">https://bobbiec.github.io/jamaican-font.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502839\">https://news.ycombinator.com/item?id=50502839</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://bobbiec.github.io/jamaican-font.html",
+            "published": "Sun, 15 Nov 2026 00:56:45 +0000",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:37:25 GMT",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+            "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+            "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:37:14 GMT",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+            "description": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 03:30:29 +0000",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+            "description": "Fighting escalates in Yemen&#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 02:59:06 +0000",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+            "description": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 01:54:55 +0000",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T07:15:20+03:30"
+        }
+    ]
+}
