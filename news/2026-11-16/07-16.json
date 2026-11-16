@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T07:16:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen4-Max",
+            "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen4-max\">https://qwen.ai/blog?id=qwen4-max</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513215\">https://news.ycombinator.com/item?id=50513215</a></p>\n<p>Points: 128</p>\n<p># Comments: 24</p>",
+            "url": "https://qwen.ai/blog?id=qwen4-max",
+            "published": "Mon, 16 Nov 2026 02:14:44 +0000",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Universal XSS in uBlock Origin from website-driven element picker",
+            "description": "<p>Article URL: <a href=\"https://iter.ca/post/ubo-uxss/\">https://iter.ca/post/ubo-uxss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513160\">https://news.ycombinator.com/item?id=50513160</a></p>\n<p>Points: 97</p>\n<p># Comments: 15</p>",
+            "url": "https://iter.ca/post/ubo-uxss/",
+            "published": "Mon, 16 Nov 2026 02:04:48 +0000",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coles hit by a cybersecurity incident",
+            "description": "<p>Article URL: <a href=\"https://www.colesgroup.com.au/updates/\">https://www.colesgroup.com.au/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512824\">https://news.ycombinator.com/item?id=50512824</a></p>\n<p>Points: 59</p>\n<p># Comments: 39</p>",
+            "url": "https://www.colesgroup.com.au/updates/",
+            "published": "Mon, 16 Nov 2026 01:14:35 +0000",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+            "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 22:30:03 GMT",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+            "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+            "description": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 02:53:15 GMT",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "ASEAN, China fall short of agreeing on South China Sea code",
+            "description": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country&#039;s leader attending bloc&#039;s summits.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 02:46:35 +0000",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis advance in Yemen as government forces move to defend Aden",
+            "description": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 02:22:29 +0000",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+            "description": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 01:52:12 +0000",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-16T07:16:35+03:30"
+        }
+    ]
+}
