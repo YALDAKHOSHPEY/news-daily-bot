@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T15:44:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+            "description": "<p>Article URL: <a href=\"https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/\">https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50516473\">https://news.ycombinator.com/item?id=50516473</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+            "published": "Mon, 16 Nov 2026 11:39:31 +0000",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coffeehouses and the Rise of Science [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.monirbounadi.com/Bounadi_JMP.pdf\">https://www.monirbounadi.com/Bounadi_JMP.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50516245\">https://news.ycombinator.com/item?id=50516245</a></p>\n<p>Points: 43</p>\n<p># Comments: 18</p>",
+            "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+            "published": "Mon, 16 Nov 2026 11:03:16 +0000",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Doing Show HN generates a ton of automated email pitches",
+            "description": "<p>Article URL: <a href=\"https://petervandijck.com/post/pbrgs-ev0bc\">https://petervandijck.com/post/pbrgs-ev0bc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50516232\">https://news.ycombinator.com/item?id=50516232</a></p>\n<p>Points: 34</p>\n<p># Comments: 27</p>",
+            "url": "https://petervandijck.com/post/pbrgs-ev0bc",
+            "published": "Mon, 16 Nov 2026 11:00:02 +0000",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+            "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 10:51:45 GMT",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+            "description": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 11:27:53 GMT",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
+            "description": "As a landmark report about youth unemployment is about to be published, the BBC speaks to school avoiders and those trying to fix the issue.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 06:01:33 GMT",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+            "description": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 11:40:25 +0000",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
+            "description": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 11:23:43 +0000",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+            "description": "Huang&#039;s peers, including Elon Musk, have praised his business acumen and potential risks to the US&#039;s AI goals.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 11:05:47 +0000",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-16T15:44:22+03:30"
+        }
+    ]
+}

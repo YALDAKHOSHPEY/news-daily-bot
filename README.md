@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 13:28:11
+**Last Update:** 2026-11-16 15:44:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to make almost anything
+### 1. The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pub.cba.mit.edu/863.26/site/">https://pub.cba.mit.edu/863.26/site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514470">https://news.ycombinator.com/item?id=50514470</a></p>
-<p>Points: 252</p>
-<p># Comments: 43</p>
-
-🔗 **Read more:** [https://pub.cba.mit.edu/863.26/site/](https://pub.cba.mit.edu/863.26/site/)
-
----
-
-### 2. Did the Apollo Guidance Computer use 60% of the ICs in 1963?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963">https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514257">https://news.ycombinator.com/item?id=50514257</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/">https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516473">https://news.ycombinator.com/item?id=50516473</a></p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
+🔗 **Read more:** [https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 
 ---
 
-### 3. Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
+### 2. Coffeehouses and the Rise of Science [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514180">https://news.ycombinator.com/item?id=50514180</a></p>
-<p>Points: 85</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://www.monirbounadi.com/Bounadi_JMP.pdf">https://www.monirbounadi.com/Bounadi_JMP.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516245">https://news.ycombinator.com/item?id=50516245</a></p>
+<p>Points: 43</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
+🔗 **Read more:** [https://www.monirbounadi.com/Bounadi_JMP.pdf](https://www.monirbounadi.com/Bounadi_JMP.pdf)
+
+---
+
+### 3. Doing Show HN generates a ton of automated email pitches
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://petervandijck.com/post/pbrgs-ev0bc">https://petervandijck.com/post/pbrgs-ev0bc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516232">https://news.ycombinator.com/item?id=50516232</a></p>
+<p>Points: 34</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://petervandijck.com/post/pbrgs-ev0bc](https://petervandijck.com/post/pbrgs-ev0bc)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The report being launched this week will suggest gradually reducing employment costs over five years.
+Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss)
 
@@ -91,48 +91,48 @@ The prime minister will say the "Brexit we were given has not worked" in a speec
 **Category:** world
 
 **Description:**
-As a landmark report is published, the BBC speaks to school avoiders and those trying to fix the issue.
+As a landmark report about youth unemployment is about to be published, the BBC speaks to school avoiders and those trying to fix the issue.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Third US aircraft carrier arrives in Middle East amid tensions with Iran
+### 7. Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.
+A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss)
 
 ---
 
-### 8. Ronaldinho comes out retirement for 45 mins in Italy’s third division
+### 8. As homes seized, Jericho’s Palestinian residents fear settler takeover
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.
+Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss](https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss)
 
 ---
 
-### 9. Kachin: where Myanmar’s rare earth minerals are in tight grip
+### 9. Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.
+Huang&#039;s peers, including Elon Musk, have praised his business acumen and potential risks to the US&#039;s AI goals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss)
 
 ---
 
