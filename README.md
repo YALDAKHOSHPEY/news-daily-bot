@@ -1,142 +1,156 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 15:44:22
+**Last Update:** 2026-11-17 00:05:42
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)
+### 1. Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/">https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516473">https://news.ycombinator.com/item?id=50516473</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Hi HN! We’re Arsh and Max, founders of Axonnic (<a href="https://axonnic.com">https://axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href="https://youtube.com/shorts/xBrocTc9cfA" rel="nofollow">https://youtube.com/shorts/xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href="https://axonnic.com/benchmarks">https://axonnic.com/benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href="https://axonnic.com">https://axonnic.com</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50522776">https://news.ycombinator.com/item?id=50522776</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50522776](https://news.ycombinator.com/item?id=50522776)
 
 ---
 
-### 2. Coffeehouses and the Rise of Science [pdf]
+### 2. How to Intercept HTTP/3 Traffic: QUIC and Qpack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.monirbounadi.com/Bounadi_JMP.pdf">https://www.monirbounadi.com/Bounadi_JMP.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516245">https://news.ycombinator.com/item?id=50516245</a></p>
-<p>Points: 43</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521870">https://news.ycombinator.com/item?id=50521870</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.monirbounadi.com/Bounadi_JMP.pdf](https://www.monirbounadi.com/Bounadi_JMP.pdf)
+🔗 **Read more:** [https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
 
 ---
 
-### 3. Doing Show HN generates a ton of automated email pitches
+### 3. Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://petervandijck.com/post/pbrgs-ev0bc">https://petervandijck.com/post/pbrgs-ev0bc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50516232">https://news.ycombinator.com/item?id=50516232</a></p>
-<p>Points: 34</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521045">https://news.ycombinator.com/item?id=50521045</a></p>
+<p>Points: 398</p>
+<p># Comments: 282</p>
 
-🔗 **Read more:** [https://petervandijck.com/post/pbrgs-ev0bc](https://petervandijck.com/post/pbrgs-ev0bc)
+🔗 **Read more:** [https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
 
 ---
 
-### 4. Create more jobs for under-25s by cutting National Insurance, key report urges
+### 4. Russell Brand prison message 'appalling' and being investigated, No 10 says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.
+Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was "not guilty of the offences I have been jailed for".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. UK lost more than it gained from Brexit, Burnham to say ahead of EU summit
+### 5. Robert Pattinson to replace Daniel Craig as James Bond
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister will say the "Brexit we were given has not worked" in a speech on Monday.
+The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'I'd throw up in the car park': How school anxiety is harming children's futures
+### 6. When will we see Robert Pattinson as Bond in cinemas?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-As a landmark report about youth unemployment is about to be published, the BBC speaks to school avoiders and those trying to fix the issue.
+Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?
+### 7. UEFA backs Diallo to challenge Infantino for FIFA presidency
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.
+UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss)
 
 ---
 
-### 8. As homes seized, Jericho’s Palestinian residents fear settler takeover
+### 8. What will Europe do next in Ukraine?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.
+There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss)
 
 ---
 
-### 9. Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
+### 9. Nationwide ground stop could cost US airlines hundreds of millions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Huang&#039;s peers, including Elon Musk, have praised his business acumen and potential risks to the US&#039;s AI goals.
+Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 10. Tropical Cyclone Xavier
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463)
+
+---
+
+### 11. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -145,11 +159,11 @@ Huang&#039;s peers, including Elon Musk, have praised his business acumen and po
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465)
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 12. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 
@@ -158,20 +172,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332)
-
----
-
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464)
 
 ---
 
