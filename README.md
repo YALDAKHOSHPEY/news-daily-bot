@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 17:11:29
+**Last Update:** 2026-11-17 17:27:46
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://nitter.cf/kevinnbass/status/2099621874279817638">https://nitter.cf/kevinnbass/status/2099621874279817638</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530450">https://news.ycombinator.com/item?id=50530450</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 46</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://nitter.cf/kevinnbass/status/2099621874279817638](https://nitter.cf/kevinnbass/status/2099621874279817638)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530163">https://news.ycombinator.com/item?id=50530163</a></p>
-<p>Points: 176</p>
-<p># Comments: 89</p>
+<p>Points: 232</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html">https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530114">https://news.ycombinator.com/item?id=50530114</a></p>
-<p>Points: 41</p>
-<p># Comments: 20</p>
+<p>Points: 61</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html](https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html)
 
@@ -84,94 +84,55 @@ A major review proposes widespread changes to help get young people into work ac
 
 ---
 
-### 6. Where are the most jobs for 18-24 year-olds?
+### 6. Why Milburn's Neets reforms will only save £200m a year by 2036
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-How many jobs are there where you live and in which sectors are you most likely to find an opening?
+Milburn's plan to help young people promises to save money from the UK's welfare bill. BBC Verify has taken a look at the numbers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6205wlz8vn0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6205wlz8vn0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Infantino’s FIFA challenger Diallo claims to have support beyond Europe
+### 7. Rep. Thomas Massie Forces a New Fight for Epstein Survivors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French football chief Philippe Diallo says he has received &#039;spontaneous signs of strong support&#039; against Infantino.
+Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss)
 
 ---
 
-### 8. Why do governments switch off the internet?
+### 8. ‘Unprecedented’ Ukraine attack on Crimean bridge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.
+Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss)
 
 ---
 
-### 9. Usman Nurmagomedov released from UAE prison after hotel brawl arrest
+### 9. At the origin of France’s education protests, students refuse to give up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.
+Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Xavier
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463)
-
----
-
-### 11. Wildfire Range 47, Forrest, Mississippi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465)
-
----
-
-### 12. Wildfire 201W, Perry, Mississippi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss)
 
 ---
 
