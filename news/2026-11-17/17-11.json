@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-17T17:11:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Regulatory Capture by Anthropic Through METR",
+            "description": "<p>Article URL: <a href=\"https://nitter.cf/kevinnbass/status/2099621874279817638\">https://nitter.cf/kevinnbass/status/2099621874279817638</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530450\">https://news.ycombinator.com/item?id=50530450</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+            "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+            "published": "Tue, 17 Nov 2026 12:21:57 +0000",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530163\">https://news.ycombinator.com/item?id=50530163</a></p>\n<p>Points: 176</p>\n<p># Comments: 89</p>",
+            "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+            "published": "Tue, 17 Nov 2026 11:45:51 +0000",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My Empire of Dirt",
+            "description": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html\">https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530114\">https://news.ycombinator.com/item?id=50530114</a></p>\n<p>Points: 41</p>\n<p># Comments: 20</p>",
+            "url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+            "published": "Tue, 17 Nov 2026 11:39:20 +0000",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What's in the Milburn review?",
+            "description": "The government-backed review proposes changes to tax, welfare and education to help get young people into work.",
+            "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 11:30:06 GMT",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At a glance: Key proposals from Milburn's Neets report",
+            "description": "A major review proposes widespread changes to help get young people into work across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 11:31:40 GMT",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Where are the most jobs for 18-24 year-olds?",
+            "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+            "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 12:35:53 GMT",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+            "description": "French football chief Philippe Diallo says he has received &#039;spontaneous signs of strong support&#039; against Infantino.",
+            "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 13:09:31 +0000",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why do governments switch off the internet?",
+            "description": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 13:03:39 +0000",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+            "description": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
+            "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 12:55:07 +0000",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 201W, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464",
+            "published": "2026-11-13T13:31:00Z",
+            "fetched": "2026-11-17T17:11:29+03:30"
+        }
+    ]
+}
