@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 07:32:16
+**Last Update:** 2026-11-17 08:21:58
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. If an App Asks for Full Disk Access or System and App Protection Override
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.apple.com/en-us/149699">https://support.apple.com/en-us/149699</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526560">https://news.ycombinator.com/item?id=50526560</a></p>
-<p>Points: 33</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://support.apple.com/en-us/149699](https://support.apple.com/en-us/149699)
-
----
-
-### 2. Mem Is Shutting Down
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://get.mem.ai/blog/mem-is-shutting-down">https://get.mem.ai/blog/mem-is-shutting-down</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526537">https://news.ycombinator.com/item?id=50526537</a></p>
-<p>Points: 23</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://get.mem.ai/blog/mem-is-shutting-down](https://get.mem.ai/blog/mem-is-shutting-down)
-
----
-
-### 3. Running coding agents without handing them my credentials
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.antonio.cx/running-agents-with-lend">https://blog.antonio.cx/running-agents-with-lend</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526152">https://news.ycombinator.com/item?id=50526152</a></p>
-<p>Points: 52</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://blog.antonio.cx/running-agents-with-lend](https://blog.antonio.cx/running-agents-with-lend)
-
----
-
-### 4. 'Complete system reset' needed to get 440,000 young people into work, says major review
+### 1. 'Complete system reset' needed to get 440,000 young people into work, says major review
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Alan Milburn's review will call for sweeping reforms to the education, work and 
 
 ---
 
-### 5. The young people caught up in Britain's Neets crisis
+### 2. The young people caught up in Britain's Neets crisis
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ BBC News speaks to four of the million young people aged 16 to 24 who are not in
 
 ---
 
-### 6. Robert Pattinson to replace Daniel Craig as James Bond
+### 3. Robert Pattinson to replace Daniel Craig as James Bond
 
 **Source:** BBC
 
@@ -97,7 +49,20 @@ The 40-year old is best known for his role in films including Twilight, The Batm
 
 ---
 
-### 7. Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field
+### 4. Gunfire erupts in occupied West Bank settler attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss)
+
+---
+
+### 5. Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a U
 
 ---
 
-### 8. US moves to block China’s remote access to AI chips amid Nvidia scandal
+### 6. US moves to block China’s remote access to AI chips amid Nvidia scandal
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ The Trump administration introduces export licence requirement for Malaysia, Tha
 
 ---
 
-### 9. Yemeni army reports 661 attacks on Houthis as group advances towards Aden
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Xavier
+### 7. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Range 47, Forrest, Mississippi
+### 8. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire 201W, Perry, Mississippi
+### 9. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 
