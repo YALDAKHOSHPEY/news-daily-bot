@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 02:07:57
+**Last Update:** 2026-11-17 07:32:16
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to Break into Security, Ptacek Edition
+### 1. If an App Asks for Full Disk Access or System and App Protection Override
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/">https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50524225">https://news.ycombinator.com/item?id=50524225</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
-
----
-
-### 2. United Airlines Widespread System Outage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/11/16/us/united-airlines-outage">https://www.cnn.com/2026/11/16/us/united-airlines-outage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50524165">https://news.ycombinator.com/item?id=50524165</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/11/16/us/united-airlines-outage](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
-
----
-
-### 3. Spamhaus new email sender requirements in November
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.spamhaus.org/sender-guidelines/">https://www.spamhaus.org/sender-guidelines/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50523784">https://news.ycombinator.com/item?id=50523784</a></p>
-<p>Points: 30</p>
+<p>Article URL: <a href="https://support.apple.com/en-us/149699">https://support.apple.com/en-us/149699</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526560">https://news.ycombinator.com/item?id=50526560</a></p>
+<p>Points: 33</p>
 <p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.spamhaus.org/sender-guidelines/](https://www.spamhaus.org/sender-guidelines/)
+🔗 **Read more:** [https://support.apple.com/en-us/149699](https://support.apple.com/en-us/149699)
+
+---
+
+### 2. Mem Is Shutting Down
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://get.mem.ai/blog/mem-is-shutting-down">https://get.mem.ai/blog/mem-is-shutting-down</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526537">https://news.ycombinator.com/item?id=50526537</a></p>
+<p>Points: 23</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://get.mem.ai/blog/mem-is-shutting-down](https://get.mem.ai/blog/mem-is-shutting-down)
+
+---
+
+### 3. Running coding agents without handing them my credentials
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.antonio.cx/running-agents-with-lend">https://blog.antonio.cx/running-agents-with-lend</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526152">https://news.ycombinator.com/item?id=50526152</a></p>
+<p>Points: 52</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://blog.antonio.cx/running-agents-with-lend](https://blog.antonio.cx/running-agents-with-lend)
 
 ---
 
@@ -71,68 +71,68 @@ Alan Milburn's review will call for sweeping reforms to the education, work and 
 
 ---
 
-### 5. Russell Brand prison message 'appalling' and being investigated, No 10 says
+### 5. The young people caught up in Britain's Neets crisis
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was "not guilty of the offences I have been jailed for".
+BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Cass report author says she does not support draft conversion practices bill
+### 6. Robert Pattinson to replace Daniel Craig as James Bond
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The gender care review author says the bill’s wording risks "serious unintended consequences" for parents and therapists.
+The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Germany thrash Netherlands to book quarterfinal spot
+### 7. Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jurgen Klopp&#039;s side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.
+Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss)
 
 ---
 
-### 8. California files lawsuit against OpenAI alleging lack of proper safeguards
+### 8. US moves to block China’s remote access to AI chips amid Nvidia scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Attorney General Rob Bonta says Hugging Face attack was &#039;entirely predictable&#039; result of emphasis on rapid growth.
+The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss)
 
 ---
 
-### 9. Mamdani to disband NYPD unit deployed at Columbia protests
+### 9. Yemeni army reports 661 attacks on Houthis as group advances towards Aden
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.
+Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss)
 
 ---
 
