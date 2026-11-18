@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 00:28:43
+**Last Update:** 2026-11-19 01:41:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Search Browser – Minimalist WebKit browser with Chrome extension support
+### 1. Gemini 4 Neon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50552424">https://news.ycombinator.com/item?id=50552424</a></p>
+<p>Points: 143</p>
+<p># Comments: 102</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+
+---
+
+### 2. Google Gemini's "Tasks" Personal Assistant Is Now Free
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551601">https://news.ycombinator.com/item?id=50551601</a></p>
+<p>Points: 33</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+
+---
+
+### 3. Search Browser – Minimalist WebKit browser with Chrome extension support
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://searchbrowser.app/">https://searchbrowser.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551398">https://news.ycombinator.com/item?id=50551398</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 30</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://searchbrowser.app/](https://searchbrowser.app/)
-
----
-
-### 2. Sexp Matrix
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lisper.cc/ideas/entangle.html">https://lisper.cc/ideas/entangle.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551359">https://news.ycombinator.com/item?id=50551359</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://lisper.cc/ideas/entangle.html](https://lisper.cc/ideas/entangle.html)
-
----
-
-### 3. DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.radixark.com/blog/daisyrose-27b">https://www.radixark.com/blog/daisyrose-27b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551046">https://news.ycombinator.com/item?id=50551046</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.radixark.com/blog/daisyrose-27b](https://www.radixark.com/blog/daisyrose-27b)
 
 ---
 
@@ -97,42 +97,42 @@ This comes after Brand's wife shared a message from him in which he claimed his 
 
 ---
 
-### 7. Putin’s nuclear briefcase makes surprise appearance at China summit
+### 7. Iraq sentences six French nationals to life in prison for joining ISIL
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.
+Trials began in September for 47 French citizens who were transferred from Syria last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss)
 
 ---
 
-### 8. Muslims projected to overtake Christians as world’s largest religious group
+### 8. US lawmakers push to raise minimum wage to $25, end tipped pay system
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.
+Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss)
 
 ---
 
-### 9. US loses measles-free status after 26 years in historic setback
+### 9. Floodwaters submerge cars and parking lots in Florida town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.
+Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss)
 
 ---
 
