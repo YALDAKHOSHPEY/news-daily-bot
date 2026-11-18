@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 17:53:14
+**Last Update:** 2026-11-19 00:28:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Can Peer Review Survive AI-Generated Text? [pdf]
+### 1. Search Browser – Minimalist WebKit browser with Chrome extension support
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50546312">https://news.ycombinator.com/item?id=50546312</a></p>
+<p>Article URL: <a href="https://searchbrowser.app/">https://searchbrowser.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551398">https://news.ycombinator.com/item?id=50551398</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://searchbrowser.app/](https://searchbrowser.app/)
+
+---
+
+### 2. Sexp Matrix
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lisper.cc/ideas/entangle.html">https://lisper.cc/ideas/entangle.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551359">https://news.ycombinator.com/item?id=50551359</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://lisper.cc/ideas/entangle.html](https://lisper.cc/ideas/entangle.html)
+
+---
+
+### 3. DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.radixark.com/blog/daisyrose-27b">https://www.radixark.com/blog/daisyrose-27b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551046">https://news.ycombinator.com/item?id=50551046</a></p>
 <p>Points: 18</p>
-<p># Comments: 9</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
-
----
-
-### 2. Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50545958">https://news.ycombinator.com/item?id=50545958</a></p>
-<p>Points: 112</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://techstackups.com/articles/quad9-leaves-france-dns-blocking/](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+🔗 **Read more:** [https://www.radixark.com/blog/daisyrose-27b](https://www.radixark.com/blog/daisyrose-27b)
 
 ---
 
-### 3. Evidence (YC S21) Is Hiring
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50545238">https://news.ycombinator.com/item?id=50545238</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
-
----
-
-### 4. Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again
+### 4. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.
+Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Trump shakes hands with Putin and Xi ahead of landmark talks in China
+### 5. 'The drones don't fly here' - BBC reports from Ukraine's new front line
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The three leaders will meet together for the first time on Thursday during a closely-watched summit.
+Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin
+### 6. UK government asks for Russell Brand's YouTube account to be removed
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.
+This comes after Brand's wife shared a message from him in which he claimed his innocence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mada Masr’s Lina Attalah due to appear before court in Egypt
+### 7. Putin’s nuclear briefcase makes surprise appearance at China summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.
+Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss)
 
 ---
 
-### 8. What is the ‘endgame’ in Syria, as Israeli rivals look for new government?
+### 8. Muslims projected to overtake Christians as world’s largest religious group
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.
+New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss](https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss)
 
 ---
 
-### 9. How the US House of Representatives chooses its leaders: A visual guide
+### 9. US loses measles-free status after 26 years in historic setback
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.
+The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T00:28:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+            "description": "<p>Article URL: <a href=\"https://searchbrowser.app/\">https://searchbrowser.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551398\">https://news.ycombinator.com/item?id=50551398</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://searchbrowser.app/",
+            "published": "Wed, 18 Nov 2026 20:04:31 +0000",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sexp Matrix",
+            "description": "<p>Article URL: <a href=\"https://lisper.cc/ideas/entangle.html\">https://lisper.cc/ideas/entangle.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551359\">https://news.ycombinator.com/item?id=50551359</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://lisper.cc/ideas/entangle.html",
+            "published": "Wed, 18 Nov 2026 20:01:50 +0000",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+            "description": "<p>Article URL: <a href=\"https://www.radixark.com/blog/daisyrose-27b\">https://www.radixark.com/blog/daisyrose-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551046\">https://news.ycombinator.com/item?id=50551046</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+            "url": "https://www.radixark.com/blog/daisyrose-27b",
+            "published": "Wed, 18 Nov 2026 19:39:16 +0000",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+            "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government asks for Russell Brand's YouTube account to be removed",
+            "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 20:48:58 GMT",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+            "description": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 20:24:50 +0000",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Muslims projected to overtake Christians as world’s largest religious group",
+            "description": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 20:21:34 +0000",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US loses measles-free status after 26 years in historic setback",
+            "description": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 20:18:25 +0000",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T00:28:43+03:30"
+        }
+    ]
+}
