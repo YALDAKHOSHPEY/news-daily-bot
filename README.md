@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 02:00:42
+**Last Update:** 2026-11-18 07:26:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Quad9's withdrawal from France: A canary in the coal mine
+### 1. GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">https://blog.cloudflare.com/quad9-withdrawal-from-france/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50538994">https://news.ycombinator.com/item?id=50538994</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541538">https://news.ycombinator.com/item?id=50541538</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/quad9-withdrawal-from-france/](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
 
 ---
 
-### 2. Java4Shell: RCE in OpenJDK when processing Base64
+### 2. Cerebras Disaggregated Inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://calif.io/java4shell/">https://calif.io/java4shell/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50538240">https://news.ycombinator.com/item?id=50538240</a></p>
-<p>Points: 180</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540472">https://news.ycombinator.com/item?id=50540472</a></p>
+<p>Points: 40</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://calif.io/java4shell/](https://calif.io/java4shell/)
+🔗 **Read more:** [https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
 
 ---
 
-### 3. Human.md
+### 3. ID.me terms required for IRS sign-in
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.human-md.ai/">https://www.human-md.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50537962">https://news.ycombinator.com/item?id=50537962</a></p>
-<p>Points: 43</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540437">https://news.ycombinator.com/item?id=50540437</a></p>
+<p>Points: 178</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://www.human-md.ai/](https://www.human-md.ai/)
+🔗 **Read more:** [https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
 
 ---
 
-### 4. Government backs welfare shake-up to prevent 'lost generation'
+### 4. As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.
+China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Can I really do this?': Neets speak to BBC about struggling to get a job
+### 5. American soldier arrested by UK police on suspicion of spying taken into US military custody
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?
+The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him
+### 6. Burnham to set out options next month for long-term EU relationship
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Huang says he has had an "outpouring" of calls from investors and others calling for him to return.
+The prime minister says he will set out options for the future "alongside" his 10-year economic plan.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russian military plane crash in Siberia kills 19
+### 7. Mary Peltola flips Alaska Senate seat in another Democratic win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia&#039;s Defence Ministry says preliminary findings for the crash point to equipment failure.
+The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss)
 
 ---
 
-### 8. US Fed’s Lisa Cook refuses to attend White House hearing
+### 8. Nvidia shoots down calls for Jensen Huang’s return amid strong earnings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has been trying to fire Cook since August 2025.
+Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss)
 
 ---
 
-### 9. UK hands NATO-assigned US soldier accused of Russia spying to US military
+### 9. Rare images of Indigenous group in Amazon highlight threats, advocates say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK authorities have passed the investigation to the US &#039;in line with existing international protocols&#039;.
+Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss)
 
 ---
 
