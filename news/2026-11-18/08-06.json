@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-18T08:06:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Climate change is making some African deserts greener",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener\">https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541613\">https://news.ycombinator.com/item?id=50541613</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
+            "published": "Wed, 18 Nov 2026 03:47:04 +0000",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "H-1B Executive Actions in 2026 [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf\">https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541550\">https://news.ycombinator.com/item?id=50541550</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+            "published": "Wed, 18 Nov 2026 03:37:35 +0000",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Engineering Vitals in the Age of AI",
+            "description": "<p>Article URL: <a href=\"https://octopus.com/blog/engineering-vitals-in-the-age-of-ai\">https://octopus.com/blog/engineering-vitals-in-the-age-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541542\">https://news.ycombinator.com/item?id=50541542</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
+            "published": "Wed, 18 Nov 2026 03:36:12 +0000",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+            "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+            "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+            "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 22:46:30 GMT",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to set out options next month for long-term EU relationship",
+            "description": "The prime minister says he will set out options for the future \"alongside\" his 10-year economic plan.",
+            "url": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 23:40:58 GMT",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia issues sanctions targeting Israeli settlers",
+            "description": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 04:12:03 +0000",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio rules out cyberattacks or links between tech outages",
+            "description": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 04:01:16 +0000",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+            "description": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 03:28:41 +0000",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T08:06:46+03:30"
+        }
+    ]
+}

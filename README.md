@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 07:26:23
+**Last Update:** 2026-11-18 08:06:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer
+### 1. Climate change is making some African deserts greener
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541538">https://news.ycombinator.com/item?id=50541538</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener">https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541613">https://news.ycombinator.com/item?id=50541613</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener](https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener)
+
+---
+
+### 2. H-1B Executive Actions in 2026 [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf">https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541550">https://news.ycombinator.com/item?id=50541550</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
+🔗 **Read more:** [https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
 
 ---
 
-### 2. Cerebras Disaggregated Inference
+### 3. Engineering Vitals in the Age of AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540472">https://news.ycombinator.com/item?id=50540472</a></p>
-<p>Points: 40</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://octopus.com/blog/engineering-vitals-in-the-age-of-ai">https://octopus.com/blog/engineering-vitals-in-the-age-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50541542">https://news.ycombinator.com/item?id=50541542</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
-
----
-
-### 3. ID.me terms required for IRS sign-in
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50540437">https://news.ycombinator.com/item?id=50540437</a></p>
-<p>Points: 178</p>
-<p># Comments: 62</p>
-
-🔗 **Read more:** [https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+🔗 **Read more:** [https://octopus.com/blog/engineering-vitals-in-the-age-of-ai](https://octopus.com/blog/engineering-vitals-in-the-age-of-ai)
 
 ---
 
@@ -97,7 +97,33 @@ The prime minister says he will set out options for the future "alongside" his 1
 
 ---
 
-### 7. Mary Peltola flips Alaska Senate seat in another Democratic win
+### 7. Australia issues sanctions targeting Israeli settlers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss)
+
+---
+
+### 8. Rubio rules out cyberattacks or links between tech outages
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss)
+
+---
+
+### 9. Mary Peltola flips Alaska Senate seat in another Democratic win
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The prime minister says he will set out options for the future "alongside" his 1
 The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss)
-
----
-
-### 8. Nvidia shoots down calls for Jensen Huang’s return amid strong earnings
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss)
-
----
-
-### 9. Rare images of Indigenous group in Amazon highlight threats, advocates say
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss)
 
 ---
 
