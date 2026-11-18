@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-18T17:53:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf\">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546312\">https://news.ycombinator.com/item?id=50546312</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
+            "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+            "published": "Wed, 18 Nov 2026 13:51:03 +0000",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+            "description": "<p>Article URL: <a href=\"https://techstackups.com/articles/quad9-leaves-france-dns-blocking/\">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50545958\">https://news.ycombinator.com/item?id=50545958</a></p>\n<p>Points: 112</p>\n<p># Comments: 13</p>",
+            "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+            "published": "Wed, 18 Nov 2026 13:18:02 +0000",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Evidence (YC S21) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead\">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50545238\">https://news.ycombinator.com/item?id=50545238</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+            "published": "Wed, 18 Nov 2026 12:00:16 +0000",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+            "description": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 13:17:06 GMT",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump shakes hands with Putin and Xi ahead of landmark talks in China",
+            "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+            "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 12:39:24 GMT",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+            "description": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 10:53:21 GMT",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
+            "description": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 14:11:07 +0000",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+            "description": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
+            "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 14:08:08 +0000",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the US House of Representatives chooses its leaders: A visual guide",
+            "description": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 13:24:22 +0000",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T17:53:14+03:30"
+        }
+    ]
+}

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 16:01:56
+**Last Update:** 2026-11-18 17:53:14
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I had AI read my entire field, Theoretical Astrophysics
+### 1. Can Peer Review Survive AI-Generated Text? [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://science.caseyhandmer.com/physics/">https://science.caseyhandmer.com/physics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50545118">https://news.ycombinator.com/item?id=50545118</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf">https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50546312">https://news.ycombinator.com/item?id=50546312</a></p>
+<p>Points: 18</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
+
+---
+
+### 2. Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">https://techstackups.com/articles/quad9-leaves-france-dns-blocking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50545958">https://news.ycombinator.com/item?id=50545958</a></p>
+<p>Points: 112</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://techstackups.com/articles/quad9-leaves-france-dns-blocking/](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+
+---
+
+### 3. Evidence (YC S21) Is Hiring
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50545238">https://news.ycombinator.com/item?id=50545238</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://science.caseyhandmer.com/physics/](https://science.caseyhandmer.com/physics/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead)
 
 ---
 
-### 2. Codeberg.org Not Reachable
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://social.anoxinon.de/@codebergstatus/117636437840688845">https://social.anoxinon.de/@codebergstatus/117636437840688845</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50544261">https://news.ycombinator.com/item?id=50544261</a></p>
-<p>Points: 213</p>
-<p># Comments: 164</p>
-
-🔗 **Read more:** [https://social.anoxinon.de/@codebergstatus/117636437840688845](https://social.anoxinon.de/@codebergstatus/117636437840688845)
-
----
-
-### 3. Energy-Based Reasoners: 385x more efficient inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://energy-based-reasoners.github.io/">https://energy-based-reasoners.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50543989">https://news.ycombinator.com/item?id=50543989</a></p>
-<p>Points: 52</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://energy-based-reasoners.github.io/](https://energy-based-reasoners.github.io/)
-
----
-
-### 4. Energy bills forecast to go up by £443 a year from January as UK inflation rises again
+### 4. Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rise to 3.6% in October is the fourth monthly increase in a row - and most economists expect it to keep going up. The Bank of England's target is 2%.
+Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Why historic US, China and Russia meeting matters
+### 5. Trump shakes hands with Putin and Xi ahead of landmark talks in China
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.
+The three leaders will meet together for the first time on Thursday during a closely-watched summit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Minister criticises media for 'amplifying' Russell Brand's prison message
+### 6. Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife.
+Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ICJ to rule on Rohingya genocide case: What to expect
+### 7. Mada Masr’s Lina Attalah due to appear before court in Egypt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.
+Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss)
 
 ---
 
-### 8. Palestinians find refuge in ancient caves after Israel demolishes homes
+### 8. What is the ‘endgame’ in Syria, as Israeli rivals look for new government?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians displaced in the occupied West Bank&#039;s Masafer Yatta area have been forced to live in underground caves.
+As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss](https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss](https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss)
 
 ---
 
-### 9. ‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans
+### 9. How the US House of Representatives chooses its leaders: A visual guide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.
+After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss)
 
 ---
 
