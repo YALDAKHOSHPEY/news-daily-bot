@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 07:12:59
+**Last Update:** 2026-11-19 14:23:51
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI will not make you rich (2025)
+### 1. DeepMind Employees Are Unionising
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colossus.com/article/ai-will-not-make-you-rich/">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50555093">https://news.ycombinator.com/item?id=50555093</a></p>
-<p>Points: 64</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.gdmunion.co.uk">https://www.gdmunion.co.uk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557885">https://news.ycombinator.com/item?id=50557885</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://colossus.com/article/ai-will-not-make-you-rich/](https://colossus.com/article/ai-will-not-make-you-rich/)
+🔗 **Read more:** [https://www.gdmunion.co.uk](https://www.gdmunion.co.uk)
 
 ---
 
-### 2. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
+### 2. What's New in PHP 8.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Ri4dH/failtrace">https://github.com/Ri4dH/failtrace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554941">https://news.ycombinator.com/item?id=50554941</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.php.net/releases/8.6/en.php">https://www.php.net/releases/8.6/en.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557870">https://news.ycombinator.com/item?id=50557870</a></p>
+<p>Points: 46</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://github.com/Ri4dH/failtrace](https://github.com/Ri4dH/failtrace)
+🔗 **Read more:** [https://www.php.net/releases/8.6/en.php](https://www.php.net/releases/8.6/en.php)
 
 ---
 
-### 3. Unreal Tournament 2004 in the Browser
+### 3. SSD prices will start going down the second half of next year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ut2004.dev/">https://ut2004.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554935">https://news.ycombinator.com/item?id=50554935</a></p>
-<p>Points: 42</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html">https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557716">https://news.ycombinator.com/item?id=50557716</a></p>
+<p>Points: 72</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://ut2004.dev/](https://ut2004.dev/)
+🔗 **Read more:** [https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html)
 
 ---
 
-### 4. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
+### 4. Watch: Trump greets 'my friend' Putin as pair shake hands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
+The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,7 +84,7 @@ A former McDonald's worker calls on the firm to “change the way they treat you
 
 ---
 
-### 6. 'Feudal' leasehold system set to be scrapped in England and Wales
+### 6. Leasehold system set to be scrapped in England and Wales
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The proposed Commonhold and Leasehold Reform Bill will also include capping grou
 
 ---
 
-### 7. APEC Live: Trump, Xi and Putin to meet in historic three-way China summit
+### 7. ‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.
+With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss)
 
 ---
 
-### 8. China’s Xi greets Putin and Trump at APEC before historic summit
+### 8. Trump calls for nuclear arms reduction at APEC summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.
+Trump calls for nuclear arms reduction at APEC summit
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss)
 
 ---
 
-### 9. Google’s driverless car hits a roadblock
+### 9. Malaysian weightlifting champion Roslin loses arm after motorbike crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.
+Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss)
 
 ---
 
