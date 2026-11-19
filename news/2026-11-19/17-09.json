@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T17:09:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+            "description": "<p>Article URL: <a href=\"https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/\">https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50559719\">https://news.ycombinator.com/item?id=50559719</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+            "published": "Thu, 19 Nov 2026 13:18:11 +0000",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unblockable communication with gravity – Science Advances",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.aee0802\">https://www.science.org/doi/10.1126/sciadv.aee0802</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50559179\">https://news.ycombinator.com/item?id=50559179</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+            "published": "Thu, 19 Nov 2026 12:22:00 +0000",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Superintelligence Debate Has Serious Flaws",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-superintelligence-debate\">https://spectrum.ieee.org/ai-superintelligence-debate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50559140\">https://news.ycombinator.com/item?id=50559140</a></p>\n<p>Points: 53</p>\n<p># Comments: 33</p>",
+            "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+            "published": "Thu, 19 Nov 2026 12:17:10 +0000",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+            "description": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+            "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 08:31:09 GMT",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+            "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 00:00:59 GMT",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Leasehold system set to be scrapped in England and Wales",
+            "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+            "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 09:26:59 GMT",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan’s footballers show India sportsmanship after SAFF final defeat",
+            "description": "Pakistan’s football team formed a guard of honour for India after losing the SAFF Championship final 2-1 in Bangladesh.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 12:59:28 +0000",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Anthropic afford to put AI safety first?",
+            "description": "As Anthropic goes public, can the AI company balance its safety promises with the pressure to keep investors happy?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/can-anthropic-afford-to-put-ai-safety-first?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 12:43:31 +0000",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+            "description": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina&#039;s planned return.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 12:21:33 +0000",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T17:09:35+03:30"
+        }
+    ]
+}
