@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T22:45:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chile: UFO Sightings by 18th Century Jesuits",
+            "description": "<p>Article URL: <a href=\"https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html\">https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564004\">https://news.ycombinator.com/item?id=50564004</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+            "url": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
+            "published": "Thu, 19 Nov 2026 18:26:28 +0000",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude solves two open problems in the physics of black holes",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 133</p>\n<p># Comments: 29</p>",
+            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+            "published": "Thu, 19 Nov 2026 17:30:44 +0000",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pancreatic cancer halted by virus injection in three patients",
+            "description": "<p>Article URL: <a href=\"https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/\">https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563066\">https://news.ycombinator.com/item?id=50563066</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+            "published": "Thu, 19 Nov 2026 17:25:33 +0000",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+            "description": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 17:42:25 GMT",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'You can be believed and understood': Joanne Young speaks after verdict",
+            "description": "Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.",
+            "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 16:44:22 GMT",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+            "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 16:55:57 GMT",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France awaits verdict six years after police beat Black music producer",
+            "description": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 18:51:50 +0000",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+            "description": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 18:46:10 +0000",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+            "description": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 18:16:09 +0000",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T22:45:13+03:30"
+        }
+    ]
+}

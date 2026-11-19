@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 17:09:35
+**Last Update:** 2026-11-19 22:45:13
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Making 8-page foldable zines from a single A4 sheet in the browser
+### 1. Chile: UFO Sightings by 18th Century Jesuits
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/">https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50559719">https://news.ycombinator.com/item?id=50559719</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html">https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50564004">https://news.ycombinator.com/item?id=50564004</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html](https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html)
+
+---
+
+### 2. Claude solves two open problems in the physics of black holes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/research/claude-black-hole-physics">https://www.anthropic.com/research/claude-black-hole-physics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50563148">https://news.ycombinator.com/item?id=50563148</a></p>
+<p>Points: 133</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://www.anthropic.com/research/claude-black-hole-physics](https://www.anthropic.com/research/claude-black-hole-physics)
+
+---
+
+### 3. Pancreatic cancer halted by virus injection in three patients
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/">https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50563066">https://news.ycombinator.com/item?id=50563066</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
+🔗 **Read more:** [https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
 
 ---
 
-### 2. Unblockable communication with gravity – Science Advances
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.aee0802">https://www.science.org/doi/10.1126/sciadv.aee0802</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50559179">https://news.ycombinator.com/item?id=50559179</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.aee0802](https://www.science.org/doi/10.1126/sciadv.aee0802)
-
----
-
-### 3. The AI Superintelligence Debate Has Serious Flaws
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/ai-superintelligence-debate">https://spectrum.ieee.org/ai-superintelligence-debate</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50559140">https://news.ycombinator.com/item?id=50559140</a></p>
-<p>Points: 53</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/ai-superintelligence-debate](https://spectrum.ieee.org/ai-superintelligence-debate)
-
----
-
-### 4. Watch: Trump greets 'my friend' Putin as pair shake hands
+### 4. Men guilty of abusing woman drugged and advertised for sex by husband
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.
+Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'
+### 5. 'You can be believed and understood': Joanne Young speaks after verdict
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.
+Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Leasehold system set to be scrapped in England and Wales
+### 6. Myanmar committed genocide against Rohingya minority, top UN court rules
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.
+The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pakistan’s footballers show India sportsmanship after SAFF final defeat
+### 7. France awaits verdict six years after police beat Black music producer
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan’s football team formed a guard of honour for India after losing the SAFF Championship final 2-1 in Bangladesh.
+Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss)
 
 ---
 
-### 8. Can Anthropic afford to put AI safety first?
+### 8. Palestinians in Gaza face new displacement after Israeli army operation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Anthropic goes public, can the AI company balance its safety promises with the pressure to keep investors happy?
+Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/can-anthropic-afford-to-put-ai-safety-first?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/can-anthropic-afford-to-put-ai-safety-first?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss)
 
 ---
 
-### 9. Home of Bangladesh’s former leader Muhammad Yunus set on fire
+### 9. Iraq reaches compromise with Kataib Hezbollah over armed group stronghold
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina&#039;s planned return.
+The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss)
 
 ---
 
