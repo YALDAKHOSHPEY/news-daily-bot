@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T01:49:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Synology Security Advisory",
+            "description": "<p>Article URL: <a href=\"https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\">https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50567209\">https://news.ycombinator.com/item?id=50567209</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+            "published": "Thu, 19 Nov 2026 22:13:40 +0000",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rebuilding my local voice assistant pipeline",
+            "description": "<p>Article URL: <a href=\"https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\">https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50566261\">https://news.ycombinator.com/item?id=50566261</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+            "published": "Thu, 19 Nov 2026 20:57:14 +0000",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lwfewYL7X0o\">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564366\">https://news.ycombinator.com/item?id=50564366</a></p>\n<p>Points: 45</p>\n<p># Comments: 75</p>",
+            "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+            "published": "Thu, 19 Nov 2026 18:47:16 +0000",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+            "description": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
+            "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 22:17:29 GMT",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+            "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+            "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 21:38:42 GMT",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+            "description": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 20:02:02 GMT",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+            "description": "US House committee releases chip export data amid scrutiny of former Nvidia CEO&#039;s alleged links to a Chinese spy.",
+            "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 21:58:27 +0000",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haiti police say at least 34 suspected gang members killed in raid",
+            "description": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 21:39:39 +0000",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+            "description": "The appeals court&#039;s ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 21:11:45 +0000",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T01:49:47+03:30"
+        }
+    ]
+}
