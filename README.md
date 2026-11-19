@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 01:41:17
+**Last Update:** 2026-11-19 05:47:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gemini 4 Neon
+### 1. AI Will Not Make You Rich (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50552424">https://news.ycombinator.com/item?id=50552424</a></p>
-<p>Points: 143</p>
-<p># Comments: 102</p>
+<p>Article URL: <a href="https://colossus.com/article/ai-will-not-make-you-rich/">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50555093">https://news.ycombinator.com/item?id=50555093</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+🔗 **Read more:** [https://colossus.com/article/ai-will-not-make-you-rich/](https://colossus.com/article/ai-will-not-make-you-rich/)
 
 ---
 
-### 2. Google Gemini's "Tasks" Personal Assistant Is Now Free
+### 2. Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551601">https://news.ycombinator.com/item?id=50551601</a></p>
-<p>Points: 33</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://adeindex.com">https://adeindex.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554973">https://news.ycombinator.com/item?id=50554973</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+🔗 **Read more:** [https://adeindex.com](https://adeindex.com)
 
 ---
 
-### 3. Search Browser – Minimalist WebKit browser with Chrome extension support
+### 3. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://searchbrowser.app/">https://searchbrowser.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551398">https://news.ycombinator.com/item?id=50551398</a></p>
-<p>Points: 30</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://github.com/Ri4dH/failtrace">https://github.com/Ri4dH/failtrace</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554941">https://news.ycombinator.com/item?id=50554941</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://searchbrowser.app/](https://searchbrowser.app/)
+🔗 **Read more:** [https://github.com/Ri4dH/failtrace](https://github.com/Ri4dH/failtrace)
 
 ---
 
@@ -71,68 +71,68 @@ Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below g
 
 ---
 
-### 5. 'The drones don't fly here' - BBC reports from Ukraine's new front line
+### 5. McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.
+A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK government asks for Russell Brand's YouTube account to be removed
+### 6. 'Feudal' leasehold system set to be scrapped in England and Wales
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-This comes after Brand's wife shared a message from him in which he claimed his innocence.
+The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iraq sentences six French nationals to life in prison for joining ISIL
+### 7. Hegseth unveils new US-Venezuela military deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trials began in September for 47 French citizens who were transferred from Syria last year.
+Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss)
 
 ---
 
-### 8. US lawmakers push to raise minimum wage to $25, end tipped pay system
+### 8. Why a trio of experts alleges Jeffrey Epstein did not die by suicide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.
+A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss)
 
 ---
 
-### 9. Floodwaters submerge cars and parking lots in Florida town
+### 9. Settler rams into Palestinians at multiple locations in central Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.
+At least eight Palestinians were injured after a settler driver was caught on camera running them over.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss)
 
 ---
 
