@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 05:47:22
+**Last Update:** 2026-11-19 07:12:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Will Not Make You Rich (2025)
+### 1. AI will not make you rich (2025)
 
 **Source:** Hacker News
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://colossus.com/article/ai-will-not-make-you-rich/">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50555093">https://news.ycombinator.com/item?id=50555093</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 64</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://colossus.com/article/ai-will-not-make-you-rich/](https://colossus.com/article/ai-will-not-make-you-rich/)
 
 ---
 
-### 2. Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://adeindex.com">https://adeindex.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554973">https://news.ycombinator.com/item?id=50554973</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://adeindex.com](https://adeindex.com)
-
----
-
-### 3. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
+### 2. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Ri4dH/failtrace">https://github.com/Ri4dH/failtrace</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554941">https://news.ycombinator.com/item?id=50554941</a></p>
-<p>Points: 4</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/Ri4dH/failtrace](https://github.com/Ri4dH/failtrace)
+
+---
+
+### 3. Unreal Tournament 2004 in the Browser
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ut2004.dev/">https://ut2004.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554935">https://news.ycombinator.com/item?id=50554935</a></p>
+<p>Points: 42</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://ut2004.dev/](https://ut2004.dev/)
 
 ---
 
@@ -97,42 +97,42 @@ The proposed Commonhold and Leasehold Reform Bill will also include capping grou
 
 ---
 
-### 7. Hegseth unveils new US-Venezuela military deal
+### 7. APEC Live: Trump, Xi and Putin to meet in historic three-way China summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.
+The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss)
 
 ---
 
-### 8. Why a trio of experts alleges Jeffrey Epstein did not die by suicide
+### 8. China’s Xi greets Putin and Trump at APEC before historic summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.
+Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss)
 
 ---
 
-### 9. Settler rams into Palestinians at multiple locations in central Israel
+### 9. Google’s driverless car hits a roadblock
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least eight Palestinians were injured after a settler driver was caught on camera running them over.
+Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss)
 
 ---
 
