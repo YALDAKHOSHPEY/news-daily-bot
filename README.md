@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 07:06:16
+**Last Update:** 2026-11-20 12:53:38
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+### 1. "I can tell you wrote this yourself"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openssl/openssl/pull/33652">https://github.com/openssl/openssl/pull/33652</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50569226">https://news.ycombinator.com/item?id=50569226</a></p>
-<p>Points: 42</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50571189">https://news.ycombinator.com/item?id=50571189</a></p>
+<p>Points: 97</p>
+<p># Comments: 98</p>
 
-🔗 **Read more:** [https://github.com/openssl/openssl/pull/33652](https://github.com/openssl/openssl/pull/33652)
+🔗 **Read more:** [https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 
 ---
 
-### 2. Vint Cerf on why TCP/IP was never patented
+### 2. Jujutsu Primer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seremot.com/p/vint-cerf-on-why-tcpip-was-never">https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568861">https://news.ycombinator.com/item?id=50568861</a></p>
-<p>Points: 29</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://ethanlowman.com/posts/jj-primer/">https://ethanlowman.com/posts/jj-primer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50570628">https://news.ycombinator.com/item?id=50570628</a></p>
+<p>Points: 99</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://seremot.com/p/vint-cerf-on-why-tcpip-was-never](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
+🔗 **Read more:** [https://ethanlowman.com/posts/jj-primer/](https://ethanlowman.com/posts/jj-primer/)
 
 ---
 
-### 3. Postgres 19 is out, and it's available on Neon and Databricks Lakebase
+### 3. FFmpeg 9.1 'Gauss'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.databricks.com/blog/postgresql-19-available-lakebase">https://www.databricks.com/blog/postgresql-19-available-lakebase</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568643">https://news.ycombinator.com/item?id=50568643</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://ffmpeg.org/download.html#release_9.1">https://ffmpeg.org/download.html#release_9.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50569998">https://news.ycombinator.com/item?id=50569998</a></p>
+<p>Points: 115</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.databricks.com/blog/postgresql-19-available-lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
+🔗 **Read more:** [https://ffmpeg.org/download.html#release_9.1](https://ffmpeg.org/download.html#release_9.1)
 
 ---
 
-### 4. Woman drugged and advertised for sex by husband speaks out as abusers found guilty
+### 4. What the Brussels summit could mean for the Brexit deal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Joanne Young said the actions of her husband over 13 years had "cost me my life as I knew it".
+BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Supermarkets, warehouses, restaurants and stadiums have been scrambling to make 
 
 ---
 
-### 6. Anthropic becomes one of world's most valuable public companies in stock market debut
+### 6. Massive hope for pancreatic cancer pill after trial saw tumours vanish
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lula visits ailing Chief Raoni as Brazil recognises Indigenous land
+### 7. El Salvador’s Bukele seeks third term after constitution change
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.
+Critics accuse populist president of engineering a de facto one-party state in El Salvador.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss)
 
 ---
 
-### 8. Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears
+### 8. US robbery suspects charged over alleged $22M train heist spree
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.
+US robbery suspects charged over alleged $22M train heist spree
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss)
 
 ---
 
-### 9. Beloved hippo Fiona dies days after swallowing visitor’s hat
+### 9. Islam set to be the largest religion by 2035: Where will most Muslims live?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.
+Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss)
 
 ---
 

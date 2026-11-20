@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T12:53:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"I can tell you wrote this yourself\"",
+            "description": "<p>Article URL: <a href=\"https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50571189\">https://news.ycombinator.com/item?id=50571189</a></p>\n<p>Points: 97</p>\n<p># Comments: 98</p>",
+            "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+            "published": "Fri, 20 Nov 2026 07:13:21 +0000",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jujutsu Primer",
+            "description": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://news.ycombinator.com/item?id=50570628</a></p>\n<p>Points: 99</p>\n<p># Comments: 62</p>",
+            "url": "https://ethanlowman.com/posts/jj-primer/",
+            "published": "Fri, 20 Nov 2026 05:46:01 +0000",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FFmpeg 9.1 'Gauss'",
+            "description": "<p>Article URL: <a href=\"https://ffmpeg.org/download.html#release_9.1\">https://ffmpeg.org/download.html#release_9.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569998\">https://news.ycombinator.com/item?id=50569998</a></p>\n<p>Points: 115</p>\n<p># Comments: 22</p>",
+            "url": "https://ffmpeg.org/download.html#release_9.1",
+            "published": "Fri, 20 Nov 2026 04:02:39 +0000",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What the Brussels summit could mean for the Brexit deal",
+            "description": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.",
+            "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 08:07:06 GMT",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+            "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+            "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:08:22 GMT",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Salvador’s Bukele seeks third term after constitution change",
+            "description": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 08:21:34 +0000",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US robbery suspects charged over alleged $22M train heist spree",
+            "description": "US robbery suspects charged over alleged $22M train heist spree",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 07:56:30 +0000",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+            "description": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 07:56:03 +0000",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T12:53:38+03:30"
+        }
+    ]
+}
