@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T00:52:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia accounting under SEC investigation, sources say",
+            "description": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\">https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581438\">https://news.ycombinator.com/item?id=50581438</a></p>\n<p>Points: 77</p>\n<p># Comments: 20</p>",
+            "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+            "published": "Fri, 20 Nov 2026 20:22:41 +0000",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: OpenComputer – an open source alternative to Devin",
+            "description": "<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).<p>Two other choices:<p>- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.\n- Session files are backed up to a repo after every turn, so any session can resume on another VM.<p>We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.<p>Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3].<p>[1]: <a href=\"https://docs.opencomputer.dev/getting-started/architecture\" rel=\"nofollow\">https://docs.opencomputer.dev/getting-started/architecture</a>\n[2]: <a href=\"https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/\" rel=\"nofollow\">https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/</a>\n[3]: <a href=\"https://x.com/IgorZIJ/status/2121309785882591711\" rel=\"nofollow\">https://x.com/IgorZIJ/status/2121309785882591711</a>\n[4]: <a href=\"https://app.opencomputer.dev\" rel=\"nofollow\">https://app.opencomputer.dev</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581403\">https://news.ycombinator.com/item?id=50581403</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/diggerhq/opencomputer",
+            "published": "Fri, 20 Nov 2026 20:19:56 +0000",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Inkling 2 Mini",
+            "description": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 233</p>\n<p># Comments: 25</p>",
+            "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+            "published": "Fri, 20 Nov 2026 20:12:19 +0000",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+            "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+            "description": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 21:10:53 +0000",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+            "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 21:05:07 +0000",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+            "description": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 20:59:04 +0000",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T00:52:26+03:30"
+        }
+    ]
+}

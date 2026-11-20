@@ -1,64 +1,82 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 21:37:47
+**Last Update:** 2026-11-21 00:52:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Running two PSP emulators on one Switch 2 and sharing one via GameShare
+### 1. Nvidia accounting under SEC investigation, sources say
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md">https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50578233">https://news.ycombinator.com/item?id=50578233</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html">https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581438">https://news.ycombinator.com/item?id=50581438</a></p>
+<p>Points: 77</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
+🔗 **Read more:** [https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
 
 ---
 
-### 2. PostgreSQL 19: A hands-on tour with runnable browser examples
+### 2. Show HN: OpenComputer – an open source alternative to Devin
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://certuvia.com/blog/postgres-19">https://certuvia.com/blog/postgres-19</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50578117">https://news.ycombinator.com/item?id=50578117</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://certuvia.com/blog/postgres-19](https://certuvia.com/blog/postgres-19)
-
----
-
-### 3. Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/">https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50577901">https://news.ycombinator.com/item?id=50577901</a></p>
-<p>Points: 23</p>
+<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).<p>Two other choices:<p>- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.
+- Session files are backed up to a repo after every turn, so any session can resume on another VM.<p>We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.<p>Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3].<p>[1]: <a href="https://docs.opencomputer.dev/getting-started/architecture" rel="nofollow">https://docs.opencomputer.dev/getting-started/architecture</a>
+[2]: <a href="https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/" rel="nofollow">https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/</a>
+[3]: <a href="https://x.com/IgorZIJ/status/2121309785882591711" rel="nofollow">https://x.com/IgorZIJ/status/2121309785882591711</a>
+[4]: <a href="https://app.opencomputer.dev" rel="nofollow">https://app.opencomputer.dev</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581403">https://news.ycombinator.com/item?id=50581403</a></p>
+<p>Points: 16</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
+🔗 **Read more:** [https://github.com/diggerhq/opencomputer](https://github.com/diggerhq/opencomputer)
 
 ---
 
-### 4. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
+### 3. Inkling 2 Mini
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thinkingmachines.ai/news/inkling-2-mini/">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581260">https://news.ycombinator.com/item?id=50581260</a></p>
+<p>Points: 233</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://thinkingmachines.ai/news/inkling-2-mini/](https://thinkingmachines.ai/news/inkling-2-mini/)
+
+---
+
+### 4. UK to explore even closer ties with EU after agreeing deal, says Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
 
 **Source:** BBC
 
@@ -71,7 +89,7 @@ The trade deal is unlikely lower food prices for shoppers, but should boost the 
 
 ---
 
-### 5. Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk
+### 6. Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk
 
 **Source:** BBC
 
@@ -84,55 +102,42 @@ Nobody was hurt and no damage has been reported, but Warsaw described the incide
 
 ---
 
-### 6. What we know about the latest Russian missile strikes on Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-What we know about the latest Russian missile strikes on Ukraine.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Mamdani unveils plan to close New York’s Rikers Island by 2032
+### 7. Trump threatens tax on US tech firms building AI data centres abroad
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.
+US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss)
 
 ---
 
-### 8. US tech sell-off continues as Anthropic tumbles after mega IPO
+### 8. Trump defends Putin relationship, warns AI data centres must stay in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anthropic&#039;s listing had been viewed as a potential boost for an industry struggling to regain its footing.
+The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss)
 
 ---
 
-### 9. Protests held across Europe over wages, services, high living costs
+### 9. Two Salvadoran soldiers killed in Haiti while handling explosives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.
+Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss)
 
 ---
 
