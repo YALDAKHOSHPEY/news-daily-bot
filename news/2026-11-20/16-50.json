@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T16:50:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Making of Oxygene",
+            "description": "<p>Article URL: <a href=\"https://jeanmicheljarre.com/aaa/the-making-of-oxygene\">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572822\">https://news.ycombinator.com/item?id=50572822</a></p>\n<p>Points: 59</p>\n<p># Comments: 22</p>",
+            "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+            "published": "Fri, 20 Nov 2026 10:41:10 +0000",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+            "description": "<p>Article URL: <a href=\"https://architectlabs.com/blog/frostbite\">https://architectlabs.com/blog/frostbite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572503\">https://news.ycombinator.com/item?id=50572503</a></p>\n<p>Points: 230</p>\n<p># Comments: 141</p>",
+            "url": "https://architectlabs.com/blog/frostbite",
+            "published": "Fri, 20 Nov 2026 10:01:41 +0000",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What people are building, discovered through new domains",
+            "description": "<p>Article URL: <a href=\"https://startups.novumsignals.com/\">https://startups.novumsignals.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572448\">https://news.ycombinator.com/item?id=50572448</a></p>\n<p>Points: 52</p>\n<p># Comments: 19</p>",
+            "url": "https://startups.novumsignals.com/",
+            "published": "Fri, 20 Nov 2026 09:54:33 +0000",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
+            "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+            "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 12:56:48 GMT",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Calls for consent law change after Joanne Young rape case",
+            "description": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 10:49:48 GMT",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brexit debate returns as UK PM seeks closer EU ties",
+            "description": "Brexit debate returns as UK PM seeks closer EU ties",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 12:46:15 +0000",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nations League quarterfinal draw: Spain face France, England play Norway",
+            "description": "World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.",
+            "url": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 12:44:58 +0000",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "BaddyDeadpool: The protester blending humour with activism",
+            "description": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 12:26:29 +0000",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T16:50:30+03:30"
+        }
+    ]
+}

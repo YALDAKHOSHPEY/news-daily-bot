@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 12:53:38
+**Last Update:** 2026-11-20 16:50:30
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. "I can tell you wrote this yourself"
+### 1. The Making of Oxygene
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50571189">https://news.ycombinator.com/item?id=50571189</a></p>
-<p>Points: 97</p>
-<p># Comments: 98</p>
-
-🔗 **Read more:** [https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
-
----
-
-### 2. Jujutsu Primer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ethanlowman.com/posts/jj-primer/">https://ethanlowman.com/posts/jj-primer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50570628">https://news.ycombinator.com/item?id=50570628</a></p>
-<p>Points: 99</p>
-<p># Comments: 62</p>
-
-🔗 **Read more:** [https://ethanlowman.com/posts/jj-primer/](https://ethanlowman.com/posts/jj-primer/)
-
----
-
-### 3. FFmpeg 9.1 'Gauss'
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ffmpeg.org/download.html#release_9.1">https://ffmpeg.org/download.html#release_9.1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50569998">https://news.ycombinator.com/item?id=50569998</a></p>
-<p>Points: 115</p>
+<p>Article URL: <a href="https://jeanmicheljarre.com/aaa/the-making-of-oxygene">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572822">https://news.ycombinator.com/item?id=50572822</a></p>
+<p>Points: 59</p>
 <p># Comments: 22</p>
 
-🔗 **Read more:** [https://ffmpeg.org/download.html#release_9.1](https://ffmpeg.org/download.html#release_9.1)
+🔗 **Read more:** [https://jeanmicheljarre.com/aaa/the-making-of-oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 
 ---
 
-### 4. What the Brussels summit could mean for the Brexit deal
+### 2. Frostbite: A new CPU architecture discovered, designed and verified by AI
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.
+<p>Article URL: <a href="https://architectlabs.com/blog/frostbite">https://architectlabs.com/blog/frostbite</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572503">https://news.ycombinator.com/item?id=50572503</a></p>
+<p>Points: 230</p>
+<p># Comments: 141</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://architectlabs.com/blog/frostbite](https://architectlabs.com/blog/frostbite)
 
 ---
 
-### 5. Tens of thousands of UK fridges secured from hackers in secret nationwide operation
+### 3. What people are building, discovered through new domains
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://startups.novumsignals.com/">https://startups.novumsignals.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572448">https://news.ycombinator.com/item?id=50572448</a></p>
+<p>Points: 52</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://startups.novumsignals.com/](https://startups.novumsignals.com/)
+
+---
+
+### 4. Secret UK cyber operation protected tens of thousands of fridges from hackers
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Supermarkets, warehouses, restaurants and stadiums have been scrambling to make 
 
 ---
 
-### 6. Massive hope for pancreatic cancer pill after trial saw tumours vanish
+### 5. Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.
+Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. El Salvador’s Bukele seeks third term after constitution change
+### 6. Calls for consent law change after Joanne Young rape case
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Joanne Young's daughter joins her mother in calling for a change to the law on consent.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Brexit debate returns as UK PM seeks closer EU ties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics accuse populist president of engineering a de facto one-party state in El Salvador.
+Brexit debate returns as UK PM seeks closer EU ties
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss)
 
 ---
 
-### 8. US robbery suspects charged over alleged $22M train heist spree
+### 8. Nations League quarterfinal draw: Spain face France, England play Norway
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US robbery suspects charged over alleged $22M train heist spree
+World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss)
 
 ---
 
-### 9. Islam set to be the largest religion by 2035: Where will most Muslims live?
+### 9. BaddyDeadpool: The protester blending humour with activism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.
+Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss)
 
 ---
 
