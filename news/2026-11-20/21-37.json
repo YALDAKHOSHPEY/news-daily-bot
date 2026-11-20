@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T21:37:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+            "description": "<p>Article URL: <a href=\"https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md\">https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578233\">https://news.ycombinator.com/item?id=50578233</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+            "published": "Fri, 20 Nov 2026 17:14:03 +0000",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+            "description": "<p>Article URL: <a href=\"https://certuvia.com/blog/postgres-19\">https://certuvia.com/blog/postgres-19</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578117\">https://news.ycombinator.com/item?id=50578117</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://certuvia.com/blog/postgres-19",
+            "published": "Fri, 20 Nov 2026 17:08:56 +0000",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+            "description": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/\">https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50577901\">https://news.ycombinator.com/item?id=50577901</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+            "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+            "published": "Fri, 20 Nov 2026 16:59:27 +0000",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+            "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the latest Russian missile strikes on Ukraine",
+            "description": "What we know about the latest Russian missile strikes on Ukraine.",
+            "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 15:14:01 GMT",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mamdani unveils plan to close New York’s Rikers Island by 2032",
+            "description": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 17:54:55 +0000",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+            "description": "Anthropic&#039;s listing had been viewed as a potential boost for an industry struggling to regain its footing.",
+            "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 17:44:18 +0000",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests held across Europe over wages, services, high living costs",
+            "description": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 17:32:32 +0000",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-20T21:37:47+03:30"
+        }
+    ]
+}

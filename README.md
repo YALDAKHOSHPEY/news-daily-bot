@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 16:50:30
+**Last Update:** 2026-11-20 21:37:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Making of Oxygene
+### 1. Running two PSP emulators on one Switch 2 and sharing one via GameShare
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jeanmicheljarre.com/aaa/the-making-of-oxygene">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572822">https://news.ycombinator.com/item?id=50572822</a></p>
-<p>Points: 59</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md">https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50578233">https://news.ycombinator.com/item?id=50578233</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://jeanmicheljarre.com/aaa/the-making-of-oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
+🔗 **Read more:** [https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 
 ---
 
-### 2. Frostbite: A new CPU architecture discovered, designed and verified by AI
+### 2. PostgreSQL 19: A hands-on tour with runnable browser examples
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://architectlabs.com/blog/frostbite">https://architectlabs.com/blog/frostbite</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572503">https://news.ycombinator.com/item?id=50572503</a></p>
-<p>Points: 230</p>
-<p># Comments: 141</p>
+<p>Article URL: <a href="https://certuvia.com/blog/postgres-19">https://certuvia.com/blog/postgres-19</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50578117">https://news.ycombinator.com/item?id=50578117</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://architectlabs.com/blog/frostbite](https://architectlabs.com/blog/frostbite)
+🔗 **Read more:** [https://certuvia.com/blog/postgres-19](https://certuvia.com/blog/postgres-19)
 
 ---
 
-### 3. What people are building, discovered through new domains
+### 3. Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://startups.novumsignals.com/">https://startups.novumsignals.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572448">https://news.ycombinator.com/item?id=50572448</a></p>
-<p>Points: 52</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/">https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50577901">https://news.ycombinator.com/item?id=50577901</a></p>
+<p>Points: 23</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://startups.novumsignals.com/](https://startups.novumsignals.com/)
+🔗 **Read more:** [https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/](https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/)
 
 ---
 
-### 4. Secret UK cyber operation protected tens of thousands of fridges from hackers
+### 4. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.
+The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk
+### 5. Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk
 
 **Source:** BBC
 
@@ -84,85 +84,59 @@ Nobody was hurt and no damage has been reported, but Warsaw described the incide
 
 ---
 
-### 6. Calls for consent law change after Joanne Young rape case
+### 6. What we know about the latest Russian missile strikes on Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Joanne Young's daughter joins her mother in calling for a change to the law on consent.
+What we know about the latest Russian missile strikes on Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Brexit debate returns as UK PM seeks closer EU ties
+### 7. Mamdani unveils plan to close New York’s Rikers Island by 2032
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brexit debate returns as UK PM seeks closer EU ties
+The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss)
 
 ---
 
-### 8. Nations League quarterfinal draw: Spain face France, England play Norway
+### 8. US tech sell-off continues as Anthropic tumbles after mega IPO
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.
+Anthropic&#039;s listing had been viewed as a potential boost for an industry struggling to regain its footing.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss)
 
 ---
 
-### 9. BaddyDeadpool: The protester blending humour with activism
+### 9. Protests held across Europe over wages, services, high living costs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.
+Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Akvan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss)
 
 ---
 
-### 11. Tropical Cyclone Xavier
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463)
-
----
-
-### 12. Wildfire Range 47, Forrest, Mississippi
+### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -171,7 +145,33 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568)
+
+---
+
+### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569)
+
+---
+
+### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571)
 
 ---
 
