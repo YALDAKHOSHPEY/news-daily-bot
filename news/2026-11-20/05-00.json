@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T05:00:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+            "description": "<p>Article URL: <a href=\"https://git-aarvin.github.io/mei/\">https://git-aarvin.github.io/mei/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568130\">https://news.ycombinator.com/item?id=50568130</a></p>\n<p>Points: 74</p>\n<p># Comments: 39</p>",
+            "url": "https://git-aarvin.github.io/mei/",
+            "published": "Thu, 19 Nov 2026 23:35:35 +0000",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87\">https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568082\">https://news.ycombinator.com/item?id=50568082</a></p>\n<p>Points: 73</p>\n<p># Comments: 22</p>",
+            "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+            "published": "Thu, 19 Nov 2026 23:32:11 +0000",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RegExr: Temporarily Offline",
+            "description": "<p>Article URL: <a href=\"https://regexr.com/\">https://regexr.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50567374\">https://news.ycombinator.com/item?id=50567374</a></p>\n<p>Points: 43</p>\n<p># Comments: 22</p>",
+            "url": "https://regexr.com/",
+            "published": "Thu, 19 Nov 2026 22:27:07 +0000",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+            "description": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
+            "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 01:12:45 GMT",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+            "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+            "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+            "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 23:33:51 GMT",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+            "description": "Motorists and businesses struggle as shortages disrupt daily life.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 01:06:15 +0000",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haiti police say 34 gang members killed in capital raid",
+            "description": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 00:31:02 +0000",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
+            "description": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 00:22:02 +0000",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T05:00:15+03:30"
+        }
+    ]
+}
