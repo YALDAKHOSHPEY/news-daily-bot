@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T06:07:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Integrals of Polynomials with Galois Group S_p",
+            "description": "<p>Article URL: <a href=\"https://m-slee.netlify.app/posts/integrals-galois-polynomials\">https://m-slee.netlify.app/posts/integrals-galois-polynomials</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50584776\">https://news.ycombinator.com/item?id=50584776</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+            "published": "Sat, 21 Nov 2026 01:17:05 +0000",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Re: Riemann",
+            "description": "<p>Article URL: <a href=\"https://borretti.me/article/re-riemann\">https://borretti.me/article/re-riemann</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583982\">https://news.ycombinator.com/item?id=50583982</a></p>\n<p>Points: 140</p>\n<p># Comments: 119</p>",
+            "url": "https://borretti.me/article/re-riemann",
+            "published": "Fri, 20 Nov 2026 23:42:44 +0000",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Serious cyberattack thought backed by wealthy operators",
+            "description": "<p>Article URL: <a href=\"https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411\">https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583856\">https://news.ycombinator.com/item?id=50583856</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+            "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+            "published": "Fri, 20 Nov 2026 23:29:30 +0000",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "description": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+            "description": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 01:49:07 +0000",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+            "description": "COP31 deal stalls as nations struggle to agree on climate plan",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 01:44:09 +0000",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
+            "description": "The new African agency aims to bring greater transparency to credit ratings.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 01:36:10 +0000",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T06:07:41+03:30"
+        }
+    ]
+}
