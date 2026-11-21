@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 06:07:41
+**Last Update:** 2026-11-21 11:20:58
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Integrals of Polynomials with Galois Group S_p
+### 1. ClawDOS – An AI coding agent for DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://m-slee.netlify.app/posts/integrals-galois-polynomials">https://m-slee.netlify.app/posts/integrals-galois-polynomials</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50584776">https://news.ycombinator.com/item?id=50584776</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="http://ricapar.net/ClawDOS/">http://ricapar.net/ClawDOS/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586292">https://news.ycombinator.com/item?id=50586292</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://m-slee.netlify.app/posts/integrals-galois-polynomials](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
+🔗 **Read more:** [http://ricapar.net/ClawDOS/](http://ricapar.net/ClawDOS/)
 
 ---
 
-### 2. Re: Riemann
+### 2. Backblaze Notice at Collection and Privacy Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.ycombinator.com/item?id=50583982</a></p>
-<p>Points: 140</p>
-<p># Comments: 119</p>
+<p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585593">https://news.ycombinator.com/item?id=50585593</a></p>
+<p>Points: 161</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://borretti.me/article/re-riemann](https://borretti.me/article/re-riemann)
+🔗 **Read more:** [https://www.backblaze.com/company/policy/privacy](https://www.backblaze.com/company/policy/privacy)
 
 ---
 
-### 3. Serious cyberattack thought backed by wealthy operators
+### 3. Clojure will affect the way you think about programming (2017)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411">https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583856">https://news.ycombinator.com/item?id=50583856</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/">https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585376">https://news.ycombinator.com/item?id=50585376</a></p>
+<p>Points: 55</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
+🔗 **Read more:** [https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 
 ---
 
-### 4. UK to explore even closer ties with EU after agreeing deal, says Burnham
+### 4. Deal with EU not dependent on tuition fees agreement, Miliband says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.
+Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Tech stock sell-off drags markets down as Anthropic shares slide
+### 5. Tech stock sell-off drags markets down as Anthropic shares slide
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industri
 
 ---
 
-### 7. Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang
+### 6. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.
+Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a "great relationship".
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. COP31 deal stalls as nations struggle to agree on climate plan
+### 7. Emergency crews in Ukraine hit by a double-tap strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-COP31 deal stalls as nations struggle to agree on climate plan
+Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss)
 
 ---
 
-### 9. Can Africa’s new credit rating agency change how the continent is assessed?
+### 8. Three US citizens among 4 convicted in Honduras over sex-trafficking case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new African agency aims to bring greater transparency to credit ratings.
+The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss)
+
+---
+
+### 9. Train collides with minibus in Indonesia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss)
 
 ---
 
