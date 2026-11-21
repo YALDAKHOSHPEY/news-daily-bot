@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 19:15:46
+**Last Update:** 2026-11-21 23:05:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lean Verification of the Riemann Hypothesis - Joint statement by...
+### 1. Inkling-2-Mini in 5.4 GB Memory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
-<p>Points: 63</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://github.com/ShinMegamiBoson/lookatmyquant">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591853">https://news.ycombinator.com/item?id=50591853</a></p>
+<p>Points: 100</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+🔗 **Read more:** [https://github.com/ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
 
 ---
 
-### 2. Derek Lowe: Detonating a Pile of Lead Azide
+### 2. Jensen Huang's fall is bad news for Silicon Valley's accelerationists
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588982">https://news.ycombinator.com/item?id=50588982</a></p>
-<p>Points: 157</p>
-<p># Comments: 97</p>
+<p>Article URL: <a href="https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists">https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591835">https://news.ycombinator.com/item?id=50591835</a></p>
+<p>Points: 104</p>
+<p># Comments: 167</p>
 
-🔗 **Read more:** [https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+🔗 **Read more:** [https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)
 
 ---
 
-### 3. Astra 6.2 and Sol 6.2 flop at Simple Bench
+### 3. PostgreSQL Extensions in Go
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simple-bench.com/">https://simple-bench.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588916">https://news.ycombinator.com/item?id=50588916</a></p>
-<p>Points: 56</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://jespino.github.io/gopgext/">https://jespino.github.io/gopgext/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591260">https://news.ycombinator.com/item?id=50591260</a></p>
+<p>Points: 61</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://simple-bench.com/](https://simple-bench.com/)
+🔗 **Read more:** [https://jespino.github.io/gopgext/](https://jespino.github.io/gopgext/)
 
 ---
 
-### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting
 
 **Source:** BBC
 
@@ -71,7 +71,20 @@ Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on
 
 ---
 
-### 5. Catherine talks openly about how cancer changed her in documentary on BBC
+### 5. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Catherine talks openly about how cancer changed her in documentary on BBC
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on
 
 ---
 
-### 6. 'We're not meant to carry life's challenges alone', Catherine says in first clip
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Catherine has spoken about how "cancer does change you" in a documentary that will be screened on BBC One on 29 November.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Diallo present as Africa football boss Motsepe reiterates Infantino support
+### 7. Deadly attack in Kyiv as Russia launches barrage against Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Africa&#039;s CAF join South America&#039;s CONMEBOL in giving unanimous support of FIFA President Gianni Infantino&#039;s re-election.
+Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss)
 
 ---
 
-### 8. Tankers hit in Strait of Hormuz as Iran tightens grip on shipping
+### 8. FBI national crime database suffers suspected breach: Reports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.
+The reported hacking is the latest in ​a string of breaches and outages affecting the US government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss)
 
 ---
 
-### 9. Man City claw back 1-1 draw with Fulham to end three-game losing streak
+### 9. Could Brexit be reversed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.
+UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss)
 
 ---
 

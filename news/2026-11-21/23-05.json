@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T23:05:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Inkling-2-Mini in 5.4 GB Memory",
+            "description": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p>\n<p>Points: 100</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+            "published": "Sat, 21 Nov 2026 18:02:19 +0000",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists\">https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591835\">https://news.ycombinator.com/item?id=50591835</a></p>\n<p>Points: 104</p>\n<p># Comments: 167</p>",
+            "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+            "published": "Sat, 21 Nov 2026 17:59:59 +0000",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PostgreSQL Extensions in Go",
+            "description": "<p>Article URL: <a href=\"https://jespino.github.io/gopgext/\">https://jespino.github.io/gopgext/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591260\">https://news.ycombinator.com/item?id=50591260</a></p>\n<p>Points: 61</p>\n<p># Comments: 2</p>",
+            "url": "https://jespino.github.io/gopgext/",
+            "published": "Sat, 21 Nov 2026 17:08:04 +0000",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+            "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+            "description": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+            "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+            "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+            "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+            "description": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 18:42:38 +0000",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FBI national crime database suffers suspected breach: Reports",
+            "description": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 18:19:10 +0000",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could Brexit be reversed?",
+            "description": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 18:18:11 +0000",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T23:05:14+03:30"
+        }
+    ]
+}
