@@ -1,65 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 00:52:26
+**Last Update:** 2026-11-21 03:58:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia accounting under SEC investigation, sources say
+### 1. Re: Riemann
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html">https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581438">https://news.ycombinator.com/item?id=50581438</a></p>
-<p>Points: 77</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.ycombinator.com/item?id=50583982</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
+🔗 **Read more:** [https://borretti.me/article/re-riemann](https://borretti.me/article/re-riemann)
 
 ---
 
-### 2. Show HN: OpenComputer – an open source alternative to Devin
+### 2. Help github just deleted me
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN!<p>Utpal here, I'm one of the founders of OpenComputer.<p>OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).<p>We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).<p>Two other choices:<p>- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.
-- Session files are backed up to a repo after every turn, so any session can resume on another VM.<p>We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.<p>Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3].<p>[1]: <a href="https://docs.opencomputer.dev/getting-started/architecture" rel="nofollow">https://docs.opencomputer.dev/getting-started/architecture</a>
-[2]: <a href="https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/" rel="nofollow">https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/</a>
-[3]: <a href="https://x.com/IgorZIJ/status/2121309785882591711" rel="nofollow">https://x.com/IgorZIJ/status/2121309785882591711</a>
-[4]: <a href="https://app.opencomputer.dev" rel="nofollow">https://app.opencomputer.dev</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581403">https://news.ycombinator.com/item?id=50581403</a></p>
+<p>Article URL: <a href="https://nate.mecca1.net/posts/2026-11-20_help/">https://nate.mecca1.net/posts/2026-11-20_help/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583911">https://news.ycombinator.com/item?id=50583911</a></p>
+<p>Points: 39</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://nate.mecca1.net/posts/2026-11-20_help/](https://nate.mecca1.net/posts/2026-11-20_help/)
+
+---
+
+### 3. Sir Brian May adds new dimension to Hera asteroid
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid">https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583768">https://news.ycombinator.com/item?id=50583768</a></p>
 <p>Points: 16</p>
-<p># Comments: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/diggerhq/opencomputer](https://github.com/diggerhq/opencomputer)
-
----
-
-### 3. Inkling 2 Mini
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thinkingmachines.ai/news/inkling-2-mini/">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50581260">https://news.ycombinator.com/item?id=50581260</a></p>
-<p>Points: 233</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://thinkingmachines.ai/news/inkling-2-mini/](https://thinkingmachines.ai/news/inkling-2-mini/)
+🔗 **Read more:** [https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 
 ---
 
@@ -102,42 +97,42 @@ Nobody was hurt and no damage has been reported, but Warsaw described the incide
 
 ---
 
-### 7. Trump threatens tax on US tech firms building AI data centres abroad
+### 7. Overturned boat carrying mourners to funeral kills at least four in Nigeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.
+Police say two children among dead as search continues for more victims.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss)
 
 ---
 
-### 8. Trump defends Putin relationship, warns AI data centres must stay in US
+### 8. Rahul Gandhi backs strong India-Israel ties despite Gaza war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.
+India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss)
 
 ---
 
-### 9. Two Salvadoran soldiers killed in Haiti while handling explosives
+### 9. Fossil fuel talks deadlock pushes COP31 climate summit into overtime
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.
+EU warns COP31 risks turning into a &#039;fossil summit&#039; as critical climate commitments are omitted from the draft deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss)
 
 ---
 
