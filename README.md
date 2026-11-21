@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 11:20:58
+**Last Update:** 2026-11-21 15:00:20
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ClawDOS – An AI coding agent for DOS
+### 1. FBI reportedly investigating apparent hack of its criminal database
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://ricapar.net/ClawDOS/">http://ricapar.net/ClawDOS/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586292">https://news.ycombinator.com/item?id=50586292</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cvze7de86pk3o">https://www.bbc.com/news/articles/cvze7de86pk3o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587859">https://news.ycombinator.com/item?id=50587859</a></p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [http://ricapar.net/ClawDOS/](http://ricapar.net/ClawDOS/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cvze7de86pk3o](https://www.bbc.com/news/articles/cvze7de86pk3o)
 
 ---
 
-### 2. Backblaze Notice at Collection and Privacy Policy
+### 2. RCE in Gnupg
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585593">https://news.ycombinator.com/item?id=50585593</a></p>
-<p>Points: 161</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587208">https://news.ycombinator.com/item?id=50587208</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.backblaze.com/company/policy/privacy](https://www.backblaze.com/company/policy/privacy)
+🔗 **Read more:** [https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 
 ---
 
-### 3. Clojure will affect the way you think about programming (2017)
+### 3. Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/">https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585376">https://news.ycombinator.com/item?id=50585376</a></p>
-<p>Points: 55</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize">https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587205">https://news.ycombinator.com/item?id=50587205</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+🔗 **Read more:** [https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
 
 ---
 
@@ -71,20 +71,7 @@ Brussels sources had previously suggested the bloc might not apply the wider dea
 
 ---
 
-### 5. Tech stock sell-off drags markets down as Anthropic shares slide
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+### 5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Earlier this week, Trump greeted Putin ahead of a meeting in China and said the 
 
 ---
 
-### 7. Emergency crews in Ukraine hit by a double-tap strike
+### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.
+Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Three US citizens among 4 convicted in Honduras over sex-trafficking case
+### 7. Migrants caravan in Mexico walks towards US border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.
+Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss)
 
 ---
 
-### 9. Train collides with minibus in Indonesia
+### 8. Russian missiles hit Poland: What happened, and could NATO respond?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.
+Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss)
+
+---
+
+### 9. Deadly fire engulfs power station in southern Iraq
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss)
 
 ---
 

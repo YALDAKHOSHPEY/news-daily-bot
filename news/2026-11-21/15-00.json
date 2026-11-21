@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T15:00:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FBI reportedly investigating apparent hack of its criminal database",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvze7de86pk3o\">https://www.bbc.com/news/articles/cvze7de86pk3o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587859\">https://news.ycombinator.com/item?id=50587859</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+            "published": "Sat, 21 Nov 2026 10:33:57 +0000",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RCE in Gnupg",
+            "description": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587208\">https://news.ycombinator.com/item?id=50587208</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+            "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+            "published": "Sat, 21 Nov 2026 08:32:58 +0000",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
+            "description": "<p>Article URL: <a href=\"https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize\">https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587205\">https://news.ycombinator.com/item?id=50587205</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
+            "published": "Sat, 21 Nov 2026 08:32:34 +0000",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+            "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 09:40:55 GMT",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+            "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+            "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+            "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 09:52:11 GMT",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Migrants caravan in Mexico walks towards US border",
+            "description": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 11:04:10 +0000",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+            "description": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 11:02:49 +0000",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly fire engulfs power station in southern Iraq",
+            "description": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 11:02:29 +0000",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T15:00:20+03:30"
+        }
+    ]
+}
