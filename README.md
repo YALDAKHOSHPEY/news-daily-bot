@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 23:05:14
+**Last Update:** 2026-11-22 00:48:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Inkling-2-Mini in 5.4 GB Memory
+### 1. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tasklet.ai/careers">https://tasklet.ai/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593679">https://news.ycombinator.com/item?id=50593679</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://tasklet.ai/careers](https://tasklet.ai/careers)
+
+---
+
+### 2. Upload2Shell · CVE-2026-125396
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pwn.ai/upload2shell">https://pwn.ai/upload2shell</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50592097">https://news.ycombinator.com/item?id=50592097</a></p>
+<p>Points: 36</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://pwn.ai/upload2shell](https://pwn.ai/upload2shell)
+
+---
+
+### 3. Inkling-2-Mini in 5.4 GB Memory
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/ShinMegamiBoson/lookatmyquant">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591853">https://news.ycombinator.com/item?id=50591853</a></p>
-<p>Points: 100</p>
-<p># Comments: 9</p>
+<p>Points: 234</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://github.com/ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
-
----
-
-### 2. Jensen Huang's fall is bad news for Silicon Valley's accelerationists
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists">https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591835">https://news.ycombinator.com/item?id=50591835</a></p>
-<p>Points: 104</p>
-<p># Comments: 167</p>
-
-🔗 **Read more:** [https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)
-
----
-
-### 3. PostgreSQL Extensions in Go
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jespino.github.io/gopgext/">https://jespino.github.io/gopgext/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591260">https://news.ycombinator.com/item?id=50591260</a></p>
-<p>Points: 61</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://jespino.github.io/gopgext/](https://jespino.github.io/gopgext/)
 
 ---
 
@@ -97,42 +97,42 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. Deadly attack in Kyiv as Russia launches barrage against Ukraine
+### 7. Iran says held talks with Qatari mediators, urges US to accept conditions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.
+Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss)
 
 ---
 
-### 8. FBI national crime database suffers suspected breach: Reports
+### 8. Thousands protest across Europe over living costs and housing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The reported hacking is the latest in ​a string of breaches and outages affecting the US government.
+Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss)
 
 ---
 
-### 9. Could Brexit be reversed?
+### 9. AOC challenged over AIPAC’s influence on Democratic leadership
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?
+US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss)
 
 ---
 
