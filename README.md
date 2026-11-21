@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 15:00:20
+**Last Update:** 2026-11-21 19:15:46
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. FBI reportedly investigating apparent hack of its criminal database
+### 1. Lean Verification of the Riemann Hypothesis - Joint statement by...
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvze7de86pk3o">https://www.bbc.com/news/articles/cvze7de86pk3o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587859">https://news.ycombinator.com/item?id=50587859</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
+<p>Points: 63</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvze7de86pk3o](https://www.bbc.com/news/articles/cvze7de86pk3o)
+🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
 ---
 
-### 2. RCE in Gnupg
+### 2. Derek Lowe: Detonating a Pile of Lead Azide
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587208">https://news.ycombinator.com/item?id=50587208</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588982">https://news.ycombinator.com/item?id=50588982</a></p>
+<p>Points: 157</p>
+<p># Comments: 97</p>
 
-🔗 **Read more:** [https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
+🔗 **Read more:** [https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
 ---
 
-### 3. Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize
+### 3. Astra 6.2 and Sol 6.2 flop at Simple Bench
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize">https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50587205">https://news.ycombinator.com/item?id=50587205</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://simple-bench.com/">https://simple-bench.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588916">https://news.ycombinator.com/item?id=50588916</a></p>
+<p>Points: 56</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize](https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize)
+🔗 **Read more:** [https://simple-bench.com/](https://simple-bench.com/)
 
 ---
 
-### 4. Deal with EU not dependent on tuition fees agreement, Miliband says
+### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.
+Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+### 5. Catherine talks openly about how cancer changed her in documentary on BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a "great relationship".
+"There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
+### 6. 'We're not meant to carry life's challenges alone', Catherine says in first clip
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
+Catherine has spoken about how "cancer does change you" in a documentary that will be screened on BBC One on 29 November.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Migrants caravan in Mexico walks towards US border
+### 7. Diallo present as Africa football boss Motsepe reiterates Infantino support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.
+Africa&#039;s CAF join South America&#039;s CONMEBOL in giving unanimous support of FIFA President Gianni Infantino&#039;s re-election.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss)
 
 ---
 
-### 8. Russian missiles hit Poland: What happened, and could NATO respond?
+### 8. Tankers hit in Strait of Hormuz as Iran tightens grip on shipping
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.
+British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss)
 
 ---
 
-### 9. Deadly fire engulfs power station in southern Iraq
+### 9. Man City claw back 1-1 draw with Fulham to end three-game losing streak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.
+Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss)
 
 ---
 
