@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 12:31:10
+**Last Update:** 2026-11-22 19:59:42
 
 **Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Engineering Manager's role is under attack (again)
+### 1. Norway to extend proposed under-16 social media ban to games and messaging apps
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again">https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597014">https://news.ycombinator.com/item?id=50597014</a></p>
-<p>Points: 38</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps">https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600789">https://news.ycombinator.com/item?id=50600789</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again](https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again)
+🔗 **Read more:** [https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
 
 ---
 
-### 2. Notes on the discrete Fourier transform (DFT)
+### 2. Europe weakens chemical rules as science links them to 'lifestyle diseases'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600677">https://news.ycombinator.com/item?id=50600677</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+🔗 **Read more:** [https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
 
 ---
 
-### 3. Show HN: The Riemann Proof Handbook
+### 3. Open Social Web Alliance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://news.ycombinator.com/item?id=50596664</a></p>
-<p>Points: 35</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://osw-alliance.net/en/">https://osw-alliance.net/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600511">https://news.ycombinator.com/item?id=50600511</a></p>
+<p>Points: 28</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/tamnd/riemann-handbook](https://github.com/tamnd/riemann-handbook)
+🔗 **Read more:** [https://osw-alliance.net/en/](https://osw-alliance.net/en/)
 
 ---
 
-### 4. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
+### 4. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.
+"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. How a teen gamer and his mother helped rescue a missing girl
+### 5. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.
+Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide
+### 6. Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.
+Libya's eastern government says it is working with Russia to investigate the incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Gukesh vs Sindarov: The youngest World Chess Championship in history
+### 7. Canada’s PM appears next to Trump impersonator at press dinner
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India&#039;s Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.
+A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss)
 
 ---
 
-### 8. Dashcam captures Russian missile strike on Lviv, Ukraine
+### 8. Can we build a more ethical AI future?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.
+Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI&#039;s risks and the fight for ethical technology.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss](https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss)
 
 ---
 
-### 9. Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years
+### 9. Dozens drown as boat capsizes in Nigeria en route to funeral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Red Bull&#039;s Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.
+At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss)
 
 ---
 

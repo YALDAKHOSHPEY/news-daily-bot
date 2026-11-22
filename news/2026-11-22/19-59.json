@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-22T19:59:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+            "description": "<p>Article URL: <a href=\"https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps\">https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600789\">https://news.ycombinator.com/item?id=50600789</a></p>\n<p>Points: 22</p>\n<p># Comments: 5</p>",
+            "url": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+            "published": "Sun, 22 Nov 2026 15:54:24 +0000",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+            "description": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html\">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600677\">https://news.ycombinator.com/item?id=50600677</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
+            "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+            "published": "Sun, 22 Nov 2026 15:42:40 +0000",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open Social Web Alliance",
+            "description": "<p>Article URL: <a href=\"https://osw-alliance.net/en/\">https://osw-alliance.net/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600511\">https://news.ycombinator.com/item?id=50600511</a></p>\n<p>Points: 28</p>\n<p># Comments: 12</p>",
+            "url": "https://osw-alliance.net/en/",
+            "published": "Sun, 22 Nov 2026 15:24:32 +0000",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+            "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 11:50:20 GMT",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+            "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 13:50:21 GMT",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+            "description": "Libya's eastern government says it is working with Russia to investigate the incident.",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 16:05:25 GMT",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+            "description": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 16:06:46 +0000",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can we build a more ethical AI future?",
+            "description": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI&#039;s risks and the fight for ethical technology.",
+            "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 15:30:09 +0000",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+            "description": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 15:24:20 +0000",
+            "fetched": "2026-11-22T19:59:42+03:30"
+        }
+    ]
+}
