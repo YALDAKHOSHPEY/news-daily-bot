@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 04:01:35
+**Last Update:** 2026-11-22 05:16:29
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. International UN talks on controlling use of autonomous weapons collapse
+### 1. Sandwich Simulator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse">https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594564">https://news.ycombinator.com/item?id=50594564</a></p>
-<p>Points: 25</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://stulle.app/">https://stulle.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594911">https://news.ycombinator.com/item?id=50594911</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
+🔗 **Read more:** [https://stulle.app/](https://stulle.app/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594132">https://news.ycombinator.com/item?id=50594132</a></p>
-<p>Points: 36</p>
-<p># Comments: 3</p>
+<p>Points: 54</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/sebaandrada-cell/PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://linebender.org/blog/next-100-guis/">https://linebender.org/blog/next-100-guis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593737">https://news.ycombinator.com/item?id=50593737</a></p>
-<p>Points: 58</p>
-<p># Comments: 5</p>
+<p>Points: 87</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://linebender.org/blog/next-100-guis/](https://linebender.org/blog/next-100-guis/)
 
@@ -97,42 +97,42 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. Iran war live: Iran targets US military in Bahrain; Houthi strikes continue
+### 7. Moviegoers head for the exits as quake strikes Peru
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.
+Moviegoers head for the exits as quake strikes Peru
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss)
+
+---
+
+### 8. Clashes erupt across France in another night of protest
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss)
-
----
-
-### 8. Lebanese president demands Israel withdrawal, decries Iran’s interference
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss)
-
----
-
-### 9. Iran faces a ‘silent economic war’, says Iranian president
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran faces a ‘silent economic war’, says Iranian president
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss)
 
 ---
 
