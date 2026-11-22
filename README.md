@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 01:26:35
+**Last Update:** 2026-11-23 02:27:04
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. COP31 fails to reach major climate deal as talks expose deep divisions
+### 1. The Usefulness of Useless Knowledge [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604472">https://news.ycombinator.com/item?id=50604472</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+
+---
+
+### 2. Agent swarm trying to solve P vs. NP
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pequalnp.com/">https://pequalnp.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604314">https://news.ycombinator.com/item?id=50604314</a></p>
+<p>Points: 18</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://pequalnp.com/](https://pequalnp.com/)
+
+---
+
+### 3. The struggle for freedom: How BSD escaped AT&T licensing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/">https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604123">https://news.ycombinator.com/item?id=50604123</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
+
+---
+
+### 4. COP31 fails to reach major climate deal as talks expose deep divisions
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The talks fail to make a breakthrough on tackling climate change after a row abo
 
 ---
 
-### 2. What's next after no deal at COP31 climate talks?
+### 5. What's next after no deal at COP31 climate talks?
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The talks have been the longest-running in the summit's history, with negotiatio
 
 ---
 
-### 3. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
+### 6. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Chris O'Shea says the number of people unable or unwilling to pay their energy b
 
 ---
 
-### 4. Heartbreak in US capital as Washington Spirit lose women’s football final
+### 7. Trump to host private dinner for largest owners of his meme coin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.
+Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss)
 
 ---
 
-### 5. Fire breaks out at popular tourist hotspot in Zanzibar
+### 8. Democrats win largest House majority since 1992 with North Carolina seat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.
+At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss)
 
 ---
 
-### 6. Liverpool 4-0 Manchester United: Five key takeaways for Pochettino
+### 9. Second ship targeted in series of naval drone attacks off Libyan coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino&#039;s side.
+A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
 
 **Source:** NASA
 
