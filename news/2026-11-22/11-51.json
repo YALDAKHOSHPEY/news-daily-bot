@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T11:51:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Engineering Manager's role is under attack (again)",
+            "description": "<p>Article URL: <a href=\"https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again\">https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597014\">https://news.ycombinator.com/item?id=50597014</a></p>\n<p>Points: 20</p>\n<p># Comments: 12</p>",
+            "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+            "published": "Sun, 22 Nov 2026 07:01:00 +0000",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Notes on the discrete Fourier transform (DFT)",
+            "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596960\">https://news.ycombinator.com/item?id=50596960</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+            "published": "Sun, 22 Nov 2026 06:52:25 +0000",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: The Riemann Proof Handbook",
+            "description": "<p>Article URL: <a href=\"https://github.com/tamnd/riemann-handbook\">https://github.com/tamnd/riemann-handbook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596664\">https://news.ycombinator.com/item?id=50596664</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/tamnd/riemann-handbook",
+            "published": "Sun, 22 Nov 2026 05:46:30 +0000",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+            "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+            "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 06:54:06 GMT",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+            "description": "\"Just accept Brexit and move on,\" the former prime minister told BBC's Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 06:01:14 GMT",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How a teen gamer and his mother helped rescue a missing girl",
+            "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+            "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 00:09:58 GMT",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
+            "description": "India&#039;s Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
+            "url": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 08:11:40 +0000",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+            "description": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 07:59:29 +0000",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+            "description": "Red Bull&#039;s Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
+            "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 07:48:28 +0000",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T11:51:17+03:30"
+        }
+    ]
+}
