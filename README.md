@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 00:48:39
+**Last Update:** 2026-11-22 04:01:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
+### 1. International UN talks on controlling use of autonomous weapons collapse
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers">https://tasklet.ai/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593679">https://news.ycombinator.com/item?id=50593679</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse">https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594564">https://news.ycombinator.com/item?id=50594564</a></p>
+<p>Points: 25</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://tasklet.ai/careers](https://tasklet.ai/careers)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
 
 ---
 
-### 2. Upload2Shell · CVE-2026-125396
+### 2. PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pwn.ai/upload2shell">https://pwn.ai/upload2shell</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50592097">https://news.ycombinator.com/item?id=50592097</a></p>
+<p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594132">https://news.ycombinator.com/item?id=50594132</a></p>
 <p>Points: 36</p>
-<p># Comments: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://pwn.ai/upload2shell](https://pwn.ai/upload2shell)
+🔗 **Read more:** [https://github.com/sebaandrada-cell/PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
 
 ---
 
-### 3. Inkling-2-Mini in 5.4 GB Memory
+### 3. Advice for the next 100 Rust GUIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ShinMegamiBoson/lookatmyquant">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591853">https://news.ycombinator.com/item?id=50591853</a></p>
-<p>Points: 234</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://linebender.org/blog/next-100-guis/">https://linebender.org/blog/next-100-guis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593737">https://news.ycombinator.com/item?id=50593737</a></p>
+<p>Points: 58</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://github.com/ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
+🔗 **Read more:** [https://linebender.org/blog/next-100-guis/](https://linebender.org/blog/next-100-guis/)
 
 ---
 
@@ -97,42 +97,42 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. Iran says held talks with Qatari mediators, urges US to accept conditions
+### 7. Iran war live: Iran targets US military in Bahrain; Houthi strikes continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.
+Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss)
 
 ---
 
-### 8. Thousands protest across Europe over living costs and housing
+### 8. Lebanese president demands Israel withdrawal, decries Iran’s interference
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.
+Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss)
 
 ---
 
-### 9. AOC challenged over AIPAC’s influence on Democratic leadership
+### 9. Iran faces a ‘silent economic war’, says Iranian president
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.
+Iran faces a ‘silent economic war’, says Iranian president
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss)
 
 ---
 
