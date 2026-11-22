@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 19:59:42
+**Last Update:** 2026-11-22 20:58:48
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Norway to extend proposed under-16 social media ban to games and messaging apps
+### 1. Perplexity and Intelligence
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps">https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600789">https://news.ycombinator.com/item?id=50600789</a></p>
-<p>Points: 22</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://openai.com/index/perplexity-and-intelligence/">https://openai.com/index/perplexity-and-intelligence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50601525">https://news.ycombinator.com/item?id=50601525</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps](https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps)
+🔗 **Read more:** [https://openai.com/index/perplexity-and-intelligence/](https://openai.com/index/perplexity-and-intelligence/)
 
 ---
 
-### 2. Europe weakens chemical rules as science links them to 'lifestyle diseases'
+### 2. Ask HN: Are the trades a safe career transition?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged<p>I need a few decades of at least mild security to get to retirement...<p>Are the trades safe?<p>Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays off<p>And if not the trades, then what is a better bet?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600771">https://news.ycombinator.com/item?id=50600771</a></p>
+<p>Points: 17</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50600771](https://news.ycombinator.com/item?id=50600771)
+
+---
+
+### 3. Europe weakens chemical rules as science links them to 'lifestyle diseases'
 
 **Source:** Hacker News
 
@@ -35,43 +52,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600677">https://news.ycombinator.com/item?id=50600677</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 65</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
 
 ---
 
-### 3. Open Social Web Alliance
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://osw-alliance.net/en/">https://osw-alliance.net/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50600511">https://news.ycombinator.com/item?id=50600511</a></p>
-<p>Points: 28</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://osw-alliance.net/en/](https://osw-alliance.net/en/)
-
----
-
-### 4. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
+### 4. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
 **Source:** BBC
 
@@ -84,6 +72,19 @@ Chris O'Shea says the number of people unable or unwilling to pay their energy b
 
 ---
 
+### 5. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
+
+---
+
 ### 6. Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
 
 **Source:** BBC
@@ -91,13 +92,39 @@ Chris O'Shea says the number of people unable or unwilling to pay their energy b
 **Category:** world
 
 **Description:**
-Libya's eastern government says it is working with Russia to investigate the incident.
+Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Canada’s PM appears next to Trump impersonator at press dinner
+### 7. Israeli settlers attack multiple Palestinian villages as pogroms surge
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss)
+
+---
+
+### 8. ‘Disappointing’: Delegates react after COP31 climate talks end without deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss)
+
+---
+
+### 9. Canada’s PM appears next to Trump impersonator at press dinner
 
 **Source:** Al Jazeera
 
@@ -110,29 +137,42 @@ A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’
 
 ---
 
-### 8. Can we build a more ethical AI future?
+### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI&#039;s risks and the fight for ethical technology.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss](https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568)
 
 ---
 
-### 9. Dozens drown as boat capsizes in Nigeria en route to funeral
+### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569)
+
+---
+
+### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571)
 
 ---
 

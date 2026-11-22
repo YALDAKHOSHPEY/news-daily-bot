@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T20:58:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Perplexity and Intelligence",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://openai.com/index/perplexity-and-intelligence/",
+            "published": "Sun, 22 Nov 2026 17:06:27 +0000",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Are the trades a safe career transition?",
+            "description": "<p>I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged<p>I need a few decades of at least mild security to get to retirement...<p>Are the trades safe?<p>Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays off<p>And if not the trades, then what is a better bet?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600771\">https://news.ycombinator.com/item?id=50600771</a></p>\n<p>Points: 17</p>\n<p># Comments: 17</p>",
+            "url": "https://news.ycombinator.com/item?id=50600771",
+            "published": "Sun, 22 Nov 2026 15:52:33 +0000",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+            "description": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html\">https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50600677\">https://news.ycombinator.com/item?id=50600677</a></p>\n<p>Points: 65</p>\n<p># Comments: 27</p>",
+            "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+            "published": "Sun, 22 Nov 2026 15:42:40 +0000",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+            "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 13:50:21 GMT",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+            "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 11:50:20 GMT",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+            "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 17:16:47 GMT",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+            "description": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 16:50:48 +0000",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+            "description": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 16:33:26 +0000",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+            "description": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 16:06:46 +0000",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T20:58:48+03:30"
+        }
+    ]
+}
