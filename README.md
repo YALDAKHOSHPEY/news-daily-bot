@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 06:57:00
+**Last Update:** 2026-11-23 16:52:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Advanced Character Physics (2001) [pdf]
+### 1. The next circle of security hell
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf">https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606704">https://news.ycombinator.com/item?id=50606704</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/">https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610334">https://news.ycombinator.com/item?id=50610334</a></p>
+<p>Points: 37</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
+
+---
+
+### 2. Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/os6/nospeaker">https://github.com/os6/nospeaker</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610318">https://news.ycombinator.com/item?id=50610318</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
+🔗 **Read more:** [https://github.com/os6/nospeaker](https://github.com/os6/nospeaker)
 
 ---
 
-### 2. Free alternative TV network built from the Internet Archive's forgotten videos
+### 3. GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spelunkr.tv">https://spelunkr.tv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606192">https://news.ycombinator.com/item?id=50606192</a></p>
-<p>Points: 150</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://z.ai/blog/glm-5.4">https://z.ai/blog/glm-5.4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50609685">https://news.ycombinator.com/item?id=50609685</a></p>
+<p>Points: 311</p>
+<p># Comments: 137</p>
 
-🔗 **Read more:** [https://spelunkr.tv](https://spelunkr.tv)
-
----
-
-### 3. What we learned operating auth for 1k APIs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606072">https://news.ycombinator.com/item?id=50606072</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
+🔗 **Read more:** [https://z.ai/blog/glm-5.4](https://z.ai/blog/glm-5.4)
 
 ---
 
-### 4. COP31 fails to reach major climate deal as talks expose deep divisions
+### 4. Russian warship hit by Ukrainian drones in Libya, Zelensky says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels
+The Kremlin warns of an "escalation of tensions in the region", but declines to comment directly on the attacks in Libya.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What's next after no deal at COP31 climate talks?
+### 5. Ukraine shares video of strikes on Russian ships off Libya
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.
+President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'
+### 6. Police investigate unknown substance that caused Manchester's Co-op Live evacuation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister will tell MPs the deal agreed on Friday is a "choice between a broken status quo or change".
+People describe a "horrible smell" and hearing screaming as they were evacuated from the Don Toliver gig.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Indonesian police remove 24 body bags from factory fire site
+### 7. Iran says it will use ‘all available means’ to counter US blockade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.
+Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss)
 
 ---
 
-### 8. US intelligence chief defends Trump’s comments calling Putin his ‘friend’
+### 8. Argentina footballer Paredes collapses during post-match interview
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Director of National Intelligence Jay Clayton says Trump&#039;s comments were &#039;entirely appropriate&#039; in context of summit.
+Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss)
 
 ---
 
-### 9. ‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores
+### 9. How the US, China and Russia are competing for Africa’s mineral wealth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.
+The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss)
 
 ---
 
