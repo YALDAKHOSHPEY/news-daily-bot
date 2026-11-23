@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-23T06:25:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Advanced Character Physics (2001) [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf\">https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50606704\">https://news.ycombinator.com/item?id=50606704</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
+            "published": "Mon, 23 Nov 2026 02:17:27 +0000",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+            "description": "<p>Article URL: <a href=\"https://spelunkr.tv\">https://spelunkr.tv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50606192\">https://news.ycombinator.com/item?id=50606192</a></p>\n<p>Points: 114</p>\n<p># Comments: 21</p>",
+            "url": "https://spelunkr.tv",
+            "published": "Mon, 23 Nov 2026 01:13:51 +0000",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What we learned operating auth for 1k APIs",
+            "description": "<p>Article URL: <a href=\"https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/\">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50606072\">https://news.ycombinator.com/item?id=50606072</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+            "published": "Mon, 23 Nov 2026 01:01:11 +0000",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 00:50:35 GMT",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+            "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+            "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 22:49:10 GMT",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+            "description": "US Director of National Intelligence Jay Clayton says Trump&#039;s comments were &#039;entirely appropriate&#039; in context of summit.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 02:23:13 +0000",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+            "description": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 02:09:15 +0000",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+            "description": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 01:53:23 +0000",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-23T06:25:54+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 02:27:04
+**Last Update:** 2026-11-23 06:25:54
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Usefulness of Useless Knowledge [pdf]
+### 1. Advanced Character Physics (2001) [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf">https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604472">https://news.ycombinator.com/item?id=50604472</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf">https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606704">https://news.ycombinator.com/item?id=50606704</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+🔗 **Read more:** [https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
 
 ---
 
-### 2. Agent swarm trying to solve P vs. NP
+### 2. Free alternative TV network built from the Internet Archive's forgotten videos
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pequalnp.com/">https://pequalnp.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604314">https://news.ycombinator.com/item?id=50604314</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://spelunkr.tv">https://spelunkr.tv</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606192">https://news.ycombinator.com/item?id=50606192</a></p>
+<p>Points: 114</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://pequalnp.com/](https://pequalnp.com/)
+🔗 **Read more:** [https://spelunkr.tv](https://spelunkr.tv)
 
 ---
 
-### 3. The struggle for freedom: How BSD escaped AT&T licensing
+### 3. What we learned operating auth for 1k APIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/">https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50604123">https://news.ycombinator.com/item?id=50604123</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606072">https://news.ycombinator.com/item?id=50606072</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/)
+🔗 **Read more:** [https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.
+Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ The talks have been the longest-running in the summit's history, with negotiatio
 
 ---
 
-### 6. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
+### 6. Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.
+The prime minister will tell MPs the deal agreed on Friday is a "choice between a broken status quo or change".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump to host private dinner for largest owners of his meme coin
+### 7. US intelligence chief defends Trump’s comments calling Putin his ‘friend’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.
+US Director of National Intelligence Jay Clayton says Trump&#039;s comments were &#039;entirely appropriate&#039; in context of summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss)
 
 ---
 
-### 8. Democrats win largest House majority since 1992 with North Carolina seat
+### 8. ‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.
+Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss)
 
 ---
 
-### 9. Second ship targeted in series of naval drone attacks off Libyan coast
+### 9. Poland says Russia tried to assassinate Ukrainian rapper twice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.
+Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss)
 
 ---
 
