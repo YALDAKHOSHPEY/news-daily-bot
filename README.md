@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 06:25:54
+**Last Update:** 2026-11-23 06:57:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://spelunkr.tv">https://spelunkr.tv</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606192">https://news.ycombinator.com/item?id=50606192</a></p>
-<p>Points: 114</p>
+<p>Points: 150</p>
 <p># Comments: 21</p>
 
 🔗 **Read more:** [https://spelunkr.tv](https://spelunkr.tv)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/">https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50606072">https://news.ycombinator.com/item?id=50606072</a></p>
-<p>Points: 8</p>
+<p>Points: 10</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
@@ -97,7 +97,20 @@ The prime minister will tell MPs the deal agreed on Friday is a "choice between 
 
 ---
 
-### 7. US intelligence chief defends Trump’s comments calling Putin his ‘friend’
+### 7. Indonesian police remove 24 body bags from factory fire site
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss)
+
+---
+
+### 8. US intelligence chief defends Trump’s comments calling Putin his ‘friend’
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US Director of National Intelligence Jay Clayton says Trump&#039;s comments were
 
 ---
 
-### 8. ‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores
+### 9. ‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US Director of National Intelligence Jay Clayton says Trump&#039;s comments were
 Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss)
-
----
-
-### 9. Poland says Russia tried to assassinate Ukrainian rapper twice
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss)
 
 ---
 
