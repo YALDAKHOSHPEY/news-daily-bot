@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 16:52:40
+**Last Update:** 2026-11-23 17:20:29
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The next circle of security hell
+### 1. Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/">https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610334">https://news.ycombinator.com/item?id=50610334</a></p>
-<p>Points: 37</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/](https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/)
-
----
-
-### 2. Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/os6/nospeaker">https://github.com/os6/nospeaker</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610318">https://news.ycombinator.com/item?id=50610318</a></p>
-<p>Points: 9</p>
+<p>A little while ago I built (vibed) a tiny Mac app to block websites via the hosts file. By default it imported some fairly popular adult filtering lists as well as social media etc.<p>It has been very effective; it would only take a few moments to switch off but it is enough of an interruption to often make me re-evaluate and proceed on.<p>I have a particular distain for current affairs and have found "the news" addictive for years, clearly at the detriment to my own mental health and sanity.<p>So, in a similar vein to the other lists I found, I have created a fairly comprehensive list of news sites that can be imported/used as you see fit.<p>To state the obvious, the absolute vast majority of the work was done via Claude and a small army of sub-agents.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50611026">https://news.ycombinator.com/item?id=50611026</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/os6/nospeaker](https://github.com/os6/nospeaker)
+🔗 **Read more:** [https://github.com/ruairidhflint/news-blocklist](https://github.com/ruairidhflint/news-blocklist)
 
 ---
 
-### 3. GLM-5.4: Toward Generalized Coding with Our First Loop Transformer
+### 2. Amodei reportedly suggested games could pacify masses after AI took their jobs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://z.ai/blog/glm-5.4">https://z.ai/blog/glm-5.4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50609685">https://news.ycombinator.com/item?id=50609685</a></p>
-<p>Points: 311</p>
-<p># Comments: 137</p>
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness">https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610830">https://news.ycombinator.com/item?id=50610830</a></p>
+<p>Points: 29</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://z.ai/blog/glm-5.4](https://z.ai/blog/glm-5.4)
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness](https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness)
+
+---
+
+### 3. Win4wine – Run Windows Shell as the Linux Desktop on Wine
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/mikuta0407/win4wine">https://github.com/mikuta0407/win4wine</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610743">https://news.ycombinator.com/item?id=50610743</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/mikuta0407/win4wine](https://github.com/mikuta0407/win4wine)
 
 ---
 
