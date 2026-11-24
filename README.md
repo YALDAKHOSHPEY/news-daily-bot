@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 00:54:19
+**Last Update:** 2026-11-25 01:12:00
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -21,8 +21,8 @@
 2. We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP.<p>Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base. With self-custodial wallets, users own their keys, meaning money can’t be sent without their approval.<p>Interestingly, we were almost forced into this solution because we had around 4 weeks to build this product (after a pivot), and traditional fiat with a partner bank would have caused far too many regulatory and compliance slowdowns.<p>Because of that, the only fast option that remained was using stablecoin wallets. It also ensures we aren't a Money Services Business (MSB) since we don’t hold control or access to the user’s funds.<p>Each call to the wallet creates what we call one-time or recurring standing permissions. For a one-time payment, your agent makes an MCP call, and you receive a notification in our mobile app. Once you swipe up in the app and approve with a passkey (or your device’s biometric method), we create a one-time permission that instructs your wallet to send $X to your recipient’s address.<p>Trusted contacts let your agent send money to people that you’ve previously authorized without explicit passkey approval. Generally, these are people that you’d trust to send your money back even if your agent made a mistake.<p>We’re also able to support sending money to someone off Versine using claim forwarding, where the user authorizes us to forward a specific amount to a future address (which we create once we verify a recipient's OTP).<p>Param worked on scaling vector search at Databricks and harness evals at Glean. Harshith worked on core Stripe Connect fee-processing infrastructure and built an AWS Fargate autoscaler at Amazon. Vishnu worked on intent-based agent testing infrastructure at Amazon. None of us were experienced in stablecoin or crypto infra before working on Versine but our distributed systems experience has helped us a lot.<p>We'd love for you guys to try it! It's available on iOS and Android and as an MCP on ChatGPT and Claude. We also support a public MCP and REST API for other agents.<p>Please let us know how you find it and if it works as you'd hoped!<p><a href="https://versine.com">https://versine.com</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50634426">https://news.ycombinator.com/item?id=50634426</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 15</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50634426](https://news.ycombinator.com/item?id=50634426)
 
@@ -37,8 +37,8 @@
 **Description:**
 <p>Article URL: <a href="https://prismml.com/news/bonsai-2-5-27b">https://prismml.com/news/bonsai-2-5-27b</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50633922">https://news.ycombinator.com/item?id=50633922</a></p>
-<p>Points: 112</p>
-<p># Comments: 30</p>
+<p>Points: 120</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://prismml.com/news/bonsai-2-5-27b](https://prismml.com/news/bonsai-2-5-27b)
 
@@ -53,7 +53,7 @@
 **Description:**
 <p>Article URL: <a href="https://andlukyane.com/blog/cayley-graphs-and-torchtpu">https://andlukyane.com/blog/cayley-graphs-and-torchtpu</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50633424">https://news.ycombinator.com/item?id=50633424</a></p>
-<p>Points: 22</p>
+<p>Points: 25</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://andlukyane.com/blog/cayley-graphs-and-torchtpu](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
