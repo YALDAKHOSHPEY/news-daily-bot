@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 04:51:35
+**Last Update:** 2026-11-24 14:45:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Power of GraphQL, Without GraphQL
+### 1. Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cobalt27.dev/">https://cobalt27.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50621466">https://news.ycombinator.com/item?id=50621466</a></p>
-<p>Points: 5</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/">https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50625888">https://news.ycombinator.com/item?id=50625888</a></p>
+<p>Points: 24</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://cobalt27.dev/](https://cobalt27.dev/)
+🔗 **Read more:** [https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/)
 
 ---
 
-### 2. Huang's Return Is the Biggest National Security Scandal in U.S. History
+### 2. 2035 Came Early
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/">https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50620822">https://news.ycombinator.com/item?id=50620822</a></p>
-<p>Points: 107</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://fzakaria.com/2026/11/23/2035-came-early">https://fzakaria.com/2026/11/23/2035-came-early</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50624497">https://news.ycombinator.com/item?id=50624497</a></p>
+<p>Points: 302</p>
+<p># Comments: 87</p>
 
-🔗 **Read more:** [https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
+🔗 **Read more:** [https://fzakaria.com/2026/11/23/2035-came-early](https://fzakaria.com/2026/11/23/2035-came-early)
 
 ---
 
-### 3. Freeing the iPod Nano 5G
+### 3. AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://viktorkrapivin.com/blog/nano5g-priv-prvd">https://viktorkrapivin.com/blog/nano5g-priv-prvd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50620721">https://news.ycombinator.com/item?id=50620721</a></p>
-<p>Points: 28</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.phoronix.com/review/amd-epyc-9006-7601">https://www.phoronix.com/review/amd-epyc-9006-7601</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50624061">https://news.ycombinator.com/item?id=50624061</a></p>
+<p>Points: 109</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://viktorkrapivin.com/blog/nano5g-priv-prvd](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
+🔗 **Read more:** [https://www.phoronix.com/review/amd-epyc-9006-7601](https://www.phoronix.com/review/amd-epyc-9006-7601)
 
 ---
 
-### 4. US to blacklist Asian AI firm Megaspeed after Nvidia scandal
+### 4. Cheers and applause as Jensen Huang returns to Nvidia office
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.
+BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Benefits review to suggest quicker payment for some disabled people
+### 5. Pip benefits review to suggest quicker payment for some disabled people
 
 **Source:** BBC
 
@@ -84,59 +84,85 @@ The Timms review will recommend those with severe conditions will not need to be
 
 ---
 
-### 6. Chris Mason: Can Burnham turn volume down on EU debate?
+### 6. Afghan women with UK university offers 'heartbroken' after visas stopped
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.
+In March this year, the UK Home Office announced an "emergency visa brake" on study visas for applicants from Afghanistan.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US adds Megaspeed, firm at centre of Nvidia scandal, to export control list
+### 7. Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.
+Nvidia chief&#039;s &#039;mistakes&#039; had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss](https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss)
 
 ---
 
-### 8. What could Democrats do with their expanding congressional majority?
+### 8. Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.
+Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss)
 
 ---
 
-### 9. Turns out it wasn’t a lion afterall
+### 9. Why S Korea issued air raid alert after Russian jets flew near its airspace
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.
+South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 10. Wildfire Little Ridge, Highland, Virginia
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661)
+
+---
+
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662)
+
+---
+
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -146,32 +172,6 @@ The animal that sparked panic in Istanbul on Sunday because people thought it wa
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568)
-
----
-
-### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569)
-
----
-
-### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571)
 
 ---
 

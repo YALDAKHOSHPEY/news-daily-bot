@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T14:45:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+            "description": "<p>Article URL: <a href=\"https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/\">https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50625888\">https://news.ycombinator.com/item?id=50625888</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
+            "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+            "published": "Tue, 24 Nov 2026 09:39:50 +0000",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2035 Came Early",
+            "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/11/23/2035-came-early\">https://fzakaria.com/2026/11/23/2035-came-early</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50624497\">https://news.ycombinator.com/item?id=50624497</a></p>\n<p>Points: 302</p>\n<p># Comments: 87</p>",
+            "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+            "published": "Tue, 24 Nov 2026 06:30:33 +0000",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+            "description": "<p>Article URL: <a href=\"https://www.phoronix.com/review/amd-epyc-9006-7601\">https://www.phoronix.com/review/amd-epyc-9006-7601</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50624061\">https://news.ycombinator.com/item?id=50624061</a></p>\n<p>Points: 109</p>\n<p># Comments: 45</p>",
+            "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+            "published": "Tue, 24 Nov 2026 05:15:22 +0000",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+            "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+            "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 01:21:41 GMT",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pip benefits review to suggest quicker payment for some disabled people",
+            "description": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 10:04:13 GMT",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan women with UK university offers 'heartbroken' after visas stopped",
+            "description": "In March this year, the UK Home Office announced an \"emergency visa brake\" on study visas for applicants from Afghanistan.",
+            "url": "https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 06:00:47 GMT",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+            "description": "Nvidia chief&#039;s &#039;mistakes&#039; had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+            "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 10:48:38 +0000",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+            "description": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 10:47:41 +0000",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
+            "description": "South Korean authorities issue air raid warnings after several Russian jets were on verge of entering its airspace.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 09:53:55 +0000",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T14:45:16+03:30"
+        }
+    ]
+}
