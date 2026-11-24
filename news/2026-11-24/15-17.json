@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T15:17:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+            "description": "<p>Article URL: <a href=\"https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/\">https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50626578\">https://news.ycombinator.com/item?id=50626578</a></p>\n<p>Points: 47</p>\n<p># Comments: 14</p>",
+            "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+            "published": "Tue, 24 Nov 2026 11:13:55 +0000",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Worshipping at the Altar of Brendan Gregg",
+            "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg\">https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50626413\">https://news.ycombinator.com/item?id=50626413</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+            "published": "Tue, 24 Nov 2026 10:50:14 +0000",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+            "description": "<p>Article URL: <a href=\"https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/\">https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50625888\">https://news.ycombinator.com/item?id=50625888</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
+            "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+            "published": "Tue, 24 Nov 2026 09:39:50 +0000",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+            "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+            "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 01:21:41 GMT",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pip benefits review to suggest quicker payment for some disabled people",
+            "description": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 10:04:13 GMT",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince William meets Burnham on first Downing Street visit",
+            "description": "The Prince of Wales is meeting Andy Burnham with homelessness expected to be among the topics.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 11:37:53 GMT",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+            "description": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 11:19:04 +0000",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vietnam restaurant blast kills at least six",
+            "description": "At least 10 wounded after blast at restaurant in the Dong Da district in Hanoi as rescue operations under way.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 11:17:20 +0000",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+            "description": "Nvidia chief&#039;s &#039;mistakes&#039; had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+            "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 10:48:38 +0000",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T15:17:17+03:30"
+        }
+    ]
+}
