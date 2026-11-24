@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 04:38:23
+**Last Update:** 2026-11-24 04:51:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -97,7 +97,20 @@ The BBC's Chris Mason analyses what the EU conversation means for Labour and the
 
 ---
 
-### 7. What could Democrats do with their expanding congressional majority?
+### 7. US adds Megaspeed, firm at centre of Nvidia scandal, to export control list
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss)
+
+---
+
+### 8. What could Democrats do with their expanding congressional majority?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The Democratic Party is debating how best to use its large margin of victory in 
 
 ---
 
-### 8. Turns out it wasn’t a lion afterall
+### 9. Turns out it wasn’t a lion afterall
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The Democratic Party is debating how best to use its large margin of victory in 
 The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss)
-
----
-
-### 9. Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president used his podium to attack the California governor for a decision to commute 548 death sentences.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss)
 
 ---
 
