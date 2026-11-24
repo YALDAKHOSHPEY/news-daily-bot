@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T04:38:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Power of GraphQL, Without GraphQL",
+            "description": "<p>Article URL: <a href=\"https://cobalt27.dev/\">https://cobalt27.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50621466\">https://news.ycombinator.com/item?id=50621466</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://cobalt27.dev/",
+            "published": "Tue, 24 Nov 2026 00:03:59 +0000",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+            "description": "<p>Article URL: <a href=\"https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/\">https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50620822\">https://news.ycombinator.com/item?id=50620822</a></p>\n<p>Points: 107</p>\n<p># Comments: 72</p>",
+            "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+            "published": "Mon, 23 Nov 2026 23:11:38 +0000",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Freeing the iPod Nano 5G",
+            "description": "<p>Article URL: <a href=\"https://viktorkrapivin.com/blog/nano5g-priv-prvd\">https://viktorkrapivin.com/blog/nano5g-priv-prvd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50620721\">https://news.ycombinator.com/item?id=50620721</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+            "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+            "published": "Mon, 23 Nov 2026 23:03:13 +0000",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+            "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 23:16:08 GMT",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Benefits review to suggest quicker payment for some disabled people",
+            "description": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 00:53:31 GMT",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+            "description": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 00:45:53 GMT",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What could Democrats do with their expanding congressional majority?",
+            "description": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 00:39:22 +0000",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turns out it wasn’t a lion afterall",
+            "description": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 00:35:58 +0000",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+            "description": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 00:04:15 +0000",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-24T04:38:23+03:30"
+        }
+    ]
+}

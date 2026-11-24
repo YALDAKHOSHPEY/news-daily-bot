@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 17:20:29
+**Last Update:** 2026-11-24 04:38:23
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites
+### 1. The Power of GraphQL, Without GraphQL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>A little while ago I built (vibed) a tiny Mac app to block websites via the hosts file. By default it imported some fairly popular adult filtering lists as well as social media etc.<p>It has been very effective; it would only take a few moments to switch off but it is enough of an interruption to often make me re-evaluate and proceed on.<p>I have a particular distain for current affairs and have found "the news" addictive for years, clearly at the detriment to my own mental health and sanity.<p>So, in a similar vein to the other lists I found, I have created a fairly comprehensive list of news sites that can be imported/used as you see fit.<p>To state the obvious, the absolute vast majority of the work was done via Claude and a small army of sub-agents.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50611026">https://news.ycombinator.com/item?id=50611026</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://cobalt27.dev/">https://cobalt27.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50621466">https://news.ycombinator.com/item?id=50621466</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/ruairidhflint/news-blocklist](https://github.com/ruairidhflint/news-blocklist)
+🔗 **Read more:** [https://cobalt27.dev/](https://cobalt27.dev/)
 
 ---
 
-### 2. Amodei reportedly suggested games could pacify masses after AI took their jobs
+### 2. Huang's Return Is the Biggest National Security Scandal in U.S. History
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness">https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610830">https://news.ycombinator.com/item?id=50610830</a></p>
-<p>Points: 29</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/">https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50620822">https://news.ycombinator.com/item?id=50620822</a></p>
+<p>Points: 107</p>
+<p># Comments: 72</p>
 
-🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness](https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness)
+🔗 **Read more:** [https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/)
 
 ---
 
-### 3. Win4wine – Run Windows Shell as the Linux Desktop on Wine
+### 3. Freeing the iPod Nano 5G
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/mikuta0407/win4wine">https://github.com/mikuta0407/win4wine</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50610743">https://news.ycombinator.com/item?id=50610743</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://viktorkrapivin.com/blog/nano5g-priv-prvd">https://viktorkrapivin.com/blog/nano5g-priv-prvd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50620721">https://news.ycombinator.com/item?id=50620721</a></p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/mikuta0407/win4wine](https://github.com/mikuta0407/win4wine)
+🔗 **Read more:** [https://viktorkrapivin.com/blog/nano5g-priv-prvd](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
 
 ---
 
-### 4. Russian warship hit by Ukrainian drones in Libya, Zelensky says
+### 4. US to blacklist Asian AI firm Megaspeed after Nvidia scandal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Kremlin warns of an "escalation of tensions in the region", but declines to comment directly on the attacks in Libya.
+Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Ukraine shares video of strikes on Russian ships off Libya
+### 5. Benefits review to suggest quicker payment for some disabled people
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.
+The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Police investigate unknown substance that caused Manchester's Co-op Live evacuation
+### 6. Chris Mason: Can Burnham turn volume down on EU debate?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People describe a "horrible smell" and hearing screaming as they were evacuated from the Don Toliver gig.
+The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran says it will use ‘all available means’ to counter US blockade
+### 7. What could Democrats do with their expanding congressional majority?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.
+The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss)
 
 ---
 
-### 8. Argentina footballer Paredes collapses during post-match interview
+### 8. Turns out it wasn’t a lion afterall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.
+The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss)
 
 ---
 
-### 9. How the US, China and Russia are competing for Africa’s mineral wealth
+### 9. Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.
+The US president used his podium to attack the California governor for a decision to commute 548 death sentences.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss)
 
 ---
 
