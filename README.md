@@ -1,140 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 01:12:00
+**Last Update:** 2026-11-25 07:53:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: Versine (YC F26) – MCP to send and receive money
+### 1. Marginalia Search, Money, C++, Rust, AI, Stuff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine (<a href="https://versine.com">https://versine.com</a>). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.<p>Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like:<p>- Send money to someone with your approval (via passkey in our app)<p>- Send and request money to/from up to 100 people at once<p>- Send money to people without a Versine account (they cash out to their bank in 2 mins)<p>- Pay people without your explicit approval to trusted contacts (you can set this)<p>Here’s a demo: <a href="https://youtube.com/shorts/Q9X7zioEqi0" rel="nofollow">https://youtube.com/shorts/Q9X7zioEqi0</a><p>We started working on this because assistants are frustratingly hands-off when it comes to finance and money movement. You can have your assistant go through a receipt and map out all the amounts owed taking care of splitting the subtotal, taxes, tips, but at the end of it the assistant hands back work to you when you have to go out and make the Venmo transfer.<p>Our current solution is oriented towards power users: those who want to automate everything through their agent use us to split dinners, group trips, or settle poker ledgers. We see ourselves unlocking more value for the general consumer as<p>1. More people turn into power users of agents, and
-2. We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP.<p>Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base. With self-custodial wallets, users own their keys, meaning money can’t be sent without their approval.<p>Interestingly, we were almost forced into this solution because we had around 4 weeks to build this product (after a pivot), and traditional fiat with a partner bank would have caused far too many regulatory and compliance slowdowns.<p>Because of that, the only fast option that remained was using stablecoin wallets. It also ensures we aren't a Money Services Business (MSB) since we don’t hold control or access to the user’s funds.<p>Each call to the wallet creates what we call one-time or recurring standing permissions. For a one-time payment, your agent makes an MCP call, and you receive a notification in our mobile app. Once you swipe up in the app and approve with a passkey (or your device’s biometric method), we create a one-time permission that instructs your wallet to send $X to your recipient’s address.<p>Trusted contacts let your agent send money to people that you’ve previously authorized without explicit passkey approval. Generally, these are people that you’d trust to send your money back even if your agent made a mistake.<p>We’re also able to support sending money to someone off Versine using claim forwarding, where the user authorizes us to forward a specific amount to a future address (which we create once we verify a recipient's OTP).<p>Param worked on scaling vector search at Databricks and harness evals at Glean. Harshith worked on core Stripe Connect fee-processing infrastructure and built an AWS Fargate autoscaler at Amazon. Vishnu worked on intent-based agent testing infrastructure at Amazon. None of us were experienced in stablecoin or crypto infra before working on Versine but our distributed systems experience has helped us a lot.<p>We'd love for you guys to try it! It's available on iOS and Android and as an MCP on ChatGPT and Claude. We also support a public MCP and REST API for other agents.<p>Please let us know how you find it and if it works as you'd hoped!<p><a href="https://versine.com">https://versine.com</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50634426">https://news.ycombinator.com/item?id=50634426</a></p>
-<p>Points: 15</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.marginalia.nu/log/a_141_marginalia_update/">https://www.marginalia.nu/log/a_141_marginalia_update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638220">https://news.ycombinator.com/item?id=50638220</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50634426](https://news.ycombinator.com/item?id=50634426)
+🔗 **Read more:** [https://www.marginalia.nu/log/a_141_marginalia_update/](https://www.marginalia.nu/log/a_141_marginalia_update/)
 
 ---
 
-### 2. Ternary Bonsai 2.5 27B
+### 2. A faster algorithm for extracting hexadecimal digits of π
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prismml.com/news/bonsai-2-5-27b">https://prismml.com/news/bonsai-2-5-27b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50633922">https://news.ycombinator.com/item?id=50633922</a></p>
-<p>Points: 120</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://prismml.com/news/bonsai-2-5-27b](https://prismml.com/news/bonsai-2-5-27b)
-
----
-
-### 3. From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://andlukyane.com/blog/cayley-graphs-and-torchtpu">https://andlukyane.com/blog/cayley-graphs-and-torchtpu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50633424">https://news.ycombinator.com/item?id=50633424</a></p>
-<p>Points: 25</p>
+<p>Article URL: <a href="https://www.stylewarning.com/posts/faster-digit-extraction/">https://www.stylewarning.com/posts/faster-digit-extraction/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638075">https://news.ycombinator.com/item?id=50638075</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://andlukyane.com/blog/cayley-graphs-and-torchtpu](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
+🔗 **Read more:** [https://www.stylewarning.com/posts/faster-digit-extraction/](https://www.stylewarning.com/posts/faster-digit-extraction/)
 
 ---
 
-### 4. Disability benefit review calls for closer link with claimant costs
+### 3. Serving Qwen via AWS Lambdas for fun and 80x negative profit
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://noahbuilt.it/writing/qwen-on-5600-lambdas">https://noahbuilt.it/writing/qwen-on-5600-lambdas</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638070">https://news.ycombinator.com/item?id=50638070</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://noahbuilt.it/writing/qwen-on-5600-lambdas](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
+
+---
+
+### 4. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A government-commissioned report calls for a "rebalancing" of the amount paid to different claimants.
+The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
+### 5. Nuclear test veterans speak to BBC about search for justice
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.
+Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Substance released at Manchester concert could be linked to robberies, police say
+### 6. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police are investigating a possible link between the Co-op Live evacuation and reported robberies.
+The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hostage situation reported in Colombia as armed men flee into supermarket
+### 7. Israeli strike kills four people in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.
+An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Brazil doctor uses surfboard and sledgehammer in flood rescue
+### 8. Galatasaray says Israel complained to UEFA over Palestine banners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard
+Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss)
 
 ---
 
-### 9. Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship
+### 9. Asia’s stock markets dive as doubts swirl over AI boom
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country&#039;s rivals together.
+Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss)
 
 ---
 
