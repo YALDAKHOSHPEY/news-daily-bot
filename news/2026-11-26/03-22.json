@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T03:22:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev is (probably) Qwen3.5-35B-A3B",
+            "description": "<p>Article URL: <a href=\"https://modaic.dev/blog/latency-doesnt-lie\">https://modaic.dev/blog/latency-doesnt-lie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648823\">https://news.ycombinator.com/item?id=50648823</a></p>\n<p>Points: 81</p>\n<p># Comments: 4</p>",
+            "url": "https://modaic.dev/blog/latency-doesnt-lie",
+            "published": "Wed, 25 Nov 2026 22:57:04 +0000",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bare Metal Qwen",
+            "description": "<p>Article URL: <a href=\"https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648365\">https://news.ycombinator.com/item?id=50648365</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+            "published": "Wed, 25 Nov 2026 22:15:34 +0000",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+            "description": "<p>Article URL: <a href=\"https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648323\">https://news.ycombinator.com/item?id=50648323</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+            "published": "Wed, 25 Nov 2026 22:12:25 +0000",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poundland collapses putting 11,000 jobs at risk",
+            "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 21:31:10 GMT",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why has Poundland collapsed and what happens next?",
+            "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+            "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 16:24:30 GMT",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US announces new tariff proposals on EU, China, and other trade partners",
+            "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+            "description": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 23:33:39 +0000",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "King tides and big waves batter coastal California",
+            "description": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 23:20:03 +0000",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+            "description": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 22:48:47 +0000",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T03:22:50+03:30"
+        }
+    ]
+}

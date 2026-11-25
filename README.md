@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 03:12:20
+**Last Update:** 2026-11-26 03:22:50
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://modaic.dev/blog/latency-doesnt-lie">https://modaic.dev/blog/latency-doesnt-lie</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648823">https://news.ycombinator.com/item?id=50648823</a></p>
-<p>Points: 54</p>
-<p># Comments: 0</p>
+<p>Points: 81</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://modaic.dev/blog/latency-doesnt-lie](https://modaic.dev/blog/latency-doesnt-lie)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648365">https://news.ycombinator.com/item?id=50648365</a></p>
-<p>Points: 8</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
 
 ---
 
-### 3. Much shorter version of GRH Lean verification from Anthropic
+### 3. Deploying a payphone on a tiny Pacific Island for fun and zero profit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/lsernau/grh-lean">https://github.com/lsernau/grh-lean</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648050">https://news.ycombinator.com/item?id=50648050</a></p>
-<p>Points: 175</p>
-<p># Comments: 77</p>
+<p>Article URL: <a href="https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/">https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648323">https://news.ycombinator.com/item?id=50648323</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/lsernau/grh-lean](https://github.com/lsernau/grh-lean)
+🔗 **Read more:** [https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
 
 ---
 
@@ -97,7 +97,20 @@ The new levies would hit many of America's biggest trading partners, including C
 
 ---
 
-### 7. King tides and big waves batter coastal California
+### 7. Houthis target Saudi Arabia’s Red Sea ports as strikes escalate
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss)
+
+---
+
+### 8. King tides and big waves batter coastal California
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Massive waves batter California as El Nino-driven storms bring king tides to the
 
 ---
 
-### 8. Deadly truck fire is latest of Egypt’s transport disasters
+### 9. Deadly truck fire is latest of Egypt’s transport disasters
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Massive waves batter California as El Nino-driven storms bring king tides to the
 Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss)
-
----
-
-### 9. Malen and Roma deny injury-hit PSG in Champions League draw
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss)
 
 ---
 
