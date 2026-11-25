@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 08:11:14
+**Last Update:** 2026-11-25 18:13:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Marginalia Search, Money, C++, Rust, AI, Stuff
+### 1. U.S. jury convicts Huawei of fraud, Iran sanctions violations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.marginalia.nu/log/a_141_marginalia_update/">https://www.marginalia.nu/log/a_141_marginalia_update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638220">https://news.ycombinator.com/item?id=50638220</a></p>
+<p>Article URL: <a href="https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/">https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50642496">https://news.ycombinator.com/item?id=50642496</a></p>
 <p>Points: 14</p>
-<p># Comments: 2</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.marginalia.nu/log/a_141_marginalia_update/](https://www.marginalia.nu/log/a_141_marginalia_update/)
+🔗 **Read more:** [https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
 
 ---
 
-### 2. A faster algorithm for extracting hexadecimal digits of π
+### 2. Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.stylewarning.com/posts/faster-digit-extraction/">https://www.stylewarning.com/posts/faster-digit-extraction/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638075">https://news.ycombinator.com/item?id=50638075</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers">https://github.com/google-research/google-research/tree/master/cogentic_research_papers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50642086">https://news.ycombinator.com/item?id=50642086</a></p>
+<p>Points: 80</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://github.com/google-research/google-research/tree/master/cogentic_research_papers](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
+
+---
+
+### 3. Hazel (YC W24) Is Hiring a Product Designer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641323">https://news.ycombinator.com/item?id=50641323</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.stylewarning.com/posts/faster-digit-extraction/](https://www.stylewarning.com/posts/faster-digit-extraction/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 
 ---
 
-### 3. Serving Qwen via AWS Lambdas for fun and 80x negative profit
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://noahbuilt.it/writing/qwen-on-5600-lambdas">https://noahbuilt.it/writing/qwen-on-5600-lambdas</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50638070">https://news.ycombinator.com/item?id=50638070</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://noahbuilt.it/writing/qwen-on-5600-lambdas](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
-
----
-
-### 4. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
+### 4. Energy bills to rise by 26% from January after gas prices surge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.
+A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Nuclear test veterans speak to BBC about search for justice
+### 5. Two men charged with trying to steal cufflinks and clock from Royal home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.
+The court hears the items from the Sandringham estate are of an unknown value.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
+### 6. Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.
+Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli strike kills four people in Gaza
+### 7. Syrian teams clear landmines after deadly explosion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.
+Syrian teams clear landmines after deadly explosion
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss)
 
 ---
 
-### 8. Galatasaray says Israel complained to UEFA over Palestine banners
+### 8. US court convicts Huawei of theft: A history of Chinese firm’s global woes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.
+Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss)
 
 ---
 
-### 9. Asia’s stock markets dive as doubts swirl over AI boom
+### 9. ‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.
+Israel&#039;s tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss](https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss)
 
 ---
 
