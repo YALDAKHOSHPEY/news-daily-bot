@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-25T18:38:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The year the web industry gave up",
+            "description": "<p>Article URL: <a href=\"https://dbushell.com/2026/11/25/web-industry/\">https://dbushell.com/2026/11/25/web-industry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642832\">https://news.ycombinator.com/item?id=50642832</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://dbushell.com/2026/11/25/web-industry/",
+            "published": "Wed, 25 Nov 2026 14:43:41 +0000",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon S3 Files",
+            "description": "<p>Article URL: <a href=\"https://aws.amazon.com/s3/features/files/\">https://aws.amazon.com/s3/features/files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642554\">https://news.ycombinator.com/item?id=50642554</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://aws.amazon.com/s3/features/files/",
+            "published": "Wed, 25 Nov 2026 14:19:21 +0000",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
+            "description": "<p>Article URL: <a href=\"https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/\">https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642496\">https://news.ycombinator.com/item?id=50642496</a></p>\n<p>Points: 43</p>\n<p># Comments: 23</p>",
+            "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+            "published": "Wed, 25 Nov 2026 14:12:29 +0000",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Energy bills to rise by 26% from January after gas prices surge",
+            "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+            "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 13:42:08 GMT",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
+            "description": "The court hears the items from the Sandringham estate are of an unknown value.",
+            "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 15:05:50 GMT",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
+            "description": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 13:57:12 GMT",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump announces new trade tariffs: Which countries will they target?",
+            "description": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 14:54:44 +0000",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Knesset advances October 7 probe despite Netanyahu’s objections",
+            "description": "The Israeli Knesset has voted to advance a proposed state inquiry into the October 7 attacks",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 14:53:49 +0000",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian teams clear landmines after deadly explosion",
+            "description": "Syrian teams clear landmines after deadly explosion",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 13:51:15 +0000",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-25T18:38:17+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 18:13:34
+**Last Update:** 2026-11-25 18:38:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. U.S. jury convicts Huawei of fraud, Iran sanctions violations
+### 1. The year the web industry gave up
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dbushell.com/2026/11/25/web-industry/">https://dbushell.com/2026/11/25/web-industry/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50642832">https://news.ycombinator.com/item?id=50642832</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://dbushell.com/2026/11/25/web-industry/](https://dbushell.com/2026/11/25/web-industry/)
+
+---
+
+### 2. Amazon S3 Files
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://aws.amazon.com/s3/features/files/">https://aws.amazon.com/s3/features/files/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50642554">https://news.ycombinator.com/item?id=50642554</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://aws.amazon.com/s3/features/files/](https://aws.amazon.com/s3/features/files/)
+
+---
+
+### 3. U.S. jury convicts Huawei of fraud, Iran sanctions violations
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/">https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50642496">https://news.ycombinator.com/item?id=50642496</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Points: 43</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
-
----
-
-### 2. Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers">https://github.com/google-research/google-research/tree/master/cogentic_research_papers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50642086">https://news.ycombinator.com/item?id=50642086</a></p>
-<p>Points: 80</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://github.com/google-research/google-research/tree/master/cogentic_research_papers](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
-
----
-
-### 3. Hazel (YC W24) Is Hiring a Product Designer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641323">https://news.ycombinator.com/item?id=50641323</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
 
 ---
 
@@ -97,7 +97,33 @@ Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months
 
 ---
 
-### 7. Syrian teams clear landmines after deadly explosion
+### 7. Trump announces new trade tariffs: Which countries will they target?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss)
+
+---
+
+### 8. Knesset advances October 7 probe despite Netanyahu’s objections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Israeli Knesset has voted to advance a proposed state inquiry into the October 7 attacks
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss)
+
+---
+
+### 9. Syrian teams clear landmines after deadly explosion
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months
 Syrian teams clear landmines after deadly explosion
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss)
-
----
-
-### 8. US court convicts Huawei of theft: A history of Chinese firm’s global woes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss)
-
----
-
-### 9. ‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel&#039;s tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss](https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss)
 
 ---
 
