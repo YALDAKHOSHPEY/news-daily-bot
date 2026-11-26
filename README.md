@@ -1,29 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 19:29:51
+**Last Update:** 2026-11-26 22:40:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the train attack unfolded - carriage by carriage
+### 1. Ask HN: How do you find meaning of life at 41?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Happy Thanksgiving!<p>This question crossed my mind in the morning. It feels like I have seen pretty much everything under the Sun. I have modest house (still renting), small kids, a okayish job. I spent time on daily activities and occassionally on long walks.<p>The progress with AI and impact on Software is frankly exciting and depressing at the same time.<p>What are people my age doing these days? How do you keep yourself excited for the future and not feel anxious?<p>Curious to see from a bit older people here how are you doing and challenging yourself well into 40s, 50s and 60s.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50657957">https://news.ycombinator.com/item?id=50657957</a></p>
+<p>Points: 23</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50657957](https://news.ycombinator.com/item?id=50657957)
+
+---
+
+### 2. George Whitesides, 1939-2026
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/content/blog-post/george-whitesides-1939-2026">https://www.science.org/content/blog-post/george-whitesides-1939-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50657936">https://news.ycombinator.com/item?id=50657936</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.science.org/content/blog-post/george-whitesides-1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
+
+---
+
+### 3. CTO of 'RansomwareHelp' Indicted for Wire Fraud
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50657645">https://news.ycombinator.com/item?id=50657645</a></p>
+<p>Points: 52</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+
+---
+
+### 4. Huntingdon train attacker found guilty of all 14 counts of attempted murder
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.
+Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Knifeman told doctor his psychosis drugs weren't working days before attack
+### 5. Watch: How knife attack on train unfolded
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Video filmed by train passengers and CCTV captures the situation on board as 10 people are injured.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack
 
 **Source:** BBC
 
@@ -36,59 +98,46 @@ Now his trial has concluded over the LNER train attack, we can report Anthony Wi
 
 ---
 
-### 3. UK net migration at lowest level since 1997 as asylum claims also fall
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security
+### 7. What will Trump’s latest tariffs mean for the world?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.
+New measures come after previous trade tariffs ruled illegal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss)
 
 ---
 
-### 5. US judge blocks Trump’s FCC attempt to target Disney’s ABC stations
+### 8. Kushner explains the ‘good thing’ about Gaza’s destruction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The judge said the FCC chair has taken US President Donald Trump&#039;s rhetoric ‌‌as his &#039;marching orders&#039;.
+Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss)
 
 ---
 
-### 6. Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle
+### 9. Trump calls GDP data released before midterms ‘fake’, demands investigation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.
+President says it was a deliberate decision to release &#039;fake&#039; growth numbers before US midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Little Ridge, Highland, Virginia
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire White Oak Flat, Alleghany, Virginia
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
