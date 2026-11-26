@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 09:24:52
+**Last Update:** 2026-11-26 12:11:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qualcomm's Oryon 3 Reaches the Top
+### 1. Moat: Your OpenRouter Replacement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651158">https://news.ycombinator.com/item?id=50651158</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://commandcode.ai/moat">https://commandcode.ai/moat</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50652184">https://news.ycombinator.com/item?id=50652184</a></p>
+<p>Points: 20</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+🔗 **Read more:** [https://commandcode.ai/moat](https://commandcode.ai/moat)
 
 ---
 
-### 2. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
+### 2. Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/thsottiaux/status/2125784147889393806">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651117">https://news.ycombinator.com/item?id=50651117</a></p>
-<p>Points: 77</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651719">https://news.ycombinator.com/item?id=50651719</a></p>
+<p>Points: 68</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://twitter.com/thsottiaux/status/2125784147889393806](https://twitter.com/thsottiaux/status/2125784147889393806)
+🔗 **Read more:** [https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
 
 ---
 
-### 3. Minipg: PostgreSQL as a Single Executable
+### 3. Unconditional Integer Factorization in Subexponential Time
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://progrium.github.io/minipg/">https://progrium.github.io/minipg/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50650892">https://news.ycombinator.com/item?id=50650892</a></p>
-<p>Points: 27</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651627">https://news.ycombinator.com/item?id=50651627</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://progrium.github.io/minipg/](https://progrium.github.io/minipg/)
-
----
-
-### 4. UK government set to publish new treaties agreed with EU
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
 
 ---
 
-### 5. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+### 4. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Nearly a third of crossings in early 2026 allegedly involved boats or engines fr
 
 ---
 
-### 6. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
+### 5. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Nearly a third of crossings in early 2026 allegedly involved boats or engines fr
 
 ---
 
-### 7. Puerto Rico’s Supreme Court cancels major power contract
+### 6. New UK-EU treaty has 10-year termination clause, BBC understands
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The court&#039;s five-to-four ruling ends Luma Energy&#039;s operations after a contentious legal battle.
+Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Six killed, including children, in plane crash off Mississippi coast
+### 7. Ms Rachel on Gaza: ‘everybody should speak out’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.
+US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss)
 
 ---
 
-### 9. Brazil blasts ‘unacceptable’ new US tariff proposals
+### 8. Rescuers recover bodies after flood at illegal Indonesia gold mine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.
+At least 13 miners died and others remain missing after heavy rain flooded an illegal gold mine in West Java, Indonesia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss)
+
+---
+
+### 9. Photos: Rallies around the world denounce violence against women
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss)
 
 ---
 

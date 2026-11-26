@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T12:11:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moat: Your OpenRouter Replacement",
+            "description": "<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 20</p>\n<p># Comments: 14</p>",
+            "url": "https://commandcode.ai/moat",
+            "published": "Thu, 26 Nov 2026 06:32:48 +0000",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+            "description": "<p>Article URL: <a href=\"https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651719\">https://news.ycombinator.com/item?id=50651719</a></p>\n<p>Points: 68</p>\n<p># Comments: 9</p>",
+            "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+            "published": "Thu, 26 Nov 2026 05:12:59 +0000",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unconditional Integer Factorization in Subexponential Time",
+            "description": "<p>Article URL: <a href=\"https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization\">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651627\">https://news.ycombinator.com/item?id=50651627</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+            "published": "Thu, 26 Nov 2026 04:59:56 +0000",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+            "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+            "description": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+            "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 07:40:04 GMT",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+            "description": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 08:29:53 +0000",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+            "description": "At least 13 miners died and others remain missing after heavy rain flooded an illegal gold mine in West Java, Indonesia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 08:23:51 +0000",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Rallies around the world denounce violence against women",
+            "description": "About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 07:43:14 +0000",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T12:11:11+03:30"
+        }
+    ]
+}
