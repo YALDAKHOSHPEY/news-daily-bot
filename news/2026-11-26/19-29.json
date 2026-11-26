@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-26T19:29:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the train attack unfolded - carriage by carriage",
+            "description": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
+            "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 15:25:57 GMT",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Knifeman told doctor his psychosis drugs weren't working days before attack",
+            "description": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
+            "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 15:38:38 GMT",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+            "description": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 14:55:16 GMT",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+            "description": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 15:45:59 +0000",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
+            "description": "The judge said the FCC chair has taken US President Donald Trump&#039;s rhetoric ‌‌as his &#039;marching orders&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 15:29:03 +0000",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
+            "description": "Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 15:23:25 +0000",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T19:29:51+03:30"
+        }
+    ]
+}

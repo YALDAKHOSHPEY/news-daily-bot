@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 12:11:11
+**Last Update:** 2026-11-26 19:29:51
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Moat: Your OpenRouter Replacement
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://commandcode.ai/moat">https://commandcode.ai/moat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50652184">https://news.ycombinator.com/item?id=50652184</a></p>
-<p>Points: 20</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://commandcode.ai/moat](https://commandcode.ai/moat)
-
----
-
-### 2. Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651719">https://news.ycombinator.com/item?id=50651719</a></p>
-<p>Points: 68</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
-
----
-
-### 3. Unconditional Integer Factorization in Subexponential Time
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651627">https://news.ycombinator.com/item?id=50651627</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization)
-
----
-
-### 4. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+### 1. How the train attack unfolded - carriage by carriage
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
+In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
+### 2. Knifeman told doctor his psychosis drugs weren't working days before attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.
+Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. New UK-EU treaty has 10-year termination clause, BBC understands
+### 3. UK net migration at lowest level since 1997 as asylum claims also fall
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.
+Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ms Rachel on Gaza: ‘everybody should speak out’
+### 4. Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.
+Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss)
 
 ---
 
-### 8. Rescuers recover bodies after flood at illegal Indonesia gold mine
+### 5. US judge blocks Trump’s FCC attempt to target Disney’s ABC stations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 13 miners died and others remain missing after heavy rain flooded an illegal gold mine in West Java, Indonesia.
+The judge said the FCC chair has taken US President Donald Trump&#039;s rhetoric ‌‌as his &#039;marching orders&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss)
 
 ---
 
-### 9. Photos: Rallies around the world denounce violence against women
+### 6. Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.
+Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
