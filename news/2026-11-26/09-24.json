@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T09:24:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qualcomm's Oryon 3 Reaches the Top",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top\">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651158\">https://news.ycombinator.com/item?id=50651158</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+            "published": "Thu, 26 Nov 2026 03:43:24 +0000",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2125784147889393806\">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651117\">https://news.ycombinator.com/item?id=50651117</a></p>\n<p>Points: 77</p>\n<p># Comments: 45</p>",
+            "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+            "published": "Thu, 26 Nov 2026 03:36:58 +0000",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Minipg: PostgreSQL as a Single Executable",
+            "description": "<p>Article URL: <a href=\"https://progrium.github.io/minipg/\">https://progrium.github.io/minipg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50650892\">https://news.ycombinator.com/item?id=50650892</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+            "url": "https://progrium.github.io/minipg/",
+            "published": "Thu, 26 Nov 2026 03:00:48 +0000",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government set to publish new treaties agreed with EU",
+            "description": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+            "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 02:13:00 GMT",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+            "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Puerto Rico’s Supreme Court cancels major power contract",
+            "description": "The court&#039;s five-to-four ruling ends Luma Energy&#039;s operations after a contentious legal battle.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 05:09:55 +0000",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six killed, including children, in plane crash off Mississippi coast",
+            "description": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 04:48:42 +0000",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+            "description": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 04:47:47 +0000",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T09:24:52+03:30"
+        }
+    ]
+}
