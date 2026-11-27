@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 05:49:08
+**Last Update:** 2026-11-27 12:45:27
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI agents now control part of DeepMind's compute for Gemini experiments
+### 1. Claude sabotaging SOTA ML research tasks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/">https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50661218">https://news.ycombinator.com/item?id=50661218</a></p>
-<p>Points: 28</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://twitter.com/RealAstropulse/status/2126119408997466389">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664325">https://news.ycombinator.com/item?id=50664325</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
+🔗 **Read more:** [https://twitter.com/RealAstropulse/status/2126119408997466389](https://twitter.com/RealAstropulse/status/2126119408997466389)
 
 ---
 
-### 2. Novita, StreamLake, etc. are ByteDance Ark wrappers
+### 2. The group chat where your AI talks behind your back
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombinator.com/item?id=50660273</a></p>
-<p>Points: 43</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://construct22.com/">https://construct22.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663595">https://news.ycombinator.com/item?id=50663595</a></p>
+<p>Points: 175</p>
+<p># Comments: 68</p>
 
-🔗 **Read more:** [https://kendell.dev/blog/arkwrapper/](https://kendell.dev/blog/arkwrapper/)
+🔗 **Read more:** [https://construct22.com/](https://construct22.com/)
 
 ---
 
-### 3. AI made self-hosting fun again
+### 3. Buy Nothing Day – Friday November 27th 2026
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
-<p>Points: 322</p>
-<p># Comments: 170</p>
+<p>Article URL: <a href="https://www.buynothingday.co.uk/">https://www.buynothingday.co.uk/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663261">https://news.ycombinator.com/item?id=50663261</a></p>
+<p>Points: 63</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
+🔗 **Read more:** [https://www.buynothingday.co.uk/](https://www.buynothingday.co.uk/)
 
 ---
 
-### 4. US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+### 4. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
+Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Huntingdon train attacker found guilty of all 14 counts of attempted murder
+### 5. Watch: Zelensky on Trump and Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
+The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack
+### 6. 'I wouldn't be here today without you': Student's praise for man who stopped train attacker
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.
+Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’
+### 7. South Korea sends rescued fishermen back to North
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.
+Pyongyang has not commented on a seventh fisherman who chose to remain in the South.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss)
 
 ---
 
-### 8. Trump says the US has ‘close to 50%’ of world’s oil
+### 8. India upbeat about first Olympics after ‘very good’ 2036 presentation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil&#039;.
+India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss)
 
 ---
 
-### 9. Clashes halt match as Turkiye football fans raise Palestinian flags
+### 9. Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.
+Authorities said the UN special rapporteur was blocked from entering the country due to &#039;national security&#039; risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss)
 
 ---
 
