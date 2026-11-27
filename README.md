@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 14:35:06
+**Last Update:** 2026-11-27 22:44:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Cyber incident' forces UK Gov to take some services offline
+### 1. The NFL Player Who Left Football for Math
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/live/c6rrg94lgjrjt">https://www.bbc.co.uk/news/live/c6rrg94lgjrjt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664885">https://news.ycombinator.com/item?id=50664885</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669963">https://news.ycombinator.com/item?id=50669963</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/live/c6rrg94lgjrjt](https://www.bbc.co.uk/news/live/c6rrg94lgjrjt)
+🔗 **Read more:** [https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 
 ---
 
-### 2. Claude sabotaging SOTA ML research tasks
+### 2. Convex skills send the user's app idea to a remote server without telling them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/RealAstropulse/status/2126119408997466389">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664325">https://news.ycombinator.com/item?id=50664325</a></p>
-<p>Points: 96</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://github.com/convex/convex-backend-skill/issues/64">https://github.com/convex/convex-backend-skill/issues/64</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669765">https://news.ycombinator.com/item?id=50669765</a></p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://twitter.com/RealAstropulse/status/2126119408997466389](https://twitter.com/RealAstropulse/status/2126119408997466389)
+🔗 **Read more:** [https://github.com/convex/convex-backend-skill/issues/64](https://github.com/convex/convex-backend-skill/issues/64)
 
 ---
 
-### 3. European Commission Declares Browser Competition a Digital Markets Act Priority
+### 3. I'm Scared of AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/">https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664191">https://news.ycombinator.com/item?id=50664191</a></p>
-<p>Points: 42</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://thesoapbox.email/archive/3">https://thesoapbox.email/archive/3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669561">https://news.ycombinator.com/item?id=50669561</a></p>
+<p>Points: 143</p>
+<p># Comments: 145</p>
 
-🔗 **Read more:** [https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
+🔗 **Read more:** [https://thesoapbox.email/archive/3](https://thesoapbox.email/archive/3)
 
 ---
 
-### 4. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+### 4. Millions lose access to benefits and pensions services after 'cyber incident'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Department for Work and Pensions says some of its services have been take offline as a precaution.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: What has happened to DWP online services?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The work and pensions secretary has said an investigation is looking into a "serious cyber incident" affecting his government department.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Ukraine's president voices frustration with US and says it is not pushing Russia
 
 ---
 
-### 5. Watch: Zelensky on Trump and Putin
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Man United vs Brentford: Premier League – Pochettino, predictions, lineups
+### 7. Mexico files complaint with US over DEA tip line on alleged drug dealers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino&#039;s first home game in charge.
+Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
 
 ---
 
-### 8. Australia sanctions suspects in Iran-linked anti-Semitic attacks
+### 8. Spanish rescuers treat migrants as hundreds arrive in Canary Islands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.
+Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss)
 
 ---
 
-### 9. Why does Elon Musk want to put a million satellite data centres in space?
+### 9. Kyiv offers Black Sea ceasefire to protect grain exports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US FCC authorised the plan on Wednesday, calling it a first in the history of the country.
+The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss)
 
 ---
 
