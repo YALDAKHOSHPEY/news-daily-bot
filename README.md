@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 03:52:58
+**Last Update:** 2026-11-27 05:49:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Novita, StreamLake, etc. are ByteDance Ark wrappers
+### 1. AI agents now control part of DeepMind's compute for Gemini experiments
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/">https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50661218">https://news.ycombinator.com/item?id=50661218</a></p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
+
+---
+
+### 2. Novita, StreamLake, etc. are ByteDance Ark wrappers
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombinator.com/item?id=50660273</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 43</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://kendell.dev/blog/arkwrapper/](https://kendell.dev/blog/arkwrapper/)
 
 ---
 
-### 2. AI made self-hosting fun again
+### 3. AI made self-hosting fun again
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
-<p>Points: 212</p>
-<p># Comments: 117</p>
+<p>Points: 322</p>
+<p># Comments: 170</p>
 
 🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
-
----
-
-### 3. Denver man traps Waymo robotaxis with cones, eggs them at least 30 times
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659918">https://news.ycombinator.com/item?id=50659918</a></p>
-<p>Points: 35</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
 
 ---
 
@@ -97,42 +97,42 @@ Now his trial has concluded over the LNER train attack, we can report Anthony Wi
 
 ---
 
-### 7. Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’
+### 7. Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.
+Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss)
 
 ---
 
-### 8. Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag
+### 8. Trump says the US has ‘close to 50%’ of world’s oil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.
+On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers damage Palestinian family’s homes in West Bank attack
+### 9. Clashes halt match as Turkiye football fans raise Palestinian flags
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.
+Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss)
 
 ---
 
