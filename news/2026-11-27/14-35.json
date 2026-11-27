@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-27T14:35:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Cyber incident' forces UK Gov to take some services offline",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/live/c6rrg94lgjrjt\">https://www.bbc.co.uk/news/live/c6rrg94lgjrjt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664885\">https://news.ycombinator.com/item?id=50664885</a></p>\n<p>Points: 12</p>\n<p># Comments: 7</p>",
+            "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+            "published": "Fri, 27 Nov 2026 09:44:37 +0000",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude sabotaging SOTA ML research tasks",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/RealAstropulse/status/2126119408997466389\">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664325\">https://news.ycombinator.com/item?id=50664325</a></p>\n<p>Points: 96</p>\n<p># Comments: 66</p>",
+            "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+            "published": "Fri, 27 Nov 2026 08:28:08 +0000",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+            "description": "<p>Article URL: <a href=\"https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/\">https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664191\">https://news.ycombinator.com/item?id=50664191</a></p>\n<p>Points: 42</p>\n<p># Comments: 14</p>",
+            "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+            "published": "Fri, 27 Nov 2026 08:11:46 +0000",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+            "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 09:07:48 GMT",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Zelensky on Trump and Putin",
+            "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+            "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:06:20 GMT",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
+            "description": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 07:53:24 GMT",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
+            "description": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino&#039;s first home game in charge.",
+            "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 10:48:54 +0000",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+            "description": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 10:31:20 +0000",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why does Elon Musk want to put a million satellite data centres in space?",
+            "description": "The US FCC authorised the plan on Wednesday, calling it a first in the history of the country.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 10:20:17 +0000",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T14:35:06+03:30"
+        }
+    ]
+}

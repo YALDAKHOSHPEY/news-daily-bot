@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 12:45:27
+**Last Update:** 2026-11-27 14:35:06
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude sabotaging SOTA ML research tasks
+### 1. 'Cyber incident' forces UK Gov to take some services offline
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.co.uk/news/live/c6rrg94lgjrjt">https://www.bbc.co.uk/news/live/c6rrg94lgjrjt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664885">https://news.ycombinator.com/item?id=50664885</a></p>
+<p>Points: 12</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/live/c6rrg94lgjrjt](https://www.bbc.co.uk/news/live/c6rrg94lgjrjt)
+
+---
+
+### 2. Claude sabotaging SOTA ML research tasks
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/RealAstropulse/status/2126119408997466389">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664325">https://news.ycombinator.com/item?id=50664325</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 96</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://twitter.com/RealAstropulse/status/2126119408997466389](https://twitter.com/RealAstropulse/status/2126119408997466389)
 
 ---
 
-### 2. The group chat where your AI talks behind your back
+### 3. European Commission Declares Browser Competition a Digital Markets Act Priority
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://construct22.com/">https://construct22.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663595">https://news.ycombinator.com/item?id=50663595</a></p>
-<p>Points: 175</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/">https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50664191">https://news.ycombinator.com/item?id=50664191</a></p>
+<p>Points: 42</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://construct22.com/](https://construct22.com/)
-
----
-
-### 3. Buy Nothing Day – Friday November 27th 2026
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.buynothingday.co.uk/">https://www.buynothingday.co.uk/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50663261">https://news.ycombinator.com/item?id=50663261</a></p>
-<p>Points: 63</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.buynothingday.co.uk/](https://www.buynothingday.co.uk/)
+🔗 **Read more:** [https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/](https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/)
 
 ---
 
@@ -84,7 +84,7 @@ The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be
 
 ---
 
-### 6. 'I wouldn't be here today without you': Student's praise for man who stopped train attacker
+### 6. 'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Astrid credits Stephen Crean with saving her life during the Huntingdon train at
 
 ---
 
-### 7. South Korea sends rescued fishermen back to North
+### 7. Man United vs Brentford: Premier League – Pochettino, predictions, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang has not commented on a seventh fisherman who chose to remain in the South.
+Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino&#039;s first home game in charge.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss)
 
 ---
 
-### 8. India upbeat about first Olympics after ‘very good’ 2036 presentation
+### 8. Australia sanctions suspects in Iran-linked anti-Semitic attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.
+Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss)
 
 ---
 
-### 9. Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’
+### 9. Why does Elon Musk want to put a million satellite data centres in space?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities said the UN special rapporteur was blocked from entering the country due to &#039;national security&#039; risks.
+The US FCC authorised the plan on Wednesday, calling it a first in the history of the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss)
 
 ---
 
