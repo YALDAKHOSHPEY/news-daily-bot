@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 22:44:58
+**Last Update:** 2026-11-27 23:35:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The NFL Player Who Left Football for Math
+### 1. Michael Nielsen took down his book on neural nets
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669963">https://news.ycombinator.com/item?id=50669963</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://twitter.com/michael_nielsen/status/2126359767362748777">https://twitter.com/michael_nielsen/status/2126359767362748777</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50670757">https://news.ycombinator.com/item?id=50670757</a></p>
+<p>Points: 26</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
+🔗 **Read more:** [https://twitter.com/michael_nielsen/status/2126359767362748777](https://twitter.com/michael_nielsen/status/2126359767362748777)
 
 ---
 
-### 2. Convex skills send the user's app idea to a remote server without telling them
+### 2. Euclidean geometry in the asymptotic spectrum of tensors [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50670088">https://news.ycombinator.com/item?id=50670088</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
+
+---
+
+### 3. Convex skills send the user's app idea to a remote server without telling them
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/convex/convex-backend-skill/issues/64">https://github.com/convex/convex-backend-skill/issues/64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669765">https://news.ycombinator.com/item?id=50669765</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
+<p>Points: 73</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/convex/convex-backend-skill/issues/64](https://github.com/convex/convex-backend-skill/issues/64)
-
----
-
-### 3. I'm Scared of AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thesoapbox.email/archive/3">https://thesoapbox.email/archive/3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669561">https://news.ycombinator.com/item?id=50669561</a></p>
-<p>Points: 143</p>
-<p># Comments: 145</p>
-
-🔗 **Read more:** [https://thesoapbox.email/archive/3](https://thesoapbox.email/archive/3)
 
 ---
 
