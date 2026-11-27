@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-27T03:52:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+            "description": "<p>Article URL: <a href=\"https://kendell.dev/blog/arkwrapper/\">https://kendell.dev/blog/arkwrapper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660273\">https://news.ycombinator.com/item?id=50660273</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+            "url": "https://kendell.dev/blog/arkwrapper/",
+            "published": "Thu, 26 Nov 2026 21:59:19 +0000",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI made self-hosting fun again",
+            "description": "<p>Article URL: <a href=\"https://janlukas.blog/posts/ai-self-hosting\">https://janlukas.blog/posts/ai-self-hosting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660180\">https://news.ycombinator.com/item?id=50660180</a></p>\n<p>Points: 212</p>\n<p># Comments: 117</p>",
+            "url": "https://janlukas.blog/posts/ai-self-hosting",
+            "published": "Thu, 26 Nov 2026 21:47:45 +0000",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+            "description": "<p>Article URL: <a href=\"https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/\">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659918\">https://news.ycombinator.com/item?id=50659918</a></p>\n<p>Points: 35</p>\n<p># Comments: 19</p>",
+            "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+            "published": "Thu, 26 Nov 2026 21:16:41 +0000",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+            "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+            "description": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+            "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 19:00:33 GMT",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+            "description": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
+            "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 15:38:38 GMT",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+            "description": "Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+            "description": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
+            "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 23:37:17 +0000",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+            "description": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 23:07:36 +0000",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T03:52:58+03:30"
+        }
+    ]
+}

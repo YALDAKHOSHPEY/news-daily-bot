@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 22:40:46
+**Last Update:** 2026-11-27 03:52:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: How do you find meaning of life at 41?
+### 1. Novita, StreamLake, etc. are ByteDance Ark wrappers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Happy Thanksgiving!<p>This question crossed my mind in the morning. It feels like I have seen pretty much everything under the Sun. I have modest house (still renting), small kids, a okayish job. I spent time on daily activities and occassionally on long walks.<p>The progress with AI and impact on Software is frankly exciting and depressing at the same time.<p>What are people my age doing these days? How do you keep yourself excited for the future and not feel anxious?<p>Curious to see from a bit older people here how are you doing and challenging yourself well into 40s, 50s and 60s.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50657957">https://news.ycombinator.com/item?id=50657957</a></p>
-<p>Points: 23</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombinator.com/item?id=50660273</a></p>
+<p>Points: 20</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50657957](https://news.ycombinator.com/item?id=50657957)
+🔗 **Read more:** [https://kendell.dev/blog/arkwrapper/](https://kendell.dev/blog/arkwrapper/)
 
 ---
 
-### 2. George Whitesides, 1939-2026
+### 2. AI made self-hosting fun again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/blog-post/george-whitesides-1939-2026">https://www.science.org/content/blog-post/george-whitesides-1939-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50657936">https://news.ycombinator.com/item?id=50657936</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
+<p>Points: 212</p>
+<p># Comments: 117</p>
 
-🔗 **Read more:** [https://www.science.org/content/blog-post/george-whitesides-1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
+🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
 
 ---
 
-### 3. CTO of 'RansomwareHelp' Indicted for Wire Fraud
+### 3. Denver man traps Waymo robotaxis with cones, eggs them at least 30 times
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50657645">https://news.ycombinator.com/item?id=50657645</a></p>
-<p>Points: 52</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659918">https://news.ycombinator.com/item?id=50659918</a></p>
+<p>Points: 35</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+🔗 **Read more:** [https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
 
 ---
 
-### 4. Huntingdon train attacker found guilty of all 14 counts of attempted murder
+### 4. US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Huntingdon train attacker found guilty of all 14 counts of attempted murder
 
 **Source:** BBC
 
@@ -69,19 +81,6 @@
 Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: How knife attack on train unfolded
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Video filmed by train passengers and CCTV captures the situation on board as 10 people are injured.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ Now his trial has concluded over the LNER train attack, we can report Anthony Wi
 
 ---
 
-### 7. What will Trump’s latest tariffs mean for the world?
+### 7. Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New measures come after previous trade tariffs ruled illegal.
+Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss)
 
 ---
 
-### 8. Kushner explains the ‘good thing’ about Gaza’s destruction
+### 8. Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.
+Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss)
 
 ---
 
-### 9. Trump calls GDP data released before midterms ‘fake’, demands investigation
+### 9. Israeli settlers damage Palestinian family’s homes in West Bank attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President says it was a deliberate decision to release &#039;fake&#039; growth numbers before US midterm elections.
+The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss)
 
 ---
 
