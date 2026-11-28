@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 22:47:12
+**Last Update:** 2026-11-28 23:54:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 5.0 Earthquake West of LA
+### 1. Gmail "Send as" ends January 2027
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing">https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50681509">https://news.ycombinator.com/item?id=50681509</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing](https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing)
+
+---
+
+### 2. Show HN: I spent $715 on Fable 5.2 tokens to make this painting from code
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://elliotbonneville.com/a-715-painting/">https://elliotbonneville.com/a-715-painting/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50681407">https://news.ycombinator.com/item?id=50681407</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://elliotbonneville.com/a-715-painting/](https://elliotbonneville.com/a-715-painting/)
+
+---
+
+### 3. 5.0 Earthquake West of LA
 
 **Source:** Hacker News
 
@@ -19,46 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive">https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50680175">https://news.ycombinator.com/item?id=50680175</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
+<p>Points: 63</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive](https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive)
 
 ---
 
-### 2. Donald Knuth suspends error bounties due to an influx of AI-generated reports
+### 4. DWP confirms confirms cyber attack forced it to take pension and benefits systems offline
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://cs.stanford.edu/~knuth/moratorium.html">https://cs.stanford.edu/~knuth/moratorium.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50680168">https://news.ycombinator.com/item?id=50680168</a></p>
-<p>Points: 190</p>
-<p># Comments: 30</p>
+Work and Pensions Secretary Pat McFadden says services would be restored as soon as possible but could not confirm when that may be.
 
-🔗 **Read more:** [https://cs.stanford.edu/~knuth/moratorium.html](https://cs.stanford.edu/~knuth/moratorium.html)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyeqd14d7qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyeqd14d7qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Patrick Collison you are WRONG about street furniture!!!
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture">https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50680129">https://news.ycombinator.com/item?id=50680129</a></p>
-<p>Points: 54</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture](https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture)
-
----
-
-### 4. Argentina's bid to stop Falklands oil drilling rejected
+### 5. Argentina's bid to stop Falklands oil drilling rejected
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ A joint venture between UK-Israeli companies is set to start exploring for oil a
 
 ---
 
-### 5. Burnham's No 10 influencer row shows reach matters - but so does scrutiny
+### 6. Burnham's No 10 influencer row shows reach matters - but so does scrutiny
 
 **Source:** BBC
 
@@ -84,33 +97,33 @@ Prime ministers have always chased audiences - but does the backlash over Max Ba
 
 ---
 
-### 6. Dozens killed in Myanmar military strikes on wedding venue and school
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Israel’s Eisenkot offers immediate talks with Netanyahu to test seriousness
+### 7. Former minister arrested in Paraguay’s latest Ueno Bank failure fallout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saturday night&#039;s offer comes after Netanyahu proposed rotating rotating the prime minister&#039;s office with Eisenkot.
+A former economy minister has been detained, accused of financial crimes linked to Paraguay&#039;s collapsed Ueno Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/former-minister-arrested-in-paraguays-latest-ueno-bank-failure?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/former-minister-arrested-in-paraguays-latest-ueno-bank-failure?traffic_source=rss)
+
+---
+
+### 8. Netanyahu offers to rotate Israeli premiership with Gadi Eisenkot
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Prime Ministerial hopeful Eisenkot and caretaker leader Netanyahu agree to meet for coalition talks on Sunday.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/israels-eisenkot-offers-immediate-talks-with-netanyahu-to-test-seriousness?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/israels-eisenkot-offers-immediate-talks-with-netanyahu-to-test-seriousness?traffic_source=rss)
 
 ---
 
-### 8. US civil rights group challenges ICE subpoenas as attack on speech
+### 9. US civil rights group challenges ICE subpoenas as attack on speech
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Saturday night&#039;s offer comes after Netanyahu proposed rotating rotating the
 The ACLU lawsuit claims subpoenas violate First Amendment rights by targeting anonymous dissenters of ICE policies.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/us-civil-rights-group-challenges-ice-subpoenas-as-attack-on-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/us-civil-rights-group-challenges-ice-subpoenas-as-attack-on-speech?traffic_source=rss)
-
----
-
-### 9. Russia and Ukraine strike energy infrastructure, as attacks kill 10
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Russia-Ukraine attacks have become more regular and hybrid, as the fifth anniversary of invasion approaches.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss)
 
 ---
 
