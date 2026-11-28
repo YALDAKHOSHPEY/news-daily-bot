@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 05:51:16
+**Last Update:** 2026-11-28 06:20:55
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Woman evicted after landlord's AI assistant told her she could delay rent
+### 1. Atari Homebrew Awards Cancelled
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673688">https://news.ycombinator.com/item?id=50673688</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
+
+---
+
+### 2. Woman evicted after landlord's AI assistant told her she could delay rent
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673521">https://news.ycombinator.com/item?id=50673521</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 52</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 
 ---
 
-### 2. Alaska seized his plane over some beers. He is asking the Supreme Court for help
+### 3. Alaska seized his plane over some beers. He is asking the Supreme Court for help
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673444">https://news.ycombinator.com/item?id=50673444</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Points: 35</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
-
----
-
-### 3. Passkey blues
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ssg.dev/passkey-blues/">https://ssg.dev/passkey-blues/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672835">https://news.ycombinator.com/item?id=50672835</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://ssg.dev/passkey-blues/](https://ssg.dev/passkey-blues/)
 
 ---
 
@@ -71,20 +71,7 @@ The Department for Work and Pensions says some of its services were taken offlin
 
 ---
 
-### 5. Watch: What has happened to DWP online services?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The work and pensions secretary has said an investigation is looking into a "serious cyber incident" affecting his government department.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Catherine's emotional cancer documentary strips away the stiff upper lip
+### 5. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Princess of Wales has made a documentary, Heal, describing her cancer experi
 
 ---
 
-### 7. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
+### 6. 'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.
+Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Francesca Albanese seeks apology from Costa Rica after entry ban
+### 7. Hunted beyond borders: Allegations of Tanzanian repression in Kenya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.
+The case of a missing activist raises fears for the safety of Tanzanian dissidents.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
+### 8. Taiwan votes in local elections to choose mayors, other leaders
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.
+Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss)
+
+---
+
+### 9. Israel kills two MSF staff in targeted strike on Gaza clinic
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss)
 
 ---
 

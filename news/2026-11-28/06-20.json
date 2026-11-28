@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T06:20:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Atari Homebrew Awards Cancelled",
+            "description": "<p>Article URL: <a href=\"https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/\">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50673688\">https://news.ycombinator.com/item?id=50673688</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+            "published": "Sat, 28 Nov 2026 02:03:25 +0000",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+            "description": "<p>Article URL: <a href=\"https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai\">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50673521\">https://news.ycombinator.com/item?id=50673521</a></p>\n<p>Points: 52</p>\n<p># Comments: 42</p>",
+            "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+            "published": "Sat, 28 Nov 2026 01:32:56 +0000",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/\">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50673444\">https://news.ycombinator.com/item?id=50673444</a></p>\n<p>Points: 35</p>\n<p># Comments: 15</p>",
+            "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+            "published": "Sat, 28 Nov 2026 01:20:16 +0000",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+            "description": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 20:42:44 GMT",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+            "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+            "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 22:03:22 GMT",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+            "description": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+            "url": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 17:47:14 GMT",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+            "description": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 02:08:11 +0000",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Taiwan votes in local elections to choose mayors, other leaders",
+            "description": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 02:05:27 +0000",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+            "description": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 01:55:03 +0000",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T06:20:55+03:30"
+        }
+    ]
+}
