@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 23:35:47
+**Last Update:** 2026-11-28 05:51:16
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Michael Nielsen took down his book on neural nets
+### 1. Woman evicted after landlord's AI assistant told her she could delay rent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/michael_nielsen/status/2126359767362748777">https://twitter.com/michael_nielsen/status/2126359767362748777</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50670757">https://news.ycombinator.com/item?id=50670757</a></p>
+<p>Article URL: <a href="https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673521">https://news.ycombinator.com/item?id=50673521</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
+
+---
+
+### 2. Alaska seized his plane over some beers. He is asking the Supreme Court for help
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673444">https://news.ycombinator.com/item?id=50673444</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+
+---
+
+### 3. Passkey blues
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ssg.dev/passkey-blues/">https://ssg.dev/passkey-blues/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672835">https://news.ycombinator.com/item?id=50672835</a></p>
 <p>Points: 26</p>
-<p># Comments: 9</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://twitter.com/michael_nielsen/status/2126359767362748777](https://twitter.com/michael_nielsen/status/2126359767362748777)
-
----
-
-### 2. Euclidean geometry in the asymptotic spectrum of tensors [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50670088">https://news.ycombinator.com/item?id=50670088</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
-
----
-
-### 3. Convex skills send the user's app idea to a remote server without telling them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/convex/convex-backend-skill/issues/64">https://github.com/convex/convex-backend-skill/issues/64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669765">https://news.ycombinator.com/item?id=50669765</a></p>
-<p>Points: 73</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://github.com/convex/convex-backend-skill/issues/64](https://github.com/convex/convex-backend-skill/issues/64)
+🔗 **Read more:** [https://ssg.dev/passkey-blues/](https://ssg.dev/passkey-blues/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The Department for Work and Pensions says some of its services have been take offline as a precaution.
+The Department for Work and Pensions says some of its services were taken offline as a precaution.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ The work and pensions secretary has said an investigation is looking into a "ser
 
 ---
 
-### 6. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+### 6. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
+The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mexico files complaint with US over DEA tip line on alleged drug dealers
+### 7. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
+Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss)
 
 ---
 
-### 8. Spanish rescuers treat migrants as hundreds arrive in Canary Islands
+### 8. Francesca Albanese seeks apology from Costa Rica after entry ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro
+UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss)
 
 ---
 
-### 9. Kyiv offers Black Sea ceasefire to protect grain exports
+### 9. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.
+Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss)
 
 ---
 
