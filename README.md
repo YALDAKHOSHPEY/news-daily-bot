@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 14:35:19
+**Last Update:** 2026-11-28 15:33:46
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Fleetlayer – Framework for running many AI agents on multiple machines
+### 1. Farewell
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/p-e-w/heretic/issues/601">https://github.com/p-e-w/heretic/issues/601</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50676672">https://news.ycombinator.com/item?id=50676672</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/p-e-w/heretic/issues/601](https://github.com/p-e-w/heretic/issues/601)
+
+---
+
+### 2. Show HN: Fleetlayer – Framework for running many AI agents on multiple machines
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.)<p>Running so many different accounts meant that I couldn't use claude.ai artifacts anymore, because the browser has to be signed in to the same account in order to access them. It's a pain to keep signing in and out of accounts. This also broke the Claude in Chrome extension because that can also only be signed into a single account.<p>Then I needed to manage AI agents that run on my laptop, a VM on my laptop, and multiple VMs on my home server. Claude Code has a messaging feature which is very useful, but agents can't see each other when they run on different machines. The Claude in Chrome extension only works for agents running on the same machine, so my remote agents couldn't help me with anything in the browser. It's really handy when they can access services that I'm already signed into.<p>I set out to solve all of these problems and I ended up building Fleetlayer. It's a control plane and a node binary that you run on all your machines and VMs to connect them all together. It connects to Herdr (and other session managers soon), and it makes it possible for all your AI agents to message each other and access tools and resources on other machines (with permission.)<p>It has a lot more features too: routing webhooks to agents, single sign-on, access rules, approvals, audit logs, remote terminals, remote browser sharing, centralized AI account sign-ins, session summaries, secrets management, and pages and apps (our own self-hosted version of claude.ai artifacts).<p>A few ways to think of it:<p>- The "Nextcloud" of claude.ai features (your own self-hosted artifacts, remote control, browser use, etc.)<p>- The "Arch Linux" of OpenClaw (build your own agentic systems from swappable components and plugins)<p>You can run everything on your laptop to try it out, then easily move any component to a different machine. If you want to build a proper production-grade home server to run many AI agents, Rust builds, and CI runners, I've also open sourced my own setup as a boilerplate IaC example repo. You just need to install Proxmox and then point your AI agent at the guide [1].<p>I'd be interested to know if anyone else would find Fleetlayer useful. Please let me know if you have any feature requests!<p>[1] <a href="https://fleetlayer.ai/docs/guides/server-setup/" rel="nofollow">https://fleetlayer.ai/docs/guides/server-setup/</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50675831">https://news.ycombinator.com/item?id=50675831</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://fleetlayer.ai/](https://fleetlayer.ai/)
 
 ---
 
-### 2. FastLanes: Next-gen File Format [pdf]
+### 3. FastLanes: Next-gen File Format [pdf]
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf">https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50675195">https://news.ycombinator.com/item?id=50675195</a></p>
-<p>Points: 17</p>
+<p>Points: 20</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
-
----
-
-### 3. Knuth: Moratorium on Error Reports
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www-cs-faculty.stanford.edu/~knuth/moratorium.html">https://www-cs-faculty.stanford.edu/~knuth/moratorium.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674452">https://news.ycombinator.com/item?id=50674452</a></p>
-<p>Points: 124</p>
-<p># Comments: 57</p>
-
-🔗 **Read more:** [https://www-cs-faculty.stanford.edu/~knuth/moratorium.html](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
 
 ---
 
@@ -98,42 +98,42 @@ The Israeli military says it targeted "Hamas terrorists" in the strike which has
 
 ---
 
-### 7. Two visions of Spain collide as voters weigh PM Sanchez’s record
+### 7. India fumble chances as New Zealand finish day two on top in Christchurch
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.
+India limp to 116-6 at stumps on day two of the second Test, in reply to the Black Caps&#039; first innings 356.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss)
 
 ---
 
-### 8. Why is Trump backing Iraq’s anti-smuggling campaign?
+### 8. Security tries to remove Palestinian flag at Selfridges on Black Friday
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Baghdad&#039;s push to seize control of smuggling routes, border crossings and oilfields has Washington&#039;s support.
+Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss)
 
 ---
 
-### 9. Several students killed in blast beside Afghan school
+### 9. Israel unity government talks stall: What happens now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.
+Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss)
 
 ---
 
